@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>모의고사 진행 중 – WooaGosa</title>
+  <meta name="robots" content="noindex">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#1a3a5c">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <style>
+    /* 사이드바 내부에서 exam-body 여백 조정 */
+    .gosa-main .exam-body {
+      max-width: none;
+      margin: 0;
+      padding: 1.5rem 0;
+    }
+    /* exam-header는 기존 sticky 헤더 위에 고정 */
+    .tool-sidebar { top: 120px; } /* exam-header(~56px) + progress-bar(4px) + 여백 */
+  </style>
+</head>
+<body>
+
+<!-- Exam Header (타이머/진행 상황) -->
+<header class="exam-header">
+  <div class="exam-header-inner">
+    <a href="index.html" class="logo" style="color:#fff;font-size:1rem;">
+      <span>🚗</span> WooaGosa
+    </a>
+    <span class="exam-title" id="exam-title">모의고사</span>
+    <span class="exam-progress-text" id="exam-progress">1 / 40</span>
+    <span class="timer" id="timer">50:00</span>
+  </div>
+</header>
+
+<!-- WooaHouse Family Bar -->
+<div class="our-sites-bar">
+  <div class="our-sites-inner">
+  <span class="our-sites-label">🏠 우아하우스 패밀리 사이트 · 도구모음</span>
+  <div class="our-sites-links">
+    <a href="https://wooahouse.com/" target="_blank" rel="noopener">🔗 WooaHouse</a>
+    <a href="https://pdfkit.wooahouse.com/" target="_blank" rel="noopener">📄 WooaPDF</a>
+    <a href="https://imagekit.wooahouse.com/" target="_blank" rel="noopener">🖼️ WooaImage</a>
+    <a href="https://colorkit.wooahouse.com/" target="_blank" rel="noopener">🎨 WooaColor</a>
+    <a href="https://textkit.wooahouse.com/" target="_blank" rel="noopener">✏️ WooaText</a>
+    <a href="https://qrkit.wooahouse.com/" target="_blank" rel="noopener">📱 WooaQR</a>
+    <a href="https://calckit.wooahouse.com/" target="_blank" rel="noopener">🧮 WooaCalc</a>
+    <a href="https://fontkit.wooahouse.com/" target="_blank" rel="noopener">🔤 WooaFont</a>
+    <a href="https://mactools.wooahouse.com/" target="_blank" rel="noopener">🍎 WooaMac</a>
+    <a href="https://pctools.wooahouse.com/" target="_blank" rel="noopener">🖥️ WooaPC</a>
+    <a href="https://vskit.wooahouse.com/" target="_blank" rel="noopener">💻 WooaVS</a>
+    <a href="https://wooaaudio.wooahouse.com/" target="_blank" rel="noopener">🎵 WooaAudio</a>
+    <a href="https://wooavideo.wooahouse.com/" target="_blank" rel="noopener">🎬 WooaVideo</a>
+    <a href="https://wooaviewer.wooahouse.com/" target="_blank" rel="noopener">🔍 WooaViewer</a>
+    <a href="https://wooadev.wooahouse.com/" target="_blank" rel="noopener">🛠️ WooaDev</a>
+    <a href="https://wooaocr.wooahouse.com/" target="_blank" rel="noopener">🔍 WooaOCR</a>
+    <a href="https://wooasheet.wooahouse.com/" target="_blank" rel="noopener">📊 WooaSheet</a>
+    <a href="https://wooaseo.wooahouse.com/" target="_blank" rel="noopener">🔎 WooaSEO</a>
+    <a href="https://gosa.wooahouse.com/" class="active">📝 WooaGosa</a>
+  </div>
+  </div>
+</div>
+
+<div class="progress-bar-wrap">
+  <div class="progress-bar" id="progress-bar" style="width:2.5%"></div>
+</div>
+
+<main>
+
+  <!-- 모바일 상단 광고 -->
+  <div class="mobile-top-ad">
+    <ins class="adsbygoogle"
+         style="display:block;width:100%;height:80px"
+         data-ad-client="ca-pub-6464921081676309"
+         data-ad-slot="7080296704"
+         data-ad-format="auto"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
+  <div class="page-with-sidebar">
+
+    <!-- ── 문제 콘텐츠 ── -->
+    <div class="gosa-main">
+      <div class="exam-body">
+        <!-- 로딩 -->
+        <div id="question-area" style="text-align:center;padding:3rem 0;color:var(--text-mid);">
+          <div style="font-size:2rem;margin-bottom:.75rem;">⏳</div>
+          문제를 불러오는 중...
+        </div>
+      </div>
+    </div>
+
+    <!-- ── 오른쪽 사이드바 ── -->
+    <aside class="tool-sidebar">
+      <div class="ad-card">
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:250px"
+             data-ad-client="ca-pub-6464921081676309"
+             data-ad-slot="1419180025"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+      <div class="ad-card">
+        <script src="https://ads-partners.coupang.com/g.js"></script>
+        <script>
+          new PartnersCoupang.G({"id":974224,"trackingCode":"AF5600192","subId":null,"template":"carousel","width":"300","height":"250"});
+        </script>
+      </div>
+    </aside>
+
+  </div><!-- /.page-with-sidebar -->
+
+</main>
+
+<script src="js/sites-bar.js"></script>
+<script src="js/db.js"></script>
+<script src="js/exam.js"></script>
+</body>
+</html>

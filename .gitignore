@@ -1,0 +1,18 @@
+# 원본 PDF 문제은행 (용량 초과 - GitHub 100MB 제한)
+문제지/
+
+# 디버그·파싱 출력 파일
+debug_lines.txt
+edge_out.txt
+inspect_out.txt
+inspect_out2.txt
+data/*_verify.txt
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db

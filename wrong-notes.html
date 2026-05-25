@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>오답 노트 – WooaGosa</title>
+  <meta name="robots" content="noindex">
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#1a3a5c">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- AdSense -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+  <style>
+    .wrong-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-sm);
+      padding: 1.25rem;
+      margin-bottom: .75rem;
+    }
+    .wrong-card-header {
+      display: flex;
+      align-items: flex-start;
+      gap: .75rem;
+      margin-bottom: .75rem;
+    }
+    .wrong-count-badge {
+      background: var(--red);
+      color: #fff;
+      font-size: .75rem;
+      font-weight: 700;
+      padding: .2rem .55rem;
+      border-radius: 99px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .wrong-q-text { font-weight: 600; font-size: .95rem; flex: 1; }
+    .wrong-choices { display: flex; flex-direction: column; gap: .3rem; margin-bottom: .75rem; }
+    .wc-row { font-size: .88rem; padding: .3rem .5rem; border-radius: 4px; }
+    .wc-row.correct { background: #dcfce7; color: #166534; }
+    .wrong-explain { font-size: .82rem; color: var(--text-mid); border-top: 1px solid var(--border); padding-top: .6rem; }
+
+    .empty-state {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--text-mid);
+    }
+    .empty-state .icon { font-size: 3rem; margin-bottom: 1rem; }
+  </style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="index.html" class="logo">
+      <span class="logo-icon">🚗</span>
+      Wooa<span>Gosa</span>
+    </a>
+    <nav class="header-nav">
+      <a href="index.html">홈</a>
+      <a href="wrong-notes.html" class="active">오답노트</a>
+    </nav>
+  </div>
+</header>
+
+<!-- WooaHouse Family Bar -->
+<div class="our-sites-bar">
+  <div class="our-sites-inner">
+  <span class="our-sites-label">🏠 우아하우스 패밀리 사이트 · 도구모음</span>
+  <div class="our-sites-links">
+    <a href="https://wooahouse.com/" target="_blank" rel="noopener">🔗 WooaHouse</a>
+    <a href="https://pdfkit.wooahouse.com/" target="_blank" rel="noopener">📄 WooaPDF</a>
+    <a href="https://imagekit.wooahouse.com/" target="_blank" rel="noopener">🖼️ WooaImage</a>
+    <a href="https://colorkit.wooahouse.com/" target="_blank" rel="noopener">🎨 WooaColor</a>
+    <a href="https://textkit.wooahouse.com/" target="_blank" rel="noopener">✏️ WooaText</a>
+    <a href="https://qrkit.wooahouse.com/" target="_blank" rel="noopener">📱 WooaQR</a>
+    <a href="https://calckit.wooahouse.com/" target="_blank" rel="noopener">🧮 WooaCalc</a>
+    <a href="https://fontkit.wooahouse.com/" target="_blank" rel="noopener">🔤 WooaFont</a>
+    <a href="https://mactools.wooahouse.com/" target="_blank" rel="noopener">🍎 WooaMac</a>
+    <a href="https://pctools.wooahouse.com/" target="_blank" rel="noopener">🖥️ WooaPC</a>
+    <a href="https://vskit.wooahouse.com/" target="_blank" rel="noopener">💻 WooaVS</a>
+    <a href="https://wooaaudio.wooahouse.com/" target="_blank" rel="noopener">🎵 WooaAudio</a>
+    <a href="https://wooavideo.wooahouse.com/" target="_blank" rel="noopener">🎬 WooaVideo</a>
+    <a href="https://wooaviewer.wooahouse.com/" target="_blank" rel="noopener">🔍 WooaViewer</a>
+    <a href="https://wooadev.wooahouse.com/" target="_blank" rel="noopener">🛠️ WooaDev</a>
+    <a href="https://wooaocr.wooahouse.com/" target="_blank" rel="noopener">🔍 WooaOCR</a>
+    <a href="https://wooasheet.wooahouse.com/" target="_blank" rel="noopener">📊 WooaSheet</a>
+    <a href="https://wooaseo.wooahouse.com/" target="_blank" rel="noopener">🔎 WooaSEO</a>
+    <a href="https://gosa.wooahouse.com/" class="active">📝 WooaGosa</a>
+  </div>
+  </div>
+</div>
+
+<main>
+
+  <!-- 모바일 상단 광고 -->
+  <div class="mobile-top-ad">
+    <ins class="adsbygoogle"
+         style="display:block;width:100%;height:80px"
+         data-ad-client="ca-pub-6464921081676309"
+         data-ad-slot="7080296704"
+         data-ad-format="auto"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+
+  <div class="page-with-sidebar">
+
+    <!-- ── 메인 콘텐츠 ── -->
+    <div class="gosa-main">
+
+      <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;margin-bottom:1.5rem;">
+        <h1 class="section-title" style="margin:0;">📖 오답 노트</h1>
+        <button class="btn btn-danger" onclick="confirmClear()" id="clear-btn" style="display:none;">전체 초기화</button>
+      </div>
+
+      <!-- 필터 -->
+      <div class="wrong-filter" id="filter-bar">
+        <button class="filter-btn active" data-filter="all" onclick="applyFilter('all',this)">전체</button>
+        <button class="filter-btn" data-filter="license12" onclick="applyFilter('license12',this)">1·2종 면허</button>
+        <button class="filter-btn" data-filter="motorcycle" onclick="applyFilter('motorcycle',this)">이륜·원동기</button>
+      </div>
+
+      <!-- 통계 바 -->
+      <div id="stats-bar" style="margin-bottom:1.5rem;display:none;">
+        <div style="display:flex;gap:1rem;flex-wrap:wrap;">
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-total" style="color:var(--navy);">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">전체 오답</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-l12" style="color:var(--blue);">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">1·2종</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-moto" style="color:var(--navy);">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">이륜·원동기</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 오답 집중 시작 버튼 -->
+      <div id="start-wrong-wrap" style="margin-bottom:1.5rem;display:none;">
+        <a href="exam.html?type=1jong-botong&mode=wrong&label=1%C2%B72%EC%A2%85+%EB%A9%B4%ED%97%88" class="btn btn-primary" id="start-wrong-btn">🔁 오답 집중 시험 시작</a>
+      </div>
+
+      <!-- 오답 목록 -->
+      <div id="wrong-list"></div>
+
+    </div><!-- /.gosa-main -->
+
+    <!-- ── 오른쪽 사이드바 ── -->
+    <aside class="tool-sidebar">
+      <div class="ad-card">
+        <ins class="adsbygoogle"
+             style="display:block;width:100%;min-height:250px"
+             data-ad-client="ca-pub-6464921081676309"
+             data-ad-slot="1419180025"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+      </div>
+      <div class="ad-card">
+        <script src="https://ads-partners.coupang.com/g.js"></script>
+        <script>
+          new PartnersCoupang.G({"id":974224,"trackingCode":"AF5600192","subId":null,"template":"carousel","width":"300","height":"250"});
+        </script>
+      </div>
+    </aside>
+
+  </div><!-- /.page-with-sidebar -->
+
+</main>
+
+<footer class="site-footer">
+  <p>© 2026 WooaGosa · <a href="https://wooahouse.com" target="_blank">WooaHouse</a></p>
+</footer>
+
+<script src="js/sites-bar.js"></script>
+<script src="js/db.js"></script>
+<script>
+  let allData   = {};  // { 'license12': [questions...], 'motorcycle': [questions...] }
+  let wrongList = [];
+  let currentFilter = 'all';
+
+  const FILE_URLS = {
+    license12:  'data/license_1_2.json',
+    motorcycle: 'data/motorcycle.json',
+  };
+
+  window.addEventListener('DOMContentLoaded', async () => {
+    wrongList = getWrongList();
+    if (wrongList.length === 0) {
+      renderEmpty();
+      return;
+    }
+
+    // 필요한 파일만 로드
+    const filesNeeded = new Set(wrongList.map(w => w.file));
+    await Promise.all([...filesNeeded].map(async f => {
+      const res = await fetch(FILE_URLS[f]);
+      const qs  = await res.json();
+      allData[f] = Object.fromEntries(qs.map(q => [q.id, q]));
+    }));
+
+    updateStats();
+    renderList('all');
+
+    document.getElementById('clear-btn').style.display = 'inline-flex';
+    document.getElementById('stats-bar').style.display  = 'block';
+    document.getElementById('start-wrong-wrap').style.display = 'block';
+  });
+
+  function updateStats() {
+    const stats = getWrongStats();
+    document.getElementById('st-total').textContent = stats.total;
+    document.getElementById('st-l12').textContent   = stats.license12;
+    document.getElementById('st-moto').textContent  = stats.motorcycle;
+  }
+
+  function applyFilter(filter, el) {
+    currentFilter = filter;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    el.classList.add('active');
+    renderList(filter);
+    // 오답집중 버튼 업데이트
+    const btn = document.getElementById('start-wrong-btn');
+    const type = filter === 'motorcycle' ? 'motorcycle' : '1jong-botong';
+    const label = filter === 'motorcycle' ? '이륜·원동기' : '1·2종 면허';
+    btn.href = `exam.html?type=${type}&mode=wrong&label=${encodeURIComponent(label)}`;
+  }
+
+  function renderList(filter) {
+    const items = filter === 'all'
+      ? wrongList
+      : wrongList.filter(w => w.file === filter);
+
+    const container = document.getElementById('wrong-list');
+    if (items.length === 0) {
+      container.innerHTML = '<p style="color:var(--text-lt);text-align:center;padding:2rem 0;">해당 유형의 오답이 없습니다.</p>';
+      return;
+    }
+
+    let html = '';
+    let rendered = 0;
+    for (const item of items) {
+      const q = (allData[item.file] || {})[item.qId];
+      if (!q) continue;
+      if (rendered > 0 && rendered % 5 === 0) {
+        html += `<div class="mobile-inline-ad ad-slot-mid"></div>`;
+      }
+      html += renderWrongCard(q, item);
+      rendered++;
+    }
+    container.innerHTML = html;
+
+    // 모바일 인라인 광고 초기화 (5문제마다)
+    container.querySelectorAll('.ad-slot-mid').forEach(el => {
+      const ins = document.createElement('ins');
+      ins.className = 'adsbygoogle';
+      ins.style.display = 'block';
+      ins.setAttribute('data-ad-client', 'ca-pub-6464921081676309');
+      ins.setAttribute('data-ad-slot', '7080296704');
+      ins.setAttribute('data-ad-format', 'auto');
+      ins.setAttribute('data-full-width-responsive', 'true');
+      el.appendChild(ins);
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    });
+  }
+
+  function renderWrongCard(q, item) {
+    const fileLabel = item.file === 'motorcycle' ? '이륜·원동기' : '1·2종';
+    let html = `<div class="wrong-card">
+      <div class="wrong-card-header">
+        <span class="wrong-count-badge">${item.count}회 오답</span>
+        <span class="wrong-q-text">Q${q.id}. ${esc(q.question)}</span>
+      </div>`;
+
+    if (q.situation) {
+      html += `<div class="situation-box" style="margin-bottom:.75rem;">📍 ${esc(q.situation)}</div>`;
+    }
+
+    html += `<div class="wrong-choices">`;
+    for (const [numStr, text] of Object.entries(q.choices)) {
+      const num = parseInt(numStr);
+      const isCorrect = q.answers.includes(num);
+      html += `<div class="wc-row ${isCorrect ? 'correct' : ''}">
+        ${isCorrect ? '✅' : '　'} ${num}. ${esc(text)}
+      </div>`;
+    }
+    html += `</div>`;
+    html += `<div class="wrong-explain">💡 ${esc(q.explanation)}</div>
+    </div>`;
+    return html;
+  }
+
+  function renderEmpty() {
+    document.getElementById('wrong-list').innerHTML = `
+      <div class="empty-state">
+        <div class="icon">📭</div>
+        <p style="font-size:1.1rem;font-weight:700;color:var(--text);margin-bottom:.5rem;">오답 노트가 비어 있습니다</p>
+        <p>모의고사를 풀면 틀린 문제가 여기에 쌓입니다.</p>
+        <a href="index.html" class="btn btn-primary" style="margin-top:1.5rem;">모의고사 시작하기</a>
+      </div>`;
+    document.getElementById('filter-bar').style.display = 'none';
+  }
+
+  function confirmClear() {
+    if (confirm('오답 노트를 전부 삭제하시겠습니까?\n이 작업은 되돌릴 수 없습니다.')) {
+      clearAllWrong();
+      location.reload();
+    }
+  }
+
+  function esc(str) {
+    if (!str) return '';
+    return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
+</body>
+</html>

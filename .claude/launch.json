@@ -1,0 +1,11 @@
+﻿{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "wooagosa",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "7842", "--directory", "C:/개인/wooahouse/wooaGosa"],
+      "port": 7842
+    }
+  ]
+}
