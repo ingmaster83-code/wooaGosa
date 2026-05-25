@@ -11,11 +11,6 @@
 const params  = new URLSearchParams(location.search);
 const TYPE    = params.get('type')  || 'license12';
 const MODE    = params.get('mode')  || 'random';
-const DEFAULT_COUNT = {
-  'history_basic': 50, 'history_advanced': 50,
-  'computer_1': 60, 'computer_2': 40,
-};
-const COUNT   = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
 const FILE = (() => {
   if (TYPE === 'motorcycle' || TYPE === 'motorbike') return 'motorcycle';
@@ -23,8 +18,29 @@ const FILE = (() => {
   if (TYPE === 'history_advanced') return 'history_advanced';
   if (TYPE === 'computer_1')       return 'computer_1';
   if (TYPE === 'computer_2')       return 'computer_2';
+  if (TYPE === 'net_1')            return 'net_1';
+  if (TYPE === 'net_2')            return 'net_2';
+  if (TYPE === 'linux_1')          return 'linux_1';
+  if (TYPE === 'linux_2')          return 'linux_2';
+  if (TYPE === 'word')             return 'word';
+  if (TYPE === 'elec_eng')         return 'elec_eng';
+  if (TYPE === 'elec_ind')         return 'elec_ind';
+  if (TYPE === 'info_proc')        return 'info_proc';
+  if (TYPE === 'info_ind')         return 'info_ind';
+  if (TYPE === 'info_sec')         return 'info_sec';
   return 'license12';
 })();
+
+const DEFAULT_COUNT = {
+  'history_basic': 50, 'history_advanced': 50,
+  'computer_1': 60, 'computer_2': 40,
+  'net_1': 60, 'net_2': 50,
+  'linux_1': 100, 'linux_2': 80,
+  'word': 60,
+  'elec_eng': 100, 'elec_ind': 100,
+  'info_proc': 100, 'info_ind': 100, 'info_sec': 100,
+};
+const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
 const DATA_URL_MAP = {
   'license12':        'data/license_1_2.json',
@@ -33,6 +49,16 @@ const DATA_URL_MAP = {
   'history_advanced': 'data/history_advanced.json',
   'computer_1':       'data/computer_1.json',
   'computer_2':       'data/computer_2.json',
+  'net_1':            'data/net_1.json',
+  'net_2':            'data/net_2.json',
+  'linux_1':          'data/linux_1.json',
+  'linux_2':          'data/linux_2.json',
+  'word':             'data/word.json',
+  'elec_eng':         'data/elec_eng.json',
+  'elec_ind':         'data/elec_ind.json',
+  'info_proc':        'data/info_proc.json',
+  'info_ind':         'data/info_ind.json',
+  'info_sec':         'data/info_sec.json',
 };
 const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
 
@@ -48,6 +74,16 @@ const TYPE_LABELS = {
   'history_advanced':  '한국사 심화',
   'computer_1':        '컴퓨터활용능력 1급',
   'computer_2':        '컴퓨터활용능력 2급',
+  'net_1':             '네트워크관리사 1급',
+  'net_2':             '네트워크관리사 2급',
+  'linux_1':           '리눅스마스터 1급',
+  'linux_2':           '리눅스마스터 2급',
+  'word':              '워드프로세서',
+  'elec_eng':          '전기기사',
+  'elec_ind':          '전기산업기사',
+  'info_proc':         '정보처리기사',
+  'info_ind':          '정보처리산업기사',
+  'info_sec':          '정보보안기사',
 };
 const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
 
@@ -83,6 +119,12 @@ window.addEventListener('DOMContentLoaded', async () => {
       'history_basic': '📜', 'history_advanced': '📜',
       'motorcycle': '🏍', 'motorbike': '🛵',
       'computer_1': '💻', 'computer_2': '💻',
+      'net_1': '🌐', 'net_2': '🌐',
+      'linux_1': '🐧', 'linux_2': '🐧',
+      'word': '📝',
+      'elec_eng': '⚡', 'elec_ind': '⚡',
+      'info_proc': '🖥️', 'info_ind': '🖥️',
+      'info_sec': '🔒',
     };
     logoIcon.textContent = ICONS[TYPE] || '🚗';
   }
@@ -119,12 +161,21 @@ function buildExam() {
   }
 
   userAnswers = examQuestions.map(() => ({ selected: [], submitted: false, correct: false }));
-  // 한국사: 기본 70분, 심화 80분 / 컴활: 1급 60분, 2급 40분 / 운전면허: 문제당 75초
   const FULL_TIME = {
     'history_basic':    70 * 60,
     'history_advanced': 80 * 60,
     'computer_1':       60 * 60,
     'computer_2':       40 * 60,
+    'net_1':            60 * 60,
+    'net_2':            60 * 60,
+    'linux_1':         100 * 60,
+    'linux_2':          80 * 60,
+    'word':             60 * 60,
+    'elec_eng':        150 * 60,
+    'elec_ind':        150 * 60,
+    'info_proc':       120 * 60,
+    'info_ind':        120 * 60,
+    'info_sec':        120 * 60,
   };
   secondsLeft = MODE === 'sequential'
     ? examQuestions.length * 96

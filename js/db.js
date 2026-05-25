@@ -59,14 +59,25 @@ function getWrongList() {
 function getWrongStats() {
   const db = loadDB();
   const items = Object.values(db).filter(v => v.count > 0);
+  const cnt = key => items.filter(v => v.file === key).length;
   return {
     total:            items.length,
-    license12:        items.filter(v => v.file === 'license12').length,
-    motorcycle:       items.filter(v => v.file === 'motorcycle').length,
-    history_basic:    items.filter(v => v.file === 'history_basic').length,
-    history_advanced: items.filter(v => v.file === 'history_advanced').length,
-    computer_1:       items.filter(v => v.file === 'computer_1').length,
-    computer_2:       items.filter(v => v.file === 'computer_2').length,
+    license12:        cnt('license12'),
+    motorcycle:       cnt('motorcycle'),
+    history_basic:    cnt('history_basic'),
+    history_advanced: cnt('history_advanced'),
+    computer_1:       cnt('computer_1'),
+    computer_2:       cnt('computer_2'),
+    net_1:            cnt('net_1'),
+    net_2:            cnt('net_2'),
+    linux_1:          cnt('linux_1'),
+    linux_2:          cnt('linux_2'),
+    word:             cnt('word'),
+    elec_eng:         cnt('elec_eng'),
+    elec_ind:         cnt('elec_ind'),
+    info_proc:        cnt('info_proc'),
+    info_ind:         cnt('info_ind'),
+    info_sec:         cnt('info_sec'),
   };
 }
 

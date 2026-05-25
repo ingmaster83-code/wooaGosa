@@ -12,6 +12,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
+  <!-- 운전면허 -->
   <url>
     <loc>https://wooagosa.wooahouse.com/exam-license-1large.html</loc>
     <lastmod>2026-05-25</lastmod>
@@ -42,6 +43,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- 한국사 -->
   <url>
     <loc>https://wooagosa.wooahouse.com/exam-history-basic.html</loc>
     <lastmod>2026-05-25</lastmod>
@@ -54,6 +56,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- 컴퓨터활용능력 -->
   <url>
     <loc>https://wooagosa.wooahouse.com/exam-computer-1.html</loc>
     <lastmod>2026-05-25</lastmod>
@@ -62,6 +65,72 @@
   </url>
   <url>
     <loc>https://wooagosa.wooahouse.com/exam-computer-2.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 네트워크관리사 -->
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-net-1.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-net-2.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 리눅스마스터 -->
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-linux-1.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-linux-2.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 워드프로세서 -->
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-word.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 전기 -->
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-elec-eng.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-elec-ind.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 정보처리 -->
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-info-proc.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-info-ind.html</loc>
+    <lastmod>2026-05-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- 정보보안 -->
+  <url>
+    <loc>https://wooagosa.wooahouse.com/exam-info-sec.html</loc>
     <lastmod>2026-05-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>

@@ -135,6 +135,16 @@
         <button class="filter-btn" data-filter="history_advanced" onclick="applyFilter('history_advanced',this)">한국사 심화</button>
         <button class="filter-btn" data-filter="computer_1" onclick="applyFilter('computer_1',this)">컴활 1급</button>
         <button class="filter-btn" data-filter="computer_2" onclick="applyFilter('computer_2',this)">컴활 2급</button>
+        <button class="filter-btn" data-filter="net_1" onclick="applyFilter('net_1',this)">네트워크 1급</button>
+        <button class="filter-btn" data-filter="net_2" onclick="applyFilter('net_2',this)">네트워크 2급</button>
+        <button class="filter-btn" data-filter="linux_1" onclick="applyFilter('linux_1',this)">리눅스 1급</button>
+        <button class="filter-btn" data-filter="linux_2" onclick="applyFilter('linux_2',this)">리눅스 2급</button>
+        <button class="filter-btn" data-filter="word" onclick="applyFilter('word',this)">워드프로세서</button>
+        <button class="filter-btn" data-filter="elec_eng" onclick="applyFilter('elec_eng',this)">전기기사</button>
+        <button class="filter-btn" data-filter="elec_ind" onclick="applyFilter('elec_ind',this)">전기산업기사</button>
+        <button class="filter-btn" data-filter="info_proc" onclick="applyFilter('info_proc',this)">정보처리기사</button>
+        <button class="filter-btn" data-filter="info_ind" onclick="applyFilter('info_ind',this)">정보처리산업기사</button>
+        <button class="filter-btn" data-filter="info_sec" onclick="applyFilter('info_sec',this)">정보보안기사</button>
       </div>
 
       <!-- 통계 바 -->
@@ -167,6 +177,46 @@
           <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
             <div class="stat-num" id="st-com2" style="color:#0369a1;">0</div>
             <div class="stat-lbl" style="color:var(--text-mid);">컴활 2급</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-net1" style="color:#0d9488;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">네트워크 1급</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-net2" style="color:#0d9488;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">네트워크 2급</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-lnx1" style="color:#15803d;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">리눅스 1급</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-lnx2" style="color:#15803d;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">리눅스 2급</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-word" style="color:#92400e;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">워드프로세서</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-eleng" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">전기기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-elind" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">전기산업기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-iproc" style="color:#4f46e5;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">정보처리기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-iind" style="color:#4f46e5;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">정보처리산업기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-isec" style="color:#be123c;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">정보보안기사</div>
           </div>
         </div>
       </div>
@@ -219,9 +269,19 @@
     license12:        'data/license_1_2.json',
     motorcycle:       'data/motorcycle.json',
     history_basic:    'data/history_basic.json',
+    history_advanced: 'data/history_advanced.json',
     computer_1:       'data/computer_1.json',
     computer_2:       'data/computer_2.json',
-    history_advanced: 'data/history_advanced.json',
+    net_1:            'data/net_1.json',
+    net_2:            'data/net_2.json',
+    linux_1:          'data/linux_1.json',
+    linux_2:          'data/linux_2.json',
+    word:             'data/word.json',
+    elec_eng:         'data/elec_eng.json',
+    elec_ind:         'data/elec_ind.json',
+    info_proc:        'data/info_proc.json',
+    info_ind:         'data/info_ind.json',
+    info_sec:         'data/info_sec.json',
   };
 
   window.addEventListener('DOMContentLoaded', async () => {
@@ -248,14 +308,25 @@
   });
 
   function updateStats() {
-    const stats = getWrongStats();
-    document.getElementById('st-total').textContent  = stats.total;
-    document.getElementById('st-l12').textContent    = stats.license12;
-    document.getElementById('st-moto').textContent   = stats.motorcycle;
-    document.getElementById('st-hbasic').textContent = stats.history_basic;
-    document.getElementById('st-hadv').textContent   = stats.history_advanced;
-    document.getElementById('st-com1').textContent   = stats.computer_1;
-    document.getElementById('st-com2').textContent   = stats.computer_2;
+    const s = getWrongStats();
+    const set = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
+    set('st-total', s.total);
+    set('st-l12',   s.license12);
+    set('st-moto',  s.motorcycle);
+    set('st-hbasic',s.history_basic);
+    set('st-hadv',  s.history_advanced);
+    set('st-com1',  s.computer_1);
+    set('st-com2',  s.computer_2);
+    set('st-net1',  s.net_1);
+    set('st-net2',  s.net_2);
+    set('st-lnx1',  s.linux_1);
+    set('st-lnx2',  s.linux_2);
+    set('st-word',  s.word);
+    set('st-eleng', s.elec_eng);
+    set('st-elind', s.elec_ind);
+    set('st-iproc', s.info_proc);
+    set('st-iind',  s.info_ind);
+    set('st-isec',  s.info_sec);
   }
 
   function applyFilter(filter, el) {
@@ -266,22 +337,27 @@
     // 오답집중 버튼 업데이트
     const btn = document.getElementById('start-wrong-btn');
     const WRONG_TYPE = {
-      'motorcycle':       'motorcycle',
-      'history_basic':    'history_basic',
-      'history_advanced': 'history_advanced',
-      'computer_1':       'computer_1',
-      'computer_2':       'computer_2',
+      'motorcycle':'motorcycle','history_basic':'history_basic',
+      'history_advanced':'history_advanced','computer_1':'computer_1',
+      'computer_2':'computer_2','net_1':'net_1','net_2':'net_2',
+      'linux_1':'linux_1','linux_2':'linux_2','word':'word',
+      'elec_eng':'elec_eng','elec_ind':'elec_ind',
+      'info_proc':'info_proc','info_ind':'info_ind','info_sec':'info_sec',
     };
     const WRONG_LABEL = {
-      'motorcycle':       '이륜·원동기',
-      'history_basic':    '한국사 기본',
-      'history_advanced': '한국사 심화',
-      'computer_1':       '컴활 1급',
-      'computer_2':       '컴활 2급',
+      'motorcycle':'이륜·원동기','history_basic':'한국사 기본',
+      'history_advanced':'한국사 심화','computer_1':'컴활 1급',
+      'computer_2':'컴활 2급','net_1':'네트워크관리사 1급',
+      'net_2':'네트워크관리사 2급','linux_1':'리눅스마스터 1급',
+      'linux_2':'리눅스마스터 2급','word':'워드프로세서',
+      'elec_eng':'전기기사','elec_ind':'전기산업기사',
+      'info_proc':'정보처리기사','info_ind':'정보처리산업기사',
+      'info_sec':'정보보안기사',
     };
     const WRONG_COUNT = {
-      'history_basic': 50, 'history_advanced': 50,
-      'computer_1': 60, 'computer_2': 40,
+      'history_basic':50,'history_advanced':50,'computer_1':60,'computer_2':40,
+      'net_1':60,'net_2':50,'linux_1':100,'linux_2':80,'word':60,
+      'elec_eng':100,'elec_ind':100,'info_proc':100,'info_ind':100,'info_sec':100,
     };
     const type  = WRONG_TYPE[filter]  || '1jong-botong';
     const label = WRONG_LABEL[filter] || '1·2종 면허';
@@ -329,9 +405,13 @@
 
   function renderWrongCard(q, item) {
     const FILE_LABELS = {
-      'license12': '1·2종', 'motorcycle': '이륜·원동기',
-      'history_basic': '한국사기본', 'history_advanced': '한국사심화',
-      'computer_1': '컴활1급', 'computer_2': '컴활2급',
+      'license12':'1·2종','motorcycle':'이륜·원동기',
+      'history_basic':'한국사기본','history_advanced':'한국사심화',
+      'computer_1':'컴활1급','computer_2':'컴활2급',
+      'net_1':'네트워크1급','net_2':'네트워크2급',
+      'linux_1':'리눅스1급','linux_2':'리눅스2급',
+      'word':'워드프로세서','elec_eng':'전기기사','elec_ind':'전기산업기사',
+      'info_proc':'정보처리기사','info_ind':'정보처리산업기사','info_sec':'정보보안기사',
     };
     const fileLabel = FILE_LABELS[item.file] || item.file;
     let html = `<div class="wrong-card">
