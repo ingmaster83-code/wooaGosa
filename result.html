@@ -182,8 +182,13 @@
     document.getElementById('result-type-label').textContent = typeLabel + ' 모의고사';
 
     const badge = document.getElementById('pass-badge');
+    const computerGrade = (type === 'computer_1' || type === 'computer_2')
+      ? (score >= 60 ? '합격 🎉' : '불합격 😢') : null;
+
     if (historyGrade) {
       badge.textContent = historyGrade.text;
+    } else if (computerGrade) {
+      badge.textContent = computerGrade;
     } else {
       badge.textContent = pass ? '합격 🎉' : '불합격 😢';
     }

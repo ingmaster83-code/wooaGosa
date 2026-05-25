@@ -11,13 +11,18 @@
 const params  = new URLSearchParams(location.search);
 const TYPE    = params.get('type')  || 'license12';
 const MODE    = params.get('mode')  || 'random';
-const DEFAULT_COUNT = { 'history_basic': 50, 'history_advanced': 50 };
+const DEFAULT_COUNT = {
+  'history_basic': 50, 'history_advanced': 50,
+  'computer_1': 60, 'computer_2': 40,
+};
 const COUNT   = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
 const FILE = (() => {
   if (TYPE === 'motorcycle' || TYPE === 'motorbike') return 'motorcycle';
   if (TYPE === 'history_basic')    return 'history_basic';
   if (TYPE === 'history_advanced') return 'history_advanced';
+  if (TYPE === 'computer_1')       return 'computer_1';
+  if (TYPE === 'computer_2')       return 'computer_2';
   return 'license12';
 })();
 
@@ -26,6 +31,8 @@ const DATA_URL_MAP = {
   'motorcycle':       'data/motorcycle.json',
   'history_basic':    'data/history_basic.json',
   'history_advanced': 'data/history_advanced.json',
+  'computer_1':       'data/computer_1.json',
+  'computer_2':       'data/computer_2.json',
 };
 const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
 
@@ -39,6 +46,8 @@ const TYPE_LABELS = {
   'license12':         '1·2종 면허',
   'history_basic':     '한국사 기본',
   'history_advanced':  '한국사 심화',
+  'computer_1':        '컴퓨터활용능력 1급',
+  'computer_2':        '컴퓨터활용능력 2급',
 };
 const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
 
@@ -73,6 +82,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     const ICONS = {
       'history_basic': '📜', 'history_advanced': '📜',
       'motorcycle': '🏍', 'motorbike': '🛵',
+      'computer_1': '💻', 'computer_2': '💻',
     };
     logoIcon.textContent = ICONS[TYPE] || '🚗';
   }
@@ -109,10 +119,12 @@ function buildExam() {
   }
 
   userAnswers = examQuestions.map(() => ({ selected: [], submitted: false, correct: false }));
-  // 한국사: 기본 70분, 심화 80분 / 운전면허: 문제당 75초
+  // 한국사: 기본 70분, 심화 80분 / 컴활: 1급 60분, 2급 40분 / 운전면허: 문제당 75초
   const FULL_TIME = {
     'history_basic':    70 * 60,
     'history_advanced': 80 * 60,
+    'computer_1':       60 * 60,
+    'computer_2':       40 * 60,
   };
   secondsLeft = MODE === 'sequential'
     ? examQuestions.length * 96

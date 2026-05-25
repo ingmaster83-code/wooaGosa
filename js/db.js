@@ -65,6 +65,8 @@ function getWrongStats() {
     motorcycle:       items.filter(v => v.file === 'motorcycle').length,
     history_basic:    items.filter(v => v.file === 'history_basic').length,
     history_advanced: items.filter(v => v.file === 'history_advanced').length,
+    computer_1:       items.filter(v => v.file === 'computer_1').length,
+    computer_2:       items.filter(v => v.file === 'computer_2').length,
   };
 }
 

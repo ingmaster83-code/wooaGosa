@@ -133,6 +133,8 @@
         <button class="filter-btn" data-filter="motorcycle" onclick="applyFilter('motorcycle',this)">이륜·원동기</button>
         <button class="filter-btn" data-filter="history_basic" onclick="applyFilter('history_basic',this)">한국사 기본</button>
         <button class="filter-btn" data-filter="history_advanced" onclick="applyFilter('history_advanced',this)">한국사 심화</button>
+        <button class="filter-btn" data-filter="computer_1" onclick="applyFilter('computer_1',this)">컴활 1급</button>
+        <button class="filter-btn" data-filter="computer_2" onclick="applyFilter('computer_2',this)">컴활 2급</button>
       </div>
 
       <!-- 통계 바 -->
@@ -157,6 +159,14 @@
           <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
             <div class="stat-num" id="st-hadv" style="color:#7c3aed;">0</div>
             <div class="stat-lbl" style="color:var(--text-mid);">한국사 심화</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-com1" style="color:#0369a1;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">컴활 1급</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-com2" style="color:#0369a1;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">컴활 2급</div>
           </div>
         </div>
       </div>
@@ -209,6 +219,8 @@
     license12:        'data/license_1_2.json',
     motorcycle:       'data/motorcycle.json',
     history_basic:    'data/history_basic.json',
+    computer_1:       'data/computer_1.json',
+    computer_2:       'data/computer_2.json',
     history_advanced: 'data/history_advanced.json',
   };
 
@@ -242,6 +254,8 @@
     document.getElementById('st-moto').textContent   = stats.motorcycle;
     document.getElementById('st-hbasic').textContent = stats.history_basic;
     document.getElementById('st-hadv').textContent   = stats.history_advanced;
+    document.getElementById('st-com1').textContent   = stats.computer_1;
+    document.getElementById('st-com2').textContent   = stats.computer_2;
   }
 
   function applyFilter(filter, el) {
@@ -255,14 +269,19 @@
       'motorcycle':       'motorcycle',
       'history_basic':    'history_basic',
       'history_advanced': 'history_advanced',
+      'computer_1':       'computer_1',
+      'computer_2':       'computer_2',
     };
     const WRONG_LABEL = {
       'motorcycle':       '이륜·원동기',
       'history_basic':    '한국사 기본',
       'history_advanced': '한국사 심화',
+      'computer_1':       '컴활 1급',
+      'computer_2':       '컴활 2급',
     };
     const WRONG_COUNT = {
       'history_basic': 50, 'history_advanced': 50,
+      'computer_1': 60, 'computer_2': 40,
     };
     const type  = WRONG_TYPE[filter]  || '1jong-botong';
     const label = WRONG_LABEL[filter] || '1·2종 면허';
@@ -312,6 +331,7 @@
     const FILE_LABELS = {
       'license12': '1·2종', 'motorcycle': '이륜·원동기',
       'history_basic': '한국사기본', 'history_advanced': '한국사심화',
+      'computer_1': '컴활1급', 'computer_2': '컴활2급',
     };
     const fileLabel = FILE_LABELS[item.file] || item.file;
     let html = `<div class="wrong-card">
