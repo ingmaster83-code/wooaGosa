@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /data/
 
-Sitemap: https://gosa.wooahouse.com/sitemap.xml
+Sitemap: https://wooagosa.wooahouse.com/sitemap.xml
