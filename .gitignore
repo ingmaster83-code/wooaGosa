@@ -4,6 +4,14 @@ edge_out.txt
 inspect_out.txt
 inspect_out2.txt
 data/*_verify.txt
+debug_lines.py
+verify_json.py
+check_edge.py
+inspect_pdf.py
+inspect_pdf2.py
+
+# 파싱 스크립트 원본 PDF (문제지 폴더 전체)
+문제지/
 
 # Python 캐시
 __pycache__/

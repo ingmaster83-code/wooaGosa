@@ -185,6 +185,7 @@
   <p>자격증·면허 시험을 무료로 준비하세요 · 브라우저에서 바로 시작</p>
   <div class="hero-badges">
     <span class="badge">🚗 운전면허</span>
+    <span class="badge">📜 한국사</span>
     <span class="badge">⏱ 타이머</span>
     <span class="badge">📝 오답노트</span>
     <span class="badge">🆓 무료</span>
@@ -266,6 +267,31 @@
             <span class="card-title">원동기</span>
             <span class="card-sub">125cc 이하</span>
             <span class="card-count">문제은행 800문제</span>
+          </button>
+
+        </div>
+
+        <!-- 카테고리: 한국사능력검정시험 -->
+        <div class="category-label" style="margin-top:1.5rem;">
+          <span class="cat-emoji">📜</span>
+          <span class="cat-name">한국사능력검정시험</span>
+          <span class="cat-tag">기출문제</span>
+        </div>
+
+        <div class="exam-grid">
+
+          <button class="exam-card" onclick="selectType('history_basic','한국사 기본', 50)">
+            <span class="card-icon">📖</span>
+            <span class="card-title">기본 (Basic)</span>
+            <span class="card-sub">4지선다 · 50문항</span>
+            <span class="card-count">71·75·77회 기출 150문제</span>
+          </button>
+
+          <button class="exam-card" onclick="selectType('history_advanced','한국사 심화', 50)">
+            <span class="card-icon">📚</span>
+            <span class="card-title">심화 (Advanced)</span>
+            <span class="card-sub">5지선다 · 50문항</span>
+            <span class="card-count">70~72·75~77회 기출 300문제</span>
           </button>
 
         </div>
@@ -401,7 +427,8 @@
 
 <!-- Footer -->
 <footer class="site-footer">
-  <p>© 2026 WooaGosa · <a href="https://wooahouse.com" target="_blank">WooaHouse</a> · 본 사이트는 도로교통공단과 무관한 개인 학습 서비스입니다.</p>
+  <p>© 2026 WooaGosa · <a href="https://wooahouse.com" target="_blank">WooaHouse</a></p>
+  <p style="font-size:.78rem;opacity:.7;margin-top:.4rem;">본 사이트는 도로교통공단·국사편찬위원회와 무관한 개인 학습 서비스입니다. 운전면허 문제은행 출처: 도로교통공단(2026.3.9 시행) · 한국사능력검정시험 기출: 국사편찬위원회</p>
 </footer>
 
 <script src="js/sites-bar.js"></script>
@@ -410,6 +437,7 @@
   let selectedType = null;
   let selectedTypeLabel = '';
   let selectedMode = 'random';
+  let selectedCount = 40;
 
   // 오답 노트 요약 표시
   window.addEventListener('DOMContentLoaded', () => {
@@ -420,11 +448,18 @@
     }
   });
 
-  function selectType(type, label) {
+  function selectType(type, label, defaultCount) {
     selectedType = type;
     selectedTypeLabel = label;
+    selectedCount = defaultCount || 40;
     document.getElementById('sb-type').textContent = label;
     document.getElementById('mode-section').style.display = 'block';
+    // 랜덤 카드 문구 업데이트
+    const randomCard = document.querySelector('[data-mode="random"]');
+    if (randomCard) {
+      randomCard.querySelector('.mode-name').textContent = `랜덤 ${selectedCount}문제`;
+      randomCard.querySelector('.mode-desc').innerHTML = `무작위 ${selectedCount}문제<br>${selectedCount === 50 ? '80분 제한' : '50분 제한'}`;
+    }
     // 선택된 카드 강조
     document.querySelectorAll('.exam-card').forEach(c => c.style.border = '2px solid var(--border)');
     event.currentTarget.style.border = '2px solid var(--blue)';
@@ -441,7 +476,7 @@
 
   function startExam() {
     if (!selectedType) { alert('시험 유형을 먼저 선택해 주세요.'); return; }
-    const url = `exam.html?type=${encodeURIComponent(selectedType)}&mode=${encodeURIComponent(selectedMode)}&label=${encodeURIComponent(selectedTypeLabel)}`;
+    const url = `exam.html?type=${encodeURIComponent(selectedType)}&mode=${encodeURIComponent(selectedMode)}&label=${encodeURIComponent(selectedTypeLabel)}&count=${selectedCount}`;
     location.href = url;
   }
 

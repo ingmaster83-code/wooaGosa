@@ -60,9 +60,11 @@ function getWrongStats() {
   const db = loadDB();
   const items = Object.values(db).filter(v => v.count > 0);
   return {
-    total: items.length,
-    license12: items.filter(v => v.file === 'license12').length,
-    motorcycle: items.filter(v => v.file === 'motorcycle').length,
+    total:            items.length,
+    license12:        items.filter(v => v.file === 'license12').length,
+    motorcycle:       items.filter(v => v.file === 'motorcycle').length,
+    history_basic:    items.filter(v => v.file === 'history_basic').length,
+    history_advanced: items.filter(v => v.file === 'history_advanced').length,
   };
 }
 

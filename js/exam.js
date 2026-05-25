@@ -11,19 +11,34 @@
 const params  = new URLSearchParams(location.search);
 const TYPE    = params.get('type')  || 'license12';
 const MODE    = params.get('mode')  || 'random';
-const COUNT   = parseInt(params.get('count') || '40');
+const DEFAULT_COUNT = { 'history_basic': 50, 'history_advanced': 50 };
+const COUNT   = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
-const FILE    = (TYPE === 'motorcycle' || TYPE === 'motorbike') ? 'motorcycle' : 'license12';
-const DATA_URL = `data/${FILE === 'license12' ? 'license_1_2' : 'motorcycle'}.json`;
+const FILE = (() => {
+  if (TYPE === 'motorcycle' || TYPE === 'motorbike') return 'motorcycle';
+  if (TYPE === 'history_basic')    return 'history_basic';
+  if (TYPE === 'history_advanced') return 'history_advanced';
+  return 'license12';
+})();
+
+const DATA_URL_MAP = {
+  'license12':        'data/license_1_2.json',
+  'motorcycle':       'data/motorcycle.json',
+  'history_basic':    'data/history_basic.json',
+  'history_advanced': 'data/history_advanced.json',
+};
+const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
 
 // 시험 유형 표시명 (URL label 파라미터 우선, 없으면 type으로 매핑)
 const TYPE_LABELS = {
-  '1jong-daebyeong': '1종 대형',
-  '1jong-botong':    '1종 보통',
-  '2jong-botong':    '2종 보통',
-  'motorcycle':      '2종 소형(이륜)',
-  'motorbike':       '원동기장치자전거',
-  'license12':       '1·2종 면허',
+  '1jong-daebyeong':   '1종 대형',
+  '1jong-botong':      '1종 보통',
+  '2jong-botong':      '2종 보통',
+  'motorcycle':        '2종 소형(이륜)',
+  'motorbike':         '원동기장치자전거',
+  'license12':         '1·2종 면허',
+  'history_basic':     '한국사 기본',
+  'history_advanced':  '한국사 심화',
 };
 const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
 
@@ -52,6 +67,15 @@ const elModalCancel= document.getElementById('modal-cancel');
 /* ── 초기화 ────────────────────────────────────── */
 window.addEventListener('DOMContentLoaded', async () => {
   elTitle.textContent = typeLabel + ' 모의고사';
+  // 로고 아이콘 업데이트
+  const logoIcon = document.getElementById('logo-icon');
+  if (logoIcon) {
+    const ICONS = {
+      'history_basic': '📜', 'history_advanced': '📜',
+      'motorcycle': '🏍', 'motorbike': '🛵',
+    };
+    logoIcon.textContent = ICONS[TYPE] || '🚗';
+  }
   await loadData();
   buildExam();
   renderQuestion();
@@ -85,7 +109,14 @@ function buildExam() {
   }
 
   userAnswers = examQuestions.map(() => ({ selected: [], submitted: false, correct: false }));
-  secondsLeft = MODE === 'sequential' ? allQuestions.length * 60 : COUNT * 75;
+  // 한국사: 기본 70분, 심화 80분 / 운전면허: 문제당 75초
+  const FULL_TIME = {
+    'history_basic':    70 * 60,
+    'history_advanced': 80 * 60,
+  };
+  secondsLeft = MODE === 'sequential'
+    ? examQuestions.length * 96
+    : (FULL_TIME[FILE] || COUNT * 75);
 }
 
 /* ── 문제 렌더링 ────────────────────────────────── */

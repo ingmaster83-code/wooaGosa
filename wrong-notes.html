@@ -131,6 +131,8 @@
         <button class="filter-btn active" data-filter="all" onclick="applyFilter('all',this)">전체</button>
         <button class="filter-btn" data-filter="license12" onclick="applyFilter('license12',this)">1·2종 면허</button>
         <button class="filter-btn" data-filter="motorcycle" onclick="applyFilter('motorcycle',this)">이륜·원동기</button>
+        <button class="filter-btn" data-filter="history_basic" onclick="applyFilter('history_basic',this)">한국사 기본</button>
+        <button class="filter-btn" data-filter="history_advanced" onclick="applyFilter('history_advanced',this)">한국사 심화</button>
       </div>
 
       <!-- 통계 바 -->
@@ -147,6 +149,14 @@
           <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
             <div class="stat-num" id="st-moto" style="color:var(--navy);">0</div>
             <div class="stat-lbl" style="color:var(--text-mid);">이륜·원동기</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-hbasic" style="color:#7c3aed;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">한국사 기본</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-hadv" style="color:#7c3aed;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">한국사 심화</div>
           </div>
         </div>
       </div>
@@ -196,8 +206,10 @@
   let currentFilter = 'all';
 
   const FILE_URLS = {
-    license12:  'data/license_1_2.json',
-    motorcycle: 'data/motorcycle.json',
+    license12:        'data/license_1_2.json',
+    motorcycle:       'data/motorcycle.json',
+    history_basic:    'data/history_basic.json',
+    history_advanced: 'data/history_advanced.json',
   };
 
   window.addEventListener('DOMContentLoaded', async () => {
@@ -225,9 +237,11 @@
 
   function updateStats() {
     const stats = getWrongStats();
-    document.getElementById('st-total').textContent = stats.total;
-    document.getElementById('st-l12').textContent   = stats.license12;
-    document.getElementById('st-moto').textContent  = stats.motorcycle;
+    document.getElementById('st-total').textContent  = stats.total;
+    document.getElementById('st-l12').textContent    = stats.license12;
+    document.getElementById('st-moto').textContent   = stats.motorcycle;
+    document.getElementById('st-hbasic').textContent = stats.history_basic;
+    document.getElementById('st-hadv').textContent   = stats.history_advanced;
   }
 
   function applyFilter(filter, el) {
@@ -237,9 +251,23 @@
     renderList(filter);
     // 오답집중 버튼 업데이트
     const btn = document.getElementById('start-wrong-btn');
-    const type = filter === 'motorcycle' ? 'motorcycle' : '1jong-botong';
-    const label = filter === 'motorcycle' ? '이륜·원동기' : '1·2종 면허';
-    btn.href = `exam.html?type=${type}&mode=wrong&label=${encodeURIComponent(label)}`;
+    const WRONG_TYPE = {
+      'motorcycle':       'motorcycle',
+      'history_basic':    'history_basic',
+      'history_advanced': 'history_advanced',
+    };
+    const WRONG_LABEL = {
+      'motorcycle':       '이륜·원동기',
+      'history_basic':    '한국사 기본',
+      'history_advanced': '한국사 심화',
+    };
+    const WRONG_COUNT = {
+      'history_basic': 50, 'history_advanced': 50,
+    };
+    const type  = WRONG_TYPE[filter]  || '1jong-botong';
+    const label = WRONG_LABEL[filter] || '1·2종 면허';
+    const cnt   = WRONG_COUNT[filter] || 40;
+    btn.href = `exam.html?type=${type}&mode=wrong&label=${encodeURIComponent(label)}&count=${cnt}`;
   }
 
   function renderList(filter) {
@@ -281,7 +309,11 @@
   }
 
   function renderWrongCard(q, item) {
-    const fileLabel = item.file === 'motorcycle' ? '이륜·원동기' : '1·2종';
+    const FILE_LABELS = {
+      'license12': '1·2종', 'motorcycle': '이륜·원동기',
+      'history_basic': '한국사기본', 'history_advanced': '한국사심화',
+    };
+    const fileLabel = FILE_LABELS[item.file] || item.file;
     let html = `<div class="wrong-card">
       <div class="wrong-card-header">
         <span class="wrong-count-badge">${item.count}회 오답</span>

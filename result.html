@@ -141,6 +141,23 @@
 <script>
   const PASS_SCORE = 70;
 
+  // 한국사능력검정시험 급수 판정
+  function getHistoryGrade(type, score) {
+    if (type === 'history_advanced') {
+      if (score >= 80) return { text: '1급 합격 🥇', pass: true };
+      if (score >= 60) return { text: '2급 합격 🥈', pass: true };
+      if (score >= 50) return { text: '3급 합격 🥉', pass: true };
+      return { text: '불합격 😢', pass: false };
+    }
+    if (type === 'history_basic') {
+      if (score >= 80) return { text: '4급 합격 🥇', pass: true };
+      if (score >= 60) return { text: '5급 합격 🥈', pass: true };
+      if (score >= 50) return { text: '6급 합격 🥉', pass: true };
+      return { text: '불합격 😢', pass: false };
+    }
+    return null;
+  }
+
   window.addEventListener('DOMContentLoaded', () => {
     const raw = sessionStorage.getItem('wooagosa_result');
     if (!raw) {
@@ -157,14 +174,19 @@
     const correct = userAnswers.filter(ua => ua.correct).length;
     const wrong   = total - correct;
     const score   = Math.round((correct / total) * 100);
-    const pass    = score >= PASS_SCORE;
+    const historyGrade = getHistoryGrade(type, score);
+    const pass    = historyGrade ? historyGrade.pass : score >= PASS_SCORE;
 
     // 점수 표시
     document.getElementById('score-number').textContent = score;
     document.getElementById('result-type-label').textContent = typeLabel + ' 모의고사';
 
     const badge = document.getElementById('pass-badge');
-    badge.textContent = pass ? '합격 🎉' : '불합격 😢';
+    if (historyGrade) {
+      badge.textContent = historyGrade.text;
+    } else {
+      badge.textContent = pass ? '합격 🎉' : '불합격 😢';
+    }
     badge.className = 'pass-badge ' + (pass ? 'pass' : 'fail');
 
     // 점수에 따라 원 색상
@@ -238,8 +260,9 @@
   function retryExam() {
     const raw = sessionStorage.getItem('wooagosa_result');
     if (!raw) { location.href = 'index.html'; return; }
-    const { type, typeLabel, mode } = JSON.parse(raw);
-    location.href = `exam.html?type=${encodeURIComponent(type)}&mode=${encodeURIComponent(mode)}&label=${encodeURIComponent(typeLabel)}`;
+    const { type, typeLabel, mode, questions } = JSON.parse(raw);
+    const count = questions ? questions.length : 40;
+    location.href = `exam.html?type=${encodeURIComponent(type)}&mode=${encodeURIComponent(mode)}&label=${encodeURIComponent(typeLabel)}&count=${count}`;
   }
 
   function esc(str) {
