@@ -17,8 +17,8 @@ BASE     = Path(r"C:\개인\wooahouse\wooaGosa\문제지")
 OUT_DIR  = Path(r"C:\개인\wooahouse\wooaGosa\data")
 OUT_DIR.mkdir(exist_ok=True)
 
-CIRCLE_MAP = {'①': 1, '②': 2, '③': 3, '④': 4}
-CIRCLE_PAT = re.compile(r'[①②③④]')
+CIRCLE_MAP = {'①': 1, '②': 2, '③': 3, '④': 4, '⑤': 5}
+CIRCLE_PAT = re.compile(r'[①②③④⑤]')
 
 # comcbt 헤더 / 광고 필터
 HEADER_PAT = re.compile(
@@ -335,7 +335,7 @@ def block_to_question(block: dict):
         return None
 
     choice_text = ' '.join(lines[first_c:])
-    parts = re.split(r'([①②③④])', choice_text)
+    parts = re.split(r'([①②③④⑤])', choice_text)
     choices, cur_k, buf = {}, None, []
     for p in parts:
         if p in CIRCLE_MAP:
@@ -347,7 +347,7 @@ def block_to_question(block: dict):
     if cur_k and buf:
         choices[str(cur_k)] = ' '.join(buf).strip()
 
-    if len(choices) != 4 or not question:
+    if len(choices) not in (4, 5) or not question:
         return None
 
     return {
