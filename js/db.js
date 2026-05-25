@@ -78,6 +78,19 @@ function getWrongStats() {
     info_proc:        cnt('info_proc'),
     info_ind:         cnt('info_ind'),
     info_sec:         cnt('info_sec'),
+    hazmat_ind:       cnt('hazmat_ind'),
+    hazmat_craft:     cnt('hazmat_craft'),
+    fire_mech:        cnt('fire_mech'),
+    fire_elec:        cnt('fire_elec'),
+    forklift:         cnt('forklift'),
+    excavator:        cnt('excavator'),
+    realtor_1:        cnt('realtor_1'),
+    realtor_2:        cnt('realtor_2'),
+    welfare_1:        cnt('welfare_1'),
+    welfare_2:        cnt('welfare_2'),
+    welfare_3:        cnt('welfare_3'),
+    safety_ind:       cnt('safety_ind'),
+    safety_eng:       cnt('safety_eng'),
   };
 }
 

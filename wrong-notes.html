@@ -145,6 +145,19 @@
         <button class="filter-btn" data-filter="info_proc" onclick="applyFilter('info_proc',this)">정보처리기사</button>
         <button class="filter-btn" data-filter="info_ind" onclick="applyFilter('info_ind',this)">정보처리산업기사</button>
         <button class="filter-btn" data-filter="info_sec" onclick="applyFilter('info_sec',this)">정보보안기사</button>
+        <button class="filter-btn" data-filter="hazmat_ind" onclick="applyFilter('hazmat_ind',this)">위험물산업기사</button>
+        <button class="filter-btn" data-filter="hazmat_craft" onclick="applyFilter('hazmat_craft',this)">위험물기능사</button>
+        <button class="filter-btn" data-filter="fire_mech" onclick="applyFilter('fire_mech',this)">소방기사(기계)</button>
+        <button class="filter-btn" data-filter="fire_elec" onclick="applyFilter('fire_elec',this)">소방기사(전기)</button>
+        <button class="filter-btn" data-filter="forklift" onclick="applyFilter('forklift',this)">지게차운전기능사</button>
+        <button class="filter-btn" data-filter="excavator" onclick="applyFilter('excavator',this)">굴착기운전기능사</button>
+        <button class="filter-btn" data-filter="realtor_1" onclick="applyFilter('realtor_1',this)">공인중개사 1차</button>
+        <button class="filter-btn" data-filter="realtor_2" onclick="applyFilter('realtor_2',this)">공인중개사 2차</button>
+        <button class="filter-btn" data-filter="welfare_1" onclick="applyFilter('welfare_1',this)">사회복지사 1교시</button>
+        <button class="filter-btn" data-filter="welfare_2" onclick="applyFilter('welfare_2',this)">사회복지사 2교시</button>
+        <button class="filter-btn" data-filter="welfare_3" onclick="applyFilter('welfare_3',this)">사회복지사 3교시</button>
+        <button class="filter-btn" data-filter="safety_ind" onclick="applyFilter('safety_ind',this)">산업안전산업기사</button>
+        <button class="filter-btn" data-filter="safety_eng" onclick="applyFilter('safety_eng',this)">산업안전기사</button>
       </div>
 
       <!-- 통계 바 -->
@@ -218,6 +231,58 @@
             <div class="stat-num" id="st-isec" style="color:#be123c;">0</div>
             <div class="stat-lbl" style="color:var(--text-mid);">정보보안기사</div>
           </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-hmind" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">위험물산업기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-hmcraft" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">위험물기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-fmech" style="color:#dc2626;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">소방기사(기계)</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-felec" style="color:#dc2626;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">소방기사(전기)</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-fork" style="color:#0369a1;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">지게차운전기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-excav" style="color:#0369a1;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">굴착기운전기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-real1" style="color:#7c3aed;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">공인중개사 1차</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-real2" style="color:#7c3aed;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">공인중개사 2차</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-welf1" style="color:#15803d;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">사회복지사 1교시</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-welf2" style="color:#15803d;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">사회복지사 2교시</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-welf3" style="color:#15803d;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">사회복지사 3교시</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-safind" style="color:#92400e;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">산업안전산업기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-safeng" style="color:#92400e;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">산업안전기사</div>
+          </div>
         </div>
       </div>
 
@@ -282,6 +347,19 @@
     info_proc:        'data/info_proc.json',
     info_ind:         'data/info_ind.json',
     info_sec:         'data/info_sec.json',
+    hazmat_ind:       'data/hazmat_ind.json',
+    hazmat_craft:     'data/hazmat_craft.json',
+    fire_mech:        'data/fire_mech.json',
+    fire_elec:        'data/fire_elec.json',
+    forklift:         'data/forklift.json',
+    excavator:        'data/excavator.json',
+    realtor_1:        'data/realtor_1.json',
+    realtor_2:        'data/realtor_2.json',
+    welfare_1:        'data/welfare_1.json',
+    welfare_2:        'data/welfare_2.json',
+    welfare_3:        'data/welfare_3.json',
+    safety_ind:       'data/safety_ind.json',
+    safety_eng:       'data/safety_eng.json',
   };
 
   window.addEventListener('DOMContentLoaded', async () => {
@@ -327,6 +405,19 @@
     set('st-iproc', s.info_proc);
     set('st-iind',  s.info_ind);
     set('st-isec',  s.info_sec);
+    set('st-hmind',  s.hazmat_ind);
+    set('st-hmcraft',s.hazmat_craft);
+    set('st-fmech',  s.fire_mech);
+    set('st-felec',  s.fire_elec);
+    set('st-fork',   s.forklift);
+    set('st-excav',  s.excavator);
+    set('st-real1',  s.realtor_1);
+    set('st-real2',  s.realtor_2);
+    set('st-welf1',  s.welfare_1);
+    set('st-welf2',  s.welfare_2);
+    set('st-welf3',  s.welfare_3);
+    set('st-safind', s.safety_ind);
+    set('st-safeng', s.safety_eng);
   }
 
   function applyFilter(filter, el) {
@@ -343,6 +434,12 @@
       'linux_1':'linux_1','linux_2':'linux_2','word':'word',
       'elec_eng':'elec_eng','elec_ind':'elec_ind',
       'info_proc':'info_proc','info_ind':'info_ind','info_sec':'info_sec',
+      'hazmat_ind':'hazmat_ind','hazmat_craft':'hazmat_craft',
+      'fire_mech':'fire_mech','fire_elec':'fire_elec',
+      'forklift':'forklift','excavator':'excavator',
+      'realtor_1':'realtor_1','realtor_2':'realtor_2',
+      'welfare_1':'welfare_1','welfare_2':'welfare_2','welfare_3':'welfare_3',
+      'safety_ind':'safety_ind','safety_eng':'safety_eng',
     };
     const WRONG_LABEL = {
       'motorcycle':'이륜·원동기','history_basic':'한국사 기본',
@@ -353,11 +450,22 @@
       'elec_eng':'전기기사','elec_ind':'전기산업기사',
       'info_proc':'정보처리기사','info_ind':'정보처리산업기사',
       'info_sec':'정보보안기사',
+      'hazmat_ind':'위험물산업기사','hazmat_craft':'위험물기능사',
+      'fire_mech':'소방설비기사 기계','fire_elec':'소방설비기사 전기',
+      'forklift':'지게차운전기능사','excavator':'굴착기운전기능사',
+      'realtor_1':'공인중개사 1차','realtor_2':'공인중개사 2차',
+      'welfare_1':'사회복지사1급 1교시','welfare_2':'사회복지사1급 2교시',
+      'welfare_3':'사회복지사1급 3교시',
+      'safety_ind':'산업안전산업기사','safety_eng':'산업안전기사',
     };
     const WRONG_COUNT = {
       'history_basic':50,'history_advanced':50,'computer_1':60,'computer_2':40,
       'net_1':60,'net_2':50,'linux_1':100,'linux_2':80,'word':60,
       'elec_eng':100,'elec_ind':100,'info_proc':100,'info_ind':100,'info_sec':100,
+      'hazmat_ind':60,'hazmat_craft':60,'fire_mech':80,'fire_elec':80,
+      'forklift':60,'excavator':60,'realtor_1':80,'realtor_2':120,
+      'welfare_1':50,'welfare_2':75,'welfare_3':75,
+      'safety_ind':100,'safety_eng':120,
     };
     const type  = WRONG_TYPE[filter]  || '1jong-botong';
     const label = WRONG_LABEL[filter] || '1·2종 면허';
@@ -412,6 +520,12 @@
       'linux_1':'리눅스1급','linux_2':'리눅스2급',
       'word':'워드프로세서','elec_eng':'전기기사','elec_ind':'전기산업기사',
       'info_proc':'정보처리기사','info_ind':'정보처리산업기사','info_sec':'정보보안기사',
+      'hazmat_ind':'위험물산업기사','hazmat_craft':'위험물기능사',
+      'fire_mech':'소방기사(기계)','fire_elec':'소방기사(전기)',
+      'forklift':'지게차운전기능사','excavator':'굴착기운전기능사',
+      'realtor_1':'공인중개사1차','realtor_2':'공인중개사2차',
+      'welfare_1':'사회복지사1교시','welfare_2':'사회복지사2교시','welfare_3':'사회복지사3교시',
+      'safety_ind':'산업안전산업기사','safety_eng':'산업안전기사',
     };
     const fileLabel = FILE_LABELS[item.file] || item.file;
     let html = `<div class="wrong-card">

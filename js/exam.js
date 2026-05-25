@@ -28,6 +28,19 @@ const FILE = (() => {
   if (TYPE === 'info_proc')        return 'info_proc';
   if (TYPE === 'info_ind')         return 'info_ind';
   if (TYPE === 'info_sec')         return 'info_sec';
+  if (TYPE === 'hazmat_ind')       return 'hazmat_ind';
+  if (TYPE === 'hazmat_craft')     return 'hazmat_craft';
+  if (TYPE === 'fire_mech')        return 'fire_mech';
+  if (TYPE === 'fire_elec')        return 'fire_elec';
+  if (TYPE === 'forklift')         return 'forklift';
+  if (TYPE === 'excavator')        return 'excavator';
+  if (TYPE === 'realtor_1')        return 'realtor_1';
+  if (TYPE === 'realtor_2')        return 'realtor_2';
+  if (TYPE === 'welfare_1')        return 'welfare_1';
+  if (TYPE === 'welfare_2')        return 'welfare_2';
+  if (TYPE === 'welfare_3')        return 'welfare_3';
+  if (TYPE === 'safety_ind')       return 'safety_ind';
+  if (TYPE === 'safety_eng')       return 'safety_eng';
   return 'license12';
 })();
 
@@ -39,6 +52,12 @@ const DEFAULT_COUNT = {
   'word': 60,
   'elec_eng': 100, 'elec_ind': 100,
   'info_proc': 100, 'info_ind': 100, 'info_sec': 100,
+  'hazmat_ind': 60, 'hazmat_craft': 60,
+  'fire_mech': 80, 'fire_elec': 80,
+  'forklift': 60, 'excavator': 60,
+  'realtor_1': 80, 'realtor_2': 120,
+  'welfare_1': 50, 'welfare_2': 75, 'welfare_3': 75,
+  'safety_ind': 100, 'safety_eng': 120,
 };
 const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
@@ -59,6 +78,19 @@ const DATA_URL_MAP = {
   'info_proc':        'data/info_proc.json',
   'info_ind':         'data/info_ind.json',
   'info_sec':         'data/info_sec.json',
+  'hazmat_ind':       'data/hazmat_ind.json',
+  'hazmat_craft':     'data/hazmat_craft.json',
+  'fire_mech':        'data/fire_mech.json',
+  'fire_elec':        'data/fire_elec.json',
+  'forklift':         'data/forklift.json',
+  'excavator':        'data/excavator.json',
+  'realtor_1':        'data/realtor_1.json',
+  'realtor_2':        'data/realtor_2.json',
+  'welfare_1':        'data/welfare_1.json',
+  'welfare_2':        'data/welfare_2.json',
+  'welfare_3':        'data/welfare_3.json',
+  'safety_ind':       'data/safety_ind.json',
+  'safety_eng':       'data/safety_eng.json',
 };
 const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
 
@@ -84,6 +116,19 @@ const TYPE_LABELS = {
   'info_proc':         '정보처리기사',
   'info_ind':          '정보처리산업기사',
   'info_sec':          '정보보안기사',
+  'hazmat_ind':        '위험물산업기사',
+  'hazmat_craft':      '위험물기능사',
+  'fire_mech':         '소방설비기사 기계분야',
+  'fire_elec':         '소방설비기사 전기분야',
+  'forklift':          '지게차운전기능사',
+  'excavator':         '굴착기운전기능사',
+  'realtor_1':         '공인중개사 1차',
+  'realtor_2':         '공인중개사 2차',
+  'welfare_1':         '사회복지사1급 1교시',
+  'welfare_2':         '사회복지사1급 2교시',
+  'welfare_3':         '사회복지사1급 3교시',
+  'safety_ind':        '산업안전산업기사',
+  'safety_eng':        '산업안전기사',
 };
 const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
 
@@ -125,6 +170,12 @@ window.addEventListener('DOMContentLoaded', async () => {
       'elec_eng': '⚡', 'elec_ind': '⚡',
       'info_proc': '🖥️', 'info_ind': '🖥️',
       'info_sec': '🔒',
+      'hazmat_ind': '🧪', 'hazmat_craft': '🧪',
+      'fire_mech': '🔥', 'fire_elec': '🔥',
+      'forklift': '🚜', 'excavator': '🏗️',
+      'realtor_1': '🏠', 'realtor_2': '🏠',
+      'welfare_1': '👐', 'welfare_2': '👐', 'welfare_3': '👐',
+      'safety_ind': '⛑️', 'safety_eng': '⛑️',
     };
     logoIcon.textContent = ICONS[TYPE] || '🚗';
   }
@@ -176,6 +227,19 @@ function buildExam() {
     'info_proc':       120 * 60,
     'info_ind':        120 * 60,
     'info_sec':        120 * 60,
+    'hazmat_ind':      120 * 60,
+    'hazmat_craft':     60 * 60,
+    'fire_mech':       150 * 60,
+    'fire_elec':       150 * 60,
+    'forklift':         60 * 60,
+    'excavator':        60 * 60,
+    'realtor_1':       120 * 60,
+    'realtor_2':       120 * 60,
+    'welfare_1':        50 * 60,
+    'welfare_2':        75 * 60,
+    'welfare_3':        75 * 60,
+    'safety_ind':      120 * 60,
+    'safety_eng':      180 * 60,
   };
   secondsLeft = MODE === 'sequential'
     ? examQuestions.length * 96

@@ -91,6 +91,85 @@ EXAM_TARGETS = [
         'out': 'info_sec.json',
         'max_q': 100,
     },
+    # ── 2차 추가 ──────────────────────────────────────────────
+    {
+        'key': 'hazmat_ind',
+        'folder': '위험물산업기사',
+        'out': 'hazmat_ind.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'hazmat_craft',
+        'folder': '위험물기능사',
+        'out': 'hazmat_craft.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'fire_mech',
+        'folder': '소방설비기사 기계분야',
+        'out': 'fire_mech.json',
+        'max_q': 80,
+    },
+    {
+        'key': 'fire_elec',
+        'folder': '소방설비기사 전기분야',
+        'out': 'fire_elec.json',
+        'max_q': 80,
+    },
+    {
+        'key': 'forklift',
+        'folder': '지게차운전기능사',
+        'out': 'forklift.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'excavator',
+        'folder': '굴착기(굴삭기)운전기능사',
+        'out': 'excavator.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'realtor_1',
+        'folder': '공인중개사 1차',
+        'out': 'realtor_1.json',
+        'max_q': 80,
+    },
+    {
+        'key': 'realtor_2',
+        'folder': '공인중개사 2차',
+        'out': 'realtor_2.json',
+        'max_q': 120,
+    },
+    {
+        'key': 'welfare_1',
+        'folder': '사회복지사1급 1교시',
+        'out': 'welfare_1.json',
+        'max_q': 50,
+    },
+    {
+        'key': 'welfare_2',
+        'folder': '사회복지사1급 2교시',
+        'out': 'welfare_2.json',
+        'max_q': 75,
+    },
+    {
+        'key': 'welfare_3',
+        'folder': '사회복지사1급 3교시',
+        'out': 'welfare_3.json',
+        'max_q': 75,
+    },
+    {
+        'key': 'safety_ind',
+        'folder': '산업안전산업기사',
+        'out': 'safety_ind.json',
+        'max_q': 100,
+    },
+    {
+        'key': 'safety_eng',
+        'folder': '산업안전기사',
+        'out': 'safety_eng.json',
+        'max_q': 120,
+    },
 ]
 
 
