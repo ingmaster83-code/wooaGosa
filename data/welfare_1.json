@@ -1336,63 +1336,6 @@
     "question_no": 35,
     "question": "다음 가설에서 ㄱ ~ ㄷ이 의미하는 것을 바르게 짝지은 것 은?",
     "choices": {
-      "1": "ㄱ: 조절변수 ㄴ: 독립변수 ㄷ: 종속변수",
-      "2": "ㄱ: 독립변수 ㄴ: 종속변수 ㄷ: 매개변수",
-      "3": "ㄱ: 조절변수 ㄴ: 종속변수 ㄷ: 독립변수",
-      "4": "ㄱ: 독립변수 ㄴ: 매개변수 ㄷ: 종속변수",
-      "5": "ㄱ: 매개변수 ㄴ: 종속변수 ㄷ: 독립변수"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 72,
-    "date": "20150124",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 36,
-    "question": "확률이론에 근거한 표본평균들의 표집분포(sampling distribution)에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "모집단의 평균이 10이면 표집분포의 평균도 10이다.",
-      "2": "표준오차는 표집분포의 표준편차이다.",
-      "3": "표본크기와 상관없이 정규분포를 따른다.",
-      "4": "중심극한정리를 따른다.",
-      "5": "표본크기가 9배될 때 표준오차는 1/3로 감소한다."
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 73,
-    "date": "20150124",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 37,
-    "question": "어떤 연구를 진행한 결과 호손(Hawthorne)효과가 발생했을 경우, 이후 연구에서 연구결과의 정확성을 높이기 위해 취 해야 할 조치로 가장 적절한 것은?",
-    "choices": {
-      "1": "대상자수 증가",
-      "2": "실험자극 강화",
-      "3": "전조사와 후조사의 간격 축소",
-      "4": "통제집단 추가",
-      "5": "신뢰도분석 강화"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 74,
-    "date": "20150124",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 38,
-    "question": "1,000명을 번호 순서대로 배열한 모집단에서 4번이 처음 무 작위로 선정되고 9번, 14번, 19번, … 등이 차례로 체계 (systematic)표집을 통해 선정되었다. 이 표집에서 표집간격 (ㄱ)과 표본수(ㄴ)가 바르게 짝지어진 것은?",
-    "choices": {
       "1": "ㄱ: 4 ㄴ: 200",
       "2": "ㄱ: 4 ㄴ: 250",
       "3": "ㄱ: 5 ㄴ: 200",
@@ -1405,7 +1348,7 @@
     "explanation": ""
   },
   {
-    "id": 75,
+    "id": 72,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1424,7 +1367,7 @@
     "explanation": ""
   },
   {
-    "id": 76,
+    "id": 73,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1443,7 +1386,7 @@
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 74,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1462,7 +1405,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
+    "id": 75,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1481,7 +1424,7 @@
     "explanation": ""
   },
   {
-    "id": 79,
+    "id": 76,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1500,7 +1443,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 77,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1519,7 +1462,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 78,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1538,7 +1481,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 79,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1557,7 +1500,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 80,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -1576,7 +1519,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 81,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1595,7 +1538,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
+    "id": 82,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1614,7 +1557,7 @@
     "explanation": ""
   },
   {
-    "id": 86,
+    "id": 83,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1633,7 +1576,7 @@
     "explanation": ""
   },
   {
-    "id": 87,
+    "id": 84,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1652,7 +1595,7 @@
     "explanation": ""
   },
   {
-    "id": 88,
+    "id": 85,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1671,7 +1614,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 86,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1690,31 +1633,12 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 87,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 8,
     "question": "반두라(A. Bandura)의 모방(modeling)에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "대리경험에 의한 학습을 말한다.",
-      "2": "조작적 조건화에 의해 습득된다.",
-      "3": "시연을 통해 행동을 습득할 수 있다.",
-      "4": "각 단계마다 칭찬을 해주면 효과적이다.",
-      "5": "쉽고 간단한 것부터 습득하며 점차 어렵고 복잡한 것으로 진전된다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 91,
-    "date": "20160123",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 9,
-    "question": "로저스(C. Rogers)의 현상학이론에서‘완전히 기능하는 사람’ 의 성격 특성을 모두 고른 것은?",
     "choices": {
       "1": "ㄱ, ㄴ, ㄷ",
       "2": "ㄱ, ㄷ",
@@ -1723,36 +1647,17 @@
       "5": "ㄱ, ㄴ, ㄷ, ㄹ"
     },
     "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 92,
-    "date": "20160123",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 10,
-    "question": "성격이론과 학자 및 주요 개념의 연결이 옳은 것은?",
-    "choices": {
-      "1": "분석심리이론 - 융(C. Jung) - 도식",
-      "2": "인본주의이론 - 매슬로우(A. Maslow) - 결핍동기",
-      "3": "개인심리이론 - 아들러(A. Adler) - 페르소나",
-      "4": "정신분석이론 - 프로이드(S. Freud) - 아니마",
-      "5": "인지발달이론 - 피아제(J. Piaget) - 열등감"
-    },
-    "answers": [
       2
     ],
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 88,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
-    "question_no": 11,
-    "question": "매슬로우(A. Maslow)의 욕구단계이론이 사회복지실천에 미 친 영향으로 옳은 것은?",
+    "question_no": 10,
+    "question": "성격이론과 학자 및 주요 개념의 연결이 옳은 것은?",
     "choices": {
       "1": "클라이언트의 문제행동 수정에 유용하다.",
       "2": "클라이언트의 욕구를 사정하는데 유용하다.",
@@ -1766,7 +1671,7 @@
     "explanation": ""
   },
   {
-    "id": 94,
+    "id": 89,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1784,31 +1689,12 @@
     "explanation": ""
   },
   {
-    "id": 95,
+    "id": 90,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 13,
     "question": "피아제(J. Piaget)의 인지발달에 관한 설명으로 옳은 것은?",
-    "choices": {
-      "1": "전 생애의 발달을 다루고 있다.",
-      "2": "발달과정에서 자기대화의 중요성을 강조하였다.",
-      "3": "성인대상 프로그램의 이론적 토대가 될 수 있다.",
-      "4": "문화적ㆍ사회경제적ㆍ인종적 차이를 충분히 고려하였다.",
-      "5": "아동은 성인의 직접적인 가르침 없이도 인지구조가 발달 된다."
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 96,
-    "date": "20160123",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 14,
-    "question": "에릭슨(E. Erikson)과 프로이드(S. Freud)의 발달단계의 연 결로 옳은 것은?",
     "choices": {
       "1": "근면성 대 열등감 - 구강기(oral stage)",
       "2": "친밀감 대 고립감 - 잠복기(latency stage)",
@@ -1817,12 +1703,12 @@
       "5": "정체감 대 정체감 혼란 - 남근기(phallic stage)"
     },
     "answers": [
-      4
+      5
     ],
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 91,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1841,7 +1727,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
+    "id": 92,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1860,7 +1746,7 @@
     "explanation": ""
   },
   {
-    "id": 99,
+    "id": 93,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1879,7 +1765,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 94,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1898,7 +1784,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 95,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1917,7 +1803,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 96,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1936,7 +1822,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 97,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1955,7 +1841,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 98,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1974,7 +1860,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 99,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -1993,7 +1879,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 100,
     "date": "20160123",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2012,7 +1898,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 101,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2031,7 +1917,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 102,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2050,7 +1936,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 103,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2069,7 +1955,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 104,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2088,7 +1974,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 105,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2107,7 +1993,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
+    "id": 106,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2126,7 +2012,7 @@
     "explanation": ""
   },
   {
-    "id": 113,
+    "id": 107,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2145,31 +2031,12 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 108,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
     "question_no": 35,
     "question": "연구문제(research question)의 서술에 관한 설명으로 옳은 것은?",
-    "choices": {
-      "1": "주로 평서문 형태로 서술되어야 한다.",
-      "2": "다루는 범위가 넓게 서술되어야 한다.",
-      "3": "연구결과의 함의에 맞추어 서술되어야 한다.",
-      "4": "연구의 관심이나 의문의 대상이 서술되어야 한다.",
-      "5": "정(+)의 관계로 서술되어야 한다."
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 115,
-    "date": "20160123",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 36,
-    "question": "개입의 효과를 평가하는 연구에서‘두 개 모집단의 평균 간 에 차이가 없을 것이다’라는 영가설에 관한 설명으로 옳지 않은 것은?",
     "choices": {
       "1": "위의 가설을 기호로 표시하면 μ = μ 이다. 1 2",
       "2": "가설검증에서 반드시 필요한 가설이다.",
@@ -2178,12 +2045,12 @@
       "5": "연구가설을 반증하기 위해 사용되는 가설이다."
     },
     "answers": [
-      3
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 109,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2202,7 +2069,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 110,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2221,7 +2088,7 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 111,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2240,7 +2107,7 @@
     "explanation": ""
   },
   {
-    "id": 119,
+    "id": 112,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2259,7 +2126,7 @@
     "explanation": ""
   },
   {
-    "id": 120,
+    "id": 113,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2278,7 +2145,7 @@
     "explanation": ""
   },
   {
-    "id": 121,
+    "id": 114,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2296,7 +2163,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 115,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2315,7 +2182,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 116,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2334,7 +2201,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 117,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2353,31 +2220,12 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 118,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
     "question_no": 47,
     "question": "델파이조사에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "전문가 패널의 의견을 수렴하는 방법으로 활용된다.",
-      "2": "외형적으로는 설문조사방법과 유사하다.",
-      "3": "연구자가 사전에 결정한 방향으로 패널의 의견이 유도될 위험이 있다.",
-      "4": "패널의 후광효과를 방지하기 어렵다.",
-      "5": "반복되는 설문을 통하여 패널의 의견이 수정될 수 있다."
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 126,
-    "date": "20160123",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 48,
-    "question": "제시된 두 가지 연구 유형의 분류기준이 바르게 연결되지 않은 것은?",
     "choices": {
       "1": "양적조사와 질적조사 - 데이터의 성격",
       "2": "순수실험설계와 준(유사)실험설계 - 원인의 조작 여부",
@@ -2386,12 +2234,12 @@
       "5": "전수조사와 표본조사 - 표본추출의 여부"
     },
     "answers": [
-      2
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 119,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2410,7 +2258,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 120,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2429,7 +2277,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 121,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2448,7 +2296,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 122,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2467,7 +2315,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 123,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2486,7 +2334,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 124,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2505,7 +2353,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 125,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2524,7 +2372,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 126,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2543,7 +2391,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 127,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2561,26 +2409,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
-    "date": "20170121",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 11,
-    "question": "에릭슨(E. Erikson)의 심리사회적 위기와 주요 관계가 바르 게 연결된 것은?",
-    "choices": {
-      "1": "자율성 대 수치감 - 교사",
-      "2": "근면성 대 열등감 - 부모",
-      "3": "통합성 대 절망감 - 동료",
-      "4": "친밀성 대 고립감 - 리더",
-      "5": "정체감 대 역할혼미 - 또래집단"
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 137,
+    "id": 128,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2599,7 +2428,7 @@
     "explanation": ""
   },
   {
-    "id": 138,
+    "id": 129,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2618,7 +2447,7 @@
     "explanation": ""
   },
   {
-    "id": 139,
+    "id": 130,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2637,7 +2466,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
+    "id": 131,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2656,7 +2485,7 @@
     "explanation": ""
   },
   {
-    "id": 141,
+    "id": 132,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2675,7 +2504,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 133,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2694,7 +2523,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 134,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2713,7 +2542,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 135,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2732,31 +2561,12 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 136,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 23,
     "question": "유아기(3-6세)의 인지발달 특성에 해당하지 않는 것은?",
-    "choices": {
-      "1": "표상에 의한 상징적 사고",
-      "2": "자기중심적 사고",
-      "3": "비가역적 사고",
-      "4": "물활론적 사고",
-      "5": "연역적 사고"
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 146,
-    "date": "20170121",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 24,
-    "question": "퀴블러-로스(Kübler-Ross)가 제시한 ‘죽음의 직면단계’에 포함되지 않는 것은?",
     "choices": {
       "1": "부정",
       "2": "자학",
@@ -2765,12 +2575,12 @@
       "5": "분노"
     },
     "answers": [
-      2
+      5
     ],
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 137,
     "date": "20170121",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -2789,7 +2599,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 138,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2808,7 +2618,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 139,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2827,7 +2637,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 140,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2846,7 +2656,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 141,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2865,7 +2675,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 142,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2884,7 +2694,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 143,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2903,7 +2713,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
+    "id": 144,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2921,26 +2731,7 @@
     "explanation": ""
   },
   {
-    "id": 155,
-    "date": "20170121",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 35,
-    "question": "실험설계 시 고려해야 할 타당도 저해요인 중 특성이 같은 요인끼리 묶인 것은?",
-    "choices": {
-      "1": "ㄴ, ㄷ",
-      "2": "ㄷ, ㄹ",
-      "3": "ㄱ, ㄴ, ㄷ",
-      "4": "ㄱ, ㄴ, ㄹ",
-      "5": "ㄴ, ㄷ, ㄹ"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 156,
+    "id": 145,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2959,7 +2750,7 @@
     "explanation": ""
   },
   {
-    "id": 157,
+    "id": 146,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2978,7 +2769,7 @@
     "explanation": ""
   },
   {
-    "id": 158,
+    "id": 147,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -2997,7 +2788,7 @@
     "explanation": ""
   },
   {
-    "id": 159,
+    "id": 148,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3016,7 +2807,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
+    "id": 149,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3035,7 +2826,7 @@
     "explanation": ""
   },
   {
-    "id": 161,
+    "id": 150,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3054,7 +2845,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
+    "id": 151,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3073,7 +2864,7 @@
     "explanation": ""
   },
   {
-    "id": 163,
+    "id": 152,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3092,7 +2883,7 @@
     "explanation": ""
   },
   {
-    "id": 164,
+    "id": 153,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3110,7 +2901,7 @@
     "explanation": ""
   },
   {
-    "id": 165,
+    "id": 154,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3129,7 +2920,7 @@
     "explanation": ""
   },
   {
-    "id": 166,
+    "id": 155,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3148,7 +2939,7 @@
     "explanation": ""
   },
   {
-    "id": 167,
+    "id": 156,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3167,7 +2958,7 @@
     "explanation": ""
   },
   {
-    "id": 168,
+    "id": 157,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3186,7 +2977,7 @@
     "explanation": ""
   },
   {
-    "id": 169,
+    "id": 158,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3205,7 +2996,7 @@
     "explanation": ""
   },
   {
-    "id": 170,
+    "id": 159,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3224,7 +3015,7 @@
     "explanation": ""
   },
   {
-    "id": 171,
+    "id": 160,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3243,7 +3034,7 @@
     "explanation": ""
   },
   {
-    "id": 172,
+    "id": 161,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3262,7 +3053,7 @@
     "explanation": ""
   },
   {
-    "id": 173,
+    "id": 162,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3281,7 +3072,7 @@
     "explanation": ""
   },
   {
-    "id": 174,
+    "id": 163,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3300,7 +3091,7 @@
     "explanation": ""
   },
   {
-    "id": 175,
+    "id": 164,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3319,7 +3110,7 @@
     "explanation": ""
   },
   {
-    "id": 176,
+    "id": 165,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3338,7 +3129,7 @@
     "explanation": ""
   },
   {
-    "id": 177,
+    "id": 166,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3357,31 +3148,12 @@
     "explanation": ""
   },
   {
-    "id": 178,
+    "id": 167,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 11,
     "question": "융(C. Jung)의 분석심리이론에 관한 설명으로 옳지 않은 것 은?",
-    "choices": {
-      "1": "인간은 생물학적, 심리적, 사회문화적 존재이다.",
-      "2": "인간은 자신의 일부로 받아들이기 꺼리는 그림자 (shadow)를 가지고 있다.",
-      "3": "집단무의식을 ‘조상 대대로의 경험의 침전물’로 보았다.",
-      "4": "남자의 여성적인 면은 ‘아니무스(animus)', 여자의 남성 적인 면은 ’아니마(anima)'이다.",
-      "5": "페르소나(persona)는 개인이 외부에 표출하는 이미지 혹 은 가면을 의미한다."
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 179,
-    "date": "20180120",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 12,
-    "question": "피아제(J. Piaget)의 인지발달단계 중 감각운동기의 세부 단 계와 그 설명으로 옳지 않은 것은?",
     "choices": {
       "1": "반사기(출생-1개월): 반사행동을 통하여 환경 내 자극들 을 동화시키며 성장한다.",
       "2": "1차 순환반응기(1-4개월): 손가락 빨기와 같이 우연한 신체적 경험을 하여 흥미 있는 결과를 얻었을 때 이를 반복한다.",
@@ -3390,12 +3162,12 @@
       "5": "3차 순환반응기(12-18개월): 행동하기 전에 생각을 반복 한다."
     },
     "answers": [
-      5
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 180,
+    "id": 168,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3414,7 +3186,7 @@
     "explanation": ""
   },
   {
-    "id": 181,
+    "id": 169,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3433,7 +3205,7 @@
     "explanation": ""
   },
   {
-    "id": 182,
+    "id": 170,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3452,7 +3224,7 @@
     "explanation": ""
   },
   {
-    "id": 183,
+    "id": 171,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3471,7 +3243,7 @@
     "explanation": ""
   },
   {
-    "id": 184,
+    "id": 172,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3490,7 +3262,7 @@
     "explanation": ""
   },
   {
-    "id": 185,
+    "id": 173,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3509,7 +3281,7 @@
     "explanation": ""
   },
   {
-    "id": 186,
+    "id": 174,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3528,7 +3300,7 @@
     "explanation": ""
   },
   {
-    "id": 187,
+    "id": 175,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3547,7 +3319,7 @@
     "explanation": ""
   },
   {
-    "id": 188,
+    "id": 176,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3566,7 +3338,7 @@
     "explanation": ""
   },
   {
-    "id": 189,
+    "id": 177,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3585,7 +3357,7 @@
     "explanation": ""
   },
   {
-    "id": 190,
+    "id": 178,
     "date": "20180120",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3604,7 +3376,7 @@
     "explanation": ""
   },
   {
-    "id": 191,
+    "id": 179,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3623,7 +3395,7 @@
     "explanation": ""
   },
   {
-    "id": 192,
+    "id": 180,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3642,7 +3414,7 @@
     "explanation": ""
   },
   {
-    "id": 193,
+    "id": 181,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3661,7 +3433,7 @@
     "explanation": ""
   },
   {
-    "id": 194,
+    "id": 182,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3680,7 +3452,7 @@
     "explanation": ""
   },
   {
-    "id": 195,
+    "id": 183,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3699,7 +3471,7 @@
     "explanation": ""
   },
   {
-    "id": 196,
+    "id": 184,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3718,7 +3490,7 @@
     "explanation": ""
   },
   {
-    "id": 197,
+    "id": 185,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3737,7 +3509,7 @@
     "explanation": ""
   },
   {
-    "id": 198,
+    "id": 186,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3756,7 +3528,7 @@
     "explanation": ""
   },
   {
-    "id": 199,
+    "id": 187,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3775,7 +3547,7 @@
     "explanation": ""
   },
   {
-    "id": 200,
+    "id": 188,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3794,7 +3566,7 @@
     "explanation": ""
   },
   {
-    "id": 201,
+    "id": 189,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3813,7 +3585,7 @@
     "explanation": ""
   },
   {
-    "id": 202,
+    "id": 190,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3832,7 +3604,7 @@
     "explanation": ""
   },
   {
-    "id": 203,
+    "id": 191,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3851,7 +3623,7 @@
     "explanation": ""
   },
   {
-    "id": 204,
+    "id": 192,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3870,7 +3642,7 @@
     "explanation": ""
   },
   {
-    "id": 205,
+    "id": 193,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3889,7 +3661,7 @@
     "explanation": ""
   },
   {
-    "id": 206,
+    "id": 194,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3908,7 +3680,7 @@
     "explanation": ""
   },
   {
-    "id": 207,
+    "id": 195,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -3927,7 +3699,7 @@
     "explanation": ""
   },
   {
-    "id": 208,
+    "id": 196,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3946,7 +3718,7 @@
     "explanation": ""
   },
   {
-    "id": 209,
+    "id": 197,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -3965,31 +3737,12 @@
     "explanation": ""
   },
   {
-    "id": 210,
+    "id": 198,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 3,
     "question": "인간발달의 원리로 옳지 않은 것은?",
-    "choices": {
-      "1": "유전과 환경의 영향을 모두 받는다.",
-      "2": "일생에 걸친 예측 불가능한 변화이다.",
-      "3": "발달의 정도와 속도는 개인마다 다르다.",
-      "4": "일정한 순서와 방향성이 존재한다.",
-      "5": "멈추는 일 없이 지속된다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 211,
-    "date": "20190119",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 4,
-    "question": "에릭슨(E. Erikson)의 심리사회적 발달단계에서 긍정적 결과 와 주요관계의 연결이 옳지 않은 것은?",
     "choices": {
       "1": "영아기(0-2세, 신뢰감 대 불신감): 지혜 - 어머니",
       "2": "유아기(2-4세, 자율성 대 수치심과 의심): 의지 - 부모",
@@ -3998,12 +3751,12 @@
       "5": "청소년기(12-19세, 자아정체감 대 정체감 혼란): 성실 - 또래집단"
     },
     "answers": [
-      1
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 212,
+    "id": 199,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4022,7 +3775,7 @@
     "explanation": ""
   },
   {
-    "id": 213,
+    "id": 200,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4041,7 +3794,7 @@
     "explanation": ""
   },
   {
-    "id": 214,
+    "id": 201,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4060,7 +3813,7 @@
     "explanation": ""
   },
   {
-    "id": 215,
+    "id": 202,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4079,7 +3832,7 @@
     "explanation": ""
   },
   {
-    "id": 216,
+    "id": 203,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4098,7 +3851,7 @@
     "explanation": ""
   },
   {
-    "id": 217,
+    "id": 204,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4117,7 +3870,7 @@
     "explanation": ""
   },
   {
-    "id": 218,
+    "id": 205,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4136,7 +3889,7 @@
     "explanation": ""
   },
   {
-    "id": 219,
+    "id": 206,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4155,7 +3908,7 @@
     "explanation": ""
   },
   {
-    "id": 220,
+    "id": 207,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4174,7 +3927,7 @@
     "explanation": ""
   },
   {
-    "id": 221,
+    "id": 208,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4193,7 +3946,7 @@
     "explanation": ""
   },
   {
-    "id": 222,
+    "id": 209,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4212,7 +3965,7 @@
     "explanation": ""
   },
   {
-    "id": 223,
+    "id": 210,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4231,7 +3984,7 @@
     "explanation": ""
   },
   {
-    "id": 224,
+    "id": 211,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4250,7 +4003,7 @@
     "explanation": ""
   },
   {
-    "id": 225,
+    "id": 212,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4269,7 +4022,7 @@
     "explanation": ""
   },
   {
-    "id": 226,
+    "id": 213,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4288,31 +4041,12 @@
     "explanation": ""
   },
   {
-    "id": 227,
+    "id": 214,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 23,
     "question": "중장년기(36-64세)의 특성으로 옳은 것을 모두 고른 것은?",
-    "choices": {
-      "1": "ㄱ, ㄹ",
-      "2": "ㄴ, ㄷ",
-      "3": "ㄱ, ㄷ, ㄹ",
-      "4": "ㄴ, ㄷ, ㄹ",
-      "5": "ㄱ, ㄴ, ㄷ, ㄹ"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 228,
-    "date": "20190119",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 24,
-    "question": "퀴블러 로스(E. Kubler-Ross)의 죽음에 이르는 5단계에 관 한 설명으로 옳지 않은 것은?",
     "choices": {
       "1": "1단계: 죽음을 사실로 받아들이지 않고 부정한다.",
       "2": "2단계: 주변 사람들에게 화를 내며 분노한다.",
@@ -4321,12 +4055,12 @@
       "5": "5단계: 죽음을 수용하고 임종을 준비한다."
     },
     "answers": [
-      4
+      3
     ],
     "explanation": ""
   },
   {
-    "id": 229,
+    "id": 215,
     "date": "20190119",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4345,7 +4079,7 @@
     "explanation": ""
   },
   {
-    "id": 230,
+    "id": 216,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4364,7 +4098,7 @@
     "explanation": ""
   },
   {
-    "id": 231,
+    "id": 217,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4383,7 +4117,7 @@
     "explanation": ""
   },
   {
-    "id": 232,
+    "id": 218,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4402,7 +4136,7 @@
     "explanation": ""
   },
   {
-    "id": 233,
+    "id": 219,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4421,7 +4155,7 @@
     "explanation": ""
   },
   {
-    "id": 234,
+    "id": 220,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4440,7 +4174,7 @@
     "explanation": ""
   },
   {
-    "id": 235,
+    "id": 221,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4459,7 +4193,7 @@
     "explanation": ""
   },
   {
-    "id": 236,
+    "id": 222,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4478,7 +4212,7 @@
     "explanation": ""
   },
   {
-    "id": 237,
+    "id": 223,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4497,7 +4231,7 @@
     "explanation": ""
   },
   {
-    "id": 238,
+    "id": 224,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4516,7 +4250,7 @@
     "explanation": ""
   },
   {
-    "id": 239,
+    "id": 225,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4535,7 +4269,7 @@
     "explanation": ""
   },
   {
-    "id": 240,
+    "id": 226,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4554,7 +4288,7 @@
     "explanation": ""
   },
   {
-    "id": 241,
+    "id": 227,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4573,31 +4307,12 @@
     "explanation": ""
   },
   {
-    "id": 242,
+    "id": 228,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
     "question_no": 42,
     "question": "조사연구 과정의 일부분이다. 이를 올바르게 나열한 것은?",
-    "choices": {
-      "1": "ㄱ → ㄴ → ㄷ → ㄹ",
-      "2": "ㄱ → ㄷ → ㄴ → ㄹ",
-      "3": "ㄱ → ㄷ → ㄹ → ㄴ",
-      "4": "ㄷ → ㄱ → ㄴ → ㄹ",
-      "5": "ㄷ → ㄱ → ㄹ → ㄴ"
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 243,
-    "date": "20190119",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 43,
-    "question": "지역사회보장계획을 수립하기 위해 포함될 수 있는 조사를 모두 고른 것은?",
     "choices": {
       "1": "ㄱ",
       "2": "ㄴ, ㄹ",
@@ -4611,7 +4326,7 @@
     "explanation": ""
   },
   {
-    "id": 244,
+    "id": 229,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4630,7 +4345,7 @@
     "explanation": ""
   },
   {
-    "id": 245,
+    "id": 230,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4649,7 +4364,7 @@
     "explanation": ""
   },
   {
-    "id": 246,
+    "id": 231,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4668,7 +4383,7 @@
     "explanation": ""
   },
   {
-    "id": 247,
+    "id": 232,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4687,7 +4402,7 @@
     "explanation": ""
   },
   {
-    "id": 248,
+    "id": 233,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4706,7 +4421,7 @@
     "explanation": ""
   },
   {
-    "id": 249,
+    "id": 234,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -4725,7 +4440,7 @@
     "explanation": ""
   },
   {
-    "id": 250,
+    "id": 235,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4744,7 +4459,7 @@
     "explanation": ""
   },
   {
-    "id": 251,
+    "id": 236,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4763,7 +4478,7 @@
     "explanation": ""
   },
   {
-    "id": 252,
+    "id": 237,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4782,7 +4497,7 @@
     "explanation": ""
   },
   {
-    "id": 253,
+    "id": 238,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4801,7 +4516,7 @@
     "explanation": ""
   },
   {
-    "id": 254,
+    "id": 239,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4820,7 +4535,7 @@
     "explanation": ""
   },
   {
-    "id": 255,
+    "id": 240,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4839,7 +4554,7 @@
     "explanation": ""
   },
   {
-    "id": 256,
+    "id": 241,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4858,7 +4573,7 @@
     "explanation": ""
   },
   {
-    "id": 257,
+    "id": 242,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4877,7 +4592,7 @@
     "explanation": ""
   },
   {
-    "id": 258,
+    "id": 243,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4896,26 +4611,7 @@
     "explanation": ""
   },
   {
-    "id": 259,
-    "date": "20200208",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 12,
-    "question": "받아들일 수 없는 자신의 욕망이나 충동을 타인에게 돌리 는 방어기제는?",
-    "choices": {
-      "1": "전치(displacement)",
-      "2": "억압(repression)",
-      "3": "투사(projection)",
-      "4": "합리화(rationalization)",
-      "5": "반동형성(reaction formation)"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 260,
+    "id": 244,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4934,7 +4630,7 @@
     "explanation": ""
   },
   {
-    "id": 261,
+    "id": 245,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4953,7 +4649,7 @@
     "explanation": ""
   },
   {
-    "id": 262,
+    "id": 246,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4972,7 +4668,7 @@
     "explanation": ""
   },
   {
-    "id": 263,
+    "id": 247,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -4991,7 +4687,7 @@
     "explanation": ""
   },
   {
-    "id": 264,
+    "id": 248,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5010,7 +4706,7 @@
     "explanation": ""
   },
   {
-    "id": 265,
+    "id": 249,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5029,7 +4725,7 @@
     "explanation": ""
   },
   {
-    "id": 266,
+    "id": 250,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5048,7 +4744,7 @@
     "explanation": ""
   },
   {
-    "id": 267,
+    "id": 251,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5067,7 +4763,7 @@
     "explanation": ""
   },
   {
-    "id": 268,
+    "id": 252,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5086,7 +4782,7 @@
     "explanation": ""
   },
   {
-    "id": 269,
+    "id": 253,
     "date": "20200208",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5105,7 +4801,7 @@
     "explanation": ""
   },
   {
-    "id": 270,
+    "id": 254,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5124,7 +4820,7 @@
     "explanation": ""
   },
   {
-    "id": 271,
+    "id": 255,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5143,7 +4839,7 @@
     "explanation": ""
   },
   {
-    "id": 272,
+    "id": 256,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5162,7 +4858,7 @@
     "explanation": ""
   },
   {
-    "id": 273,
+    "id": 257,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5181,7 +4877,7 @@
     "explanation": ""
   },
   {
-    "id": 274,
+    "id": 258,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5200,7 +4896,7 @@
     "explanation": ""
   },
   {
-    "id": 275,
+    "id": 259,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5219,7 +4915,7 @@
     "explanation": ""
   },
   {
-    "id": 276,
+    "id": 260,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5238,7 +4934,7 @@
     "explanation": ""
   },
   {
-    "id": 277,
+    "id": 261,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5257,7 +4953,7 @@
     "explanation": ""
   },
   {
-    "id": 278,
+    "id": 262,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5276,7 +4972,7 @@
     "explanation": ""
   },
   {
-    "id": 279,
+    "id": 263,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5295,7 +4991,7 @@
     "explanation": ""
   },
   {
-    "id": 280,
+    "id": 264,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5314,7 +5010,7 @@
     "explanation": ""
   },
   {
-    "id": 281,
+    "id": 265,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5333,7 +5029,7 @@
     "explanation": ""
   },
   {
-    "id": 282,
+    "id": 266,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5352,7 +5048,7 @@
     "explanation": ""
   },
   {
-    "id": 283,
+    "id": 267,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5371,7 +5067,7 @@
     "explanation": ""
   },
   {
-    "id": 284,
+    "id": 268,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5390,7 +5086,7 @@
     "explanation": ""
   },
   {
-    "id": 285,
+    "id": 269,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5409,7 +5105,7 @@
     "explanation": ""
   },
   {
-    "id": 286,
+    "id": 270,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5428,7 +5124,7 @@
     "explanation": ""
   },
   {
-    "id": 287,
+    "id": 271,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5447,7 +5143,7 @@
     "explanation": ""
   },
   {
-    "id": 288,
+    "id": 272,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5466,7 +5162,7 @@
     "explanation": ""
   },
   {
-    "id": 289,
+    "id": 273,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5485,7 +5181,7 @@
     "explanation": ""
   },
   {
-    "id": 290,
+    "id": 274,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5504,7 +5200,7 @@
     "explanation": ""
   },
   {
-    "id": 291,
+    "id": 275,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5523,7 +5219,7 @@
     "explanation": ""
   },
   {
-    "id": 292,
+    "id": 276,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5542,7 +5238,7 @@
     "explanation": ""
   },
   {
-    "id": 293,
+    "id": 277,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5561,7 +5257,7 @@
     "explanation": ""
   },
   {
-    "id": 294,
+    "id": 278,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5580,7 +5276,7 @@
     "explanation": ""
   },
   {
-    "id": 295,
+    "id": 279,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5599,7 +5295,7 @@
     "explanation": ""
   },
   {
-    "id": 296,
+    "id": 280,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5618,7 +5314,7 @@
     "explanation": ""
   },
   {
-    "id": 297,
+    "id": 281,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5637,7 +5333,7 @@
     "explanation": ""
   },
   {
-    "id": 298,
+    "id": 282,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5656,7 +5352,7 @@
     "explanation": ""
   },
   {
-    "id": 299,
+    "id": 283,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5675,7 +5371,7 @@
     "explanation": ""
   },
   {
-    "id": 300,
+    "id": 284,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5694,7 +5390,7 @@
     "explanation": ""
   },
   {
-    "id": 301,
+    "id": 285,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5713,7 +5409,7 @@
     "explanation": ""
   },
   {
-    "id": 302,
+    "id": 286,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5732,7 +5428,7 @@
     "explanation": ""
   },
   {
-    "id": 303,
+    "id": 287,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5751,7 +5447,7 @@
     "explanation": ""
   },
   {
-    "id": 304,
+    "id": 288,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5770,7 +5466,7 @@
     "explanation": ""
   },
   {
-    "id": 305,
+    "id": 289,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5789,7 +5485,7 @@
     "explanation": ""
   },
   {
-    "id": 306,
+    "id": 290,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5808,7 +5504,7 @@
     "explanation": ""
   },
   {
-    "id": 307,
+    "id": 291,
     "date": "20210206",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -5827,7 +5523,7 @@
     "explanation": ""
   },
   {
-    "id": 308,
+    "id": 292,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5846,7 +5542,7 @@
     "explanation": ""
   },
   {
-    "id": 309,
+    "id": 293,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5865,7 +5561,7 @@
     "explanation": ""
   },
   {
-    "id": 310,
+    "id": 294,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5884,7 +5580,7 @@
     "explanation": ""
   },
   {
-    "id": 311,
+    "id": 295,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5903,7 +5599,7 @@
     "explanation": ""
   },
   {
-    "id": 312,
+    "id": 296,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5922,7 +5618,7 @@
     "explanation": ""
   },
   {
-    "id": 313,
+    "id": 297,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5941,7 +5637,7 @@
     "explanation": ""
   },
   {
-    "id": 314,
+    "id": 298,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5960,7 +5656,7 @@
     "explanation": ""
   },
   {
-    "id": 315,
+    "id": 299,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5979,7 +5675,7 @@
     "explanation": ""
   },
   {
-    "id": 316,
+    "id": 300,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -5998,7 +5694,7 @@
     "explanation": ""
   },
   {
-    "id": 317,
+    "id": 301,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6017,7 +5713,7 @@
     "explanation": ""
   },
   {
-    "id": 318,
+    "id": 302,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6036,7 +5732,7 @@
     "explanation": ""
   },
   {
-    "id": 319,
+    "id": 303,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6055,7 +5751,7 @@
     "explanation": ""
   },
   {
-    "id": 320,
+    "id": 304,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6074,7 +5770,7 @@
     "explanation": ""
   },
   {
-    "id": 321,
+    "id": 305,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6093,7 +5789,7 @@
     "explanation": ""
   },
   {
-    "id": 322,
+    "id": 306,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6112,7 +5808,7 @@
     "explanation": ""
   },
   {
-    "id": 323,
+    "id": 307,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6131,7 +5827,7 @@
     "explanation": ""
   },
   {
-    "id": 324,
+    "id": 308,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6150,7 +5846,7 @@
     "explanation": ""
   },
   {
-    "id": 325,
+    "id": 309,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6169,7 +5865,7 @@
     "explanation": ""
   },
   {
-    "id": 326,
+    "id": 310,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6188,7 +5884,7 @@
     "explanation": ""
   },
   {
-    "id": 327,
+    "id": 311,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6207,7 +5903,7 @@
     "explanation": ""
   },
   {
-    "id": 328,
+    "id": 312,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6226,31 +5922,12 @@
     "explanation": ""
   },
   {
-    "id": 329,
+    "id": 313,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 2,
     "question": "인간발달 및 그 유사개념에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "성장(growth)은 시간의 경과에 따라 나타나는 양적 변화 이다.",
-      "2": "성숙(maturation)은 환경과의 상호작용에 의한 사회적 발 달이다.",
-      "3": "학습(learning)은 경험이나 훈련의 결과로 나타나는 행동 변화이다.",
-      "4": "인간발달은 유전과 환경의 상호작용 결과이다.",
-      "5": "인간발달은 상승적 변화와 하강적 변화를 모두 포함한다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 330,
-    "date": "20220122",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 3,
-    "question": "동갑 친구들 A∼C의 대화에서 알 수 있는 인간발달의 원리 는?",
     "choices": {
       "1": "발달에는 개인차가 있다.",
       "2": "발달의 초기단계가 일생에서 가장 중요하다.",
@@ -6259,12 +5936,12 @@
       "5": "발달은 이전의 발달과업 성취에 기초하여 이루어진다."
     },
     "answers": [
-      1
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 331,
+    "id": 314,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6283,7 +5960,7 @@
     "explanation": ""
   },
   {
-    "id": 332,
+    "id": 315,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6302,7 +5979,7 @@
     "explanation": ""
   },
   {
-    "id": 333,
+    "id": 316,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6321,7 +5998,7 @@
     "explanation": ""
   },
   {
-    "id": 334,
+    "id": 317,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6340,7 +6017,7 @@
     "explanation": ""
   },
   {
-    "id": 335,
+    "id": 318,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6359,7 +6036,7 @@
     "explanation": ""
   },
   {
-    "id": 336,
+    "id": 319,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6378,7 +6055,7 @@
     "explanation": ""
   },
   {
-    "id": 337,
+    "id": 320,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6397,7 +6074,7 @@
     "explanation": ""
   },
   {
-    "id": 338,
+    "id": 321,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6416,31 +6093,12 @@
     "explanation": ""
   },
   {
-    "id": 339,
+    "id": 322,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 17,
     "question": "문화에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "사회체계로서 중간체계에 해당된다.",
-      "2": "사회구성원들 간에 공유된다.",
-      "3": "문화변용은 둘 이상의 문화가 지속적으로 접촉하여 한쪽 이나 양쪽에 변화가 일어나는 현상이다.",
-      "4": "세대 간에 전승되며 축적된다.",
-      "5": "사회화에 대한 지침을 제공한다."
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 340,
-    "date": "20220122",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 18,
-    "question": "태내기(수정-출산)에 유전적 요인으로 인해 발생할 수 있는 장애에 관한 설명으로 옳은 것은?",
     "choices": {
       "1": "다운증후군은 지능 저하를 동반하지 않는다.",
       "2": "헌팅톤병은 열성 유전인자 질병으로서 단백질의 대사장 애를 일으킨다.",
@@ -6449,12 +6107,12 @@
       "5": "혈우병은 여성에게만 발병한다."
     },
     "answers": [
-      3
+      1
     ],
     "explanation": ""
   },
   {
-    "id": 341,
+    "id": 323,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6473,7 +6131,7 @@
     "explanation": ""
   },
   {
-    "id": 342,
+    "id": 324,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6492,7 +6150,7 @@
     "explanation": ""
   },
   {
-    "id": 343,
+    "id": 325,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6511,7 +6169,7 @@
     "explanation": ""
   },
   {
-    "id": 344,
+    "id": 326,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6530,7 +6188,7 @@
     "explanation": ""
   },
   {
-    "id": 345,
+    "id": 327,
     "date": "20220122",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -6549,7 +6207,7 @@
     "explanation": ""
   },
   {
-    "id": 346,
+    "id": 328,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6568,7 +6226,7 @@
     "explanation": ""
   },
   {
-    "id": 347,
+    "id": 329,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6587,7 +6245,7 @@
     "explanation": ""
   },
   {
-    "id": 348,
+    "id": 330,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6606,7 +6264,7 @@
     "explanation": ""
   },
   {
-    "id": 349,
+    "id": 331,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6625,7 +6283,7 @@
     "explanation": ""
   },
   {
-    "id": 350,
+    "id": 332,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6644,7 +6302,7 @@
     "explanation": ""
   },
   {
-    "id": 351,
+    "id": 333,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6663,7 +6321,7 @@
     "explanation": ""
   },
   {
-    "id": 352,
+    "id": 334,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6682,7 +6340,7 @@
     "explanation": ""
   },
   {
-    "id": 353,
+    "id": 335,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6701,7 +6359,7 @@
     "explanation": ""
   },
   {
-    "id": 354,
+    "id": 336,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6720,7 +6378,7 @@
     "explanation": ""
   },
   {
-    "id": 355,
+    "id": 337,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6739,7 +6397,7 @@
     "explanation": ""
   },
   {
-    "id": 356,
+    "id": 338,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6757,7 +6415,7 @@
     "explanation": ""
   },
   {
-    "id": 357,
+    "id": 339,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6776,31 +6434,12 @@
     "explanation": ""
   },
   {
-    "id": 358,
+    "id": 340,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
     "question_no": 40,
     "question": "신뢰도에 관한 설명으로 옳은 것을 모두 고른 것은?",
-    "choices": {
-      "1": "ㄱ",
-      "2": "ㄴ",
-      "3": "ㄱ, ㄴ",
-      "4": "ㄱ, ㄷ",
-      "5": "ㄱ, ㄴ, ㄷ"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 359,
-    "date": "20220122",
-    "subject": 2,
-    "subject_name": "사회복지 조사론",
-    "question_no": 41,
-    "question": "다른 조건이 같다면, 확률표집에서 표집오차(sampling error)에 관한 설명으로 옳지 않은 것은?",
     "choices": {
       "1": "표준오차(standard error)가 커지면 표집오차도 커진다.",
       "2": "신뢰수준(confidence level)을 높이면 표집오차가 감소한 다.",
@@ -6809,12 +6448,12 @@
       "5": "층화를 통해 단순무작위추출의 표집오차를 줄일 수 있 다."
     },
     "answers": [
-      2
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 360,
+    "id": 341,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6833,7 +6472,7 @@
     "explanation": ""
   },
   {
-    "id": 361,
+    "id": 342,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6851,7 +6490,7 @@
     "explanation": ""
   },
   {
-    "id": 362,
+    "id": 343,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6870,7 +6509,7 @@
     "explanation": ""
   },
   {
-    "id": 363,
+    "id": 344,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6889,7 +6528,7 @@
     "explanation": ""
   },
   {
-    "id": 364,
+    "id": 345,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6908,7 +6547,7 @@
     "explanation": ""
   },
   {
-    "id": 365,
+    "id": 346,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6927,7 +6566,7 @@
     "explanation": ""
   },
   {
-    "id": 366,
+    "id": 347,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6945,7 +6584,7 @@
     "explanation": ""
   },
   {
-    "id": 367,
+    "id": 348,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6964,7 +6603,7 @@
     "explanation": ""
   },
   {
-    "id": 368,
+    "id": 349,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -6983,7 +6622,7 @@
     "explanation": ""
   },
   {
-    "id": 369,
+    "id": 350,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7002,7 +6641,7 @@
     "explanation": ""
   },
   {
-    "id": 370,
+    "id": 351,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7021,7 +6660,7 @@
     "explanation": ""
   },
   {
-    "id": 371,
+    "id": 352,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7040,7 +6679,7 @@
     "explanation": ""
   },
   {
-    "id": 372,
+    "id": 353,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7059,7 +6698,7 @@
     "explanation": ""
   },
   {
-    "id": 373,
+    "id": 354,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7078,7 +6717,7 @@
     "explanation": ""
   },
   {
-    "id": 374,
+    "id": 355,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7097,7 +6736,7 @@
     "explanation": ""
   },
   {
-    "id": 375,
+    "id": 356,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7116,7 +6755,7 @@
     "explanation": ""
   },
   {
-    "id": 376,
+    "id": 357,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7135,7 +6774,7 @@
     "explanation": ""
   },
   {
-    "id": 377,
+    "id": 358,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7154,7 +6793,7 @@
     "explanation": ""
   },
   {
-    "id": 378,
+    "id": 359,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7173,7 +6812,7 @@
     "explanation": ""
   },
   {
-    "id": 379,
+    "id": 360,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7192,7 +6831,7 @@
     "explanation": ""
   },
   {
-    "id": 380,
+    "id": 361,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7211,7 +6850,7 @@
     "explanation": ""
   },
   {
-    "id": 381,
+    "id": 362,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7229,7 +6868,7 @@
     "explanation": ""
   },
   {
-    "id": 382,
+    "id": 363,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7248,7 +6887,7 @@
     "explanation": ""
   },
   {
-    "id": 383,
+    "id": 364,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7267,7 +6906,7 @@
     "explanation": ""
   },
   {
-    "id": 384,
+    "id": 365,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7286,7 +6925,7 @@
     "explanation": ""
   },
   {
-    "id": 385,
+    "id": 366,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7305,7 +6944,7 @@
     "explanation": ""
   },
   {
-    "id": 386,
+    "id": 367,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7324,7 +6963,7 @@
     "explanation": ""
   },
   {
-    "id": 387,
+    "id": 368,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7343,7 +6982,7 @@
     "explanation": ""
   },
   {
-    "id": 388,
+    "id": 369,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7362,7 +7001,7 @@
     "explanation": ""
   },
   {
-    "id": 389,
+    "id": 370,
     "date": "20230114",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7381,7 +7020,7 @@
     "explanation": ""
   },
   {
-    "id": 390,
+    "id": 371,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7400,7 +7039,7 @@
     "explanation": ""
   },
   {
-    "id": 391,
+    "id": 372,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7419,7 +7058,7 @@
     "explanation": ""
   },
   {
-    "id": 392,
+    "id": 373,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7438,7 +7077,7 @@
     "explanation": ""
   },
   {
-    "id": 393,
+    "id": 374,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7457,7 +7096,7 @@
     "explanation": ""
   },
   {
-    "id": 394,
+    "id": 375,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7476,7 +7115,7 @@
     "explanation": ""
   },
   {
-    "id": 395,
+    "id": 376,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7495,7 +7134,7 @@
     "explanation": ""
   },
   {
-    "id": 396,
+    "id": 377,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7514,7 +7153,7 @@
     "explanation": ""
   },
   {
-    "id": 397,
+    "id": 378,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7533,7 +7172,7 @@
     "explanation": ""
   },
   {
-    "id": 398,
+    "id": 379,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7552,7 +7191,7 @@
     "explanation": ""
   },
   {
-    "id": 399,
+    "id": 380,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7571,7 +7210,7 @@
     "explanation": ""
   },
   {
-    "id": 400,
+    "id": 381,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7590,7 +7229,7 @@
     "explanation": ""
   },
   {
-    "id": 401,
+    "id": 382,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7609,7 +7248,7 @@
     "explanation": ""
   },
   {
-    "id": 402,
+    "id": 383,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7628,7 +7267,7 @@
     "explanation": ""
   },
   {
-    "id": 403,
+    "id": 384,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7647,7 +7286,7 @@
     "explanation": ""
   },
   {
-    "id": 404,
+    "id": 385,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7666,7 +7305,7 @@
     "explanation": ""
   },
   {
-    "id": 405,
+    "id": 386,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7685,7 +7324,7 @@
     "explanation": ""
   },
   {
-    "id": 406,
+    "id": 387,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7704,7 +7343,7 @@
     "explanation": ""
   },
   {
-    "id": 407,
+    "id": 388,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7723,7 +7362,7 @@
     "explanation": ""
   },
   {
-    "id": 408,
+    "id": 389,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -7742,7 +7381,7 @@
     "explanation": ""
   },
   {
-    "id": 409,
+    "id": 390,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7761,7 +7400,7 @@
     "explanation": ""
   },
   {
-    "id": 410,
+    "id": 391,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7780,7 +7419,7 @@
     "explanation": ""
   },
   {
-    "id": 411,
+    "id": 392,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7799,7 +7438,7 @@
     "explanation": ""
   },
   {
-    "id": 412,
+    "id": 393,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7818,7 +7457,7 @@
     "explanation": ""
   },
   {
-    "id": 413,
+    "id": 394,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7837,31 +7476,12 @@
     "explanation": ""
   },
   {
-    "id": 414,
+    "id": 395,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 6,
     "question": "아들러(A. Adler)의 이론에 관한 설명으로 옳은 것은?",
-    "choices": {
-      "1": "성격은 점성원리에 따라 발달한다.",
-      "2": "개인의 창조성을 부정한다.",
-      "3": "무의식적 결정론을 고수하고 있다.",
-      "4": "유전적ㆍ환경적 요인의 중요성을 배제한다.",
-      "5": "인간을 목표지향적 존재로 본다."
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 415,
-    "date": "20240113",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 7,
-    "question": "에릭슨(E. Erikson)의 심리사회적 발달단계 위기와 성취 덕목 (virtue)이 옳게 연결된 것은?",
     "choices": {
       "1": "근면성 대 열등감 - 성실(fidelity)",
       "2": "주도성 대 죄의식 - 목적(purpose)",
@@ -7870,12 +7490,12 @@
       "5": "정체감 대 정체감 혼란 - 희망(hope)"
     },
     "answers": [
-      2
+      5
     ],
     "explanation": ""
   },
   {
-    "id": 416,
+    "id": 396,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7894,7 +7514,7 @@
     "explanation": ""
   },
   {
-    "id": 417,
+    "id": 397,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7913,7 +7533,7 @@
     "explanation": ""
   },
   {
-    "id": 418,
+    "id": 398,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7932,7 +7552,7 @@
     "explanation": ""
   },
   {
-    "id": 419,
+    "id": 399,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7951,7 +7571,7 @@
     "explanation": ""
   },
   {
-    "id": 420,
+    "id": 400,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7970,7 +7590,7 @@
     "explanation": ""
   },
   {
-    "id": 421,
+    "id": 401,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -7989,7 +7609,7 @@
     "explanation": ""
   },
   {
-    "id": 422,
+    "id": 402,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8008,7 +7628,7 @@
     "explanation": ""
   },
   {
-    "id": 423,
+    "id": 403,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8027,7 +7647,7 @@
     "explanation": ""
   },
   {
-    "id": 424,
+    "id": 404,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8046,7 +7666,7 @@
     "explanation": ""
   },
   {
-    "id": 425,
+    "id": 405,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8065,7 +7685,7 @@
     "explanation": ""
   },
   {
-    "id": 426,
+    "id": 406,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8084,7 +7704,7 @@
     "explanation": ""
   },
   {
-    "id": 427,
+    "id": 407,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8103,7 +7723,7 @@
     "explanation": ""
   },
   {
-    "id": 428,
+    "id": 408,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8122,7 +7742,7 @@
     "explanation": ""
   },
   {
-    "id": 429,
+    "id": 409,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8141,7 +7761,7 @@
     "explanation": ""
   },
   {
-    "id": 430,
+    "id": 410,
     "date": "20240113",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8160,7 +7780,7 @@
     "explanation": ""
   },
   {
-    "id": 431,
+    "id": 411,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8179,7 +7799,7 @@
     "explanation": ""
   },
   {
-    "id": 432,
+    "id": 412,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8198,7 +7818,7 @@
     "explanation": ""
   },
   {
-    "id": 433,
+    "id": 413,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8217,7 +7837,7 @@
     "explanation": ""
   },
   {
-    "id": 434,
+    "id": 414,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8236,7 +7856,7 @@
     "explanation": ""
   },
   {
-    "id": 435,
+    "id": 415,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8255,7 +7875,7 @@
     "explanation": ""
   },
   {
-    "id": 436,
+    "id": 416,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8274,7 +7894,7 @@
     "explanation": ""
   },
   {
-    "id": 437,
+    "id": 417,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8292,7 +7912,7 @@
     "explanation": ""
   },
   {
-    "id": 438,
+    "id": 418,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8311,7 +7931,7 @@
     "explanation": ""
   },
   {
-    "id": 439,
+    "id": 419,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8330,7 +7950,7 @@
     "explanation": ""
   },
   {
-    "id": 440,
+    "id": 420,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8349,7 +7969,7 @@
     "explanation": ""
   },
   {
-    "id": 441,
+    "id": 421,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8368,7 +7988,7 @@
     "explanation": ""
   },
   {
-    "id": 442,
+    "id": 422,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8387,7 +8007,7 @@
     "explanation": ""
   },
   {
-    "id": 443,
+    "id": 423,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8406,7 +8026,7 @@
     "explanation": ""
   },
   {
-    "id": 444,
+    "id": 424,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8425,7 +8045,7 @@
     "explanation": ""
   },
   {
-    "id": 445,
+    "id": 425,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8444,7 +8064,7 @@
     "explanation": ""
   },
   {
-    "id": 446,
+    "id": 426,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8463,7 +8083,7 @@
     "explanation": ""
   },
   {
-    "id": 447,
+    "id": 427,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8482,7 +8102,7 @@
     "explanation": ""
   },
   {
-    "id": 448,
+    "id": 428,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8501,7 +8121,7 @@
     "explanation": ""
   },
   {
-    "id": 449,
+    "id": 429,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8520,7 +8140,7 @@
     "explanation": ""
   },
   {
-    "id": 450,
+    "id": 430,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8539,7 +8159,7 @@
     "explanation": ""
   },
   {
-    "id": 451,
+    "id": 431,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8558,7 +8178,7 @@
     "explanation": ""
   },
   {
-    "id": 452,
+    "id": 432,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8577,7 +8197,7 @@
     "explanation": ""
   },
   {
-    "id": 453,
+    "id": 433,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8596,7 +8216,7 @@
     "explanation": ""
   },
   {
-    "id": 454,
+    "id": 434,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8615,7 +8235,7 @@
     "explanation": ""
   },
   {
-    "id": 455,
+    "id": 435,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8634,7 +8254,7 @@
     "explanation": ""
   },
   {
-    "id": 456,
+    "id": 436,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8653,7 +8273,7 @@
     "explanation": ""
   },
   {
-    "id": 457,
+    "id": 437,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8672,7 +8292,7 @@
     "explanation": ""
   },
   {
-    "id": 458,
+    "id": 438,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8691,7 +8311,7 @@
     "explanation": ""
   },
   {
-    "id": 459,
+    "id": 439,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8710,7 +8330,7 @@
     "explanation": ""
   },
   {
-    "id": 460,
+    "id": 440,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8729,7 +8349,7 @@
     "explanation": ""
   },
   {
-    "id": 461,
+    "id": 441,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8748,7 +8368,7 @@
     "explanation": ""
   },
   {
-    "id": 462,
+    "id": 442,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8767,7 +8387,7 @@
     "explanation": ""
   },
   {
-    "id": 463,
+    "id": 443,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8786,7 +8406,7 @@
     "explanation": ""
   },
   {
-    "id": 464,
+    "id": 444,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8805,7 +8425,7 @@
     "explanation": ""
   },
   {
-    "id": 465,
+    "id": 445,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8824,7 +8444,7 @@
     "explanation": ""
   },
   {
-    "id": 466,
+    "id": 446,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8843,7 +8463,7 @@
     "explanation": ""
   },
   {
-    "id": 467,
+    "id": 447,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8862,7 +8482,7 @@
     "explanation": ""
   },
   {
-    "id": 468,
+    "id": 448,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8881,7 +8501,7 @@
     "explanation": ""
   },
   {
-    "id": 469,
+    "id": 449,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8899,7 +8519,7 @@
     "explanation": ""
   },
   {
-    "id": 470,
+    "id": 450,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8918,7 +8538,7 @@
     "explanation": ""
   },
   {
-    "id": 471,
+    "id": 451,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8937,7 +8557,7 @@
     "explanation": ""
   },
   {
-    "id": 472,
+    "id": 452,
     "date": "20250111",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -8956,7 +8576,7 @@
     "explanation": ""
   },
   {
-    "id": 473,
+    "id": 453,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8975,7 +8595,7 @@
     "explanation": ""
   },
   {
-    "id": 474,
+    "id": 454,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -8994,7 +8614,7 @@
     "explanation": ""
   },
   {
-    "id": 475,
+    "id": 455,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9013,7 +8633,7 @@
     "explanation": ""
   },
   {
-    "id": 476,
+    "id": 456,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9032,7 +8652,7 @@
     "explanation": ""
   },
   {
-    "id": 477,
+    "id": 457,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9051,7 +8671,7 @@
     "explanation": ""
   },
   {
-    "id": 478,
+    "id": 458,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9069,7 +8689,7 @@
     "explanation": ""
   },
   {
-    "id": 479,
+    "id": 459,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9088,7 +8708,7 @@
     "explanation": ""
   },
   {
-    "id": 480,
+    "id": 460,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9107,7 +8727,7 @@
     "explanation": ""
   },
   {
-    "id": 481,
+    "id": 461,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9126,7 +8746,7 @@
     "explanation": ""
   },
   {
-    "id": 482,
+    "id": 462,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9145,7 +8765,7 @@
     "explanation": ""
   },
   {
-    "id": 483,
+    "id": 463,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9164,7 +8784,7 @@
     "explanation": ""
   },
   {
-    "id": 484,
+    "id": 464,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9183,7 +8803,7 @@
     "explanation": ""
   },
   {
-    "id": 485,
+    "id": 465,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9202,7 +8822,7 @@
     "explanation": ""
   },
   {
-    "id": 486,
+    "id": 466,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9221,7 +8841,7 @@
     "explanation": ""
   },
   {
-    "id": 487,
+    "id": 467,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9240,7 +8860,7 @@
     "explanation": ""
   },
   {
-    "id": 488,
+    "id": 468,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9259,7 +8879,7 @@
     "explanation": ""
   },
   {
-    "id": 489,
+    "id": 469,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9278,7 +8898,7 @@
     "explanation": ""
   },
   {
-    "id": 490,
+    "id": 470,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9297,7 +8917,7 @@
     "explanation": ""
   },
   {
-    "id": 491,
+    "id": 471,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9316,7 +8936,7 @@
     "explanation": ""
   },
   {
-    "id": 492,
+    "id": 472,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9335,7 +8955,7 @@
     "explanation": ""
   },
   {
-    "id": 493,
+    "id": 473,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9354,7 +8974,7 @@
     "explanation": ""
   },
   {
-    "id": 494,
+    "id": 474,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9373,7 +8993,7 @@
     "explanation": ""
   },
   {
-    "id": 495,
+    "id": 475,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9392,7 +9012,7 @@
     "explanation": ""
   },
   {
-    "id": 496,
+    "id": 476,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9411,7 +9031,7 @@
     "explanation": ""
   },
   {
-    "id": 497,
+    "id": 477,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9430,7 +9050,7 @@
     "explanation": ""
   },
   {
-    "id": 498,
+    "id": 478,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9449,31 +9069,12 @@
     "explanation": ""
   },
   {
-    "id": 499,
+    "id": 479,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
     "question_no": 4,
     "question": "다음에서 설명하는 방어기제에 해당하는 것은?",
-    "choices": {
-      "1": "부정",
-      "2": "투사",
-      "3": "억압",
-      "4": "승화",
-      "5": "반동형성"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 500,
-    "date": "20260117",
-    "subject": 1,
-    "subject_name": "인간행동과 사회환경",
-    "question_no": 5,
-    "question": "에릭슨(E. Erikson)의 심리사회적 발달단계에서 주요 발달과 업과 위기의 연결로 옳지 않은 것은?",
     "choices": {
       "1": "신뢰감 대 불신감",
       "2": "근면성 대 열등감",
@@ -9482,12 +9083,12 @@
       "5": "자율성 대 수치심과 의심"
     },
     "answers": [
-      4
+      3
     ],
     "explanation": ""
   },
   {
-    "id": 501,
+    "id": 480,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9506,7 +9107,7 @@
     "explanation": ""
   },
   {
-    "id": 502,
+    "id": 481,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9525,7 +9126,7 @@
     "explanation": ""
   },
   {
-    "id": 503,
+    "id": 482,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9544,7 +9145,7 @@
     "explanation": ""
   },
   {
-    "id": 504,
+    "id": 483,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9563,7 +9164,7 @@
     "explanation": ""
   },
   {
-    "id": 505,
+    "id": 484,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9582,7 +9183,7 @@
     "explanation": ""
   },
   {
-    "id": 506,
+    "id": 485,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9601,7 +9202,7 @@
     "explanation": ""
   },
   {
-    "id": 507,
+    "id": 486,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9620,7 +9221,7 @@
     "explanation": ""
   },
   {
-    "id": 508,
+    "id": 487,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9639,7 +9240,7 @@
     "explanation": ""
   },
   {
-    "id": 509,
+    "id": 488,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9658,7 +9259,7 @@
     "explanation": ""
   },
   {
-    "id": 510,
+    "id": 489,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9677,7 +9278,7 @@
     "explanation": ""
   },
   {
-    "id": 511,
+    "id": 490,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9696,7 +9297,7 @@
     "explanation": ""
   },
   {
-    "id": 512,
+    "id": 491,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9715,7 +9316,7 @@
     "explanation": ""
   },
   {
-    "id": 513,
+    "id": 492,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9734,7 +9335,7 @@
     "explanation": ""
   },
   {
-    "id": 514,
+    "id": 493,
     "date": "20260117",
     "subject": 1,
     "subject_name": "인간행동과 사회환경",
@@ -9752,7 +9353,7 @@
     "explanation": ""
   },
   {
-    "id": 515,
+    "id": 494,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9771,7 +9372,7 @@
     "explanation": ""
   },
   {
-    "id": 516,
+    "id": 495,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9790,7 +9391,7 @@
     "explanation": ""
   },
   {
-    "id": 517,
+    "id": 496,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9809,7 +9410,7 @@
     "explanation": ""
   },
   {
-    "id": 518,
+    "id": 497,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9828,7 +9429,7 @@
     "explanation": ""
   },
   {
-    "id": 519,
+    "id": 498,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9847,7 +9448,7 @@
     "explanation": ""
   },
   {
-    "id": 520,
+    "id": 499,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9866,7 +9467,7 @@
     "explanation": ""
   },
   {
-    "id": 521,
+    "id": 500,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9885,7 +9486,7 @@
     "explanation": ""
   },
   {
-    "id": 522,
+    "id": 501,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9904,7 +9505,7 @@
     "explanation": ""
   },
   {
-    "id": 523,
+    "id": 502,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9923,7 +9524,7 @@
     "explanation": ""
   },
   {
-    "id": 524,
+    "id": 503,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9942,7 +9543,7 @@
     "explanation": ""
   },
   {
-    "id": 525,
+    "id": 504,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9961,7 +9562,7 @@
     "explanation": ""
   },
   {
-    "id": 526,
+    "id": 505,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9980,7 +9581,7 @@
     "explanation": ""
   },
   {
-    "id": 527,
+    "id": 506,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -9999,7 +9600,7 @@
     "explanation": ""
   },
   {
-    "id": 528,
+    "id": 507,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10018,7 +9619,7 @@
     "explanation": ""
   },
   {
-    "id": 529,
+    "id": 508,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10037,7 +9638,7 @@
     "explanation": ""
   },
   {
-    "id": 530,
+    "id": 509,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10056,7 +9657,7 @@
     "explanation": ""
   },
   {
-    "id": 531,
+    "id": 510,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10075,7 +9676,7 @@
     "explanation": ""
   },
   {
-    "id": 532,
+    "id": 511,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10094,7 +9695,7 @@
     "explanation": ""
   },
   {
-    "id": 533,
+    "id": 512,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10113,7 +9714,7 @@
     "explanation": ""
   },
   {
-    "id": 534,
+    "id": 513,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",
@@ -10132,7 +9733,7 @@
     "explanation": ""
   },
   {
-    "id": 535,
+    "id": 514,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 조사론",

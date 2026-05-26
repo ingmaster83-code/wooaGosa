@@ -41,6 +41,10 @@ const FILE = (() => {
   if (TYPE === 'welfare_3')        return 'welfare_3';
   if (TYPE === 'safety_ind')       return 'safety_ind';
   if (TYPE === 'safety_eng')       return 'safety_eng';
+  if (TYPE === 'elec_craft')       return 'elec_craft';
+  if (TYPE === 'pastry')           return 'pastry';
+  if (TYPE === 'bread')            return 'bread';
+  if (TYPE === 'korean_cook')      return 'korean_cook';
   return 'license12';
 })();
 
@@ -58,6 +62,7 @@ const DEFAULT_COUNT = {
   'realtor_1': 80, 'realtor_2': 120,
   'welfare_1': 50, 'welfare_2': 75, 'welfare_3': 75,
   'safety_ind': 100, 'safety_eng': 120,
+  'elec_craft': 60, 'pastry': 60, 'bread': 60, 'korean_cook': 60,
 };
 const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
@@ -91,6 +96,10 @@ const DATA_URL_MAP = {
   'welfare_3':        'data/welfare_3.json',
   'safety_ind':       'data/safety_ind.json',
   'safety_eng':       'data/safety_eng.json',
+  'elec_craft':       'data/elec_craft.json',
+  'pastry':           'data/pastry.json',
+  'bread':            'data/bread.json',
+  'korean_cook':      'data/korean_cook.json',
 };
 const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
 
@@ -129,6 +138,10 @@ const TYPE_LABELS = {
   'welfare_3':         '사회복지사1급 3교시',
   'safety_ind':        '산업안전산업기사',
   'safety_eng':        '산업안전기사',
+  'elec_craft':        '전기기능사',
+  'pastry':            '제과기능사',
+  'bread':             '제빵기능사',
+  'korean_cook':       '한식조리기능사',
 };
 const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
 
@@ -176,6 +189,7 @@ window.addEventListener('DOMContentLoaded', async () => {
       'realtor_1': '🏠', 'realtor_2': '🏠',
       'welfare_1': '👐', 'welfare_2': '👐', 'welfare_3': '👐',
       'safety_ind': '⛑️', 'safety_eng': '⛑️',
+      'elec_craft': '⚡', 'pastry': '🍰', 'bread': '🍞', 'korean_cook': '🍲',
     };
     logoIcon.textContent = ICONS[TYPE] || '🚗';
   }
@@ -240,6 +254,10 @@ function buildExam() {
     'welfare_3':        75 * 60,
     'safety_ind':      120 * 60,
     'safety_eng':      180 * 60,
+    'elec_craft':       60 * 60,
+    'pastry':           60 * 60,
+    'bread':            60 * 60,
+    'korean_cook':      60 * 60,
   };
   secondsLeft = MODE === 'sequential'
     ? examQuestions.length * 96

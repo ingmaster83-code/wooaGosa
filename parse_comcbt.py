@@ -170,6 +170,31 @@ EXAM_TARGETS = [
         'out': 'safety_eng.json',
         'max_q': 120,
     },
+    # ── 3차 추가 ──────────────────────────────────────────────
+    {
+        'key': 'elec_craft',
+        'folder': '전기기능사',
+        'out': 'elec_craft.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'pastry',
+        'folder': '제과기능사',
+        'out': 'pastry.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'bread',
+        'folder': '제빵기능사',
+        'out': 'bread.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'korean_cook',
+        'folder': '한식조리기능사',
+        'out': 'korean_cook.json',
+        'max_q': 60,
+    },
 ]
 
 

@@ -120,11 +120,11 @@
     "question_no": 7,
     "question": "조지와 윌딩(George &Wilding)이 말한 '신우파'에 관한 설명 으로 옳은 것을 모두 고른 것은?",
     "choices": {
-      "1": "ㄱ, ㄴ, ㄷ",
-      "2": "ㄱ, ㄷ",
-      "3": "ㄴ, ㄹ",
-      "4": "ㄹ",
-      "5": "ㄱ, ㄴ, ㄷ, ㄹ"
+      "1": "민간복지를 보완하는 국가복지",
+      "2": "사회보험 프로그램의 강조",
+      "3": "다차원적인 사회계층체제 발생",
+      "4": "시장의 효율성 강조",
+      "5": "상대적으로 낮은 탈상품화 효과"
     },
     "answers": [
       5
@@ -133,25 +133,6 @@
   },
   {
     "id": 8,
-    "date": "20140125",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 8,
-    "question": "에스핑 엔더슨(Esping-Anderson)의 복지국가 유형 중 '자유 주의적 복지국가'에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "민간복지를 보완하는 국가복지",
-      "2": "사회보험 프로그램의 강조",
-      "3": "다차원적인 사회계층체제 발생",
-      "4": "시장의 효율성 강조",
-      "5": "상대적으로 낮은 탈상품화 효과"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 9,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -170,7 +151,7 @@
     "explanation": ""
   },
   {
-    "id": 10,
+    "id": 9,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -189,31 +170,12 @@
     "explanation": ""
   },
   {
-    "id": 11,
+    "id": 10,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 13,
     "question": "평등 관련 개념의 내용으로 옳지 않은 것은?",
-    "choices": {
-      "1": "수량적 평등 - 결과의 평등",
-      "2": "비례적 평등 - 형평(equity)",
-      "3": "기회의 평등 - 빈곤대책의 교육프로그램",
-      "4": "형평(equity) - 열등처우의 원칙",
-      "5": "결과의 평등 - 보험방식의 사회보장"
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 12,
-    "date": "20140125",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 14,
-    "question": "공익을 바라보는 관점에 따른 정책기획가의 역할 또는 주요 가치의 연결로 옳은 것은?",
     "choices": {
       "1": "유기체적 견해 - 입법가로서의 기획가",
       "2": "공동체적 견해 - 전문가로서의 기획가",
@@ -222,12 +184,12 @@
       "5": "공동체적 견해 - 전문성 가치"
     },
     "answers": [
-      3
+      5
     ],
     "explanation": ""
   },
   {
-    "id": 13,
+    "id": 11,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -246,7 +208,7 @@
     "explanation": ""
   },
   {
-    "id": 14,
+    "id": 12,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -265,7 +227,7 @@
     "explanation": ""
   },
   {
-    "id": 15,
+    "id": 13,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -284,7 +246,7 @@
     "explanation": ""
   },
   {
-    "id": 16,
+    "id": 14,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -303,7 +265,7 @@
     "explanation": ""
   },
   {
-    "id": 17,
+    "id": 15,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -322,7 +284,7 @@
     "explanation": ""
   },
   {
-    "id": 18,
+    "id": 16,
     "date": "20140125",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -341,7 +303,7 @@
     "explanation": ""
   },
   {
-    "id": 19,
+    "id": 17,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -360,7 +322,7 @@
     "explanation": ""
   },
   {
-    "id": 20,
+    "id": 18,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -379,7 +341,7 @@
     "explanation": ""
   },
   {
-    "id": 21,
+    "id": 19,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -398,7 +360,7 @@
     "explanation": ""
   },
   {
-    "id": 22,
+    "id": 20,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -417,7 +379,7 @@
     "explanation": ""
   },
   {
-    "id": 23,
+    "id": 21,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -436,7 +398,7 @@
     "explanation": ""
   },
   {
-    "id": 24,
+    "id": 22,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -455,7 +417,7 @@
     "explanation": ""
   },
   {
-    "id": 25,
+    "id": 23,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -474,7 +436,7 @@
     "explanation": ""
   },
   {
-    "id": 26,
+    "id": 24,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -493,7 +455,7 @@
     "explanation": ""
   },
   {
-    "id": 27,
+    "id": 25,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -512,7 +474,7 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 26,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -531,7 +493,7 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 27,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -550,7 +512,7 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 28,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -569,7 +531,7 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 29,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -588,7 +550,7 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 30,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -607,7 +569,7 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 31,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -626,7 +588,7 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 32,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -645,7 +607,7 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 33,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -664,7 +626,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 34,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -683,7 +645,7 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 35,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -701,7 +663,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 36,
     "date": "20140125",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -720,7 +682,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 37,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -739,7 +701,7 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 38,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -758,7 +720,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 39,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -777,7 +739,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 40,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -796,7 +758,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 41,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -815,7 +777,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 42,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -834,7 +796,7 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 43,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -853,7 +815,7 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 44,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -872,7 +834,7 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 45,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -891,31 +853,12 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 46,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
     "question_no": 63,
     "question": "사회복지사업법령상 사회복지서비스 신청에 관한 내용으로 옳은 것은?",
-    "choices": {
-      "1": "사회복지서비스를 필요로 하는 사람의 친족도 신청할 수 있다.",
-      "2": "시장ㆍ군수ㆍ구청장을 경유하여 시ㆍ도지사에게 신청하 여야 한다.",
-      "3": "복지담당공무원은 직권으로 신청할 수 없다.",
-      "4": "신청에 따른 조사를 통해 제공받는 정보에 관하여 이용 범위를 고지할 필요는 없다.",
-      "5": "국민기초생활보장 수급권자만이 신청권을 가진다."
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 49,
-    "date": "20140125",
-    "subject": 3,
-    "subject_name": "사회복지 법제론",
-    "question_no": 64,
-    "question": "사회복지법령에서 조례로 정하도록 위임하고 있는 사항이 아닌 것은?",
     "choices": {
       "1": "지역사회복지협의체의 조직과 운영에 필요한 사항",
       "2": "장애인에게 공공시설 안의 매점이나 자동판매기 운영을 우선적으로 위탁하는 데 필요한 사항",
@@ -924,12 +867,12 @@
       "5": "자활기금의 설치에 관한 사항"
     },
     "answers": [
-      2
+      1
     ],
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 47,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -948,7 +891,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 48,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -967,7 +910,7 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 49,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -986,7 +929,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 50,
     "date": "20140125",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1005,7 +948,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 51,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1024,7 +967,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 52,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1043,7 +986,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 53,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1062,7 +1005,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 54,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1081,7 +1024,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 55,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1100,7 +1043,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 56,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1119,7 +1062,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 57,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1138,7 +1081,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 58,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1157,7 +1100,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 59,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1176,7 +1119,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 60,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1195,7 +1138,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 61,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1214,7 +1157,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 62,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1233,7 +1176,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
+    "id": 63,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1252,7 +1195,7 @@
     "explanation": ""
   },
   {
-    "id": 67,
+    "id": 64,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1271,7 +1214,7 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 65,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1290,7 +1233,7 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 66,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1309,7 +1252,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 67,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1328,7 +1271,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 68,
     "date": "20150124",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -1347,7 +1290,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 69,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1366,7 +1309,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 70,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1385,7 +1328,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 71,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1404,31 +1347,12 @@
     "explanation": ""
   },
   {
-    "id": 75,
+    "id": 72,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
     "question_no": 31,
     "question": "예산통제의 원칙에 관한 로만(R. Lohmann)의 설명으로 옳 은 것을 모두 고른 것은?",
-    "choices": {
-      "1": "ㄱ, ㄴ, ㄷ",
-      "2": "ㄱ, ㄷ",
-      "3": "ㄴ, ㄹ",
-      "4": "ㄹ",
-      "5": "ㄱ, ㄴ, ㄷ, ㄹ"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 76,
-    "date": "20150124",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 32,
-    "question": "프로그램 논리모델에서 산출(outputs)을 나타내는 기준으로 적절하지 않은 것은?",
     "choices": {
       "1": "이용자의 서비스 참여 횟수",
       "2": "서비스 종료 여부",
@@ -1437,12 +1361,12 @@
       "5": "이용자가 서비스를 활용한 총시간"
     },
     "answers": [
-      3
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 73,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1461,7 +1385,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
+    "id": 74,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1480,7 +1404,7 @@
     "explanation": ""
   },
   {
-    "id": 79,
+    "id": 75,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1499,7 +1423,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 76,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1518,7 +1442,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 77,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1537,7 +1461,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 78,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1556,7 +1480,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 79,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1575,7 +1499,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 80,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1594,26 +1518,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
-    "date": "20150124",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 46,
-    "question": "사회복지조직에서 정보관리 체계가 필요한 이유를 모두 고 른 것은?",
-    "choices": {
-      "1": "시설 이용자의 인권",
-      "2": "서비스의 과정 및 결과",
-      "3": "지역사회 연계",
-      "4": "시설의 인력관리",
-      "5": "시설의 마케팅 역량"
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 86,
+    "id": 81,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1632,26 +1537,7 @@
     "explanation": ""
   },
   {
-    "id": 87,
-    "date": "20150124",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 49,
-    "question": "인간관계이론에 기반한 관리자의 행동으로 볼 수 없는 것 은?",
-    "choices": {
-      "1": "사회기술(social skill)의 활용을 중시한다.",
-      "2": "맥그리거(D. McGregor)의 Y이론에 가까운 인간관에 입 각한다.",
-      "3": "하급직원들과 비공식적인 방식을 통한 관계유지에도 관 심이 있다.",
-      "4": "관리행동의 목표를 생산성 향상에 둔다.",
-      "5": "과학적 업무분석과 이윤공유를 중요시한다."
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 88,
+    "id": 82,
     "date": "20150124",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -1670,7 +1556,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 83,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1689,7 +1575,7 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 84,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1708,7 +1594,7 @@
     "explanation": ""
   },
   {
-    "id": 91,
+    "id": 85,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1727,7 +1613,7 @@
     "explanation": ""
   },
   {
-    "id": 92,
+    "id": 86,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1746,31 +1632,12 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 87,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
     "question_no": 56,
     "question": "사회복지사업법령상 사회복지사업의 근거가 되는 법이 아닌 것은?",
-    "choices": {
-      "1": "아동복지법",
-      "2": "국민연금법",
-      "3": "장애인복지법",
-      "4": "다문화가족지원법",
-      "5": "노인복지법"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 94,
-    "date": "20150124",
-    "subject": 3,
-    "subject_name": "사회복지 법제론",
-    "question_no": 57,
-    "question": "장애인복지법령상 장애인복지전문인력에 속하지 않는 사람 은?",
     "choices": {
       "1": "의지ㆍ보조기 기사",
       "2": "수화통역사",
@@ -1779,12 +1646,12 @@
       "5": "점역사ㆍ교정사"
     },
     "answers": [
-      4
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 95,
+    "id": 88,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1803,7 +1670,7 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 89,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1822,7 +1689,7 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 90,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1841,7 +1708,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
+    "id": 91,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1860,7 +1727,7 @@
     "explanation": ""
   },
   {
-    "id": 99,
+    "id": 92,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1879,7 +1746,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 93,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1898,7 +1765,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 94,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1917,7 +1784,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 95,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1936,7 +1803,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 96,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1955,7 +1822,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 97,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1974,7 +1841,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 98,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -1993,7 +1860,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 99,
     "date": "20150124",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2012,7 +1879,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 100,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2031,7 +1898,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 101,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2050,7 +1917,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 102,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2069,7 +1936,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 103,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2088,7 +1955,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 104,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2107,26 +1974,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
-    "date": "20160123",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 6,
-    "question": "에스핑엔더슨(G. Esping-Anderson)의 복지국가 유형 중 조 합주의 복지국가에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "사회복지 급여는 계급과 사회적 지위에 밀접하게 관련되 어 있다.",
-      "2": "사회보험원리를 강조하는 복지정책을 주로 활용한다.",
-      "3": "여성의 노동시장 참여를 강조한다.",
-      "4": "가족의 중요성을 강조하는 종교와 문화적 신념의 영향력 이 강하다.",
-      "5": "오스트리아, 프랑스, 독일 등이 이 유형에 속한다."
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 113,
+    "id": 105,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2145,7 +1993,7 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 106,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2164,7 +2012,7 @@
     "explanation": ""
   },
   {
-    "id": 115,
+    "id": 107,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2183,7 +2031,7 @@
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 108,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2202,7 +2050,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 109,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2221,31 +2069,12 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 110,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 13,
     "question": "다음 중 선별주의에 입각한 제도가 아닌 것은?",
-    "choices": {
-      "1": "자활사업",
-      "2": "누리과정",
-      "3": "기초연금",
-      "4": "의료급여",
-      "5": "장애인연금"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 119,
-    "date": "20160123",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 14,
-    "question": "사회복지정책의 할당원칙(principles of allocation)에 관한 설명으로 옳지 않은 것은?",
     "choices": {
       "1": "시장을 통해 충족되지 않는 어떤 욕구를 공통적으로 가 진 집단에 속하는지 여부에 근거하는 원칙을 귀속욕구 (attributed need)라고 한다.",
       "2": "보상(compensation)이란 사회ㆍ경제적으로 특별한 공헌 을 했는지 또는 사회로부터 부당한 피해를 입었는지 여 부에 근거하는 원칙이다.",
@@ -2254,12 +2083,12 @@
       "5": "자산조사 욕구(means-tested need)는 필요한 재화나 서 비스를 구입할 능력이 없음을 나타내는 증거에 기초한 다."
     },
     "answers": [
-      4
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 120,
+    "id": 111,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2278,7 +2107,7 @@
     "explanation": ""
   },
   {
-    "id": 121,
+    "id": 112,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2297,7 +2126,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 113,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2316,7 +2145,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 114,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2335,7 +2164,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 115,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2354,7 +2183,7 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 116,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2373,7 +2202,7 @@
     "explanation": ""
   },
   {
-    "id": 126,
+    "id": 117,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2392,7 +2221,7 @@
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 118,
     "date": "20160123",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -2411,7 +2240,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 119,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2430,7 +2259,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 120,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2449,7 +2278,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 121,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2468,7 +2297,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 122,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2487,7 +2316,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 123,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2505,7 +2334,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 124,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2524,7 +2353,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 125,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2543,7 +2372,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 126,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2562,7 +2391,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
+    "id": 127,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2581,7 +2410,7 @@
     "explanation": ""
   },
   {
-    "id": 137,
+    "id": 128,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2600,7 +2429,7 @@
     "explanation": ""
   },
   {
-    "id": 138,
+    "id": 129,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2619,7 +2448,7 @@
     "explanation": ""
   },
   {
-    "id": 139,
+    "id": 130,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2638,7 +2467,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
+    "id": 131,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2657,7 +2486,7 @@
     "explanation": ""
   },
   {
-    "id": 141,
+    "id": 132,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2676,7 +2505,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 133,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2695,7 +2524,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 134,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2714,7 +2543,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 135,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2733,7 +2562,7 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 136,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2752,7 +2581,7 @@
     "explanation": ""
   },
   {
-    "id": 146,
+    "id": 137,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2771,7 +2600,7 @@
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 138,
     "date": "20160123",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -2790,7 +2619,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 139,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2809,7 +2638,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 140,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2828,7 +2657,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 141,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2847,7 +2676,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 142,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2866,7 +2695,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 143,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2885,7 +2714,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 144,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2904,7 +2733,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
+    "id": 145,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2923,7 +2752,7 @@
     "explanation": ""
   },
   {
-    "id": 155,
+    "id": 146,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2942,7 +2771,7 @@
     "explanation": ""
   },
   {
-    "id": 156,
+    "id": 147,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -2961,31 +2790,12 @@
     "explanation": ""
   },
   {
-    "id": 157,
+    "id": 148,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
     "question_no": 65,
     "question": "기초연금법의 내용으로 옳지 않은 것은?",
-    "choices": {
-      "1": "기초연금 수급권자에 대한 기초연금의 금액은 기준연금 액과 국민연금 급여액 등을 고려하여 산정한다.",
-      "2": "기초연금액이 기준연금액을 초과하는 경우 기준연금액을 기초연금액으로 본다.",
-      "3": "본인과 그 배우자가 모두 기초연금 수급권자인 경우에는 각각의 기초연금액에서 기초연금액의 100분의 20에 해 당하는 금액을 감액한다.",
-      "4": "보건복지부장관은 3년마다 기초연금 수급권자의 생활수 준 등을 고려하여 기초연금액의 적정성을 평가하여야 한 다.",
-      "5": "기초연금 수급권자의 권리는 5년간 행사하지 아니하면 시효의 완성으로 소멸한다."
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 158,
-    "date": "20160123",
-    "subject": 3,
-    "subject_name": "사회복지 법제론",
-    "question_no": 66,
-    "question": "국민건강보험법령상 직장가입자의 피부양자가 될 수 없는 자는? (단, 직장가입자에게 주로 생계를 의존하고, 그와 동 거하며 보수나 소득이 없는 자에 한함)",
     "choices": {
       "1": "직장가입자의 배우자의 자매",
       "2": "직장가입자의 배우자",
@@ -2994,12 +2804,12 @@
       "5": "직장가입자의 조부모"
     },
     "answers": [
-      1
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 159,
+    "id": 149,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3018,7 +2828,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
+    "id": 150,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3037,7 +2847,7 @@
     "explanation": ""
   },
   {
-    "id": 161,
+    "id": 151,
     "date": "20160123",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3056,7 +2866,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
+    "id": 152,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3075,7 +2885,7 @@
     "explanation": ""
   },
   {
-    "id": 163,
+    "id": 153,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3094,7 +2904,7 @@
     "explanation": ""
   },
   {
-    "id": 164,
+    "id": 154,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3113,7 +2923,7 @@
     "explanation": ""
   },
   {
-    "id": 165,
+    "id": 155,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3132,31 +2942,12 @@
     "explanation": ""
   },
   {
-    "id": 166,
+    "id": 156,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 6,
     "question": "국민기초생활보장제도의 특징으로 옳은 것은?",
-    "choices": {
-      "1": "대상 가구당 행정관리비용이 사회보험보다 저렴하다.",
-      "2": "재원은 기금에 의존한다.",
-      "3": "재원부담을 하는 자와 수급자가 동일하다.",
-      "4": "대상 선정에서 부양의무자 존재 여부는 고려되지 않는다.",
-      "5": "선정기준으로 기준 중위소득을 활용한다."
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 167,
-    "date": "20170121",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 7,
-    "question": "에스핑-엔더슨(G. Esping-Andersen)의 복지국가 유형 중 조 합주의 복지국가 모형의 특징이 아닌 것은?",
     "choices": {
       "1": "사회보험 가입자들의 직장 이동성을 활성화할 수 있다.",
       "2": "산업재해와 같은 동일한 위험에 대해서 다수의 운영주체 가 존재한다.",
@@ -3165,12 +2956,12 @@
       "5": "조합단위의 제도로 인하여 위험분산의 효과가 상대적으로 낮게 발생한다."
     },
     "answers": [
-      1
+      5
     ],
     "explanation": ""
   },
   {
-    "id": 168,
+    "id": 157,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3189,7 +2980,7 @@
     "explanation": ""
   },
   {
-    "id": 169,
+    "id": 158,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3208,7 +2999,7 @@
     "explanation": ""
   },
   {
-    "id": 170,
+    "id": 159,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3227,7 +3018,7 @@
     "explanation": ""
   },
   {
-    "id": 171,
+    "id": 160,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3246,7 +3037,7 @@
     "explanation": ""
   },
   {
-    "id": 172,
+    "id": 161,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3265,7 +3056,7 @@
     "explanation": ""
   },
   {
-    "id": 173,
+    "id": 162,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3284,7 +3075,7 @@
     "explanation": ""
   },
   {
-    "id": 174,
+    "id": 163,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3303,7 +3094,7 @@
     "explanation": ""
   },
   {
-    "id": 175,
+    "id": 164,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3322,7 +3113,7 @@
     "explanation": ""
   },
   {
-    "id": 176,
+    "id": 165,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3341,7 +3132,7 @@
     "explanation": ""
   },
   {
-    "id": 177,
+    "id": 166,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3359,7 +3150,7 @@
     "explanation": ""
   },
   {
-    "id": 178,
+    "id": 167,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3378,7 +3169,7 @@
     "explanation": ""
   },
   {
-    "id": 179,
+    "id": 168,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3397,7 +3188,7 @@
     "explanation": ""
   },
   {
-    "id": 180,
+    "id": 169,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3416,7 +3207,7 @@
     "explanation": ""
   },
   {
-    "id": 181,
+    "id": 170,
     "date": "20170121",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -3435,7 +3226,7 @@
     "explanation": ""
   },
   {
-    "id": 182,
+    "id": 171,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3454,7 +3245,7 @@
     "explanation": ""
   },
   {
-    "id": 183,
+    "id": 172,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3473,7 +3264,7 @@
     "explanation": ""
   },
   {
-    "id": 184,
+    "id": 173,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3492,7 +3283,7 @@
     "explanation": ""
   },
   {
-    "id": 185,
+    "id": 174,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3511,7 +3302,7 @@
     "explanation": ""
   },
   {
-    "id": 186,
+    "id": 175,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3530,7 +3321,7 @@
     "explanation": ""
   },
   {
-    "id": 187,
+    "id": 176,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3549,7 +3340,7 @@
     "explanation": ""
   },
   {
-    "id": 188,
+    "id": 177,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3568,7 +3359,7 @@
     "explanation": ""
   },
   {
-    "id": 189,
+    "id": 178,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3587,7 +3378,7 @@
     "explanation": ""
   },
   {
-    "id": 190,
+    "id": 179,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3606,7 +3397,7 @@
     "explanation": ""
   },
   {
-    "id": 191,
+    "id": 180,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3625,7 +3416,7 @@
     "explanation": ""
   },
   {
-    "id": 192,
+    "id": 181,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3644,7 +3435,7 @@
     "explanation": ""
   },
   {
-    "id": 193,
+    "id": 182,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3663,7 +3454,7 @@
     "explanation": ""
   },
   {
-    "id": 194,
+    "id": 183,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3682,7 +3473,7 @@
     "explanation": ""
   },
   {
-    "id": 195,
+    "id": 184,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3701,7 +3492,7 @@
     "explanation": ""
   },
   {
-    "id": 196,
+    "id": 185,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3720,7 +3511,7 @@
     "explanation": ""
   },
   {
-    "id": 197,
+    "id": 186,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3739,7 +3530,7 @@
     "explanation": ""
   },
   {
-    "id": 198,
+    "id": 187,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3758,7 +3549,7 @@
     "explanation": ""
   },
   {
-    "id": 199,
+    "id": 188,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3777,7 +3568,7 @@
     "explanation": ""
   },
   {
-    "id": 200,
+    "id": 189,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3796,7 +3587,7 @@
     "explanation": ""
   },
   {
-    "id": 201,
+    "id": 190,
     "date": "20170121",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -3815,7 +3606,7 @@
     "explanation": ""
   },
   {
-    "id": 202,
+    "id": 191,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3834,7 +3625,7 @@
     "explanation": ""
   },
   {
-    "id": 203,
+    "id": 192,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3853,7 +3644,7 @@
     "explanation": ""
   },
   {
-    "id": 204,
+    "id": 193,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3872,7 +3663,7 @@
     "explanation": ""
   },
   {
-    "id": 205,
+    "id": 194,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3891,7 +3682,7 @@
     "explanation": ""
   },
   {
-    "id": 206,
+    "id": 195,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3910,7 +3701,7 @@
     "explanation": ""
   },
   {
-    "id": 207,
+    "id": 196,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3929,7 +3720,7 @@
     "explanation": ""
   },
   {
-    "id": 208,
+    "id": 197,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3948,7 +3739,7 @@
     "explanation": ""
   },
   {
-    "id": 209,
+    "id": 198,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3967,7 +3758,7 @@
     "explanation": ""
   },
   {
-    "id": 210,
+    "id": 199,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -3986,7 +3777,7 @@
     "explanation": ""
   },
   {
-    "id": 211,
+    "id": 200,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4005,7 +3796,7 @@
     "explanation": ""
   },
   {
-    "id": 212,
+    "id": 201,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4024,7 +3815,7 @@
     "explanation": ""
   },
   {
-    "id": 213,
+    "id": 202,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4043,7 +3834,7 @@
     "explanation": ""
   },
   {
-    "id": 214,
+    "id": 203,
     "date": "20170121",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4062,7 +3853,7 @@
     "explanation": ""
   },
   {
-    "id": 215,
+    "id": 204,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4081,7 +3872,7 @@
     "explanation": ""
   },
   {
-    "id": 216,
+    "id": 205,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4100,7 +3891,7 @@
     "explanation": ""
   },
   {
-    "id": 217,
+    "id": 206,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4119,7 +3910,7 @@
     "explanation": ""
   },
   {
-    "id": 218,
+    "id": 207,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4138,26 +3929,7 @@
     "explanation": ""
   },
   {
-    "id": 219,
-    "date": "20180120",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 5,
-    "question": "에스핑 엔더슨(G. Esping-Andersen)의 복지국가 유형에 관 한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "자유주의 복지국가는 시장의 효율성을 중시한다.",
-      "2": "자유주의 복지국가는 저소득층에 초점을 맞춘다.",
-      "3": "보수주의 복지국가는 개인책임과 자조의 원리를 강조한 다.",
-      "4": "보수주의 복지국가는 사회적 지위에 따라 사회보험 혜택 의 차이가 있다.",
-      "5": "사회민주주의 복지국가는 보편주의적 개입을 통해 가족과 시장을 대체하는 특성을 갖고 있다."
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 220,
+    "id": 208,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4176,7 +3948,7 @@
     "explanation": ""
   },
   {
-    "id": 221,
+    "id": 209,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4195,7 +3967,7 @@
     "explanation": ""
   },
   {
-    "id": 222,
+    "id": 210,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4214,7 +3986,7 @@
     "explanation": ""
   },
   {
-    "id": 223,
+    "id": 211,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4233,7 +4005,7 @@
     "explanation": ""
   },
   {
-    "id": 224,
+    "id": 212,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4252,7 +4024,7 @@
     "explanation": ""
   },
   {
-    "id": 225,
+    "id": 213,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4271,7 +4043,7 @@
     "explanation": ""
   },
   {
-    "id": 226,
+    "id": 214,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4290,7 +4062,7 @@
     "explanation": ""
   },
   {
-    "id": 227,
+    "id": 215,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4309,7 +4081,7 @@
     "explanation": ""
   },
   {
-    "id": 228,
+    "id": 216,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4328,7 +4100,7 @@
     "explanation": ""
   },
   {
-    "id": 229,
+    "id": 217,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4347,7 +4119,7 @@
     "explanation": ""
   },
   {
-    "id": 230,
+    "id": 218,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4366,7 +4138,7 @@
     "explanation": ""
   },
   {
-    "id": 231,
+    "id": 219,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4385,7 +4157,7 @@
     "explanation": ""
   },
   {
-    "id": 232,
+    "id": 220,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4404,7 +4176,7 @@
     "explanation": ""
   },
   {
-    "id": 233,
+    "id": 221,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4423,7 +4195,7 @@
     "explanation": ""
   },
   {
-    "id": 234,
+    "id": 222,
     "date": "20180120",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -4442,7 +4214,7 @@
     "explanation": ""
   },
   {
-    "id": 235,
+    "id": 223,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4461,7 +4233,7 @@
     "explanation": ""
   },
   {
-    "id": 236,
+    "id": 224,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4480,7 +4252,7 @@
     "explanation": ""
   },
   {
-    "id": 237,
+    "id": 225,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4499,7 +4271,7 @@
     "explanation": ""
   },
   {
-    "id": 238,
+    "id": 226,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4518,7 +4290,7 @@
     "explanation": ""
   },
   {
-    "id": 239,
+    "id": 227,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4537,7 +4309,7 @@
     "explanation": ""
   },
   {
-    "id": 240,
+    "id": 228,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4556,7 +4328,7 @@
     "explanation": ""
   },
   {
-    "id": 241,
+    "id": 229,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4575,7 +4347,7 @@
     "explanation": ""
   },
   {
-    "id": 242,
+    "id": 230,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4594,7 +4366,7 @@
     "explanation": ""
   },
   {
-    "id": 243,
+    "id": 231,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4613,7 +4385,7 @@
     "explanation": ""
   },
   {
-    "id": 244,
+    "id": 232,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4632,7 +4404,7 @@
     "explanation": ""
   },
   {
-    "id": 245,
+    "id": 233,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4651,7 +4423,7 @@
     "explanation": ""
   },
   {
-    "id": 246,
+    "id": 234,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4670,7 +4442,7 @@
     "explanation": ""
   },
   {
-    "id": 247,
+    "id": 235,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4689,7 +4461,7 @@
     "explanation": ""
   },
   {
-    "id": 248,
+    "id": 236,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4708,7 +4480,7 @@
     "explanation": ""
   },
   {
-    "id": 249,
+    "id": 237,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4727,7 +4499,7 @@
     "explanation": ""
   },
   {
-    "id": 250,
+    "id": 238,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4746,7 +4518,7 @@
     "explanation": ""
   },
   {
-    "id": 251,
+    "id": 239,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4765,7 +4537,7 @@
     "explanation": ""
   },
   {
-    "id": 252,
+    "id": 240,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4784,7 +4556,7 @@
     "explanation": ""
   },
   {
-    "id": 253,
+    "id": 241,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4803,7 +4575,7 @@
     "explanation": ""
   },
   {
-    "id": 254,
+    "id": 242,
     "date": "20180120",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -4822,7 +4594,7 @@
     "explanation": ""
   },
   {
-    "id": 255,
+    "id": 243,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4841,7 +4613,7 @@
     "explanation": ""
   },
   {
-    "id": 256,
+    "id": 244,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4860,7 +4632,7 @@
     "explanation": ""
   },
   {
-    "id": 257,
+    "id": 245,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4879,7 +4651,7 @@
     "explanation": ""
   },
   {
-    "id": 258,
+    "id": 246,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4898,7 +4670,7 @@
     "explanation": ""
   },
   {
-    "id": 259,
+    "id": 247,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4917,7 +4689,7 @@
     "explanation": ""
   },
   {
-    "id": 260,
+    "id": 248,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4936,7 +4708,7 @@
     "explanation": ""
   },
   {
-    "id": 261,
+    "id": 249,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4955,7 +4727,7 @@
     "explanation": ""
   },
   {
-    "id": 262,
+    "id": 250,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4974,7 +4746,7 @@
     "explanation": ""
   },
   {
-    "id": 263,
+    "id": 251,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -4993,7 +4765,7 @@
     "explanation": ""
   },
   {
-    "id": 264,
+    "id": 252,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5012,7 +4784,7 @@
     "explanation": ""
   },
   {
-    "id": 265,
+    "id": 253,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5031,7 +4803,7 @@
     "explanation": ""
   },
   {
-    "id": 266,
+    "id": 254,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5050,7 +4822,7 @@
     "explanation": ""
   },
   {
-    "id": 267,
+    "id": 255,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5069,7 +4841,7 @@
     "explanation": ""
   },
   {
-    "id": 268,
+    "id": 256,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5088,7 +4860,7 @@
     "explanation": ""
   },
   {
-    "id": 269,
+    "id": 257,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5107,7 +4879,7 @@
     "explanation": ""
   },
   {
-    "id": 270,
+    "id": 258,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5126,7 +4898,7 @@
     "explanation": ""
   },
   {
-    "id": 271,
+    "id": 259,
     "date": "20180120",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5145,26 +4917,7 @@
     "explanation": ""
   },
   {
-    "id": 272,
-    "date": "20190119",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 1,
-    "question": "우리나라 사회보장제도 운영주체의 책임에 관한 원칙으로 옳 은 것은?",
-    "choices": {
-      "1": "의료급여",
-      "2": "생계급여",
-      "3": "주거급여",
-      "4": "실업급여",
-      "5": "기초연금"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 273,
+    "id": 260,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5183,7 +4936,7 @@
     "explanation": ""
   },
   {
-    "id": 274,
+    "id": 261,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5202,7 +4955,7 @@
     "explanation": ""
   },
   {
-    "id": 275,
+    "id": 262,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5221,7 +4974,7 @@
     "explanation": ""
   },
   {
-    "id": 276,
+    "id": 263,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5240,7 +4993,7 @@
     "explanation": ""
   },
   {
-    "id": 277,
+    "id": 264,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5259,7 +5012,7 @@
     "explanation": ""
   },
   {
-    "id": 278,
+    "id": 265,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5278,7 +5031,7 @@
     "explanation": ""
   },
   {
-    "id": 279,
+    "id": 266,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5297,7 +5050,7 @@
     "explanation": ""
   },
   {
-    "id": 280,
+    "id": 267,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5316,7 +5069,7 @@
     "explanation": ""
   },
   {
-    "id": 281,
+    "id": 268,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5335,7 +5088,7 @@
     "explanation": ""
   },
   {
-    "id": 282,
+    "id": 269,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5354,7 +5107,7 @@
     "explanation": ""
   },
   {
-    "id": 283,
+    "id": 270,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5373,7 +5126,7 @@
     "explanation": ""
   },
   {
-    "id": 284,
+    "id": 271,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5392,7 +5145,7 @@
     "explanation": ""
   },
   {
-    "id": 285,
+    "id": 272,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5411,7 +5164,7 @@
     "explanation": ""
   },
   {
-    "id": 286,
+    "id": 273,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5430,7 +5183,7 @@
     "explanation": ""
   },
   {
-    "id": 287,
+    "id": 274,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5449,7 +5202,7 @@
     "explanation": ""
   },
   {
-    "id": 288,
+    "id": 275,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5468,7 +5221,7 @@
     "explanation": ""
   },
   {
-    "id": 289,
+    "id": 276,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5487,7 +5240,7 @@
     "explanation": ""
   },
   {
-    "id": 290,
+    "id": 277,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5506,7 +5259,7 @@
     "explanation": ""
   },
   {
-    "id": 291,
+    "id": 278,
     "date": "20190119",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -5525,7 +5278,7 @@
     "explanation": ""
   },
   {
-    "id": 292,
+    "id": 279,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5544,7 +5297,7 @@
     "explanation": ""
   },
   {
-    "id": 293,
+    "id": 280,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5563,7 +5316,7 @@
     "explanation": ""
   },
   {
-    "id": 294,
+    "id": 281,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5582,7 +5335,7 @@
     "explanation": ""
   },
   {
-    "id": 295,
+    "id": 282,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5601,7 +5354,7 @@
     "explanation": ""
   },
   {
-    "id": 296,
+    "id": 283,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5620,7 +5373,7 @@
     "explanation": ""
   },
   {
-    "id": 297,
+    "id": 284,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5639,7 +5392,7 @@
     "explanation": ""
   },
   {
-    "id": 298,
+    "id": 285,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5658,7 +5411,7 @@
     "explanation": ""
   },
   {
-    "id": 299,
+    "id": 286,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5677,7 +5430,7 @@
     "explanation": ""
   },
   {
-    "id": 300,
+    "id": 287,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5696,7 +5449,7 @@
     "explanation": ""
   },
   {
-    "id": 301,
+    "id": 288,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5715,7 +5468,7 @@
     "explanation": ""
   },
   {
-    "id": 302,
+    "id": 289,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5734,7 +5487,7 @@
     "explanation": ""
   },
   {
-    "id": 303,
+    "id": 290,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5753,7 +5506,7 @@
     "explanation": ""
   },
   {
-    "id": 304,
+    "id": 291,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5771,7 +5524,7 @@
     "explanation": ""
   },
   {
-    "id": 305,
+    "id": 292,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5790,7 +5543,7 @@
     "explanation": ""
   },
   {
-    "id": 306,
+    "id": 293,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5809,7 +5562,7 @@
     "explanation": ""
   },
   {
-    "id": 307,
+    "id": 294,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5828,7 +5581,7 @@
     "explanation": ""
   },
   {
-    "id": 308,
+    "id": 295,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5847,7 +5600,7 @@
     "explanation": ""
   },
   {
-    "id": 309,
+    "id": 296,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5866,7 +5619,7 @@
     "explanation": ""
   },
   {
-    "id": 310,
+    "id": 297,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5885,7 +5638,7 @@
     "explanation": ""
   },
   {
-    "id": 311,
+    "id": 298,
     "date": "20190119",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -5904,7 +5657,7 @@
     "explanation": ""
   },
   {
-    "id": 312,
+    "id": 299,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5923,7 +5676,7 @@
     "explanation": ""
   },
   {
-    "id": 313,
+    "id": 300,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5942,7 +5695,7 @@
     "explanation": ""
   },
   {
-    "id": 314,
+    "id": 301,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5961,7 +5714,7 @@
     "explanation": ""
   },
   {
-    "id": 315,
+    "id": 302,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5980,7 +5733,7 @@
     "explanation": ""
   },
   {
-    "id": 316,
+    "id": 303,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -5999,7 +5752,7 @@
     "explanation": ""
   },
   {
-    "id": 317,
+    "id": 304,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6018,7 +5771,7 @@
     "explanation": ""
   },
   {
-    "id": 318,
+    "id": 305,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6037,7 +5790,7 @@
     "explanation": ""
   },
   {
-    "id": 319,
+    "id": 306,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6056,7 +5809,7 @@
     "explanation": ""
   },
   {
-    "id": 320,
+    "id": 307,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6067,7 +5820,7 @@
       "2": "수급권을 취득할 당시 가입자였던 자의 태아가 출생하면 그 자녀는 가입자였던 자에 의하여 생계를 유지하고 있 던 자녀로 본다.",
       "3": "가입자의 종류는 사업장가입자와 지역가입자의 2가지로 구분된다.",
       "4": "지역가입자가 사업장가입자의 자격을 취득한 때에는 그 에 해당하게 된 날의 다음 날에 지역가입자의 자격을 상 실한다.",
-      "5": "수급권자가 사망한 경우 그 수급권자에게 미지급 급여가 있으면 그 급여를 받을 순위는 자녀, 배우자, 부모의 순 으로 한다."
+      "5": "수급권자가 사망한 경우 그 수급권자에게 미지급 급여가 있으면 그 급여를 받을 순위는 자녀, 배우자, 부모의 순 으로 한다. 66. 노인장기요양보험법상 장기요양인정을 신청할 수 있는 자격 을 갖춘 자를 모두 고른 것은?"
     },
     "answers": [
       2
@@ -6075,7 +5828,7 @@
     "explanation": ""
   },
   {
-    "id": 321,
+    "id": 308,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6094,7 +5847,7 @@
     "explanation": ""
   },
   {
-    "id": 322,
+    "id": 309,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6113,7 +5866,7 @@
     "explanation": ""
   },
   {
-    "id": 323,
+    "id": 310,
     "date": "20190119",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6132,7 +5885,7 @@
     "explanation": ""
   },
   {
-    "id": 324,
+    "id": 311,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6151,7 +5904,7 @@
     "explanation": ""
   },
   {
-    "id": 325,
+    "id": 312,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6170,7 +5923,7 @@
     "explanation": ""
   },
   {
-    "id": 326,
+    "id": 313,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6189,7 +5942,7 @@
     "explanation": ""
   },
   {
-    "id": 327,
+    "id": 314,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6208,7 +5961,7 @@
     "explanation": ""
   },
   {
-    "id": 328,
+    "id": 315,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6227,7 +5980,7 @@
     "explanation": ""
   },
   {
-    "id": 329,
+    "id": 316,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6246,69 +5999,12 @@
     "explanation": ""
   },
   {
-    "id": 330,
+    "id": 317,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 8,
     "question": "사회복지 재원에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "일반세 중 재산세의 계층 간 소득재분배 효과가 가장 크 다.",
-      "2": "목적세는 사용목적이 정해져 있어 재원 안정성이 높다.",
-      "3": "이용료는 저소득층의 서비스 이용을 저해할 수 있다.",
-      "4": "고용주가 부담하는 사회보험료는 수직적 소득재분배 성격 을 지닌다.",
-      "5": "기업이 직원들에게 제공하는 기업복지는 소득역진적 성격 이 강하다."
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 331,
-    "date": "20200208",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 9,
-    "question": "복지혼합(Welfare-Mix)의 유형 중 서비스 이용자의 선택권이 작은 것에서 큰 순서로 나열한 것은?",
-    "choices": {
-      "1": "세제혜택 - 계약 - 증서",
-      "2": "세제혜택 - 증서 - 계약",
-      "3": "증서 - 계약 - 세제혜택",
-      "4": "계약 - 증서 - 세제혜택",
-      "5": "계약 - 세제혜택 - 증서"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 332,
-    "date": "20200208",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 10,
-    "question": "이용료(본인부담금) 부과 방식에 따른 소득재분배 효과가 작 은 것에서 큰 순서로 나열한 것은?",
-    "choices": {
-      "1": "정액제 - 정률제 - 연동제(Sliding Scale)",
-      "2": "정률제 - 연동제(Sliding Scale) - 정액제",
-      "3": "정률제 - 정액제 - 연동제(Sliding Scale)",
-      "4": "연동제(Sliding Scale) - 정액제 - 정률제",
-      "5": "연동제(Sliding Scale) - 정률제 - 정액제"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 333,
-    "date": "20200208",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 11,
-    "question": "실업보험을 민간 시장에서 제공할 때 발생할 수 있는 문제 점을 모두 고른 것은?",
     "choices": {
       "1": "ㄹ",
       "2": "ㄱ, ㄷ",
@@ -6317,12 +6013,12 @@
       "5": "ㄱ, ㄴ, ㄷ, ㄹ"
     },
     "answers": [
-      4
+      1
     ],
     "explanation": ""
   },
   {
-    "id": 334,
+    "id": 318,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6341,7 +6037,7 @@
     "explanation": ""
   },
   {
-    "id": 335,
+    "id": 319,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6360,7 +6056,7 @@
     "explanation": ""
   },
   {
-    "id": 336,
+    "id": 320,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6379,7 +6075,7 @@
     "explanation": ""
   },
   {
-    "id": 337,
+    "id": 321,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6397,7 +6093,7 @@
     "explanation": ""
   },
   {
-    "id": 338,
+    "id": 322,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6416,7 +6112,7 @@
     "explanation": ""
   },
   {
-    "id": 339,
+    "id": 323,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6435,7 +6131,7 @@
     "explanation": ""
   },
   {
-    "id": 340,
+    "id": 324,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6454,7 +6150,7 @@
     "explanation": ""
   },
   {
-    "id": 341,
+    "id": 325,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6473,7 +6169,7 @@
     "explanation": ""
   },
   {
-    "id": 342,
+    "id": 326,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6492,7 +6188,7 @@
     "explanation": ""
   },
   {
-    "id": 343,
+    "id": 327,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6511,7 +6207,7 @@
     "explanation": ""
   },
   {
-    "id": 344,
+    "id": 328,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6530,7 +6226,7 @@
     "explanation": ""
   },
   {
-    "id": 345,
+    "id": 329,
     "date": "20200208",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -6549,7 +6245,7 @@
     "explanation": ""
   },
   {
-    "id": 346,
+    "id": 330,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6568,7 +6264,7 @@
     "explanation": ""
   },
   {
-    "id": 347,
+    "id": 331,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6587,7 +6283,7 @@
     "explanation": ""
   },
   {
-    "id": 348,
+    "id": 332,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6606,7 +6302,7 @@
     "explanation": ""
   },
   {
-    "id": 349,
+    "id": 333,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6625,7 +6321,7 @@
     "explanation": ""
   },
   {
-    "id": 350,
+    "id": 334,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6644,7 +6340,7 @@
     "explanation": ""
   },
   {
-    "id": 351,
+    "id": 335,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6663,7 +6359,7 @@
     "explanation": ""
   },
   {
-    "id": 352,
+    "id": 336,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6682,7 +6378,7 @@
     "explanation": ""
   },
   {
-    "id": 353,
+    "id": 337,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6701,7 +6397,7 @@
     "explanation": ""
   },
   {
-    "id": 354,
+    "id": 338,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6720,7 +6416,7 @@
     "explanation": ""
   },
   {
-    "id": 355,
+    "id": 339,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6739,7 +6435,7 @@
     "explanation": ""
   },
   {
-    "id": 356,
+    "id": 340,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6758,7 +6454,7 @@
     "explanation": ""
   },
   {
-    "id": 357,
+    "id": 341,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6777,7 +6473,7 @@
     "explanation": ""
   },
   {
-    "id": 358,
+    "id": 342,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6796,7 +6492,7 @@
     "explanation": ""
   },
   {
-    "id": 359,
+    "id": 343,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6815,7 +6511,7 @@
     "explanation": ""
   },
   {
-    "id": 360,
+    "id": 344,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6834,7 +6530,7 @@
     "explanation": ""
   },
   {
-    "id": 361,
+    "id": 345,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6853,7 +6549,7 @@
     "explanation": ""
   },
   {
-    "id": 362,
+    "id": 346,
     "date": "20200208",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -6872,7 +6568,7 @@
     "explanation": ""
   },
   {
-    "id": 363,
+    "id": 347,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6891,7 +6587,7 @@
     "explanation": ""
   },
   {
-    "id": 364,
+    "id": 348,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6910,7 +6606,7 @@
     "explanation": ""
   },
   {
-    "id": 365,
+    "id": 349,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6929,7 +6625,7 @@
     "explanation": ""
   },
   {
-    "id": 366,
+    "id": 350,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6948,7 +6644,7 @@
     "explanation": ""
   },
   {
-    "id": 367,
+    "id": 351,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6967,7 +6663,7 @@
     "explanation": ""
   },
   {
-    "id": 368,
+    "id": 352,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -6986,7 +6682,7 @@
     "explanation": ""
   },
   {
-    "id": 369,
+    "id": 353,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7005,7 +6701,7 @@
     "explanation": ""
   },
   {
-    "id": 370,
+    "id": 354,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7024,7 +6720,7 @@
     "explanation": ""
   },
   {
-    "id": 371,
+    "id": 355,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7035,7 +6731,7 @@
       "2": "근로자가 근로계약에 따른 업무나 그에 따르는 행위를 하던 중 발생한 사고",
       "3": "휴게시간 중 사업주의 지배관리하에 있다고 볼 수 있는 행위로 발생한 사고",
       "4": "사업주가 주관하거나 사업주의 지시에 따라 참여한 행사 나 행사준비 중에 발생한 사고",
-      "5": "사업주가 제공한 시설물 등을 이용하던 중 그 시설물 등 의 결함이나 관리소홀로 발생한 사고"
+      "5": "사업주가 제공한 시설물 등을 이용하던 중 그 시설물 등 의 결함이나 관리소홀로 발생한 사고 67. 노인장기요양보험법상 장기요양급여 제공의 기본원칙에 해 당하는 것을 모두 고른 것은?"
     },
     "answers": [
       1
@@ -7043,7 +6739,7 @@
     "explanation": ""
   },
   {
-    "id": 372,
+    "id": 356,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7062,7 +6758,7 @@
     "explanation": ""
   },
   {
-    "id": 373,
+    "id": 357,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7081,7 +6777,7 @@
     "explanation": ""
   },
   {
-    "id": 374,
+    "id": 358,
     "date": "20200208",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7100,7 +6796,7 @@
     "explanation": ""
   },
   {
-    "id": 375,
+    "id": 359,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7119,7 +6815,7 @@
     "explanation": ""
   },
   {
-    "id": 376,
+    "id": 360,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7138,7 +6834,7 @@
     "explanation": ""
   },
   {
-    "id": 377,
+    "id": 361,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7157,18 +6853,18 @@
     "explanation": ""
   },
   {
-    "id": 378,
+    "id": 362,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 4,
     "question": "신빈민법(New Poor Law)에 관한 설명으로 옳지 않은 것은?",
     "choices": {
-      "1": "1832년 왕립위원회(Royal Commission)의 조사를 토대로 1834년에 제정되었다.",
-      "2": "국가의 도움을 받는 사람의 처우는 스스로 벌어서 생활하 는 최하위 노동자의 생활수준보다높지 않아야 한다는 원 칙을 내용으로 하고 있다.",
+      "1": "ㄱ, ㄴ",
+      "2": "ㄱ, ㄹ",
       "3": "원외구제를 인정하였다.",
       "4": "구빈행정체계를 통일시키고자 하였다.",
-      "5": "빈민을 가치 있는 빈민과 가치 없는 빈민으로 분류하였 다."
+      "5": "빈민을 가치 있는 빈민과 가치 없는 빈민으로 분류하였 다. 5. 에스핑-앤더슨(Esping-Andersen)의 복지국가 유형에 관한 설명으로 옳은 것을 모두 고른 것은?"
     },
     "answers": [
       3
@@ -7176,7 +6872,7 @@
     "explanation": ""
   },
   {
-    "id": 379,
+    "id": 363,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7195,7 +6891,7 @@
     "explanation": ""
   },
   {
-    "id": 380,
+    "id": 364,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7214,7 +6910,7 @@
     "explanation": ""
   },
   {
-    "id": 381,
+    "id": 365,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7233,7 +6929,7 @@
     "explanation": ""
   },
   {
-    "id": 382,
+    "id": 366,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7252,7 +6948,7 @@
     "explanation": ""
   },
   {
-    "id": 383,
+    "id": 367,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7271,7 +6967,7 @@
     "explanation": ""
   },
   {
-    "id": 384,
+    "id": 368,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7290,7 +6986,7 @@
     "explanation": ""
   },
   {
-    "id": 385,
+    "id": 369,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7309,7 +7005,7 @@
     "explanation": ""
   },
   {
-    "id": 386,
+    "id": 370,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7328,7 +7024,7 @@
     "explanation": ""
   },
   {
-    "id": 387,
+    "id": 371,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7347,7 +7043,7 @@
     "explanation": ""
   },
   {
-    "id": 388,
+    "id": 372,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7366,7 +7062,7 @@
     "explanation": ""
   },
   {
-    "id": 389,
+    "id": 373,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7385,7 +7081,7 @@
     "explanation": ""
   },
   {
-    "id": 390,
+    "id": 374,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7404,7 +7100,7 @@
     "explanation": ""
   },
   {
-    "id": 391,
+    "id": 375,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7423,7 +7119,7 @@
     "explanation": ""
   },
   {
-    "id": 392,
+    "id": 376,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7442,7 +7138,7 @@
     "explanation": ""
   },
   {
-    "id": 393,
+    "id": 377,
     "date": "20210206",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -7461,7 +7157,7 @@
     "explanation": ""
   },
   {
-    "id": 394,
+    "id": 378,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7480,7 +7176,7 @@
     "explanation": ""
   },
   {
-    "id": 395,
+    "id": 379,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7499,7 +7195,7 @@
     "explanation": ""
   },
   {
-    "id": 396,
+    "id": 380,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7518,7 +7214,7 @@
     "explanation": ""
   },
   {
-    "id": 397,
+    "id": 381,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7537,7 +7233,7 @@
     "explanation": ""
   },
   {
-    "id": 398,
+    "id": 382,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7556,7 +7252,7 @@
     "explanation": ""
   },
   {
-    "id": 399,
+    "id": 383,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7575,7 +7271,7 @@
     "explanation": ""
   },
   {
-    "id": 400,
+    "id": 384,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7594,7 +7290,7 @@
     "explanation": ""
   },
   {
-    "id": 401,
+    "id": 385,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7613,7 +7309,7 @@
     "explanation": ""
   },
   {
-    "id": 402,
+    "id": 386,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7632,7 +7328,7 @@
     "explanation": ""
   },
   {
-    "id": 403,
+    "id": 387,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7651,7 +7347,7 @@
     "explanation": ""
   },
   {
-    "id": 404,
+    "id": 388,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7670,7 +7366,7 @@
     "explanation": ""
   },
   {
-    "id": 405,
+    "id": 389,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7689,31 +7385,12 @@
     "explanation": ""
   },
   {
-    "id": 406,
+    "id": 390,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
     "question_no": 41,
     "question": "사회복지기관의 서비스 질에 관한 설명으로 옳지 않은 것 은?",
-    "choices": {
-      "1": "서브퀄(SERVQUAL)에는 신뢰성과 확신성이 포함된다.",
-      "2": "서비스 질은 사회복지평가의 기준이 될 수 없다.",
-      "3": "위험관리(Risk Management)는 이용자에 대한 서비스 관 리 측면과 조직관리 측면을 모두 포함한다.",
-      "4": "총체적 품질관리(TQM)에서 서비스의 질은 고객의 결정 에 의한다.",
-      "5": "서비스 이용자와 제공자 관점에서 질적 평가가 중요시 되고 있다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 407,
-    "date": "20210206",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 42,
-    "question": "우리나라 사회복지전달체계의 변화 과정을 순서대로 나열한 것은?",
     "choices": {
       "1": "ㄱ - ㅁ - ㄷ - ㄹ – ㄴ",
       "2": "ㄴ - ㄱ - ㄹ - ㅁ – ㄷ",
@@ -7722,12 +7399,12 @@
       "5": "ㅁ - ㄱ - ㄹ - ㄷ - ㄴ"
     },
     "answers": [
-      5
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 408,
+    "id": 391,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7746,7 +7423,7 @@
     "explanation": ""
   },
   {
-    "id": 409,
+    "id": 392,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7765,7 +7442,7 @@
     "explanation": ""
   },
   {
-    "id": 410,
+    "id": 393,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7784,7 +7461,7 @@
     "explanation": ""
   },
   {
-    "id": 411,
+    "id": 394,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7803,7 +7480,7 @@
     "explanation": ""
   },
   {
-    "id": 412,
+    "id": 395,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7822,7 +7499,7 @@
     "explanation": ""
   },
   {
-    "id": 413,
+    "id": 396,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7841,7 +7518,7 @@
     "explanation": ""
   },
   {
-    "id": 414,
+    "id": 397,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7860,7 +7537,7 @@
     "explanation": ""
   },
   {
-    "id": 415,
+    "id": 398,
     "date": "20210206",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -7879,7 +7556,7 @@
     "explanation": ""
   },
   {
-    "id": 416,
+    "id": 399,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7898,7 +7575,7 @@
     "explanation": ""
   },
   {
-    "id": 417,
+    "id": 400,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7917,7 +7594,7 @@
     "explanation": ""
   },
   {
-    "id": 418,
+    "id": 401,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7936,7 +7613,7 @@
     "explanation": ""
   },
   {
-    "id": 419,
+    "id": 402,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7955,7 +7632,7 @@
     "explanation": ""
   },
   {
-    "id": 420,
+    "id": 403,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7974,7 +7651,7 @@
     "explanation": ""
   },
   {
-    "id": 421,
+    "id": 404,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -7993,7 +7670,7 @@
     "explanation": ""
   },
   {
-    "id": 422,
+    "id": 405,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8012,7 +7689,7 @@
     "explanation": ""
   },
   {
-    "id": 423,
+    "id": 406,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8031,7 +7708,7 @@
     "explanation": ""
   },
   {
-    "id": 424,
+    "id": 407,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8050,7 +7727,7 @@
     "explanation": ""
   },
   {
-    "id": 425,
+    "id": 408,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8069,7 +7746,7 @@
     "explanation": ""
   },
   {
-    "id": 426,
+    "id": 409,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8088,7 +7765,7 @@
     "explanation": ""
   },
   {
-    "id": 427,
+    "id": 410,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8107,7 +7784,7 @@
     "explanation": ""
   },
   {
-    "id": 428,
+    "id": 411,
     "date": "20210206",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8126,7 +7803,7 @@
     "explanation": ""
   },
   {
-    "id": 429,
+    "id": 412,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8145,7 +7822,7 @@
     "explanation": ""
   },
   {
-    "id": 430,
+    "id": 413,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8164,7 +7841,7 @@
     "explanation": ""
   },
   {
-    "id": 431,
+    "id": 414,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8183,7 +7860,7 @@
     "explanation": ""
   },
   {
-    "id": 432,
+    "id": 415,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8202,7 +7879,7 @@
     "explanation": ""
   },
   {
-    "id": 433,
+    "id": 416,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8221,7 +7898,7 @@
     "explanation": ""
   },
   {
-    "id": 434,
+    "id": 417,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8240,7 +7917,7 @@
     "explanation": ""
   },
   {
-    "id": 435,
+    "id": 418,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8259,7 +7936,7 @@
     "explanation": ""
   },
   {
-    "id": 436,
+    "id": 419,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8278,26 +7955,7 @@
     "explanation": ""
   },
   {
-    "id": 437,
-    "date": "20220122",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 12,
-    "question": "사회복지 재화나 서비스를 국가가 제공해야 하는 이유가 아 닌 것은?",
-    "choices": {
-      "1": "사회복지의 공공재적 성격",
-      "2": "전염병에 대한 치료의 긍정적 외부효과 발생",
-      "3": "질병의 위험에 대한 보험방식의 역선택 문제 해결",
-      "4": "경제성장의 낙수효과 발생",
-      "5": "의료서비스에 대한 정보의 비대칭 문제 해결"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 438,
+    "id": 420,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8316,7 +7974,7 @@
     "explanation": ""
   },
   {
-    "id": 439,
+    "id": 421,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8335,7 +7993,7 @@
     "explanation": ""
   },
   {
-    "id": 440,
+    "id": 422,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8354,7 +8012,7 @@
     "explanation": ""
   },
   {
-    "id": 441,
+    "id": 423,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8373,7 +8031,7 @@
     "explanation": ""
   },
   {
-    "id": 442,
+    "id": 424,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8392,7 +8050,7 @@
     "explanation": ""
   },
   {
-    "id": 443,
+    "id": 425,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8411,7 +8069,7 @@
     "explanation": ""
   },
   {
-    "id": 444,
+    "id": 426,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8430,7 +8088,7 @@
     "explanation": ""
   },
   {
-    "id": 445,
+    "id": 427,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8449,7 +8107,7 @@
     "explanation": ""
   },
   {
-    "id": 446,
+    "id": 428,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8468,7 +8126,7 @@
     "explanation": ""
   },
   {
-    "id": 447,
+    "id": 429,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8487,7 +8145,7 @@
     "explanation": ""
   },
   {
-    "id": 448,
+    "id": 430,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8506,7 +8164,7 @@
     "explanation": ""
   },
   {
-    "id": 449,
+    "id": 431,
     "date": "20220122",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -8524,7 +8182,7 @@
     "explanation": ""
   },
   {
-    "id": 450,
+    "id": 432,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8543,7 +8201,7 @@
     "explanation": ""
   },
   {
-    "id": 451,
+    "id": 433,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8562,7 +8220,7 @@
     "explanation": ""
   },
   {
-    "id": 452,
+    "id": 434,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8581,7 +8239,7 @@
     "explanation": ""
   },
   {
-    "id": 453,
+    "id": 435,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8600,7 +8258,7 @@
     "explanation": ""
   },
   {
-    "id": 454,
+    "id": 436,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8619,31 +8277,12 @@
     "explanation": ""
   },
   {
-    "id": 455,
+    "id": 437,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
     "question_no": 33,
     "question": "다음에서 설명하는 사회복지정보시스템 명칭은?",
-    "choices": {
-      "1": "복지로",
-      "2": "사회보장정보시스템(범정부)",
-      "3": "사회복지시설정보시스템",
-      "4": "사회서비스전자바우처시스템",
-      "5": "보건복지정보시스템"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 456,
-    "date": "20220122",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 34,
-    "question": "스키드모어(R. A. Skidmore)의 기획과정을 순서대로 나열한 것은?",
     "choices": {
       "1": "ㄱ - ㄴ - ㄷ - ㅁ - ㅂ - ㄹ",
       "2": "ㄱ - ㄷ - ㄹ - ㄴ - ㅁ - ㅂ",
@@ -8652,12 +8291,12 @@
       "5": "ㅁ - ㅂ - ㄴ - ㄱ - ㄷ - ㄹ"
     },
     "answers": [
-      4
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 457,
+    "id": 438,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8676,7 +8315,7 @@
     "explanation": ""
   },
   {
-    "id": 458,
+    "id": 439,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8695,7 +8334,7 @@
     "explanation": ""
   },
   {
-    "id": 459,
+    "id": 440,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8714,7 +8353,7 @@
     "explanation": ""
   },
   {
-    "id": 460,
+    "id": 441,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8733,7 +8372,7 @@
     "explanation": ""
   },
   {
-    "id": 461,
+    "id": 442,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8744,7 +8383,7 @@
       "2": "ㄱ, ㄷ",
       "3": "ㄴ, ㄹ",
       "4": "ㄱ, ㄷ, ㄹ",
-      "5": "ㄴ, ㄷ, ㄹ"
+      "5": "ㄴ, ㄷ, ㄹ 41. 사회복지관에서 제공해야 하는 서비스의 최저기준에 포함되"
     },
     "answers": [
       4
@@ -8752,7 +8391,7 @@
     "explanation": ""
   },
   {
-    "id": 462,
+    "id": 443,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8771,7 +8410,7 @@
     "explanation": ""
   },
   {
-    "id": 463,
+    "id": 444,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8790,7 +8429,7 @@
     "explanation": ""
   },
   {
-    "id": 464,
+    "id": 445,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8809,7 +8448,7 @@
     "explanation": ""
   },
   {
-    "id": 465,
+    "id": 446,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8828,7 +8467,7 @@
     "explanation": ""
   },
   {
-    "id": 466,
+    "id": 447,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8847,7 +8486,7 @@
     "explanation": ""
   },
   {
-    "id": 467,
+    "id": 448,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8866,7 +8505,7 @@
     "explanation": ""
   },
   {
-    "id": 468,
+    "id": 449,
     "date": "20220122",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -8885,7 +8524,7 @@
     "explanation": ""
   },
   {
-    "id": 469,
+    "id": 450,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8904,31 +8543,12 @@
     "explanation": ""
   },
   {
-    "id": 470,
+    "id": 451,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
     "question_no": 53,
     "question": "법률의 제정연도가 가장 빠른 것은?",
-    "choices": {
-      "1": "사회보장기본법",
-      "2": "국민건강보험법",
-      "3": "고용보험법",
-      "4": "영유아보육법",
-      "5": "노인복지법"
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 471,
-    "date": "20220122",
-    "subject": 3,
-    "subject_name": "사회복지 법제론",
-    "question_no": 54,
-    "question": "사회보장기본법상 사회보장제도의 운영원칙에 관한 사항이 다. ( )에 들어갈 내용으로 옳은 것은?",
     "choices": {
       "1": "ㄱ: 국가, ㄴ: 국가",
       "2": "ㄱ: 지방자치단체, ㄴ: 지방자치단체",
@@ -8937,12 +8557,12 @@
       "5": "ㄱ: 국가와 지방자치단체, ㄴ: 국가와 지방자치단체"
     },
     "answers": [
-      4
+      5
     ],
     "explanation": ""
   },
   {
-    "id": 472,
+    "id": 452,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8961,7 +8581,7 @@
     "explanation": ""
   },
   {
-    "id": 473,
+    "id": 453,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8980,7 +8600,7 @@
     "explanation": ""
   },
   {
-    "id": 474,
+    "id": 454,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -8999,7 +8619,7 @@
     "explanation": ""
   },
   {
-    "id": 475,
+    "id": 455,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9018,7 +8638,7 @@
     "explanation": ""
   },
   {
-    "id": 476,
+    "id": 456,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9037,7 +8657,7 @@
     "explanation": ""
   },
   {
-    "id": 477,
+    "id": 457,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9056,7 +8676,7 @@
     "explanation": ""
   },
   {
-    "id": 478,
+    "id": 458,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9075,7 +8695,7 @@
     "explanation": ""
   },
   {
-    "id": 479,
+    "id": 459,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9094,7 +8714,7 @@
     "explanation": ""
   },
   {
-    "id": 480,
+    "id": 460,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9113,7 +8733,7 @@
     "explanation": ""
   },
   {
-    "id": 481,
+    "id": 461,
     "date": "20220122",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9132,7 +8752,7 @@
     "explanation": ""
   },
   {
-    "id": 482,
+    "id": 462,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9151,7 +8771,7 @@
     "explanation": ""
   },
   {
-    "id": 483,
+    "id": 463,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9170,7 +8790,7 @@
     "explanation": ""
   },
   {
-    "id": 484,
+    "id": 464,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9189,7 +8809,7 @@
     "explanation": ""
   },
   {
-    "id": 485,
+    "id": 465,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9208,7 +8828,7 @@
     "explanation": ""
   },
   {
-    "id": 486,
+    "id": 466,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9227,45 +8847,7 @@
     "explanation": ""
   },
   {
-    "id": 487,
-    "date": "20230114",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 8,
-    "question": "에스핑-안데르센(G. Esping-Andersen)의 복지국가 유형에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "포괄수가제",
-      "2": "의료급여 사례관리제도",
-      "3": "건강보험급여 심사평가제도",
-      "4": "행위별 수가제",
-      "5": "본인일부부담금"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 488,
-    "date": "20230114",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 10,
-    "question": "조세특례제한법상의 '총급여액 등'을 기준으로 근로장려금 산정방식을 다음과 같이 설계하였다고 가정할 때, 총급여액 등에 따른 근로장려금 계산 결과로 옳지 않은 것은?",
-    "choices": {
-      "1": "총급여액 등이 500만원 일 때, 근로장려금 100만원",
-      "2": "총급여액 등이 1,100만원 일 때, 근로장려금 200만원",
-      "3": "총급여액 등이 1,800만원 일 때, 근로장려금 150만원",
-      "4": "총급여액 등이 2,200만원 일 때, 근로장려금 100만원",
-      "5": "총급여액 등이 2,700만원 일 때, 근로장려금 50만원"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 489,
+    "id": 467,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9284,26 +8866,7 @@
     "explanation": ""
   },
   {
-    "id": 490,
-    "date": "20230114",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 13,
-    "question": "우리나라가 시행하고 있는 취약계층 취업지원 제도에 관한 설명으로 옳은 것은?",
-    "choices": {
-      "1": "노인 일자리사업의 총괄 운영기관은 대한노인회이다.",
-      "2": "장애인고용의무제도는 모든 사업체에 적용된다.",
-      "3": "맞춤형 취업지원서비스로 취업성공패키지가 운영되고 있 다.",
-      "4": "모든 국민기초생활보장 수급자는 반드시 자활사업에 참 여해야 한다.",
-      "5": "고령자를 채용하지 않는 기업은 정부에 부담금을 납부해 야 한다."
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 491,
+    "id": 468,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9322,7 +8885,7 @@
     "explanation": ""
   },
   {
-    "id": 492,
+    "id": 469,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9341,7 +8904,7 @@
     "explanation": ""
   },
   {
-    "id": 493,
+    "id": 470,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9360,31 +8923,12 @@
     "explanation": ""
   },
   {
-    "id": 494,
+    "id": 471,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 19,
     "question": "사회복지정책의 주체 및 그 역할에 관한 설명으로 옳지 않 은 것은?",
-    "choices": {
-      "1": "정해진 틀에 따라 사회복지정책 내용을 분석함으로써 적 용된 사회적 가치를 평가하기 쉽다.",
-      "2": "사회복지정책의 방향성을 제시하기가 용이하다.",
-      "3": "현행 사회복지정책에서 배제되고 차별받는 사람들의 욕 구를 파악하기 쉽다.",
-      "4": "산물분석 결과는 기존의 사회주류적 입장을 대변할 가능 성이 높다.",
-      "5": "사회복지정책의 구체적인 대안을 담아내기 쉽다."
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 495,
-    "date": "20230114",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 21,
-    "question": "길버트(N. Gilbert)와 테렐(P. Terrell)이 제시한 사회적 효과 성에 관한 설명으로 옳은 것은?",
     "choices": {
       "1": "수급자격을 얻기 위해 개인의 특수한 욕구가 선별적인 세밀한 조사에 노출될 수밖에 없다.",
       "2": "사람들이 사회의 평등한 구성원으로 어느 정도나 대우받 는가에 따라 판단하는 것이다.",
@@ -9393,12 +8937,12 @@
       "5": "사회적 효과성은 단기적 비용절감을 목표로 한다. 22. 정책결정 모형 중 드로어(Y. Dror)가 제시한 최적모형에 관 한 설명으로 옳은 것을 모두 고른 것은?"
     },
     "answers": [
-      2
+      1
     ],
     "explanation": ""
   },
   {
-    "id": 496,
+    "id": 472,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9417,7 +8961,7 @@
     "explanation": ""
   },
   {
-    "id": 497,
+    "id": 473,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9436,7 +8980,7 @@
     "explanation": ""
   },
   {
-    "id": 498,
+    "id": 474,
     "date": "20230114",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -9455,7 +8999,7 @@
     "explanation": ""
   },
   {
-    "id": 499,
+    "id": 475,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9474,7 +9018,7 @@
     "explanation": ""
   },
   {
-    "id": 500,
+    "id": 476,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9493,7 +9037,7 @@
     "explanation": ""
   },
   {
-    "id": 501,
+    "id": 477,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9512,7 +9056,7 @@
     "explanation": ""
   },
   {
-    "id": 502,
+    "id": 478,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9531,7 +9075,7 @@
     "explanation": ""
   },
   {
-    "id": 503,
+    "id": 479,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9550,7 +9094,7 @@
     "explanation": ""
   },
   {
-    "id": 504,
+    "id": 480,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9569,7 +9113,7 @@
     "explanation": ""
   },
   {
-    "id": 505,
+    "id": 481,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9588,7 +9132,7 @@
     "explanation": ""
   },
   {
-    "id": 506,
+    "id": 482,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9606,7 +9150,7 @@
     "explanation": ""
   },
   {
-    "id": 507,
+    "id": 483,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9625,7 +9169,7 @@
     "explanation": ""
   },
   {
-    "id": 508,
+    "id": 484,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9644,7 +9188,7 @@
     "explanation": ""
   },
   {
-    "id": 509,
+    "id": 485,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9663,7 +9207,7 @@
     "explanation": ""
   },
   {
-    "id": 510,
+    "id": 486,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9682,7 +9226,7 @@
     "explanation": ""
   },
   {
-    "id": 511,
+    "id": 487,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9701,7 +9245,7 @@
     "explanation": ""
   },
   {
-    "id": 512,
+    "id": 488,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9720,7 +9264,7 @@
     "explanation": ""
   },
   {
-    "id": 513,
+    "id": 489,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9739,7 +9283,7 @@
     "explanation": ""
   },
   {
-    "id": 514,
+    "id": 490,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9758,7 +9302,7 @@
     "explanation": ""
   },
   {
-    "id": 515,
+    "id": 491,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9777,7 +9321,7 @@
     "explanation": ""
   },
   {
-    "id": 516,
+    "id": 492,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9796,7 +9340,7 @@
     "explanation": ""
   },
   {
-    "id": 517,
+    "id": 493,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9815,7 +9359,7 @@
     "explanation": ""
   },
   {
-    "id": 518,
+    "id": 494,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9834,7 +9378,7 @@
     "explanation": ""
   },
   {
-    "id": 519,
+    "id": 495,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9853,7 +9397,7 @@
     "explanation": ""
   },
   {
-    "id": 520,
+    "id": 496,
     "date": "20230114",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -9872,7 +9416,7 @@
     "explanation": ""
   },
   {
-    "id": 521,
+    "id": 497,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9891,7 +9435,7 @@
     "explanation": ""
   },
   {
-    "id": 522,
+    "id": 498,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9910,7 +9454,7 @@
     "explanation": ""
   },
   {
-    "id": 523,
+    "id": 499,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9929,7 +9473,7 @@
     "explanation": ""
   },
   {
-    "id": 524,
+    "id": 500,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9948,7 +9492,7 @@
     "explanation": ""
   },
   {
-    "id": 525,
+    "id": 501,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9967,7 +9511,7 @@
     "explanation": ""
   },
   {
-    "id": 526,
+    "id": 502,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -9986,7 +9530,7 @@
     "explanation": ""
   },
   {
-    "id": 527,
+    "id": 503,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10005,7 +9549,7 @@
     "explanation": ""
   },
   {
-    "id": 528,
+    "id": 504,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10024,7 +9568,7 @@
     "explanation": ""
   },
   {
-    "id": 529,
+    "id": 505,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10043,7 +9587,7 @@
     "explanation": ""
   },
   {
-    "id": 530,
+    "id": 506,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10062,7 +9606,7 @@
     "explanation": ""
   },
   {
-    "id": 531,
+    "id": 507,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10081,7 +9625,7 @@
     "explanation": ""
   },
   {
-    "id": 532,
+    "id": 508,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10100,7 +9644,7 @@
     "explanation": ""
   },
   {
-    "id": 533,
+    "id": 509,
     "date": "20230114",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10119,7 +9663,7 @@
     "explanation": ""
   },
   {
-    "id": 534,
+    "id": 510,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10138,7 +9682,7 @@
     "explanation": ""
   },
   {
-    "id": 535,
+    "id": 511,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10157,7 +9701,7 @@
     "explanation": ""
   },
   {
-    "id": 536,
+    "id": 512,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10176,7 +9720,7 @@
     "explanation": ""
   },
   {
-    "id": 537,
+    "id": 513,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10195,7 +9739,7 @@
     "explanation": ""
   },
   {
-    "id": 538,
+    "id": 514,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10214,7 +9758,7 @@
     "explanation": ""
   },
   {
-    "id": 539,
+    "id": 515,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10233,7 +9777,7 @@
     "explanation": ""
   },
   {
-    "id": 540,
+    "id": 516,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10252,7 +9796,7 @@
     "explanation": ""
   },
   {
-    "id": 541,
+    "id": 517,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10271,7 +9815,7 @@
     "explanation": ""
   },
   {
-    "id": 542,
+    "id": 518,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10290,31 +9834,12 @@
     "explanation": ""
   },
   {
-    "id": 543,
+    "id": 519,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
     "question_no": 13,
     "question": "미국의 빈곤가족한시지원(TANF)에 관한 설명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "역선택",
-      "2": "도덕적 해이",
-      "3": "규모의 경제",
-      "4": "능력에 따른 분배",
-      "5": "정보의 비대칭"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 544,
-    "date": "20240113",
-    "subject": 1,
-    "subject_name": "사회복지 정책론",
-    "question_no": 15,
-    "question": "에스핑-안데르센(G. Esping-Andersen)의 복지국가 유형에 관한 설명으로 옳은 것은?",
     "choices": {
       "1": "복지국가 유형을 탈상품화, 계층화 등을 기준으로 분류 하였다.",
       "2": "보수주의 복지국가는 탈가족주의와 통합적 사회보험을 강조한다.",
@@ -10323,12 +9848,12 @@
       "5": "보수주의 복지국가의 예로는 프랑스, 영국, 미국을 들 수 있다."
     },
     "answers": [
-      1
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 545,
+    "id": 520,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10347,7 +9872,7 @@
     "explanation": ""
   },
   {
-    "id": 546,
+    "id": 521,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10366,7 +9891,7 @@
     "explanation": ""
   },
   {
-    "id": 547,
+    "id": 522,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10385,7 +9910,7 @@
     "explanation": ""
   },
   {
-    "id": 548,
+    "id": 523,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10404,7 +9929,7 @@
     "explanation": ""
   },
   {
-    "id": 549,
+    "id": 524,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10423,7 +9948,7 @@
     "explanation": ""
   },
   {
-    "id": 550,
+    "id": 525,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10442,7 +9967,7 @@
     "explanation": ""
   },
   {
-    "id": 551,
+    "id": 526,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10461,7 +9986,7 @@
     "explanation": ""
   },
   {
-    "id": 552,
+    "id": 527,
     "date": "20240113",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -10480,7 +10005,7 @@
     "explanation": ""
   },
   {
-    "id": 553,
+    "id": 528,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10499,7 +10024,7 @@
     "explanation": ""
   },
   {
-    "id": 554,
+    "id": 529,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10518,7 +10043,7 @@
     "explanation": ""
   },
   {
-    "id": 555,
+    "id": 530,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10537,7 +10062,7 @@
     "explanation": ""
   },
   {
-    "id": 556,
+    "id": 531,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10556,7 +10081,7 @@
     "explanation": ""
   },
   {
-    "id": 557,
+    "id": 532,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10575,7 +10100,7 @@
     "explanation": ""
   },
   {
-    "id": 558,
+    "id": 533,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10594,7 +10119,7 @@
     "explanation": ""
   },
   {
-    "id": 559,
+    "id": 534,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10613,7 +10138,7 @@
     "explanation": ""
   },
   {
-    "id": 560,
+    "id": 535,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10632,7 +10157,7 @@
     "explanation": ""
   },
   {
-    "id": 561,
+    "id": 536,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10651,7 +10176,7 @@
     "explanation": ""
   },
   {
-    "id": 562,
+    "id": 537,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10670,7 +10195,7 @@
     "explanation": ""
   },
   {
-    "id": 563,
+    "id": 538,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10689,7 +10214,7 @@
     "explanation": ""
   },
   {
-    "id": 564,
+    "id": 539,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10708,7 +10233,7 @@
     "explanation": ""
   },
   {
-    "id": 565,
+    "id": 540,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10727,7 +10252,7 @@
     "explanation": ""
   },
   {
-    "id": 566,
+    "id": 541,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10746,7 +10271,7 @@
     "explanation": ""
   },
   {
-    "id": 567,
+    "id": 542,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10765,7 +10290,7 @@
     "explanation": ""
   },
   {
-    "id": 568,
+    "id": 543,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10784,7 +10309,7 @@
     "explanation": ""
   },
   {
-    "id": 569,
+    "id": 544,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10803,7 +10328,7 @@
     "explanation": ""
   },
   {
-    "id": 570,
+    "id": 545,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10822,7 +10347,7 @@
     "explanation": ""
   },
   {
-    "id": 571,
+    "id": 546,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10841,7 +10366,7 @@
     "explanation": ""
   },
   {
-    "id": 572,
+    "id": 547,
     "date": "20240113",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -10860,7 +10385,7 @@
     "explanation": ""
   },
   {
-    "id": 573,
+    "id": 548,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10879,7 +10404,7 @@
     "explanation": ""
   },
   {
-    "id": 574,
+    "id": 549,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10898,7 +10423,7 @@
     "explanation": ""
   },
   {
-    "id": 575,
+    "id": 550,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10917,7 +10442,7 @@
     "explanation": ""
   },
   {
-    "id": 576,
+    "id": 551,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10936,7 +10461,7 @@
     "explanation": ""
   },
   {
-    "id": 577,
+    "id": 552,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10955,7 +10480,7 @@
     "explanation": ""
   },
   {
-    "id": 578,
+    "id": 553,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10974,7 +10499,7 @@
     "explanation": ""
   },
   {
-    "id": 579,
+    "id": 554,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -10992,7 +10517,7 @@
     "explanation": ""
   },
   {
-    "id": 580,
+    "id": 555,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11011,7 +10536,7 @@
     "explanation": ""
   },
   {
-    "id": 581,
+    "id": 556,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11030,7 +10555,7 @@
     "explanation": ""
   },
   {
-    "id": 582,
+    "id": 557,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11048,7 +10573,7 @@
     "explanation": ""
   },
   {
-    "id": 583,
+    "id": 558,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11067,7 +10592,7 @@
     "explanation": ""
   },
   {
-    "id": 584,
+    "id": 559,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11086,7 +10611,7 @@
     "explanation": ""
   },
   {
-    "id": 585,
+    "id": 560,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11105,7 +10630,7 @@
     "explanation": ""
   },
   {
-    "id": 586,
+    "id": 561,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11124,7 +10649,7 @@
     "explanation": ""
   },
   {
-    "id": 587,
+    "id": 562,
     "date": "20240113",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11143,7 +10668,7 @@
     "explanation": ""
   },
   {
-    "id": 588,
+    "id": 563,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11162,7 +10687,7 @@
     "explanation": ""
   },
   {
-    "id": 589,
+    "id": 564,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11181,7 +10706,7 @@
     "explanation": ""
   },
   {
-    "id": 590,
+    "id": 565,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11200,7 +10725,7 @@
     "explanation": ""
   },
   {
-    "id": 591,
+    "id": 566,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11219,7 +10744,7 @@
     "explanation": ""
   },
   {
-    "id": 592,
+    "id": 567,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11237,7 +10762,7 @@
     "explanation": ""
   },
   {
-    "id": 593,
+    "id": 568,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11256,7 +10781,7 @@
     "explanation": ""
   },
   {
-    "id": 594,
+    "id": 569,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11275,7 +10800,7 @@
     "explanation": ""
   },
   {
-    "id": 595,
+    "id": 570,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11294,7 +10819,7 @@
     "explanation": ""
   },
   {
-    "id": 596,
+    "id": 571,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11313,7 +10838,7 @@
     "explanation": ""
   },
   {
-    "id": 597,
+    "id": 572,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11332,7 +10857,7 @@
     "explanation": ""
   },
   {
-    "id": 598,
+    "id": 573,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11351,7 +10876,7 @@
     "explanation": ""
   },
   {
-    "id": 599,
+    "id": 574,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11370,7 +10895,7 @@
     "explanation": ""
   },
   {
-    "id": 600,
+    "id": 575,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11389,7 +10914,7 @@
     "explanation": ""
   },
   {
-    "id": 601,
+    "id": 576,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11408,7 +10933,7 @@
     "explanation": ""
   },
   {
-    "id": 602,
+    "id": 577,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11427,7 +10952,7 @@
     "explanation": ""
   },
   {
-    "id": 603,
+    "id": 578,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11446,7 +10971,7 @@
     "explanation": ""
   },
   {
-    "id": 604,
+    "id": 579,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11465,7 +10990,7 @@
     "explanation": ""
   },
   {
-    "id": 605,
+    "id": 580,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11484,7 +11009,7 @@
     "explanation": ""
   },
   {
-    "id": 606,
+    "id": 581,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11503,7 +11028,7 @@
     "explanation": ""
   },
   {
-    "id": 607,
+    "id": 582,
     "date": "20250111",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -11522,7 +11047,7 @@
     "explanation": ""
   },
   {
-    "id": 608,
+    "id": 583,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11541,7 +11066,7 @@
     "explanation": ""
   },
   {
-    "id": 609,
+    "id": 584,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11559,7 +11084,7 @@
     "explanation": ""
   },
   {
-    "id": 610,
+    "id": 585,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11578,7 +11103,7 @@
     "explanation": ""
   },
   {
-    "id": 611,
+    "id": 586,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11597,7 +11122,7 @@
     "explanation": ""
   },
   {
-    "id": 612,
+    "id": 587,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11616,7 +11141,7 @@
     "explanation": ""
   },
   {
-    "id": 613,
+    "id": 588,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11635,7 +11160,7 @@
     "explanation": ""
   },
   {
-    "id": 614,
+    "id": 589,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11654,7 +11179,7 @@
     "explanation": ""
   },
   {
-    "id": 615,
+    "id": 590,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11673,7 +11198,7 @@
     "explanation": ""
   },
   {
-    "id": 616,
+    "id": 591,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11692,7 +11217,7 @@
     "explanation": ""
   },
   {
-    "id": 617,
+    "id": 592,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11711,26 +11236,7 @@
     "explanation": ""
   },
   {
-    "id": 618,
-    "date": "20250111",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 39,
-    "question": "사회복지시설 예산 편성 및 결정 절차를 순서대로 나열한 것은?",
-    "choices": {
-      "1": "즉응성(responsiveness)",
-      "2": "확신성(assurance)",
-      "3": "신뢰성(reliability)",
-      "4": "유형성(tangible)",
-      "5": "공감성(empathy)"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 619,
+    "id": 593,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11749,7 +11255,7 @@
     "explanation": ""
   },
   {
-    "id": 620,
+    "id": 594,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11768,26 +11274,7 @@
     "explanation": ""
   },
   {
-    "id": 621,
-    "date": "20250111",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 44,
-    "question": "사회복지조직에서 정보관리가 중요하게 된 이유에 관한 설 명으로 옳지 않은 것은?",
-    "choices": {
-      "1": "사회복지조직의 책임성을 강화할 수 있기 때문이다.",
-      "2": "사회복지조직에서 정보관리가 최우선이기 때문이다.",
-      "3": "업무수행을 위한 적절한 정보체계를 구축할 수 있기 때 문이다.",
-      "4": "종사자의 전문성을 강화할 수 있기 때문이다.",
-      "5": "사회복지조직의 효과성을 높이기 때문이다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 622,
+    "id": 595,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11806,7 +11293,7 @@
     "explanation": ""
   },
   {
-    "id": 623,
+    "id": 596,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11825,7 +11312,7 @@
     "explanation": ""
   },
   {
-    "id": 624,
+    "id": 597,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11844,7 +11331,7 @@
     "explanation": ""
   },
   {
-    "id": 625,
+    "id": 598,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11862,7 +11349,7 @@
     "explanation": ""
   },
   {
-    "id": 626,
+    "id": 599,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11881,7 +11368,7 @@
     "explanation": ""
   },
   {
-    "id": 627,
+    "id": 600,
     "date": "20250111",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -11900,7 +11387,7 @@
     "explanation": ""
   },
   {
-    "id": 628,
+    "id": 601,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11919,7 +11406,7 @@
     "explanation": ""
   },
   {
-    "id": 629,
+    "id": 602,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11938,7 +11425,7 @@
     "explanation": ""
   },
   {
-    "id": 630,
+    "id": 603,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11957,7 +11444,7 @@
     "explanation": ""
   },
   {
-    "id": 631,
+    "id": 604,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11976,7 +11463,7 @@
     "explanation": ""
   },
   {
-    "id": 632,
+    "id": 605,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -11995,7 +11482,7 @@
     "explanation": ""
   },
   {
-    "id": 633,
+    "id": 606,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12014,7 +11501,7 @@
     "explanation": ""
   },
   {
-    "id": 634,
+    "id": 607,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12033,7 +11520,7 @@
     "explanation": ""
   },
   {
-    "id": 635,
+    "id": 608,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12052,7 +11539,7 @@
     "explanation": ""
   },
   {
-    "id": 636,
+    "id": 609,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12071,7 +11558,7 @@
     "explanation": ""
   },
   {
-    "id": 637,
+    "id": 610,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12090,7 +11577,7 @@
     "explanation": ""
   },
   {
-    "id": 638,
+    "id": 611,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12109,26 +11596,7 @@
     "explanation": ""
   },
   {
-    "id": 639,
-    "date": "20250111",
-    "subject": 3,
-    "subject_name": "사회복지 법제론",
-    "question_no": 68,
-    "question": "국민기초생활 보장법상 국내에 체류하고 있는 외국인에 대 한 특례를 적용할 수 없는 자는?",
-    "choices": {
-      "1": "보건복지부장관은 수행기관의 통합정보전산망 사용 요청 에 대하여 특별한 사정이 없는 한 모든 정보를 제공하여 야 한다.",
-      "2": "수행기관은 보건복지부장관에게 통합정보전산망 사용을 요청하는 경우 보안교육 등 자활지원사업 참여자의 개인 정보에 대한 보호대책을 마련하여야 한다.",
-      "3": "수행기관은 통합정보전산망을 이용하고자 하는 경우 사 전에 정보주체의 동의를 받아야 한다.",
-      "4": "사회보장급여 수급이력 등 개인정보는 수행기관에서 자 활지원사업을 담당하는 자 중 해당 기관의 장으로부터 개인정보 취급승인을 받은 자만 취급할 수 있다.",
-      "5": "자활지원사업 업무에 종사하였던 자는 자활지원사업 업 무 수행과 관련하여 알게 된 개인ㆍ법인의 정보를 다른 용도로 사용해서는 아니 된다."
-    },
-    "answers": [
-      5
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 640,
+    "id": 612,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12147,7 +11615,7 @@
     "explanation": ""
   },
   {
-    "id": 641,
+    "id": 613,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12166,7 +11634,7 @@
     "explanation": ""
   },
   {
-    "id": 642,
+    "id": 614,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12185,7 +11653,7 @@
     "explanation": ""
   },
   {
-    "id": 643,
+    "id": 615,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12204,7 +11672,7 @@
     "explanation": ""
   },
   {
-    "id": 644,
+    "id": 616,
     "date": "20250111",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -12222,7 +11690,7 @@
     "explanation": ""
   },
   {
-    "id": 645,
+    "id": 617,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12241,7 +11709,7 @@
     "explanation": ""
   },
   {
-    "id": 646,
+    "id": 618,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12260,7 +11728,7 @@
     "explanation": ""
   },
   {
-    "id": 647,
+    "id": 619,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12279,7 +11747,7 @@
     "explanation": ""
   },
   {
-    "id": 648,
+    "id": 620,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12297,7 +11765,7 @@
     "explanation": ""
   },
   {
-    "id": 649,
+    "id": 621,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12316,7 +11784,7 @@
     "explanation": ""
   },
   {
-    "id": 650,
+    "id": 622,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12335,7 +11803,7 @@
     "explanation": ""
   },
   {
-    "id": 651,
+    "id": 623,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12354,7 +11822,7 @@
     "explanation": ""
   },
   {
-    "id": 652,
+    "id": 624,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12373,7 +11841,7 @@
     "explanation": ""
   },
   {
-    "id": 653,
+    "id": 625,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12392,7 +11860,7 @@
     "explanation": ""
   },
   {
-    "id": 654,
+    "id": 626,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12411,7 +11879,7 @@
     "explanation": ""
   },
   {
-    "id": 655,
+    "id": 627,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12430,7 +11898,7 @@
     "explanation": ""
   },
   {
-    "id": 656,
+    "id": 628,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12449,7 +11917,7 @@
     "explanation": ""
   },
   {
-    "id": 657,
+    "id": 629,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12468,7 +11936,7 @@
     "explanation": ""
   },
   {
-    "id": 658,
+    "id": 630,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12487,7 +11955,7 @@
     "explanation": ""
   },
   {
-    "id": 659,
+    "id": 631,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12506,7 +11974,7 @@
     "explanation": ""
   },
   {
-    "id": 660,
+    "id": 632,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12525,7 +11993,7 @@
     "explanation": ""
   },
   {
-    "id": 661,
+    "id": 633,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12544,7 +12012,7 @@
     "explanation": ""
   },
   {
-    "id": 662,
+    "id": 634,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12563,7 +12031,7 @@
     "explanation": ""
   },
   {
-    "id": 663,
+    "id": 635,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12582,7 +12050,7 @@
     "explanation": ""
   },
   {
-    "id": 664,
+    "id": 636,
     "date": "20260117",
     "subject": 1,
     "subject_name": "사회복지 정책론",
@@ -12601,7 +12069,7 @@
     "explanation": ""
   },
   {
-    "id": 665,
+    "id": 637,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12620,31 +12088,12 @@
     "explanation": ""
   },
   {
-    "id": 666,
+    "id": 638,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
     "question_no": 27,
     "question": "다음 사례에서 적용하고 있는 이론은?",
-    "choices": {
-      "1": "하우스(R. J. House)의 경로-목적이론",
-      "2": "베버(M. Weber)의 관료제이론",
-      "3": "테일러(F. W. Taylor)의 과학적 관리론",
-      "4": "매슬로우(A. H. Maslow)의 욕구위계이론",
-      "5": "맥그리거(D. McGregor)의 XY이론"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 667,
-    "date": "20260117",
-    "subject": 2,
-    "subject_name": "사회복지 행정론",
-    "question_no": 28,
-    "question": "한국 사회복지전달체계의 변화 과정을 순서대로 나열한 것 은?",
     "choices": {
       "1": "ㄱ - ㄴ - ㄷ - ㄹ",
       "2": "ㄱ - ㄴ - ㄹ - ㄷ",
@@ -12653,12 +12102,12 @@
       "5": "ㄴ - ㄱ - ㄹ - ㄷ"
     },
     "answers": [
-      2
+      1
     ],
     "explanation": ""
   },
   {
-    "id": 668,
+    "id": 639,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12677,7 +12126,7 @@
     "explanation": ""
   },
   {
-    "id": 669,
+    "id": 640,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12696,7 +12145,7 @@
     "explanation": ""
   },
   {
-    "id": 670,
+    "id": 641,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12715,7 +12164,7 @@
     "explanation": ""
   },
   {
-    "id": 671,
+    "id": 642,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12734,7 +12183,7 @@
     "explanation": ""
   },
   {
-    "id": 672,
+    "id": 643,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12753,7 +12202,7 @@
     "explanation": ""
   },
   {
-    "id": 673,
+    "id": 644,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12772,7 +12221,7 @@
     "explanation": ""
   },
   {
-    "id": 674,
+    "id": 645,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12791,7 +12240,7 @@
     "explanation": ""
   },
   {
-    "id": 675,
+    "id": 646,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12810,7 +12259,7 @@
     "explanation": ""
   },
   {
-    "id": 676,
+    "id": 647,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12829,7 +12278,7 @@
     "explanation": ""
   },
   {
-    "id": 677,
+    "id": 648,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12848,7 +12297,7 @@
     "explanation": ""
   },
   {
-    "id": 678,
+    "id": 649,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12867,7 +12316,7 @@
     "explanation": ""
   },
   {
-    "id": 679,
+    "id": 650,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12886,7 +12335,7 @@
     "explanation": ""
   },
   {
-    "id": 680,
+    "id": 651,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12905,7 +12354,7 @@
     "explanation": ""
   },
   {
-    "id": 681,
+    "id": 652,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12923,7 +12372,7 @@
     "explanation": ""
   },
   {
-    "id": 682,
+    "id": 653,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12942,7 +12391,7 @@
     "explanation": ""
   },
   {
-    "id": 683,
+    "id": 654,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12961,7 +12410,7 @@
     "explanation": ""
   },
   {
-    "id": 684,
+    "id": 655,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12980,7 +12429,7 @@
     "explanation": ""
   },
   {
-    "id": 685,
+    "id": 656,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -12999,7 +12448,7 @@
     "explanation": ""
   },
   {
-    "id": 686,
+    "id": 657,
     "date": "20260117",
     "subject": 2,
     "subject_name": "사회복지 행정론",
@@ -13018,7 +12467,7 @@
     "explanation": ""
   },
   {
-    "id": 687,
+    "id": 658,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13037,7 +12486,7 @@
     "explanation": ""
   },
   {
-    "id": 688,
+    "id": 659,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13056,7 +12505,7 @@
     "explanation": ""
   },
   {
-    "id": 689,
+    "id": 660,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13075,7 +12524,7 @@
     "explanation": ""
   },
   {
-    "id": 690,
+    "id": 661,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13094,7 +12543,7 @@
     "explanation": ""
   },
   {
-    "id": 691,
+    "id": 662,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13113,7 +12562,7 @@
     "explanation": ""
   },
   {
-    "id": 692,
+    "id": 663,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13132,7 +12581,7 @@
     "explanation": ""
   },
   {
-    "id": 693,
+    "id": 664,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13151,7 +12600,7 @@
     "explanation": ""
   },
   {
-    "id": 694,
+    "id": 665,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13170,7 +12619,7 @@
     "explanation": ""
   },
   {
-    "id": 695,
+    "id": 666,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13188,7 +12637,7 @@
     "explanation": ""
   },
   {
-    "id": 696,
+    "id": 667,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13207,7 +12656,7 @@
     "explanation": ""
   },
   {
-    "id": 697,
+    "id": 668,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13226,7 +12675,7 @@
     "explanation": ""
   },
   {
-    "id": 698,
+    "id": 669,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",
@@ -13245,7 +12694,7 @@
     "explanation": ""
   },
   {
-    "id": 699,
+    "id": 670,
     "date": "20260117",
     "subject": 3,
     "subject_name": "사회복지 법제론",

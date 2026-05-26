@@ -158,6 +158,10 @@
         <button class="filter-btn" data-filter="welfare_3" onclick="applyFilter('welfare_3',this)">사회복지사 3교시</button>
         <button class="filter-btn" data-filter="safety_ind" onclick="applyFilter('safety_ind',this)">산업안전산업기사</button>
         <button class="filter-btn" data-filter="safety_eng" onclick="applyFilter('safety_eng',this)">산업안전기사</button>
+        <button class="filter-btn" data-filter="elec_craft" onclick="applyFilter('elec_craft',this)">전기기능사</button>
+        <button class="filter-btn" data-filter="pastry" onclick="applyFilter('pastry',this)">제과기능사</button>
+        <button class="filter-btn" data-filter="bread" onclick="applyFilter('bread',this)">제빵기능사</button>
+        <button class="filter-btn" data-filter="korean_cook" onclick="applyFilter('korean_cook',this)">한식조리기능사</button>
       </div>
 
       <!-- 통계 바 -->
@@ -283,6 +287,22 @@
             <div class="stat-num" id="st-safeng" style="color:#92400e;">0</div>
             <div class="stat-lbl" style="color:var(--text-mid);">산업안전기사</div>
           </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-elcraft" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">전기기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-pastry" style="color:#db2777;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">제과기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-bread" style="color:#d97706;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">제빵기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-kcook" style="color:#059669;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">한식조리기능사</div>
+          </div>
         </div>
       </div>
 
@@ -360,6 +380,10 @@
     welfare_3:        'data/welfare_3.json',
     safety_ind:       'data/safety_ind.json',
     safety_eng:       'data/safety_eng.json',
+    elec_craft:       'data/elec_craft.json',
+    pastry:           'data/pastry.json',
+    bread:            'data/bread.json',
+    korean_cook:      'data/korean_cook.json',
   };
 
   window.addEventListener('DOMContentLoaded', async () => {
@@ -418,6 +442,10 @@
     set('st-welf3',  s.welfare_3);
     set('st-safind', s.safety_ind);
     set('st-safeng', s.safety_eng);
+    set('st-elcraft', s.elec_craft);
+    set('st-pastry',  s.pastry);
+    set('st-bread',   s.bread);
+    set('st-kcook',   s.korean_cook);
   }
 
   function applyFilter(filter, el) {
@@ -440,6 +468,7 @@
       'realtor_1':'realtor_1','realtor_2':'realtor_2',
       'welfare_1':'welfare_1','welfare_2':'welfare_2','welfare_3':'welfare_3',
       'safety_ind':'safety_ind','safety_eng':'safety_eng',
+      'elec_craft':'elec_craft','pastry':'pastry','bread':'bread','korean_cook':'korean_cook',
     };
     const WRONG_LABEL = {
       'motorcycle':'이륜·원동기','history_basic':'한국사 기본',
@@ -457,6 +486,7 @@
       'welfare_1':'사회복지사1급 1교시','welfare_2':'사회복지사1급 2교시',
       'welfare_3':'사회복지사1급 3교시',
       'safety_ind':'산업안전산업기사','safety_eng':'산업안전기사',
+      'elec_craft':'전기기능사','pastry':'제과기능사','bread':'제빵기능사','korean_cook':'한식조리기능사',
     };
     const WRONG_COUNT = {
       'history_basic':50,'history_advanced':50,'computer_1':60,'computer_2':40,
@@ -466,6 +496,7 @@
       'forklift':60,'excavator':60,'realtor_1':80,'realtor_2':120,
       'welfare_1':50,'welfare_2':75,'welfare_3':75,
       'safety_ind':100,'safety_eng':120,
+      'elec_craft':60,'pastry':60,'bread':60,'korean_cook':60,
     };
     const type  = WRONG_TYPE[filter]  || '1jong-botong';
     const label = WRONG_LABEL[filter] || '1·2종 면허';
@@ -526,6 +557,7 @@
       'realtor_1':'공인중개사1차','realtor_2':'공인중개사2차',
       'welfare_1':'사회복지사1교시','welfare_2':'사회복지사2교시','welfare_3':'사회복지사3교시',
       'safety_ind':'산업안전산업기사','safety_eng':'산업안전기사',
+      'elec_craft':'전기기능사','pastry':'제과기능사','bread':'제빵기능사','korean_cook':'한식조리기능사',
     };
     const fileLabel = FILE_LABELS[item.file] || item.file;
     let html = `<div class="wrong-card">
