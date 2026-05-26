@@ -936,7 +936,21 @@
 
     document.querySelectorAll('.exam-card').forEach(card => {
       const title = card.querySelector('.card-title')?.textContent.toLowerCase() || '';
-      const visible = !q || title.includes(q);
+      let category = '';
+      const sec = card.closest('section.exam-section');
+      if (sec) {
+        category = (sec.querySelector('h2,h3')?.textContent || '').toLowerCase();
+      } else {
+        const grid = card.closest('.exam-grid');
+        if (grid) {
+          let el = grid.previousElementSibling;
+          while (el) {
+            if (el.classList.contains('category-label')) { category = el.textContent.toLowerCase(); break; }
+            el = el.previousElementSibling;
+          }
+        }
+      }
+      const visible = !q || title.includes(q) || category.includes(q);
       card.style.display = visible ? '' : 'none';
       if (visible) count++;
     });
