@@ -378,8 +378,8 @@ function renderQuestion() {
 
   html += `</div>`;
 
-  // 해설 (제출 후)
-  if (ua.submitted) {
+  // 해설 (제출 후, 해설이 있을 때만)
+  if (ua.submitted && q.explanation) {
     html += `<div class="explain-box visible">
       <strong>🔍 해설</strong>
       <span>${escHtml(q.explanation)}</span>
