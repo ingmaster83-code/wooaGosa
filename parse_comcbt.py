@@ -195,6 +195,85 @@ EXAM_TARGETS = [
         'out': 'korean_cook.json',
         'max_q': 60,
     },
+    # ── 4차 추가 ──────────────────────────────────────────────
+    {
+        'key': 'gas_craft',
+        'folder': '가스기능사',
+        'out': 'gas_craft.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'gas_ind',
+        'folder': '가스산업기사',
+        'out': 'gas_ind.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'gas_eng',
+        'folder': '가스기사',
+        'out': 'gas_eng.json',
+        'max_q': 100,
+    },
+    {
+        'key': 'const_safety_ind',
+        'folder': '건설안전산업기사',
+        'out': 'const_safety_ind.json',
+        'max_q': 100,
+    },
+    {
+        'key': 'const_safety_eng',
+        'folder': '건설안전기사',
+        'out': 'const_safety_eng.json',
+        'max_q': 120,
+    },
+    {
+        'key': 'hvac_craft',
+        'folder': '공조냉동기계기능사',
+        'out': 'hvac_craft.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'hvac_eng',
+        'folder': '공조냉동기계기사',
+        'out': 'hvac_eng.json',
+        'max_q': 100,
+    },
+    {
+        'key': 'air_eng',
+        'folder': '대기환경기사',
+        'out': 'air_eng.json',
+        'max_q': 100,
+    },
+    {
+        'key': 'water_eng',
+        'folder': '수질환경기사',
+        'out': 'water_eng.json',
+        'max_q': 100,
+    },
+    {
+        'key': 'elevator_craft',
+        'folder': '승강기기능사',
+        'out': 'elevator_craft.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'elevator_eng',
+        'folder': '승강기기사',
+        'out': 'elevator_eng.json',
+        'max_q': 80,
+    },
+    {
+        'key': 'energy_craft',
+        'folder': '에너지관리기능사',
+        'out': 'energy_craft.json',
+        'max_q': 60,
+    },
+    {
+        'key': 'energy_eng',
+        'folder': '에너지관리기사',
+        'out': 'energy_eng.json',
+        'max_q': 100,
+    },
 ]
 
 

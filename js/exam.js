@@ -45,6 +45,19 @@ const FILE = (() => {
   if (TYPE === 'pastry')           return 'pastry';
   if (TYPE === 'bread')            return 'bread';
   if (TYPE === 'korean_cook')      return 'korean_cook';
+  if (TYPE === 'gas_craft')        return 'gas_craft';
+  if (TYPE === 'gas_ind')          return 'gas_ind';
+  if (TYPE === 'gas_eng')          return 'gas_eng';
+  if (TYPE === 'const_safety_ind') return 'const_safety_ind';
+  if (TYPE === 'const_safety_eng') return 'const_safety_eng';
+  if (TYPE === 'hvac_craft')       return 'hvac_craft';
+  if (TYPE === 'hvac_eng')         return 'hvac_eng';
+  if (TYPE === 'air_eng')          return 'air_eng';
+  if (TYPE === 'water_eng')        return 'water_eng';
+  if (TYPE === 'elevator_craft')   return 'elevator_craft';
+  if (TYPE === 'elevator_eng')     return 'elevator_eng';
+  if (TYPE === 'energy_craft')     return 'energy_craft';
+  if (TYPE === 'energy_eng')       return 'energy_eng';
   return 'license12';
 })();
 
@@ -63,6 +76,12 @@ const DEFAULT_COUNT = {
   'welfare_1': 50, 'welfare_2': 75, 'welfare_3': 75,
   'safety_ind': 100, 'safety_eng': 120,
   'elec_craft': 60, 'pastry': 60, 'bread': 60, 'korean_cook': 60,
+  'gas_craft': 60, 'gas_ind': 60, 'gas_eng': 100,
+  'const_safety_ind': 100, 'const_safety_eng': 120,
+  'hvac_craft': 60, 'hvac_eng': 100,
+  'air_eng': 100, 'water_eng': 100,
+  'elevator_craft': 60, 'elevator_eng': 80,
+  'energy_craft': 60, 'energy_eng': 100,
 };
 const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
 
@@ -100,6 +119,19 @@ const DATA_URL_MAP = {
   'pastry':           'data/pastry.json',
   'bread':            'data/bread.json',
   'korean_cook':      'data/korean_cook.json',
+  'gas_craft':        'data/gas_craft.json',
+  'gas_ind':          'data/gas_ind.json',
+  'gas_eng':          'data/gas_eng.json',
+  'const_safety_ind': 'data/const_safety_ind.json',
+  'const_safety_eng': 'data/const_safety_eng.json',
+  'hvac_craft':       'data/hvac_craft.json',
+  'hvac_eng':         'data/hvac_eng.json',
+  'air_eng':          'data/air_eng.json',
+  'water_eng':        'data/water_eng.json',
+  'elevator_craft':   'data/elevator_craft.json',
+  'elevator_eng':     'data/elevator_eng.json',
+  'energy_craft':     'data/energy_craft.json',
+  'energy_eng':       'data/energy_eng.json',
 };
 const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
 
@@ -142,6 +174,19 @@ const TYPE_LABELS = {
   'pastry':            '제과기능사',
   'bread':             '제빵기능사',
   'korean_cook':       '한식조리기능사',
+  'gas_craft':         '가스기능사',
+  'gas_ind':           '가스산업기사',
+  'gas_eng':           '가스기사',
+  'const_safety_ind':  '건설안전산업기사',
+  'const_safety_eng':  '건설안전기사',
+  'hvac_craft':        '공조냉동기계기능사',
+  'hvac_eng':          '공조냉동기계기사',
+  'air_eng':           '대기환경기사',
+  'water_eng':         '수질환경기사',
+  'elevator_craft':    '승강기기능사',
+  'elevator_eng':      '승강기기사',
+  'energy_craft':      '에너지관리기능사',
+  'energy_eng':        '에너지관리기사',
 };
 const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
 
@@ -190,6 +235,12 @@ window.addEventListener('DOMContentLoaded', async () => {
       'welfare_1': '👐', 'welfare_2': '👐', 'welfare_3': '👐',
       'safety_ind': '⛑️', 'safety_eng': '⛑️',
       'elec_craft': '⚡', 'pastry': '🍰', 'bread': '🍞', 'korean_cook': '🍲',
+      'gas_craft': '🔥', 'gas_ind': '🔥', 'gas_eng': '🔥',
+      'const_safety_ind': '🏗️', 'const_safety_eng': '🏗️',
+      'hvac_craft': '❄️', 'hvac_eng': '❄️',
+      'air_eng': '🌬️', 'water_eng': '💧',
+      'elevator_craft': '🛗', 'elevator_eng': '🛗',
+      'energy_craft': '♨️', 'energy_eng': '♨️',
     };
     logoIcon.textContent = ICONS[TYPE] || '🚗';
   }
@@ -258,6 +309,19 @@ function buildExam() {
     'pastry':           60 * 60,
     'bread':            60 * 60,
     'korean_cook':      60 * 60,
+    'gas_craft':        60 * 60,
+    'gas_ind':          90 * 60,
+    'gas_eng':         150 * 60,
+    'const_safety_ind':150 * 60,
+    'const_safety_eng':180 * 60,
+    'hvac_craft':       60 * 60,
+    'hvac_eng':        150 * 60,
+    'air_eng':         150 * 60,
+    'water_eng':       150 * 60,
+    'elevator_craft':   60 * 60,
+    'elevator_eng':    120 * 60,
+    'energy_craft':     60 * 60,
+    'energy_eng':      150 * 60,
   };
   secondsLeft = MODE === 'sequential'
     ? examQuestions.length * 96

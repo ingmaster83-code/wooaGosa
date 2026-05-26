@@ -162,6 +162,19 @@
         <button class="filter-btn" data-filter="pastry" onclick="applyFilter('pastry',this)">제과기능사</button>
         <button class="filter-btn" data-filter="bread" onclick="applyFilter('bread',this)">제빵기능사</button>
         <button class="filter-btn" data-filter="korean_cook" onclick="applyFilter('korean_cook',this)">한식조리기능사</button>
+        <button class="filter-btn" data-filter="gas_craft" onclick="applyFilter('gas_craft',this)">가스기능사</button>
+        <button class="filter-btn" data-filter="gas_ind" onclick="applyFilter('gas_ind',this)">가스산업기사</button>
+        <button class="filter-btn" data-filter="gas_eng" onclick="applyFilter('gas_eng',this)">가스기사</button>
+        <button class="filter-btn" data-filter="const_safety_ind" onclick="applyFilter('const_safety_ind',this)">건설안전산업기사</button>
+        <button class="filter-btn" data-filter="const_safety_eng" onclick="applyFilter('const_safety_eng',this)">건설안전기사</button>
+        <button class="filter-btn" data-filter="hvac_craft" onclick="applyFilter('hvac_craft',this)">공조냉동기계기능사</button>
+        <button class="filter-btn" data-filter="hvac_eng" onclick="applyFilter('hvac_eng',this)">공조냉동기계기사</button>
+        <button class="filter-btn" data-filter="air_eng" onclick="applyFilter('air_eng',this)">대기환경기사</button>
+        <button class="filter-btn" data-filter="water_eng" onclick="applyFilter('water_eng',this)">수질환경기사</button>
+        <button class="filter-btn" data-filter="elevator_craft" onclick="applyFilter('elevator_craft',this)">승강기기능사</button>
+        <button class="filter-btn" data-filter="elevator_eng" onclick="applyFilter('elevator_eng',this)">승강기기사</button>
+        <button class="filter-btn" data-filter="energy_craft" onclick="applyFilter('energy_craft',this)">에너지관리기능사</button>
+        <button class="filter-btn" data-filter="energy_eng" onclick="applyFilter('energy_eng',this)">에너지관리기사</button>
       </div>
 
       <!-- 통계 바 -->
@@ -303,6 +316,58 @@
             <div class="stat-num" id="st-kcook" style="color:#059669;">0</div>
             <div class="stat-lbl" style="color:var(--text-mid);">한식조리기능사</div>
           </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-gascraft" style="color:#dc2626;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">가스기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-gasind" style="color:#dc2626;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">가스산업기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-gaseng" style="color:#dc2626;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">가스기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-csind" style="color:#78716c;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">건설안전산업기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-cseng" style="color:#78716c;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">건설안전기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-hvaccraft" style="color:#0891b2;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">공조냉동기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-hvaceng" style="color:#0891b2;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">공조냉동기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-aireng" style="color:#64748b;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">대기환경기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-watereng" style="color:#2563eb;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">수질환경기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-elevcraft" style="color:#7c3aed;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">승강기기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-eleveng" style="color:#7c3aed;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">승강기기사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-encraft" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">에너지관리기능사</div>
+          </div>
+          <div class="stat-item" style="background:var(--card-bg);border:1px solid var(--border);">
+            <div class="stat-num" id="st-eneng" style="color:#b45309;">0</div>
+            <div class="stat-lbl" style="color:var(--text-mid);">에너지관리기사</div>
+          </div>
         </div>
       </div>
 
@@ -384,6 +449,19 @@
     pastry:           'data/pastry.json',
     bread:            'data/bread.json',
     korean_cook:      'data/korean_cook.json',
+    gas_craft:        'data/gas_craft.json',
+    gas_ind:          'data/gas_ind.json',
+    gas_eng:          'data/gas_eng.json',
+    const_safety_ind: 'data/const_safety_ind.json',
+    const_safety_eng: 'data/const_safety_eng.json',
+    hvac_craft:       'data/hvac_craft.json',
+    hvac_eng:         'data/hvac_eng.json',
+    air_eng:          'data/air_eng.json',
+    water_eng:        'data/water_eng.json',
+    elevator_craft:   'data/elevator_craft.json',
+    elevator_eng:     'data/elevator_eng.json',
+    energy_craft:     'data/energy_craft.json',
+    energy_eng:       'data/energy_eng.json',
   };
 
   window.addEventListener('DOMContentLoaded', async () => {
@@ -446,6 +524,19 @@
     set('st-pastry',  s.pastry);
     set('st-bread',   s.bread);
     set('st-kcook',   s.korean_cook);
+    set('st-gascraft',s.gas_craft);
+    set('st-gasind',  s.gas_ind);
+    set('st-gaseng',  s.gas_eng);
+    set('st-csind',   s.const_safety_ind);
+    set('st-cseng',   s.const_safety_eng);
+    set('st-hvaccraft',s.hvac_craft);
+    set('st-hvaceng', s.hvac_eng);
+    set('st-aireng',  s.air_eng);
+    set('st-watereng',s.water_eng);
+    set('st-elevcraft',s.elevator_craft);
+    set('st-eleveng', s.elevator_eng);
+    set('st-encraft', s.energy_craft);
+    set('st-eneng',   s.energy_eng);
   }
 
   function applyFilter(filter, el) {
@@ -469,6 +560,12 @@
       'welfare_1':'welfare_1','welfare_2':'welfare_2','welfare_3':'welfare_3',
       'safety_ind':'safety_ind','safety_eng':'safety_eng',
       'elec_craft':'elec_craft','pastry':'pastry','bread':'bread','korean_cook':'korean_cook',
+      'gas_craft':'gas_craft','gas_ind':'gas_ind','gas_eng':'gas_eng',
+      'const_safety_ind':'const_safety_ind','const_safety_eng':'const_safety_eng',
+      'hvac_craft':'hvac_craft','hvac_eng':'hvac_eng',
+      'air_eng':'air_eng','water_eng':'water_eng',
+      'elevator_craft':'elevator_craft','elevator_eng':'elevator_eng',
+      'energy_craft':'energy_craft','energy_eng':'energy_eng',
     };
     const WRONG_LABEL = {
       'motorcycle':'이륜·원동기','history_basic':'한국사 기본',
@@ -487,6 +584,12 @@
       'welfare_3':'사회복지사1급 3교시',
       'safety_ind':'산업안전산업기사','safety_eng':'산업안전기사',
       'elec_craft':'전기기능사','pastry':'제과기능사','bread':'제빵기능사','korean_cook':'한식조리기능사',
+      'gas_craft':'가스기능사','gas_ind':'가스산업기사','gas_eng':'가스기사',
+      'const_safety_ind':'건설안전산업기사','const_safety_eng':'건설안전기사',
+      'hvac_craft':'공조냉동기계기능사','hvac_eng':'공조냉동기계기사',
+      'air_eng':'대기환경기사','water_eng':'수질환경기사',
+      'elevator_craft':'승강기기능사','elevator_eng':'승강기기사',
+      'energy_craft':'에너지관리기능사','energy_eng':'에너지관리기사',
     };
     const WRONG_COUNT = {
       'history_basic':50,'history_advanced':50,'computer_1':60,'computer_2':40,
@@ -497,6 +600,12 @@
       'welfare_1':50,'welfare_2':75,'welfare_3':75,
       'safety_ind':100,'safety_eng':120,
       'elec_craft':60,'pastry':60,'bread':60,'korean_cook':60,
+      'gas_craft':60,'gas_ind':60,'gas_eng':100,
+      'const_safety_ind':100,'const_safety_eng':120,
+      'hvac_craft':60,'hvac_eng':100,
+      'air_eng':100,'water_eng':100,
+      'elevator_craft':60,'elevator_eng':80,
+      'energy_craft':60,'energy_eng':100,
     };
     const type  = WRONG_TYPE[filter]  || '1jong-botong';
     const label = WRONG_LABEL[filter] || '1·2종 면허';
@@ -558,6 +667,12 @@
       'welfare_1':'사회복지사1교시','welfare_2':'사회복지사2교시','welfare_3':'사회복지사3교시',
       'safety_ind':'산업안전산업기사','safety_eng':'산업안전기사',
       'elec_craft':'전기기능사','pastry':'제과기능사','bread':'제빵기능사','korean_cook':'한식조리기능사',
+      'gas_craft':'가스기능사','gas_ind':'가스산업기사','gas_eng':'가스기사',
+      'const_safety_ind':'건설안전산업기사','const_safety_eng':'건설안전기사',
+      'hvac_craft':'공조냉동기계기능사','hvac_eng':'공조냉동기계기사',
+      'air_eng':'대기환경기사','water_eng':'수질환경기사',
+      'elevator_craft':'승강기기능사','elevator_eng':'승강기기사',
+      'energy_craft':'에너지관리기능사','energy_eng':'에너지관리기사',
     };
     const fileLabel = FILE_LABELS[item.file] || item.file;
     let html = `<div class="wrong-card">
