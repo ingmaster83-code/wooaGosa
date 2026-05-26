@@ -235,8 +235,7 @@ main { flex: 1; }
   border-radius: 99px;
 }
 .exam-card .card-count {
-  font-size: .78rem;
-  color: var(--text-lt);
+  display: none;
 }
 
 /* ── Ad Placeholder ─────────────────────────────── */
