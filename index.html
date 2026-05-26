@@ -217,6 +217,16 @@
         </div>
       </div>
 
+      <!-- 시험 검색 -->
+      <div id="exam-search-wrap" style="margin-bottom:1.5rem;">
+        <div style="position:relative;">
+          <span style="position:absolute;left:.9rem;top:50%;transform:translateY(-50%);font-size:1.1rem;pointer-events:none;">🔍</span>
+          <input type="text" id="exam-search" placeholder="시험명 검색... (예: 전기, 기사, 조리)" autocomplete="off"
+            style="width:100%;box-sizing:border-box;padding:.75rem 1rem .75rem 2.6rem;font-size:1rem;border:2px solid var(--border);border-radius:var(--radius-sm);background:var(--card-bg);color:var(--text);outline:none;transition:border-color .15s;">
+        </div>
+        <div id="search-result-count" style="margin-top:.5rem;font-size:.85rem;color:var(--text-mid);min-height:1.2em;"></div>
+      </div>
+
       <!-- STEP 1: 시험 유형 선택 -->
       <section aria-label="시험 유형 선택">
         <h2 class="section-title">시험 유형 선택</h2>
@@ -918,6 +928,44 @@
       document.getElementById('ws-total').textContent = stats.total;
     }
   });
+
+  // 시험 검색
+  document.getElementById('exam-search').addEventListener('input', function () {
+    const q = this.value.trim().toLowerCase();
+    let count = 0;
+
+    document.querySelectorAll('.exam-card').forEach(card => {
+      const title = card.querySelector('.card-title')?.textContent.toLowerCase() || '';
+      const visible = !q || title.includes(q);
+      card.style.display = visible ? '' : 'none';
+      if (visible) count++;
+    });
+
+    // exam-section 단위 숨기기 (신규 추가 섹션)
+    document.querySelectorAll('section.exam-section').forEach(sec => {
+      const has = [...sec.querySelectorAll('.exam-card')].some(c => c.style.display !== 'none');
+      sec.style.display = has ? '' : 'none';
+    });
+
+    // category-label 단위 숨기기 (기존 카테고리)
+    document.querySelectorAll('.category-label').forEach(label => {
+      let el = label.nextElementSibling;
+      while (el && !el.classList.contains('exam-grid')) el = el.nextElementSibling;
+      if (el) {
+        const has = [...el.querySelectorAll('.exam-card')].some(c => c.style.display !== 'none');
+        label.style.display = has ? '' : 'none';
+      }
+    });
+
+    const countEl = document.getElementById('search-result-count');
+    countEl.textContent = q ? `${count}개 검색됨` : '';
+    countEl.style.color = (q && count === 0) ? 'var(--red)' : 'var(--text-mid)';
+  });
+
+  // 검색창 포커스 스타일
+  const searchInput = document.getElementById('exam-search');
+  searchInput.addEventListener('focus', () => searchInput.style.borderColor = 'var(--blue)');
+  searchInput.addEventListener('blur',  () => searchInput.style.borderColor = 'var(--border)');
 
   function toggleFaq(btn) {
     const item = btn.closest('.faq-item');
