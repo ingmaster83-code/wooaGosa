@@ -89,31 +89,13 @@ MOBILE_INLINE_AD = """      <!-- 모바일 인라인 광고 -->
 
 # ── 공식 사이트 링크 ─────────────────────────────────────
 OFFICIAL_LINKS = {
-    'safedriving': [
-        ("🗓 도로교통공단 시험 일정", "https://www.safedriving.or.kr/guide/larGuide051.do"),
-        ("📝 인터넷 접수",           "https://www.safedriving.or.kr/"),
-    ],
-    'history': [
-        ("🗓 한국사 시험 일정", "https://www.historyexam.go.kr/pageLink.do?link=examInfo/examSchedule"),
-        ("📝 인터넷 접수",     "https://www.historyexam.go.kr/pageLink.do?link=examInfo/examRegistration"),
-    ],
-    'korcham': [
-        ("🗓 대한상공회의소 시험 일정", "https://license.korcham.net/license/schedule/schedule_view.asp"),
-        ("📝 인터넷 접수",             "https://license.korcham.net/"),
-    ],
-    'kait': [
-        ("🗓 KAIT 시험 일정 · 접수", "https://www.kait.or.kr/user/exam/selectExamScheduleList.do"),
-    ],
-    'kisa': [
-        ("🗓 KISA 정보보안기사 안내", "https://www.kisa.or.kr/"),
-    ],
-    'welfare': [
-        ("🗓 사회복지사 시험 일정 · 접수", "https://www.welfare.net/"),
-    ],
-    'qnet': [
-        ("🗓 큐넷 시험 일정", "https://www.q-net.or.kr/gsi002.do"),
-        ("📝 큐넷 원서 접수", "https://www.q-net.or.kr/man006.do"),
-    ],
+    'safedriving': ("🏛 도로교통공단 공식 홈페이지",      "https://www.safedriving.or.kr/"),
+    'history':     ("🏛 한국사능력검정시험 공식 홈페이지", "https://www.historyexam.go.kr/"),
+    'korcham':     ("🏛 대한상공회의소 공식 홈페이지",     "https://license.korcham.net/"),
+    'kait':        ("🏛 KAIT 공식 홈페이지",              "https://www.kait.or.kr/"),
+    'kisa':        ("🏛 KISA 공식 홈페이지",              "https://www.kisa.or.kr/"),
+    'welfare':     ("🏛 사회복지사 자격관리센터 홈페이지", "https://www.welfare.net/"),
+    'qnet':        ("🏛 큐넷 공식 홈페이지",              "https://www.q-net.or.kr/"),
 }
 
 TYPE_TO_LINKS = {
@@ -1131,15 +1113,11 @@ EXAMS = [
 
 def links_html(exam_type):
     key = TYPE_TO_LINKS.get(exam_type, 'qnet')
-    items = OFFICIAL_LINKS.get(key, OFFICIAL_LINKS['qnet'])
-    btns = '\n        '.join(
-        f'<a href="{url}" target="_blank" rel="noopener" class="exam-link-btn">{label} ↗</a>'
-        for label, url in items
-    )
+    label, url = OFFICIAL_LINKS.get(key, OFFICIAL_LINKS['qnet'])
     return f'''      <div class="exam-schedule-box">
         <span class="sch-label">📅 시험 일정 · 접수</span>
         <div class="exam-link-btns">
-        {btns}
+        <a href="{url}" target="_blank" rel="noopener" class="exam-link-btn">{label} ↗</a>
         </div>
       </div>'''
 
