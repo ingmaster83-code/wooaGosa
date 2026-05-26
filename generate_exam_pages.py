@@ -87,6 +87,51 @@ MOBILE_INLINE_AD = """      <!-- 모바일 인라인 광고 -->
         </script>
       </div>"""
 
+# ── 공식 사이트 링크 ─────────────────────────────────────
+OFFICIAL_LINKS = {
+    'safedriving': [
+        ("🗓 도로교통공단 시험 일정", "https://www.safedriving.or.kr/guide/larGuide051.do"),
+        ("📝 인터넷 접수",           "https://www.safedriving.or.kr/"),
+    ],
+    'history': [
+        ("🗓 한국사 시험 일정", "https://www.historyexam.go.kr/pageLink.do?link=examInfo/examSchedule"),
+        ("📝 인터넷 접수",     "https://www.historyexam.go.kr/pageLink.do?link=examInfo/examRegistration"),
+    ],
+    'korcham': [
+        ("🗓 대한상공회의소 시험 일정", "https://license.korcham.net/license/schedule/schedule_view.asp"),
+        ("📝 인터넷 접수",             "https://license.korcham.net/"),
+    ],
+    'kait': [
+        ("🗓 KAIT 시험 일정 · 접수", "https://www.kait.or.kr/user/exam/selectExamScheduleList.do"),
+    ],
+    'kisa': [
+        ("🗓 KISA 정보보안기사 안내", "https://www.kisa.or.kr/"),
+    ],
+    'welfare': [
+        ("🗓 사회복지사 시험 일정 · 접수", "https://www.welfare.net/"),
+    ],
+    'qnet': [
+        ("🗓 큐넷 시험 일정", "https://www.q-net.or.kr/gsi002.do"),
+        ("📝 큐넷 원서 접수", "https://www.q-net.or.kr/man006.do"),
+    ],
+}
+
+TYPE_TO_LINKS = {
+    '1jong-daebyeong': 'safedriving', '1jong-botong':     'safedriving',
+    '2jong-botong':    'safedriving', 'motorcycle':        'safedriving',
+    'motorbike':       'safedriving',
+    'history_basic':   'history',     'history_advanced':  'history',
+    'computer_1':      'korcham',     'computer_2':        'korcham',
+    'word':            'korcham',
+    'net_1':           'kait',        'net_2':             'kait',
+    'linux_1':         'kait',        'linux_2':           'kait',
+    'info_sec':        'kisa',
+    'welfare_1':       'welfare',     'welfare_2':         'welfare',
+    'welfare_3':       'welfare',
+    # 나머지 전부 qnet (elec_eng/ind, info_proc/ind, hazmat_*, fire_*,
+    #                   forklift, excavator, realtor_*, safety_*)
+}
+
 # ── 시험 유형 정의 ──────────────────────────────────────
 
 EXAMS = [
@@ -1084,6 +1129,20 @@ EXAMS = [
 
 # ── HTML 생성 함수 ──────────────────────────────────────
 
+def links_html(exam_type):
+    key = TYPE_TO_LINKS.get(exam_type, 'qnet')
+    items = OFFICIAL_LINKS.get(key, OFFICIAL_LINKS['qnet'])
+    btns = '\n        '.join(
+        f'<a href="{url}" target="_blank" rel="noopener" class="exam-link-btn">{label} ↗</a>'
+        for label, url in items
+    )
+    return f'''      <div class="exam-schedule-box">
+        <span class="sch-label">📅 시험 일정 · 접수</span>
+        <div class="exam-link-btns">
+        {btns}
+        </div>
+      </div>'''
+
 def faq_html(items):
     html = '<section style="margin-top:2.5rem;" aria-label="자주 묻는 질문">\n'
     html += '        <h2 class="section-title">자주 묻는 질문</h2>\n'
@@ -1103,7 +1162,8 @@ def faq_html(items):
 
 def make_page(exam):
     badges_html = ' '.join(f'<span class="badge">{b}</span>' for b in exam["badges"])
-    faq = faq_html(exam["faq"])
+    faq  = faq_html(exam["faq"])
+    lnks = links_html(exam["type"])
     fname = exam["file"]
 
     return f'''<!DOCTYPE html>
@@ -1161,6 +1221,22 @@ def make_page(exam):
     .breadcrumb {{ max-width:1200px; margin:.75rem auto; padding:0 1.25rem; font-size:.85rem; color:var(--text-mid); }}
     .breadcrumb a {{ color:var(--text-mid); text-decoration:none; }}
     .breadcrumb a:hover {{ color:var(--blue); }}
+    .exam-schedule-box {{
+      background: var(--card-bg); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); padding: .9rem 1.25rem;
+      margin-bottom: 1.5rem; display: flex; align-items: center;
+      gap: .75rem; flex-wrap: wrap;
+    }}
+    .sch-label {{ font-weight: 700; color: var(--navy); font-size: .9rem; flex-shrink: 0; }}
+    .exam-link-btns {{ display: flex; gap: .5rem; flex-wrap: wrap; }}
+    .exam-link-btn {{
+      display: inline-flex; align-items: center; gap: .3rem;
+      padding: .45rem .95rem; background: var(--bg);
+      border: 1.5px solid var(--border); border-radius: var(--radius-sm);
+      color: var(--navy); font-weight: 600; font-size: .82rem;
+      text-decoration: none; transition: var(--trans); white-space: nowrap;
+    }}
+    .exam-link-btn:hover {{ border-color: var(--blue); color: var(--blue); background: #eff6ff; }}
   </style>
 </head>
 <body>
@@ -1201,6 +1277,8 @@ def make_page(exam):
     <div class="gosa-main">
 
       {exam["info"]}
+
+{lnks}
 
       <section aria-label="풀기 방식 선택">
         <h2 class="section-title">풀기 방식 선택</h2>
