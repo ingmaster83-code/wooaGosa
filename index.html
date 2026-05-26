@@ -227,6 +227,12 @@
         <div id="search-result-count" style="margin-top:.5rem;font-size:.85rem;color:var(--text-mid);min-height:1.2em;"></div>
       </div>
 
+      <!-- 즐겨찾기 -->
+      <div id="fav-section" style="display:none;">
+        <div class="fav-title">⭐ 즐겨찾기</div>
+        <div id="fav-grid" class="exam-grid"></div>
+      </div>
+
       <!-- STEP 1: 시험 유형 선택 -->
       <section aria-label="시험 유형 선택">
         <h2 class="section-title">시험 유형 선택</h2>
@@ -928,6 +934,56 @@
       document.getElementById('ws-total').textContent = stats.total;
     }
   });
+
+  // ── 즐겨찾기 ──────────────────────────────────────
+  (function () {
+    const LS_KEY = 'wooagosa_favs';
+    const getFavs = () => { try { return JSON.parse(localStorage.getItem(LS_KEY)) || []; } catch { return []; } };
+    const saveFavs = f => localStorage.setItem(LS_KEY, JSON.stringify(f));
+
+    function renderFavSection() {
+      const favs = getFavs();
+      const sec = document.getElementById('fav-section');
+      const grid = document.getElementById('fav-grid');
+      if (!favs.length) { sec.style.display = 'none'; return; }
+      sec.style.display = '';
+      grid.innerHTML = '';
+      favs.forEach(href => {
+        const orig = document.querySelector(`.exam-card[href="${href}"]`);
+        if (!orig) return;
+        const clone = orig.cloneNode(true);
+        clone.querySelector('.fav-btn')?.remove();
+        grid.appendChild(clone);
+      });
+    }
+
+    document.querySelectorAll('.exam-card').forEach(card => {
+      const href = card.getAttribute('href');
+      if (!href) return;
+      const btn = document.createElement('button');
+      btn.className = 'fav-btn' + (getFavs().includes(href) ? ' active' : '');
+      btn.title = '즐겨찾기';
+      btn.innerHTML = '★';
+      btn.setAttribute('aria-label', '즐겨찾기');
+      btn.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        let favs = getFavs();
+        if (favs.includes(href)) {
+          favs = favs.filter(f => f !== href);
+          btn.classList.remove('active');
+        } else {
+          favs.push(href);
+          btn.classList.add('active');
+        }
+        saveFavs(favs);
+        renderFavSection();
+      });
+      card.appendChild(btn);
+    });
+
+    renderFavSection();
+  })();
 
   // 시험 검색
   document.getElementById('exam-search').addEventListener('input', function () {

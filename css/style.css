@@ -238,6 +238,42 @@ main { flex: 1; }
   display: none;
 }
 
+/* ── Favorites ───────────────────────────────────── */
+.fav-btn {
+  position: absolute;
+  top: .45rem;
+  right: .5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.05rem;
+  line-height: 1;
+  padding: .2rem;
+  color: var(--text-lt);
+  opacity: 0;
+  transition: opacity .15s, color .15s;
+  z-index: 2;
+}
+.exam-card:hover .fav-btn,
+.fav-btn.active {
+  opacity: 1;
+}
+.fav-btn.active {
+  color: #f59e0b;
+}
+#fav-section {
+  margin-bottom: 1.5rem;
+}
+#fav-section .fav-title {
+  font-size: .95rem;
+  font-weight: 700;
+  color: var(--text-mid);
+  margin-bottom: .75rem;
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+}
+
 /* ── Ad Placeholder ─────────────────────────────── */
 .ad-box {
   background: var(--card-bg);
