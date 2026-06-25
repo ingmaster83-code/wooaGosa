@@ -1779,12 +1779,10 @@ for _jf in sorted(_DATA_DIR.glob("*.json")):
 # ── HTML 생성 함수 ──────────────────────────────────────
 
 def links_html(exam_type):
-    key = TYPE_TO_LINKS.get(exam_type, 'qnet')
-    label, url = OFFICIAL_LINKS.get(key, OFFICIAL_LINKS['qnet'])
     return f'''      <div class="exam-schedule-box">
         <span class="sch-label">📅 시험 일정 · 접수</span>
         <div class="exam-link-btns">
-        <a href="{url}" target="_blank" rel="noopener" class="exam-link-btn">{label} ↗</a>
+        <a href="https://gosapass.kr/" target="_blank" rel="noopener" class="exam-link-btn">시험일정·접수 바로가기 ↗</a>
         </div>
       </div>'''
 
