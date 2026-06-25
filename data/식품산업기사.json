@@ -1,0 +1,4952 @@
+[
+  {
+    "id": 1,
+    "date": "20120304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "편성 혐기성이며, 열에 가장 강한 식중독 원인균은?",
+    "choices": {
+      "2": "상온유통제품 : 상온이라 함은 15~25℃를 말하며,25℃를 포함하여 선정하여야 한다.",
+      "3": "돈단독",
+      "4": "큐열",
+      "1": "탄저 ❷ 파상열"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20120304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 19,
+    "question": "산분해간장 제조 시 생성되는 유해물질은?",
+    "choices": {
+      "2": "nitrosoamine",
+      "3": "halazone ❹ trihalomethane",
+      "4": "DEHP 20. 수돗물의 염소 소독 중 염소와 미량의 유기물질과의 반응으 로 생성될 수 있는 발암성 물질은?",
+      "1": "benzopyrene"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20120304",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 25,
+    "question": "펙틴(pectin)질 중 분자량이 가장 큰 것은?",
+    "choices": {
+      "1": "비오틴(biotin)",
+      "3": "pectic acid",
+      "4": "리보플라빈(riboflavin)",
+      "2": "엽산(folic acid) ❸ 나이아신(niacin)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20120304",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 33,
+    "question": "셀룰로오스(cellulose)에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "변화없다.",
+      "3": "식품중의 섬유소는 거의 소화되지 않으나 장(intestine)운 동을 촉진한다.",
+      "4": "굴절되지 않는다.",
+      "2": "작아진다. ❸ 커진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20120304",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 44,
+    "question": "식품 등의 표시기준에 의거 제조일과 제조시간을 함께 표시 하여야 하는 품목은?",
+    "choices": {
+      "1": "1.325kg",
+      "2": "1.505kg",
+      "4": "통·병조림 45. 고형분 함량이 50%인 식품 5kg을 농축하여 고형분 함량 80%로 만들려고 한다. 제거해야 할 물의 양은?",
+      "3": "1.625kg ❹ 1.875kg"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20120304",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 50,
+    "question": "건조 가공품과 적합한 건조기의 연결이 틀린 것은?",
+    "choices": {
+      "1": "건조 쇠고기 - 동결 건조기",
+      "2": "알코올과 당분의 조화",
+      "4": "당분과 유기산이 조화",
+      "3": "당분과 아미노산의 조화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20120304",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 53,
+    "question": "과채류의 장기저장을 위한 일반적인 공기조성 조건은?",
+    "choices": {
+      "1": "높이 0.12cm이고, 부패란이다.",
+      "2": "높이 0.12cm이고, 신선란이다.",
+      "4": "인화 및 폭발의 위험성이 적을 것 55. 난황계수가 0.40이고, 난황의 폭이 3cm 일 때, 난황의 높이 와 달걀의 상태는?",
+      "3": "높이 1.2cm이고, 부패란이다. ❹ 높이 1.2cm이고, 신선란이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20120304",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "청국장의 발효균은?",
+    "choices": {
+      "1": "한외 여과법 ❷ 역삼투법",
+      "3": "송풍 동결법",
+      "4": "침지 동결법",
+      "2": "공기 동결법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20120520",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "식품의 변질에 대한 설명 중 맞지 않는 것은?",
+    "choices": {
+      "1": "알레르기 증상의 발현",
+      "3": "산패는 지방이 산소에 의해 산화되어 산성을 띠며, 악취 가나고 변색되는 현상을 말한다.",
+      "4": "감염증의 변모",
+      "2": "항생제 내성균의 출현 ❸ 급성중독으로 인한 식중독 발생"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20120520",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "다음 플라스틱 중 가장 가볍고 내열성이 매우 우수하며, 11 0℃ 이상에서 멸균이 가능한 것은?",
+    "choices": {
+      "2": "Vinylidene Chloride",
+      "3": "살모넬라균",
+      "4": "시겔라균",
+      "1": "대장균 ❷ 장염비브리오균"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20120520",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "위해물질인 Bisphenol의 사용용도가 아닌 것은?",
+    "choices": {
+      "1": "폴리카보네이트수지",
+      "2": "야토병",
+      "3": "탄저병",
+      "4": "Q열"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20120520",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 29,
+    "question": "젤(gel)화된 콜로이드 식품은 어느 것인가?",
+    "choices": {
+      "1": "탄수화물과 지방",
+      "2": "지방과 단백질 ❸ 단백질과 탄수화물",
+      "4": "물과 탄수화물",
+      "3": "적색 ❹ 청색 31. 식품가공 중에 아크릴아미드(Acrylamide)의 발생을 일으키 는 물질들로 바르게 묶인 것은?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20120520",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 33,
+    "question": "식품의 색을 분류하는 체계에 해당되지 않는 것은?",
+    "choices": {
+      "1": "CIE체계 ❷ Henning 체계",
+      "3": "닌히드린(Ninhydrin) 반응",
+      "4": "유황반응",
+      "2": "뷰렛(Biuret) 반응"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20120520",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 41,
+    "question": "녹색채소를 삶을 때 색을 고정하기 위해 사용하는 것은?",
+    "choices": {
+      "2": "가열",
+      "3": "목탄 ❹ 산성백토",
+      "4": "MgCl 2 2 42. 정치법으로 유지의 협잡물을 제거할 때 사용되는 대표적인 흡착제는?",
+      "1": "삼베"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20120520",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 49,
+    "question": "유지의 탈색공정 방법으로 사용되지 않는 것은?",
+    "choices": {
+      "2": "응고온도가 너무 높았다.",
+      "3": "수분함량이 너무 적었다.",
+      "4": "가열시간이 너무 길었다.",
+      "1": "높이 0.147cm 이고 부패란이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20120520",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 53,
+    "question": "코지(Koji)식의 고추장의 제조 공정에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "질소(N ) ❷ 헬륨(He) 2",
+      "2": "원료는 Koji, 고춧가루, 소금, 물이다.",
+      "3": "산소(O )",
+      "4": "이산화탄소(CO ) 2 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20120520",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 65,
+    "question": "Aspergillus oryzae를 Koji로 이용하는 주된 이유는?",
+    "choices": {
+      "1": "Pseudomonas syncyanea - 청색 ❷ Serratia marcescens - 황색",
+      "2": "아밀라아제와 리파아제의 생산력이강하다. ❸ 프로테아제와 아밀라아제의 생산력이강하다.",
+      "4": "Brevibacterium erythrogenes - 적색",
+      "3": "Pseudomonas fluorescens - 녹색"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20120520",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 72,
+    "question": "통조림 살균시에 가장 주의하여야 하는 세균은?",
+    "choices": {
+      "1": "살아있는 미생물의 수",
+      "2": "고체 배지상에 나타난 미생물 수",
+      "4": "Streptococcus lactis 73. 가근(Rhizoid)과 포복지(Stolon)를 가지고 번식하는 곰팡이 는?",
+      "3": "사멸된 미생물을 제외한 수 ❹ 현미경 하에서 셀 수 있는 미생물 수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20120520",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 78,
+    "question": "곰팡이 유성생식의 기본적 과정순서로 올바른 것은?",
+    "choices": {
+      "1": "핵융합 → 원형질융합 → 감수분열 → 포자형성 ❷ 원형질융합 → 핵융합 → 감수분열 → 포자형성",
+      "3": "111.4g",
+      "4": "11.4g",
+      "2": "13.4g"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20120520",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "한식(재래식)된장 제조시 메주에 생육하는 세균으로 옳은 것 은?",
+    "choices": {
+      "2": "시설비와 운전경비가 비싸다. ❸ 건조시간이 적게 걸려 대량건조가 가능하다.",
+      "3": "자석식 정선법",
+      "4": "4배 85. 진공 동결건조법에 대한 설명으로 틀린 것은?",
+      "1": "원료의 색과 향미가 유지된다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20120826",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "다음 중 대장균군 정량시험이 아닌 것은?",
+    "choices": {
+      "1": "최확수법",
+      "2": "철(Fe)",
+      "3": "망간(Mn)",
+      "4": "마그네슘(Mg)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20120826",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 12,
+    "question": "식품 포장재로부터 이행 가능한 유해물질의 연결이 잘못된 것은?",
+    "choices": {
+      "1": "금속포장재 - 납, 주석 ❷ 요업용기- 첨가제, 잔존단위체",
+      "3": "브루셀라증",
+      "4": "광우병",
+      "2": "야토병"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20120826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 22,
+    "question": "밀감 병조림 백탁의 원인과 가장 관계가 깊은 성분은?",
+    "choices": {
+      "2": "단백질의 유화성 ❸ 단백질의 분자량",
+      "3": "Rutin",
+      "4": "단백질의 구조",
+      "1": "단백질의 용해도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20120826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "카제인(Casein)은 다음 중 무엇에 해당하는가?",
+    "choices": {
+      "2": "핵단백질",
+      "3": "Insulin의 생산과 저장에 관여하는 무기질 - Co, Fe",
+      "4": "에너지의 방출과정에 관여하는 Cytochrome Oxidase가 함유하는 무기질 - Zn",
+      "1": "비타민 B 12 의 핵(구조상)을 이루는 무기질 - Cu ❷ 갑상선호르몬(Thyroxine)이 함유하는 무기질 - I"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20120826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 33,
+    "question": "다음 중 식물성 식품 성분 가운데 자외선을 쪼이면 비타민D 로 전환되는 것은?",
+    "choices": {
+      "1": "Cholesterol",
+      "2": "가수분해되어 Phytol이 유리되고 Chlorophyllide의 청록 색이 형성된다.",
+      "4": "채소의 Blanching과 같이 선명한 색깔이 유지된다.",
+      "3": "가수분해되어 Phytol 및 Methanol이 유리되고 Chlorophyllin의 청록색이 형성된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20120826",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 44,
+    "question": "마요네즈 제조에 있어 난황의 주된 작용은?",
+    "choices": {
+      "1": "응고제 작용 ❷ 유화제 작용",
+      "3": "위생적인 특성이 고려되어야 한다.",
+      "4": "영양적인 특성이 고려되어야 한다.",
+      "2": "측정이 용이하고 재현성이 있어야 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20120826",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 49,
+    "question": "된장의 숙성과정에서 일어나는 화학변화가 아닌 것은?",
+    "choices": {
+      "1": "3.42kg",
+      "2": "4.05kg ❸ 5.29kg",
+      "3": "알코올발효 ❹ 살균작용 50. 수분함량 10.5%인 밀 100kg에 물을 첨가하여 밀의 수분함 량을 15.0%로 조절하고자 한다. 첨가하여야 할 물의 양은 약 얼마인가?",
+      "4": "6.05kg"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20120826",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 52,
+    "question": "빵이나 떡류의 유통기한 설정을 위한 실험지표가 아닌 것 은? ❶ pH",
+    "choices": {
+      "2": "산가(유탕처리식품)",
+      "3": "Springer",
+      "4": "Hard Swell",
+      "1": "Flipper ❷ Soft Swell"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20120826",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 55,
+    "question": "다음 중 유지 채취법으로 이용되는 추출법(Extraction Process)의 특징을 설명한 것은? ❶ 잔류유지량을 최소로 할 수 있고 연속작업이 가능하다.",
+    "choices": {
+      "2": "생성된 유지의 순도가 가장 좋다.",
+      "3": "15배",
+      "4": "20배",
+      "1": "5배 ❷ 10배"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20120826",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 59,
+    "question": "투명한 과실주스 제조시 청징법 중 효소를 사용하는 방법에 는 어떤 효소가 사용되는가?",
+    "choices": {
+      "1": "Bacillus속",
+      "2": "Lactobacillus속 ❸ Clostridium속",
+      "4": "Pseudomonas속",
+      "3": "용해성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20120826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 64,
+    "question": "남조류에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "Chlorophyll을 함유한다,",
+      "2": "가 열",
+      "4": "이온교환수지 사용",
+      "3": "석회수 첨가"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20120826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 69,
+    "question": "다음 중 구연산의 생산 능력이 가장 우수한 곰팡이는?",
+    "choices": {
+      "1": "Geotrichum속",
+      "2": "Cladosporium속 ❸ Fusarium속",
+      "4": "Penicillium속",
+      "3": "정상기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20120826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 73,
+    "question": "다음 균 중 Homo형 젖산 발효균이 아닌 것은?",
+    "choices": {
+      "1": "Bacillus속 ❷ Pseudomonas속",
+      "2": "Lactobacillus bulgaricus",
+      "3": "Clostridium속",
+      "4": "Proteus속"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20120826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "통조림 변패와 관련된 고온성 포자형성균이 바르게 연결된 것은?",
+    "choices": {
+      "1": "수직형 스크루 혼합기 ❷ 나우타형 혼합기",
+      "2": "비말동반 ❸ 유동성 증가",
+      "3": "U형 혼합기",
+      "4": "리본형 혼합기 87. 압출성형기에 공급되는 원료의 수분함량을 18%(습량기준)로 맞추고자 한다. 물을 첨가하기 전에 분말의 수분함량이 10%라 하면 분말 5kg에 추가해야 하는 물의 양은 몇 kg인 가?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20130310",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "Bacillus cereus 에 의한 식중독에 대한 설명은?",
+    "choices": {
+      "1": "pH5.7에서 생육 불가능하다. ❷ 원인물질은 enterotoxin이다.",
+      "3": "초산균",
+      "4": "발효균",
+      "2": "젖산균"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20130310",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 21,
+    "question": "다음 프로비타민(provitamin) A 중에서 비타민 A의 효력이 제일 큰 것은 어느 것인가?",
+    "choices": {
+      "1": "360kcal ❷ 365kcal",
+      "2": "B",
+      "4": "410kcal",
+      "3": "405kcal"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20130310",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 32,
+    "question": "유화액의 형태에 영향을 주는 조건과 거리가 먼 것은?",
+    "choices": {
+      "1": "브라운 운동 ❷ 응결",
+      "2": "물과 기름의 비율 ❸ 물과 기름의 온도",
+      "4": "유화",
+      "3": "흡착"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20130310",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 43,
+    "question": "간장이나 된장 코지 중 protease 활성이 가장 강한 것은?",
+    "choices": {
+      "1": "장모균 ❷ 단모균",
+      "3": "유통과 적재가 유리하다.",
+      "4": "농축수산물의 가격 안정에 기여한다.",
+      "2": "생산과 분배가 원만하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20130310",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 53,
+    "question": "젤리(jelly)제품 150g 중에 pectin, 산, 당의 함량은? (단, 통 상적인 수치의 표준제품일 경우로 계산한다.)",
+    "choices": {
+      "2": "효소분해간장",
+      "3": "산분해간장 ❹ 양조간장",
+      "4": "원적외선가열살균법 55. 대두, 탈지대두 또는 곡류 등에 누룩균 등을 배양하여 식염 수 등을 섞어 발효, 숙성시킨 후 그 여액을 가공한 것은?",
+      "1": "혼합간장"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20130310",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "Gram 양성이 포자를 형성하는 편성혐기성균은?",
+    "choices": {
+      "1": "Aerobacter 속",
+      "3": "Micrococcus 속 ❹ Proteus 속",
+      "4": "Corynebacterium 속 72. Gram 음성의 간균이며 주로 단백질 식품의 부패에 관여하 는 세균은?",
+      "2": "Bacillus 속"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20130310",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 73,
+    "question": "간장의 제조공정에 사용되는 균주는?",
+    "choices": {
+      "1": "Acetobacter aceti",
+      "3": "Aspergillus flavus",
+      "4": "Acetobacter xylinum",
+      "2": "Acetobacter vini acetati ❸ Acetobacter oxydans"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20130310",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "고정화 효소(immobilized enzyme)에 대한 설명으로 틀린 것은? ❶ 미생물 오염의 위험성이 감소한다.",
+    "choices": {
+      "2": "멸균",
+      "3": "공업적 살균",
+      "4": "적정 살균 88. 다음 중 침강분리의 원리가 아닌 것은?",
+      "1": "10메시 체를 통과한 가루"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20130602",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "폐수오염지표의 검사항목이 아닌 것은?",
+    "choices": {
+      "1": "아르기닌",
+      "3": "우레아 ❹ 히스티딘",
+      "4": "이질균 7. 주류 등 발효과정에서 생성되는 부산물로 국제암연구기관 (IARC)에 의해 Group 2A로 분류된 발암성 물질인 에틸카바 메이트의 주요 전구물질이 아닌 것은?",
+      "2": "시트룰린"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20130602",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "간흡충의 제2중간 숙주는?",
+    "choices": {
+      "1": "살모넬라 ❷ 바실러스 세레우스",
+      "2": "Cl. botulium",
+      "4": "Y. enterocolitica",
+      "3": "L. monocytogenes"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20130602",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 25,
+    "question": "단백질의 변성에 대한 설명으로 틀린것은?",
+    "choices": {
+      "1": "녹색으로 변한다.",
+      "2": "흰색으로 변한다. ❸ 적색으로 변한다.",
+      "3": "육류 단백질의 동결변성은 –5 ~ -1℃에서 가장 잘 일으 킨다. ❹ 콜라겐은 가열에 의해 불용성의 젤라틴으로 된다. 26. 적색의 양배추를 식초를 넣은 물에 담글 때 나타나는 현상 은?",
+      "4": "청색으로 변한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20130602",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 32,
+    "question": "분산계가 유탁질로 되어 있는 식품은?",
+    "choices": {
+      "1": "cinamon",
+      "2": "caramel",
+      "4": "쇠기름 33. 아미노 카르보닐(amino-carbonyl) 반응에서 생성되는 물질 은?",
+      "3": "dextrin ❹ melanoidin"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20130602",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 48,
+    "question": "육가공에서 훈연의 기능이 아닌 것은?",
+    "choices": {
+      "1": "0.005 ❷ 0.001",
+      "2": "저장성이 향상된다.",
+      "3": "0.01",
+      "4": "0.05 50. 대두단백질을 용출시킬때 용출도에 영향을 미치는 인자가"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20130602",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "액란의 냉동에 의한 젤(gel)화가 생기는 주원인으로 가장 적 합한 것은?",
+    "choices": {
+      "1": "레닌(rennin)의 효소작용에 의하여 응고된다. ❷ 염류와 산에 불안정하여 응고된다.",
+      "2": "얼음 입자가 녹지 않아서",
+      "3": "레시틴(lecithin)의 유화제에 의하여 응고된다.",
+      "4": "포도당산화효소에 의하여 산화되어 응고된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20130602",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 64,
+    "question": "균체단백질(SCP)로 이용되기도 하고 광합성을 하는 것은?",
+    "choices": {
+      "1": "α-amylase",
+      "3": "glucoamylase 속",
+      "4": "dextrinase",
+      "2": "β-amylase ❸ glucoamylase"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20130602",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 66,
+    "question": "감귤류의 변패에 가장 큰 영향을 미치는 미생물은?",
+    "choices": {
+      "1": "Aspergillus usami",
+      "2": "Aspergillus awamori ❸ Aspergillus sojae",
+      "4": "Aspergillus kawachii",
+      "3": "Flavobacterium 속"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20130818",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "식품첨가물의 용도가 바르게 연결된 것은?",
+    "choices": {
+      "1": "돈단독",
+      "2": "Q열 ❸ 파상열",
+      "3": "알긴산나트륨 - 산화방지제 ❹ 초산비닐수지 - 껌기초체 3. 인수공통감염병으로서 동물에게는 유산을 일으키며, 사람에게 는 열성질환을 일으키는 것은?",
+      "4": "탄저"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20130818",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "선모충(Trichinella spiralis)의 감염을 방지하기 위한 가장 좋 은 방법은?",
+    "choices": {
+      "1": "trihalomethane",
+      "2": "polyhlorobiphenyl ❸ benzoyrene",
+      "3": "어패류 생식금지 ❹ 돼지고기 생식금지 8. 단백질 식품이 불에 탈 때 생성되어 발암물질로 작용할 수 있는 것은?",
+      "4": "choline"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20130818",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 10,
+    "question": "저온에서 소성시킨 도자기의 표면으로부터 가장 많이 용출 되는 중금속은?",
+    "choices": {
+      "2": "곰팡이 독소기준을 초과한 경우",
+      "3": "식품조사처리기준을 위반한 경우 ❹ 식품안전관리인증기준에 적합하지 않은 경우",
+      "4": "카드뮴 11. 회수대상이 되는 식품 등의 기준에서 식품의약품안전처장이 정한 식품·식품첨가물의 기준 및 규격의 위반사항에 해당하 지 않는 것은?",
+      "1": "방사능기준을 위반한 경우"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20130818",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 22,
+    "question": "비타민A의 산화를 방지할 수 있는 것은?",
+    "choices": {
+      "1": "Mn",
+      "2": "Ca",
+      "4": "비타민 K 23. 식물 엽록소의 중요한 구성원소로 당질대사에 관여하는 효 소의 작용을 촉직시키는 무기질은?",
+      "3": "Fe ❹ Mg"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20130818",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "채소, 과일에 많이 함유되어 있는 천연항산화제는?",
+    "choices": {
+      "1": "멜라닌(melanin) 반응 ❷ 캐러멜(caramel) 반응",
+      "2": "salicyilc acid ❸ ascorbic acid",
+      "4": "마이야르(maillard) 반응",
+      "3": "멜라노이딘(melanoidin) 반응"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20130818",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 40,
+    "question": "관능 검사의 묘사분석 방법 중 하나로 제품의 특성과 강도 에 대한 모든 정보를 얻기 위하여 사용하는 방법은?",
+    "choices": {
+      "1": "셀룰로오스(cellulose) 케이싱 ❷ 콜라겐(collagen) 케이싱",
+      "2": "향미 프로필",
+      "3": "셀로판(cellohane) 케이싱",
+      "4": "파이브러스(Fibrous) 케이싱"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20130818",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 55,
+    "question": "식육가공에서 훈연의 주요 목적은?",
+    "choices": {
+      "2": "30개월",
+      "3": "40개월 ❹ 50개월",
+      "4": "증량 효과 56. Q 값이 2.5인 오렌지 넥타의 유통기한이 30℃에서 8개월 10 이면 10℃에서의 유통기한은?",
+      "1": "20개월"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20130818",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 57,
+    "question": "버터 제조 시 크림을 숙성시키는 목적이 아닌 것은?",
+    "choices": {
+      "1": "유지방을 결정화한다.",
+      "2": "10일",
+      "3": "20일",
+      "4": "8일"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20130818",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 67,
+    "question": "김치 발효에 관련된 균이 아닌 것은?",
+    "choices": {
+      "1": "0.1303 ❷ 0.2303",
+      "2": "Lactobacillus brevis",
+      "3": "0.3101",
+      "4": "0.4101"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 12,
+    "question": "장염 비브리오균에 의한 식중독에 의해 가장 일어나기 쉬운 식품은?",
+    "choices": {
+      "1": "광합성",
+      "2": "천이현상 ❸ 먹이연쇄",
+      "3": "부패아민류 ❹ 아우라민(auramine) 14. 자연계의 환경오염 물질이 인체에 이행되는 과정을 올게 표 현한 것은?",
+      "4": "약육강식"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 17,
+    "question": "인축공통감염병이 아닌 것은?",
+    "choices": {
+      "1": "ADI",
+      "2": "MPL ❸ LD",
+      "3": "야토병(Tularemia) ❹ 콜레라(Cholera) 18. 반수치사량 이라고도 하며, 실험동물의 50%를 사망시키는 독성물질의 양을 나타내는 것은?",
+      "4": "MPI 50"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 22,
+    "question": "식품의 조지방 정량법은?",
+    "choices": {
+      "2": "linolenic acid",
+      "3": "linoleic acid",
+      "4": "arachidonic acid",
+      "1": "Biuret 반응 ❷ Xanthoprotein 반응"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 28,
+    "question": "다음 관능검사 중 가장 주관적인 검사는?",
+    "choices": {
+      "1": "단순해야 한다.",
+      "2": "편파적이지 않고, 공평해야 한다.",
+      "4": "삼점 검사 29. 관능적 특성의 측정 요소들 중 반응척도가 갖추어야 할 요 건이 아닌 것은?",
+      "3": "관련성이 있어야 한다. ❹ 차이를 감지할 수 없어야 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 31,
+    "question": "아래의 ❶과 ❷의 반응에서 나타나는 색은?",
+    "choices": {
+      "1": ": 청색,",
+      "2": ": 적색",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 38,
+    "question": "지방산에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "sesamol",
+      "3": "포화지방산은 탄소수가 증가함에 따라서 녹는점이 높아 진다.",
+      "4": "불포화지방산의 이중결합은 대부분 cis 형을 취하고 있 다. 39. 독성이 강하여 면실유 정제 시에 반드시 제거하여야 되는 천연항산화제는?",
+      "2": "guar gum"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 43,
+    "question": "제빵공정에서 처음에 밀가루를 체로 치는 가장 큰 이유는?",
+    "choices": {
+      "1": "전분질이 가수분해되기 때문 ❷ 펙틴(Pectin)질이 분해되기 때문",
+      "2": "낮은 것이 좋다.",
+      "4": "단백질이 가수분해되기 때문",
+      "3": "색깔이 변하기 때문"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 66,
+    "question": "효모에 의한 발효성 당류가 아닌 것은?",
+    "choices": {
+      "1": "과당 ❷ 전분",
+      "3": "세포벽(cell wall)",
+      "4": "액포(vacuole)",
+      "2": "핵막(nucleus membrane)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 76,
+    "question": "고정 염색의 일반적인 순서는?",
+    "choices": {
+      "1": "Pseudomonas 속 ❷ Clostridium 속",
+      "2": "소금",
+      "3": "Moraxella 속",
+      "4": "Acinetobacter 속"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20140525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 6,
+    "question": "금속제 기구 용기 중 식품오염 물질과 가장 거리가 먼 것 은?",
+    "choices": {
+      "1": "납",
+      "2": "폴리클로로피페닐(polychrolobiphenyl)",
+      "3": "트리할로메탄(trihalomethane)",
+      "4": "디메틸프탈레이트(demethyl phthalate)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20140525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 17,
+    "question": "아플라톡신(aflatoxin)에 대한 설명으로 틀린 것은? ❶ 생산균은 penicillium속으로서 열대지방에 많고 온대지 방에서는 발생건수가 적다.",
+    "choices": {
+      "2": "생산최적온도는 25~30℃, 수분 16%이상 습도는 80~85% 정도이다.",
+      "3": "효모 >세균 >곰팡이",
+      "4": "곰팡이 >세균 >효모",
+      "1": "세균 >곰팡이 >효모 ❷ 세균 >효모 >곰팡이"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20140525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 19,
+    "question": "식품위생 검사와 관련이 가장 적은 것은?",
+    "choices": {
+      "1": "1차 구조 ❷ 2차 구조",
+      "2": "BGLB 배양기 ❸ 표준한천평판 배지",
+      "3": "3차 구조",
+      "4": "4차 구조"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20140525",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "유지의 산패에 영향을 미치는 인자로 가장 거리가 먼 것 은?",
+    "choices": {
+      "1": "단맛",
+      "2": "짠맛 ❸ 신맛",
+      "3": "의사가소성(pseudoplastic) 유체",
+      "4": "쓴맛 28. 식품 중의 수분 함량을 가열건조법에 의해 측정할 때 계산 식은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20140525",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 49,
+    "question": "잼의 완성점으로 온도계법을 사용할 때 가장 알맞은 온도 는?",
+    "choices": {
+      "1": "당화 작용",
+      "3": "단백질 분해 ❹ 탈색 작용",
+      "4": "myoglobin 색소 51. 된장 숙성 중 일반적으로 일어나는 화학변화와 관계가 먼 것은?",
+      "2": "알코올 발효"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20140525",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 56,
+    "question": "간장 덧 관리에서 교반을 해야 하는 직접적인 이유가 아닌 것은?",
+    "choices": {
+      "1": "5%",
+      "3": "평균 분자량이 증가한다.",
+      "4": "80%",
+      "2": "15% ❸ 25%"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20140525",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 62,
+    "question": "알코올 발효력이 강한 효모는?",
+    "choices": {
+      "2": "Gluconobacter oxydans",
+      "3": "Enterobacter aerogenes ❹ Pseudomomas fluorescens",
+      "4": "Debaryomyces속 63. 우유에 발생되면 쓴맛을 냄으로써 고미화시키며, 단백질 분해력이 강한 균은?",
+      "1": "Erwinia carotova"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20140525",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "포도주 효모에 대한 설명으로 잘못된 것은?",
+    "choices": {
+      "1": "원심분리법(centrifugal filtration)",
+      "2": "역삼투법(reverse osmosis)",
+      "4": "근적외선 선별기 83. 식품의 막 이용기술 중 액체 및 기체에서 미립입가, 미생 물의 제균, 생맥주·술 등의 제조에 주로 이용되는 막분리 기술은?",
+      "3": "전기투석법(electrodialysis) ❹ 정밀여과(membrane filtration) 84. 원료의 성숙도, 표면의 흠집 등을 선별하는 방법은 무엇인"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20140817",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 9,
+    "question": "독소와 식품의 연결이 잘못된 것은?",
+    "choices": {
+      "1": "초산비닐수지(polyvinyl acetate)",
+      "2": "헥산(Hexane)",
+      "4": "고시폴(gossypol) - 목화씨 10. 식품의 제조과정에서 액상제품에 거품이 일어 조작에 지장 을 줄 때, 이를 억제하기 위해 사용되는 식품첨가물은?",
+      "3": "유동파라핀(liquid paraffin) ❹ 규소 수지(silicon resin)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20140817",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "식품공전에 따른 일반세균수 측정에서 사용되는 배지명은?",
+    "choices": {
+      "1": "parathion",
+      "2": "disulfoton ❸ DDT",
+      "4": "EPN",
+      "3": "200mg/kg 이하"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20140817",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "유구조충의 중간숙주는?",
+    "choices": {
+      "1": "병원성 대장균",
+      "3": "장구균 ❹ 장염비브리오균",
+      "4": "잉어 17. 어패류 생식이 주된 원인이며 세균성 이질과 비슷한 증상을 나타내는 식중독균은?",
+      "2": "보툴리누스균"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20140817",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 23,
+    "question": "비타민 H는 다음 중 어느 것인가?",
+    "choices": {
+      "1": "회분 % = ((W-S)/WO) × 100",
+      "3": "Pantothenic acid",
+      "4": "회분 % = ((S-WO)/W) × 100",
+      "2": "회분 % = ((WO-W)/S) × 100 ❸ 회분 % = ((W-WO)/S) × 100"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20140817",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 25,
+    "question": "유지의 자동산화에 대한 다음 설명 중 틀린 것은?",
+    "choices": {
+      "1": "유지의 유도기간이 지나면 유지의 산소 흡수속도가 급증 한다.",
+      "2": "탄닌성분이 공기와 접촉하기 때문에",
+      "3": "탄닌성분이 구리이온과 반응하기 때문에",
+      "4": "탄닌성분이 니켈과 반응하기 때문에"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20140817",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 28,
+    "question": "다음 중 인체내에서의 무기질의 주된 기능이 아닌 것은?",
+    "choices": {
+      "1": "액체 – 액체",
+      "2": "고체 - 액체 ❸ 액체 – 고체",
+      "3": "생체내에서의 pH 및 삼투압 조절 ❹ 콜레스테롤 조절 작용 29. 버터의 분산질(상)과 분산매를 순서대로 바르게 연결한 것 은?",
+      "4": "고체 - 고체"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20140817",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 33,
+    "question": "거품에 대한 다음 설명 중 틀린 것은?",
+    "choices": {
+      "1": "분산매가 액체이고 분산질이 기체인 교질용액의 일종이 다.",
+      "2": "반투성",
+      "3": "응석",
+      "4": "염석"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20140817",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 40,
+    "question": "가지껍질이 청자색깔을 띠게 하는 주된 색소는?",
+    "choices": {
+      "1": "lycopene",
+      "2": "0.96",
+      "4": "0.92",
+      "3": "0.94"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20140817",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 42,
+    "question": "채소나 과실을 알칼리 박피 방법으로 가공할 때 알칼리의 어떤 작용으로 껍질이 제거될 수 있는가?",
+    "choices": {
+      "1": "5.1 ❷ 5.3",
+      "2": "알칼리가 고온에서 전분을 분해시키기 때문 ❸ 껍질 밑층의 pectin질 등을 분해시켜 수용성으로 만들기 때문",
+      "4": "5.7",
+      "3": "5.5"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20140817",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 50,
+    "question": "각 비중계에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "흡습제",
+      "2": "탈산소제",
+      "4": "중보오메계 : 비중이 물보다 무거운 액체에 사용한다. 51. 사과, 배 등과 같이 호흡급상승(climacteric rise)을 갖는 청 과물의 선도유지에 사용되는 활성포장용 품질유지제는?",
+      "3": "알코올 증기 발생제 ❹ 에틸렌(ethylene) 가스 흡수제"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20140817",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 53,
+    "question": "연유 제조 시 예비가열 조작을 시행하는 목적이 아닌 것은?",
+    "choices": {
+      "2": "유해 미생물의 파괴",
+      "3": "아황산가스처리",
+      "4": "산처리 55. 원유에 함유되어 있는 유리지방산(free fatty acids)을 최종 제품의 품질을 고려하여 탈산(deacidification)하는 방법이 아닌 것은?",
+      "1": "알칼리 정제 방법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20140817",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 63,
+    "question": "푸마르산(fumaric acid)제조에 사용되는 미생물은?",
+    "choices": {
+      "2": "Rhizopus delemar ❸ Aspergillus niger",
+      "3": "Aspergillus",
+      "4": "Escherichia coil",
+      "1": "Bacillus cereus"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20140817",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 73,
+    "question": "맥주 제조용 맥아를 만드는 공정이 바르게 된 것은? ❶ 보리의 정선 → 침맥 → 발아 → 배조",
+    "choices": {
+      "2": "젖당 ❸ 에탄올",
+      "3": "침맥 → 발아 → 배조 → 보리의 정선",
+      "4": "부탄올 75. 달걀 전체가 회갈색으로 되고 특히 난황이 검게 되는 흑색 부패(black rots)의 원인균은?",
+      "1": "포도당"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20140817",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 77,
+    "question": "다음 중 젖산 발효식품이 아닌 것은?",
+    "choices": {
+      "1": "Bollman 추출기",
+      "2": "Hildebrandt 추출기",
+      "3": "미 분쇄기",
+      "4": "초미 분쇄기 85. 실린더형 추출기로 부채꼴 칸막이로 나누어진 수많은 구역 으로 구성되어 있으며, 각 구역은 수직축을 따라 회전하며 다공성 바닥으로 구성되어 있음을 특징으로 하는 연속식 추 출기는?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20150308",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "만약 감자를 자른 다음 시간이 경과하고 끓인 후, 6시간 정 도 보관 후에 섭취하여 식중독이 발생하였다면 이때 발견될 가능성이 높은 식중독균을 보기에서 모두 고른 것은?",
+    "choices": {
+      "1": "(1), (2)",
+      "2": "n-헥산",
+      "4": "유동파라핀",
+      "3": "규조토"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20150308",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 21,
+    "question": "다음 유화제가 가진 기능기 중 소수성기는?",
+    "choices": {
+      "1": "-OH",
+      "2": "소성(plasticity)",
+      "3": "점탄성(viscoelasticity)",
+      "4": "점성(viscosity)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20150308",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 40,
+    "question": "다음 조효소(coenzyme) 중 아데닌(adenine)을 포함하지 않 는 것은?",
+    "choices": {
+      "1": "높이 0.147cm 이고, 부패란이다.",
+      "3": "시너지스트(synergist)가 없기 때문에",
+      "4": "높이 0.83cm 이고, 부패란이다.",
+      "2": "높이 0.83cm 이고, 신선란이다. ❸ 높이 1.47cm 이고, 신선란이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20150308",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 60,
+    "question": "육제품의 훈연의 목적이 아닌 것은?",
+    "choices": {
+      "1": "방부작용에 의한 저장성 증가",
+      "2": "NADP",
+      "3": "FAD",
+      "4": "ATP"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20150308",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 62,
+    "question": "세균 포자의 특징은?",
+    "choices": {
+      "1": "Bacillus 속",
+      "2": "Lactobacillus 속 ❸ Clostridium 속",
+      "3": "방사선 저항성이 아주 낮다. ❹ dipicolonic acid를 함유하고 있다. 63. 부패한 통조림에서 발견되며, 포자를 형성하는 그람 양성의 혐기성균으로, catalase시험시 음성으로 판정되는 균은?",
+      "4": "Pseudomonas 속"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20150308",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 69,
+    "question": "효소 지마아제(Zymase)의 작용은?",
+    "choices": {
+      "1": "주정을 산화시킨다. ❷ 단당류로부터 주정발효를 일으킨다.",
+      "3": "111.4g",
+      "4": "11.4g",
+      "2": "13.4g"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20150308",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 72,
+    "question": "식용버섯의 성분 중 감미성분은?",
+    "choices": {
+      "2": "세포벽 ❸ 협막",
+      "3": "glutamine",
+      "4": "선모",
+      "1": "리보솜"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20150308",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 75,
+    "question": "0cmHg일 때 통조림의 진공도는?",
+    "choices": {
+      "1": "100℃의 열수에 침지한 후 마쇄하는 열수침지법 ❷ 5℃ 이하의 냉수에 30분간 침지한 후 마쇄하는 냉수침지 법",
+      "3": "60℃ 의 가성소다에 2시간 침지시킨 후 열수와 함께 마 쇄하는 알칼리침지법",
+      "4": "충분히 수침한 콩을 고온의 스팀으로 찌는 증자법 58. 아밀로오스 분자의 비환원성 말단에 작용하여 전분을 엿당 단위로 가수분해하는 효소는?",
+      "2": "원료유→크림 분리→크림 살균→크림 중화→연압→교동"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20150308",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "병행복발효주에 해당하지 않는 것은?",
+    "choices": {
+      "1": "건조",
+      "3": "디스키밀(disc mill) ❹ 해머밀(hanmmer mill) 85. 액체원료나 고체원료에 포함되어 있는 유효성분을 용매에 녹여 분리하는 조작은?",
+      "4": "여과 86. 식품의 압출장치에서 바렐(Barrel) 내부에 걸리는 압력 생성 원인과 거리가 먼 것은?",
+      "2": "유화 ❸ 추출"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 6,
+    "question": "LD 의 의미로 옳은 것은? 50 ❶ 실험동물의 50%를 사망시키는 데 필요한 최소 투여량",
+    "choices": {
+      "2": "BOD ❸ WOD",
+      "3": "실험동물의 수명을 50% 이하로 단축하는 데 요하는 투여 량",
+      "4": "COD",
+      "1": "DO"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 10,
+    "question": "독소형 식중독을 일으키는 것은?",
+    "choices": {
+      "2": "Listeria monocytogenes",
+      "3": "Zeissler 한천 배지",
+      "4": "Nutrient 한천 배지",
+      "1": "SS 한천 배지 ❷ TCBS 한천 배지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "이타이이타이병과 관련이 깊은 중금속은?",
+    "choices": {
+      "2": "Campylobacter jejuni ❸ Listeria monocytogenes",
+      "3": "납(Pb)",
+      "4": "Escherichia coli O157:H7",
+      "1": "Yersinis enterocolitica"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "고분자 화합물인 단백질과 관련이 없는 실험방법은?",
+    "choices": {
+      "1": "원심분리",
+      "2": "열분해 반응",
+      "3": "산화 반응",
+      "4": "중합 반응"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 26,
+    "question": "대두에 많이 함유되어 있는 기능성 물질은?",
+    "choices": {
+      "1": "라이코펜(lycopene) ❷ 아이소플라본(isoflavone)",
+      "3": "단백질이 변질되기 때문이다.",
+      "4": "탈수가 일어나기 때문이다.",
+      "2": "아미노산의 파괴를 촉진하기 때문이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 35,
+    "question": "감미도가 강한 순서대로 맞게 배열된 것은?",
+    "choices": {
+      "1": "사카린 >아스파탐 >글리시리진 >스테비오사이드 ❷ 사카린 >스테비오사이드 >아스파탐 >글리시리진",
+      "3": "magnesium",
+      "4": "iron",
+      "2": "potassium"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 38,
+    "question": "어류 비린내의 주성분은?",
+    "choices": {
+      "1": "1 : 1 ❷ 1 : 2",
+      "3": "glutamic acid",
+      "4": "glycine",
+      "2": "cysteine"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20150531",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 54,
+    "question": "식품유형 중 잼에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "독성이 없거나 매우 약해야 한다.",
+      "2": "저농도(0.01~0.001%)에서 유효해야 한다.",
+      "3": "첨가될 식품에 이미, 이취 등을 주어서는 안 된다. ❹ 유지에 녹으면 안 된다.",
+      "4": "알로에겔 57. 식용유지와 지방질 식품에 사용할 수 있는 합성 항산화제의 조건으로 적합하지 않은 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 62,
+    "question": "다음 중 무성포자(asexual spore)인 것은?",
+    "choices": {
+      "1": "Cladosporium속 – 암녹색, 흑색 반점",
+      "2": "Penicillium속 – 황색, 청색, 초록색 반점 ❸ Proteus속 – 적색 반점",
+      "3": "접합포자(zygospore) ❹ 후막포자(chlamydospore) 63. 곰팡이에 의한 달걀의 변패 중 곰팡이의 생육 초기에 점상 반점(pin-spot molding)이 껍질의 표면 또는 바로 안쪽에 나타날 때, 곰팡이의 종류와 점상 반점의 색깔 연결이 틀린 것은?",
+      "4": "Sporotrichum속 – 분홍색 반점"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "효소에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "Geotrichum속",
+      "2": "Cladosporium속 ❸ Fusarium속",
+      "4": "Penicillium속",
+      "3": "Acetobacter oxydans ❹ Acetobacter xylinum 73. 치즈 표면에 착생하여 치즈의 변색과 불쾌취를 발생시키는 곰팡이가 아닌 것은?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 77,
+    "question": "미생물을 액체배양기에서 배양하였을 경우 증식곡선의 순서 는?",
+    "choices": {
+      "1": "667g",
+      "2": "874g ❸ 1,304g",
+      "3": "정상기 → 대수증식기 → 감퇴기(사멸기) → 유도기 ❹ 유도기 → 대수증식기 → 정상기 → 감퇴기(사멸기) 78. 탄소원으로 1kg의 에틸알코올을 배지로 하여 초산 발효하였 을 때 얻어지는 초산의 이론적인 최대 생성량은 약 얼마인 가?",
+      "4": "1,517g"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "포자낭 포자, 포복지, 가근을 형성하는 곰팡이는?",
+    "choices": {
+      "1": "분말주스",
+      "3": "인스턴트 커피 분말 ❹ 비스킷",
+      "4": "노즐형 원심분리기 86. 유지 제조과정 중 탈납(winterization) 공정에 대한 설명으로 틀린 것은?",
+      "2": "빵 이스트"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "멜라민수지 식기류에 대한 설명으로 틀린 것은? ❶ 산성에 강하여 식초를 장기간 보관할 수 있다.",
+    "choices": {
+      "2": "성장을 위해 미호기적 조건(micreaerophilic condition)을 요구한다. ❸ 다른 미생물들과의 경쟁력은 강하다(a good competitor).",
+      "3": "전자레인지에 넣어 사용할 경우 원료 물질이 용출될 수 있다.",
+      "4": "최적조건에서도 성장은 느린 편이다.",
+      "1": "30℃ 이하에서는 생육하기 어렵다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "아미그다린(amygdalin) 독소를 함유하는 것은?",
+    "choices": {
+      "1": "Fe",
+      "3": "Al ❹ Pb",
+      "4": "독미나리 8. CODEX에 의거하여 일반인이 식품을 통해 허용되는 연간제 한 방사선량을 뜻하는 용어는?",
+      "2": "Sn"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "식품 중의 이물질을 검사하는 방법이 아닌 것은?",
+    "choices": {
+      "1": "굴",
+      "2": "기온이 낮아지면서 개인 위생관리가 소홀해져서",
+      "3": "실내에서 주로 활동하게 됨에 따라서",
+      "4": "사람간 2차 감염이 쉽게 발생하면서"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20150816",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 26,
+    "question": "맛의 상호 작용의 예로서 틀린 것은?",
+    "choices": {
+      "1": "360 kcal ❷ 365 kcal",
+      "2": "커피에 설탕을 가하면 쓴맛이 억제된다. ❸ 식염에 유기산을 가하면 짠맛이 감소한다.",
+      "4": "410 kcal",
+      "3": "405 kcal"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20150816",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 30,
+    "question": "가공식품에 사용되는 단당류나 소당류의 주된 기능이 아닌 것은?",
+    "choices": {
+      "1": "녹색 ❷ 적색",
+      "2": "감미 부여 ❸ 무게 증가",
+      "4": "갈색",
+      "3": "검정색"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20150816",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 34,
+    "question": "레올로지(rheology) 특성 중 탄성의 의미는?",
+    "choices": {
+      "1": "유체의 흐름에 대한 저항성을 나타내는 성질",
+      "2": "80~90℃",
+      "3": "150~160℃",
+      "4": "200~210℃"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20150816",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 36,
+    "question": "다음 중 탄수화물에 존재하지 않는 것은?",
+    "choices": {
+      "1": "알데하이드(aldehyde)",
+      "2": "가용성 전분, 올리고당, 맥아당, 덱스트린, 포도당",
+      "4": "가용성 전분, 올리고당, 덱스트린, 맥아당, 포도당",
+      "3": "가용성 전분, 맥아당, 올리고당, 덱스트린, 포도당"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20150816",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 41,
+    "question": "다음 조건 중 개량식 청국장 발효에 적합한 온도 및 시간 은?",
+    "choices": {
+      "1": "1 g yeast/g sugar",
+      "2": "2 g yeast/g sugar ❸ 3 g yeast/g sugar",
+      "3": "높이 1.2cm 이고, 부패란이다. ❹ 높이 1.2cm 이고, 신선란이다. 43. Saccharomuces cerevisiae를 이용한 알코올 발효에서 당 0.5g을 소비하여 1.5g의 균체를 생산한다면 이 때 효모의 생산수율은?",
+      "4": "4 g yeast/g sugar"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20150816",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "고기의 숙성에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "토마토 페이스트",
+      "3": "토마토 퓨레 ❹ 토마토 케첩",
+      "4": "고기의 숙성은 온도가 높아지면 빨리 진행된다. 52. 농축 토마토에 식염, 식초, 당류, 마늘 및 향신료 등을 첨가 하여 조미한 것으로 전체 고형분이 25% 이상인 제품의 명 칭은?",
+      "2": "토마토 주스"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20150816",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 60,
+    "question": "마요네즈 제조 시 유화제로 작용하는 성분은?",
+    "choices": {
+      "1": "알부민(albumin)",
+      "2": "Streptococcus thermophilus",
+      "4": "Aspergillus oryzae",
+      "3": "Saccharomyces cerevisiae"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 65,
+    "question": "클로렐라의 분류는?",
+    "choices": {
+      "1": "Aspergillus niger",
+      "2": "Bacillus subtilis",
+      "4": "갈조류 66. Amylo 법의 알코올 발효에 이용되는 곰팡이 중 중국의 누 룩에서 분리한 균으로 glucoamylase 당화효소 제조에 이용 되기도 하는 것은?",
+      "3": "Aspergillus oryzae ❹ Staphylococcus aureus"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 75,
+    "question": "균체의 크기를 측정할 때 사용하는 기구는?",
+    "choices": {
+      "2": "남조류",
+      "3": "3",
+      "4": "4",
+      "1": "1 ❷ 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "원핵세포의 특징이 아닌 것은?",
+    "choices": {
+      "1": "크림층의 분리 방지",
+      "3": "우유 속에 지방의 균질 분산 ❹ 카제인(casein)의 분리 용이",
+      "4": "추출관 87. 시유 제조에서 균질기를 사용하는 목적이 아닌 것은?",
+      "2": "소화 흡수율 증가"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "장염 비브리오균 식중독을 주로 발생시키는 식품은?",
+    "choices": {
+      "2": "지방량",
+      "3": "Lactase 유무 ❹ 신선도",
+      "4": "세균성이질 3. 우유에 70% ethyl alcohol을 넣고 그에 다른 응고물 생성 여 부를 통해 알 수 있는 것은?",
+      "1": "산도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 5,
+    "question": "PYC에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "아크릴아마이드",
+      "2": "벤조피렌 ❸ 에탈카바메이크",
+      "3": "가격이 저렴하다. ❹ 열접착은 어렵다. 6. 주로 와인과 같은 주류 발효 과정에서 생성되는 부산물로 아 르기닌 등이 효모의 작용에 의해 형성된 요소(UREA)가 에탄 올과의 반응으로 생성되며 발암성 물질이기도 한 이것은?",
+      "4": "바이오제닉아민"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "실험물질을 사육동물에게 2년 정도 투여하는 독성 실험 방법 은?",
+    "choices": {
+      "1": "여과법",
+      "2": "체분별법 ❸ 와일드만 라스크법",
+      "3": "아급성독성실험 ❹ 만성독성실험 8. 곤충 및 동물의 털과 같이 물에 잘 젖지 아니하는 가벼운 이 물검출에 적용하는 이물검사는?",
+      "4": "침강법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 18,
+    "question": "다음 중 인수공통감염병이 아닌 것은?",
+    "choices": {
+      "1": "1 mSv",
+      "2": "10 mSv",
+      "4": "파상열 19. 과량의 방사선 물질에 오염된 식품을 먹을 때 나타나는 급 성방사선 증후군은 일발적으로 전신이 얼마 이상의 용량에 노출된 이후에 나타날 수 있는 가?",
+      "3": "100 mSa ❹ 1 Sv"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 25,
+    "question": "무기질 중 체내에서 알칼리 생성원소인 것은?",
+    "choices": {
+      "2": "카로티노이드계",
+      "3": "플라보노이드계 ❹ 안토시아닌제",
+      "4": "CI 26. 딸기, 포도, 가지 등의 붉은색이나 보라색이 가공, 저장 중 불안정하여 쉽게 갈색으로 변하는 색소는?",
+      "1": "엽록소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 34,
+    "question": "유화제 (emulsifying agent)의 설명 중 틀린 것은?",
+    "choices": {
+      "1": "myoglobin 이 nitrosomyoglobin 으로 변화 ❷ astaxanthin 이 astacin 으로 변화",
+      "2": "천연유화제는 복함지질들이 많다",
+      "3": "chlorophyll 이 pheophytin 으로 변화",
+      "4": "anthcocyan 이 anthocyanidin 으로 변화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20160306",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 52,
+    "question": "아질산나트륨을 사용할 수 없는 식품은?",
+    "choices": {
+      "1": "flipper ❷ soft swell",
+      "2": "어육소시지",
+      "3": "springer",
+      "4": "hard swell 1g/cm3(cgs"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20160306",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 62,
+    "question": "위상차 현미경에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "표본에 대하여 condenser와 렌즈의 위치가 반대로 되어 있는 현미경이다. ❷ 무색의 투명한 물체를 관찰하는데 이용된다.",
+      "3": "Bacillus polymyxa",
+      "4": "Bacillus cereus",
+      "2": "Bacillus anthracis"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20160306",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 72,
+    "question": "식품에서 일반세균의 수를 정량하기 위한 실험을 할 때 필 요 없는 단계는?",
+    "choices": {
+      "1": "쌀",
+      "3": "표준한천배지에 접종해서 배양하는 단계",
+      "4": "빙초산",
+      "2": "당밀 ❸ 에틸알코올"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20160306",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "개량 메주를 만드는데 사용되는 곰팡이는?",
+    "choices": {
+      "1": "자외선 살균 ❷ 저온 살균",
+      "3": "방사선 살균",
+      "4": "전자선 살균",
+      "2": "용해력 향상 ❸ 위해물질 및 오염물질 제거"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "살모넬라균 식중독에 대한 설명을 틀린 것은?",
+    "choices": {
+      "1": "달걀, 어육, 연제품 등 광범위한 식품이 오염원이 된다.",
+      "2": "젖산균",
+      "4": "발효균",
+      "3": "초산균"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 12,
+    "question": "CI.botulinum에 의해 생성되는 독소의 특성과 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "Fusarium 속 Patulin",
+      "3": "Aspergillus 속, Zearalenone ❹ Aspergillus 속, Aflatoxin",
+      "4": "메탄올 15. 작물의 재배 수확 후 27℃, 습도 82%, 기질의 수분함량 15% 정도로 보관하였더니 곰팡이가 발생되었다. 의심되는 곰팡이 속과 발생 가능한 독소를 바르게 나열한 것은?",
+      "2": "Penicillium 속, T-2 Toxin"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 17,
+    "question": "유통기한 설정실험 지표의 연결이 틀린 것은?",
+    "choices": {
+      "1": "구충 ❷ Mansoni 열두조충",
+      "2": "잼류 -세균수",
+      "3": "선모충",
+      "4": "횡천흡충"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20160508",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 32,
+    "question": "과채류의 절단시 갈변되는 현상과 가장 관련이 적은 것은?",
+    "choices": {
+      "1": "단순해야 한다.",
+      "2": "편파적이지 않고, 공평해야 한다.",
+      "3": "관련성이 있어야 한다. ❹ 차이를 감지할 수 없어야 한다.",
+      "4": "1.2N 34. 관능적 특성이 측정 요소들 중 반응척도가 갖추어야 할 요 건이 아닌 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20160508",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 43,
+    "question": "두부의 종류에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "7.3% - 중력분 - 스파게티",
+      "2": "쌀겨",
+      "3": "유채",
+      "4": "참깨"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20160508",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "신선란의 특징이 아닌 것은?",
+    "choices": {
+      "1": "표준화",
+      "3": "난황계수가 0.36~0.44 정도이다.",
+      "4": "살균",
+      "2": "연압 ❸ 균질화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20160508",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 60,
+    "question": "우유의 균질화 목적이 아닌 것은?",
+    "choices": {
+      "1": "Candida tropicalis",
+      "2": "Cacdida albicans",
+      "4": "지방구의 미세화 61. 우유 중의 세균 오염도를 간접적으로 측정하는데 주로 사용 하는 방법으로 생균수가 많을수록 탈수소능력이 강해지는 성질을 이용하는 것은?",
+      "3": "Candida utilis ❹ candida lipolytica"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 64,
+    "question": "식초 제조에 이용될 종초의 필요조건이 아닌 것은? ❶ 알코올에 대한 내성이 적을 것",
+    "choices": {
+      "2": "산생성력이 크고, 산을 산화시키지 않는 것",
+      "3": "pseudomonas fluorescens - 녹색",
+      "4": "Brevibacterium erythrogenes - 적색",
+      "1": "pseudomonas syncyanea - 청색 ❷ Serratia marcescens - 황색"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 68,
+    "question": "고정화 효소를 공업에 이용하는 목적이 아닌 것은?",
+    "choices": {
+      "1": "장염비브리오균",
+      "2": "살모넬라균",
+      "4": "반응생성물의 정제가 쉽다. 69. 여러 가지 선택배지를 이용하여 미생물 검사를 하였더니 다 음과 같은 결과가 나왔다. 다음 중 검출 양성이 예상되는 미생물은?",
+      "3": "대장균 ❹ 황색포도상구균"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "발효 효모의 가장 주된 영양원이 될 수 있는 식품은?",
+    "choices": {
+      "1": "높은 압력이 요구된다.",
+      "2": "회전식 열교환기",
+      "3": "통관식 열교환기",
+      "4": "이중관식 열교환기 87. 식품의 여과를 위한 역삼투에 대한 설명으로 틀린 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20160821",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 12,
+    "question": "식중독 안전관리를 위한 시설 설비의 위생관리로 잘못된 것은?",
+    "choices": {
+      "1": "65Zn, 131I",
+      "2": "60Co, 137Cr ❸ 90Sr, 137Cs",
+      "3": "바닥은 내수처리가 되어 있고 가급적 미끄러지지 않는 재질이어야 한다. ❹ 경사가 지면 미끄러짐 등의 안전 위험이 있으므로 경사 가 없도록 한다. 13. 방사능물질에 의한 식품 오염 중 식물체에서 문제가 되는 핵종은?",
+      "4": "55Fe, 131Cd"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20160821",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 20,
+    "question": "최확수(MPN)법의 검사와 관련된 용어 또는 설명이 아닌 것은? ❶ 비연속된 시험용액 2단계 이상을 각각 5개씩 또는 3개 씩 발효관에 기하여 배양",
+    "choices": {
+      "2": "탄성",
+      "3": "소성",
+      "4": "가소성",
+      "1": "약 8.4% ❷ 약 9.4%"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20160821",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 27,
+    "question": "액체 속에 기체가 분산되어 있는 콜로이드 식품이 아닌 것 은?",
+    "choices": {
+      "1": "glucose ❷ ribose",
+      "3": "fructose",
+      "4": "xylose",
+      "2": "단백질 유화성 ❸ 단백질 분자량"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20160821",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 32,
+    "question": "식품과 주요 물성의 연결이 틀린 것은?",
+    "choices": {
+      "1": "pepsin",
+      "3": "carboxypeptidase ❹ rennin",
+      "4": "밀가루 - 점탄성 33. casein에 작용하여 paracasein과 peptide로 분해시켜 치 즈 제조 시 커트(curd)를 형성시키는 역할을 하는 효소는?",
+      "2": "trypsin"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20160821",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 41,
+    "question": "우유의 신선도 시헙법은?",
+    "choices": {
+      "2": "품질 저하",
+      "3": "변색 ❹ 점도의 감소",
+      "4": "약 146kg 44. 신선한 액란을 제당과정 없이 건조 했을때 생기는 변화에 해당되지 않는 것은?",
+      "1": "용해도의 감소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20160821",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 47,
+    "question": "김치의 일반적인 특성이 아닌 것은?",
+    "choices": {
+      "1": "수율 증진",
+      "2": "멸균작용",
+      "4": "발효과정 중 생성되는 유기산 등이 미각을 자극시켜 식 욕을 돋운다. 48. 햄이나 베이컨을 만들 때 염지액 처리 시 첨가 되는 질산 염과 아질산염의 기능으로 가장 적합한 것은?",
+      "3": "독특한 향기 생성 ❹ 고기 색의 고정"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20160821",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "다음 중 병행복발효주에 해당하는 것은?",
+    "choices": {
+      "1": "맥주",
+      "2": "Micrococcus varians",
+      "4": "Proteus vulgaris",
+      "3": "Serratia marcescens"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20160821",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 75,
+    "question": "요구르트 제조에 주로 사용하는 젖산 균은? ❶ Lactobacillus bulgaricus",
+    "choices": {
+      "2": "Lactobacillus plantarum",
+      "3": "파지에 대한 내성이 강한 균주를 이용한다.",
+      "4": "rotation system을 이용한다.",
+      "1": "장치살균 등을 통한 철저한 살균을 행한다. ❷ 혐기적인 발효를 이용한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20160821",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 78,
+    "question": "일본 청주 koji 제조에 이용되는 곰팡이의 속은?",
+    "choices": {
+      "2": "557g",
+      "3": "600g ❹ 667g",
+      "4": "Penicilium 79. 포도당 1kg으로부터 얻어지는 이론적인 초산생성량은 약 몇 g인가?",
+      "1": "537g"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20160821",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "공업적으로 lipase를 생산하는 미생물이 아닌 것은?",
+    "choices": {
+      "1": "식품 원료에 들어 있는 효소를 불활성화 시킨다.",
+      "2": "식품 조직 중의 가스를 방출시킨다.",
+      "3": "예열함으로써 원료 중에 들어있는 산소농도를 감소시킨 다. ❹ 식품의 갈변화를 일으킨다. 83. 밀가루의 제분공정에서 1차 조쇄롤(break roll) 또는 분쇄 롤(reduction roll)을 거치는 동안 얻어지는 산물이 아닌 것은?",
+      "4": "콩의 침지시간이 너무 길면 콩 단백질이 변성되어 응고 상태가 불량해진다. 82. 농산물 통조림을 제조할 때 데치기의 목적이 아닌 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "date": "20170305",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 3,
+    "question": "다음중 Aspergillus flavus의 생육에 가장 적당한 조건은?",
+    "choices": {
+      "2": "구리 ❸ 납",
+      "3": "0~5℃, 상대습도 60%",
+      "4": "주석",
+      "1": "철"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "date": "20170305",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "굴 모시조개 등이 원인이 되는 동물성 중독 성분은?",
+    "choices": {
+      "1": "테트로도 톡식",
+      "2": "포자를 형성하는 내열성균이다.",
+      "3": "독소 중 A형만 중독 증상을 일으킨다.",
+      "4": "일반적인 조리 방법으로 독소가 쉽게 파괴 된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "date": "20170305",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 22,
+    "question": "감귤류에 특히 많은 유기산은?",
+    "choices": {
+      "1": "유화제의 성질",
+      "3": "succinic acid",
+      "4": "물과 기름의 첨가 순서",
+      "2": "물과 기름의 비율 ❸ 유화액의 방치시간"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20170305",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 25,
+    "question": "식품의 조직감(texture) 특성에서 견고성(hardness)이란?",
+    "choices": {
+      "1": "녹색으로 변한다.",
+      "2": "흰색으로 변한다. ❸ 적색이 보존된다.",
+      "3": "단맛이 감소한다.",
+      "4": "청색으로 변한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 42,
+    "question": "수산물이 화학적 선도판정의 지표가 되지 않는 것은?",
+    "choices": {
+      "1": "휴먼작용 ❷ 증산작용",
+      "2": "휘발성 염기질소 ❸ 트리메틸아민옥시드(trimethylamine oxide)",
+      "4": "후숙작용",
+      "3": "발아발근작용"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "고기의 신선도를 유지하기 위하여 냉동법으로 저장한 경우 얼음결정에 의하여 발생할 수 있는 변화가 아닌 것은?",
+    "choices": {
+      "1": "20°BX",
+      "2": "28.6°BX ❸ 39.4°BX",
+      "3": "산패 ❹ 부피감소 52. 사과통조림을 최종당도 20°BX로 하고자 한다. 이 때 고형량 은 250g, 고형분 중 당은 6%, 내용총량 430g으로 하고자 할 때 주입액의 당도는 얼마인가?",
+      "4": "61.2°BX"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 55,
+    "question": "효소 당화법에 의한 포도당 제조에 대한 설명으로 틀린 것 은?",
+    "choices": {
+      "1": "D값 ❷ Z값",
+      "2": "산 당화법에 비해 당화 시간이 길다.",
+      "3": "F값",
+      "4": "L값"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 57,
+    "question": "간장코지 제조 중 시간이 지남에 따라 역가가 가장 높아지 는 효소는?",
+    "choices": {
+      "1": "a-amylase",
+      "2": "0.5Pa·s",
+      "4": "1.5Pa·s 59. 전분 200kg을 산당화법으로 분해시켜 포도당을 제조하면 그 생산량은 약 얼마인가?",
+      "3": "1.0Pa·s"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "date": "20170305",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 63,
+    "question": "세균을 분류하는 기준으로 볼 수 없는 것은?",
+    "choices": {
+      "1": "살아있는 미생물의 수",
+      "3": "사멸된 미생물을 제외한 수 ❹ 현미경 하에서 셀 수 있는 미생물 수",
+      "4": "포자의 형성 유무 64. 혈구계수기를 이용하는 총 균수 측정법에서 말하는 총균수 (total count)란?",
+      "2": "고체 배지상에 나타난 미생물 수"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "date": "20170305",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 79,
+    "question": "다음 중 세균이 아닌 것은?",
+    "choices": {
+      "1": "초음파 살균 기술",
+      "2": "고전압펄스 전기장 기술 ❸ 생리활성물질 첨가 기술",
+      "3": "접음(folding)",
+      "4": "초고압 기술"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 15,
+    "question": "식품위생검사를 위한 검체의 일반적인 채취방법 중 옳은 것 은?",
+    "choices": {
+      "1": "Formalin의 용출 ❷ 형광증백제의 용출",
+      "2": "합성착색료 등의 화학 물질과 같이 균질한 상태의 것은 가능한 많은 양을 채취하는 것이 원칙이다.",
+      "3": "BHA의 용출",
+      "4": "2-mercaptoimidazole 의 용출"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 19,
+    "question": "PCB에 대한 설명 중 틀린 것은? ❶ 미강유에 원래 들어 있는 성분이다.",
+    "choices": {
+      "2": "증균시험 ❸ 혈청형 시험",
+      "3": "1968년 일본에서 처음 중독증상이 보고되었다.",
+      "4": "독소시험",
+      "1": "정성시험"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20170507",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "유지의 가공 중 경화(hydrogenation)와 관련이 없는 것은?",
+    "choices": {
+      "1": "경화란 지방산의 이중결합에 수소를 첨가하는 공정이다.",
+      "2": "예사성",
+      "4": "신전성",
+      "3": "경점성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "date": "20170507",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 31,
+    "question": "천연지방산의 특징이 아닌 것은? ❶ 불포화지방산은 이중결합이 없다.",
+    "choices": {
+      "2": "(W -W )/(W -W ) × 100 1 0 2 1 ❸ (W -W )/(W -W ) × 100 1 2 1 0",
+      "3": "불포화 지방산은 대부분 cis형이다.",
+      "4": "(W -W )/(W -W ) × 100 2 1 1 0",
+      "1": "(W -W )/(W -W ) × 100 1 0 1 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "date": "20170507",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 45,
+    "question": "찹쌀과 멥쌀의 성분상 큰 차이는?",
+    "choices": {
+      "1": "M.S.G",
+      "2": "ascorbic acid ❸ polyphosphate",
+      "3": "회분함량 ❹ 아밀로펙틴(amylopectin)함량 46. 햄, 소시지, 베이컨 등의 가공품 제조 시 단백질의 보수력 및 결착성을 증가시키기 위해 사용되는 첨가물은?",
+      "4": "chlorine"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "date": "20170507",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "일반적인 밀가루 품질시험 방법과 거리가 먼 것은?",
+    "choices": {
+      "1": "0.5초 내지 5초간 ❷ 15초 내지 20초간",
+      "2": "면의 신장도 시험",
+      "3": "1분간",
+      "4": "5분간"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20170507",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 59,
+    "question": "아이스크림 제조 시 사용하는 안정제가 아닌 것은?",
+    "choices": {
+      "1": "젤라틴(gelatin)",
+      "2": "8g",
+      "3": "12g",
+      "4": "20g"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 62,
+    "question": "다음 중 koji 곰팡이의 특징과 거리가 먼 것은?",
+    "choices": {
+      "1": "Aspergillus oryzae group이다.",
+      "2": "Vortex형 배양장치",
+      "3": "Air lift형 배양장치",
+      "4": "Plate tower형 배양장치"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 66,
+    "question": "미생물의 생육에 직접 관계하는 요인이 아닌 것은?",
+    "choices": {
+      "1": "Lactobacillus plantarum",
+      "2": "Staphylococcus aureus",
+      "4": "온도 67. 적당한 수분이 있는 조건에서 식빵에 번식하여 적색을 형성 하는 미생물은?",
+      "3": "Pseudomonas fluorescens ❹ Serratia marcescens"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "누룩 곰팡이에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "423g ❷ 511g",
+      "2": "장모균은 당화력이 강하다. ❸ 분생포자를 형성하지 않으며 끝이 빗자루 모양이다.",
+      "4": "786g",
+      "3": "645g"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "스위스치즈의 치즈눈 생성에 관여하는 미생물은? ❶ Propionibacterium shermanii",
+    "choices": {
+      "2": "흡인 세척",
+      "3": "자석 세척",
+      "4": "정전기 세척 89. 상업적 살균에 대한 설명 중 옳은 것은?",
+      "1": "마이크로파 살균 ❷ 자외선 살균"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "쥐에 의해 생길 수 있는 병과 그 원인의 연결이 틀린 것은?",
+    "choices": {
+      "1": "알레르기 증상의 발현",
+      "2": "항생제 내성균의 출현 ❸ 급성중독으로 인한 식중독 발생",
+      "3": "유행성출혈열 : 쥐의 분변에 의한 감염 ❹ kwashiorkor : 쥐벼룩에 의한 감염 2. 식품에 항생물질이 잔류할 때 일어날 수 있는 문제점과 거리 가 먼 것은?",
+      "4": "감염증의 변모"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "안식향산에 대한 설명으로 틀린 것은? ❶ 분자식은 C 8 H 6 O 2 이다.",
+    "choices": {
+      "2": "미나마타 병 ❸ PCB(Poly Chloride biphenyl) 중독",
+      "3": "pH 4.5 이하에서 항균효과가 강하다.",
+      "4": "황변미 중독",
+      "1": "이타이 이타이 병"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "노로바이러스의 특징이 아닌 것은?",
+    "choices": {
+      "1": "L-글루타민산나트륨",
+      "2": "L-라이신",
+      "4": "구토나 설사 증상 없이도 바이러스를 배출하는 무증상 감염도 발생한다. 15. 염미를 가지고 있어 일반 식염(소금)의 대용으로 사용할 수 있는 식품첨가물로서 주용용도가 산도조절제, 팽창제인 것 은?",
+      "3": "D-주석산나트륨 ❹ DL-사과산나트륨"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20170826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "변성 단백질의 성질이 아닌 것은? ❶ polypeptide 사슬이 열에 의하여 풀어져서 효소작용을 받기가 어려워진다.",
+    "choices": {
+      "2": "Fe ❸ Cu",
+      "3": "알칼리도 100",
+      "4": "Ni",
+      "1": "Zn"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20170826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 30,
+    "question": "단백질 내 질소함유량은 평균 몇 % 정도 인가?",
+    "choices": {
+      "1": "커쿠민(curcumin) ❷ 고시폴(gossypol)",
+      "2": "아밀로오스의 함량",
+      "4": "전분 현탁액의 pH",
+      "3": "전분의 수분함량"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20170826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 34,
+    "question": "당류 중 케톤기를 갖는 6탄당(keto hexose)은?",
+    "choices": {
+      "1": "적색, 적색 ❷ 적색, 청색",
+      "2": "glucose",
+      "3": "청색, 청색",
+      "4": "청색, 적색"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20170826",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 39,
+    "question": "다음 중 황화알릴(allyl sulfide)의 냄새가 나는 식품은?",
+    "choices": {
+      "1": "methyl mercaptan",
+      "3": "육계(肉桂)",
+      "4": "diallyl sulfide",
+      "2": "limonene ❸ isothiocyanate"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20170826",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 49,
+    "question": "식품의 가공 저장 시 호흡률에 대한 정의로 옳은 것은? ❶ 과일 1kg으로부터 1시간에 방출되는 CO 2 gas의 mg수",
+    "choices": {
+      "2": "발연점이 낮기 때문에",
+      "3": "시너지스트(synergist)가 없기 때문에",
+      "4": "열에 안정하기 때문에",
+      "1": "10분도미"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 66,
+    "question": "클로렐라에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "Micrococcus 속",
+      "3": "녹민물, 습지 등에 서식한다.",
+      "4": "Lactobacillus 속",
+      "2": "Clostridium 속 ❸ Bacillus 속"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 68,
+    "question": "곤충에서 기생하는 동충하초를 생성하는 버섯류는?",
+    "choices": {
+      "2": "Gibberella 속",
+      "3": "구연산, 글루콘산 - Aspergillus 속",
+      "4": "청주, 과즙 청징 - Penicillium 속",
+      "1": "치즈, 항생물질 - Penicillium 속 ❷ 청주, 된장 - Aspergillus 속"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 79,
+    "question": "다음 중 무성포자에 속하지 않는 것은?",
+    "choices": {
+      "1": "하이드로록 살균기(hydrolock sterilizer)",
+      "2": "회전식 살균기(rotary sterilizer)",
+      "3": "수탑식 살균기(hydrostatic sterilizer) ❹ 레토르트 살균기(retort sterilizer) 82. 식품의 건조 과정에서 일어날 수 있는 변화에 대한 설명으",
+      "4": "11.4g 81. 다음 살균 장치 중 연속식 살균장치가 아닌 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "민물의 게 또는 가재가 제2중간 숙주인 기생충은?",
+    "choices": {
+      "2": "polychlorobiphenyl ❸ benzopyrene",
+      "3": "요충",
+      "4": "choline",
+      "1": "trihalomethane"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "다음 중 산패와 관계가 있는 것은?",
+    "choices": {
+      "1": "최적 온도 : 25 ~ 30℃",
+      "2": "최적 상대습도 : 80% 이상",
+      "4": "지방의 환원 5. Aspergillus flavus가 aflatoxin을 생산하는데 필요한 조건과 가장 거리가 먼 것은?",
+      "3": "기질의 수분 : 16% 이상 ❹ 주요 기질 : 육류 등의 단백질 식품"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 6,
+    "question": "해수에 존재하는 호염성의 식중독 원인세균은?",
+    "choices": {
+      "1": "포도상구균",
+      "2": "살리실산",
+      "4": "데히드로초산",
+      "3": "안식향산"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "비브리오 패혈증에 대한 설명으로 틀린 것은? ❶ 원인균은 V. parahaemolyticus 이다.",
+    "choices": {
+      "2": "식품의 제조, 가공과정에서 유해물질이 혼입되는 경우",
+      "3": "기구나 용기포장에서 유해물질이 용출된 경우 ❹ 물리적 변화로 인한 식품조직의 변형에 의한 경우",
+      "4": "감염을 피하기 위해 수온이 높은 여름철에 조개류나 낙 지류의 생식을 피하는 것이 좋다. 12. 식품오염물은 음식물에 직접 또는 먹이사슬에 의한 생물농 축을 통해 인체건강장해를 일으키는 환경오염물질을 발생 시키는데, 그 발생 원인과 거리가 먼 것은?",
+      "1": "식품 또는 첨가물의 오용 및 남용 등에 의한 경우"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "Cl. perfringens에 의한 식중독에 관한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "열탕안 ❷ 냉동결빙",
+      "2": "탄산음료",
+      "3": "간장",
+      "4": "식초"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "date": "20180304",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 23,
+    "question": "효소는 주로 어떤 물질로 구성되어 있는가?",
+    "choices": {
+      "1": "빛",
+      "3": "lipoxigenase ❹ 탄수화물",
+      "4": "중성지방 24. 식품의 저장 중 유지성분의 산패에 영향을 미치는 정도가 가장 작은 것은?",
+      "2": "온도"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20180304",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 28,
+    "question": "다음 중 필수 아미노산에 해당하지 않는 것은?",
+    "choices": {
+      "2": "히스티딘",
+      "3": "30000 IU",
+      "4": "40000 IU",
+      "1": "10000 IU ❷ 20000 IU"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "date": "20180304",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 30,
+    "question": "새우, 게 등을 가열할 때 생기는 적색 물질은?",
+    "choices": {
+      "1": "[(W-S)/W ] × 100",
+      "3": "lutein",
+      "4": "[(S-W )/W] × 100 0 0",
+      "2": "[(W -W)/S] × 100 0 0 ❸ [(W-W )/S] × 100"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "date": "20180304",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 32,
+    "question": "포화지방산으로 조합된 것은?",
+    "choices": {
+      "1": "sesamol",
+      "2": "guar gum ❸ gossypol",
+      "3": "로오린산, 스테아린산, 리놀레인산, 올레인산 ❹ 미리스틴산, 스테아린산, 팔미틴산, 아라키딘산 33. 독성이 매우 강하여 면실유 정제 시에 반드시 제거하여야 하는 천연 항산화제는?",
+      "4": "gallic acid"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20180304",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 47,
+    "question": "과실주스 제조 시 청징에 사용하지 않는 것은?",
+    "choices": {
+      "1": "껍질 자체를 알칼 리가 분해시키기 때문",
+      "2": "알칼 리가 고온에서 전분을 분해시키기 때문 ❸ 껍질 밑층의 pectin질 등을 분해시켜 수용성으로 만들 기 때문",
+      "3": "282.3 kW",
+      "4": "알칼리가 cellulose를 분해시키기 때문"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 67,
+    "question": "미생물 증식량의 측정법과 거리가 먼 것은?",
+    "choices": {
+      "1": "500g",
+      "2": "800g ❸ 1000g",
+      "3": "비탁법에 의한 측정 ❹ micrometer 이용법 68. 포도당 1kg이 젖산으로 모두 발효될 때 얻어지는 젖산은 몇 g인가? (단, 포도당 분자량 : 180, 젖산 분자량 : 90)",
+      "4": "2000g"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 70,
+    "question": "액체 배지에서 초산균의 특징은?",
+    "choices": {
+      "1": "균막을 형성하고 혐기성이다. ❷ 균막을 형성하고 호기성이다.",
+      "3": "Saccharomyces cerevisiae",
+      "4": "Asppergillus oryzae",
+      "2": "Streptococcus thermophilus"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "제조방법에 따른 술의 분류 시 단행 복발효주에 해당되는 것은?",
+    "choices": {
+      "2": "한천",
+      "3": "화학적으로 안정해야 한다.",
+      "4": "비열 및 증발열이 적으며 용질에 대하여는 용해도가 커 야 한다. 85. 각 분쇄기의 설명으로 틀린 것은?",
+      "1": "롤 분쇄기 : 두 개의 롤이 회전하면서 압축력을 식품에 작용하여 분쇄한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "date": "20180428",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "오크라톡신(ochratoxin)은 무엇에 의해 생성되는 독소인가?",
+    "choices": {
+      "2": "포장 착색료의 용출 ❸ 저분자량 물질의 혼입",
+      "3": "nitroanillin ❹ benzopyrene 3. 식품의 포장재로 사용되는 종이류가 위생상 문제가 되는 이 유가 아닌 것은?",
+      "4": "납 등 유해물질의 혼입",
+      "1": "형광 염료의 이행"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20180428",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "콜라 음료의 산미료로 사용되는 것은?",
+    "choices": {
+      "1": "구연산",
+      "2": "흰색",
+      "4": "흑녹색",
+      "3": "녹색"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "date": "20180428",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 29,
+    "question": "가공식품에 사용되는 솔비톨(sorbitol)의 기능이 아닌 것 은?",
+    "choices": {
+      "1": "검정콩 ❷ 당근",
+      "2": "계면활성제",
+      "3": "가지",
+      "4": "옥수수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "date": "20180428",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 36,
+    "question": "전분의 노화를 억제하는 방법으로 적합하지 않은 것은?",
+    "choices": {
+      "1": "비오틴(biotin)",
+      "3": "설탕 첨가",
+      "4": "리보플라빈(riboflavin)",
+      "2": "엽산(folic acid) ❸ 나이아신(niacin)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "date": "20180428",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 52,
+    "question": "내건성 곰팡이가 생육할 수 있는 수분활성도 한계 값은?",
+    "choices": {
+      "1": "30kg",
+      "2": "40kg ❸ 50kg",
+      "3": "0.70 ❹ 0.65 53. 60%의 고형분을 함유하고 있는 농축 오렌지주스 100kg이 있다. 45% 고형분을 함유하고 있는 최종제품을 얻기 위 해, 15%의 고형분을 함유하고 있는 오렌지주스를 얼마나 가하여야 하는가?",
+      "4": "60kg"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20180428",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 59,
+    "question": "과즙 청징 방법 중 색소 및 비타민의 손실이 가장 큰 것 은?",
+    "choices": {
+      "1": "약 0.014 kg",
+      "2": "약 0.026 kg",
+      "4": "젤라틴 및 탄닌처리 60. 압출성형기의 공급되는 원료의 수분 함량을 15%(습량기 준)로 맞추고자 한다. 물을 첨가하기 전 분말의 수분 함량 이 10%라면 분말 1kg 당 추가해야 하는 물의 양은?",
+      "3": "약 0.042 kg ❹ 약 0.058 kg"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 61,
+    "question": "방선균에 대한 설명이 틀린 것은?",
+    "choices": {
+      "1": "규조류",
+      "3": "홍조류 ❹ 갈조류",
+      "4": "균사상으로 발육한다. 62. 한류해수에 잘 서식하고 육안으로 볼 수 있는 다세포형으 로 다시마, 미역이 속하는 조류는?",
+      "2": "남조류"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 63,
+    "question": "미생물의 동결보존법에 대한 설명으로 옳은 것은? ❶ glycerol, 디메틸항산화물과 같은 보존제를 첨가하여 보 존한다.",
+    "choices": {
+      "2": "영양분의 고갈",
+      "3": "유해 대사 산물의 축적",
+      "4": "멸균한 유동 파라핀을 첨가하여 저온 또는 실온에서 보 존한다. 64. 미생물의 증식 곡선에서 정지기와 사멸기가 형성되는 이유 가 아닌 것은?",
+      "1": "배지의 pH 변화"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 66,
+    "question": "포도당을 발효하여 젖산만 생성하는 젖산균은?",
+    "choices": {
+      "2": "Neurospora sitophila",
+      "3": "Rhizopus javanicus",
+      "4": "Botrytis cinerea",
+      "1": "SAccharomyces 속 ❷ Schizosaccharomyces 속"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 69,
+    "question": "성숙한 효모세포의 구조에서 중앙에 위치하며 가장 큰 공 간을 차지하고, 노폐물을 저장하는 장소는?",
+    "choices": {
+      "1": "핵(nucleus)",
+      "2": "Aspergillus niger",
+      "3": "Aspergillus oryzae",
+      "4": "Aspergillus sojae"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "Gram 양성이며 포자를 형성하는 편성혐기성균은?",
+    "choices": {
+      "1": "Staphylococcus 속",
+      "3": "Micrococcus 속 ❹ Proteus 속",
+      "4": "Corynebacteriun 속 72. Gram 음성의 간균이며 주로 단백질 식품의 부패에 관여하 는 세균은?",
+      "2": "Bacillus 속"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "미생물의 증식기 중 유도기와 관계없는 것은?",
+    "choices": {
+      "1": "증발 농축",
+      "3": "포말식 건조기",
+      "4": "감압 농축 84. 고체의 양은 많으나 유동성이 비교적 큰 계란, 크림, 쇼트 닝의 제조에 가장 적합한 혼합기는?",
+      "2": "동결 농축 ❸ 막 농축"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 23,
+    "question": "고분자화합물인 단백질의 분석과 관련이 없는 실험방법은?",
+    "choices": {
+      "1": "알칼리도 15",
+      "2": "산도 15",
+      "3": "알칼리도 30 ❹ 산도 30",
+      "4": "lignin 25. 식품 10g을 회화시켜 얻은 회분의 수용액을 중화하는데 0.1N NaOH 3.0mL가 소요되었다면 이 식품의 상태는?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 28,
+    "question": "전분 입자가 호화현상에 대한 설명이 틀린 것은?",
+    "choices": {
+      "1": "Fe2+",
+      "2": "Cu2+ ❸ H+",
+      "3": "알칼리성 pH에서는 전분입자가 호화가 촉진된다. ❹ 일반적으로 쌀과 같은 곡류 전분입자가 감자, 고구마 등 서류 전분입자에 비해 호화가 쉽게 일어난다. 29. 유지의 굴절류은 불포화도가 커질수록 일반적으로 어떻게 변하는가?",
+      "4": "OH-"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 31,
+    "question": "산화방지제로 사용되지 않는 것은?",
+    "choices": {
+      "1": "브라운 운동 ❷ 바이센 베르그 효과",
+      "2": "세사몰(sesamol) ❸ 리보플라빈(riboflavin)",
+      "4": "예사성",
+      "3": "틴들 현상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 36,
+    "question": "포도당(glucose)이 환원되어 생성된 당알코올은?",
+    "choices": {
+      "2": "만니톨(mannitol)",
+      "3": "이노시톨(inositol)",
+      "4": "둘시톨(dilcitol) 37. 녹말을 가수분해하는 효소로서 α-1,4 결합 뿐 아니라 분지 점의 α-1,6 결합도 분해하는 효소는?",
+      "1": "알파아밀라아제(α-amylase)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 40,
+    "question": "다음 중 겔 상태의 식품이 아닌 것은?",
+    "choices": {
+      "2": "묵",
+      "3": "탈취",
+      "4": "탈색",
+      "1": "탈산 ❷ 원터리제이션"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "date": "20180819",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 50,
+    "question": "어패류의 선도판정에 설명이 틀린 것은? ❶ 관능적 방법은 오감에 의하여 판정하는 방법으로 객관성 이 높아 현장에서 많이 이용한다.",
+    "choices": {
+      "2": "세균학적 방법은 어패육에 부착한 세균수를 측정하는 방 법으로 시료채취 부위에 따라 결과에 오차가 생기기 쉽 다.",
+      "3": "48[CO ·mg/kg/h]",
+      "4": "50[CO ·mg/kg/h] 2 2",
+      "1": "12[CO ·mg/kg/h] ❷ 30[CO ·mg/kg/h] 2 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 65,
+    "question": "산막효모의 특징이 아닌 것은?",
+    "choices": {
+      "1": "핵산 ❷ 단백질",
+      "2": "위균사나 진균사를 형성한다. ❸ 양조 과정 중에 알코올을 생성한다.",
+      "4": "탄수화물",
+      "3": "지방"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 69,
+    "question": "다음 세포벽 구성성분 중 그람 양성균에만 존재하는 것은?",
+    "choices": {
+      "1": "Torulopsis 속",
+      "2": "Serratia 속 ❸ Proteus 속",
+      "3": "지질다당체(lipopolysaccharide) ❹ 테이코산(teichoic acid) 70. 계란 전체가 회갈색으로 되고 특히 난황이 검게 되는 흑색 부패(black rots)의 원인균은?",
+      "4": "Achromobacter 속"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "조상균류와 순정균류의 분류기준은 무엇인가?",
+    "choices": {
+      "1": "리스테리아균",
+      "3": "장염비브리오균 ❹ 황색포도상구균",
+      "4": "Penicilluim 속 73. 사람이나 동물의 피부에서 흔히 검출되는 균으로 내열성이 강한 장독소를 생성하는 독소형 식중독균은?",
+      "2": "살모넬라균"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 75,
+    "question": "맥주의 하면발효효모로 많이 사용되는 것은?",
+    "choices": {
+      "1": "Aspergillus 속",
+      "3": "Saccharomyces coreanus",
+      "4": "Penicillium 속",
+      "2": "Eremothecium 속 ❸ Neurospora 속"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "식품첨가물의 구비 조건으로 옳지 않은 것은?",
+    "choices": {
+      "1": "DO",
+      "3": "이화학적 변화에 안정해야 한다.",
+      "4": "COD",
+      "2": "BOD ❸ WOD"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 5,
+    "question": "실험물질을 사육 동물에 2년 정도 투여하는 독성 실험 방법 은?",
+    "choices": {
+      "1": "LD",
+      "2": "장티푸스",
+      "3": "폐결핵",
+      "4": "전염성 피부질환"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 9,
+    "question": "식품 포장재로부터 이행 가능한 유해 물질이 잘못 연결된 것 은?",
+    "choices": {
+      "1": "채소 생식으로 인한 감염",
+      "3": "쇠고기 생식으로 인한 감염 ❹ 민물고기를 요리한 도마를 통한 감염 11. 곰팡이의 대사산물 중 사람에게 질병이나 생리 작용의 이상",
+      "4": "종이포장재 - 착색제 10. 민물고기를 섭취한 일이 없는데도 간흡충에 감염되었다면 이와 가장 관계가 깊은 감염 경로는?",
+      "2": "가재요리 섭취로 인한 감염"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 17,
+    "question": "우유의 저온살균이 완전히 이루어졌는지를 검사하는 방법 은?",
+    "choices": {
+      "1": "쵸펴 (Chopper)",
+      "3": "브리드씨법(Breed's method)",
+      "4": "냉동기 (freezer) 21. 식품을 장기간 보관할 때 고유의 냄새가 없어지게 되는 주",
+      "2": "원심분리기 (centrifuge) ❸ 균질기 (stomacher)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "date": "20190303",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "다음 중 이중결합이 2개인 지방산은?",
+    "choices": {
+      "1": "엽록소",
+      "2": "카로티노이드계",
+      "4": "리놀렌산(linolenic acid) 25. 딸기, 포도, 가지 등의 붉은 색이나 보라색이 가공, 저장 중 불안정하여 쉽게 갈색으로 변하는데 이 색소는?",
+      "3": "플라보노이드계 ❹ 안토시아닌계"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "date": "20190303",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 44,
+    "question": "잼 제조 시 농축 공정에서 젤리점 판정법이 아닌 것은?",
+    "choices": {
+      "2": "컵 테스트 (cup test)",
+      "3": "설탕",
+      "4": "향신료",
+      "1": "소금 ❷ 식초"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "date": "20190303",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "비중계에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "건조",
+      "2": "농축",
+      "4": "중보오메계 : 비중이 물보다 무거운 액체에 사용한다. 52. 열이동과 물질이동의 원리가 동시에 적용되는 단위조작이 아닌 것은?",
+      "3": "증류 ❹ 포장"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "date": "20190303",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 53,
+    "question": "달걀 가공품에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "박피를 쉽게 한다. ❷ 맛과 조직감을 좋게 한다.",
+      "2": "피단(pidan)은 달걀 속에 소금과 알칼리성 염류를 침투 시켜 노른자와 흰자를 응고, 숙성시킨 조미달걀이다.",
+      "3": "변색과 변질을 방지한다.",
+      "4": "가열 살균 시 부피가 줄어드는 것을 방지한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 64,
+    "question": "Pichia 속과 Hansenula속에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "모두 질산염을 자화한다.",
+      "2": "NADP",
+      "4": "ATP",
+      "3": "FAD"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 72,
+    "question": "포도주의 주 발표균은? ❶ Saccharomyces ellipsoideus",
+    "choices": {
+      "2": "Gluconobacter oxydans",
+      "3": "Enterobacter aerogenes ❹ Pseudomonas fluorescens",
+      "4": "Penicillium 속 74. 겨울철에 살균하지 않은 생유에 발생하면 쓴 맛이 나게 하 며, 단백질분해력이 강한 균은?",
+      "1": "Erwinia carotova"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 77,
+    "question": "포자낭병의 밑 부분에 기근을 형성하는 미생물속은?",
+    "choices": {
+      "2": "Rhizopus japonicus",
+      "3": "정상기 (stationary phase)",
+      "4": "사멸기 (death phase)",
+      "1": "유도기 (lag phase) ❷ 대수기 (logarithimic phase)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 3,
+    "question": "보툴리누스 식중독이 식품위생상 중요한 이유는?",
+    "choices": {
+      "1": "Quality control 제도 ❷ Recall 제도",
+      "2": "발병 전 섭취자에게 항독소를 투여하여도 예방이 되지 않 기 때문이다.",
+      "3": "HACCP 제도",
+      "4": "GMP 제도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 9,
+    "question": "수질을 나타내는 지표 BOD의 표시 사항은?",
+    "choices": {
+      "1": "30",
+      "3": "생물학적 환경오염도",
+      "4": "30000",
+      "2": "300 ❸ 3000"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "회충알을 사멸시킬 수 있는 능력이 가장 강한처리 또는 조 건은?",
+    "choices": {
+      "1": "중성세제",
+      "2": "부영양화 현상",
+      "3": "폐사 현상",
+      "4": "수온상승 현상"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "보존료로서의 구비조건이 아닌 것은?",
+    "choices": {
+      "1": "독성이 없을 것 ❷ 색깔이 양호할 것",
+      "3": "사용농도의 제한",
+      "4": "사용목적의 제한",
+      "2": "대상품목의 제한"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 19,
+    "question": "황변미 식중독의 원인독소가 아닌 것은?",
+    "choices": {
+      "2": "시트룰린",
+      "3": "우레아 ❹ 카바릴",
+      "4": "luteoskyrin 20. 주류 등의 발효 과정에서 생성되는 부산물로 국제암연구기 관(IARC)에 의해 발암성 물질로 분류된 에틸카바메이트의 주요 전구물질이 아닌 것은?",
+      "1": "아르기닌"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 26,
+    "question": "전분질 식품을 볶거나 구울 때 일어나는 현상은?",
+    "choices": {
+      "1": "부착성(adhesiveness)",
+      "3": "저작성(chewyness) ❹ 검성(gumminess)",
+      "4": "유화 현상 27. 반고형의 식품을 삼킬 수 있는 상태로까지 붕괴시키는데 필 요한 힘으로 설명되어지는 식품의 texture 성질은?",
+      "2": "깨짐성(취약성, brittleness)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 32,
+    "question": "액체 속에 기체가 분산되어 있는 콜로이드 식품이 아닌 것 은?",
+    "choices": {
+      "1": "단백질의 용해도",
+      "3": "사이다",
+      "4": "단백질의 구조",
+      "2": "단백질의 유화성 ❸ 단백질의 분자량"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 38,
+    "question": "천연지방산의 특징이 아닌 것은? ❶ 불포화지방산은 이중결합이 없다.",
+    "choices": {
+      "2": "대부분 탄소수가 짝수이다.",
+      "3": "단맛이 감소한다.",
+      "4": "맛의 변화가 없다.",
+      "1": "짠맛이 증가한다. ❷ 단맛이 증가한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "date": "20190804",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 44,
+    "question": "식품 내 함유된 천연 항산화제는?",
+    "choices": {
+      "1": "18% ❷ 22%",
+      "3": "181%",
+      "4": "219%",
+      "2": "디스크 밀(dise mill)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "date": "20190804",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 54,
+    "question": "염장 원리에서 가장 주요한 요인은?",
+    "choices": {
+      "1": "plastic 크림",
+      "3": "clotted 크림 ❹ whipping 크림",
+      "4": "아주 적음 56. 옥수수 전분을 습식법으로 제조할 때 생성되는 부산물이 아 닌 것은?",
+      "2": "light 크림"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 243,
+    "date": "20190804",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 63,
+    "question": "효모의 일반적인 사용 용도가 아닌 것은?",
+    "choices": {
+      "1": "대장균 ❷ 방선균",
+      "3": "고초균",
+      "4": "푸른 곰팡이",
+      "2": "대수기"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 244,
+    "date": "20190804",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 78,
+    "question": "청주 제조용 종국제조에 있어 재를 섞는 목적이 아닌 것은?",
+    "choices": {
+      "1": "Koji균에 무기성분 공급",
+      "2": "소포체",
+      "4": "리보솜",
+      "3": "골지체"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "식품첨가물에서 가공보조제에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "디프테리아",
+      "2": "폴리오",
+      "4": "살균제, 여과보조제, 이형제는 가공보조제이다. 3. 병에 걸린 동물의 고기를 섭취하거나 병에 걸린 동물을 처리, 가공할 때 감염될 수 있는 인수공통감염병은?",
+      "3": "유행성 간염 ❹ 브루셀라병"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "식품위생법상 “화학적 합성품”의 정의는? ❶ 화학적 수단으로 원소 또는 화합물에 분해반응 외의 화 학반응을 일으켜서 얻은 물질을 말한다.",
+    "choices": {
+      "2": "Clostridium perfringens ❸ Yersinia enterocolitica",
+      "3": "트리할로메탄(trihalonethanc)",
+      "4": "Bacillus cereus 19. 식품 위생검사 시 일반세균수(생균수)를 측정하는데 사용되 는 것은?",
+      "1": "Vibrio parahaemolyticus"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 20,
+    "question": "간장에 사용할 수 있는 보존료는?",
+    "choices": {
+      "2": "전분에서 glucose만을 1개씩 분리한다. ❸ 전분의 α-1,4 결합을 말단에서부터 분해하여 ß-amylase단위로 분리시킨다.",
+      "3": "ß- naphthol",
+      "4": "전분의 α-1,6 결합을 분리시킨다.",
+      "1": "전분 분자의 α-1,4 결합을 임의의 위치에서 크게 가수분 해 하여 maltose나 dextrin을 생성한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "date": "20200606",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 23,
+    "question": "pH 3 이하의 산성에서 검정콩의 색깔은?",
+    "choices": {
+      "1": "마그네슘 ❷ 인",
+      "2": "바이센 베르그의 현상",
+      "3": "나트륨",
+      "4": "칼륨"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "date": "20200606",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 26,
+    "question": "관능적 특성의 영향요인들 중 심리적 요인이 아닌 것은?",
+    "choices": {
+      "1": "기대오차",
+      "2": "전체 수분에 대한 자유수의 비율은 증가하고 결합수의 비율은 감소한다.",
+      "3": "전체 수분에 대한 자유수의 비율은 증가하고 결합수의 비율도 증가한다.",
+      "4": "전체 수분에 대한 자유수의 비율은 감소하고 결합수의 비율도 감소한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "date": "20200606",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 36,
+    "question": "다음 중 식품의 수분정량법이 아닌 것은?",
+    "choices": {
+      "1": "산가가 감소한다.",
+      "2": "산가가 변화하지 않는다. ❸ 요오드가가 감소한다.",
+      "3": "Karl-Fisher법 ❹ 자외선 사용법 37. 유지를 튀김에 사용하였을 때 나타나는 화학적인 현상에 대 한 설명으로 옳은 것은?",
+      "4": "요오드가가 변화하지 않는다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 42,
+    "question": "현미는 어느 부위를 벗겨낸 것인가?",
+    "choices": {
+      "1": "과종피 ❷ 왕겨층",
+      "3": "연압(working)",
+      "4": "중화(neutralizing)",
+      "2": "숙성(aging)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 48,
+    "question": "밀가루 가공식품 중 빵에 대한 설명이 틀린 것은?",
+    "choices": {
+      "1": "0.5분 ❷ 0.4분",
+      "2": "밀가루는 빵의 골격을 형성하고 반죽의 가스 포집 역할",
+      "3": "0.2분",
+      "4": "0.1분"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 51,
+    "question": "유통기간 설정과 관련한 설명으로 틀린 것은? ❶ 실험에 사용되는 검체는 시험용 시제품, 생산 판매하고 자 하는 제품, 실제로 유통되는 제품 모두 가능하다.",
+    "choices": {
+      "2": "영업자 등이 유통기한 설정 시 참고할 수 있도록 제시하 는 판매가능 기간은 권장유통기간이다.",
+      "3": "",
+      "4": "",
+      "1": "❷"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 63,
+    "question": "빵 효모를 생산하기 위한 배양조건의 적합한 것은?",
+    "choices": {
+      "1": "0.1303 ❷ 0.2303",
+      "2": "Aspergillus 속",
+      "4": "0.4101 65. 까망르베르(Camembert) 치즈 숙성에 이용되며 푸른곰팡이 라고도 불리는 것은? ❶ Penicillum 속",
+      "3": "0.3101"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 69,
+    "question": "세포벽의 역할이 아닌 것은?",
+    "choices": {
+      "1": "세포 내분의 높은 삼투압으로부터 세포를 보호한다.",
+      "2": "Leuconostoc mesenteroides",
+      "4": "Aspergillus oryzae",
+      "3": "Pichia membranefaciens"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 71,
+    "question": "미생물을 액체 배양기에서 배양하였을 경우 증식곡선의 순 서가 옳은 것은?",
+    "choices": {
+      "1": "효소 활성이 낮다.",
+      "2": "열저항성이 높다. ❸ Lysoyme에 감수성이 있다.",
+      "3": "Penicillium chrysogenum ❹ Rhizopus javanicus 73. 내생포자와 영양세포의 특성을 비교하였을 때 영양세포에 대한 설명으로 옳은 것은?",
+      "4": "건조 저항성이 높다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 80,
+    "question": "대장균군을 검출하기 위해 주로 이용하는 당은?",
+    "choices": {
+      "1": "호흡률(Respiratory quotient, RQ)은 1kg의 식품이 호흡 작용으로 1시간동안 방출하는 탄산가스의 양(mg)으로 표시한다.",
+      "3": "혼합류식(mixed flow type)",
+      "4": "펄퍼(pulper) - 토마토 84. 식품의 저장성향상을 위하여 기체조절 (Controlled atmosphere)저장을 할 때 이용되는 용어 또는 이론에 대한 설명으로 옳은 것은?",
+      "2": "롤러 밀(roller mill) - 건고추 ❸ 해머 밀(hammer mill) - 채소"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "병원체에 따른 인수공통감염병의 분류가 잘못된 것은?",
+    "choices": {
+      "1": "산패에 의한 변색을 방지한다.",
+      "2": "독성물질의 생성을 방지한다. ❸ 식욕을 향상시키는 효과가 있다.",
+      "3": "에틸카바메이트",
+      "4": "이산화물의 불쾌한 냄새 생성을 방지한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 259,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "식품위생검사를 위한 일반적인 채취 방법으로 옳은 것은?",
+    "choices": {
+      "1": "비소",
+      "2": "게르마늄 ❸ 포름알데히드",
+      "3": "폴리에틸렌수지",
+      "4": "단량체"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 10,
+    "question": "쥐와 관련되어 감염되는 질병이 아닌 것은?",
+    "choices": {
+      "1": "0℃, 4시간",
+      "2": "12℃±3이내, 6시간",
+      "3": "36℃±2이상, 12시간 ❹ 5℃±3이하, 24시간",
+      "4": "Vibrio parahaemolyticus 12. 식품의 기준 및 규격에 의거하여 부패·변질 우려가 있는 검 체를 미생물 검사용으로 운반하기 위해서는 멸균용기에 무 균적으로 채취하여 몇 도의 온도를 유지하면서 몇 시간 이 내에 검사기관에 운반해야 하는가?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "식품과 자연 독성분의 연결이 잘못된 것은?",
+    "choices": {
+      "1": "Calcium chloride",
+      "2": "AN(Acrylonitrile)",
+      "3": "DEP(Diethyl Phthalate) ❹ VCM(Vinyl Chloride Monomer)",
+      "4": "침강법 15. PVC(Poly Vinyl Chloride) 필름을 식품포장재로 사용했을 때 잔류할 수 잇는 단위체로 특히 문제가 되는 발암성 유해물 질은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 18,
+    "question": "식품에 사용되는 보존료의 조건으로 부적합한 것은?",
+    "choices": {
+      "1": "90Sr ❷ 131I 137Cs 106Ru",
+      "2": "적은 양으로 효과적일 것 ❸ 식품의 종류에 따라 작용이 가변적일 것",
+      "4": "",
+      "3": ""
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 21,
+    "question": "관능검사의 사용 목적과 거리가 먼 것은?",
+    "choices": {
+      "1": "신제품 개발",
+      "2": "비우렛(Biuret)반응",
+      "3": "닌히드린(Ninhydrin)반응",
+      "4": "유황반응"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 24,
+    "question": "밀가루의 흡수력 및 점탄성을 조사하는데 이용되는 것은?",
+    "choices": {
+      "1": "비오틴(Biotin)",
+      "2": "엽산(Folic acid) ❸ 나이아신(Niacin)",
+      "4": "리보플라빈(Riboflavin)",
+      "3": "비타민B"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 27,
+    "question": "가공식품에 사용되는 솔비톨(Sorbitonl)의 기능이 아닌 것 은?",
+    "choices": {
+      "1": "저칼로리 감미료",
+      "2": "열분해반응",
+      "3": "산화반응",
+      "4": "중합반응"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 30,
+    "question": "닌히드린 반응(Ninhydrin reaction)이 이용되는 것은?",
+    "choices": {
+      "2": "지방질의 정성",
+      "3": "탄수화물의 정성",
+      "4": "비타민의 정성 31. 면실 중에 존재하는 항산화 성분으로 강력한 항산화력이 인 정되나 독성 때문에 사용되지 못하는 것은?",
+      "1": "커큐민(Curcumin) ❷ 고시폴(Gossypol)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 33,
+    "question": "다음 식품 중 수분활성도(Aw)가 낮아 일반적으로 저장성이 가장 높은 것은?",
+    "choices": {
+      "2": "이온결합 ❸ 수소결합",
+      "3": "약 10.4%",
+      "4": "약 11.4%",
+      "1": "약 8.4% ❷ 약 9.4%"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "식품화학",
+    "question_no": 37,
+    "question": "노화에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "0.17",
+      "3": "pH에 영향을 받아 강산성 상태에서는 노화가 촉진된다.",
+      "4": "8.50",
+      "2": "0.34 ❸ 5.88"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 45,
+    "question": "식육가공에서 훈연 침투속도에 영향을 미치지 않는 것은?",
+    "choices": {
+      "1": "훈연 농도 ❷ 훈연재의 색상",
+      "3": "300초",
+      "4": "400초",
+      "2": "240초"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 47,
+    "question": "치즈에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "0.2kg",
+      "3": "0.6kg ❹ 0.8kg",
+      "4": "치즈 숙성시의 피막제는 호화전분을 사용한다. 48. 10%의 고형분을 함유한 포도주스 1kg을 감압농축시켜 고형 분 50%로 농축할 경우 제거해야 할 수분의 양은?",
+      "2": "0.4kg"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 53,
+    "question": "쌀의 저장 형태 중 저장성이 가장 큰 것은?",
+    "choices": {
+      "1": "5%",
+      "2": "15% ❸ 25%",
+      "4": "80%",
+      "3": "독특한 향기의 생성 ❹ 고기색의 고정 55. 원료크림의 지방량이 80kg이고 생산된 버터의 양이 100kg 이라면, 버터의 증량률(Overrun)은?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 56,
+    "question": "분유 제조 시 건조방법으로 적합한 것은?",
+    "choices": {
+      "1": "알부민(Albumin) ❷ 글리시닌(Glycinin)",
+      "2": "열풍 건조 ❸ 분무 건조",
+      "4": "락토글로불린(Lactoglobulin)",
+      "3": "제인(Zein)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "식품가공학",
+    "question_no": 58,
+    "question": "냉동 식품용 포장지의 일반적인 특성이 아닌 것은?",
+    "choices": {
+      "1": "210cal ❷ 12cal",
+      "2": "Vortex형 배양장치",
+      "4": "Plate tower형 배양장치",
+      "3": "Air lift형 배양장치"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "date": "20200822",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 65,
+    "question": "종초를 선택하는 일반적인 조건이 아닌 것은?",
+    "choices": {
+      "1": "장염비브리오균",
+      "3": "대장균 ❹ 황색포도상구균",
+      "4": "초산 생성속도가 빨라야 한다. 66. 여러 가지 선택배지를 이용하여 미생물 검사를 하였더니 다 음과 같은 결과가 나왔다. 다음 중 검출 양성이 예상되는 미생물은?",
+      "2": "살모넬라균"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "date": "20200822",
+    "subject": 4,
+    "subject_name": "식품미생물학",
+    "question_no": 73,
+    "question": "포도당의 Homo 젖산발효는 어떤 대사경로를 거치는가?",
+    "choices": {
+      "1": "HMP 경로",
+      "2": "Aspergillus niger",
+      "4": "Aspergillus fumigatus",
+      "3": "Aspergillus flavus"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  }
+]

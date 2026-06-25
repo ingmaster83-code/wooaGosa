@@ -1,26 +1,35 @@
+#!/usr/bin/env python3
 """
-comcbt.com 학생용/교사용 PDF 통합 파서
-- 네트워크관리사 1급/2급
-- 리눅스마스터 1급/2급
-- 워드프로세서
-- 전기기사 / 전기산업기사
-- 정보처리기사 / 정보처리산업기사
-- 정보보안기사
+comcbt.com / cbtestpro.kr 기출문제 PDF 통합 파서
+- 문제지/ 폴더를 자동 스캔 (하드코딩 없음)
+- 자격증 등급에 따라 max_q 자동 설정
+- 교사용 우선 / 날짜별 중복 제거
+- 그림·도면·파형 포함 문제 자동 제외
 """
 
-import pdfplumber, json, re, sys
+import pdfplumber, json, re, sys, threading
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-BASE     = Path(r"C:\개인\wooahouse\wooaGosa\문제지")
-OUT_DIR  = Path(r"C:\개인\wooahouse\wooaGosa\data")
+BASE    = Path(r"C:\개인\wooahouse\wooaGosa\문제지")
+OUT_DIR = Path(r"C:\개인\wooahouse\wooaGosa\data")
 OUT_DIR.mkdir(exist_ok=True)
 
+# ── 상수 ──────────────────────────────────────────────────────
 CIRCLE_MAP = {'①': 1, '②': 2, '③': 3, '④': 4, '⑤': 5}
 CIRCLE_PAT = re.compile(r'[①②③④⑤]')
 
-# comcbt 헤더 / 광고 필터
+# 시각 자료가 필요한 문제 제외 (이미지 추출 불가)
+IMAGE_PAT = re.compile(
+    r'다음\s*그림|아래\s*그림|그림과\s*같|그림에서|그림을\s*보|그림.*참[고조]|'
+    r'도면을\s*보|도면에서|도면과\s*같|도면.*참[고조]|'
+    r'파형이.*같|파형을\s*보|파형에서|'
+    r'회로도|회로\s*그림|'
+    r'그래프에서|그래프와\s*같|그래프를\s*보'
+)
+
+# comcbt / cbtestpro 헤더·광고 필터
 HEADER_PAT = re.compile(
     r'전자문제집\s*CBT|www\.comcbt\.com|comcbt\.com|'
     r'기출문제\s*및\s*해설집|CBT\s*홈페이지|CBT\s*앱|구글플레이|'
@@ -29,283 +38,105 @@ HEADER_PAT = re.compile(
     r'실제.*시험.*사용|완벽\s*연동|관리기능|해설집\s*다운로드'
 )
 
-# 시험별 설정
-EXAM_TARGETS = [
-    {
-        'key': 'net_1',
-        'folder': '네트워크관리사 1급',
-        'out': 'net_1.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'net_2',
-        'folder': '네트워크관리사 2급',
-        'out': 'net_2.json',
-        'max_q': 50,
-    },
-    {
-        'key': 'linux_1',
-        'folder': '리눅스마스터 1급',
-        'out': 'linux_1.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'linux_2',
-        'folder': '리눅스마스터 2급',
-        'out': 'linux_2.json',
-        'max_q': 80,
-    },
-    {
-        'key': 'word',
-        'folder': '워드프로세서',
-        'out': 'word.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'elec_eng',
-        'folder': '전기기사',
-        'out': 'elec_eng.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'elec_ind',
-        'folder': '전기산업기사',
-        'out': 'elec_ind.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'info_proc',
-        'folder': '정보처리기사',
-        'out': 'info_proc.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'info_ind',
-        'folder': '정보처리산업기사',
-        'out': 'info_ind.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'info_sec',
-        'folder': '정보보안기사',
-        'out': 'info_sec.json',
-        'max_q': 100,
-    },
-    # ── 2차 추가 ──────────────────────────────────────────────
-    {
-        'key': 'hazmat_ind',
-        'folder': '위험물산업기사',
-        'out': 'hazmat_ind.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'hazmat_craft',
-        'folder': '위험물기능사',
-        'out': 'hazmat_craft.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'fire_mech',
-        'folder': '소방설비기사 기계분야',
-        'out': 'fire_mech.json',
-        'max_q': 80,
-    },
-    {
-        'key': 'fire_elec',
-        'folder': '소방설비기사 전기분야',
-        'out': 'fire_elec.json',
-        'max_q': 80,
-    },
-    {
-        'key': 'forklift',
-        'folder': '지게차운전기능사',
-        'out': 'forklift.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'excavator',
-        'folder': '굴착기(굴삭기)운전기능사',
-        'out': 'excavator.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'realtor_1',
-        'folder': '공인중개사 1차',
-        'out': 'realtor_1.json',
-        'max_q': 80,
-    },
-    {
-        'key': 'realtor_2',
-        'folder': '공인중개사 2차',
-        'out': 'realtor_2.json',
-        'max_q': 120,
-    },
-    {
-        'key': 'welfare_1',
-        'folder': '사회복지사1급 1교시',
-        'out': 'welfare_1.json',
-        'max_q': 50,
-    },
-    {
-        'key': 'welfare_2',
-        'folder': '사회복지사1급 2교시',
-        'out': 'welfare_2.json',
-        'max_q': 75,
-    },
-    {
-        'key': 'welfare_3',
-        'folder': '사회복지사1급 3교시',
-        'out': 'welfare_3.json',
-        'max_q': 75,
-    },
-    {
-        'key': 'safety_ind',
-        'folder': '산업안전산업기사',
-        'out': 'safety_ind.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'safety_eng',
-        'folder': '산업안전기사',
-        'out': 'safety_eng.json',
-        'max_q': 120,
-    },
-    # ── 3차 추가 ──────────────────────────────────────────────
-    {
-        'key': 'elec_craft',
-        'folder': '전기기능사',
-        'out': 'elec_craft.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'pastry',
-        'folder': '제과기능사',
-        'out': 'pastry.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'bread',
-        'folder': '제빵기능사',
-        'out': 'bread.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'korean_cook',
-        'folder': '한식조리기능사',
-        'out': 'korean_cook.json',
-        'max_q': 60,
-    },
-    # ── 4차 추가 ──────────────────────────────────────────────
-    {
-        'key': 'gas_craft',
-        'folder': '가스기능사',
-        'out': 'gas_craft.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'gas_ind',
-        'folder': '가스산업기사',
-        'out': 'gas_ind.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'gas_eng',
-        'folder': '가스기사',
-        'out': 'gas_eng.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'const_safety_ind',
-        'folder': '건설안전산업기사',
-        'out': 'const_safety_ind.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'const_safety_eng',
-        'folder': '건설안전기사',
-        'out': 'const_safety_eng.json',
-        'max_q': 120,
-    },
-    {
-        'key': 'hvac_craft',
-        'folder': '공조냉동기계기능사',
-        'out': 'hvac_craft.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'hvac_eng',
-        'folder': '공조냉동기계기사',
-        'out': 'hvac_eng.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'air_eng',
-        'folder': '대기환경기사',
-        'out': 'air_eng.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'water_eng',
-        'folder': '수질환경기사',
-        'out': 'water_eng.json',
-        'max_q': 100,
-    },
-    {
-        'key': 'elevator_craft',
-        'folder': '승강기기능사',
-        'out': 'elevator_craft.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'elevator_eng',
-        'folder': '승강기기사',
-        'out': 'elevator_eng.json',
-        'max_q': 80,
-    },
-    {
-        'key': 'energy_craft',
-        'folder': '에너지관리기능사',
-        'out': 'energy_craft.json',
-        'max_q': 60,
-    },
-    {
-        'key': 'energy_eng',
-        'folder': '에너지관리기사',
-        'out': 'energy_eng.json',
-        'max_q': 100,
-    },
-]
+# ── 폴더 스킵 목록 (별도 파서 또는 비-CBT 자료) ──────────────
+SKIP_FOLDERS = {
+    # reparse_5choice.py 로 별도 처리
+    '공인중개사 1차', '공인중개사 2차',
+    '사회복지사1급 1교시', '사회복지사1급 2교시', '사회복지사1급 3교시',
+    # 비-CBT (문제은행 형식)
+    '운전면허',
+    # 자체 파싱 형식
+    '한국사 기본', '한국사 심화',
+}
+
+# ── 기존 자격증 폴더명 → JSON 키 매핑 (하위 호환 유지) ─────────
+FOLDER_TO_KEY = {
+    '네트워크관리사 1급':         'net_1',
+    '네트워크관리사 2급':         'net_2',
+    '리눅스마스터 1급':           'linux_1',
+    '리눅스마스터 2급':           'linux_2',
+    '워드프로세서':               'word',
+    '전기기사':                  'elec_eng',
+    '전기산업기사':               'elec_ind',
+    '정보처리기사':               'info_proc',
+    '정보처리산업기사':            'info_ind',
+    '정보보안기사':               'info_sec',
+    '위험물산업기사':              'hazmat_ind',
+    '위험물기능사':               'hazmat_craft',
+    '소방설비기사 기계분야':        'fire_mech',
+    '소방설비기사 전기분야':        'fire_elec',
+    '소방설비기사(기계분야)':       'fire_mech',
+    '소방설비기사(전기분야)':       'fire_elec',
+    '지게차운전기능사':            'forklift',
+    '굴착기(굴삭기)운전기능사':     'excavator',
+    '굴착기운전기능사':            'excavator',
+    '산업안전산업기사':            'safety_ind',
+    '산업안전기사':               'safety_eng',
+    '전기기능사':                 'elec_craft',
+    '제과기능사':                 'pastry',
+    '제빵기능사':                 'bread',
+    '한식조리기능사':              'korean_cook',
+    '가스기능사':                 'gas_craft',
+    '가스산업기사':               'gas_ind',
+    '가스기사':                   'gas_eng',
+    '건설안전산업기사':            'const_safety_ind',
+    '건설안전기사':               'const_safety_eng',
+    '공조냉동기계기능사':           'hvac_craft',
+    '공조냉동기계기사':            'hvac_eng',
+    '대기환경기사':               'air_eng',
+    '수질환경기사':               'water_eng',
+    '승강기기능사':               'elevator_craft',
+    '승강기기사':                 'elevator_eng',
+    '에너지관리기능사':            'energy_craft',
+    '에너지관리기사':              'energy_eng',
+}
 
 
-# ── 정답 그리드 파싱 ─────────────────────────────────────────
+# ── 자동 설정 헬퍼 ────────────────────────────────────────────
 
-def _extract_answer_grid(lines: list, max_q: int) -> dict:
-    """번호행(숫자만) + 기호행(①②③④)을 매핑, 최대 max_q까지"""
-    answers = {}
-    i = 0
-    while i < len(lines):
-        tokens = lines[i].split()
-        if len(tokens) >= 5 and all(re.fullmatch(r'\d+', t) for t in tokens):
-            try:
-                nums = list(map(int, tokens))
-            except ValueError:
-                i += 1
-                continue
-            # 번호행 다음 4줄 이내에서 기호행 탐색
-            for j in range(i + 1, min(i + 5, len(lines))):
-                syms = CIRCLE_PAT.findall(lines[j])
-                if len(syms) == len(nums):
-                    for n, s in zip(nums, syms):
-                        if 1 <= n <= max_q:
-                            answers[n] = CIRCLE_MAP[s]
-                    i = j + 1
-                    break
-            else:
-                i += 1
-        else:
-            i += 1
-    return answers
+def get_key(folder_name: str) -> str:
+    """폴더명 → JSON 키. 기존 매핑 우선, 없으면 한글 그대로 사용."""
+    if folder_name in FOLDER_TO_KEY:
+        return FOLDER_TO_KEY[folder_name]
+    safe = re.sub(r'[\s/\\()·]', '_', folder_name)
+    safe = re.sub(r'_+', '_', safe).strip('_')
+    return safe
 
+
+def get_max_q(folder_name: str) -> int:
+    """자격증 등급별 문항 수 자동 설정."""
+    if '기능사' in folder_name or '기능장' in folder_name:
+        return 60
+    if '산업기사' in folder_name:
+        return 80
+    if '기사' in folder_name:
+        return 100
+    # 관리사, 전문가, 이용사, 미용사 등 기타
+    return 100
+
+
+def build_exam_targets() -> list:
+    """문제지/ 폴더를 스캔해서 처리 대상 목록 자동 생성."""
+    targets = []
+    for folder in sorted(BASE.iterdir()):
+        if not folder.is_dir():
+            continue
+        name = folder.name
+        if name in SKIP_FOLDERS:
+            continue
+        if not any(folder.glob('*.pdf')):
+            continue
+        key = get_key(name)
+        targets.append({
+            'key':    key,
+            'folder': name,
+            'out':    f'{key}.json',
+            'max_q':  get_max_q(name),
+        })
+    return targets
+
+
+# ── 정답 그리드 파싱 ──────────────────────────────────────────
 
 def words_to_lines(wlist: list) -> list:
     if not wlist:
@@ -325,15 +156,39 @@ def words_to_lines(wlist: list) -> list:
     return lines
 
 
+def _extract_answer_grid(lines: list, max_q: int) -> dict:
+    answers = {}
+    i = 0
+    while i < len(lines):
+        tokens = lines[i].split()
+        if len(tokens) >= 5 and all(re.fullmatch(r'\d+', t) for t in tokens):
+            try:
+                nums = list(map(int, tokens))
+            except ValueError:
+                i += 1
+                continue
+            for j in range(i + 1, min(i + 5, len(lines))):
+                syms = CIRCLE_PAT.findall(lines[j])
+                if len(syms) == len(nums):
+                    for n, s in zip(nums, syms):
+                        if 1 <= n <= max_q:
+                            answers[n] = CIRCLE_MAP[s]
+                    i = j + 1
+                    break
+            else:
+                i += 1
+        else:
+            i += 1
+    return answers
+
+
 def parse_answers(pdf, max_q: int) -> dict:
-    """마지막 페이지에서 정답 추출 (2컬럼 포함 대응)"""
     page = pdf.pages[-1]
     words = page.extract_words(x_tolerance=3, y_tolerance=3)
     mid_x = page.width / 2
     all_lines   = words_to_lines(words)
     left_lines  = words_to_lines([w for w in words if w['x0'] <  mid_x])
     right_lines = words_to_lines([w for w in words if w['x0'] >= mid_x])
-
     best = {}
     for lines in (all_lines, right_lines, left_lines):
         ans = _extract_answer_grid(lines, max_q)
@@ -342,7 +197,7 @@ def parse_answers(pdf, max_q: int) -> dict:
     return best
 
 
-# ── 컬럼 추출 ────────────────────────────────────────────────
+# ── 컬럼 추출 ─────────────────────────────────────────────────
 
 def extract_columns(page):
     words = page.extract_words(x_tolerance=3, y_tolerance=3)
@@ -358,12 +213,11 @@ def filter_lines(lines: list) -> list:
     return [l for l in lines if l.strip() and not HEADER_PAT.search(l)]
 
 
-# ── 과목 이름 동적 추출 ───────────────────────────────────────
+# ── 과목명 동적 추출 ──────────────────────────────────────────
 
 def collect_subject_names(pdfs: list) -> dict:
-    """PDF 전체를 스캔해서 과목번호→이름 맵 생성"""
     subj_map = {}
-    for pdf_path in pdfs[:3]:  # 최대 3개 파일만 확인
+    for pdf_path in pdfs[:3]:
         try:
             with pdfplumber.open(str(pdf_path)) as pdf:
                 for page in pdf.pages:
@@ -382,15 +236,11 @@ def collect_subject_names(pdfs: list) -> dict:
 
 def lines_to_blocks(lines: list, subject_state: list, max_q: int) -> list:
     blocks, cur, last_no = [], None, 0
-
     for line in lines:
-        # 과목 헤더
         sm = re.match(r'^(\d+)과목\s*[:：]\s*', line)
         if sm:
             subject_state[0] = int(sm.group(1))
             continue
-
-        # 문제 번호 (1~max_q, 순서 증가)
         m = re.match(r'^(\d{1,3})\.\s*(.*)', line)
         if m:
             n = int(m.group(1))
@@ -418,10 +268,8 @@ def lines_to_blocks(lines: list, subject_state: list, max_q: int) -> list:
                 }
                 last_no = n
                 continue
-
         if cur is not None:
             cur['lines'].append(line)
-
     if cur:
         blocks.append(cur)
     return blocks
@@ -432,11 +280,12 @@ def block_to_question(block: dict):
     first_c = next((i for i, l in enumerate(lines) if CIRCLE_PAT.search(l)), None)
     if first_c is None:
         return None
-
     q_lines = [l.strip() for l in lines[:first_c] if l.strip()]
     question = ' '.join(q_lines).strip()
     if not question:
         return None
+    if IMAGE_PAT.search(question):
+        return None  # 그림/도면/파형 등 시각 자료 필요 문제 제외
 
     choice_text = ' '.join(lines[first_c:])
     parts = re.split(r'([①②③④⑤])', choice_text)
@@ -462,6 +311,21 @@ def block_to_question(block: dict):
     }
 
 
+# ── 날짜별 중복 제거 (교사용 우선) ───────────────────────────
+
+def select_pdfs(pdfs: list) -> list:
+    by_date = {}
+    for pdf in pdfs:
+        m = re.search(r'(\d{8})', pdf.name)
+        if not m:
+            continue
+        date = m.group(1)
+        is_teacher = '교사용' in pdf.name or re.search(r'\d{8}-0\.', pdf.name)
+        if date not in by_date or is_teacher:
+            by_date[date] = pdf
+    return sorted(by_date.values(), key=lambda p: p.name)
+
+
 # ── 파일 파싱 ─────────────────────────────────────────────────
 
 def parse_exam(pdf_path: Path, max_q: int) -> tuple:
@@ -469,8 +333,6 @@ def parse_exam(pdf_path: Path, max_q: int) -> tuple:
     with pdfplumber.open(str(pdf_path)) as pdf:
         answers = parse_answers(pdf, max_q)
         subject_state = [1]
-        # 정답 페이지(마지막)와 정답 혼합 페이지 모두 처리하되,
-        # 마지막 페이지에도 문제가 있을 수 있으므로 전체 파싱
         for page in pdf.pages:
             left, right = extract_columns(page)
             for col in (left, right):
@@ -482,11 +344,37 @@ def parse_exam(pdf_path: Path, max_q: int) -> tuple:
     return questions, answers
 
 
+PDF_TIMEOUT = 60  # 초 — 이 시간 초과 시 해당 PDF 스킵
+
+
+def parse_exam_timeout(pdf_path: Path, max_q: int):
+    """타임아웃 적용 parse_exam (깨진 PDF 무한 대기 방지)."""
+    result = [None]
+    error  = [None]
+
+    def _run():
+        try:
+            result[0] = parse_exam(pdf_path, max_q)
+        except Exception as e:
+            error[0] = e
+
+    t = threading.Thread(target=_run, daemon=True)
+    t.start()
+    t.join(PDF_TIMEOUT)
+
+    if t.is_alive():
+        raise TimeoutError(f"{PDF_TIMEOUT}초 초과 — 스킵")
+    if error[0]:
+        raise error[0]
+    return result[0]
+
+
 def process_file(pdf_path: Path, max_q: int, subj_map: dict, id_start: int) -> list:
     m = re.search(r'(\d{8})', pdf_path.name)
     date = m.group(1) if m else 'unknown'
     print(f"  파싱...", end=' ', flush=True)
-    questions, answers = parse_exam(pdf_path, max_q)
+    parsed = parse_exam_timeout(pdf_path, max_q)
+    questions, answers = parsed
     print(f"{len(questions)}문항  정답 {len(answers)}개", end='  ')
 
     records = []
@@ -511,24 +399,26 @@ def process_file(pdf_path: Path, max_q: int, subj_map: dict, id_start: int) -> l
 
 # ── 메인 ──────────────────────────────────────────────────────
 
+EXAM_TARGETS = build_exam_targets()
+print(f"대상 자격증: {len(EXAM_TARGETS)}개\n")
+
 errors = []
 
 for cfg in EXAM_TARGETS:
     folder = BASE / cfg['folder']
-    if not folder.exists():
-        print(f"\n[{cfg['key']}] 폴더 없음 — 스킵")
+
+    out_path = OUT_DIR / cfg['out']
+    if out_path.exists():
+        print(f"[{cfg['key']}] 이미 있음 — 스킵")
         continue
 
-    # 학생용/교사용 모두 수집
-    pdfs = sorted(folder.glob('*.pdf'))
-    if not pdfs:
-        print(f"\n[{cfg['key']}] 파일 없음 — 스킵")
-        continue
+    all_pdfs = sorted(folder.glob('*.pdf'))
+    pdfs = select_pdfs(all_pdfs)
 
     print(f"\n{'='*60}")
-    print(f"[{cfg['key']}] {cfg['folder']} — {len(pdfs)}개 파일")
+    print(f"[{cfg['key']}] {cfg['folder']}  max_q={cfg['max_q']}")
+    print(f"  전체 {len(all_pdfs)}개 → 날짜 중복 제거 후 {len(pdfs)}개 처리")
 
-    # 과목명 동적 추출
     subj_map = collect_subject_names(pdfs)
     if subj_map:
         print(f"  과목: {subj_map}")
@@ -537,7 +427,7 @@ for cfg in EXAM_TARGETS:
     for pdf_path in pdfs:
         m = re.search(r'(\d{8})', pdf_path.name)
         date = m.group(1) if m else '?'
-        print(f"\n  -- {date} ({pdf_path.name[:30]}) --")
+        print(f"\n  -- {date} ({pdf_path.name[:40]}) --")
         try:
             recs = process_file(pdf_path, cfg['max_q'], subj_map, id_start=id_cnt)
             all_records.extend(recs)
@@ -554,8 +444,7 @@ for cfg in EXAM_TARGETS:
 
     if all_records:
         s = all_records[0]
-        print(f"  [샘플] {s['date']} {s['question_no']}번 ({s.get('subject_name','')})")
-        print(f"    Q: {s['question'][:70]}")
+        print(f"  [샘플] {s['date']} {s['question_no']}번: {s['question'][:60]}")
 
 print(f"\n\n{'='*60}")
 if errors:

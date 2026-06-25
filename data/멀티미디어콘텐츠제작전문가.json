@@ -1,0 +1,4286 @@
+[
+  {
+    "id": 1,
+    "date": "20150308",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "TFTP(Trivial File Transfer Protocol)에 대한 설명으로 거리 가 먼 것은?",
+    "choices": {
+      "1": "linare",
+      "3": "ftp ❹ finger",
+      "4": "MPEG-1 7. 정보확산으로 인한 각종 부작용으로 추측이나 루머가 결합 된 부정확한 정보가 인터넷이나 휴대전화를 통해 전염병과 같이 빠르게 전파됨으로써 개인 사생활, 경제, 정치 안보 등에 치명적인 영향을 초래하는 것을 의미하는 용어는?",
+      "2": "ping"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20150308",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "비연결지향 전송계층 프로토콜은?",
+    "choices": {
+      "2": "super block",
+      "3": "PMOLED",
+      "4": "CRT",
+      "1": "LCD ❷ AMOLED"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20150308",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 21,
+    "question": "푸르킨예 현상(Purkinje effect)에 대한 설명 중 가장 거리 가 먼 것은?",
+    "choices": {
+      "1": "스푸마토(sfumato) 효과",
+      "2": "플루트(flute)효과 ❸ 베졸드(bezold) 효과",
+      "3": "밝은 곳에서 어두운 곳으로 갈수록 단파장의 감도가 높 아진다. ❹ 점차 밝아질수록 장파장의 감도가 떨어진다. 22. 붉은 망에 들어간 귤의 색이 본래의 주황보다도 붉은 색을 띠어 보이는 효과는?",
+      "4": "팬텀컬러(phantom color) 효과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20150308",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 23,
+    "question": "디자인 요소 중 점에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "점은 움직임을 지각하지 못하지만 크기와 군집에 의해 방향성이 느껴지기도 한다.",
+      "2": "폐쇄성의 원리",
+      "3": "유사성의 원리",
+      "4": "연속성의 원리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20150308",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 36,
+    "question": "디자인 영역 분류 중 대표적인 4차원 영역은?",
+    "choices": {
+      "2": "대칭",
+      "3": "어패럴 디자인",
+      "4": "사인 디자인 37. 디자인의 원리 중 반복, 강조, 점이 등을 통해 얻어지는 것은?",
+      "1": "균형"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20150308",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 40,
+    "question": "앙포르멜적 추상 일러스트레이션에 대한 설명으로 맞는 것 은?",
+    "choices": {
+      "1": "직선, 삼각형, 원 등의 기하학적인 형태를 이용한 일러 스트레이션",
+      "2": "Number",
+      "3": "parseInt",
+      "4": "parseFloat"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20150308",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 42,
+    "question": "아래의 관계 대수를 SQL로 옳게 나타낸 것은?",
+    "choices": {
+      "1": "reset()",
+      "3": "Instance",
+      "4": "focus()",
+      "2": "dbclick() ❸ hover()"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20150308",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 47,
+    "question": "자바스크립트의 Window 객체매서드에 대한 설명으로 잘 못된 것은?",
+    "choices": {
+      "1": "Relational Modeling",
+      "2": "이벤트 디폴트",
+      "3": "이벤트 캡처링",
+      "4": "이벤트 핸들링"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20150308",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 51,
+    "question": "객체지향 분석 방법론의 설명으로 옳은 것은? ❶ 부치(Booch) 객체지향 설계는 객체들 간의 인터페이스 를 찾아 이것들을 Ada 프로그램으로 변환시키는 기법 이다.",
+    "choices": {
+      "2": "$( '!test' )",
+      "3": "$( '_test' ) ❹ $( '#test' )",
+      "4": "윌리엄 로렌슨 객체지향 설계는 자료흐름도를 사용해서 객체를 분해하고 각 작업에 대한 다이어그램, 클래스 계층 정의, 클래스들의 클러스터링 작업을 수행한다. 52. 현재 html 문서에서 id가 test인 엘리먼트를 선택하는 jquery 표현식은?",
+      "1": "$( 'test' )"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20150308",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 60,
+    "question": "데이터베이스 시스템 카탈로그 구성 요소가 아닌 것은?",
+    "choices": {
+      "1": "간섭",
+      "2": "편광",
+      "4": "마스킹현상 62. 빛은 그 파장의 차이에 따라 굴절률이 각각 다른데 프리즘 을 투과한 빛이 각각의 굴절각의 차이로 여러 가지 색으로 나누어지는 현상은?",
+      "3": "회절 ❹ 분산 63. 2장 이상의 사진을 중복인화, 중복노출시킴으로서 한 장으 로 합성시켜 새로운 시각효과를 구성하는 작품 제작기법 은?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20150308",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 69,
+    "question": "동일 음이 여러 방향에서 같은 음량으로 전달되는 경우, 가장 빠르게 귀에 도달하는 음의 음원방향으로 음상의 정 위자가 쏠려 들리는 현상은?",
+    "choices": {
+      "2": "곡면기반 모델링(Surface Modeling)",
+      "3": "DIB",
+      "4": "DXF",
+      "1": "TIFF ❷ PICT"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20150308",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 79,
+    "question": "MPEG-2의 프레임 구조에 속하지 않는 것은?",
+    "choices": {
+      "1": "프로세니엄 스피커 ❷ 백도어 스피커",
+      "2": "Forward Frame",
+      "3": "에이프런 스피커",
+      "4": "모니터 스피커"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "IPv6에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "스트림 모드",
+      "3": "압축 모드 ❹ 패킷 모드",
+      "4": "보안과 관련하여 안전한 통신, 메시지의 발신지 확인, 암 호화 기능 등을 제공한다. 3. 파일전송 프로토콜(FTP)에서 파일 전송 시에 사 용하는 데이 터 전송 모드가 아닌 것은?",
+      "2": "블록 모드"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 5,
+    "question": "USB 저장장치에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "P ❷ I",
+      "2": "소형 경량이어서 휴대용 저장장치로 각광을 받고 있다. ❸ 병렬 버스 형태로 구성되어 있다.",
+      "4": "K",
+      "3": "B"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 7,
+    "question": "IP 멀티캐스팅을 위한 클래스이며, 전체 주소가 멀티캐스팅을 위해 사용되는 것은?",
+    "choices": {
+      "1": "CEP",
+      "2": "DoS Attack",
+      "3": "SQL-Injection Attack",
+      "4": "Macro virus 10. OSI 7계층에서 전송계층(Transport Layer)의 주요기능이 아 닌것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 13,
+    "question": "지능형 교통시스템을 위한 통신방식으로 무선 통신기술을 이용하여 통행료 자동지불시스템, 주 차장관리, 물류 배송관 리, 주유소 요금 지불, 자 동차 쇼핑, 자동차 도선료 등 다 방면에서 활용되는 단거리 통신은?",
+    "choices": {
+      "2": "2",
+      "3": "3 ❹ 4",
+      "4": "Wibro 14. EBCDIC 코드의 존(zone) 비트는 몇 비트로 구성되어 있는 가?",
+      "1": "1"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20150531",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 15,
+    "question": "다음 중 정보보안의 기본 목표가 아닌 것은?",
+    "choices": {
+      "1": "MPEG2",
+      "3": "IESG ❹ HEVC",
+      "4": "무결성 16. 투명전극이 코팅된 2장의 기판으로 구성되어 손가락이나 펜 을 통해 화면에 압력을 주면 그 부 위의 기판이 서로 달라 붙으며 위치를 인지하는 터치스크린 방식은?",
+      "2": "AVC"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 22,
+    "question": "색채를 16진수로 표기할 때 바르게 연결된 것은?",
+    "choices": {
+      "1": "면적대비",
+      "3": "연변대비 ❹ 계시대비",
+      "4": "Color Gamut Mapping 24. 어떤 색을 본 후 이어서 다른 색을 볼 때 생기 는 대비로 시간차를 두고 일어나는 대비현상은?",
+      "2": "보색대비"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 35,
+    "question": "은유의 의미를 내포하는 단어로 사용자가 접근하려 는 인터 페이스 환경을 쉽게 이해하도록 익숙한 개념적 모델을 제공 하기 위해 이용되는 것은?",
+    "choices": {
+      "1": "그리드",
+      "2": "마스킹 효과",
+      "3": "푸르킨예 현상",
+      "4": "매스 효과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 37,
+    "question": "모듈러(Modular)의 기본 개념은?",
+    "choices": {
+      "1": "합목적성",
+      "2": "질서성 ❸ 경제성",
+      "3": "수학 ❹ 비례 38. 디자인의 조건 중 최소의 재료와 노력에 의해 최대의 효과 를 알고자 하는 원리는?",
+      "4": "독창성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20150531",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 40,
+    "question": "썸네일 스케치(Thumbnail Sketch)에 대한 설명으로 옮은 것 은?",
+    "choices": {
+      "1": "checked",
+      "3": "onchange ❹ multiple",
+      "4": "형상, 재질, 패턴, 색채 등을 정확하게 스케치 41. HTML에서 select 태그를 이용하여 여러 목록 중 다중 선택 이 가능하도록 구성할 때 필요한 속성은?",
+      "2": "disabled"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20150531",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 44,
+    "question": "데이터베이스에서 Foreign Key와 관련된 옵션 중 Master 삭제 시 해당 값을 NULL로 세팅하는 것은?",
+    "choices": {
+      "1": "＞ ❷ ＜",
+      "2": "Navigator 객체 ❸ Date 객체",
+      "3": "＞=",
+      "4": "＜="
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20150531",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 48,
+    "question": "조인(Join) 연산 알고리즘의 종류가 아닌 것은?",
+    "choices": {
+      "1": "Private ❷ Protected",
+      "2": "Hash-join 방법",
+      "3": "Static",
+      "4": "UserDefinedNamespace"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20150531",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 54,
+    "question": "자바스크립트의 RegExp 객체에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "new 키워드를 이용하여 생성할 수 있다.",
+      "2": "ArrayOf()",
+      "4": "search()",
+      "3": "replace()"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20150531",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 56,
+    "question": "데이터베이스의 릴레이션 특성에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "function",
+      "2": "instance of ❸ new",
+      "3": "open",
+      "4": "type of"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 67,
+    "question": "잔상효과를 이용한 애니메이션 초기 장치를 무엇이라 하는 가? ❶ 페나키스티스코프(phenakistiscope)",
+    "choices": {
+      "2": "휘도(rit)",
+      "3": "조도(lx) ❹ 광도(cd)",
+      "4": "솔리드 모델링 69. 광원으로부터 어떤 방향으로 얼마만큼의 광이 나가고 있는 가를 나타내는 것으로 빛의 강도를 의미하는 것은?",
+      "1": "광선속(lm)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 77,
+    "question": "소음에 의해 음성의 명료도가 저하되는 현상은?",
+    "choices": {
+      "1": "간섭",
+      "2": "회절효과",
+      "4": "반사효과",
+      "3": "왜곡효과"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20150531",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 79,
+    "question": "다음 중 은선 또는 은면 제거 알고리즘으로 거리가 먼 것 은?",
+    "choices": {
+      "1": "Painter 알고리즘",
+      "2": "백색잡음",
+      "3": "마스크잡음",
+      "4": "고음잡음"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "다음은 무엇에 대한 설명인가?",
+    "choices": {
+      "1": "응용계층 ❷ 표현계층",
+      "3": "전달계층",
+      "4": "네트워크계층",
+      "2": "MD5(Message Digest 5 Algorithm)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 8,
+    "question": "데이터의 무결성을 검증하는 보안 알고리즘은?",
+    "choices": {
+      "2": "Mobile UX/UI",
+      "3": "SHED",
+      "4": "AES 9. #과 특정단어를 붙여 쓴 것으로서 트위터, 페이스북 등 소셜 미디어에서 특정 핵심어를 편리하게 검색할 수 있도록 하는 메타데이터의 형태는?",
+      "1": "OLAP"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 10,
+    "question": "윈도우 XP에서 지원하지 않는 파일시스템은?",
+    "choices": {
+      "1": "FAT",
+      "2": "RFID",
+      "4": "xHTML",
+      "3": "VRML"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20150816",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 19,
+    "question": "블루레이(Blu-ray)에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "Targa Attack",
+      "3": "Smurf Attack ❹ Land Attack",
+      "4": "오디오는 5.1채널의 AC-3를 지원한다. 20. 패킷을 전송할 때 소스 IP주소와 목적지 주소 값을 똑같이 만들어서 공격 대상에게 보내는 서비스 거부 공격은?",
+      "2": "Trinoo Attack"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20150816",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 23,
+    "question": "병치혼합에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "아르누보 ❷ 아르데코",
+      "2": "인상파 화가의 점묘화나 직물에서 볼 수 있다. ❸ 명도, 채도가 높아져 보인다.",
+      "4": "옵아트",
+      "3": "구성주의"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20150816",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 36,
+    "question": "푸르킨예 현상에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "까마이외 배색 ❷ 톤온톤 배색",
+      "3": "톤인톤 배색",
+      "4": "포 까마이외 배색",
+      "2": "GREEN ❸ YELLOW"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20150816",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 47,
+    "question": "html5의 특징으로 거리가 먼 것은?",
+    "choices": {
+      "1": "시맨틱 마크업을 표현할 수 있다.",
+      "2": "Int",
+      "4": "String",
+      "3": "xFloat"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20150816",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 55,
+    "question": "Action Script3.0에서 아래 코드에 대한 설명으로 맞는 것 은?",
+    "choices": {
+      "1": "OWL ❷ REST",
+      "2": "비트맵 이미지의 폭(width) : 160픽셀 ❸ 비트맵 이미지의 투명도(transparent) : false",
+      "4": "PAN",
+      "3": "GIS"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 61,
+    "question": "색온도(Color Temperature)에 대한 설명으로 거리가 먼 것 은?",
+    "choices": {
+      "1": "표시단위로 K(Kelvin)를 사용한다,",
+      "2": "Indeo",
+      "4": "Clear Video",
+      "3": "TrueMotion"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 64,
+    "question": "비네 팅(Vignetting) 현상에 대한 설명으로 옳은 것은? ❶ 렌즈 주변부의 광량 저하로 촬영된 사진의 외곽이나 모 서리가 어둡게 나오는 현상",
+    "choices": {
+      "2": "화이트밸런스가 제대로 맞지 않아 화면이 하얗게 번지는 현상",
+      "3": "도플러 효과",
+      "4": "비트 효과",
+      "1": "마스킹 효과 ❷ 하스 효과"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 71,
+    "question": "다음 중 1889년 토머스 에디슨이 창안한 영사기는?",
+    "choices": {
+      "2": "뮤토스코프",
+      "3": "고러드 세이딩",
+      "4": "플랫 세이딩",
+      "1": "레이 트레이싱 ❷ 퐁 세이딩"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20150816",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 78,
+    "question": "다음 중 손실 부호화 압축방법으로 거리가 먼 것은?",
+    "choices": {
+      "1": "20dB",
+      "2": "40dB ❸ 60dB",
+      "3": "SPL",
+      "4": "80dB"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "리눅스의 커널에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "DVD ❷ M-DISC",
+      "2": "시그널 ❸ 인터럽트",
+      "4": "Magnetic tape",
+      "3": "Blu-ray Disk"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 11,
+    "question": "IEEE에서 제정한 802 표준안 프로토콜에 대한 설명으로 거 리가 먼 것은? ❶ 802.5 : 요구 우선순위기반 애니 LAN",
+    "choices": {
+      "2": "255.255.255.192",
+      "3": "255.255.255.240",
+      "4": "255.255.255.224",
+      "1": "수직 시차"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20160306",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 16,
+    "question": "운영체제에서 매개변수를 전달하는 일반적인 방법으로 거리 가 먼 것은?",
+    "choices": {
+      "1": "부트파일 바이러스",
+      "3": "윤곽선 추출",
+      "4": "백도어",
+      "2": "디도스 ❸ 스니핑"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 26,
+    "question": "오스트발트 색채조화론에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "회전 혼색법을 사용하여 두 개 이상의 색을 배열 하였을 때 그 결과가 명도5(N5)인 것이 가장 조화되고 안정적이 다.",
+      "2": "방법: 재료와 도구를 타당성 있게 사용하는 것",
+      "4": "용도: 기능과 실용성을 바탕으로 하며 목적에 부합되는 것",
+      "3": "필요성: 경제적, 심리적, 정신적, 기술적, 지적 요구에 의 해 전개되는 것."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 29,
+    "question": "다음 ( )에 들어갈 내용은?",
+    "choices": {
+      "2": "ISCC-NBS법",
+      "3": "색상현상",
+      "4": "베졸트 브뤼케 현상",
+      "1": "색음현상 ❷ 리프만 효과"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 32,
+    "question": "보색에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "스티븐스 효과 ❷ 베너리 효과",
+      "3": "애브니 효과",
+      "4": "에렌슈타인 효과",
+      "2": "Smooth Shading"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 38,
+    "question": "미술 공예운동에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "기계생산의 질을 향상시키려는 정책을 세웠다. ❷ 수공업이 가지고 있는 아름다움을 회복시키려고 중세적 직인제도의 원리에 따른 공예개혁을 시도 하였다.",
+      "3": "HSV",
+      "4": "CMYK",
+      "2": "CBUI"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20160306",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 40,
+    "question": "입체디자인의 상관요소가 아닌 것은?",
+    "choices": {
+      "1": "위치",
+      "2": "Window 객체",
+      "3": "History 객체",
+      "4": "Location 객체"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20160306",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 47,
+    "question": "Rumbaugh 의 객체지향분석 모형으로 거리가 먼 것은?",
+    "choices": {
+      "2": "상속성 ❸ 메소드",
+      "3": "디비전 ❹ 프로젝션 49. 객체지향 개념에서 객체가 메시지를 받아 실행해야 할 객체 의 구체적인 연산을 정의한 것은?",
+      "4": "캡슐화",
+      "1": "추상화"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20160306",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 53,
+    "question": "자바스크립트 코드에서 변수 fposition의 결과 값은?",
+    "choices": {
+      "1": "deleteRow( )",
+      "2": "sort( ) ❸ concat( )",
+      "3": "２ ❹ ３ 54. 자바스크립트(JavaScript)에서 두 개의 배열을 하나의 배열 로 만들 때 사용되는 메소드(Method)는?",
+      "4": "slice( )"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20160306",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 65,
+    "question": "음의 마스킹 효과와 관계없는 것은?",
+    "choices": {
+      "1": "부호화",
+      "2": "복조화 ❸ 양자화",
+      "3": "모프(Morph)",
+      "4": "평활화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20160306",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 74,
+    "question": "광원에서 1m 떨어진 곳의 조도가 100 럭스[lux] 일 때 10m 떨어진 곳의 조도[lux]는?",
+    "choices": {
+      "2": "반사",
+      "3": "회절 ❹ 간섭",
+      "4": "50 75. 두 개 이상의 음파가 겹쳐져 더해질 때, 파동의 합성에 의 해 동위상으로 겹쳐지면 진폭이 증가하고 역위상으로 겹쳐 지면 진폭이 감소하는 것은?",
+      "1": "굴절"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20160306",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 77,
+    "question": "라우드니스 레벨에서 1sone은?",
+    "choices": {
+      "1": "10 phon",
+      "2": "Binaural",
+      "3": "Stereophonic",
+      "4": "Diotic"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 1,
+    "question": "비밀키 암호화 기법으로 거리가 먼 것은?",
+    "choices": {
+      "1": "MICS",
+      "2": "MTBF",
+      "3": "HTTP ❹ MQTT",
+      "4": "IP 3. 사물통신, 사물인터넷과 같이 대역폭이 제한된 통신 환경에 최적화하여 개발된 푸시 기술 기간의 경량 메시지 전송 프 로토콜은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "음성을 7비트에서 8비트로 양자화로 부호화 했을 때의 설명 으로 틀린 것은? ❶ 표본화 잡음이 반으로 감소된다.",
+    "choices": {
+      "2": "Smart Grid Web ❸ Semantic Web",
+      "3": "직관적인 사용자 인터페이스 증강 ❹ 깊이 인지 6. 컴퓨터가 사람을 대신하여 정보를 읽고 이해하고 가공하여 새로운 정보를 만들어 낼 수 있도록 이해하기 쉬운 의미를 가진 차세대 지능형 웹은?",
+      "4": "Topic Web",
+      "1": "N Screen"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 7,
+    "question": "유니코드에 대한 설명으로 틀린 것은? ❶ 64비트의 구조에 초점을 맞춘 코드이다.",
+    "choices": {
+      "2": "푸시",
+      "3": "쿠키",
+      "4": "다중화 10. 일반적인 서버에서 클라우드 컴퓨팅 서비스를 생성하고 실 행할 수 있도록 2010년 Rackspace사와 미국 항공우주국",
+      "1": "203.10.24.33"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20160508",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 13,
+    "question": "다음 중 주변 장치나 CPU가 자신에게 발생한 사건을 리눅 스커널에게 알리는 통신 방법은?",
+    "choices": {
+      "2": "가변적인 입력 길이와는 달리 출력은 고정적이다.",
+      "3": "입력 값을 통해 결과 값을 얻는 것은 쉽지만 반대의 경 우는 매우 어렵다. ❹ 입력 값에 따라 동일한 출력 값을 가질 수 있다.",
+      "4": "FLAG 15. 전자우편의 메시지 무결성을 위해 사용되는 해쉬 함수에 대한 설명으로 거리가 먼 것은?",
+      "1": "다양한 가변 길이의 입력에 적용 가능해야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20160508",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 27,
+    "question": "픽토그램(Pictogram) 디자인에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "색상대비 ❷ 채도대비",
+      "2": "Index 방식",
+      "4": "계시대비",
+      "3": "명도대비"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20160508",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 30,
+    "question": "로고타입(Logotype)의 기능이 아닌 것은?",
+    "choices": {
+      "1": "도형에서 서로 대응하는 각 부분에 서로 점이나 직선 또는 면을 개입시켜 서로 같은 거리에 배치된 상태를 말한다.",
+      "2": "톤 인 톤(Tone in Tone) 배색",
+      "3": "리피티션(Repetition) 배색",
+      "4": "세퍼레이션(Separation) 배색"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20160508",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 44,
+    "question": "AJAX에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "＜i＞ ❷ ＜mark＞",
+      "2": "JSON 형태의 데이터를 사용하여 통신한다.",
+      "3": "＜keygen＞",
+      "4": "＜small＞"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20160508",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 59,
+    "question": "객체지향 개념 중 정보은닉에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "객체 모델링 ❷ 절차 모델링",
+      "2": "객체의 내부 표현이 다른 객체에 영향을 주지 않으면서 바뀔 수 있도록 해 준다.",
+      "3": "동적 모델링",
+      "4": "기능 모델링"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 63,
+    "question": "위압감이나 우위의 심리적 표현에 매우 좋은 앵글은?",
+    "choices": {
+      "1": "Phon",
+      "2": "Sound Speed",
+      "4": "경사앵글 64. 시간에 따른 음의 진폭 변화과정(Attack, Decay, Sustain, Release)을 나타내는 것은?",
+      "3": "Wave Length ❹ Envelop"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 66,
+    "question": "솔리드 모델링의 기본요소 중 3차원 프리미티브에 해당되 지 않는 것은?",
+    "choices": {
+      "1": "이퀼라이저 ❷ 노이즈 게이트",
+      "2": "회절현상",
+      "3": "압신기",
+      "4": "이펙터"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 72,
+    "question": "디지털 영상에서 발생하는 Jag에 대한 설명으로 옳은 것 은? ❶ 계단형 화질 왜곡 현상",
+    "choices": {
+      "2": "달리(Dolly) ❸ 디졸브(Dissolve)",
+      "3": "부호화 잡음 ❹ 엘리어싱 에러 74. 하나의 화면이 서서히 사라지면서 다른 화면이 나타나는 화면전환 기법은?",
+      "4": "와이프(Wipe)",
+      "1": "컷(Cut)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20160508",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 78,
+    "question": "캠코더 자체가 전, 후진하면서 피사체를 촬영하는 방법은?",
+    "choices": {
+      "1": "Vertex",
+      "3": "Isoparm ❹ Matrix",
+      "4": "클로즈업 80. 3D 모델링 방식에서 넙스(NURBS)의 기본 구성요소로 거 리가 가장 먼 것은?",
+      "2": "Curve"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20170305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 7,
+    "question": "IP 주소 241.1.2.3에 대한 설명으로 맞는 것은?",
+    "choices": {
+      "1": "netid는 241이다. ❷ 클래스(class)는 E이다.",
+      "3": "DVB-T",
+      "4": "IBOC",
+      "2": "ATSC"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20170305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 12,
+    "question": "다음을 무엇에 대한 설명인가?",
+    "choices": {
+      "1": "Late",
+      "3": "DTS ❹ APTX 14. 운영체제에서 한 프로세스가 자원을 점유한 상태에서 세마 포어 변수를 변경한 후 비정상적인 상태로 종료 되었을 때 일어날 수 있는 상황은?",
+      "4": "Restore",
+      "2": "Mapping ❸ Deadlock"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20170305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 19,
+    "question": "웨이블릿 변환에 기초한 래스터 이미지 압축 기술은?",
+    "choices": {
+      "1": "H.263",
+      "2": "앨리어싱",
+      "3": "평준화",
+      "4": "필터화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20170305",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 22,
+    "question": "컴퓨터 그래픽스에 대한 설명으로 거리가 가장 먼 것은?",
+    "choices": {
+      "1": "폐쇄성의 원리 ❷ 연속성의 원리",
+      "2": "제작물은 디자이너의 능력, 감각 등을 통해 무한한 이미 지 창출은 물론 영구적인 보존이 가능하다. ❸ 제작 시 세밀한 부분이나 작은 시간의 차이도 표현할 수 있지만 수정이 어렵고 비용이나 시간이 많이 든다.",
+      "4": "근접성의 원리",
+      "3": "유사성의 원리"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20170305",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 28,
+    "question": "웹 디자인 시 고려하여야 할 사항들에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "웹 페이지에 가능한 많은 정보를 제공한다.",
+      "2": "사각형",
+      "4": "원형",
+      "3": "삼각형"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20170305",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 38,
+    "question": "출판물의 전체적인 흐름을 알 수 있도록 내용 요소, 조형적 요소들을 배치하고 구성하는 작업을 지칭하는 용어는?",
+    "choices": {
+      "1": "포맷(Format)",
+      "2": "설리번",
+      "4": "에밀 갈레",
+      "3": "브뤼셀"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 43,
+    "question": "AJAX에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "프로시저",
+      "2": "모듈 ❸ 트랜잭션",
+      "3": "페이지의 필요한 부분을 부분적으로 갱신하는 기술 이 다. ❹ HTTP 서버와 통신할 때마다 페이지 전체를 리후레시 (Refresh) 해야 한다. 44. 데이터베이스의 상태를 변환시키기 위해 논리적 기능을 수 행하는 하나의 작업 단위는?",
+      "4": "도메인"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 49,
+    "question": "다음 SQL 명령으로 옳은 것은? ❶ CREATE INDEX B ON A( x , y DESC) ;",
+    "choices": {
+      "2": "CREATE INDEX B ON A( x , y ) ;",
+      "3": "XLink",
+      "4": "XQuery",
+      "1": "XLS ❷ XPath"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 52,
+    "question": "객체지향 패러다임의 구성요소가 아닌 것은?",
+    "choices": {
+      "1": "Flow",
+      "2": "Embeded",
+      "4": "메소드 53. HTML5의 콘텐츠 타입 중 문서의 표현이나 성격을 규정하는 요소로 보통 Head 영역에 위치하는 것은?",
+      "3": "Phrasing ❹ Metadata"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 55,
+    "question": "class는 객체지향 프로그램에서 어떤 특징에 해당되는가?",
+    "choices": {
+      "1": "구조화",
+      "2": "XLS",
+      "4": "SYSTEM",
+      "3": "STD"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20170305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 60,
+    "question": "DOM에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "키 프레임",
+      "2": "스퀴시와 밴드 ❸ 모션캡쳐",
+      "3": "XML문서를 트리구조로 해석하고 노드를 조작하여 XML 문서를 처리할 수 있도록 한다. ❹ 특정 응용 프로그램에 종속되어 인터넷 상의 자원을 찾 는 방식에 활용된다. 61. 3차원으로 구성된 캐릭터에 움직임을 부여하는 애니메이션 기법으로 인간의 몸에 센서를 부착하거나 적외선 등을 이용 하여 인간의 움직임을 디지털로 기록하여 캐릭터의 움직임 과 연동시키는 기법은?",
+      "4": "로토스코핑"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20170305",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 69,
+    "question": "3D 오브젝트를 변형하기 위한 단위가 아닌 것은?",
+    "choices": {
+      "1": "Vertex",
+      "2": "dBm/w",
+      "3": "%",
+      "4": "W"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20170305",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 75,
+    "question": "다음 중 디지털 영상 편집 목적으로 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "MPEG Audio Layer - 1",
+      "2": "MPEG Audio Layer - 2 ❸ MPEG Audio Layer - 3",
+      "3": "편광",
+      "4": "MPEG Audio Layer - 4"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "서비스거부공격(Denial of Service)과 관련이 가장 적은 것 은?",
+    "choices": {
+      "1": "회절효과",
+      "2": "왜곡효과 ❸ 근접효과",
+      "3": "브레드크럼즈 ❹ 증강 가상 4. 지향성 마이크를 음원가까이에 배치하면 마이크의 낮은 음역 주파수 특성이 상승하는 효과는?",
+      "4": "반사효과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 5,
+    "question": "IPv6에 대한 설명으로 거리가 가장 먼 것은?",
+    "choices": {
+      "1": "Baas ❷ MQTT",
+      "2": "새로운 기술이나 응용 분야에 의해 요구되는 프로토콜의 확장을 허용하도록 설계되었다.",
+      "3": "N-SCREEN",
+      "4": "Geo-fence"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 9,
+    "question": "UNIX 시스템의 구성요소가 아닌 것은?",
+    "choices": {
+      "1": "Shell",
+      "2": "ls",
+      "4": "emac",
+      "3": "qs"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 12,
+    "question": "컴퓨터 그래픽스 용어 중 캘리브레이션(Calibration)의 의미 로 올바른 것은?",
+    "choices": {
+      "1": "우연적인 기법과 순수 미술의 느낌을 내는 작업을 뜻한 다.",
+      "2": "MPEG-2 CD",
+      "4": "MPEG-1",
+      "3": "MPEG-9"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20170507",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "흑백 및 컬러 정지화상을 위한 국제 표준안으로 이미지의 압축 및 복원 방식에 관한 표준안은?",
+    "choices": {
+      "2": "TDMA",
+      "3": "FDDI ❹ CDMA",
+      "4": "TIFF 15. 군용 통신에 이용 되었던 대역 확산(Spread Spectrum) 방 식을 이동 통신에 이용한 방식으로 세계 최초로 디지털 셀 룰러 전화에 채택하여 상용화된 기술은?",
+      "1": "FDMA"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20170507",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 26,
+    "question": "비트맵 이미지의 설명으로 거리가 가장 먼 것은?",
+    "choices": {
+      "1": "여러 개의 점(Pixel)으로 표시하는 방식이다.",
+      "2": "심미성",
+      "3": "합목적성",
+      "4": "경제성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20170507",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 38,
+    "question": "상호작용(Interaction)에 관한 내용 중 옳지 않은 것은?",
+    "choices": {
+      "1": "상호작용의 정도가 클수록 프로그래밍의 역할이 중요해 진다. ❷ 상호작용의 인터페이스에는 주로 이미지, 텍스트 등을 사용한다.",
+      "3": "사진",
+      "4": "오브제",
+      "2": "일러스트레이션"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20170507",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 41,
+    "question": "XML의 문서형식 정의(DTD)에서 사용하는 세 가지 주요 구 성요소가 아닌 것은?",
+    "choices": {
+      "1": "Element ❷ Comment",
+      "3": "parseInt",
+      "4": "parseFloat",
+      "2": "Number"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20170507",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 45,
+    "question": "HTML5의 태그에 대한 설명으로 틀린 것은? ❶ ＜article＞ : 제목과 부제목 표시",
+    "choices": {
+      "2": "instance of",
+      "3": "typeof ❹ new",
+      "4": "Dynamic Modeling 47. 자바스크립트의 생성자 함수를 이용하여 객체를 생성할 때 사용하는 예약어는?",
+      "1": "function"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20170507",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 58,
+    "question": "XQuery(XML Query Language)에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "Sum과 Count같은 집계함수 제공",
+      "2": "strokeText( )",
+      "4": "lineTo( )",
+      "3": "moveTo( )"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 64,
+    "question": "그래픽 태블릿(Graphic Tablet)의 설명 중 맞는 것은?",
+    "choices": {
+      "1": "매핑",
+      "2": "은면의 제거 ❸ 쉐이딩",
+      "3": "섬세한 그림제작에 불편한 점이 있다. ❹ 평판 태블릿, 마우스와 스타일러스로 구성된다. 65. 렌더링 과정 중에서 물체의 입체감을 나타내기 위하여 물체 의 표면에 색상과 명암을 표현하는 과정을 무엇이라 하는 가?",
+      "4": "레이트레이싱"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 66,
+    "question": "음의 성질을 표시하는 음의 3요소가 아닌 것은?",
+    "choices": {
+      "2": "명세화(Specification)",
+      "3": "자기 방식에 비해 더 오랜 캡쳐 셋업 시간이 필요하다.",
+      "4": "적외선 마커를 액터의 관절에 부탁 촬영한 후 공간상의 위치를 파악한다.",
+      "1": "자기 방식에 비해 모션캡쳐 시 넓은 캡쳐 공간을 필요로 한다. ❷ 철 등의 물체에 영향을 받아 신호가 왜곡될 수 있어 실 험실 환경에 주의를 기울여야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 72,
+    "question": "넌 리니어(Non-Linear) 편집에 대한 설명으로 맞는 것은?",
+    "choices": {
+      "1": "순차적인 편집 방식이다.",
+      "2": "광전효과",
+      "3": "소리의 공명현상",
+      "4": "맥놀이 현상"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20170507",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 80,
+    "question": "다음 컬러모델 중 빛의 삼원색을 이용하여 색을 표현하며 TV나 컴퓨터모니터 등에서 많이 사용되는 것은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 6,
+    "question": "영상압축의 표준화 방식은?",
+    "choices": {
+      "1": "JPEG1000·",
+      "3": "H.264 ❹ JPEG2000",
+      "4": "HTTP 8. JPEG의 압축효율 개선과 블록화 문제를 해결하고 웨이블릿 변환 및 적응적 산술코딩을 적용한 정지영상 압축 표준은?",
+      "2": "MPEG"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 12,
+    "question": "운영체제에서 커널의 역할이 아닌 것은?",
+    "choices": {
+      "1": "응용프로그램 구동 환경 제공",
+      "2": "RSA",
+      "4": "DES",
+      "3": "SSL"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "블루레이(Blue－ray)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "DVD보다 많은 용량의 데이터를 저장",
+      "2": "FTP",
+      "3": "SEA",
+      "4": "RS530"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20170826",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 18,
+    "question": "모바일 TV 미디어와 관련이 없는 것은?",
+    "choices": {
+      "2": "디도스 ❸ 파밍",
+      "3": "선형 예측 부호화",
+      "4": "포만트 보코더",
+      "1": "보코더 ❷ DPCM"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20170826",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 42,
+    "question": "객체지향 시스템의 특성이 아닌 것은?",
+    "choices": {
+      "1": "캡슐화",
+      "2": "Alert()",
+      "3": "Confirm()",
+      "4": "Number()"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20170826",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 56,
+    "question": "자바스크립트에서 연산자 우선순위가 낮은 것은?",
+    "choices": {
+      "2": "message",
+      "3": "open",
+      "4": "close",
+      "1": "stringNumber()"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 66,
+    "question": "소리가 낮보다 밤에 멀리까지 더 잘 들리는 현상은?",
+    "choices": {
+      "1": "Flat Shading",
+      "3": "Metal Shading ❹ Gouraud Shading",
+      "4": "반사 67. 하나의 면과 인접한 면에 색퍼짐 효과를 사용하여 두 면 사 이를 부드럽게 표현한 음영처리 방법은?",
+      "2": "Phong Shading"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 69,
+    "question": "Post Production의 제작 과정이 아닌 것은?",
+    "choices": {
+      "2": "로토스코핑(Rotoscoping)",
+      "3": "절차적 방법(Procedural Method) ❹ 입자 시스템(Particle System)",
+      "4": "가변길이 부호화(Variable Length Coding) 73. 비, 불, 연기, 폭발 등의 자연 현상들을 시뮬레이션 하기에 좋은 컴퓨터 애니메이션 특수 효과는?",
+      "1": "모핑(Morphing)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 74,
+    "question": "사운드의 기본 요소가 아닌 것은?",
+    "choices": {
+      "2": "Red",
+      "3": "Green ❹ White",
+      "4": "크레인(Crane) 샷 76. 빛의 3원색(R, G, B)을 같은 양으로 합치면 만들어지는 색 은?",
+      "1": "Black·"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20170826",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 79,
+    "question": "컴퓨터그래픽스(Computer Graphics)에 대해 설명한 내용 중 틀린 것은?",
+    "choices": {
+      "1": "",
+      "3": "",
+      "4": "",
+      "2": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 1,
+    "question": "USB 저장장치에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "RFID",
+      "2": "Wi-Fi",
+      "4": "압축모드 3. 근거리 무선통신 규격(IEEE 802.15.4)을 기반으로 블루투스 의 저속버전이라고도 불리며, 대규모 센서 네트워크를 구성할 수 있는 무선 통신 기술은?",
+      "3": "WLAN ❹ ZigBee"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20180304",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "디지털 네트워크상에서 멀티미디어에 관련된 종합적인 프레 임 워크를 제공하는 기술은?",
+    "choices": {
+      "1": "개인이 개발한 보안기술이다. ❷ 전자우편의 수신부인 방지를 지원한다.",
+      "2": "도려내기 효과",
+      "3": "기밀성과 무결성 등을 지원한다.",
+      "4": "RSA와 IDEA 등의 암호화 알고리즘을 사용한다. 10. 사람과 사물, 사물과 사물 간에 지능통신을 할 수 있는 M2M(Machine to Machine) 의 개념을 인터넷으로 확장하여 사물은 물론, 현실과 가상세계의 모든 정보와 상호 작용하 는 개념은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20180304",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 32,
+    "question": "인터넷 비즈니스 모델의 구성요소 중 일부이다. 올바른 설 명이 아닌 것은?",
+    "choices": {
+      "1": "Contents : 웹사이트가 가지고 있는 디지털화 된 정보",
+      "2": "폐쇄성의 원리",
+      "3": "유사성의 원리",
+      "4": "연속성의 원리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20180304",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 36,
+    "question": "다음 중 인터넷/웹 기반 서비스가 아닌 것은?",
+    "choices": {
+      "1": "합목적성",
+      "2": "질서성 ❸ 경제성",
+      "3": "Portal Site ❹ Graphic Tablet 37. 디자인의 조건 중 최소의 재료와 노력에 의해 최대의 효과 를 얻고자 하는 원리는?",
+      "4": "독창성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20180304",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 41,
+    "question": "XQuery에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "프로시저",
+      "3": "다양한 내장함수를 제공한다.",
+      "4": "도메인",
+      "2": "모듈 ❸ 트랜잭션"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20180304",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 53,
+    "question": "자바스크립트 연산자 중 우선순위가 가장 낮은 것은?",
+    "choices": {
+      "1": "카디널리티",
+      "3": "( )",
+      "4": "기본키",
+      "2": "개체 무결성 ❸ 참조 무결성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20180304",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 58,
+    "question": "HTML5에서 사용자의 위치정보를 알려주는 API는?",
+    "choices": {
+      "1": "Publication ❷ Geolocation",
+      "3": "&&",
+      "4": "##",
+      "2": "~"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 63,
+    "question": "다음 NURBS sphere의 다음과 같이 선택된 구성요소 중 UV 선상의 CV의 외곽을 한꺼번에 조절할 수 있는 구성요소 는?",
+    "choices": {
+      "2": "리드 룸(Lead Room) 유지 원칙",
+      "3": "앤티앨리어싱",
+      "4": "절환오차 66. 디지털비디오 촬영기술 중 화면을 구성하는 구도의 원칙이 아닌 것은?",
+      "1": "헤드 룸(Head Room) 유지 원칙"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 67,
+    "question": "다음 중 점토를 사용하는 애니메이션을 무엇이라 하는가?",
+    "choices": {
+      "1": "MPEG-1",
+      "2": "MPEG-2 ❸ MPEG-4",
+      "3": "로토스코핑 ❹ 클레이 애니메이션 68. 대역폭이 적은 통신매체 에서도 전송이 가능하고 양방향 멀 티미디어를 구현할 수 있는 A/V(Audio/Video) 표준 부호화 방식으로, 64kbps급의 초저속 고압축률 실현을 목적으로 하 는 동영상 압축 표준안은?",
+      "4": "MPEG-7"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 72,
+    "question": "3차원 그래픽 생성과정으로 올바른 것은?",
+    "choices": {
+      "1": "레이어 ❷ 트위닝",
+      "2": "렌더링 → 모델링 → 투영 ❸ 모델링 → 투영 → 렌더링",
+      "4": "포지션",
+      "3": "렌더링"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20180304",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 76,
+    "question": "다음 중 가상현실을 구성하는 요소와 거리가 먼 것은?",
+    "choices": {
+      "1": "몰입감 ❷ 정체감",
+      "3": "모션 트래킹(Motion Tracking)",
+      "4": "모션 트위닝(Motion Tweening)",
+      "2": "모션 매스(Motion Math)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20180428",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 8,
+    "question": "리눅스에서 프로세스를 복제하는 기능의 함수는?",
+    "choices": {
+      "1": "AaaS",
+      "3": "Exec",
+      "4": "Splogger",
+      "2": "Grid ❸ Metaverse"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20180428",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 13,
+    "question": "TCP/IP 계층에서 사용되는 프로토콜 중 응용계층에 해당 하는 프로토콜이 아닌 것은?",
+    "choices": {
+      "1": "HTTP",
+      "2": "CCL",
+      "3": "SGML",
+      "4": "XML"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20180428",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 17,
+    "question": "IoT(Internet of Things)의 표준화와 가장 거리가 먼 것은? ❶ Agile Process Model",
+    "choices": {
+      "2": "Semaphore",
+      "3": "청감곡선",
+      "4": "마스킹 현상",
+      "1": "양의효과 ❷ 근접효과"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20180428",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 28,
+    "question": "멀티미디어 디자인에서 웹 페이지의 시각적 요소들에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "레터링",
+      "3": "그라데이션 ❹ 앤티앨리어싱",
+      "4": "전문가시스템 30. 물체의 경계면의 픽셀을 물체의 색상과 배경의 색상을 혼 합해서 표현함으로써 물체의 경계면을 부드럽게 보이게 하 는 방법을 무엇이라 하는가?",
+      "2": "디더링"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20180428",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 39,
+    "question": "다음 중 특정 대상인 기업, 회사, 단체, 제품 행사 등을 특 징 있게 나타낼 수 있는 시각적인 상징물을 무엇이라고 하 는가?",
+    "choices": {
+      "1": "반사영역",
+      "3": "캐리커처(Caricature)",
+      "4": "단색영역",
+      "2": "감성영역 ❸ 가시광선영역"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20180428",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 56,
+    "question": "HTML에서 FRAME 태그 속성에 대한 설명으로 틀린 것은? ❶ “cols”는 Frame의 색상을 지정할 때 사용한다.",
+    "choices": {
+      "2": "dbclick( ) ❸ hover( )",
+      "3": "“target”은 Frame에 붙일 이름의 파일을 표시한다.",
+      "4": "focus( )",
+      "1": "reset( )"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20180428",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 58,
+    "question": "객체지향분석과 설계를 위한 통합 모델링 언어인 UML에서 사실상 객체지향방법론의 중심이며, 시스템 내 객체타입과 그들 사이에 존재하는 여러 가지 정적인 관계를 설명하는 다이어그램은?",
+    "choices": {
+      "2": "parseInt( ) ❸ isNaN( )",
+      "3": "객체 다이어그램",
+      "4": "escape( )",
+      "1": "eval( )"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20180428",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 60,
+    "question": "HTML5의 특징으로 거리가 먼 것은?",
+    "choices": {
+      "1": "명암의 순응도 특성",
+      "2": "색순응도 특성",
+      "4": "웹 어플리케이션 개발을 위한 풍부한 API를 제공한다. 61. 색의 파장이 다른 여러 단색광이 모두 같은 에너지를 가진 다고 해도 눈은 그것을 같은 밝기로 느끼지 않는다. 이런 특성을 무엇이라 하는가?",
+      "3": "시감도 특성 ❹ 비시감도 특성 62. 원하는 소리의 음색을 위해 주파수 특성을 조정하는 시그 날 프로세서는?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 65,
+    "question": "래스터(Raster) 방식 이미지에 대한 설명으로 옳지 않은 것은? ❶ 점, 곡선과 같은 기하학적인 객체로 표현된다.",
+    "choices": {
+      "2": "셀 애니메이션(Cell Animation)",
+      "3": "스프라이트 애니메이션(Sprite-Based Animation) ❹ 트위닝(Tweening)",
+      "4": "픽셀 단위로 정보가 저장된다. 66. 애니메이션을 제작하는데 있어서 애니메이터는 장면이 변 화하는 키 프레임(Key Frame)만을 제작하고, 중간에 속해 있는 프레임들은 컴퓨터가 자동으로 생성하는 기능은?",
+      "1": "플립북 애니메이션(Flip Book Animation)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 67,
+    "question": "초당 사운드 파형의 반복 횟수를 의미하며, 소리의 높고 낮음을 결정하는 것은?",
+    "choices": {
+      "1": "모아레(Moire)",
+      "2": "디포메이션(Deformation) ❸ 플레어(Flare)",
+      "3": "필터(Filter) ❹ 트랜지션(Transition) 69. 렌즈를 통해 들어온 강한 빛이 카메라 내부에서 난반사를 일으켜 화상에 연속적인 조리개 무늬나 광원 모양의 허상 이 맺히는 현상은?",
+      "4": "일루젼(Illusion)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 73,
+    "question": "색의 3요소에서 색이 갖고 있는 밝기를 나타내는 것은?",
+    "choices": {
+      "1": "Tone",
+      "2": "핑크잡음",
+      "4": "백색잡음",
+      "3": "왜곡(디스토션) 잡음"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20180428",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 76,
+    "question": "MPEG-2의 압축방법으로 거리가 가장 먼 것은?",
+    "choices": {
+      "1": "AU ❷ MOD",
+      "2": "슈퍼그래픽(Super Graphic)",
+      "3": "컴퓨터그래픽(Computer Graphic)",
+      "4": "일러스트레이션(Illustration)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20180819",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "양자화를 가장 잘 표현한 것은? ❶ 표본화 된 PAM 신호를 진폭영역에서 이산적인 값으로 변 환",
+    "choices": {
+      "2": "신호가 전송로를 점유하는 시간 분할",
+      "3": "PMOLED",
+      "4": "CRT",
+      "1": "LCD ❷ AMOLED"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20180819",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 6,
+    "question": "TFTP(Trivial File Transfer Protocol) 에 대한 설명으로 틀린 것은? ❶ TCP를 사용하는 연결형 파일 전송 프로토콜이다.",
+    "choices": {
+      "2": "디더링",
+      "3": "지터 에러",
+      "4": "양자화 오차 10. 미리 설계된 시간이나 임의환경 조건이 충족되면 스스로 모 양을 변경 또는 제조하여 새로운 형태로 바뀌는 제품을 3D 프린팅 하는 기술은?",
+      "1": "GSM"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20180819",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "반이중(Half-Duplex) 통신방식에 대한 설명으로 옳은 것은? ❶ 송신과 수신을 양쪽에서 할 수 있으나 동시에는 할 수 없다.",
+    "choices": {
+      "2": "데이터 전송로에서 한 쪽 방향으로만 데이터가 흐르도록 하는 통신방식이다.",
+      "3": "멀티캐스트 주소",
+      "4": "애니캐스트 주소",
+      "1": "유니캐스트 주소 ❷ 라우팅 주소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20180819",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 16,
+    "question": "PEM(Privacy Enhanced Mail) 에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "MPEG-2",
+      "3": "높은 보안성을 지원",
+      "4": "MPEG-Z",
+      "2": "MPEG-7 ❸ MPEG-21"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 21,
+    "question": "시각디자인(Visual Design) 과 가장 관계가 깊은 것은?",
+    "choices": {
+      "1": "에브니 효과 ❷ 페히너 효과",
+      "2": "애니메이션 사용 ❸ 일관성 유지를 위해 동일한 크기의 폰트 사용",
+      "3": "맥컬로 효과",
+      "4": "보색잔상 효과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 28,
+    "question": "출력장치에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "정보를 외부로 출력하는 것을 말한다. ❷ 대표적으로는 프린터, 플로터, 스캐너 등이 있다.",
+      "3": "가상현실",
+      "4": "디지털 스토리텔링",
+      "2": "플로우차트"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 33,
+    "question": "게슈탈트의 법칙에 해당하지 않는 것은?",
+    "choices": {
+      "1": "유사성의 법칙",
+      "2": "성숙기",
+      "4": "도입기",
+      "3": "경쟁기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 37,
+    "question": "편집디자인의 요소와 거리가 먼 것은?",
+    "choices": {
+      "2": "타이포그래피",
+      "3": "동화",
+      "4": "명시도",
+      "1": "주목성 ❷ 잔상"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20180819",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 39,
+    "question": "TV광고 중 프로그램 중간에 삽입되는 광고는?",
+    "choices": {
+      "1": "러프 모델 ❷ 프로토타입 모델",
+      "2": "#D1FF00",
+      "3": "#000000",
+      "4": "#FFFF00"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20180819",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 46,
+    "question": "HTML5의 선이나 도형에서 사용하는 그림자 속성에 대한 설 명으로 틀린 것은?",
+    "choices": {
+      "1": "태그 이름이 poi인 태그에 빨간 색상의 Italic 체로 스타 일 시트를 지정한다.",
+      "3": "shadowOffsetX : 양수, 음수 값에 따라 각각 그림자가 오른쪽, 왼쪽으로 움직인다.",
+      "4": "STYLE 속성이 지정된 태그에 빨간 배경 색상의 Italic 체 로 스타일 시트를 지정한다.",
+      "2": "ID 속성의 값이 poi 인 태그에 빨간 배경 색상의 Italic 체로 스타일 시트를 지정한다. ❸ CLASS 속성의 값이 poi 인 태그에 빨간 색상의 Italic 체로 스타일 시트를 지정한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "date": "20180819",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 53,
+    "question": "뷰(VIEW) 에 관한 설명으로 옳지 않은 것은? ❶ 하나의 뷰를 제거하면 그 뷰를 기초로 정의된 다른 뷰는 제거되지 않는다.",
+    "choices": {
+      "2": "SQL에서 뷰를 생성할 때 CREATE 문을 사용한다.",
+      "3": "DOCUMENT",
+      "4": "SCRIPT",
+      "1": "CSS ❷ DOM"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20180819",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 56,
+    "question": "자바스크립트 조건문에서 출력되는 값은?",
+    "choices": {
+      "1": "구조 스키마",
+      "2": "내부 스키마",
+      "3": "매핑 스키마 ❹ 개념 스키마",
+      "4": "Number Data = 10; 58. 데이터베이스에서 모든 데이터 개체, 제약 조건, 접근 권한, 보안 정책, 무결성 규칙 등을 명세한 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 61,
+    "question": "다음 중 가장 작은 해상도를 갖는 화면 규격은?",
+    "choices": {
+      "1": "접사 촬영",
+      "3": "CIF",
+      "4": "콤마 촬영",
+      "2": "적외선 촬영 ❸ 인터벌 촬영"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 64,
+    "question": "알파 채널에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "크로마키 기법을 사용하기 위해 이미지를 두 개의 채널 로 만든 것이다. ❷ 그래픽 상의 한 픽셀의 색이 다른 픽셀의 색과 겹쳐서 나타낼 때, 두 색을 효과적으로 융합하도록 해준다.",
+      "3": "왜곡효과",
+      "4": "반사효과",
+      "2": "회절효과"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 73,
+    "question": "3D 애니메이션의 종류로 볼 수 없는 것은?",
+    "choices": {
+      "1": "로토스코핑 ❷ 모핑",
+      "2": "클레이 애니메이션(Clay Animation)",
+      "3": "모션 캡처",
+      "4": "미립자 시스템"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20180819",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 79,
+    "question": "영상에서 사용되는 한 장면 한 장면을 말하며, 다른 의미로 는 카메라의 시야에 들어오는 모든 범위를 말하기도 하는 영상의 기본 단위는?",
+    "choices": {
+      "1": "",
+      "3": "",
+      "4": "",
+      "2": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 3,
+    "question": "대칭키 암호방식에 근거한 키 분배 알고리즘은?",
+    "choices": {
+      "1": "N Screen",
+      "2": "Smart Grid Web ❸ Semantic Web",
+      "4": "Topic Web",
+      "3": "MOC(Media Operation Core)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 6,
+    "question": "다음 중 인터넷 표준화 단체와는 가장 관계가 먼 것은?",
+    "choices": {
+      "1": "HTTP",
+      "2": "FTP",
+      "4": "Boots 9. TCP/IP 프로토콜 중에서 단대단(Point to Point) 연결, 데이 터 전송 및 흐름제어 등 서비스를 제공하는 프로토콜은?",
+      "3": "IP ❹ TCP"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 12,
+    "question": "정보보호를 위한 암호화에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "AU",
+      "2": "RIFF ❸ AIFF",
+      "3": "키(Key) – 적절한 암호화를 위하여 사용하는 값 ❹ 복호화 – 평문을 암호문으로 바꾸는 작업 13. 애플의 매킨토시에서 사용되는 사운드 포맷으로 사운드 데 이터 자체와 데이터의 기록방식을 함께 포함하고 있어, 일 반적인 웨이브 파일의 기록에 사용되는 파일 포맷은?",
+      "4": "MOD"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20190303",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "다음 중 정보보안의 기본 목표가 아닌 것은?",
+    "choices": {
+      "1": "브레드 크럼즈",
+      "3": "푸리에 현상",
+      "4": "토큰화",
+      "2": "스레드 ❸ 챗봇"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20190303",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 25,
+    "question": "컴퓨터그래픽스에 대한 설명으로 옳지 않은 것은?",
+    "choices": {
+      "1": "여러 수작업의 도구들을 하나의 도구로 통합하였다.",
+      "2": "현실 형태",
+      "3": "구상 형태",
+      "4": "자연 형태"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20190303",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 31,
+    "question": "브레인 스토밍법에 대한 설명으로 가장 적절한 것은?",
+    "choices": {
+      "1": "ROM ❷ RAM",
+      "3": "BIT",
+      "4": "CPU",
+      "2": "채도대비 ❸ 명도대비"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20190303",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 38,
+    "question": "다음 중 타이포그래피의 가독성에 관한 설명으로 가장 적 절치 않은 것은?",
+    "choices": {
+      "1": "에브니 효과 ❷ 페히너 효과",
+      "2": "가독성을 읽기 쉬운 것을 말하며, 가독성이 높도록 디 자인해야 한다. ❸ 글자의 크기는 글꼴에 따라 차이가 있지만, 본문 텍스 트는 영문, 한글 6포인트 이하가 바람직하다.",
+      "4": "보색 잔상 호과",
+      "3": "맥컬로 효과"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20190303",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 41,
+    "question": "다음이 설명하고 있는 객체지향 개념은?",
+    "choices": {
+      "2": "History",
+      "3": "Screen ❹ Window",
+      "4": "속성 42. 자바스크립트의 내장 객체 중 최상위 객체이고 현재 화면 에 출력되는 창에 대한 정보를 제공하는 객체는?",
+      "1": "Location"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20190303",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 47,
+    "question": "유효한 HTML 문서나 XML 문서의 구조, 내용, 스타일을 다루기 위한 플랫품과 언어 중립적인 프로그래밍 인터페 이스는? ❶ DOM(Document Object Model)",
+    "choices": {
+      "2": "σ",
+      "3": "－",
+      "4": "ε",
+      "1": "＜di＞ ❷ ＜xmp＞"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20190303",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 54,
+    "question": "다음 자바스크립트 코드 실행 시 결과 값은?",
+    "choices": {
+      "1": "Cartesian Product",
+      "2": "Attribute ❸ Cardinality",
+      "3": "동적 모델링",
+      "4": "Degree"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 61,
+    "question": "정지 사진이나 한 장의 그림에 해당되는 영상의 시간적 최 소 단위는?",
+    "choices": {
+      "1": "Cut",
+      "2": "Binaural",
+      "4": "Diotic",
+      "3": "Stereophonic"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 63,
+    "question": "마스크 영상에서 해당하는 키 화상(Key Image)을 추출함 과 동시에 배경 영상을 전경 영상으로 합성하는 디지털 영 상 합성 방법은?",
+    "choices": {
+      "1": "I(Intra Coded) Picture ❷ P(Predictive Coded) Picture",
+      "2": "Extrude Surface",
+      "4": "T(Temporal Coded) Picture",
+      "3": "B(Bidirectional Coded) Picture"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 66,
+    "question": "다음 중 3차원의 형상 모델링이 아닌 것은?",
+    "choices": {
+      "1": "시각 ❷ 지각",
+      "2": "와이어 프레임 모델링 ❸ 시스템 모델링",
+      "4": "청각",
+      "3": "인지"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 76,
+    "question": "다음 중 3D 그래픽 편집 도구가 아닌 것은?",
+    "choices": {
+      "2": "Alias",
+      "3": "디스토션",
+      "4": "컴프레스",
+      "1": "에코 ❷ 코러스"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "date": "20190303",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 79,
+    "question": "가상현실(VR : Virtual Reality)의 몰입감을 위한 기계장치 로 볼 수 없는 것은?",
+    "choices": {
+      "2": "",
+      "3": "",
+      "4": "",
+      "1": ""
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 1,
+    "question": "IP 논리주소를 MAC 물리주소로 변환시켜주는 프로토콜은?",
+    "choices": {
+      "1": "Execute Resource",
+      "3": "100㎲",
+      "4": "Input Resource",
+      "2": "Output Resource ❸ Critical Resource"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "RFID 관련 기술에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "와이브로 방식",
+      "3": "RGB 방식",
+      "4": "래스터 방식",
+      "2": "비트맵 방식"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 12,
+    "question": "DoS(Denial of Service) 공격 방법이 아닌 것은?",
+    "choices": {
+      "1": "SSL",
+      "2": "PGP ❸ DRM",
+      "3": "접속 방해 ❹ 패킷 필터링 13. 음악이나 동영상과 같은 디지털 콘텐츠의 저작권을 보호하 기 위한 기술 및 서비스로 옳은 것은?",
+      "4": "IDS"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "단위 시간당 사이클을 반복하는 횟수를 나타내는 단위는?",
+    "choices": {
+      "1": "워너크라이(WannaCry) ❷ 어나니머스(Anonymous)",
+      "2": "Degree",
+      "3": "록키(Locky)",
+      "4": "테슬라크립트(TeslaCrypt)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "date": "20190804",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 16,
+    "question": "TCP/IP 프로토콜에서 네트워크 계층 프로토콜이 아닌 것은?",
+    "choices": {
+      "1": "OLAP",
+      "2": "Mobile UX / UI ❸ Hashtag",
+      "4": "PnP",
+      "3": "192.168.1.192, 192.168.1.255"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 22,
+    "question": "웹 디자인 시 고려하여야 할 사항들에 대한 설명으로 가장 옳은 것은?",
+    "choices": {
+      "1": "전파 효과",
+      "2": "동화 효과",
+      "4": "웹 페이지의 다운로드 속도를 빠르게 하기 위해 메뉴나 이미지 속의 타이포그래피도 웹 브라우저에 디폴트로 지 정된 폰트를 활용하는 것이 좋다. 23. 2색 이상의 색을 보게 될 때 때로는 색들끼리 서로 영향을 주어 인접 색에 가까운 것으로 느껴지는 경우와 관련이 없 는 것은?",
+      "3": "줄눈 효과 ❹ 푸르킨예 효과"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 26,
+    "question": "타이포그래피 광고에서 고려해야 할 상황과 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "조형적인 면을 고려해야 한다.",
+      "2": "픽셀(Pixel)",
+      "3": "벡터(Vector)",
+      "4": "인터레이스(Interlaced)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 29,
+    "question": "컴퓨터 그래픽의 표현방식 중 벡터(Vector) 이미지에 대한 설명으로 옳은 것은? ❶ 기하학적인 객체들을 표현하는 그래픽 함수들로 이미지 를 표현한다.",
+    "choices": {
+      "2": "시나리오 ❸ 내비게이션 디자인",
+      "3": "그림을 픽셀 형태로 저장한다.",
+      "4": "익스플로러",
+      "1": "스토리보드"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 32,
+    "question": "멀티미디어 디자인의 조건으로 적합하지 않은 것은?",
+    "choices": {
+      "1": "크레이즈 맵 ❷ 포지셔닝 맵",
+      "2": "다수의 미디어를 동시에 포함한다.",
+      "3": "버츄얼 맵",
+      "4": "커뮤니케이션 맵"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20190804",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 40,
+    "question": "형태의 시각적 특성인 비례에 대한 설명으로 가장 거리가 먼 것은? ❶ 신의 비례라 불리는 황금 분할의 비율은 1 : 3 이다.",
+    "choices": {
+      "2": "replace( ) ❸ charAt( )",
+      "3": "개념적으로 시각적 질서나 균형을 결정하는데 사용된다.",
+      "4": "search( )",
+      "1": "indexOf( )"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20190804",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 46,
+    "question": "HTML5 시맨틱 태그로 옳지 않은 것은?",
+    "choices": {
+      "2": "＜section＞ 태그",
+      "3": "동적 모델링",
+      "4": "기능 모델링",
+      "1": "객체 모델링 ❷ 절차 모델링"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "date": "20190804",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 51,
+    "question": "다음 두 테이블 R과 S에 대한 SQL 문의 실행 결과로 옳은 것은? ❶ 1 3 1 2",
+    "choices": {
+      "2": "instance of",
+      "3": "typeof ❹ new 53. PointTest 클래스가 갖고 있는 draw 함수를 하위 클래스인 Point1D와 Point2D에서 재정의하여 서로 다른 기능을 수행 하도록 하는 객체지향의 특징은?",
+      "4": "A 2 52. 자바스크립트의 생성자 함수를 이용하여 객체를 생성할 때 사용하는 예약어는?",
+      "1": "function"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "date": "20190804",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 65,
+    "question": "다음 중 이미지의 경계부분을 양각과 음각 효과를 만들어 3 차원적인 입체 효과를 만드는 필터 기능은?",
+    "choices": {
+      "1": "Distort",
+      "2": "커뮤니케이션 서비스",
+      "4": "클라우드 서비스",
+      "3": "증강현실 서비스"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "date": "20190804",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 67,
+    "question": "TV 주사방식의 설명으로 틀린 것은? ❶ 순차주사는 하나의 화면을 기수와 우수로 나누어 전송한 다.",
+    "choices": {
+      "2": "은면의 제거 ❸ 쉐이딩",
+      "3": "CDMA ❹ A – Law 69. 렌더링 과정 중에서 물체의 입체감을 나타내기 위하여 물체 의 표면에 색상과 명암을 표현하는 과정을 무엇이라 하는 가?",
+      "4": "레이트레이싱 70. 매킨토시에서 화상을 비트맵 이미지와 포스트스크립트",
+      "1": "메시와 폴리"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20190804",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 74,
+    "question": "다음 중 소리의 기본 요소에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "키 프레임",
+      "3": "마스킹 효과",
+      "4": "로토스코핑",
+      "2": "스쿼시와 밴드 ❸ 모션 캡쳐"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20190804",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 80,
+    "question": "GIF 형식의 파일에서 사용 가능한 최대 색상의 수는?",
+    "choices": {
+      "1": "",
+      "3": "",
+      "4": "",
+      "2": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "IP 논리 주소를 MAC 물리 주소로 변환시켜주는 프로토콜은?",
+    "choices": {
+      "1": "AC3",
+      "3": "DTS ❹ aptX",
+      "4": "UDP 3. 영국 오디오 프로세싱 테크놀로지 사에서 개발하였고, MP3보 다 연산량이 적어 전력이 적게 소비되며, 압축 효율이 높아 CD와 같은 음질을 제공하는 오디오 코덱은?",
+      "2": "XVID"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "다음이 설명하는 것은?",
+    "choices": {
+      "1": "방화벽",
+      "3": "비틀즈",
+      "4": "크래킹",
+      "2": "스파이웨어 ❸ 백도어"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 7,
+    "question": "인터넷 제어 메시지 프로토콜(ICMP)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "ATP",
+      "3": "ICMP 메시지 형식은 8바이트의 헤더와 가변길이의 데이 터 영역으로 분리",
+      "4": "HTTP",
+      "2": "TCP ❸ UDP"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 10,
+    "question": "음성을 7비트에서 8비트로 양자화로 부호화했을 때 설명으 로 틀린 것은? ❶ 표본화 잡음이 반으로 감소된다.",
+    "choices": {
+      "2": "캡차",
+      "3": "딥러닝",
+      "4": "디지털 프라이버시",
+      "1": "Sharing"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20200606",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 19,
+    "question": "리눅스에서 프로세스를 복제하는 기능의 함수는?",
+    "choices": {
+      "1": "su",
+      "3": "Exec",
+      "4": "Memcopy 20. 리눅스에서 파일의 권한 설정을 변경할 때 사용하는 명령어 는?",
+      "2": "chown"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20200606",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 21,
+    "question": "타이포그래피와 레터링에 대한 설명 중 거리가 가장 먼 것 은?",
+    "choices": {
+      "1": "동시 대비",
+      "3": "활자의 크기는 포인트(Point)라는 단위를 사용한다.",
+      "4": "부의 잔상",
+      "2": "동화 현상 ❸ 정의 잔상"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20200606",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 33,
+    "question": "포스터 디자인에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "선전이나 광고매체라고도 한다. ❷ 영상 이미지가 가장 중요한 표현 요소이다.",
+      "3": "꼭지점, 모서리, 면",
+      "4": "수평면, 수직면, 측면",
+      "2": "깊이, 너비, 길이"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20200606",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 39,
+    "question": "색체 체계에 대한 설명이 옳게 표현된 것은?",
+    "choices": {
+      "1": "RGB－Red, Green, Black ❷ RGB－Red, Green, Blue",
+      "3": "명료의 원리",
+      "4": "대비의 원리",
+      "2": "질서의 원리"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 43,
+    "question": "자바스크립트에서 사용하는 특수 문자가 아닌 것은?",
+    "choices": {
+      "1": "＼n",
+      "2": "Window 객체",
+      "4": "Location 객체",
+      "3": "History 객체"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 45,
+    "question": "릴레이션의 카디널리티(Cardinality)란?",
+    "choices": {
+      "1": "디그리 또는 차수라고 한다. ❷ 릴레이션에 포함되어 있는 튜플의 수이다.",
+      "3": "beginPoint",
+      "4": "stroke",
+      "2": "createImage"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 48,
+    "question": "자바스크립트 코드의 실행 결과로 옳은 것은?",
+    "choices": {
+      "1": "후보키 ❷ 슈퍼키",
+      "3": "공유키",
+      "4": "외래키",
+      "2": "＜area＞"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20200606",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 51,
+    "question": "DBMS의 필수 기능으로 거리가 먼 것은?",
+    "choices": {
+      "1": "stringNumber( )",
+      "3": "Mesh Data Model ❹ Entity－Relationship Model 54. 관계 데이터베이스에서 뷰(View)를 사용하는 장점으로 거리 가 먼 것은?",
+      "4": "textAsNumber( )",
+      "2": "textNumber( ) ❸ valueAsNumber( )"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 65,
+    "question": "비디오 압축 기술 중 MPEG－2 방식 설명으로 틀린 것은? ❶ 목표 전송률은 1.5 Mbits/sec 이하이다.",
+    "choices": {
+      "2": "모핑(Morphing) ❸ 매핑(Mapping)",
+      "3": "HDTV 전송의 표준을 포함하고 있다.",
+      "4": "셰이딩(Shading)",
+      "1": "모델링(Modeling)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 67,
+    "question": "다음 중 오디오 파일의 확장자 명이 아닌 것은?",
+    "choices": {
+      "1": "순광(Front Light)",
+      "2": "사광(Side Light) ❸ 역광(Back Light)",
+      "3": "회절 ❹ 분산 69. 영상 촬영 시 뒤에서 비추는 빛으로 실루엣(Silhouette) 효 과를 만들기 위해 이용하는 조명은?",
+      "4": "키라이트(Key Light)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 70,
+    "question": "이미지 필터링에 대한 내용으로 틀린 것은?",
+    "choices": {
+      "1": "필터링이란 기본 이미지에 임의의 변환을 가하여 특수한 효과를 얻는 것을 말한다.",
+      "2": "수평주파수: 16.73426kHz, 수직주파수: 58.94kHz",
+      "4": "수평주파수: 18.73426kHz, 수직주파수: 56.94kHz 72. 버퍼에 잠깐 머물러 있다가 바로 화면에 띄워져 대용량의",
+      "3": "수평주파수: 17.73426kHz, 수직주파수: 57.94kHz"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20200606",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 78,
+    "question": "오디오 믹서의 기능 중 갑작스런 과부하 입력에 대한 왜곡 을 제한시키기 위해 이용하는 것은?",
+    "choices": {
+      "1": "전자 상거래 서비스",
+      "3": "위치 기반 서비스 ❹ 주문형 비디오 서비스",
+      "4": "EVRC : JPEG 80. 멀티미디어의 비디오 소스에 저장된 프로그램을 사용자가 선택하여 시청할 수 있는 멀티미디어 서비스는?",
+      "2": "화상 회의 서비스"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "5비트를 사용하여 양자화 하는 경우 양자화 step의 수는?",
+    "choices": {
+      "1": "개인이 개발한 보안 기술이다. ❷ 전자 우편의 수신 부인 방지 및 메시지 부인 방지를 지원 한다.",
+      "2": "rlogin",
+      "4": "RSA와 IDEA 등의 암호화 알고리즘을 사용한다.",
+      "3": "기밀성과 무결성 등을 지원한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 10,
+    "question": "스토리지 장비 중 DAS(Direct Attached Storage)에 대한 설 명으로 옳지 않은 것은?",
+    "choices": {
+      "1": "MPEG2 ❷ HEVC",
+      "2": "색 참조 기법 ❸ 가변길이 부호화 기법",
+      "3": "AVC",
+      "4": "IESG"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 14,
+    "question": "다음이 설명하는 증강현실 구현 프로그래밍 언어는?",
+    "choices": {
+      "1": "DHTML",
+      "2": "콘텐츠 제공자",
+      "4": "콘텐츠 소비자",
+      "3": "클리어링 하우스"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 16,
+    "question": "공개키로 사용하는 알고리즘을 대표하는 것은?",
+    "choices": {
+      "1": "DES",
+      "2": "Thread Group",
+      "3": "IEEE P2413",
+      "4": "Open Connectivity Foundation"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20200822",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 19,
+    "question": "데이터의 무결성을 검증하는 보안 알고리즘은?",
+    "choices": {
+      "2": "로고 타입 ❸ 레터링",
+      "3": "Register",
+      "4": "시그니처",
+      "1": "폰트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "date": "20200822",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 40,
+    "question": "다음 내용은 제품 수명 주기의 단계에서 어느 시기 인가?",
+    "choices": {
+      "1": "튜플",
+      "2": "메소드",
+      "4": "PL/SQL 42. 하나의 애트리뷰트가 가질 수 있는 같은 타입의 원잣값들의 집합을 의미하는 것은?",
+      "3": "엔티티 ❹ 도메인"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 56,
+    "question": "자바스크립트에서 매개변수가 숫자인지 검사하는 함수는?",
+    "choices": {
+      "2": "sort( ) ❸ concat( )",
+      "3": "confirm( )",
+      "4": "slice( )",
+      "1": "deleteRow( )"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20200822",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 60,
+    "question": "SQL의 Select 문에서 검색조건을 지정하는 것은?",
+    "choices": {
+      "1": "전경 영상의 교체",
+      "2": "배경 영상의 교체",
+      "4": "전자식 방식 63. 영상 합성 기술을 통하여 얻을 수 있는 효과와 거리가 먼 것은?",
+      "3": "잡음의 제거 ❹ 데이터 전송 속도 조절"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "date": "20200822",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 66,
+    "question": "동영상 관련 압축 알고리즘이 아닌 것은?",
+    "choices": {
+      "2": "서피스 모델링 ❸ 와이어 프레임 모델링",
+      "3": "임피던스",
+      "4": "솔리드 모델링",
+      "1": "바운더리 모델링"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "date": "20200822",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 72,
+    "question": "3D 객체에 사진, 그림, 문양을 입히는 기술은?",
+    "choices": {
+      "2": "범프 매핑(Bump Mapping)",
+      "3": "스캔 라인(Scan Line)",
+      "4": "텍스쳐 매핑(Texture Mapping)",
+      "1": "퍼핏(Puppet) ❷ 컷 아웃(Cut Out)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "date": "20200822",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 75,
+    "question": "넌 리니어(Non-Linear) 편집에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "베지어(Bezier) 스플라인 모델 ❷ B-스플라인(B-Spline) 모델",
+      "2": "디더링(Dithering)",
+      "3": "넙스(Nurbs) 모델",
+      "4": "패치(Patch) 모델"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "date": "20210307",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 7,
+    "question": "큐에 있는 프로세스 중 실행 시간이 가장 짧은 프로세스에 게 먼저 CPU를 할당하는 스케줄링 기법은?",
+    "choices": {
+      "2": "NES C",
+      "3": "Net OS",
+      "4": "OS2 11. 입출력 처리 기본 단위가 128비트인 국내의 표준 대칭키",
+      "1": "응용 계층"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20210307",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 17,
+    "question": "흑백 및 컬러 정지화상을 위한 국제 표준안으로 이미지의 압축 및 복원 방식에 관한 표준안은?",
+    "choices": {
+      "2": "프로세스 고유 식별자 ❸ 할당되지 않은 주변장치의 상태 정보",
+      "3": "GIF",
+      "4": "스케쥴링 및 프로세스의 우선순위",
+      "1": "프로세스의 현재 상태"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "date": "20210307",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 22,
+    "question": "색삼각형의 연속된 선상에 위치한 색들을 조합하면 관련된 시각적 요소가 포함되어 있기 때문에 서로 조화한다는 원 리는?",
+    "choices": {
+      "2": "JPG ❸ Indexed color",
+      "3": "이텐의 색체조화론",
+      "4": "RGB",
+      "1": "CMYK"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "date": "20210307",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 30,
+    "question": "마케팅 믹스(marketing mix)의 구성요소가 아닌 것은?",
+    "choices": {
+      "1": "시각디자인 ❷ 환경디자인",
+      "2": "가격(Price)",
+      "3": "옥외디자인",
+      "4": "실내디자인"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "date": "20210307",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 33,
+    "question": "웹 디자인 과정에서 고려해야 할 사항으로 틀린 것은?",
+    "choices": {
+      "1": "클라이언트의 요구와 기획을 바탕으로 한다. ❷ 웹사이트 목적과 상관없이 최신 유행하는 인터페이스를 적용한다.",
+      "3": "셰어 맵",
+      "4": "시장 세분화",
+      "2": "트랜드 맵"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20210307",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 37,
+    "question": "다음 중 디자인의 기본요소가 아닌 것은?",
+    "choices": {
+      "1": "슈브뢸(M. E. Chevreul) ❷ 문·스펜서(P. Moon &D. E. Spencer)",
+      "3": "오스트발트(W. Ostwald)",
+      "4": "저드(D. B. Judd) 40. 붉은 망에 들어간 귤의 색이 본래의 주황보다는 붉은 색을 띠어 보이는 효과는?",
+      "2": "편집디자인 ❸ 포장디자인"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "date": "20210307",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 41,
+    "question": "다음 SQL 명령 중 데이터 정의어(DDL)에 포함 되지 않는 것은?",
+    "choices": {
+      "1": "color ❷ multiple",
+      "2": "부분 함수 종속 제거",
+      "4": "input",
+      "3": "display"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "date": "20210307",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 46,
+    "question": "AJAX에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "SELECT DEPT FROM STUDENT;",
+      "2": "SELECT ALL DEPT FROM STUDENT;",
+      "4": "XMLHttpRequest를 이용한 비동기 데이터 검색 47. 학생(STUDENT) 테이블에 어떤 학과(DEPT)들이 있는지 검 색하고 결과의 중복을 제거하는 방법으로 맞는 것은?",
+      "3": "SELECT * FROM STUDENT WHERE DISTINCT DEPT; ❹ SELECT DISTINCT DEPT FROM STUDENT; 48. 분산 시스템에서 대용량 데이터 처리의 분석을 지원하는"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "date": "20210307",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 49,
+    "question": "HTML5에서 그림을 그릴 수 있는 기술은?",
+    "choices": {
+      "2": "에튜리뷰트 무결성 ❸ 개체 무결성",
+      "3": "ITEXT",
+      "4": "도메인 무결성",
+      "1": "튜플의 희소성"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "date": "20210307",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 55,
+    "question": "자바스크립트 연산자 중 우선 순위가 가장 낮은 것은?",
+    "choices": {
+      "1": "병행성",
+      "3": "()",
+      "4": "로그",
+      "2": "보안성 ❸ 원자성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20210307",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 57,
+    "question": "다음 중 HTML CSS의 기본 구조에 해당하는 것은?",
+    "choices": {
+      "1": "float data = 10;",
+      "3": "interger data = 10;❹ var data = 10; 59. 관계 데이터베이스에서 릴레이션을 구성하고 있는 각각의",
+      "4": "속성 {값: 선택자} 58. 자바스크립트에서 data 라는 이름으로 정수값 10을 저장 하기 위한 변수 선언과 초기화 문장의 형태로 맞는 것은?",
+      "2": "int data = 10;"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20210307",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 62,
+    "question": "영상 압축 관련 기술과 거리가 가장 먼 것은?",
+    "choices": {
+      "1": "명도",
+      "2": "포화도 ❸ 색상",
+      "3": "H.263 ❹ G.722 63. 광 파장의 차이에 의한 색체감각을 나타내는 것으로 색의 종류를 표시하는 것은?",
+      "4": "감도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "date": "20210307",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 76,
+    "question": "3차원 그래픽스의 생성과정 중 모델링에 관한 설명으로 틀 린 것은? ❶ 3차원 스캔에 의한 모델링은 현재 기술적으로 실현 불 가능하다.",
+    "choices": {
+      "2": "와이어프레임모델은 물체의 형태를 표현한 모델이다.",
+      "3": "압신기",
+      "4": "이펙터",
+      "1": "이퀄라이저 ❷ 노이즈 게이트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "date": "20210307",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 78,
+    "question": "아래 애니메이션 장면에서 사용하기에 적절하지 않은 효과 음은?",
+    "choices": {
+      "1": "바람소리",
+      "2": "슈퍼그래픽(super graphic)",
+      "3": "컴퓨터그래픽(computer graphic)",
+      "4": "일러스트레이션(illustration)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "date": "20210814",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 8,
+    "question": "운영체제의 성능 평가 요소로 거리가 먼 것은?",
+    "choices": {
+      "1": "다단계 코딩",
+      "2": "변환 방식 ❸ 허프만 코딩",
+      "3": "반환 시간 ❹ 비용(요금지불) 9. 웹과 인터넷 등의 가상 세계가 현실 세계에 흡수된 형태로써, 대표적인 가상세계 서비스로 “세컨드 라이프(second life)” 등이 있으며, 기존의 가상현실(VR)보다 진보된 개념은?",
+      "4": "벡터 양자화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "date": "20210814",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 15,
+    "question": "다음 중 포트스캔에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "Storm ❷ SYN Flooding",
+      "2": "CCU",
+      "4": "Exec",
+      "3": "Multi-level Queue"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "date": "20210814",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 18,
+    "question": "운영체제로 거리가 먼 것은?",
+    "choices": {
+      "1": "MPEG-2",
+      "3": "Linux",
+      "4": "OS/2 19. 멀티미디어 콘텐츠의 전자상거래(생성, 거래, 전달, 관리, 소 비)를 위해 상호운용성을 보장하는 통합 멀티미디어 프레임 워크를 위한 표준화에 해당하는 것은?",
+      "2": "MPEG-7"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "date": "20210814",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 23,
+    "question": "무채색의 특징이 아닌 것은?",
+    "choices": {
+      "1": "흰색에서 검정색까지의 채색이 없는 물체색이다.",
+      "2": "투명성",
+      "4": "일관성",
+      "3": "무결성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20210814",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 29,
+    "question": "인터페이스 디자인을 위한 조형 원리로 거리가 가장 먼 것 은?",
+    "choices": {
+      "1": "근접의 원리",
+      "2": "착시의 원리",
+      "4": "균형 30. 그림에서 제시된 이미지의 형태에서 느껴지는 디자인의 원 리는?",
+      "3": "반복의 원리 ❹ 대비의 원리"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "date": "20210814",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 31,
+    "question": "오스트발트 색채조화론에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "메타포",
+      "2": "탐색항해",
+      "4": "인터렉션 디자인 33. 인터랙션 디자인의 제작 기획 단계에서 고려해야 할 요소가 아닌 것은?",
+      "3": "스토리보드 ❹ 프로그래밍"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "date": "20210814",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 39,
+    "question": "선(Line)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "기하직선형 : 질서가 있는 간결함, 확실, 명료, 강함, 신 뢰, 안정된 느낌",
+      "2": "폐쇄성의 원리",
+      "4": "연속성의 원리",
+      "3": "유사성의 원리"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "date": "20210814",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 53,
+    "question": "CSS의 텍스트 스타일과 관련한 설명으로 틀린 것은?(문제 오류로 가답안 발표시 3번으로 발표되었지만 확정답안 발표 시 1, 3번이 정답처리 되었습니다. 여기서는 가답안인 3번 을 누르시면 정답 처리 됩니다.)",
+    "choices": {
+      "1": "Flow",
+      "2": "Embedded",
+      "4": "데이터 부속어(DSL) 57. HTML5의 콘텐츠 타입 중 문서의 표현이나 성격을 규정하는 요소로 보통 head 영역에 위치하는 것은?",
+      "3": "데이터 조작어(DML)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "date": "20210814",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 61,
+    "question": "그래픽 태블릿(Graphic Tablet)의 설명으로 옳은 것은?",
+    "choices": {
+      "1": "리깅(rigging) ❷ 로토스코핑(rotoscoping)",
+      "2": "FLC",
+      "3": "SWF",
+      "4": "FLA"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "date": "20210814",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 68,
+    "question": "연주소의 부조정실에서 하는 역할과 거리가 먼 것은? ❶ 뉴스센터, 편집실 등 설비에서 넘겨받는 영상, 음성 신호 자료를 송신소로 송출한다.",
+    "choices": {
+      "2": "명도",
+      "3": "채도",
+      "4": "포화도",
+      "1": "텍스트 ❷ 이미지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "date": "20210814",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 74,
+    "question": "음향 신호의 변환 시 아날로그방식과 디지털방식의 특징으 로 틀린 것은?",
+    "choices": {
+      "1": "아날로그 신호는 전기회로의 구성이 복잡하다. ❷ 디지털 신호는 아날로그방식에 비해 신호처리 속도가 빠 르다.",
+      "3": "렌더링(rendering)",
+      "4": "모델링(modeling)",
+      "2": "샘플링(sampling)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "date": "20210814",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 77,
+    "question": "FM라디오방송에서 75[μs]의 시정수를 사용하여 음성 대역 의 고역 부분의 레벨이 강조되도록 하여 S/N비를 향상시키 는 회로는?",
+    "choices": {
+      "1": "코드분할(CDMA) ❷ 코덱(CODEC)",
+      "2": "펄스 회로",
+      "3": "합성(Compositing)",
+      "4": "편집(Editing)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "date": "20210814",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 79,
+    "question": "음의 성질을 표시하는 음의 3요소가 아닌 것은?",
+    "choices": {
+      "2": "",
+      "3": "",
+      "4": "",
+      "1": ""
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 2,
+    "question": "PCM 전송에서 송신측 과정이 순서대로 나열된 것은?",
+    "choices": {
+      "2": "dr ❸ ls",
+      "3": "부호화→양자화→표본화",
+      "4": "rm",
+      "1": "cp"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 4,
+    "question": "스니퍼(Sniffer)를 탐지하는 방법 중 가짜 아이디와 패스워드 를 네트워크에 상주하게 하고, 이 아이디와 패스워드를 이용 하여 접속을 시도하는 공격자 시스템에 대한 탐지 방법은?",
+    "choices": {
+      "1": "FDMA",
+      "3": "FDDI ❹ CDMA",
+      "4": "DNS를 이용한 방법 5. 군용 통신에 이용되었던 대역 확산(Spread Spectrum) 방식 을 이동 통신에 이용한 방식으로 세계 최초로 디지털 셀룰러 전화에 채택하여 상용화된 기술은?",
+      "2": "TDMA"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 9,
+    "question": "OSI 7 계층 중 경로설정(routing) 기능을 담당하는 계층은?",
+    "choices": {
+      "1": "파일 타입",
+      "2": "파일소유자의 사용번호",
+      "4": "Transport Layer 10. UNIX 파일시스템에서 Inode에 저장되는 정보로 거리가 가 장 먼 것은?",
+      "3": "파일 링크 수 ❹ 파일 저장 횟수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "멀티미디어개론",
+    "question_no": 13,
+    "question": "UNIX에서 파일에 대한 읽기, 쓰기, 실행 접근 권한을 변경 하는 명령어는?",
+    "choices": {
+      "1": "chprv ❷ chmod",
+      "3": "input resource",
+      "4": "output resource",
+      "2": "execute resource"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 26,
+    "question": "실용성 및 기능성과 관련되는 디자인의 조건은?",
+    "choices": {
+      "1": "CMYK",
+      "2": "RGB",
+      "4": "경제성 27. 프리즘을 통과한 백색광에서 무지개 색과 같이 연속된 색의 띠로 발견된 것을 무엇이라 하는가?",
+      "3": "파장 ❹ 스펙트럼"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 31,
+    "question": "출력 장치에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "고흐",
+      "3": "화면 디스플레이는 출력 장치에 속한다.",
+      "4": "몬드리안",
+      "2": "칸딘스키 ❸ 장 피립 랑클로"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "멀티미디어기획및디자인",
+    "question_no": 33,
+    "question": "CIE L*a*b* 표색계에 대한 설명으로 거리가 먼 것은?",
+    "choices": {
+      "1": "유사성",
+      "2": "성장기",
+      "3": "성숙기",
+      "4": "쇠퇴기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 41,
+    "question": "SQL에서 DELETE 명령에 대한 설명으로 옳지 않은 것은? ❶ DELETE 명령으로 삭제한 레코드는 rollback을 사용할 수 없다.",
+    "choices": {
+      "2": "WHERE절의 조건을 만족하는 레코드를 모두 삭제한다.",
+      "3": "테이블을 완전히 제거하는 DROP과는 다르다.",
+      "4": "SQL 문 'DELETE FROM 직원‘은 직원 테이블의 모든 레 코드를 삭제한다. 42. 데이터의 중복으로 인해 릴레이션 조작 시 생기는 이상 현 상(anomaly)에 관련된 설명 중 옳지 않은 것은?",
+      "1": "관계 모델에서는 에트리뷰들 간에 존재하는 여러 종속관 계를 하나의 릴레이션에 표현하기 때문에 이상 현상이"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "멀티미디어저작",
+    "question_no": 59,
+    "question": "HTML5의 CANVAS API 요소에 대한 설명 중 틀린 것은? ❶ CANVS의 좌표계는 화면 좌측 하단이 (0,0)의 위치이다.",
+    "choices": {
+      "2": "모핑(Morphing)",
+      "3": "역운동학(Inverse Kinematics) ❹ 입자시스템(Particle System)",
+      "4": "CANVS는 그려진 경로를 화면에 나타내기 위해 stroke 함수를 호출할 수 있다. 60. HTML5에서 <input>의 속성으로 양식컨트롤이 비어있을 때 표시할 내용을 지정해 입력할 내용에 대한 간략한 설명을 제공하여 입력 실수를 줄일 수 있도록 도와주는 것은?",
+      "1": "로토스코핑(Rotoscoping)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 66,
+    "question": "새털의 끝을 통하여 햇빛을 보면 보는 방향에 따라 색깔을 가진 무늬가 보이는데 이는 빛의 어떤 현상 때문인가?",
+    "choices": {
+      "2": "UV(Ultra Violet) filter ❸ PL(Polarized Light) filter",
+      "3": "편광",
+      "4": "Normal filter",
+      "1": "ND(Neutral Density) filter"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 69,
+    "question": "음성데이터 신호를 생성하는 방법이 아닌 것은? (문제 오류 로 가답안 발표시 2번으로 발표되었지만 확정답안 발표시 모두 정답처리 되었습니다. 여기서는 가답안인 2번을 누르 면 정답 처리 됩니다.)",
+    "choices": {
+      "1": "포토그램 ❷ 포토몽타주",
+      "3": "양측미술",
+      "4": "솔라리제이션",
+      "2": "525"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "멀티미디어제작기술",
+    "question_no": 75,
+    "question": "다음 중 디지털 방송방식의 종류에 속하지 않는 것은?",
+    "choices": {
+      "1": "수퍼 임포즈(Super impose)",
+      "2": "모션(Motion)",
+      "4": "윤곽선 추출(Edge Detection) 78. 비디오 편집 기법에서 서로 다른 비디오 클립 A와 B를 이 어서 재생할 때, 연결 부분에 여러가지 효과를 주어 화면이 자연스럽게 바뀌도록 하는 기법은?",
+      "3": "필터(Filter) ❹ 트랜지션(Transition)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  }
+]

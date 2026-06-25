@@ -1640,6 +1640,142 @@ EXAMS = [
   },
 ]
 
+# ── 신규 자격증 자동 추가 ────────────────────────────────
+import json as _json
+from pathlib import Path as _Path
+
+_DATA_DIR = _Path(r"C:\개인\wooahouse\wooaGosa\data")
+
+# 기존 EXAMS에서 이미 등록된 type 목록
+_EXISTING_TYPES = {e["type"] for e in EXAMS}
+
+# 기존 영문키 JSON (파서가 FOLDER_TO_KEY로 생성한 파일들) — 이미 위 EXAMS에 포함
+_EXISTING_FILES = {
+    "air_eng","bread","computer_1","computer_2","const_safety_eng","const_safety_ind",
+    "elec_craft","elec_eng","elec_ind","elevator_craft","elevator_eng","energy_craft",
+    "energy_eng","excavator","fire_elec","fire_mech","forklift","gas_craft","gas_eng",
+    "gas_ind","hazmat_craft","hazmat_ind","history_advanced","history_basic","hvac_craft",
+    "hvac_eng","info_ind","info_proc","info_sec","korean_cook","license_1_2","linux_1",
+    "linux_2","motorcycle","net_1","net_2","pastry","realtor_1","realtor_2","safety_eng",
+    "safety_ind","water_eng","welfare_1","welfare_2","welfare_3","word",
+    # 컴퓨터활용능력 cbtestpro버전은 기존 computer_1/2 페이지로 처리
+    "컴퓨터활용능력_1급","컴퓨터활용능력_2급",
+}
+
+
+def _auto_count(name):
+    if "기능사" in name or "기능장" in name: return 60
+    if "산업기사" in name: return 80
+    if "기사" in name: return 100
+    return 60
+
+
+def _auto_time(name):
+    if "기능사" in name: return 60
+    if "기능장" in name: return 90
+    if "산업기사" in name: return 150
+    if "기사" in name: return 150
+    return 90
+
+
+def _auto_pass(name):
+    if "기능사" in name or "기능장" in name: return "60점 이상 (36문항↑)"
+    return "과목당 40점↑ + 평균 60점↑"
+
+
+def _auto_icon(name):
+    k = name
+    if any(x in k for x in ["전기","전자","전력","통신","철도신호"]): return "⚡"
+    if any(x in k for x in ["기계","설비","압연","용접","주조","열처리","금형","판금"]): return "⚙️"
+    if any(x in k for x in ["건설","토목","측량","측지","지적","도시","교통"]): return "🏗️"
+    if any(x in k for x in ["건축","실내","목공","창호"]): return "🏛️"
+    if any(x in k for x in ["화학","화공","화약","가스","위험물","방사선"]): return "🧪"
+    if any(x in k for x in ["환경","대기","수질","소음","폐기물","토양","온실"]): return "🌱"
+    if any(x in k for x in ["식품","조리","제과","제빵","조주"]): return "🍽️"
+    if any(x in k for x in ["농업","농기계","농작업","종자","버섯","원예","임업"]): return "🌾"
+    if any(x in k for x in ["소방","방재","화재"]): return "🔥"
+    if any(x in k for x in ["안전","산업위생","소음진동","인간공학"]): return "⛑️"
+    if any(x in k for x in ["정보","컴퓨터","멀티","전산"]): return "💻"
+    if any(x in k for x in ["조선","선체","해양","항로","잠수"]): return "⚓"
+    if any(x in k for x in ["미용","이용","한복","섬유","패션","의류"]): return "✂️"
+    if any(x in k for x in ["광학","의공","바이오","의료"]): return "🔬"
+    if any(x in k for x in ["광산","응용지질","자원"]): return "⛏️"
+    if any(x in k for x in ["크레인","지게차","굴착","운전","모터그레이더","양화"]): return "🚜"
+    if any(x in k for x in ["철도","차량"]): return "🚂"
+    if any(x in k for x in ["승강기"]): return "🛗"
+    if any(x in k for x in ["산림","수산","축산"]): return "🌿"
+    return "📝"
+
+
+def _auto_exam(key, name):
+    cnt = _auto_count(name)
+    t   = _auto_time(name)
+    ps  = _auto_pass(name)
+    icon = _auto_icon(name)
+    html_file = f"exam-{key}.html"
+    url  = f"https://wooagosa.wooahouse.com/{html_file}"
+
+    level = "기능사" if "기능사" in name else "기능장" if "기능장" in name else "산업기사" if "산업기사" in name else "기사" if "기사" in name else ""
+    choices_str = "4지선다" if "기능사" in name or "기사" in name else "4지선다"
+
+    badges = [f"{icon} {name}", f"📋 {cnt}문항", f"⏱ {t}분", f"✅ {ps[:5]}합격"]
+
+    info = f"""<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>자격 종목</th><td>{name}</td></tr>
+          <tr><th>문항 수</th><td>{cnt}문항 ({choices_str})</td></tr>
+          <tr><th>시험 시간</th><td>{t}분</td></tr>
+          <tr><th>합격 기준</th><td>{ps}</td></tr>
+          <tr><th>주관 기관</th><td>한국산업인력공단 (큐넷)</td></tr>
+        </table>
+      </div>"""
+
+    faq = [
+        (f"{name} 모의고사는 어떻게 활용하나요?",
+         f"기출문제 PDF를 파싱해 {cnt}문항을 랜덤 출제합니다. 랜덤·순서·오답 집중 3가지 모드로 연습할 수 있습니다."),
+        (f"{name} 필기 합격 기준은?",
+         f"{ps}입니다. 시험 세부 일정은 큐넷(q-net.or.kr)에서 확인하세요."),
+        ("문제 출처는 어디인가요?",
+         "한국산업인력공단이 시행한 과거 기출문제를 기반으로 합니다. 최신 출제 경향 반영을 위해 정기적으로 업데이트됩니다."),
+        ("오답 데이터는 어디에 저장되나요?",
+         "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ]
+
+    return {
+        "file":      html_file,
+        "type":      key,
+        "label":     name,
+        "count":     cnt,
+        "icon":      icon,
+        "title":     f"{name} 무료 모의고사 – 기출문제 {cnt}문항",
+        "desc":      f"{name} 무료 모의고사. 큐넷 기출문제 기반 {cnt}문항 랜덤 출제, 오답노트·타이머 제공. 회원가입 없이 즉시 시작.",
+        "h1":        f"{name} 기출 모의고사",
+        "canonical": url,
+        "badges":    badges,
+        "info":      info,
+        "faq":       faq,
+    }
+
+
+# 신규 자격증 스캔 및 EXAMS 확장
+for _jf in sorted(_DATA_DIR.glob("*.json")):
+    _stem = _jf.stem          # e.g. "가구제작기능사"
+    if _stem in _EXISTING_FILES:
+        continue
+    # 영문 키는 이미 EXAMS에 있음
+    if _stem in _EXISTING_TYPES:
+        continue
+    # 데이터가 있는지 확인
+    try:
+        _data = _json.loads(_jf.read_text(encoding="utf-8"))
+        if not _data:
+            continue
+    except Exception:
+        continue
+    EXAMS.append(_auto_exam(_stem, _stem))
+
+
 # ── HTML 생성 함수 ──────────────────────────────────────
 
 def links_html(exam_type):

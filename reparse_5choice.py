@@ -13,6 +13,14 @@ OUT_DIR = Path(r"C:\개인\wooahouse\wooaGosa\data")
 CIRCLE_MAP = {'①': 1, '②': 2, '③': 3, '④': 4, '⑤': 5}
 CIRCLE_PAT = re.compile(r'[①②③④⑤]')
 
+IMAGE_PAT = re.compile(
+    r'다음\s*그림|아래\s*그림|그림과\s*같|그림에서|그림을\s*보|그림.*참[고조]|'
+    r'도면을\s*보|도면에서|도면과\s*같|도면.*참[고조]|'
+    r'파형이.*같|파형을\s*보|파형에서|'
+    r'회로도|회로\s*그림|'
+    r'그래프에서|그래프와\s*같|그래프를\s*보'
+)
+
 HEADER_PAT = re.compile(
     r'전자문제집\s*CBT|www\.comcbt\.com|comcbt\.com|'
     r'기출문제\s*및\s*해설집|CBT\s*홈페이지|CBT\s*앱|구글플레이|'
@@ -155,6 +163,8 @@ def block_to_question(block):
     question = ' '.join(q_lines).strip()
     if not question:
         return None
+    if IMAGE_PAT.search(question):
+        return None  # 그림/도면/파형 등 시각 자료 필요 문제 제외
     choice_text = ' '.join(lines[first_c:])
     parts = re.split(r'([①②③④⑤])', choice_text)
     choices, cur_k, buf = {}, None, []
@@ -175,6 +185,20 @@ def block_to_question(block):
         'question': question,
         'choices': choices,
     }
+
+
+def select_pdfs(pdfs: list) -> list:
+    """날짜별 중복 제거 — 교사용(-0) 우선"""
+    by_date = {}
+    for pdf in pdfs:
+        m = re.search(r'(\d{8})', pdf.name)
+        if not m:
+            continue
+        date = m.group(1)
+        is_teacher = '교사용' in pdf.name or re.search(r'\d{8}-0\.', pdf.name)
+        if date not in by_date or is_teacher:
+            by_date[date] = pdf
+    return sorted(by_date.values(), key=lambda p: p.name)
 
 
 def parse_exam(pdf_path, max_q):
@@ -216,10 +240,12 @@ for cfg in TARGETS:
         print(f"[{cfg['key']}] 폴더 없음 — 스킵")
         continue
 
-    pdfs = sorted(folder.glob('*.pdf'))
-    if not pdfs:
+    all_pdfs = sorted(folder.glob('*.pdf'))
+    if not all_pdfs:
         print(f"[{cfg['key']}] 파일 없음 — 스킵")
         continue
+    pdfs = select_pdfs(all_pdfs)
+    print(f"  전체 {len(all_pdfs)}개 중 {len(pdfs)}개 선택 (날짜 중복 제거)")
 
     print(f"\n[{cfg['key']}] {cfg['folder']} — {len(pdfs)}개 파일")
     subj_map = collect_subject_names(pdfs)

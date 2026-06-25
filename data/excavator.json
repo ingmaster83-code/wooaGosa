@@ -454,24 +454,6 @@
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
-    "question_no": 40,
-    "question": "유압장치의 기호 회로도에 사용되는 유압 기호의 표시방법 으로 적합하지 않는 것은?",
-    "choices": {
-      "1": "스풀형식",
-      "2": "포핏형식",
-      "3": "베인형식",
-      "4": "카운터 밸런스 밸브형식"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 27,
-    "date": "20090118",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
     "question_no": 42,
     "question": "구동되는 기어펌프의 회전수가 변하였을 때 가장 적합한 것 은?",
     "choices": {
@@ -486,7 +468,7 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 27,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -504,7 +486,7 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 28,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -522,7 +504,7 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 29,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -540,7 +522,7 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 30,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -558,7 +540,7 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 31,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -576,7 +558,7 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 32,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -594,7 +576,7 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 33,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -612,7 +594,7 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 34,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -630,7 +612,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 35,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -648,7 +630,7 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 36,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -666,7 +648,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 37,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -684,7 +666,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 38,
     "date": "20090118",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -702,7 +684,7 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 39,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -720,7 +702,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 40,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -738,7 +720,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 41,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -756,7 +738,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 42,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -774,7 +756,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 43,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -792,7 +774,7 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 44,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -810,7 +792,7 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 45,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -828,7 +810,7 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 46,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -846,7 +828,7 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 47,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -864,7 +846,7 @@
     "explanation": ""
   },
   {
-    "id": 49,
+    "id": 48,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -882,7 +864,7 @@
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 49,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -900,7 +882,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 50,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -918,7 +900,7 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 51,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -936,7 +918,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 52,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -954,7 +936,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 53,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -972,7 +954,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 54,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -990,7 +972,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 55,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1008,7 +990,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 56,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1026,7 +1008,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 57,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1044,7 +1026,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 58,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1062,7 +1044,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 59,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1080,7 +1062,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 60,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1098,7 +1080,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 61,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1116,7 +1098,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 62,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1134,7 +1116,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 63,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1152,7 +1134,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 64,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1170,7 +1152,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
+    "id": 65,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1188,7 +1170,7 @@
     "explanation": ""
   },
   {
-    "id": 67,
+    "id": 66,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1206,7 +1188,7 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 67,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1224,7 +1206,7 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 68,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1242,7 +1224,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 69,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1260,7 +1242,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 70,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1278,7 +1260,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 71,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1296,7 +1278,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 72,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1314,7 +1296,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 73,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1332,7 +1314,7 @@
     "explanation": ""
   },
   {
-    "id": 75,
+    "id": 74,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1350,7 +1332,7 @@
     "explanation": ""
   },
   {
-    "id": 76,
+    "id": 75,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1368,7 +1350,7 @@
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 76,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1386,7 +1368,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
+    "id": 77,
     "date": "20090329",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1404,7 +1386,7 @@
     "explanation": ""
   },
   {
-    "id": 79,
+    "id": 78,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1422,7 +1404,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 79,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1440,7 +1422,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 80,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1458,7 +1440,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 81,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1476,7 +1458,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 82,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1494,7 +1476,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 83,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1512,7 +1494,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
+    "id": 84,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1530,7 +1512,7 @@
     "explanation": ""
   },
   {
-    "id": 86,
+    "id": 85,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1548,7 +1530,7 @@
     "explanation": ""
   },
   {
-    "id": 87,
+    "id": 86,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1566,7 +1548,7 @@
     "explanation": ""
   },
   {
-    "id": 88,
+    "id": 87,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1584,7 +1566,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 88,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1602,7 +1584,7 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 89,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1620,7 +1602,7 @@
     "explanation": ""
   },
   {
-    "id": 91,
+    "id": 90,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1638,7 +1620,7 @@
     "explanation": ""
   },
   {
-    "id": 92,
+    "id": 91,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1656,7 +1638,7 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 92,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1674,7 +1656,7 @@
     "explanation": ""
   },
   {
-    "id": 94,
+    "id": 93,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1692,7 +1674,7 @@
     "explanation": ""
   },
   {
-    "id": 95,
+    "id": 94,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1710,7 +1692,7 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 95,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1728,7 +1710,7 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 96,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1746,7 +1728,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
+    "id": 97,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1764,7 +1746,7 @@
     "explanation": ""
   },
   {
-    "id": 99,
+    "id": 98,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1782,7 +1764,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 99,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1800,7 +1782,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 100,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1818,7 +1800,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 101,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1836,7 +1818,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 102,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1854,7 +1836,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 103,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1872,7 +1854,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 104,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1890,7 +1872,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 105,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1908,7 +1890,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 106,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1926,7 +1908,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 107,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1944,7 +1926,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 108,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1962,7 +1944,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 109,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1980,7 +1962,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 110,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -1998,7 +1980,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
+    "id": 111,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2016,7 +1998,7 @@
     "explanation": ""
   },
   {
-    "id": 113,
+    "id": 112,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2034,7 +2016,7 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 113,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2052,7 +2034,7 @@
     "explanation": ""
   },
   {
-    "id": 115,
+    "id": 114,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2070,7 +2052,7 @@
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 115,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2088,7 +2070,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 116,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2106,7 +2088,7 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 117,
     "date": "20090712",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2124,7 +2106,7 @@
     "explanation": ""
   },
   {
-    "id": 119,
+    "id": 118,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2142,7 +2124,7 @@
     "explanation": ""
   },
   {
-    "id": 120,
+    "id": 119,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2160,7 +2142,7 @@
     "explanation": ""
   },
   {
-    "id": 121,
+    "id": 120,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2178,7 +2160,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 121,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2196,7 +2178,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 122,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2214,7 +2196,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 123,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2232,7 +2214,7 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 124,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2250,7 +2232,7 @@
     "explanation": ""
   },
   {
-    "id": 126,
+    "id": 125,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2268,7 +2250,7 @@
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 126,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2286,7 +2268,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 127,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2304,7 +2286,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 128,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2322,7 +2304,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 129,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2340,7 +2322,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 130,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2358,7 +2340,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 131,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2376,7 +2358,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 132,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2394,7 +2376,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 133,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2412,7 +2394,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 134,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2430,7 +2412,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
+    "id": 135,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2448,25 +2430,7 @@
     "explanation": ""
   },
   {
-    "id": 137,
-    "date": "20090927",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 30,
-    "question": "다음 그림의 교통안전표지에 대한 설명으로 맞는 것은?",
-    "choices": {
-      "1": "전조등, 차폭등, 미등",
-      "2": "차폭등, 미등, 번호등",
-      "3": "전조등, 미등, 번호등",
-      "4": "전조등, 미등"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 138,
+    "id": 136,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2484,7 +2448,7 @@
     "explanation": ""
   },
   {
-    "id": 139,
+    "id": 137,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2502,7 +2466,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
+    "id": 138,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2520,7 +2484,7 @@
     "explanation": ""
   },
   {
-    "id": 141,
+    "id": 139,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2538,7 +2502,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 140,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2556,7 +2520,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 141,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2574,7 +2538,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 142,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2592,7 +2556,7 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 143,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2610,7 +2574,7 @@
     "explanation": ""
   },
   {
-    "id": 146,
+    "id": 144,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2628,7 +2592,7 @@
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 145,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2646,7 +2610,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 146,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2664,7 +2628,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 147,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2682,7 +2646,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 148,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2700,7 +2664,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 149,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2718,7 +2682,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 150,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2736,7 +2700,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 151,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2754,7 +2718,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
+    "id": 152,
     "date": "20090927",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2772,7 +2736,7 @@
     "explanation": ""
   },
   {
-    "id": 155,
+    "id": 153,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2790,7 +2754,7 @@
     "explanation": ""
   },
   {
-    "id": 156,
+    "id": 154,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2808,7 +2772,7 @@
     "explanation": ""
   },
   {
-    "id": 157,
+    "id": 155,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2826,7 +2790,7 @@
     "explanation": ""
   },
   {
-    "id": 158,
+    "id": 156,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2844,7 +2808,7 @@
     "explanation": ""
   },
   {
-    "id": 159,
+    "id": 157,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2862,7 +2826,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
+    "id": 158,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2880,7 +2844,7 @@
     "explanation": ""
   },
   {
-    "id": 161,
+    "id": 159,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2898,7 +2862,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
+    "id": 160,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2916,7 +2880,7 @@
     "explanation": ""
   },
   {
-    "id": 163,
+    "id": 161,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2934,7 +2898,7 @@
     "explanation": ""
   },
   {
-    "id": 164,
+    "id": 162,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2952,7 +2916,7 @@
     "explanation": ""
   },
   {
-    "id": 165,
+    "id": 163,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2970,7 +2934,7 @@
     "explanation": ""
   },
   {
-    "id": 166,
+    "id": 164,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -2988,7 +2952,7 @@
     "explanation": ""
   },
   {
-    "id": 167,
+    "id": 165,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3006,7 +2970,7 @@
     "explanation": ""
   },
   {
-    "id": 168,
+    "id": 166,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3024,7 +2988,7 @@
     "explanation": ""
   },
   {
-    "id": 169,
+    "id": 167,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3042,7 +3006,7 @@
     "explanation": ""
   },
   {
-    "id": 170,
+    "id": 168,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3060,7 +3024,7 @@
     "explanation": ""
   },
   {
-    "id": 171,
+    "id": 169,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3078,7 +3042,7 @@
     "explanation": ""
   },
   {
-    "id": 172,
+    "id": 170,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3096,7 +3060,7 @@
     "explanation": ""
   },
   {
-    "id": 173,
+    "id": 171,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3114,7 +3078,7 @@
     "explanation": ""
   },
   {
-    "id": 174,
+    "id": 172,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3132,7 +3096,7 @@
     "explanation": ""
   },
   {
-    "id": 175,
+    "id": 173,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3150,7 +3114,7 @@
     "explanation": ""
   },
   {
-    "id": 176,
+    "id": 174,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3168,7 +3132,7 @@
     "explanation": ""
   },
   {
-    "id": 177,
+    "id": 175,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3186,7 +3150,7 @@
     "explanation": ""
   },
   {
-    "id": 178,
+    "id": 176,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3204,7 +3168,7 @@
     "explanation": ""
   },
   {
-    "id": 179,
+    "id": 177,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3222,7 +3186,7 @@
     "explanation": ""
   },
   {
-    "id": 180,
+    "id": 178,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3240,7 +3204,7 @@
     "explanation": ""
   },
   {
-    "id": 181,
+    "id": 179,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3258,7 +3222,7 @@
     "explanation": ""
   },
   {
-    "id": 182,
+    "id": 180,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3276,7 +3240,7 @@
     "explanation": ""
   },
   {
-    "id": 183,
+    "id": 181,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3294,7 +3258,7 @@
     "explanation": ""
   },
   {
-    "id": 184,
+    "id": 182,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3312,7 +3276,7 @@
     "explanation": ""
   },
   {
-    "id": 185,
+    "id": 183,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3330,7 +3294,7 @@
     "explanation": ""
   },
   {
-    "id": 186,
+    "id": 184,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3348,7 +3312,7 @@
     "explanation": ""
   },
   {
-    "id": 187,
+    "id": 185,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3366,25 +3330,7 @@
     "explanation": ""
   },
   {
-    "id": 188,
-    "date": "20100131",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 59,
-    "question": "다음 그림에서 A는 배전선로에서 전압을 변환하는 기기이 다. A의 명칭으로 맞는 것은?",
-    "choices": {
-      "1": "컷아웃스위치(COS)",
-      "2": "주상변압기(P.Tr)",
-      "3": "아킹혼(Arcing horn)",
-      "4": "현수 애자"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 189,
+    "id": 186,
     "date": "20100131",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3402,7 +3348,7 @@
     "explanation": ""
   },
   {
-    "id": 190,
+    "id": 187,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3420,7 +3366,7 @@
     "explanation": ""
   },
   {
-    "id": 191,
+    "id": 188,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3438,7 +3384,7 @@
     "explanation": ""
   },
   {
-    "id": 192,
+    "id": 189,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3456,7 +3402,7 @@
     "explanation": ""
   },
   {
-    "id": 193,
+    "id": 190,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3474,7 +3420,7 @@
     "explanation": ""
   },
   {
-    "id": 194,
+    "id": 191,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3492,7 +3438,7 @@
     "explanation": ""
   },
   {
-    "id": 195,
+    "id": 192,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3510,7 +3456,7 @@
     "explanation": ""
   },
   {
-    "id": 196,
+    "id": 193,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3528,7 +3474,7 @@
     "explanation": ""
   },
   {
-    "id": 197,
+    "id": 194,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3546,7 +3492,7 @@
     "explanation": ""
   },
   {
-    "id": 198,
+    "id": 195,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3564,7 +3510,7 @@
     "explanation": ""
   },
   {
-    "id": 199,
+    "id": 196,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3582,7 +3528,7 @@
     "explanation": ""
   },
   {
-    "id": 200,
+    "id": 197,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3600,7 +3546,7 @@
     "explanation": ""
   },
   {
-    "id": 201,
+    "id": 198,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3618,7 +3564,7 @@
     "explanation": ""
   },
   {
-    "id": 202,
+    "id": 199,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3636,7 +3582,7 @@
     "explanation": ""
   },
   {
-    "id": 203,
+    "id": 200,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3654,7 +3600,7 @@
     "explanation": ""
   },
   {
-    "id": 204,
+    "id": 201,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3672,7 +3618,7 @@
     "explanation": ""
   },
   {
-    "id": 205,
+    "id": 202,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3690,7 +3636,7 @@
     "explanation": ""
   },
   {
-    "id": 206,
+    "id": 203,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3708,7 +3654,7 @@
     "explanation": ""
   },
   {
-    "id": 207,
+    "id": 204,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3726,7 +3672,7 @@
     "explanation": ""
   },
   {
-    "id": 208,
+    "id": 205,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3744,25 +3690,7 @@
     "explanation": ""
   },
   {
-    "id": 209,
-    "date": "20100328",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 40,
-    "question": "그림과 같은 실린더의 명칭은?",
-    "choices": {
-      "1": "단동 실린더",
-      "2": "단동 다단 실린더",
-      "3": "복동 실린더",
-      "4": "복동 다단 실린더"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 210,
+    "id": 206,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3780,7 +3708,7 @@
     "explanation": ""
   },
   {
-    "id": 211,
+    "id": 207,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3798,7 +3726,7 @@
     "explanation": ""
   },
   {
-    "id": 212,
+    "id": 208,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3816,7 +3744,7 @@
     "explanation": ""
   },
   {
-    "id": 213,
+    "id": 209,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3834,7 +3762,7 @@
     "explanation": ""
   },
   {
-    "id": 214,
+    "id": 210,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3852,7 +3780,7 @@
     "explanation": ""
   },
   {
-    "id": 215,
+    "id": 211,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3870,7 +3798,7 @@
     "explanation": ""
   },
   {
-    "id": 216,
+    "id": 212,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3888,7 +3816,7 @@
     "explanation": ""
   },
   {
-    "id": 217,
+    "id": 213,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3906,7 +3834,7 @@
     "explanation": ""
   },
   {
-    "id": 218,
+    "id": 214,
     "date": "20100328",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3924,7 +3852,7 @@
     "explanation": ""
   },
   {
-    "id": 219,
+    "id": 215,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3942,7 +3870,7 @@
     "explanation": ""
   },
   {
-    "id": 220,
+    "id": 216,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3960,7 +3888,7 @@
     "explanation": ""
   },
   {
-    "id": 221,
+    "id": 217,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3978,7 +3906,7 @@
     "explanation": ""
   },
   {
-    "id": 222,
+    "id": 218,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -3996,7 +3924,7 @@
     "explanation": ""
   },
   {
-    "id": 223,
+    "id": 219,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4014,7 +3942,7 @@
     "explanation": ""
   },
   {
-    "id": 224,
+    "id": 220,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4032,7 +3960,7 @@
     "explanation": ""
   },
   {
-    "id": 225,
+    "id": 221,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4050,7 +3978,7 @@
     "explanation": ""
   },
   {
-    "id": 226,
+    "id": 222,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4068,7 +3996,7 @@
     "explanation": ""
   },
   {
-    "id": 227,
+    "id": 223,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4086,7 +4014,7 @@
     "explanation": ""
   },
   {
-    "id": 228,
+    "id": 224,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4104,7 +4032,7 @@
     "explanation": ""
   },
   {
-    "id": 229,
+    "id": 225,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4122,7 +4050,7 @@
     "explanation": ""
   },
   {
-    "id": 230,
+    "id": 226,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4140,7 +4068,7 @@
     "explanation": ""
   },
   {
-    "id": 231,
+    "id": 227,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4158,7 +4086,7 @@
     "explanation": ""
   },
   {
-    "id": 232,
+    "id": 228,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4176,7 +4104,7 @@
     "explanation": ""
   },
   {
-    "id": 233,
+    "id": 229,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4194,7 +4122,7 @@
     "explanation": ""
   },
   {
-    "id": 234,
+    "id": 230,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4212,7 +4140,7 @@
     "explanation": ""
   },
   {
-    "id": 235,
+    "id": 231,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4230,7 +4158,7 @@
     "explanation": ""
   },
   {
-    "id": 236,
+    "id": 232,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4248,7 +4176,7 @@
     "explanation": ""
   },
   {
-    "id": 237,
+    "id": 233,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4266,7 +4194,7 @@
     "explanation": ""
   },
   {
-    "id": 238,
+    "id": 234,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4284,7 +4212,7 @@
     "explanation": ""
   },
   {
-    "id": 239,
+    "id": 235,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4302,7 +4230,7 @@
     "explanation": ""
   },
   {
-    "id": 240,
+    "id": 236,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4320,7 +4248,7 @@
     "explanation": ""
   },
   {
-    "id": 241,
+    "id": 237,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4338,7 +4266,7 @@
     "explanation": ""
   },
   {
-    "id": 242,
+    "id": 238,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4356,7 +4284,7 @@
     "explanation": ""
   },
   {
-    "id": 243,
+    "id": 239,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4374,7 +4302,7 @@
     "explanation": ""
   },
   {
-    "id": 244,
+    "id": 240,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4392,7 +4320,7 @@
     "explanation": ""
   },
   {
-    "id": 245,
+    "id": 241,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4410,7 +4338,7 @@
     "explanation": ""
   },
   {
-    "id": 246,
+    "id": 242,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4428,7 +4356,7 @@
     "explanation": ""
   },
   {
-    "id": 247,
+    "id": 243,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4446,7 +4374,7 @@
     "explanation": ""
   },
   {
-    "id": 248,
+    "id": 244,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4464,7 +4392,7 @@
     "explanation": ""
   },
   {
-    "id": 249,
+    "id": 245,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4482,7 +4410,7 @@
     "explanation": ""
   },
   {
-    "id": 250,
+    "id": 246,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4500,7 +4428,7 @@
     "explanation": ""
   },
   {
-    "id": 251,
+    "id": 247,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4518,7 +4446,7 @@
     "explanation": ""
   },
   {
-    "id": 252,
+    "id": 248,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4536,7 +4464,7 @@
     "explanation": ""
   },
   {
-    "id": 253,
+    "id": 249,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4554,7 +4482,7 @@
     "explanation": ""
   },
   {
-    "id": 254,
+    "id": 250,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4572,7 +4500,7 @@
     "explanation": ""
   },
   {
-    "id": 255,
+    "id": 251,
     "date": "20100711",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4590,7 +4518,7 @@
     "explanation": ""
   },
   {
-    "id": 256,
+    "id": 252,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4608,7 +4536,7 @@
     "explanation": ""
   },
   {
-    "id": 257,
+    "id": 253,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4626,7 +4554,7 @@
     "explanation": ""
   },
   {
-    "id": 258,
+    "id": 254,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4644,7 +4572,7 @@
     "explanation": ""
   },
   {
-    "id": 259,
+    "id": 255,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4662,7 +4590,7 @@
     "explanation": ""
   },
   {
-    "id": 260,
+    "id": 256,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4680,7 +4608,7 @@
     "explanation": ""
   },
   {
-    "id": 261,
+    "id": 257,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4698,7 +4626,7 @@
     "explanation": ""
   },
   {
-    "id": 262,
+    "id": 258,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4716,7 +4644,7 @@
     "explanation": ""
   },
   {
-    "id": 263,
+    "id": 259,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4734,7 +4662,7 @@
     "explanation": ""
   },
   {
-    "id": 264,
+    "id": 260,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4752,7 +4680,7 @@
     "explanation": ""
   },
   {
-    "id": 265,
+    "id": 261,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4770,7 +4698,7 @@
     "explanation": ""
   },
   {
-    "id": 266,
+    "id": 262,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4788,7 +4716,7 @@
     "explanation": ""
   },
   {
-    "id": 267,
+    "id": 263,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4806,7 +4734,7 @@
     "explanation": ""
   },
   {
-    "id": 268,
+    "id": 264,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4824,7 +4752,7 @@
     "explanation": ""
   },
   {
-    "id": 269,
+    "id": 265,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4842,7 +4770,7 @@
     "explanation": ""
   },
   {
-    "id": 270,
+    "id": 266,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4860,7 +4788,7 @@
     "explanation": ""
   },
   {
-    "id": 271,
+    "id": 267,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4878,7 +4806,7 @@
     "explanation": ""
   },
   {
-    "id": 272,
+    "id": 268,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4896,7 +4824,7 @@
     "explanation": ""
   },
   {
-    "id": 273,
+    "id": 269,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4914,7 +4842,7 @@
     "explanation": ""
   },
   {
-    "id": 274,
+    "id": 270,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4932,7 +4860,7 @@
     "explanation": ""
   },
   {
-    "id": 275,
+    "id": 271,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4950,7 +4878,7 @@
     "explanation": ""
   },
   {
-    "id": 276,
+    "id": 272,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4968,7 +4896,7 @@
     "explanation": ""
   },
   {
-    "id": 277,
+    "id": 273,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -4986,7 +4914,7 @@
     "explanation": ""
   },
   {
-    "id": 278,
+    "id": 274,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5004,7 +4932,7 @@
     "explanation": ""
   },
   {
-    "id": 279,
+    "id": 275,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5022,7 +4950,7 @@
     "explanation": ""
   },
   {
-    "id": 280,
+    "id": 276,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5040,7 +4968,7 @@
     "explanation": ""
   },
   {
-    "id": 281,
+    "id": 277,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5058,7 +4986,7 @@
     "explanation": ""
   },
   {
-    "id": 282,
+    "id": 278,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5076,7 +5004,7 @@
     "explanation": ""
   },
   {
-    "id": 283,
+    "id": 279,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5094,7 +5022,7 @@
     "explanation": ""
   },
   {
-    "id": 284,
+    "id": 280,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5112,7 +5040,7 @@
     "explanation": ""
   },
   {
-    "id": 285,
+    "id": 281,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5130,7 +5058,7 @@
     "explanation": ""
   },
   {
-    "id": 286,
+    "id": 282,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5148,7 +5076,7 @@
     "explanation": ""
   },
   {
-    "id": 287,
+    "id": 283,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5166,7 +5094,7 @@
     "explanation": ""
   },
   {
-    "id": 288,
+    "id": 284,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5184,7 +5112,7 @@
     "explanation": ""
   },
   {
-    "id": 289,
+    "id": 285,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5202,7 +5130,7 @@
     "explanation": ""
   },
   {
-    "id": 290,
+    "id": 286,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5220,7 +5148,7 @@
     "explanation": ""
   },
   {
-    "id": 291,
+    "id": 287,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5238,7 +5166,7 @@
     "explanation": ""
   },
   {
-    "id": 292,
+    "id": 288,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5256,7 +5184,7 @@
     "explanation": ""
   },
   {
-    "id": 293,
+    "id": 289,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5274,7 +5202,7 @@
     "explanation": ""
   },
   {
-    "id": 294,
+    "id": 290,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5292,7 +5220,7 @@
     "explanation": ""
   },
   {
-    "id": 295,
+    "id": 291,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5310,25 +5238,7 @@
     "explanation": ""
   },
   {
-    "id": 296,
-    "date": "20101003",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 56,
-    "question": "다음 그림의 안전 표지판이 나타내는 것은?",
-    "choices": {
-      "1": "가스배관을 손상한 것으로 판단되면 즉시 기계작동을 멈 춘다.",
-      "2": "가스가 다량 누출되고 있으면 우선적으로 주위 사람들을 대피시킨다.",
-      "3": "즉시 해당 도시가스회사나 한국가스안전공사에 신고한 다.",
-      "4": "가스가 누출되면 가스배관을 손상시킨 장비를 빼내고 안 전한 장소로 이동한다."
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 297,
+    "id": 292,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5346,7 +5256,7 @@
     "explanation": ""
   },
   {
-    "id": 298,
+    "id": 293,
     "date": "20101003",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5364,7 +5274,7 @@
     "explanation": ""
   },
   {
-    "id": 299,
+    "id": 294,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5382,7 +5292,7 @@
     "explanation": ""
   },
   {
-    "id": 300,
+    "id": 295,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5400,7 +5310,7 @@
     "explanation": ""
   },
   {
-    "id": 301,
+    "id": 296,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5418,7 +5328,7 @@
     "explanation": ""
   },
   {
-    "id": 302,
+    "id": 297,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5436,7 +5346,7 @@
     "explanation": ""
   },
   {
-    "id": 303,
+    "id": 298,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5454,7 +5364,7 @@
     "explanation": ""
   },
   {
-    "id": 304,
+    "id": 299,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5472,7 +5382,7 @@
     "explanation": ""
   },
   {
-    "id": 305,
+    "id": 300,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5490,7 +5400,7 @@
     "explanation": ""
   },
   {
-    "id": 306,
+    "id": 301,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5508,7 +5418,7 @@
     "explanation": ""
   },
   {
-    "id": 307,
+    "id": 302,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5526,7 +5436,7 @@
     "explanation": ""
   },
   {
-    "id": 308,
+    "id": 303,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5544,7 +5454,7 @@
     "explanation": ""
   },
   {
-    "id": 309,
+    "id": 304,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5562,7 +5472,7 @@
     "explanation": ""
   },
   {
-    "id": 310,
+    "id": 305,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5580,7 +5490,7 @@
     "explanation": ""
   },
   {
-    "id": 311,
+    "id": 306,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5598,7 +5508,7 @@
     "explanation": ""
   },
   {
-    "id": 312,
+    "id": 307,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5616,7 +5526,7 @@
     "explanation": ""
   },
   {
-    "id": 313,
+    "id": 308,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5634,7 +5544,7 @@
     "explanation": ""
   },
   {
-    "id": 314,
+    "id": 309,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5652,7 +5562,7 @@
     "explanation": ""
   },
   {
-    "id": 315,
+    "id": 310,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5670,7 +5580,7 @@
     "explanation": ""
   },
   {
-    "id": 316,
+    "id": 311,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5688,7 +5598,7 @@
     "explanation": ""
   },
   {
-    "id": 317,
+    "id": 312,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5706,7 +5616,7 @@
     "explanation": ""
   },
   {
-    "id": 318,
+    "id": 313,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5724,7 +5634,7 @@
     "explanation": ""
   },
   {
-    "id": 319,
+    "id": 314,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5742,7 +5652,7 @@
     "explanation": ""
   },
   {
-    "id": 320,
+    "id": 315,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5760,7 +5670,7 @@
     "explanation": ""
   },
   {
-    "id": 321,
+    "id": 316,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5778,7 +5688,7 @@
     "explanation": ""
   },
   {
-    "id": 322,
+    "id": 317,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5796,7 +5706,7 @@
     "explanation": ""
   },
   {
-    "id": 323,
+    "id": 318,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5814,7 +5724,7 @@
     "explanation": ""
   },
   {
-    "id": 324,
+    "id": 319,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5832,7 +5742,7 @@
     "explanation": ""
   },
   {
-    "id": 325,
+    "id": 320,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5850,7 +5760,7 @@
     "explanation": ""
   },
   {
-    "id": 326,
+    "id": 321,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5868,7 +5778,7 @@
     "explanation": ""
   },
   {
-    "id": 327,
+    "id": 322,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5886,7 +5796,7 @@
     "explanation": ""
   },
   {
-    "id": 328,
+    "id": 323,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5904,7 +5814,7 @@
     "explanation": ""
   },
   {
-    "id": 329,
+    "id": 324,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5922,7 +5832,7 @@
     "explanation": ""
   },
   {
-    "id": 330,
+    "id": 325,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5940,7 +5850,7 @@
     "explanation": ""
   },
   {
-    "id": 331,
+    "id": 326,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5958,7 +5868,7 @@
     "explanation": ""
   },
   {
-    "id": 332,
+    "id": 327,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5976,7 +5886,7 @@
     "explanation": ""
   },
   {
-    "id": 333,
+    "id": 328,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -5994,7 +5904,7 @@
     "explanation": ""
   },
   {
-    "id": 334,
+    "id": 329,
     "date": "20110213",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6012,7 +5922,7 @@
     "explanation": ""
   },
   {
-    "id": 335,
+    "id": 330,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6030,7 +5940,7 @@
     "explanation": ""
   },
   {
-    "id": 336,
+    "id": 331,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6048,7 +5958,7 @@
     "explanation": ""
   },
   {
-    "id": 337,
+    "id": 332,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6066,7 +5976,7 @@
     "explanation": ""
   },
   {
-    "id": 338,
+    "id": 333,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6084,7 +5994,7 @@
     "explanation": ""
   },
   {
-    "id": 339,
+    "id": 334,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6102,7 +6012,7 @@
     "explanation": ""
   },
   {
-    "id": 340,
+    "id": 335,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6120,7 +6030,7 @@
     "explanation": ""
   },
   {
-    "id": 341,
+    "id": 336,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6138,7 +6048,7 @@
     "explanation": ""
   },
   {
-    "id": 342,
+    "id": 337,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6156,7 +6066,7 @@
     "explanation": ""
   },
   {
-    "id": 343,
+    "id": 338,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6174,7 +6084,7 @@
     "explanation": ""
   },
   {
-    "id": 344,
+    "id": 339,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6192,7 +6102,7 @@
     "explanation": ""
   },
   {
-    "id": 345,
+    "id": 340,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6210,7 +6120,7 @@
     "explanation": ""
   },
   {
-    "id": 346,
+    "id": 341,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6228,7 +6138,7 @@
     "explanation": ""
   },
   {
-    "id": 347,
+    "id": 342,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6246,7 +6156,7 @@
     "explanation": ""
   },
   {
-    "id": 348,
+    "id": 343,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6264,7 +6174,7 @@
     "explanation": ""
   },
   {
-    "id": 349,
+    "id": 344,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6282,7 +6192,7 @@
     "explanation": ""
   },
   {
-    "id": 350,
+    "id": 345,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6300,7 +6210,7 @@
     "explanation": ""
   },
   {
-    "id": 351,
+    "id": 346,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6318,7 +6228,7 @@
     "explanation": ""
   },
   {
-    "id": 352,
+    "id": 347,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6336,7 +6246,7 @@
     "explanation": ""
   },
   {
-    "id": 353,
+    "id": 348,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6354,7 +6264,7 @@
     "explanation": ""
   },
   {
-    "id": 354,
+    "id": 349,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6372,7 +6282,7 @@
     "explanation": ""
   },
   {
-    "id": 355,
+    "id": 350,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6390,7 +6300,7 @@
     "explanation": ""
   },
   {
-    "id": 356,
+    "id": 351,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6408,7 +6318,7 @@
     "explanation": ""
   },
   {
-    "id": 357,
+    "id": 352,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6426,7 +6336,7 @@
     "explanation": ""
   },
   {
-    "id": 358,
+    "id": 353,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6444,7 +6354,7 @@
     "explanation": ""
   },
   {
-    "id": 359,
+    "id": 354,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6462,7 +6372,7 @@
     "explanation": ""
   },
   {
-    "id": 360,
+    "id": 355,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6480,7 +6390,7 @@
     "explanation": ""
   },
   {
-    "id": 361,
+    "id": 356,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6498,7 +6408,7 @@
     "explanation": ""
   },
   {
-    "id": 362,
+    "id": 357,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6516,7 +6426,7 @@
     "explanation": ""
   },
   {
-    "id": 363,
+    "id": 358,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6534,25 +6444,7 @@
     "explanation": ""
   },
   {
-    "id": 364,
-    "date": "20110417",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 46,
-    "question": "유압장치의 기호회로도에 사용되는 유압기호의 표시방법으 로 적합하지 않은 것은?",
-    "choices": {
-      "1": "기호에는 흐름의 방향을 표시한다.",
-      "2": "각 기기의 기호는 정상상태 또는 중립상태를 표시한다.",
-      "3": "기호는 어떠한 경우에도 회전하여서는 안 된다.",
-      "4": "기호에는 각 기기의 구조나 작용압력을 표시하지 않는 다."
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 365,
+    "id": 359,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6570,7 +6462,7 @@
     "explanation": ""
   },
   {
-    "id": 366,
+    "id": 360,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6588,7 +6480,7 @@
     "explanation": ""
   },
   {
-    "id": 367,
+    "id": 361,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6606,7 +6498,7 @@
     "explanation": ""
   },
   {
-    "id": 368,
+    "id": 362,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6624,7 +6516,7 @@
     "explanation": ""
   },
   {
-    "id": 369,
+    "id": 363,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6642,7 +6534,7 @@
     "explanation": ""
   },
   {
-    "id": 370,
+    "id": 364,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6660,7 +6552,7 @@
     "explanation": ""
   },
   {
-    "id": 371,
+    "id": 365,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6678,7 +6570,7 @@
     "explanation": ""
   },
   {
-    "id": 372,
+    "id": 366,
     "date": "20110417",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6696,7 +6588,7 @@
     "explanation": ""
   },
   {
-    "id": 373,
+    "id": 367,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6714,7 +6606,7 @@
     "explanation": ""
   },
   {
-    "id": 374,
+    "id": 368,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6732,7 +6624,7 @@
     "explanation": ""
   },
   {
-    "id": 375,
+    "id": 369,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6750,7 +6642,7 @@
     "explanation": ""
   },
   {
-    "id": 376,
+    "id": 370,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6768,7 +6660,7 @@
     "explanation": ""
   },
   {
-    "id": 377,
+    "id": 371,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6786,7 +6678,7 @@
     "explanation": ""
   },
   {
-    "id": 378,
+    "id": 372,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6804,7 +6696,7 @@
     "explanation": ""
   },
   {
-    "id": 379,
+    "id": 373,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6822,7 +6714,7 @@
     "explanation": ""
   },
   {
-    "id": 380,
+    "id": 374,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6840,7 +6732,7 @@
     "explanation": ""
   },
   {
-    "id": 381,
+    "id": 375,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6858,7 +6750,7 @@
     "explanation": ""
   },
   {
-    "id": 382,
+    "id": 376,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6876,7 +6768,7 @@
     "explanation": ""
   },
   {
-    "id": 383,
+    "id": 377,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6894,7 +6786,7 @@
     "explanation": ""
   },
   {
-    "id": 384,
+    "id": 378,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6912,7 +6804,7 @@
     "explanation": ""
   },
   {
-    "id": 385,
+    "id": 379,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6930,7 +6822,7 @@
     "explanation": ""
   },
   {
-    "id": 386,
+    "id": 380,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6948,7 +6840,7 @@
     "explanation": ""
   },
   {
-    "id": 387,
+    "id": 381,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6966,7 +6858,7 @@
     "explanation": ""
   },
   {
-    "id": 388,
+    "id": 382,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -6984,7 +6876,7 @@
     "explanation": ""
   },
   {
-    "id": 389,
+    "id": 383,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7002,7 +6894,7 @@
     "explanation": ""
   },
   {
-    "id": 390,
+    "id": 384,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7020,7 +6912,7 @@
     "explanation": ""
   },
   {
-    "id": 391,
+    "id": 385,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7038,7 +6930,7 @@
     "explanation": ""
   },
   {
-    "id": 392,
+    "id": 386,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7056,7 +6948,7 @@
     "explanation": ""
   },
   {
-    "id": 393,
+    "id": 387,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7074,7 +6966,7 @@
     "explanation": ""
   },
   {
-    "id": 394,
+    "id": 388,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7092,25 +6984,7 @@
     "explanation": ""
   },
   {
-    "id": 395,
-    "date": "20110731",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 46,
-    "question": "그림과 같은 실린더의 명칭은?",
-    "choices": {
-      "1": "단동 실린더",
-      "2": "단동 다단 실린더",
-      "3": "복동 실린더",
-      "4": "복동 다단 실린더"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 396,
+    "id": 389,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7128,7 +7002,7 @@
     "explanation": ""
   },
   {
-    "id": 397,
+    "id": 390,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7146,7 +7020,7 @@
     "explanation": ""
   },
   {
-    "id": 398,
+    "id": 391,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7164,7 +7038,7 @@
     "explanation": ""
   },
   {
-    "id": 399,
+    "id": 392,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7182,7 +7056,7 @@
     "explanation": ""
   },
   {
-    "id": 400,
+    "id": 393,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7200,7 +7074,7 @@
     "explanation": ""
   },
   {
-    "id": 401,
+    "id": 394,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7218,7 +7092,7 @@
     "explanation": ""
   },
   {
-    "id": 402,
+    "id": 395,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7236,7 +7110,7 @@
     "explanation": ""
   },
   {
-    "id": 403,
+    "id": 396,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7254,7 +7128,7 @@
     "explanation": ""
   },
   {
-    "id": 404,
+    "id": 397,
     "date": "20110731",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7272,7 +7146,7 @@
     "explanation": ""
   },
   {
-    "id": 405,
+    "id": 398,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7290,7 +7164,7 @@
     "explanation": ""
   },
   {
-    "id": 406,
+    "id": 399,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7308,7 +7182,7 @@
     "explanation": ""
   },
   {
-    "id": 407,
+    "id": 400,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7326,7 +7200,7 @@
     "explanation": ""
   },
   {
-    "id": 408,
+    "id": 401,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7344,7 +7218,7 @@
     "explanation": ""
   },
   {
-    "id": 409,
+    "id": 402,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7362,7 +7236,7 @@
     "explanation": ""
   },
   {
-    "id": 410,
+    "id": 403,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7380,7 +7254,7 @@
     "explanation": ""
   },
   {
-    "id": 411,
+    "id": 404,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7398,7 +7272,7 @@
     "explanation": ""
   },
   {
-    "id": 412,
+    "id": 405,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7416,7 +7290,7 @@
     "explanation": ""
   },
   {
-    "id": 413,
+    "id": 406,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7434,7 +7308,7 @@
     "explanation": ""
   },
   {
-    "id": 414,
+    "id": 407,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7452,7 +7326,7 @@
     "explanation": ""
   },
   {
-    "id": 415,
+    "id": 408,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7470,7 +7344,7 @@
     "explanation": ""
   },
   {
-    "id": 416,
+    "id": 409,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7488,7 +7362,7 @@
     "explanation": ""
   },
   {
-    "id": 417,
+    "id": 410,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7506,7 +7380,7 @@
     "explanation": ""
   },
   {
-    "id": 418,
+    "id": 411,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7524,7 +7398,7 @@
     "explanation": ""
   },
   {
-    "id": 419,
+    "id": 412,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7542,7 +7416,7 @@
     "explanation": ""
   },
   {
-    "id": 420,
+    "id": 413,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7560,7 +7434,7 @@
     "explanation": ""
   },
   {
-    "id": 421,
+    "id": 414,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7578,7 +7452,7 @@
     "explanation": ""
   },
   {
-    "id": 422,
+    "id": 415,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7596,7 +7470,7 @@
     "explanation": ""
   },
   {
-    "id": 423,
+    "id": 416,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7614,7 +7488,7 @@
     "explanation": ""
   },
   {
-    "id": 424,
+    "id": 417,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7632,7 +7506,7 @@
     "explanation": ""
   },
   {
-    "id": 425,
+    "id": 418,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7650,7 +7524,7 @@
     "explanation": ""
   },
   {
-    "id": 426,
+    "id": 419,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7668,7 +7542,7 @@
     "explanation": ""
   },
   {
-    "id": 427,
+    "id": 420,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7686,7 +7560,7 @@
     "explanation": ""
   },
   {
-    "id": 428,
+    "id": 421,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7704,7 +7578,7 @@
     "explanation": ""
   },
   {
-    "id": 429,
+    "id": 422,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7722,7 +7596,7 @@
     "explanation": ""
   },
   {
-    "id": 430,
+    "id": 423,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7740,7 +7614,7 @@
     "explanation": ""
   },
   {
-    "id": 431,
+    "id": 424,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7758,7 +7632,7 @@
     "explanation": ""
   },
   {
-    "id": 432,
+    "id": 425,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7776,7 +7650,7 @@
     "explanation": ""
   },
   {
-    "id": 433,
+    "id": 426,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7794,7 +7668,7 @@
     "explanation": ""
   },
   {
-    "id": 434,
+    "id": 427,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7812,7 +7686,7 @@
     "explanation": ""
   },
   {
-    "id": 435,
+    "id": 428,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7830,7 +7704,7 @@
     "explanation": ""
   },
   {
-    "id": 436,
+    "id": 429,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7848,7 +7722,7 @@
     "explanation": ""
   },
   {
-    "id": 437,
+    "id": 430,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7866,7 +7740,7 @@
     "explanation": ""
   },
   {
-    "id": 438,
+    "id": 431,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7884,7 +7758,7 @@
     "explanation": ""
   },
   {
-    "id": 439,
+    "id": 432,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7902,7 +7776,7 @@
     "explanation": ""
   },
   {
-    "id": 440,
+    "id": 433,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7920,7 +7794,7 @@
     "explanation": ""
   },
   {
-    "id": 441,
+    "id": 434,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7938,7 +7812,7 @@
     "explanation": ""
   },
   {
-    "id": 442,
+    "id": 435,
     "date": "20111009",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7956,7 +7830,7 @@
     "explanation": ""
   },
   {
-    "id": 443,
+    "id": 436,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7974,7 +7848,7 @@
     "explanation": ""
   },
   {
-    "id": 444,
+    "id": 437,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -7992,7 +7866,7 @@
     "explanation": ""
   },
   {
-    "id": 445,
+    "id": 438,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8010,7 +7884,7 @@
     "explanation": ""
   },
   {
-    "id": 446,
+    "id": 439,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8028,7 +7902,7 @@
     "explanation": ""
   },
   {
-    "id": 447,
+    "id": 440,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8046,7 +7920,7 @@
     "explanation": ""
   },
   {
-    "id": 448,
+    "id": 441,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8064,7 +7938,7 @@
     "explanation": ""
   },
   {
-    "id": 449,
+    "id": 442,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8082,7 +7956,7 @@
     "explanation": ""
   },
   {
-    "id": 450,
+    "id": 443,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8100,7 +7974,7 @@
     "explanation": ""
   },
   {
-    "id": 451,
+    "id": 444,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8118,7 +7992,7 @@
     "explanation": ""
   },
   {
-    "id": 452,
+    "id": 445,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8136,7 +8010,7 @@
     "explanation": ""
   },
   {
-    "id": 453,
+    "id": 446,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8154,7 +8028,7 @@
     "explanation": ""
   },
   {
-    "id": 454,
+    "id": 447,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8172,7 +8046,7 @@
     "explanation": ""
   },
   {
-    "id": 455,
+    "id": 448,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8190,7 +8064,7 @@
     "explanation": ""
   },
   {
-    "id": 456,
+    "id": 449,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8208,7 +8082,7 @@
     "explanation": ""
   },
   {
-    "id": 457,
+    "id": 450,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8226,7 +8100,7 @@
     "explanation": ""
   },
   {
-    "id": 458,
+    "id": 451,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8244,7 +8118,7 @@
     "explanation": ""
   },
   {
-    "id": 459,
+    "id": 452,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8262,7 +8136,7 @@
     "explanation": ""
   },
   {
-    "id": 460,
+    "id": 453,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8280,7 +8154,7 @@
     "explanation": ""
   },
   {
-    "id": 461,
+    "id": 454,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8298,7 +8172,7 @@
     "explanation": ""
   },
   {
-    "id": 462,
+    "id": 455,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8316,7 +8190,7 @@
     "explanation": ""
   },
   {
-    "id": 463,
+    "id": 456,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8334,7 +8208,7 @@
     "explanation": ""
   },
   {
-    "id": 464,
+    "id": 457,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8352,7 +8226,7 @@
     "explanation": ""
   },
   {
-    "id": 465,
+    "id": 458,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8370,7 +8244,7 @@
     "explanation": ""
   },
   {
-    "id": 466,
+    "id": 459,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8388,7 +8262,7 @@
     "explanation": ""
   },
   {
-    "id": 467,
+    "id": 460,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8406,25 +8280,7 @@
     "explanation": ""
   },
   {
-    "id": 468,
-    "date": "20131012",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 37,
-    "question": "유압장치의 기호 회로도에 사용되는 유압 기호의 표시방법 으로 적합하지 않은 것은?",
-    "choices": {
-      "1": "기호에는 흐름의 방향을 표시한다.",
-      "2": "각 기기의 기호는 정상상태 또는 중립상태를 표시한다.",
-      "3": "기호는 어떠한 경우에도 회전하여서는 안된다.",
-      "4": "기호에는 각 기기의 구조나 작용압력을 표시하지 않는 다."
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 469,
+    "id": 461,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8442,7 +8298,7 @@
     "explanation": ""
   },
   {
-    "id": 470,
+    "id": 462,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8460,7 +8316,7 @@
     "explanation": ""
   },
   {
-    "id": 471,
+    "id": 463,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8478,7 +8334,7 @@
     "explanation": ""
   },
   {
-    "id": 472,
+    "id": 464,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8496,7 +8352,7 @@
     "explanation": ""
   },
   {
-    "id": 473,
+    "id": 465,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8514,25 +8370,7 @@
     "explanation": ""
   },
   {
-    "id": 474,
-    "date": "20131012",
-    "subject": 1,
-    "subject_name": "과목 구분 없음",
-    "question_no": 49,
-    "question": "다음 그림은 안전표지의 어떠한 내용을 나타내는가?",
-    "choices": {
-      "1": "지시표지",
-      "2": "금지표지",
-      "3": "경고표지",
-      "4": "안내표지"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 475,
+    "id": 466,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8550,7 +8388,7 @@
     "explanation": ""
   },
   {
-    "id": 476,
+    "id": 467,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",
@@ -8568,7 +8406,7 @@
     "explanation": ""
   },
   {
-    "id": 477,
+    "id": 468,
     "date": "20131012",
     "subject": 1,
     "subject_name": "과목 구분 없음",

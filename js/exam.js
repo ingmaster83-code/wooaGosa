@@ -58,7 +58,8 @@ const FILE = (() => {
   if (TYPE === 'elevator_eng')     return 'elevator_eng';
   if (TYPE === 'energy_craft')     return 'energy_craft';
   if (TYPE === 'energy_eng')       return 'energy_eng';
-  return 'license12';
+  // 신규 자격증: type을 그대로 파일명으로 사용
+  return TYPE;
 })();
 
 const DEFAULT_COUNT = {
@@ -83,7 +84,13 @@ const DEFAULT_COUNT = {
   'elevator_craft': 60, 'elevator_eng': 80,
   'energy_craft': 60, 'energy_eng': 100,
 };
-const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || '40'));
+function autoCount(f) {
+  if (f.includes('기능사') || f.includes('기능장') || f.includes('운전기능사')) return 60;
+  if (f.includes('산업기사')) return 80;
+  if (f.includes('기사')) return 100;
+  return 60;
+}
+const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || autoCount(FILE)));
 
 const DATA_URL_MAP = {
   'license12':        'data/license_1_2.json',
@@ -133,7 +140,7 @@ const DATA_URL_MAP = {
   'energy_craft':     'data/energy_craft.json',
   'energy_eng':       'data/energy_eng.json',
 };
-const DATA_URL = DATA_URL_MAP[FILE] || 'data/license_1_2.json';
+const DATA_URL = DATA_URL_MAP[FILE] || `data/${FILE}.json`;
 
 // 시험 유형 표시명 (URL label 파라미터 우선, 없으면 type으로 매핑)
 const TYPE_LABELS = {
@@ -188,7 +195,7 @@ const TYPE_LABELS = {
   'energy_craft':      '에너지관리기능사',
   'energy_eng':        '에너지관리기사',
 };
-const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || '모의고사';
+const typeLabel = params.get('label') || TYPE_LABELS[TYPE] || TYPE;
 
 let allQuestions  = [];   // 전체 문제 데이터
 let examQuestions = [];   // 현재 시험에 사용할 문제
@@ -242,7 +249,7 @@ window.addEventListener('DOMContentLoaded', async () => {
       'elevator_craft': '🛗', 'elevator_eng': '🛗',
       'energy_craft': '♨️', 'energy_eng': '♨️',
     };
-    logoIcon.textContent = ICONS[TYPE] || '🚗';
+    logoIcon.textContent = ICONS[TYPE] || '📝';
   }
   await loadData();
   buildExam();

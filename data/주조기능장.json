@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "주형제작에서 탕구비 계산에 포함되지 않는 부분은?",
+    "choices": {
+      "1": "10",
+      "2": "50",
+      "3": "80 ❹ 200",
+      "4": "10 5. 주물사에 첨가제로 사용되는 규산분말(sillca flour)은 약 몇 메시(mesh)정도인가?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "채플렛(chaplet)을 이용하는 가장 큰 이유는?",
+    "choices": {
+      "2": "가스의 배출",
+      "3": "가공 여유",
+      "4": "보정 여유",
+      "1": "주물재질 ❷ 제작 수량"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "지름이 일정한 직관이나 곡관을 만들 때 가장 효과적인 모 형은?",
+    "choices": {
+      "1": "현형",
+      "2": "겹침형",
+      "4": "분할형",
+      "3": "반쪽형"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 28,
+    "question": "응고시 팽창하는 금속은?",
+    "choices": {
+      "1": "10% ❷ 20%",
+      "2": "Cu ❸ Bi",
+      "4": "40%",
+      "3": "30%"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 32,
+    "question": "베릴륨(Be)의 설명 중 옳은 것은?",
+    "choices": {
+      "2": "비중이 약 2.74이다.",
+      "3": "C",
+      "4": "D",
+      "1": "A ❷ B"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "철강중에 함유된 철 이외의 5대 원소는?",
+    "choices": {
+      "2": "24번",
+      "3": "25번 ❹ 26번",
+      "4": "소화작업이 쉬워진다. 38. 공업용 내화 연화는 SEGER CONE 몇 번이상의 내화도로 규정하는가?",
+      "1": "23번"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "금속의 특성 중 유동성의 설명으로 옳은 것은?",
+    "choices": {
+      "1": "항상 일정하다.",
+      "3": "플로우오프 ❹ 압탕 48. 목재 가공용(드릴, 대패, 끌 등) 공구날의 각도는 일반적으 로 재료가 단단할수록 어떻게 되는가?",
+      "4": "관계없다.",
+      "2": "작아진다. ❸ 커진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "용선로 용해에 있어서 컴퓨터 제어 항목이 아닌 것은?",
+    "choices": {
+      "1": "용해속도",
+      "2": "입력우선회로",
+      "3": "기동우선회로",
+      "4": "정지우선회로"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "Cupola에서 tuyere ratio(송풍구비)란?",
+    "choices": {
+      "1": "고물개형 모형(Strickle Pattern)",
+      "2": "매치 플레이트(Match Plate) ❸ 원형 모형(Master Pattern)",
+      "3": "Investment법 ❹ Shell mould법 7. 금형모형을 만들기 위하여 목형에 이중 수축여유, 기계가공 여유 등을 붙여 만드는 모형은?",
+      "4": "패턴 플레이트(Pattern Plate)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "주물을 만들 때 설치하는 압탕의 설계와 배치가 옳지 않는 것은?",
+    "choices": {
+      "1": "생형법 ❷ 쉘형법",
+      "2": "압탕은 주물의 방향성 응고를 하도록 설치한다. ❸ 압탕의 모양은 응고시간에 관계없다.",
+      "4": "CO 형법 2",
+      "3": "유사형법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "비가압식 탕구방안의 탕구비에 가장 적당한 것은?",
+    "choices": {
+      "2": "덧붙임",
+      "3": "기울기(인발구배) ❹ 수축여유",
+      "4": "2:1:1 17. 도면에 의하여 모형을 제작할 때 조형 또는 주조를 위하여 도면에 표시한 형상(모형)을 모형에 다소 변경시켜 만드는 사항에 해당하지 않는 것은?",
+      "1": "라운딩"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 19,
+    "question": "나무의 심재가 갖고 있는 성질로 맞는 것은?",
+    "choices": {
+      "1": "수분이 많고 연하다.",
+      "2": "약 7.3",
+      "3": "약 8.3",
+      "4": "약 9.7"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "대패에 덧날을 끼우는 이유로 가장 중요한 것은?",
+    "choices": {
+      "1": "주먹장부맞춤",
+      "2": "쪽매맞춤",
+      "4": "원날을 보호하기 위한 것이다. 24. 분할형의 상.하를 정확히 맞출 수 있으며 목형의 상형을 하 형에서 직각으로 뽑을 수 있도록 만든 것은?",
+      "3": "맞대맞춤 ❹ 다우얼맞춤"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "기계를 운전하기 전에 해야 할 일과 관련이 가장 적은 것 은?",
+    "choices": {
+      "1": "Cold shut",
+      "2": "Crushing ❸ Drop or drop out",
+      "3": "주물사의 배합이 부적당할 경우 ❹ 두께가 불균일한 대형주물을 급속히 냉각한 경우 38. 주형을 진동시키거나 들어올릴 때 모래가 떨어지는 현상의 결함은?",
+      "4": "Drawing"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "도면에 표시되는 치수는 어떤 치수를 기입하는가?",
+    "choices": {
+      "1": "신뢰성 ❷ 정확성",
+      "2": "펄라이트",
+      "3": "정밀도",
+      "4": "오차"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "예방보전의 기능에 해당하지 않는 것은?",
+    "choices": {
+      "1": "취급되어야 할 대상설비의 결정",
+      "2": "U 관리도",
+      "3": "관리도",
+      "4": "X 관리도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "큐폴라 조업에서 연소율(η )이란? V",
+    "choices": {
+      "1": "산세척법",
+      "2": "아말감법",
+      "4": "4. 부식검사는 대기속 혹은 용액에 침지하여 녹의 발생상황에 따라서 표면결함의 검출이나 재질의 적부를 판정하는 것이다. 이 검사방법 중 틀린 것은?",
+      "3": "해수침지법 ❹ 테르미트법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "미하나이트(meehanite)주철의 접종제로 쓰이는 것은?",
+    "choices": {
+      "2": "Ca - C",
+      "3": "γ-ray test",
+      "4": "Magnetic test",
+      "1": "Leak test ❷ Ultrasonic test"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "백심가단주철의 풀림온도로 가장 적합한 것은?",
+    "choices": {
+      "2": "실외공기 중 직사광선 속에서 ❸ 데시케이터 안에서",
+      "3": "1420 - 1460℃",
+      "4": "건조로 안에서",
+      "1": "실내공기 중에서"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "쉘몰드에 사용하는 금형의 적합한 사용 온도는?",
+    "choices": {
+      "1": "균열(crack)",
+      "3": "수축공(shrinkage cavity) ❹ 콜드셔트(cold shut)",
+      "4": "850 - 950℃ 21. 주입온도가 낮거나 주입속도가 늦을 때 용금이 완전히 합쳐 지지 못하고 기계적으로 접촉되어진 결함은?",
+      "2": "스캡(scab)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "내화물에서 SK 26의 연화점은 몇도 정도인가?",
+    "choices": {
+      "1": "1480℃ ❷ 1580℃",
+      "3": "55",
+      "4": "42",
+      "2": "58"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "조형할 때 부분형(section pattern)의 사용에 가장 적합한 것은?",
+    "choices": {
+      "1": "진비중",
+      "3": "소형벨트풀리",
+      "4": "생재비중",
+      "2": "전건비중 ❸ 기건비중"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "컴파아트먼식 열기건조법의 특징 중 틀린 것은?",
+    "choices": {
+      "1": "용량별로 나누어 설치할 수 있다.",
+      "2": "패턴 프레이트",
+      "3": "매스터 패턴",
+      "4": "스킨 패턴"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "고압 가스의 충전 용기의 보관시 유의할 사항 중 옳지 않는 것은?",
+    "choices": {
+      "1": "합금원소 첨가에 의한 연강의 고용강화 ❷ 미량 합금원소 첨가에 의한 결정립의 조대화",
+      "2": "용해온도 증가 ❸ 폭발",
+      "3": "미량 합금원소 첨가에 의한 석출강화",
+      "4": "제어 압연에 의한 강인화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "다음 중 가장 정밀한 치수를 가공할 수 있는 가공법은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "❹",
+      "4": ""
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "자동제어의 필요성이 아닌 것은?",
+    "choices": {
+      "1": "노동조건 향상",
+      "2": "Snap Mode",
+      "4": "Grip Mode",
+      "3": "Change"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "도수분포표에서 도수가 최대인 곳의 대표치를 말하는 것은?",
+    "choices": {
+      "1": "90분 ❷ 62분",
+      "2": "비 대칭도 ❸ 모우드(mode)",
+      "4": "13분",
+      "3": "26분"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "표면모래는 어느 성질이 가장 필요한가?",
+    "choices": {
+      "1": "master pattern",
+      "2": "pattern plate",
+      "4": "성형성이 좋을 것 3. 상형,하형부분의 모형이 분리선(parting line)을 구성하는 평 판의 양측에 붙어있고 일반적으로 탕구계(湯口系) 탕도계(湯 道系)도 함께 붙어있는 소형주물의 다량 생산에 적합한 모형 은?",
+      "3": "pattern draft ❹ match plate"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "수축여유와 가공여유를 이중으로 주는 원형은?",
+    "choices": {
+      "1": "목형 ❷ 금형",
+      "3": "니들밸브가 정확하게 맞지 않고 있다.",
+      "4": "밸런스 피스톤의 작동 불량이다.",
+      "2": "조정핸들에 대한 압력설정이 적당치 않다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "주물사의 통기도를 구하는 식이 맞는 것은? [단, V = 시험편 을 통과한 공기의 양(cc), h = 시험편의 높이(㎝), P = 시험 편 상하의 압력차이에 의한 수주의 높이(㎝/Hg), A = 시험편 의 단면적(cm2), t = 공기가 통과하는데 걸리는 시간(분)]",
+    "choices": {
+      "2": "Al",
+      "3": "S ❹ P",
+      "4": "PA / Vht 7. 동합금 주물에서 Mold reaction 을 촉진시키고 유동성을 가 장 좋게 하는 원소는?",
+      "1": "Ca"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "구멍과 축이 억지 맞춤일 때는 어느 경우인가?",
+    "choices": {
+      "1": "구멍의 최소 허용치수 ＞ 축의 최대 허용치수",
+      "2": "입력우선회로",
+      "4": "정지우선회로",
+      "3": "기동우선회로"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "구상 흑연주철품에 해당하는 기호는?",
+    "choices": {
+      "1": "퍼얼라이트(pearlite)",
+      "3": "BSC",
+      "4": "소르바이트(sorbite)",
+      "2": "마르텐사이트(martensite) ❸ 트루스타이트(troostite)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "다음 중 주물사의 노화원인으로 틀린 것은?",
+    "choices": {
+      "1": "사립의 이상팽창에 의한 균열",
+      "2": "피치",
+      "4": "측면 경사각",
+      "3": "절삭각"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "컴퓨터에 의한 공정계획(CAPP)시스템의 장점 중 틀린 것 은?",
+    "choices": {
+      "1": "공정합리화와 표준화",
+      "2": "판목(板目)",
+      "4": "변재(邊材)",
+      "3": "종목(縱目)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  }
+]

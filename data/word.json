@@ -148,24 +148,6 @@
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
-    "question_no": 9,
-    "question": "다음 그림은 A형 용지이다. 인쇄 용지의 규격을 올바르게 나 열한 것은?",
-    "choices": {
-      "1": "(ㄱ) : A1 → (ㄴ) : A3 → (ㄷ) : A5 → (ㄹ) : A7",
-      "2": "(ㄱ) : A2 → (ㄴ) : A4 → (ㄷ) : A6 → (ㄹ) : A8",
-      "3": "(ㄱ) : A6 → (ㄴ) : A5 → (ㄷ) : A4 → (ㄹ) : A3",
-      "4": "(ㄱ) : A3 → (ㄴ) : A4 → (ㄷ) : A5 → (ㄹ) : A6"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 10,
-    "date": "20151017",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
     "question_no": 10,
     "question": "다음 DTP(Desk Top Publishing) 관련 용어의 설명이다. 옳 지 않은 것은?",
     "choices": {
@@ -180,7 +162,7 @@
     "explanation": ""
   },
   {
-    "id": 11,
+    "id": 10,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -198,7 +180,7 @@
     "explanation": ""
   },
   {
-    "id": 12,
+    "id": 11,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -216,7 +198,7 @@
     "explanation": ""
   },
   {
-    "id": 13,
+    "id": 12,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -234,7 +216,7 @@
     "explanation": ""
   },
   {
-    "id": 14,
+    "id": 13,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -252,7 +234,7 @@
     "explanation": ""
   },
   {
-    "id": 15,
+    "id": 14,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -270,7 +252,7 @@
     "explanation": ""
   },
   {
-    "id": 16,
+    "id": 15,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -288,7 +270,7 @@
     "explanation": ""
   },
   {
-    "id": 17,
+    "id": 16,
     "date": "20151017",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -306,7 +288,7 @@
     "explanation": ""
   },
   {
-    "id": 18,
+    "id": 17,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -324,7 +306,7 @@
     "explanation": ""
   },
   {
-    "id": 19,
+    "id": 18,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -342,7 +324,7 @@
     "explanation": ""
   },
   {
-    "id": 20,
+    "id": 19,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -360,7 +342,7 @@
     "explanation": ""
   },
   {
-    "id": 21,
+    "id": 20,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -378,7 +360,7 @@
     "explanation": ""
   },
   {
-    "id": 22,
+    "id": 21,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -396,7 +378,7 @@
     "explanation": ""
   },
   {
-    "id": 23,
+    "id": 22,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -414,7 +396,7 @@
     "explanation": ""
   },
   {
-    "id": 24,
+    "id": 23,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -432,7 +414,7 @@
     "explanation": ""
   },
   {
-    "id": 25,
+    "id": 24,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -450,7 +432,7 @@
     "explanation": ""
   },
   {
-    "id": 26,
+    "id": 25,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -468,7 +450,7 @@
     "explanation": ""
   },
   {
-    "id": 27,
+    "id": 26,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -486,7 +468,7 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 27,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -504,7 +486,7 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 28,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -522,7 +504,7 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 29,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -540,7 +522,7 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 30,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -558,7 +540,7 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 31,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -576,7 +558,7 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 32,
     "date": "20151017",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -594,7 +576,7 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 33,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -612,7 +594,7 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 34,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -630,7 +612,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 35,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -648,7 +630,7 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 36,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -666,7 +648,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 37,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -684,7 +666,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 38,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -702,7 +684,7 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 39,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -720,7 +702,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 40,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -738,7 +720,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 41,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -756,7 +738,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 42,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -774,7 +756,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 43,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -792,7 +774,7 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 44,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -810,7 +792,7 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 45,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -828,7 +810,7 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 46,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -846,7 +828,7 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 47,
     "date": "20151017",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -864,7 +846,7 @@
     "explanation": ""
   },
   {
-    "id": 49,
+    "id": 48,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -882,7 +864,7 @@
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 49,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -900,7 +882,7 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 50,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -918,7 +900,7 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 51,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -936,7 +918,7 @@
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 52,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -954,7 +936,7 @@
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 53,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -972,7 +954,7 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 54,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -990,7 +972,7 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 55,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1008,7 +990,7 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 56,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1026,7 +1008,7 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 57,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1044,7 +1026,7 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 58,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1062,7 +1044,7 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 59,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1080,7 +1062,7 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 60,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1098,7 +1080,7 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 61,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1116,7 +1098,7 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 62,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1134,7 +1116,7 @@
     "explanation": ""
   },
   {
-    "id": 64,
+    "id": 63,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1152,7 +1134,7 @@
     "explanation": ""
   },
   {
-    "id": 65,
+    "id": 64,
     "date": "20160305",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1170,25 +1152,7 @@
     "explanation": ""
   },
   {
-    "id": 66,
-    "date": "20160305",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 20,
-    "question": "다음과 같이 주어진 문장에 교정부호를 사용했을 때 교정된 결과로 옳은 것은?(문제에 오류가 있습니다. 대한상공회의소 에서 공개한 문제에서 사용한 교정부호가 그림상에서 빠져 있습니다. 정답은 4번 입니다. 참고만 하세요.)",
-    "choices": {
-      "1": "개도 먹여 주는 안다",
-      "2": "개도 먹여 주는 사람은 안다",
-      "3": "사나운 개도는 먹여 주는 안다",
-      "4": "사나운 개도 먹여 주는 사람은 안다"
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 67,
+    "id": 65,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1206,7 +1170,7 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 66,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1224,7 +1188,7 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 67,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1242,7 +1206,7 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 68,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1260,7 +1224,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 69,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1278,7 +1242,7 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 70,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1296,7 +1260,7 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 71,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1314,7 +1278,7 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 72,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1332,7 +1296,7 @@
     "explanation": ""
   },
   {
-    "id": 75,
+    "id": 73,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1350,7 +1314,7 @@
     "explanation": ""
   },
   {
-    "id": 76,
+    "id": 74,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1368,7 +1332,7 @@
     "explanation": ""
   },
   {
-    "id": 77,
+    "id": 75,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1386,7 +1350,7 @@
     "explanation": ""
   },
   {
-    "id": 78,
+    "id": 76,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1404,7 +1368,7 @@
     "explanation": ""
   },
   {
-    "id": 79,
+    "id": 77,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1422,7 +1386,7 @@
     "explanation": ""
   },
   {
-    "id": 80,
+    "id": 78,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1440,7 +1404,7 @@
     "explanation": ""
   },
   {
-    "id": 81,
+    "id": 79,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1458,7 +1422,7 @@
     "explanation": ""
   },
   {
-    "id": 82,
+    "id": 80,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1476,7 +1440,7 @@
     "explanation": ""
   },
   {
-    "id": 83,
+    "id": 81,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1494,7 +1458,7 @@
     "explanation": ""
   },
   {
-    "id": 84,
+    "id": 82,
     "date": "20160305",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -1512,7 +1476,7 @@
     "explanation": ""
   },
   {
-    "id": 85,
+    "id": 83,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1530,7 +1494,7 @@
     "explanation": ""
   },
   {
-    "id": 86,
+    "id": 84,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1548,7 +1512,7 @@
     "explanation": ""
   },
   {
-    "id": 87,
+    "id": 85,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1566,7 +1530,7 @@
     "explanation": ""
   },
   {
-    "id": 88,
+    "id": 86,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1584,7 +1548,7 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 87,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1602,7 +1566,7 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 88,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1620,7 +1584,7 @@
     "explanation": ""
   },
   {
-    "id": 91,
+    "id": 89,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1638,7 +1602,7 @@
     "explanation": ""
   },
   {
-    "id": 92,
+    "id": 90,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1656,7 +1620,7 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 91,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1674,7 +1638,7 @@
     "explanation": ""
   },
   {
-    "id": 94,
+    "id": 92,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1692,7 +1656,7 @@
     "explanation": ""
   },
   {
-    "id": 95,
+    "id": 93,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1710,7 +1674,7 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 94,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1728,7 +1692,7 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 95,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1746,7 +1710,7 @@
     "explanation": ""
   },
   {
-    "id": 98,
+    "id": 96,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1764,7 +1728,7 @@
     "explanation": ""
   },
   {
-    "id": 99,
+    "id": 97,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1782,7 +1746,7 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 98,
     "date": "20160305",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -1800,7 +1764,7 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 99,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1818,7 +1782,7 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 100,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1836,7 +1800,7 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 101,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1854,7 +1818,7 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 102,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1872,7 +1836,7 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 103,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1890,7 +1854,7 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 104,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1908,7 +1872,7 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 105,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1926,7 +1890,7 @@
     "explanation": ""
   },
   {
-    "id": 108,
+    "id": 106,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1944,7 +1908,7 @@
     "explanation": ""
   },
   {
-    "id": 109,
+    "id": 107,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1962,7 +1926,7 @@
     "explanation": ""
   },
   {
-    "id": 110,
+    "id": 108,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1980,7 +1944,7 @@
     "explanation": ""
   },
   {
-    "id": 111,
+    "id": 109,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -1998,7 +1962,7 @@
     "explanation": ""
   },
   {
-    "id": 112,
+    "id": 110,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2016,7 +1980,7 @@
     "explanation": ""
   },
   {
-    "id": 113,
+    "id": 111,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2034,7 +1998,7 @@
     "explanation": ""
   },
   {
-    "id": 114,
+    "id": 112,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2052,7 +2016,7 @@
     "explanation": ""
   },
   {
-    "id": 115,
+    "id": 113,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2070,7 +2034,7 @@
     "explanation": ""
   },
   {
-    "id": 116,
+    "id": 114,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2088,7 +2052,7 @@
     "explanation": ""
   },
   {
-    "id": 117,
+    "id": 115,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2106,7 +2070,7 @@
     "explanation": ""
   },
   {
-    "id": 118,
+    "id": 116,
     "date": "20160625",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2124,7 +2088,7 @@
     "explanation": ""
   },
   {
-    "id": 119,
+    "id": 117,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2142,7 +2106,7 @@
     "explanation": ""
   },
   {
-    "id": 120,
+    "id": 118,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2160,7 +2124,7 @@
     "explanation": ""
   },
   {
-    "id": 121,
+    "id": 119,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2178,7 +2142,7 @@
     "explanation": ""
   },
   {
-    "id": 122,
+    "id": 120,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2196,7 +2160,7 @@
     "explanation": ""
   },
   {
-    "id": 123,
+    "id": 121,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2214,7 +2178,7 @@
     "explanation": ""
   },
   {
-    "id": 124,
+    "id": 122,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2232,7 +2196,7 @@
     "explanation": ""
   },
   {
-    "id": 125,
+    "id": 123,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2250,7 +2214,7 @@
     "explanation": ""
   },
   {
-    "id": 126,
+    "id": 124,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2268,7 +2232,7 @@
     "explanation": ""
   },
   {
-    "id": 127,
+    "id": 125,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2286,7 +2250,7 @@
     "explanation": ""
   },
   {
-    "id": 128,
+    "id": 126,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2304,7 +2268,7 @@
     "explanation": ""
   },
   {
-    "id": 129,
+    "id": 127,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2322,7 +2286,7 @@
     "explanation": ""
   },
   {
-    "id": 130,
+    "id": 128,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2340,7 +2304,7 @@
     "explanation": ""
   },
   {
-    "id": 131,
+    "id": 129,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2358,7 +2322,7 @@
     "explanation": ""
   },
   {
-    "id": 132,
+    "id": 130,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2376,7 +2340,7 @@
     "explanation": ""
   },
   {
-    "id": 133,
+    "id": 131,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2394,7 +2358,7 @@
     "explanation": ""
   },
   {
-    "id": 134,
+    "id": 132,
     "date": "20160625",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -2412,7 +2376,7 @@
     "explanation": ""
   },
   {
-    "id": 135,
+    "id": 133,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2430,7 +2394,7 @@
     "explanation": ""
   },
   {
-    "id": 136,
+    "id": 134,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2448,7 +2412,7 @@
     "explanation": ""
   },
   {
-    "id": 137,
+    "id": 135,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2466,7 +2430,7 @@
     "explanation": ""
   },
   {
-    "id": 138,
+    "id": 136,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2484,7 +2448,7 @@
     "explanation": ""
   },
   {
-    "id": 139,
+    "id": 137,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2502,7 +2466,7 @@
     "explanation": ""
   },
   {
-    "id": 140,
+    "id": 138,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2520,7 +2484,7 @@
     "explanation": ""
   },
   {
-    "id": 141,
+    "id": 139,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2538,7 +2502,7 @@
     "explanation": ""
   },
   {
-    "id": 142,
+    "id": 140,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2556,7 +2520,7 @@
     "explanation": ""
   },
   {
-    "id": 143,
+    "id": 141,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2574,7 +2538,7 @@
     "explanation": ""
   },
   {
-    "id": 144,
+    "id": 142,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2592,7 +2556,7 @@
     "explanation": ""
   },
   {
-    "id": 145,
+    "id": 143,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2610,7 +2574,7 @@
     "explanation": ""
   },
   {
-    "id": 146,
+    "id": 144,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2628,7 +2592,7 @@
     "explanation": ""
   },
   {
-    "id": 147,
+    "id": 145,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2646,7 +2610,7 @@
     "explanation": ""
   },
   {
-    "id": 148,
+    "id": 146,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2664,7 +2628,7 @@
     "explanation": ""
   },
   {
-    "id": 149,
+    "id": 147,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2682,7 +2646,7 @@
     "explanation": ""
   },
   {
-    "id": 150,
+    "id": 148,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2700,7 +2664,7 @@
     "explanation": ""
   },
   {
-    "id": 151,
+    "id": 149,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2718,7 +2682,7 @@
     "explanation": ""
   },
   {
-    "id": 152,
+    "id": 150,
     "date": "20160625",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -2736,7 +2700,7 @@
     "explanation": ""
   },
   {
-    "id": 153,
+    "id": 151,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2754,7 +2718,7 @@
     "explanation": ""
   },
   {
-    "id": 154,
+    "id": 152,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2772,7 +2736,7 @@
     "explanation": ""
   },
   {
-    "id": 155,
+    "id": 153,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2790,7 +2754,7 @@
     "explanation": ""
   },
   {
-    "id": 156,
+    "id": 154,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2808,7 +2772,7 @@
     "explanation": ""
   },
   {
-    "id": 157,
+    "id": 155,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2826,7 +2790,7 @@
     "explanation": ""
   },
   {
-    "id": 158,
+    "id": 156,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2844,7 +2808,7 @@
     "explanation": ""
   },
   {
-    "id": 159,
+    "id": 157,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2862,7 +2826,7 @@
     "explanation": ""
   },
   {
-    "id": 160,
+    "id": 158,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2880,7 +2844,7 @@
     "explanation": ""
   },
   {
-    "id": 161,
+    "id": 159,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2898,7 +2862,7 @@
     "explanation": ""
   },
   {
-    "id": 162,
+    "id": 160,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2916,7 +2880,7 @@
     "explanation": ""
   },
   {
-    "id": 163,
+    "id": 161,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2934,7 +2898,7 @@
     "explanation": ""
   },
   {
-    "id": 164,
+    "id": 162,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2952,7 +2916,7 @@
     "explanation": ""
   },
   {
-    "id": 165,
+    "id": 163,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2970,7 +2934,7 @@
     "explanation": ""
   },
   {
-    "id": 166,
+    "id": 164,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -2988,7 +2952,7 @@
     "explanation": ""
   },
   {
-    "id": 167,
+    "id": 165,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3006,7 +2970,7 @@
     "explanation": ""
   },
   {
-    "id": 168,
+    "id": 166,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3024,7 +2988,7 @@
     "explanation": ""
   },
   {
-    "id": 169,
+    "id": 167,
     "date": "20161022",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3042,7 +3006,7 @@
     "explanation": ""
   },
   {
-    "id": 170,
+    "id": 168,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3060,7 +3024,7 @@
     "explanation": ""
   },
   {
-    "id": 171,
+    "id": 169,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3078,7 +3042,7 @@
     "explanation": ""
   },
   {
-    "id": 172,
+    "id": 170,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3096,7 +3060,7 @@
     "explanation": ""
   },
   {
-    "id": 173,
+    "id": 171,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3114,7 +3078,7 @@
     "explanation": ""
   },
   {
-    "id": 174,
+    "id": 172,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3132,7 +3096,7 @@
     "explanation": ""
   },
   {
-    "id": 175,
+    "id": 173,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3150,7 +3114,7 @@
     "explanation": ""
   },
   {
-    "id": 176,
+    "id": 174,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3168,7 +3132,7 @@
     "explanation": ""
   },
   {
-    "id": 177,
+    "id": 175,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3186,7 +3150,7 @@
     "explanation": ""
   },
   {
-    "id": 178,
+    "id": 176,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3204,7 +3168,7 @@
     "explanation": ""
   },
   {
-    "id": 179,
+    "id": 177,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3222,7 +3186,7 @@
     "explanation": ""
   },
   {
-    "id": 180,
+    "id": 178,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3240,7 +3204,7 @@
     "explanation": ""
   },
   {
-    "id": 181,
+    "id": 179,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3258,7 +3222,7 @@
     "explanation": ""
   },
   {
-    "id": 182,
+    "id": 180,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3276,7 +3240,7 @@
     "explanation": ""
   },
   {
-    "id": 183,
+    "id": 181,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3294,7 +3258,7 @@
     "explanation": ""
   },
   {
-    "id": 184,
+    "id": 182,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3312,7 +3276,7 @@
     "explanation": ""
   },
   {
-    "id": 185,
+    "id": 183,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3330,7 +3294,7 @@
     "explanation": ""
   },
   {
-    "id": 186,
+    "id": 184,
     "date": "20161022",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3348,7 +3312,7 @@
     "explanation": ""
   },
   {
-    "id": 187,
+    "id": 185,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3366,7 +3330,7 @@
     "explanation": ""
   },
   {
-    "id": 188,
+    "id": 186,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3384,7 +3348,7 @@
     "explanation": ""
   },
   {
-    "id": 189,
+    "id": 187,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3402,7 +3366,7 @@
     "explanation": ""
   },
   {
-    "id": 190,
+    "id": 188,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3420,7 +3384,7 @@
     "explanation": ""
   },
   {
-    "id": 191,
+    "id": 189,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3438,7 +3402,7 @@
     "explanation": ""
   },
   {
-    "id": 192,
+    "id": 190,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3456,7 +3420,7 @@
     "explanation": ""
   },
   {
-    "id": 193,
+    "id": 191,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3474,7 +3438,7 @@
     "explanation": ""
   },
   {
-    "id": 194,
+    "id": 192,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3492,7 +3456,7 @@
     "explanation": ""
   },
   {
-    "id": 195,
+    "id": 193,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3510,7 +3474,7 @@
     "explanation": ""
   },
   {
-    "id": 196,
+    "id": 194,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3528,7 +3492,7 @@
     "explanation": ""
   },
   {
-    "id": 197,
+    "id": 195,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3546,7 +3510,7 @@
     "explanation": ""
   },
   {
-    "id": 198,
+    "id": 196,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3564,7 +3528,7 @@
     "explanation": ""
   },
   {
-    "id": 199,
+    "id": 197,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3582,7 +3546,7 @@
     "explanation": ""
   },
   {
-    "id": 200,
+    "id": 198,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3600,7 +3564,7 @@
     "explanation": ""
   },
   {
-    "id": 201,
+    "id": 199,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3618,7 +3582,7 @@
     "explanation": ""
   },
   {
-    "id": 202,
+    "id": 200,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3636,7 +3600,7 @@
     "explanation": ""
   },
   {
-    "id": 203,
+    "id": 201,
     "date": "20161022",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -3654,7 +3618,7 @@
     "explanation": ""
   },
   {
-    "id": 204,
+    "id": 202,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3672,7 +3636,7 @@
     "explanation": ""
   },
   {
-    "id": 205,
+    "id": 203,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3690,7 +3654,7 @@
     "explanation": ""
   },
   {
-    "id": 206,
+    "id": 204,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3708,7 +3672,7 @@
     "explanation": ""
   },
   {
-    "id": 207,
+    "id": 205,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3726,7 +3690,7 @@
     "explanation": ""
   },
   {
-    "id": 208,
+    "id": 206,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3744,7 +3708,7 @@
     "explanation": ""
   },
   {
-    "id": 209,
+    "id": 207,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3762,7 +3726,7 @@
     "explanation": ""
   },
   {
-    "id": 210,
+    "id": 208,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3780,7 +3744,7 @@
     "explanation": ""
   },
   {
-    "id": 211,
+    "id": 209,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3798,7 +3762,7 @@
     "explanation": ""
   },
   {
-    "id": 212,
+    "id": 210,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3816,7 +3780,7 @@
     "explanation": ""
   },
   {
-    "id": 213,
+    "id": 211,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3834,7 +3798,7 @@
     "explanation": ""
   },
   {
-    "id": 214,
+    "id": 212,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3852,7 +3816,7 @@
     "explanation": ""
   },
   {
-    "id": 215,
+    "id": 213,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3870,7 +3834,7 @@
     "explanation": ""
   },
   {
-    "id": 216,
+    "id": 214,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3888,7 +3852,7 @@
     "explanation": ""
   },
   {
-    "id": 217,
+    "id": 215,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3906,7 +3870,7 @@
     "explanation": ""
   },
   {
-    "id": 218,
+    "id": 216,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3924,7 +3888,7 @@
     "explanation": ""
   },
   {
-    "id": 219,
+    "id": 217,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3942,7 +3906,7 @@
     "explanation": ""
   },
   {
-    "id": 220,
+    "id": 218,
     "date": "20170304",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -3960,7 +3924,7 @@
     "explanation": ""
   },
   {
-    "id": 221,
+    "id": 219,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3978,7 +3942,7 @@
     "explanation": ""
   },
   {
-    "id": 222,
+    "id": 220,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -3996,7 +3960,7 @@
     "explanation": ""
   },
   {
-    "id": 223,
+    "id": 221,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4014,7 +3978,7 @@
     "explanation": ""
   },
   {
-    "id": 224,
+    "id": 222,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4032,7 +3996,7 @@
     "explanation": ""
   },
   {
-    "id": 225,
+    "id": 223,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4050,7 +4014,7 @@
     "explanation": ""
   },
   {
-    "id": 226,
+    "id": 224,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4068,7 +4032,7 @@
     "explanation": ""
   },
   {
-    "id": 227,
+    "id": 225,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4086,7 +4050,7 @@
     "explanation": ""
   },
   {
-    "id": 228,
+    "id": 226,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4104,7 +4068,7 @@
     "explanation": ""
   },
   {
-    "id": 229,
+    "id": 227,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4122,7 +4086,7 @@
     "explanation": ""
   },
   {
-    "id": 230,
+    "id": 228,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4140,7 +4104,7 @@
     "explanation": ""
   },
   {
-    "id": 231,
+    "id": 229,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4158,7 +4122,7 @@
     "explanation": ""
   },
   {
-    "id": 232,
+    "id": 230,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4176,7 +4140,7 @@
     "explanation": ""
   },
   {
-    "id": 233,
+    "id": 231,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4194,7 +4158,7 @@
     "explanation": ""
   },
   {
-    "id": 234,
+    "id": 232,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4212,7 +4176,7 @@
     "explanation": ""
   },
   {
-    "id": 235,
+    "id": 233,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4230,7 +4194,7 @@
     "explanation": ""
   },
   {
-    "id": 236,
+    "id": 234,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4248,7 +4212,7 @@
     "explanation": ""
   },
   {
-    "id": 237,
+    "id": 235,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4266,7 +4230,7 @@
     "explanation": ""
   },
   {
-    "id": 238,
+    "id": 236,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4284,7 +4248,7 @@
     "explanation": ""
   },
   {
-    "id": 239,
+    "id": 237,
     "date": "20170304",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4302,7 +4266,7 @@
     "explanation": ""
   },
   {
-    "id": 240,
+    "id": 238,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4320,7 +4284,7 @@
     "explanation": ""
   },
   {
-    "id": 241,
+    "id": 239,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4338,7 +4302,7 @@
     "explanation": ""
   },
   {
-    "id": 242,
+    "id": 240,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4356,7 +4320,7 @@
     "explanation": ""
   },
   {
-    "id": 243,
+    "id": 241,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4374,7 +4338,7 @@
     "explanation": ""
   },
   {
-    "id": 244,
+    "id": 242,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4392,7 +4356,7 @@
     "explanation": ""
   },
   {
-    "id": 245,
+    "id": 243,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4410,7 +4374,7 @@
     "explanation": ""
   },
   {
-    "id": 246,
+    "id": 244,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4428,7 +4392,7 @@
     "explanation": ""
   },
   {
-    "id": 247,
+    "id": 245,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4446,7 +4410,7 @@
     "explanation": ""
   },
   {
-    "id": 248,
+    "id": 246,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4464,7 +4428,7 @@
     "explanation": ""
   },
   {
-    "id": 249,
+    "id": 247,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4482,7 +4446,7 @@
     "explanation": ""
   },
   {
-    "id": 250,
+    "id": 248,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4500,7 +4464,7 @@
     "explanation": ""
   },
   {
-    "id": 251,
+    "id": 249,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4518,7 +4482,7 @@
     "explanation": ""
   },
   {
-    "id": 252,
+    "id": 250,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4536,7 +4500,7 @@
     "explanation": ""
   },
   {
-    "id": 253,
+    "id": 251,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4554,7 +4518,7 @@
     "explanation": ""
   },
   {
-    "id": 254,
+    "id": 252,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4572,7 +4536,7 @@
     "explanation": ""
   },
   {
-    "id": 255,
+    "id": 253,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4590,7 +4554,7 @@
     "explanation": ""
   },
   {
-    "id": 256,
+    "id": 254,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4608,7 +4572,7 @@
     "explanation": ""
   },
   {
-    "id": 257,
+    "id": 255,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4626,7 +4590,7 @@
     "explanation": ""
   },
   {
-    "id": 258,
+    "id": 256,
     "date": "20170304",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -4644,7 +4608,7 @@
     "explanation": ""
   },
   {
-    "id": 259,
+    "id": 257,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4662,7 +4626,7 @@
     "explanation": ""
   },
   {
-    "id": 260,
+    "id": 258,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4680,7 +4644,7 @@
     "explanation": ""
   },
   {
-    "id": 261,
+    "id": 259,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4698,7 +4662,7 @@
     "explanation": ""
   },
   {
-    "id": 262,
+    "id": 260,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4716,7 +4680,7 @@
     "explanation": ""
   },
   {
-    "id": 263,
+    "id": 261,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4734,7 +4698,7 @@
     "explanation": ""
   },
   {
-    "id": 264,
+    "id": 262,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4752,7 +4716,7 @@
     "explanation": ""
   },
   {
-    "id": 265,
+    "id": 263,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4770,7 +4734,7 @@
     "explanation": ""
   },
   {
-    "id": 266,
+    "id": 264,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4788,7 +4752,7 @@
     "explanation": ""
   },
   {
-    "id": 267,
+    "id": 265,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4806,7 +4770,7 @@
     "explanation": ""
   },
   {
-    "id": 268,
+    "id": 266,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4824,7 +4788,7 @@
     "explanation": ""
   },
   {
-    "id": 269,
+    "id": 267,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4842,7 +4806,7 @@
     "explanation": ""
   },
   {
-    "id": 270,
+    "id": 268,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4860,7 +4824,7 @@
     "explanation": ""
   },
   {
-    "id": 271,
+    "id": 269,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4878,7 +4842,7 @@
     "explanation": ""
   },
   {
-    "id": 272,
+    "id": 270,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4896,7 +4860,7 @@
     "explanation": ""
   },
   {
-    "id": 273,
+    "id": 271,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4914,7 +4878,7 @@
     "explanation": ""
   },
   {
-    "id": 274,
+    "id": 272,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4932,7 +4896,7 @@
     "explanation": ""
   },
   {
-    "id": 275,
+    "id": 273,
     "date": "20170902",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -4950,7 +4914,7 @@
     "explanation": ""
   },
   {
-    "id": 276,
+    "id": 274,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4968,7 +4932,7 @@
     "explanation": ""
   },
   {
-    "id": 277,
+    "id": 275,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -4986,7 +4950,7 @@
     "explanation": ""
   },
   {
-    "id": 278,
+    "id": 276,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5004,7 +4968,7 @@
     "explanation": ""
   },
   {
-    "id": 279,
+    "id": 277,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5022,7 +4986,7 @@
     "explanation": ""
   },
   {
-    "id": 280,
+    "id": 278,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5040,7 +5004,7 @@
     "explanation": ""
   },
   {
-    "id": 281,
+    "id": 279,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5058,7 +5022,7 @@
     "explanation": ""
   },
   {
-    "id": 282,
+    "id": 280,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5076,7 +5040,7 @@
     "explanation": ""
   },
   {
-    "id": 283,
+    "id": 281,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5094,7 +5058,7 @@
     "explanation": ""
   },
   {
-    "id": 284,
+    "id": 282,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5112,7 +5076,7 @@
     "explanation": ""
   },
   {
-    "id": 285,
+    "id": 283,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5130,7 +5094,7 @@
     "explanation": ""
   },
   {
-    "id": 286,
+    "id": 284,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5148,7 +5112,7 @@
     "explanation": ""
   },
   {
-    "id": 287,
+    "id": 285,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5166,7 +5130,7 @@
     "explanation": ""
   },
   {
-    "id": 288,
+    "id": 286,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5184,7 +5148,7 @@
     "explanation": ""
   },
   {
-    "id": 289,
+    "id": 287,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5202,7 +5166,7 @@
     "explanation": ""
   },
   {
-    "id": 290,
+    "id": 288,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5220,7 +5184,7 @@
     "explanation": ""
   },
   {
-    "id": 291,
+    "id": 289,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5238,7 +5202,7 @@
     "explanation": ""
   },
   {
-    "id": 292,
+    "id": 290,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5256,7 +5220,7 @@
     "explanation": ""
   },
   {
-    "id": 293,
+    "id": 291,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5274,7 +5238,7 @@
     "explanation": ""
   },
   {
-    "id": 294,
+    "id": 292,
     "date": "20170902",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5292,7 +5256,7 @@
     "explanation": ""
   },
   {
-    "id": 295,
+    "id": 293,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5310,7 +5274,7 @@
     "explanation": ""
   },
   {
-    "id": 296,
+    "id": 294,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5328,7 +5292,7 @@
     "explanation": ""
   },
   {
-    "id": 297,
+    "id": 295,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5346,7 +5310,7 @@
     "explanation": ""
   },
   {
-    "id": 298,
+    "id": 296,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5364,7 +5328,7 @@
     "explanation": ""
   },
   {
-    "id": 299,
+    "id": 297,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5382,7 +5346,7 @@
     "explanation": ""
   },
   {
-    "id": 300,
+    "id": 298,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5400,7 +5364,7 @@
     "explanation": ""
   },
   {
-    "id": 301,
+    "id": 299,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5418,7 +5382,7 @@
     "explanation": ""
   },
   {
-    "id": 302,
+    "id": 300,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5436,7 +5400,7 @@
     "explanation": ""
   },
   {
-    "id": 303,
+    "id": 301,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5454,7 +5418,7 @@
     "explanation": ""
   },
   {
-    "id": 304,
+    "id": 302,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5472,7 +5436,7 @@
     "explanation": ""
   },
   {
-    "id": 305,
+    "id": 303,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5490,7 +5454,7 @@
     "explanation": ""
   },
   {
-    "id": 306,
+    "id": 304,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5508,7 +5472,7 @@
     "explanation": ""
   },
   {
-    "id": 307,
+    "id": 305,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5526,7 +5490,7 @@
     "explanation": ""
   },
   {
-    "id": 308,
+    "id": 306,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5544,7 +5508,7 @@
     "explanation": ""
   },
   {
-    "id": 309,
+    "id": 307,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5562,7 +5526,7 @@
     "explanation": ""
   },
   {
-    "id": 310,
+    "id": 308,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5580,7 +5544,7 @@
     "explanation": ""
   },
   {
-    "id": 311,
+    "id": 309,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5598,7 +5562,7 @@
     "explanation": ""
   },
   {
-    "id": 312,
+    "id": 310,
     "date": "20170902",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -5616,7 +5580,7 @@
     "explanation": ""
   },
   {
-    "id": 313,
+    "id": 311,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5634,7 +5598,7 @@
     "explanation": ""
   },
   {
-    "id": 314,
+    "id": 312,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5652,7 +5616,7 @@
     "explanation": ""
   },
   {
-    "id": 315,
+    "id": 313,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5670,7 +5634,7 @@
     "explanation": ""
   },
   {
-    "id": 316,
+    "id": 314,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5688,7 +5652,7 @@
     "explanation": ""
   },
   {
-    "id": 317,
+    "id": 315,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5706,7 +5670,7 @@
     "explanation": ""
   },
   {
-    "id": 318,
+    "id": 316,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5724,7 +5688,7 @@
     "explanation": ""
   },
   {
-    "id": 319,
+    "id": 317,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5742,7 +5706,7 @@
     "explanation": ""
   },
   {
-    "id": 320,
+    "id": 318,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5760,7 +5724,7 @@
     "explanation": ""
   },
   {
-    "id": 321,
+    "id": 319,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5778,7 +5742,7 @@
     "explanation": ""
   },
   {
-    "id": 322,
+    "id": 320,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5796,7 +5760,7 @@
     "explanation": ""
   },
   {
-    "id": 323,
+    "id": 321,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5814,7 +5778,7 @@
     "explanation": ""
   },
   {
-    "id": 324,
+    "id": 322,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5832,7 +5796,7 @@
     "explanation": ""
   },
   {
-    "id": 325,
+    "id": 323,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5850,7 +5814,7 @@
     "explanation": ""
   },
   {
-    "id": 326,
+    "id": 324,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5868,7 +5832,7 @@
     "explanation": ""
   },
   {
-    "id": 327,
+    "id": 325,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5886,7 +5850,7 @@
     "explanation": ""
   },
   {
-    "id": 328,
+    "id": 326,
     "date": "20180303",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -5904,7 +5868,7 @@
     "explanation": ""
   },
   {
-    "id": 329,
+    "id": 327,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5922,7 +5886,7 @@
     "explanation": ""
   },
   {
-    "id": 330,
+    "id": 328,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5940,7 +5904,7 @@
     "explanation": ""
   },
   {
-    "id": 331,
+    "id": 329,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5958,7 +5922,7 @@
     "explanation": ""
   },
   {
-    "id": 332,
+    "id": 330,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5976,7 +5940,7 @@
     "explanation": ""
   },
   {
-    "id": 333,
+    "id": 331,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -5994,7 +5958,7 @@
     "explanation": ""
   },
   {
-    "id": 334,
+    "id": 332,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6012,7 +5976,7 @@
     "explanation": ""
   },
   {
-    "id": 335,
+    "id": 333,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6030,7 +5994,7 @@
     "explanation": ""
   },
   {
-    "id": 336,
+    "id": 334,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6048,7 +6012,7 @@
     "explanation": ""
   },
   {
-    "id": 337,
+    "id": 335,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6066,7 +6030,7 @@
     "explanation": ""
   },
   {
-    "id": 338,
+    "id": 336,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6084,7 +6048,7 @@
     "explanation": ""
   },
   {
-    "id": 339,
+    "id": 337,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6102,7 +6066,7 @@
     "explanation": ""
   },
   {
-    "id": 340,
+    "id": 338,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6120,7 +6084,7 @@
     "explanation": ""
   },
   {
-    "id": 341,
+    "id": 339,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6138,7 +6102,7 @@
     "explanation": ""
   },
   {
-    "id": 342,
+    "id": 340,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6156,7 +6120,7 @@
     "explanation": ""
   },
   {
-    "id": 343,
+    "id": 341,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6174,7 +6138,7 @@
     "explanation": ""
   },
   {
-    "id": 344,
+    "id": 342,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6192,7 +6156,7 @@
     "explanation": ""
   },
   {
-    "id": 345,
+    "id": 343,
     "date": "20180303",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6210,7 +6174,7 @@
     "explanation": ""
   },
   {
-    "id": 346,
+    "id": 344,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6228,7 +6192,7 @@
     "explanation": ""
   },
   {
-    "id": 347,
+    "id": 345,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6246,7 +6210,7 @@
     "explanation": ""
   },
   {
-    "id": 348,
+    "id": 346,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6264,7 +6228,7 @@
     "explanation": ""
   },
   {
-    "id": 349,
+    "id": 347,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6282,7 +6246,7 @@
     "explanation": ""
   },
   {
-    "id": 350,
+    "id": 348,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6300,7 +6264,7 @@
     "explanation": ""
   },
   {
-    "id": 351,
+    "id": 349,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6318,7 +6282,7 @@
     "explanation": ""
   },
   {
-    "id": 352,
+    "id": 350,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6336,7 +6300,7 @@
     "explanation": ""
   },
   {
-    "id": 353,
+    "id": 351,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6354,7 +6318,7 @@
     "explanation": ""
   },
   {
-    "id": 354,
+    "id": 352,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6372,7 +6336,7 @@
     "explanation": ""
   },
   {
-    "id": 355,
+    "id": 353,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6390,7 +6354,7 @@
     "explanation": ""
   },
   {
-    "id": 356,
+    "id": 354,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6408,7 +6372,7 @@
     "explanation": ""
   },
   {
-    "id": 357,
+    "id": 355,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6426,7 +6390,7 @@
     "explanation": ""
   },
   {
-    "id": 358,
+    "id": 356,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6444,7 +6408,7 @@
     "explanation": ""
   },
   {
-    "id": 359,
+    "id": 357,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6462,7 +6426,7 @@
     "explanation": ""
   },
   {
-    "id": 360,
+    "id": 358,
     "date": "20180303",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -6480,7 +6444,7 @@
     "explanation": ""
   },
   {
-    "id": 361,
+    "id": 359,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6498,7 +6462,7 @@
     "explanation": ""
   },
   {
-    "id": 362,
+    "id": 360,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6516,7 +6480,7 @@
     "explanation": ""
   },
   {
-    "id": 363,
+    "id": 361,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6534,7 +6498,7 @@
     "explanation": ""
   },
   {
-    "id": 364,
+    "id": 362,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6552,7 +6516,7 @@
     "explanation": ""
   },
   {
-    "id": 365,
+    "id": 363,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6570,7 +6534,7 @@
     "explanation": ""
   },
   {
-    "id": 366,
+    "id": 364,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6588,7 +6552,7 @@
     "explanation": ""
   },
   {
-    "id": 367,
+    "id": 365,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6606,7 +6570,7 @@
     "explanation": ""
   },
   {
-    "id": 368,
+    "id": 366,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6624,7 +6588,7 @@
     "explanation": ""
   },
   {
-    "id": 369,
+    "id": 367,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6642,7 +6606,7 @@
     "explanation": ""
   },
   {
-    "id": 370,
+    "id": 368,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6660,7 +6624,7 @@
     "explanation": ""
   },
   {
-    "id": 371,
+    "id": 369,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6678,7 +6642,7 @@
     "explanation": ""
   },
   {
-    "id": 372,
+    "id": 370,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6696,7 +6660,7 @@
     "explanation": ""
   },
   {
-    "id": 373,
+    "id": 371,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6714,7 +6678,7 @@
     "explanation": ""
   },
   {
-    "id": 374,
+    "id": 372,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6732,7 +6696,7 @@
     "explanation": ""
   },
   {
-    "id": 375,
+    "id": 373,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6750,7 +6714,7 @@
     "explanation": ""
   },
   {
-    "id": 376,
+    "id": 374,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6768,7 +6732,7 @@
     "explanation": ""
   },
   {
-    "id": 377,
+    "id": 375,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6786,7 +6750,7 @@
     "explanation": ""
   },
   {
-    "id": 378,
+    "id": 376,
     "date": "20180901",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -6804,7 +6768,7 @@
     "explanation": ""
   },
   {
-    "id": 379,
+    "id": 377,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6822,7 +6786,7 @@
     "explanation": ""
   },
   {
-    "id": 380,
+    "id": 378,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6840,7 +6804,7 @@
     "explanation": ""
   },
   {
-    "id": 381,
+    "id": 379,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6858,7 +6822,7 @@
     "explanation": ""
   },
   {
-    "id": 382,
+    "id": 380,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6876,7 +6840,7 @@
     "explanation": ""
   },
   {
-    "id": 383,
+    "id": 381,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6894,7 +6858,7 @@
     "explanation": ""
   },
   {
-    "id": 384,
+    "id": 382,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6912,7 +6876,7 @@
     "explanation": ""
   },
   {
-    "id": 385,
+    "id": 383,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6930,7 +6894,7 @@
     "explanation": ""
   },
   {
-    "id": 386,
+    "id": 384,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6948,7 +6912,7 @@
     "explanation": ""
   },
   {
-    "id": 387,
+    "id": 385,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6966,7 +6930,7 @@
     "explanation": ""
   },
   {
-    "id": 388,
+    "id": 386,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -6984,7 +6948,7 @@
     "explanation": ""
   },
   {
-    "id": 389,
+    "id": 387,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7002,7 +6966,7 @@
     "explanation": ""
   },
   {
-    "id": 390,
+    "id": 388,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7020,7 +6984,7 @@
     "explanation": ""
   },
   {
-    "id": 391,
+    "id": 389,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7038,7 +7002,7 @@
     "explanation": ""
   },
   {
-    "id": 392,
+    "id": 390,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7056,7 +7020,7 @@
     "explanation": ""
   },
   {
-    "id": 393,
+    "id": 391,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7074,7 +7038,7 @@
     "explanation": ""
   },
   {
-    "id": 394,
+    "id": 392,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7092,7 +7056,7 @@
     "explanation": ""
   },
   {
-    "id": 395,
+    "id": 393,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7110,7 +7074,7 @@
     "explanation": ""
   },
   {
-    "id": 396,
+    "id": 394,
     "date": "20180901",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7128,7 +7092,7 @@
     "explanation": ""
   },
   {
-    "id": 397,
+    "id": 395,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7146,7 +7110,7 @@
     "explanation": ""
   },
   {
-    "id": 398,
+    "id": 396,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7164,7 +7128,7 @@
     "explanation": ""
   },
   {
-    "id": 399,
+    "id": 397,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7182,7 +7146,7 @@
     "explanation": ""
   },
   {
-    "id": 400,
+    "id": 398,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7200,7 +7164,7 @@
     "explanation": ""
   },
   {
-    "id": 401,
+    "id": 399,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7218,7 +7182,7 @@
     "explanation": ""
   },
   {
-    "id": 402,
+    "id": 400,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7236,7 +7200,7 @@
     "explanation": ""
   },
   {
-    "id": 403,
+    "id": 401,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7254,7 +7218,7 @@
     "explanation": ""
   },
   {
-    "id": 404,
+    "id": 402,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7272,7 +7236,7 @@
     "explanation": ""
   },
   {
-    "id": 405,
+    "id": 403,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7290,7 +7254,7 @@
     "explanation": ""
   },
   {
-    "id": 406,
+    "id": 404,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7308,7 +7272,7 @@
     "explanation": ""
   },
   {
-    "id": 407,
+    "id": 405,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7326,7 +7290,7 @@
     "explanation": ""
   },
   {
-    "id": 408,
+    "id": 406,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7344,7 +7308,7 @@
     "explanation": ""
   },
   {
-    "id": 409,
+    "id": 407,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7362,7 +7326,7 @@
     "explanation": ""
   },
   {
-    "id": 410,
+    "id": 408,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7380,7 +7344,7 @@
     "explanation": ""
   },
   {
-    "id": 411,
+    "id": 409,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7398,7 +7362,7 @@
     "explanation": ""
   },
   {
-    "id": 412,
+    "id": 410,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7416,7 +7380,7 @@
     "explanation": ""
   },
   {
-    "id": 413,
+    "id": 411,
     "date": "20180901",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -7434,7 +7398,7 @@
     "explanation": ""
   },
   {
-    "id": 414,
+    "id": 412,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7452,7 +7416,7 @@
     "explanation": ""
   },
   {
-    "id": 415,
+    "id": 413,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7470,25 +7434,7 @@
     "explanation": ""
   },
   {
-    "id": 416,
-    "date": "20190302",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 3,
-    "question": "다음 그림과 같이 문서를 편집할 때 여러 가지 설정 항목들 에 주어진 기본값을 무엇이라 하는가?",
-    "choices": {
-      "1": "디폴트(Default)",
-      "2": "색인(Index)",
-      "3": "옵션(Option)",
-      "4": "메뉴(Menu)"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 417,
+    "id": 414,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7506,7 +7452,7 @@
     "explanation": ""
   },
   {
-    "id": 418,
+    "id": 415,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7524,7 +7470,7 @@
     "explanation": ""
   },
   {
-    "id": 419,
+    "id": 416,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7542,7 +7488,7 @@
     "explanation": ""
   },
   {
-    "id": 420,
+    "id": 417,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7560,7 +7506,7 @@
     "explanation": ""
   },
   {
-    "id": 421,
+    "id": 418,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7578,7 +7524,7 @@
     "explanation": ""
   },
   {
-    "id": 422,
+    "id": 419,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7596,7 +7542,7 @@
     "explanation": ""
   },
   {
-    "id": 423,
+    "id": 420,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7614,7 +7560,7 @@
     "explanation": ""
   },
   {
-    "id": 424,
+    "id": 421,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7632,7 +7578,7 @@
     "explanation": ""
   },
   {
-    "id": 425,
+    "id": 422,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7650,7 +7596,7 @@
     "explanation": ""
   },
   {
-    "id": 426,
+    "id": 423,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7668,7 +7614,7 @@
     "explanation": ""
   },
   {
-    "id": 427,
+    "id": 424,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7686,7 +7632,7 @@
     "explanation": ""
   },
   {
-    "id": 428,
+    "id": 425,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7704,7 +7650,7 @@
     "explanation": ""
   },
   {
-    "id": 429,
+    "id": 426,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7722,7 +7668,7 @@
     "explanation": ""
   },
   {
-    "id": 430,
+    "id": 427,
     "date": "20190302",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -7740,7 +7686,7 @@
     "explanation": ""
   },
   {
-    "id": 431,
+    "id": 428,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7758,7 +7704,7 @@
     "explanation": ""
   },
   {
-    "id": 432,
+    "id": 429,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7776,7 +7722,7 @@
     "explanation": ""
   },
   {
-    "id": 433,
+    "id": 430,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7794,7 +7740,7 @@
     "explanation": ""
   },
   {
-    "id": 434,
+    "id": 431,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7812,7 +7758,7 @@
     "explanation": ""
   },
   {
-    "id": 435,
+    "id": 432,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7830,7 +7776,7 @@
     "explanation": ""
   },
   {
-    "id": 436,
+    "id": 433,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7848,7 +7794,7 @@
     "explanation": ""
   },
   {
-    "id": 437,
+    "id": 434,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7866,7 +7812,7 @@
     "explanation": ""
   },
   {
-    "id": 438,
+    "id": 435,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7884,7 +7830,7 @@
     "explanation": ""
   },
   {
-    "id": 439,
+    "id": 436,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7902,7 +7848,7 @@
     "explanation": ""
   },
   {
-    "id": 440,
+    "id": 437,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7920,7 +7866,7 @@
     "explanation": ""
   },
   {
-    "id": 441,
+    "id": 438,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7938,7 +7884,7 @@
     "explanation": ""
   },
   {
-    "id": 442,
+    "id": 439,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7956,7 +7902,7 @@
     "explanation": ""
   },
   {
-    "id": 443,
+    "id": 440,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7974,7 +7920,7 @@
     "explanation": ""
   },
   {
-    "id": 444,
+    "id": 441,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -7992,7 +7938,7 @@
     "explanation": ""
   },
   {
-    "id": 445,
+    "id": 442,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8010,7 +7956,7 @@
     "explanation": ""
   },
   {
-    "id": 446,
+    "id": 443,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8028,7 +7974,7 @@
     "explanation": ""
   },
   {
-    "id": 447,
+    "id": 444,
     "date": "20190302",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8046,7 +7992,7 @@
     "explanation": ""
   },
   {
-    "id": 448,
+    "id": 445,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8064,7 +8010,7 @@
     "explanation": ""
   },
   {
-    "id": 449,
+    "id": 446,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8082,7 +8028,7 @@
     "explanation": ""
   },
   {
-    "id": 450,
+    "id": 447,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8100,7 +8046,7 @@
     "explanation": ""
   },
   {
-    "id": 451,
+    "id": 448,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8118,7 +8064,7 @@
     "explanation": ""
   },
   {
-    "id": 452,
+    "id": 449,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8136,7 +8082,7 @@
     "explanation": ""
   },
   {
-    "id": 453,
+    "id": 450,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8154,7 +8100,7 @@
     "explanation": ""
   },
   {
-    "id": 454,
+    "id": 451,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8172,7 +8118,7 @@
     "explanation": ""
   },
   {
-    "id": 455,
+    "id": 452,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8190,7 +8136,7 @@
     "explanation": ""
   },
   {
-    "id": 456,
+    "id": 453,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8208,7 +8154,7 @@
     "explanation": ""
   },
   {
-    "id": 457,
+    "id": 454,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8226,7 +8172,7 @@
     "explanation": ""
   },
   {
-    "id": 458,
+    "id": 455,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8244,7 +8190,7 @@
     "explanation": ""
   },
   {
-    "id": 459,
+    "id": 456,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8262,7 +8208,7 @@
     "explanation": ""
   },
   {
-    "id": 460,
+    "id": 457,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8280,7 +8226,7 @@
     "explanation": ""
   },
   {
-    "id": 461,
+    "id": 458,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8298,7 +8244,7 @@
     "explanation": ""
   },
   {
-    "id": 462,
+    "id": 459,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8316,7 +8262,7 @@
     "explanation": ""
   },
   {
-    "id": 463,
+    "id": 460,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8334,7 +8280,7 @@
     "explanation": ""
   },
   {
-    "id": 464,
+    "id": 461,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8352,7 +8298,7 @@
     "explanation": ""
   },
   {
-    "id": 465,
+    "id": 462,
     "date": "20190302",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -8370,7 +8316,7 @@
     "explanation": ""
   },
   {
-    "id": 466,
+    "id": 463,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8388,7 +8334,7 @@
     "explanation": ""
   },
   {
-    "id": 467,
+    "id": 464,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8406,7 +8352,7 @@
     "explanation": ""
   },
   {
-    "id": 468,
+    "id": 465,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8424,7 +8370,7 @@
     "explanation": ""
   },
   {
-    "id": 469,
+    "id": 466,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8442,7 +8388,7 @@
     "explanation": ""
   },
   {
-    "id": 470,
+    "id": 467,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8460,7 +8406,7 @@
     "explanation": ""
   },
   {
-    "id": 471,
+    "id": 468,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8478,7 +8424,7 @@
     "explanation": ""
   },
   {
-    "id": 472,
+    "id": 469,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8496,7 +8442,7 @@
     "explanation": ""
   },
   {
-    "id": 473,
+    "id": 470,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8514,7 +8460,7 @@
     "explanation": ""
   },
   {
-    "id": 474,
+    "id": 471,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8532,7 +8478,7 @@
     "explanation": ""
   },
   {
-    "id": 475,
+    "id": 472,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8550,7 +8496,7 @@
     "explanation": ""
   },
   {
-    "id": 476,
+    "id": 473,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8568,7 +8514,7 @@
     "explanation": ""
   },
   {
-    "id": 477,
+    "id": 474,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8586,7 +8532,7 @@
     "explanation": ""
   },
   {
-    "id": 478,
+    "id": 475,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8604,7 +8550,7 @@
     "explanation": ""
   },
   {
-    "id": 479,
+    "id": 476,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8622,7 +8568,7 @@
     "explanation": ""
   },
   {
-    "id": 480,
+    "id": 477,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8640,7 +8586,7 @@
     "explanation": ""
   },
   {
-    "id": 481,
+    "id": 478,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8658,7 +8604,7 @@
     "explanation": ""
   },
   {
-    "id": 482,
+    "id": 479,
     "date": "20190831",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -8676,7 +8622,7 @@
     "explanation": ""
   },
   {
-    "id": 483,
+    "id": 480,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8694,7 +8640,7 @@
     "explanation": ""
   },
   {
-    "id": 484,
+    "id": 481,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8712,7 +8658,7 @@
     "explanation": ""
   },
   {
-    "id": 485,
+    "id": 482,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8730,7 +8676,7 @@
     "explanation": ""
   },
   {
-    "id": 486,
+    "id": 483,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8748,7 +8694,7 @@
     "explanation": ""
   },
   {
-    "id": 487,
+    "id": 484,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8766,7 +8712,7 @@
     "explanation": ""
   },
   {
-    "id": 488,
+    "id": 485,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8784,7 +8730,7 @@
     "explanation": ""
   },
   {
-    "id": 489,
+    "id": 486,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8802,7 +8748,7 @@
     "explanation": ""
   },
   {
-    "id": 490,
+    "id": 487,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8820,7 +8766,7 @@
     "explanation": ""
   },
   {
-    "id": 491,
+    "id": 488,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8838,7 +8784,7 @@
     "explanation": ""
   },
   {
-    "id": 492,
+    "id": 489,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8856,7 +8802,7 @@
     "explanation": ""
   },
   {
-    "id": 493,
+    "id": 490,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8874,7 +8820,7 @@
     "explanation": ""
   },
   {
-    "id": 494,
+    "id": 491,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8892,7 +8838,7 @@
     "explanation": ""
   },
   {
-    "id": 495,
+    "id": 492,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8910,7 +8856,7 @@
     "explanation": ""
   },
   {
-    "id": 496,
+    "id": 493,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8928,7 +8874,7 @@
     "explanation": ""
   },
   {
-    "id": 497,
+    "id": 494,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8946,7 +8892,7 @@
     "explanation": ""
   },
   {
-    "id": 498,
+    "id": 495,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8964,7 +8910,7 @@
     "explanation": ""
   },
   {
-    "id": 499,
+    "id": 496,
     "date": "20190831",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -8982,7 +8928,7 @@
     "explanation": ""
   },
   {
-    "id": 500,
+    "id": 497,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9000,7 +8946,7 @@
     "explanation": ""
   },
   {
-    "id": 501,
+    "id": 498,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9018,7 +8964,7 @@
     "explanation": ""
   },
   {
-    "id": 502,
+    "id": 499,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9036,7 +8982,7 @@
     "explanation": ""
   },
   {
-    "id": 503,
+    "id": 500,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9054,7 +9000,7 @@
     "explanation": ""
   },
   {
-    "id": 504,
+    "id": 501,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9072,7 +9018,7 @@
     "explanation": ""
   },
   {
-    "id": 505,
+    "id": 502,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9090,7 +9036,7 @@
     "explanation": ""
   },
   {
-    "id": 506,
+    "id": 503,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9108,7 +9054,7 @@
     "explanation": ""
   },
   {
-    "id": 507,
+    "id": 504,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9126,7 +9072,7 @@
     "explanation": ""
   },
   {
-    "id": 508,
+    "id": 505,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9144,7 +9090,7 @@
     "explanation": ""
   },
   {
-    "id": 509,
+    "id": 506,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9162,7 +9108,7 @@
     "explanation": ""
   },
   {
-    "id": 510,
+    "id": 507,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9180,7 +9126,7 @@
     "explanation": ""
   },
   {
-    "id": 511,
+    "id": 508,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9198,7 +9144,7 @@
     "explanation": ""
   },
   {
-    "id": 512,
+    "id": 509,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9216,7 +9162,7 @@
     "explanation": ""
   },
   {
-    "id": 513,
+    "id": 510,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9234,7 +9180,7 @@
     "explanation": ""
   },
   {
-    "id": 514,
+    "id": 511,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9252,7 +9198,7 @@
     "explanation": ""
   },
   {
-    "id": 515,
+    "id": 512,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9270,7 +9216,7 @@
     "explanation": ""
   },
   {
-    "id": 516,
+    "id": 513,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9288,7 +9234,7 @@
     "explanation": ""
   },
   {
-    "id": 517,
+    "id": 514,
     "date": "20190831",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9306,7 +9252,7 @@
     "explanation": ""
   },
   {
-    "id": 518,
+    "id": 515,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9324,7 +9270,7 @@
     "explanation": ""
   },
   {
-    "id": 519,
+    "id": 516,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9342,7 +9288,7 @@
     "explanation": ""
   },
   {
-    "id": 520,
+    "id": 517,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9360,7 +9306,7 @@
     "explanation": ""
   },
   {
-    "id": 521,
+    "id": 518,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9378,7 +9324,7 @@
     "explanation": ""
   },
   {
-    "id": 522,
+    "id": 519,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9396,7 +9342,7 @@
     "explanation": ""
   },
   {
-    "id": 523,
+    "id": 520,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9414,7 +9360,7 @@
     "explanation": ""
   },
   {
-    "id": 524,
+    "id": 521,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9432,7 +9378,7 @@
     "explanation": ""
   },
   {
-    "id": 525,
+    "id": 522,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9450,7 +9396,7 @@
     "explanation": ""
   },
   {
-    "id": 526,
+    "id": 523,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9468,7 +9414,7 @@
     "explanation": ""
   },
   {
-    "id": 527,
+    "id": 524,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9486,7 +9432,7 @@
     "explanation": ""
   },
   {
-    "id": 528,
+    "id": 525,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9504,7 +9450,7 @@
     "explanation": ""
   },
   {
-    "id": 529,
+    "id": 526,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9522,7 +9468,7 @@
     "explanation": ""
   },
   {
-    "id": 530,
+    "id": 527,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9540,7 +9486,7 @@
     "explanation": ""
   },
   {
-    "id": 531,
+    "id": 528,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9558,7 +9504,7 @@
     "explanation": ""
   },
   {
-    "id": 532,
+    "id": 529,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9576,7 +9522,7 @@
     "explanation": ""
   },
   {
-    "id": 533,
+    "id": 530,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9594,7 +9540,7 @@
     "explanation": ""
   },
   {
-    "id": 534,
+    "id": 531,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9612,7 +9558,7 @@
     "explanation": ""
   },
   {
-    "id": 535,
+    "id": 532,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9630,7 +9576,7 @@
     "explanation": ""
   },
   {
-    "id": 536,
+    "id": 533,
     "date": "20200229",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -9648,7 +9594,7 @@
     "explanation": ""
   },
   {
-    "id": 537,
+    "id": 534,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9666,7 +9612,7 @@
     "explanation": ""
   },
   {
-    "id": 538,
+    "id": 535,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9684,7 +9630,7 @@
     "explanation": ""
   },
   {
-    "id": 539,
+    "id": 536,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9702,7 +9648,7 @@
     "explanation": ""
   },
   {
-    "id": 540,
+    "id": 537,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9720,7 +9666,7 @@
     "explanation": ""
   },
   {
-    "id": 541,
+    "id": 538,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9738,7 +9684,7 @@
     "explanation": ""
   },
   {
-    "id": 542,
+    "id": 539,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9756,7 +9702,7 @@
     "explanation": ""
   },
   {
-    "id": 543,
+    "id": 540,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9774,7 +9720,7 @@
     "explanation": ""
   },
   {
-    "id": 544,
+    "id": 541,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9792,7 +9738,7 @@
     "explanation": ""
   },
   {
-    "id": 545,
+    "id": 542,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9810,7 +9756,7 @@
     "explanation": ""
   },
   {
-    "id": 546,
+    "id": 543,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9828,7 +9774,7 @@
     "explanation": ""
   },
   {
-    "id": 547,
+    "id": 544,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9846,7 +9792,7 @@
     "explanation": ""
   },
   {
-    "id": 548,
+    "id": 545,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9864,7 +9810,7 @@
     "explanation": ""
   },
   {
-    "id": 549,
+    "id": 546,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9882,7 +9828,7 @@
     "explanation": ""
   },
   {
-    "id": 550,
+    "id": 547,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9900,7 +9846,7 @@
     "explanation": ""
   },
   {
-    "id": 551,
+    "id": 548,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9918,7 +9864,7 @@
     "explanation": ""
   },
   {
-    "id": 552,
+    "id": 549,
     "date": "20200229",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -9936,7 +9882,7 @@
     "explanation": ""
   },
   {
-    "id": 553,
+    "id": 550,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9954,7 +9900,7 @@
     "explanation": ""
   },
   {
-    "id": 554,
+    "id": 551,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9972,7 +9918,7 @@
     "explanation": ""
   },
   {
-    "id": 555,
+    "id": 552,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -9990,7 +9936,7 @@
     "explanation": ""
   },
   {
-    "id": 556,
+    "id": 553,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10008,7 +9954,7 @@
     "explanation": ""
   },
   {
-    "id": 557,
+    "id": 554,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10026,7 +9972,7 @@
     "explanation": ""
   },
   {
-    "id": 558,
+    "id": 555,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10044,7 +9990,7 @@
     "explanation": ""
   },
   {
-    "id": 559,
+    "id": 556,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10062,7 +10008,7 @@
     "explanation": ""
   },
   {
-    "id": 560,
+    "id": 557,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10080,7 +10026,7 @@
     "explanation": ""
   },
   {
-    "id": 561,
+    "id": 558,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10098,7 +10044,7 @@
     "explanation": ""
   },
   {
-    "id": 562,
+    "id": 559,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10116,7 +10062,7 @@
     "explanation": ""
   },
   {
-    "id": 563,
+    "id": 560,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10134,7 +10080,7 @@
     "explanation": ""
   },
   {
-    "id": 564,
+    "id": 561,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10152,7 +10098,7 @@
     "explanation": ""
   },
   {
-    "id": 565,
+    "id": 562,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10170,7 +10116,7 @@
     "explanation": ""
   },
   {
-    "id": 566,
+    "id": 563,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10188,7 +10134,7 @@
     "explanation": ""
   },
   {
-    "id": 567,
+    "id": 564,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10206,7 +10152,7 @@
     "explanation": ""
   },
   {
-    "id": 568,
+    "id": 565,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10224,7 +10170,7 @@
     "explanation": ""
   },
   {
-    "id": 569,
+    "id": 566,
     "date": "20200229",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10242,7 +10188,7 @@
     "explanation": ""
   },
   {
-    "id": 570,
+    "id": 567,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10260,7 +10206,7 @@
     "explanation": ""
   },
   {
-    "id": 571,
+    "id": 568,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10278,7 +10224,7 @@
     "explanation": ""
   },
   {
-    "id": 572,
+    "id": 569,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10296,7 +10242,7 @@
     "explanation": ""
   },
   {
-    "id": 573,
+    "id": 570,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10314,7 +10260,7 @@
     "explanation": ""
   },
   {
-    "id": 574,
+    "id": 571,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10332,7 +10278,7 @@
     "explanation": ""
   },
   {
-    "id": 575,
+    "id": 572,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10350,7 +10296,7 @@
     "explanation": ""
   },
   {
-    "id": 576,
+    "id": 573,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10368,7 +10314,7 @@
     "explanation": ""
   },
   {
-    "id": 577,
+    "id": 574,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10386,7 +10332,7 @@
     "explanation": ""
   },
   {
-    "id": 578,
+    "id": 575,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10404,7 +10350,7 @@
     "explanation": ""
   },
   {
-    "id": 579,
+    "id": 576,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10422,7 +10368,7 @@
     "explanation": ""
   },
   {
-    "id": 580,
+    "id": 577,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10440,7 +10386,7 @@
     "explanation": ""
   },
   {
-    "id": 581,
+    "id": 578,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10458,7 +10404,7 @@
     "explanation": ""
   },
   {
-    "id": 582,
+    "id": 579,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10476,7 +10422,7 @@
     "explanation": ""
   },
   {
-    "id": 583,
+    "id": 580,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10494,7 +10440,7 @@
     "explanation": ""
   },
   {
-    "id": 584,
+    "id": 581,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10512,7 +10458,7 @@
     "explanation": ""
   },
   {
-    "id": 585,
+    "id": 582,
     "date": "20200704",
     "subject": 1,
     "subject_name": "워드프로세싱 일반",
@@ -10530,7 +10476,7 @@
     "explanation": ""
   },
   {
-    "id": 586,
+    "id": 583,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10548,7 +10494,7 @@
     "explanation": ""
   },
   {
-    "id": 587,
+    "id": 584,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10566,7 +10512,7 @@
     "explanation": ""
   },
   {
-    "id": 588,
+    "id": 585,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10584,7 +10530,7 @@
     "explanation": ""
   },
   {
-    "id": 589,
+    "id": 586,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10602,7 +10548,7 @@
     "explanation": ""
   },
   {
-    "id": 590,
+    "id": 587,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10620,7 +10566,7 @@
     "explanation": ""
   },
   {
-    "id": 591,
+    "id": 588,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10638,7 +10584,7 @@
     "explanation": ""
   },
   {
-    "id": 592,
+    "id": 589,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10656,7 +10602,7 @@
     "explanation": ""
   },
   {
-    "id": 593,
+    "id": 590,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10674,7 +10620,7 @@
     "explanation": ""
   },
   {
-    "id": 594,
+    "id": 591,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10692,7 +10638,7 @@
     "explanation": ""
   },
   {
-    "id": 595,
+    "id": 592,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10710,7 +10656,7 @@
     "explanation": ""
   },
   {
-    "id": 596,
+    "id": 593,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10728,7 +10674,7 @@
     "explanation": ""
   },
   {
-    "id": 597,
+    "id": 594,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10746,7 +10692,7 @@
     "explanation": ""
   },
   {
-    "id": 598,
+    "id": 595,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10764,7 +10710,7 @@
     "explanation": ""
   },
   {
-    "id": 599,
+    "id": 596,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10782,7 +10728,7 @@
     "explanation": ""
   },
   {
-    "id": 600,
+    "id": 597,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10800,7 +10746,7 @@
     "explanation": ""
   },
   {
-    "id": 601,
+    "id": 598,
     "date": "20200704",
     "subject": 2,
     "subject_name": "PC 운영 체제",
@@ -10818,7 +10764,7 @@
     "explanation": ""
   },
   {
-    "id": 602,
+    "id": 599,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10836,7 +10782,7 @@
     "explanation": ""
   },
   {
-    "id": 603,
+    "id": 600,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10854,7 +10800,7 @@
     "explanation": ""
   },
   {
-    "id": 604,
+    "id": 601,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10872,7 +10818,7 @@
     "explanation": ""
   },
   {
-    "id": 605,
+    "id": 602,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10890,7 +10836,7 @@
     "explanation": ""
   },
   {
-    "id": 606,
+    "id": 603,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10908,7 +10854,7 @@
     "explanation": ""
   },
   {
-    "id": 607,
+    "id": 604,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10926,7 +10872,7 @@
     "explanation": ""
   },
   {
-    "id": 608,
+    "id": 605,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10944,7 +10890,7 @@
     "explanation": ""
   },
   {
-    "id": 609,
+    "id": 606,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10962,7 +10908,7 @@
     "explanation": ""
   },
   {
-    "id": 610,
+    "id": 607,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10980,7 +10926,7 @@
     "explanation": ""
   },
   {
-    "id": 611,
+    "id": 608,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -10998,7 +10944,7 @@
     "explanation": ""
   },
   {
-    "id": 612,
+    "id": 609,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -11016,7 +10962,7 @@
     "explanation": ""
   },
   {
-    "id": 613,
+    "id": 610,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -11034,7 +10980,7 @@
     "explanation": ""
   },
   {
-    "id": 614,
+    "id": 611,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -11052,7 +10998,7 @@
     "explanation": ""
   },
   {
-    "id": 615,
+    "id": 612,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -11070,7 +11016,7 @@
     "explanation": ""
   },
   {
-    "id": 616,
+    "id": 613,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",
@@ -11088,7 +11034,7 @@
     "explanation": ""
   },
   {
-    "id": 617,
+    "id": 614,
     "date": "20200704",
     "subject": 3,
     "subject_name": "컴퓨터 및 정보활용",

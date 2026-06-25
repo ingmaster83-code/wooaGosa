@@ -1,0 +1,1334 @@
+[
+  {
+    "id": 1,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "제철 조업에서 유동성이 가장 좋은 것은?",
+    "choices": {
+      "1": "Ca",
+      "2": "Mn ❸ Na",
+      "3": "산화마그네슘 ❹ 형석 6. 용선에만 사용되고 용강에는 기화하므로 이용 할 수 없는 탈 황제는?",
+      "4": "Mg"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "염기성 강재 중 가장 유동성을 저해시키는 성분은?",
+    "choices": {
+      "1": "용해도는 에 비례하여 증가하고 용해도를 증가하 는 원소들은 fn(J)를 높인다.",
+      "3": "SiO",
+      "4": "용해도는 Pn 에 비례하여 커지고 fn(J)를 높이는 원소들은 2 용해도를 감소한다.",
+      "2": "용해도는 Pn 에 비례하여 커지고 용해도를 증가하는 원소 2 들은 Fn(J)를 감소한다. ❸ 용해도는 에 비례하여 증가하고 용해도를 감소하 는 원소들은 Fn(J)를 높인다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "산소 전로에서 각종 원료 장입순서가 옳은 것은?",
+    "choices": {
+      "1": "고철-생석회-고철-산소분사-철광석, 형석",
+      "2": "취련이 끝난 후 전로내에 첨가한다.",
+      "4": "출강 중 레이들에 첨가한다.",
+      "3": "수강전의 레이들에 미리 첨가하여 놓는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "조괴작업에서 하주법의 특징으로 맞는 것은?",
+    "choices": {
+      "1": "1배 ❷ 2.5-3.5배",
+      "2": "조괴장이 좁다.",
+      "3": "5-6배",
+      "4": "8-10배"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "연속주조에 있어서 강편의 표면균열 발생에 관한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "비례상수, 준비시간",
+      "3": "턴디쉬의 갯수, 대기시간 ❹ 레이들의 갯수, 준비시간",
+      "4": "Al O -FeO-MgO 2 3 2 2 3 22. H를 Heat size라 할 때 주조능률 P는 kH/(k× 주조시간+tp) 로 표현되는 식에서 k와 tp는 각각 무엇에 해당되는가?",
+      "2": "레이들의 갯수, 대기시간"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "호이슬러 합금(Heusler's alloy)의 주 성분으로 맞는 것은?",
+    "choices": {
+      "1": "표준화",
+      "2": "풀림",
+      "4": "Sb - Hg - Ag 30. 강에 인성(toughness)을 부여하고 불안정한 조직의 안정을 위한 가장 적합한 열처리 작업은?",
+      "3": "담금질 ❹ 뜨임"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "강의 성질에 미치는 각 원소의 영향을 기술한 것 중 잘못된 것은?",
+    "choices": {
+      "1": "약 60 % ❷ 약 75 %",
+      "2": "자석강(magnet steel) ❸ 내식강(stainless steel)",
+      "3": "약 85 %",
+      "4": "약 90 %"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "전로의 TTT(tap to tap)시간은 어느 정도인가?",
+    "choices": {
+      "2": "분출(over flow)",
+      "3": "연취련(soft blow) ❹ 스피팅(spitting)",
+      "4": "24시간 39. LD전로에서 강욕과 산소가 충돌하여 취련음의 변화와 함께 미세한 철립이 비산하는 현상은?",
+      "1": "밀스케일(mill scale)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "LD 전로에서 탈탄 속도가 가장 빠른 시기는?",
+    "choices": {
+      "1": "림드(rimmed)강",
+      "3": "세미킬드(Semi-Killed)강 ❹ 킬드(Killed)강",
+      "4": "말기 41. 열처리용 고급강, 기계구조용강, 단조용강 등에 사용되며 편 석은 적고 완전 탈산한 것에 해당되는 것은?",
+      "2": "캐프드(capped)강"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "제철소내에서 생산되는 부산물 가스 중 인체에 가장 해롭고 독성이 큰 것은?",
+    "choices": {
+      "1": "1.25 ❷ 1.36",
+      "3": "나선 와이어 브레이드 호스",
+      "4": "직물 브레이드 호스",
+      "2": "이중 와이어 브레어드 호스"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 28,
+    "question": "LD전로에 사용하는 랜스 노즐(Lance Nozzle)의 재질은?",
+    "choices": {
+      "1": "환원으로 제거된 광석량/철광석중의 전 산소량 × 100 ❷ 환원으로 제거된 산소량/철광석중의 전 산소량 × 100",
+      "2": "ASEA-SKF법 ❸ LF법",
+      "4": "VOD법 33. 전기로 제강법에서 사용되어지는 철광석의 환원도를 나타내 는 환원율의 식이 맞는 것은?",
+      "3": "핀치로울(pinch roll)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 34,
+    "question": "전기로조업의 진보된 신기술이라고 볼 수 없는 것은?",
+    "choices": {
+      "1": "안전작업의 확인 감독 및 관리",
+      "3": "동기부여 ❹ 정밀 경진대회의 계획",
+      "4": "4, 16 36. 생산현장 작업자들의 안전지식의 기술 및 태도를 바람직한 수준으로 원활하게 추진 하기 위하여 적용되는 방법과 관련 이 가장 먼 것은?",
+      "2": "교육 및 훈련"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "혼선로에서 화학성분 감소 효과가 가장 큰 것은?",
+    "choices": {
+      "1": "FORTRAN ❷ BYTE",
+      "3": "COBOL",
+      "4": "BASIC",
+      "2": "Impeller mold"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "Auto CAD로 도면작업시 도형을 복사할 수 있는 명령어는?",
+    "choices": {
+      "2": "❸",
+      "3": "STRETCH",
+      "4": "",
+      "1": ""
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "금속재료의 일반적 특성과 관계가 먼 것은? ❶ 연성과 전성이 나빠 변형이 어렵다.",
+    "choices": {
+      "2": "노동조건의 향상",
+      "3": "Se",
+      "4": "Pb",
+      "1": "S ❷ W"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "주철에서 응고시 가장 강력한 흑연화 촉진 원소는?",
+    "choices": {
+      "1": "ESR법",
+      "2": "RH-OB법 ❸ VOD법",
+      "3": "Sn ❹ Si 50. 수강한 레이들을 진공실 내에 놓고 Ar 가스를 레이들 저부 에서 취련하여 정련하는 방법은?",
+      "4": "CLU법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "방진마스크의 구비조건이 아닌 것은?",
+    "choices": {
+      "2": "중량이 가벼울 것",
+      "3": "정밀도",
+      "4": "오차",
+      "1": "신뢰성 ❷ 정확성"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "예방보전의 기능에 해당하지 않는 것은?",
+    "choices": {
+      "1": "취급되어야 할 대상설비의 결정",
+      "2": "U 관리도",
+      "3": "관리도",
+      "4": "X 관리도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "탈산속도를 주로 지배하는 탈탄반응은?",
+    "choices": {
+      "1": "림드강(rimmed steel)",
+      "2": "반진정강(semi-killed steel) ❸ 진정강(killed steel)",
+      "3": "Mn - O - S계",
+      "4": "주강(steel casting)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "AOD법 설명 중 옳지 않은 것은? ❶ 환원기에는 Ar에 의한 교반이 유효하게 작용하고 탈황 (S)은 일어나지 않는다.",
+    "choices": {
+      "2": "저탄소 스테인리스강의 정련법이다.",
+      "3": "SDP",
+      "4": "POG",
+      "1": "LNG ❷ VOD"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "출강 용강량이 95.44T일 때 출강실수율은 약 얼마인가? (단, 용선:82.59T, 석회석:0.37T, 철광석:1.49T, Scrap : 15.4T, Mill scale : 0.47T)",
+    "choices": {
+      "1": "99.9% ❷ 97.4%",
+      "3": "공정형 고용체",
+      "4": "금속간 화합물",
+      "2": "치환형 고용체"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "순철의 밀도는 1550℃에서 약 얼마나 되는가?",
+    "choices": {
+      "1": "통풍장치 ❷ 배수장치",
+      "2": "5.62g/m3 ❸ 7.0g/cm3",
+      "4": "환기장치",
+      "3": "제진장치"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "전기로 제강에서 P O 와 결합하여 가장 안정한 형태의 슬래 2 5 그로 되는 것은?",
+    "choices": {
+      "1": "3FeOㆍP O ❷ 3CaOㆍP O 2 5 2 5",
+      "3": "Ne",
+      "4": "He",
+      "2": "N 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 25,
+    "question": "전로에서 사용될 수 없는 내화물은?",
+    "choices": {
+      "1": "Spitting ❷ Baren",
+      "2": "Dolomite ❸ Burned Silica",
+      "4": "Slopping",
+      "3": "Spalling"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "레이들 정련법에서 VAD법을 설명한 것은?",
+    "choices": {
+      "1": "RIMMED STEEL",
+      "3": "불활성 가스 분위기에서 용강위의 슬랙중에 아크를 발생 시켜 Submerged-arc정련을 한다.",
+      "4": "SEMI KILLED STEEL",
+      "2": "KILLED STEEL ❸ CAPPED STEEL"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 33,
+    "question": "압력제어변의 종류가 아닌 것은?",
+    "choices": {
+      "1": "Relief valve",
+      "2": "CAE",
+      "3": "CAT",
+      "4": "CIM"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "LD전로의 호칭이 아닌 것은?",
+    "choices": {
+      "1": "BOF (Basic Oxygen Furnace)",
+      "2": "가정생활 - 가훈, 부모의 권위",
+      "4": "사회생활(국가) - 형법, 민법",
+      "3": "직장생활 - 노동관계법, 직장사규"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "용선로의 기능이 아닌 것은?",
+    "choices": {
+      "1": "석회비 등을 촉진시킨다. ❷ 알루미늄 탈산을 한다.",
+      "2": "용선의 저장",
+      "3": "고온 고속 주입한다.",
+      "4": "수소 가스를 증가시킨다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "전기로 조업시 매용제로 사용되는 형석의 역할이 아닌 것 은?",
+    "choices": {
+      "1": "Nozzle경(dia)의 확대",
+      "2": "주입용강에 Al투입 ❸ 저속주입",
+      "4": "고온의 주형사용",
+      "3": "1/T (단, T =평균고장시간) d d"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "철광석 구비조건에 적합하지 않은 것은? ❶ 철함유량이 높고 Al O , SiO 성분이 높을 것 2 3 2",
+    "choices": {
+      "2": "알루미늄(Al)",
+      "3": "페로실리콘(Fe-Si) ❹ 용제(Flux)",
+      "4": "장입에 견디는 강도와 환원분화성이 적을 것 54. LD전로 작업중 산소취입 개시 후 30∼40분 후에 노를 기울 여 출강할 때 성분조절과 탈산을 위하여 첨가하는 것이 아 닌 것은?",
+      "1": "페로망간(Fe-Mn)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "도수분포표에서 도수가 최대인 곳의 대표치를 말하는것은?",
+    "choices": {
+      "1": "90분 ❷ 62분",
+      "2": "비 대칭도 ❸ 모우드(mode)",
+      "4": "13분",
+      "3": "26분"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "연속주조 속도를 증가시키기 위한 방법으로 틀린 것은?",
+    "choices": {
+      "2": "열을 가한다.",
+      "3": "전자력을 사용한다. ❹ 상승관에 가스를 취입 비중을 적게한다.",
+      "4": "",
+      "1": "모타를 이용한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "강재(鋼滓)의 주성분과 기능에 관한 설명 중 틀린 것은? ❶ 염기성 제강 강재는 FeO-MnO-(MgO)-SiO 가 산성 제강 2 강재는 FeO-CaO-(MgO)-SiO 가 주성분이다. 2",
+    "choices": {
+      "2": "(MnO)가 P에 의하여 환원되어 강욕중[Mn]이 증가하기 때문이다. ❸ (MnO)가 C에 의하여 환원되어 강욕중[Mn]이 증가하기 때문이다.",
+      "3": "강재는 산소를 운반하는 매개자로서의 역할을 한다.",
+      "4": "(MnO)가 Al에 의하여 환원되어 강욕중[Mn]이 증가하기",
+      "1": "(MnO)가 Si에 의하여 환원되어 강욕중[Mn]이 증가하기 때문이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "순금속의 응고과정 순서로 맞는 것은?",
+    "choices": {
+      "1": "혼선로 (Mixer)",
+      "3": "수강레이들 (Teeming Ladle) ❹ TLC(Torpedo Ladle Car)",
+      "4": "결정경계 형성 - 결정핵 발생 - 결정핵 성장 12. LD전로가 대형화 되면서 고로에서 출선된 용선을 제강공정 에서 운반하는 용기로 가장 적합한 것은?",
+      "2": "OL (Open Ladle)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "다음 노외탈황법중 기계적 교반법에 해당되지 않는 것은?",
+    "choices": {
+      "1": "Demag-Ostberg 법 ❷ Siphon ladle 법",
+      "3": "수강전의 레이들에 미리 첨가하여 놓는다.",
+      "4": "출강 중 레이들에 첨가한다.",
+      "2": "취련이 끝난 후 전로내에 첨가한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "다음 중에서 내화물의 침식지수의 식이 맞는 것은? (단, 아 아크전력 = P , 아아크전압 = E , 전극과 측벽과의 거리 L, A A RE = 내화물의 침식지수)",
+    "choices": {
+      "1": "고철 ❷ 생석회",
+      "2": "",
+      "3": "용선",
+      "4": "알루미늄"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "다음중 경도가 가장 높은 조직은?",
+    "choices": {
+      "1": "포밍(formming)",
+      "2": "시즈닝(seasoning) ❸ 버블링(bubbling)",
+      "4": "인젝틴(injecting) 27. 전로의 취련작업 중 취련종료시 탄소함량을 0.04%정도로 일정하게 취지하여 생산성을 높게 작업하는 취련방법은?",
+      "3": "평형으로 움직이지 않음"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "탈인촉진이 아닌 것은?",
+    "choices": {
+      "1": "강재중의 (P O )가 낮을 것 2 5",
+      "2": "소결법",
+      "3": "철광석 제조",
+      "4": "원료의 배합"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 32,
+    "question": "복합취련 전로법의 특징으로 틀린 것은?",
+    "choices": {
+      "1": "재해계획",
+      "3": "강욕교반이 균일하여 온도, 성분의 미세조정이 가능 하 다.",
+      "4": "재해행위",
+      "2": "재해촉구 ❸ 재해조사"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 34,
+    "question": "진공 탈가스의 효과와 관계가 없는 것은?",
+    "choices": {
+      "1": "릴리이프밸브 ❷ 시퀀스밸브",
+      "2": "탈인 [P]",
+      "3": "탈규소 [Si]",
+      "4": "탈류황 [S] 36. 유압제어 밸브중 두개 이상의 분기회로로 작동순서를 회로 의 압력 등에 따라 제어하는 밸브는?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "빛을 받은 면의 밝기를 무엇이라 하는가?",
+    "choices": {
+      "1": "요구되는 조건에 충분히 적합하고 또 실행할 수 있는 것 이어야 한다.",
+      "3": "차음",
+      "4": "과거의 사고 등 체험에서 발생을 예상할 수 있는 이상 (異常)에 관한 조치에 대해서도 제시되어야 한다.",
+      "2": "추상적 표현은 금물이며 수치로 표현할 수 있는 것은 수 치로 표현하는 것이 좋다. ❸ 단위 작업을 상세하게 분해하여 방대하게 제시한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "다음은 Fe-Fe3C의 평형상태도에서 일부 영역을 나타낸 것 이다. 자유도가 0이 되지 않는 영역은?",
+    "choices": {
+      "2": "포정반응선상",
+      "3": "전기집진기(건식)",
+      "4": "전기집진기(습식)",
+      "1": "Venturi scrubber ❷ Bag-filter"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20120722",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "더미 바(Dummy bar)나 주괴를 잡아당기기 위한 룰은?",
+    "choices": {
+      "1": "아이들롤(idle roll)",
+      "2": "포러스 노즐(porous nozzle)",
+      "4": "가스 취임 스토퍼(gas bubbling stopper)",
+      "3": "가스 슬리브 노즐(gas sleeve nozzle)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20120722",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "강의 탈산이 약할 때 표피 바로 아래에 가장 많이 발생하는 결함은?",
+    "choices": {
+      "1": "스피팅(spitting)",
+      "3": "슬로핑(slopping) ❹ 베렌(bäen)",
+      "4": "탕경 8. 용강이나 용재가 노 밖으로 비산하지 않고 노구 부근에 도넛 형으로 쌓이는 현상은?",
+      "2": "덤핑(dumping)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20120722",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "LD전로에서 탈인이 잘 진행되기 위한 조건이 아닌 것은?",
+    "choices": {
+      "1": "강재의 산화력이 클 것 ❷ 강재 중에 P O 가 많을 것 2 6",
+      "3": "폐가스 분석법",
+      "4": "노체중량 계측법",
+      "2": "서브랜스법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20120722",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "다음 중 용강의 점성을 증가시키는 원소는?",
+    "choices": {
+      "1": "탕주름 ❷ 이중표피",
+      "2": "Si ❸ W",
+      "4": "개재물 혼입",
+      "3": "해면두부"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20120722",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 24,
+    "question": "용강 중에 생성된 핵의 성장 기구로 다음 중 가장 크게 기 여하는 것은?",
+    "choices": {
+      "1": "확산에 의한 성장",
+      "2": "주편손질(Scarfing) 실시",
+      "3": "탈산(성) 개재물 발생억제",
+      "4": "연주공정에서 용강재산화 방지"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20120722",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "LD-AC법에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "[S] + 2[0] = SO +1/2O 2 2",
+      "3": "조재제인 분CaO를 취련용 산소와 함께 강욕면에 취입하 는 취련방식이다.",
+      "4": "(CaSO ) + 2(FeS) = (CaO ㆍ Fe O ) + SO 4 2 3 2",
+      "2": "❸ (CaO) + [FeS] = (CaS) + (FeO)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20120722",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "레이들 정련의 효과가 아닌 것은?",
+    "choices": {
+      "1": "대기 용제법에 비해 Cr 회수율이 크다.",
+      "2": "요동 레이들법",
+      "3": "기계 교반법",
+      "4": "치주법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20120722",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "전로용 내화물로써 요구되는 성질이 아닌 것은?",
+    "choices": {
+      "1": "스토퍼",
+      "3": "염기성 슬래그에 대한 화학적 내식성이 좋아야 한다.",
+      "4": "몰드",
+      "2": "노즐 ❸ 턴디시"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20120722",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "산소전로강의 특징이 아닌 것은?",
+    "choices": {
+      "1": "무한대로 커진다. ❷ 별로 영향을 미치지 않는다.",
+      "2": "nP 관리도",
+      "4": "검사특성곡선의 기울기 경사가 급해진다.",
+      "3": "샘플링 검사의 판별 능력이 매우 좋아진다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20120722",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "작업시간 측정방법 중 직접측정법은?",
+    "choices": {
+      "1": "15분 ❷ 20분",
+      "2": "설계품질",
+      "3": "제조품질",
+      "4": "규격품질"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20120722",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "다음 중 Ni - Fe 합금이 아닌 것은?",
+    "choices": {
+      "2": "니칼로이(Nicalloy)",
+      "3": "편석",
+      "4": "불규칙 변태",
+      "1": "고용체 ❷ 금속간 화합물"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20120722",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "다음 중 공압장치에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "51 52 53 54 55 56 57 58 59 60",
+      "4": ""
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "철강을 생산시 탈산을 목적으로 사용되는 원소가 아닌 것은?",
+    "choices": {
+      "2": "Fe0 + Si = Fe + SiO 2 ❸ 2Fe0 + Si = 2Fe + SiO 2",
+      "3": "Al",
+      "4": "2FeO + 2Si = 2Fe + SiO 2",
+      "1": "Si + 2O = SiO 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "저취전로법(Q-B0P법)의 특징을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "0.7 ❷ 1.4",
+      "2": "취련시간이 단축되고, 폐가스의 효율적인 회수가 가능하 다.",
+      "3": "2.4",
+      "4": "3.4"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "LD전로제강에서 산소 취련시 가장 먼저 산화제거되는 원소 는?",
+    "choices": {
+      "1": "C ❷ Si",
+      "3": "LT(Lurgi Thyssen)-Dry system",
+      "4": "New-OG system",
+      "2": "OG(Oxygen Gas Recovery) system"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "연속주조 작업에서 주형에 주입된 용강에 대한 1차 냉각과 2차 냉각 중 1차 냉각에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "용강의 청정화",
+      "2": "강재의 산화력과 교반",
+      "4": "강재의 염기도와 산화력",
+      "3": "강재의 염기도와 환원력"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 24,
+    "question": "전기로 조업에서 탈수소를 유리하게 하는 조건이 아닌 것 은?",
+    "choices": {
+      "1": "제강시간을 단축할 수 있다.",
+      "3": "용선 중 탈 P, 탈 S 할 수 있다. ❹ 탈탄(C) 작업으로 취련 시간을 단축한다.",
+      "4": "용강 중의 규소. 망간 등 탈산 원소를 과하게 함유하지 않을 것 25. 용선을 제강로 장입 전 혼선차(torpedo Car)에서 용선을 예 비처리 하는 목적이 아닌 것은?",
+      "2": "저항(S)강의 제조가 용이하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "직류 전기로에 대한 설명으로 틀린 것은? ❶ 교류 전기로에 비해 설비가 단순하다.",
+    "choices": {
+      "2": "C, Si, Cr, Mn",
+      "3": "Zn, S, Mn, Sn",
+      "4": "Ag, P, Si, Mo",
+      "1": "주형"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "복합취련법의 특징을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "LF법",
+      "3": "강욕 중의 C와 O의 반응이 활발해 지므로 저탄소강 제 조가 가능하다.",
+      "4": "VAD법",
+      "2": "CLU법 ❸ VOD법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 33,
+    "question": "제강반응 중 탈탄속도에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "온도가 낮을수록 탈탄속도가 빨라진다.",
+      "2": "출강 중 레이들에 첨가한다.",
+      "3": "취련이 끝난 후 전로내에 첨가한다.",
+      "4": "수강전의 레이들에 미리 첨가하여 놓는다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "연속주조공정시 주형내의 열전달기구라고 볼 수 없는 것은?",
+    "choices": {
+      "1": "주형동판에서 열전도 ❷ 응고 쉘(Shell)의 열전달",
+      "3": "만곡형 연주기",
+      "4": "수직만곡형 연주기",
+      "2": "수평형 연주기"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "다음 중 단속생산 시스템과 비교한 연속생산 시스템의 특징 으로 옳은 것은? ❶ 단위당 생산원가가 낮다.",
+    "choices": {
+      "2": "비용견적(Cost estimation) ❸ 비용구배(Cost slope)",
+      "3": "5.77 ❹ 9.62 48. 일정 통제를 할 때 1일당 그 작업을 단축하는데 소요되는 비용의 증가를 의미하는 것은?",
+      "4": "총비용(Total cost)",
+      "1": "정상소요시간(Normal duration time)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "쾌삭강에서 피삭성 향상에 기여하지 않는 원소는?",
+    "choices": {
+      "2": "S",
+      "3": "(1/√3)a",
+      "4": "(4/3)a",
+      "1": "(1/2)a ❷ (1/√2)a"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20160710",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "혼선로에 설치하여 용선을 저장하는 이유에 대한 설명으로 틀린 것은? ❶ 용선의 열방산을 촉진시킨다.",
+    "choices": {
+      "2": "내화물보호 ❸ 폭발방지",
+      "3": "해면두부",
+      "4": "개재물 혼입",
+      "1": "탕주름 ❷ 이중표피"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20160710",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "용강이 응고 중에 발생되는 편석을 최소화할 수 있는 방법 으로 가장 관계가 먼 것은? ❶ 다방향응고(多方向凝固)를 시킨다.",
+    "choices": {
+      "2": "생성된 산화물은 쉽게 부상분리 할 수 있을 것",
+      "3": "용강 중에 잔류한 미반응물이 재질에 영향을 주지 않을 것 ❹ 크기 및 형상은 일정하지 않아도 되나, 품위는 일정할 것",
+      "4": "편석 성분을 hot top 에 모이게 하여 분괴 후에 끊어낸 다. 12. 대부분 전기로에서 제조되며, 2종 이상의 합금원소가 철과 화합한 것으로서 용강 중에 투입되어 강의 화학적, 물리적 성질을 개선할 목적으로 사용되는 합금철이 구비해야 할 조 건으로 틀린 것은?",
+      "1": "쉽게 용해되고 용강 중에서 확산속도가 클 것"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20160710",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "열전도성과 내마모성이 요구되는 연속주조기의 주형에 가장 적합한 재질은?",
+    "choices": {
+      "1": "C → Cr → P → Si",
+      "3": "요동 레이들법 ❹ 포로스 플러그법 24. 전기로 조업 중 산화제를 강욕에 취입시 산화되는 순서로 옳은 것은?",
+      "4": "Cr → P → C → Si",
+      "2": "Cr → C → Si → P ❸ Si → Cr → P → C"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20160710",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 28,
+    "question": "다음 중 로의 탈황(S)시 사용되는 환원제로 부적합한 것은?",
+    "choices": {
+      "1": "200",
+      "3": "진공탈가스법 ❹ 무산화주조법 30. 용선 사용량이 70ton, 고철 사용량이 20ton, 용선 중 Si의 양이 0.5% 이었다면 Si와 이론적으로 반응하는 산소의 양은 몇 kg 인가? (단, O 의 분자량은 32, Si의 원자량은 28이 2 다.)",
+      "4": "457",
+      "2": "306 ❸ 400"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20160710",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "저전압, 대전류 조업에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "아크의 안정성이 증가한다.",
+      "2": "PPM",
+      "4": "CVD",
+      "3": "BOD"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20160710",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "산소전로 제강의 폐가스 냉각설비 중 비연소방식은?",
+    "choices": {
+      "2": "LD 법",
+      "3": "겐트리(gantry)식",
+      "4": "로컬 후드(local hood)식",
+      "1": "로체이동식 ❷ 스윙(swing)식"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20160710",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "철강 표면에 Al을 침투시키는 금속 침투법은?",
+    "choices": {
+      "1": "Cu+Zn ❷ Cu+Sn",
+      "2": "상의수 ❸ 자유도",
+      "4": "Cu+P",
+      "3": "Cu+Al"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20160710",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "다음 중 면심입방격자(FCC)를 갖는 금속이 아닌 것은?",
+    "choices": {
+      "1": "Ag",
+      "2": "시간과는 관계없이 입력신호의 변화에 의해서만 제어가",
+      "3": "근로자가 작업 중 땀을 많이 흘리게 되는 장소에 소금과 깨끗한 음료수를 비치한다.",
+      "4": "작업 중 근로자의 작업복이 심하게 젖게 되는 작업장에 는 탈의시설, 목욕시설, 세탁시설 및 작업복을 말릴 수 있는 시설을 설치한다. 58. 제어 시스템에서 동기 제어계(synchronous control system) 을 옳게 설명한 것은? ❶ 실제의 시간과 관계된 신호에 의하여 제어가 이루어지는 것"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20160710",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "근접 센서에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "4": "",
+      "3": ""
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  }
+]

@@ -456,7 +456,7 @@
     // 필요한 파일만 로드
     const filesNeeded = new Set(wrongList.map(w => w.file));
     await Promise.all([...filesNeeded].map(async f => {
-      const res = await fetch(FILE_URLS[f]);
+      const res = await fetch(FILE_URLS[f] || `data/${f}.json`);
       const qs  = await res.json();
       allData[f] = Object.fromEntries(qs.map(q => [q.id, q]));
     }));
@@ -589,9 +589,15 @@
       'elevator_craft':60,'elevator_eng':80,
       'energy_craft':60,'energy_eng':100,
     };
-    const type  = WRONG_TYPE[filter]  || '1jong-botong';
-    const label = WRONG_LABEL[filter] || '1·2종 면허';
-    const cnt   = WRONG_COUNT[filter] || 40;
+    const type  = WRONG_TYPE[filter]  || filter;
+    const label = WRONG_LABEL[filter] || filter;
+    function _autoWrongCount(f) {
+      if (f.includes('기능사') || f.includes('기능장')) return 60;
+      if (f.includes('산업기사')) return 80;
+      if (f.includes('기사')) return 100;
+      return 60;
+    }
+    const cnt = WRONG_COUNT[filter] || _autoWrongCount(filter);
     btn.href = `exam.html?type=${type}&mode=wrong&label=${encodeURIComponent(label)}&count=${cnt}`;
   }
 
