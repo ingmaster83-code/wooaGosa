@@ -1899,10 +1899,6 @@ def make_page(exam):
 
 {SITES_BAR}
 
-<nav class="breadcrumb" aria-label="breadcrumb">
-  <a href="index.html">홈</a> &rsaquo; <span>{exam["h1"]}</span>
-</nav>
-
 <section class="hero" style="padding:2rem 1.25rem 1.5rem;">
   <h1>{exam["h1"]}</h1>
   <div class="hero-badges">
@@ -1915,6 +1911,10 @@ def make_page(exam):
 <main>
 
 {MOBILE_AD}
+
+<nav class="breadcrumb" aria-label="breadcrumb">
+  <a href="index.html">홈</a> &rsaquo; <span>{exam["h1"]}</span>
+</nav>
 
   <div class="page-with-sidebar">
     <div class="gosa-main">
