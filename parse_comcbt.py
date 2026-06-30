@@ -17,8 +17,11 @@ OUT_DIR = Path(r"C:\개인\wooahouse\wooaGosa\data")
 OUT_DIR.mkdir(exist_ok=True)
 
 # ── 상수 ──────────────────────────────────────────────────────
-CIRCLE_MAP = {'①': 1, '②': 2, '③': 3, '④': 4, '⑤': 5}
-CIRCLE_PAT = re.compile(r'[①②③④⑤]')
+CIRCLE_MAP = {
+    '①': 1, '②': 2, '③': 3, '④': 4, '⑤': 5,  # 속빈 원 (U+2460)
+    '❶': 1, '❷': 2, '❸': 3, '❹': 4, '❺': 5,  # 채워진 원 (U+2776)
+}
+CIRCLE_PAT = re.compile(r'[①②③④⑤❶❷❸❹❺]')
 
 # 시각 자료가 필요한 문제 제외 (이미지 추출 불가)
 IMAGE_PAT = re.compile(
@@ -321,7 +324,14 @@ def select_pdfs(pdfs: list) -> list:
             continue
         date = m.group(1)
         is_teacher = '교사용' in pdf.name or re.search(r'\d{8}-0\.', pdf.name)
-        if date not in by_date or is_teacher:
+        is_student = '학생용' in pdf.name
+        if date not in by_date:
+            by_date[date] = pdf
+        elif is_student:
+            # 학생용 우선 (①②③④ 속빈 원 사용 → 파싱 오류 적음)
+            by_date[date] = pdf
+        elif is_teacher and '학생용' not in by_date[date].name:
+            # 학생용 없을 때만 교사용으로 대체
             by_date[date] = pdf
     return sorted(by_date.values(), key=lambda p: p.name)
 
@@ -408,8 +418,9 @@ for cfg in EXAM_TARGETS:
     folder = BASE / cfg['folder']
 
     out_path = OUT_DIR / cfg['out']
+
     if out_path.exists():
-        print(f"[{cfg['key']}] 이미 있음 — 스킵")
+        print(f"[{cfg['key']}] 완료 — 스킵")
         continue
 
     all_pdfs = sorted(folder.glob('*.pdf'))

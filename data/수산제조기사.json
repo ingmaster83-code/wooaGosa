@@ -4,11 +4,47 @@
     "date": "20030525",
     "subject": 1,
     "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "식품첨가물의 사용 목적에서 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "기호성 증진",
+      "2": "변질방지",
+      "3": "발암방지",
+      "4": "영양강화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "다음과 같은 목적과 기능을 하는 식품 첨가물은?",
+    "choices": {
+      "1": "산미료(acidulant)",
+      "2": "조미료(seasoning)",
+      "3": "호료(thickening agent)",
+      "4": "유화제(emulsifier)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
     "question_no": 3,
     "question": "우유의 저온살균에 대한 설명 중 틀린 것은?",
     "choices": {
-      "1": "Nitrogen trichloride ❷ Rongalite",
-      "2": "결핵균도 사멸된다.",
+      "1": "Nitrogen trichloride",
+      "2": "Rongalite",
       "3": "Formaldehyde",
       "4": "Benzyl violet"
     },
@@ -18,53 +54,17 @@
     "explanation": ""
   },
   {
-    "id": 2,
+    "id": 4,
     "date": "20030525",
     "subject": 1,
     "subject_name": "식품위생학",
     "question_no": 5,
     "question": "식품위생상 유해한 감미료와 거리가 먼 것은?",
     "choices": {
-      "1": "석유폐수 → 3,4 - Benzopyrene → 발암물질 ❷ 광업소폐수 → 카드뮴(Cd) → 미나마타병",
-      "2": "dulcin ❸ D-sorbitol",
-      "4": "구리정련공장폐수 → 구리(Cu) → 녹색 굴",
-      "3": "펄프공장폐수 → 석탄 타르(tar) → 조개류의 쓴맛"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 3,
-    "date": "20030525",
-    "subject": 1,
-    "subject_name": "식품위생학",
-    "question_no": 15,
-    "question": "플라스틱의 감별을 위한 방법으로 이용할 수 있는 물리적인 특성이 아닌 것은?",
-    "choices": {
-      "1": "작업장과 화장실은 2일 1회 이상 청소하여야 한다.",
-      "2": "온도계와 같은 계기류는 유명회사 제품을 사용하면 자체 점검할 필요가 없다. ❸ 우물물을 사용하는 경우 정기적으로 공공기관에 수질검 사를 받고 그 성적서를 보관한다.",
-      "3": "야토병",
-      "4": "냉장시설과 창고는 월 1회 이상 청소를 하여야 한다."
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 4,
-    "date": "20030525",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 23,
-    "question": "패류의 정미성분으로 알려진 것은?",
-    "choices": {
-      "1": "betaine",
-      "2": "프토마인(ptomaine)",
-      "4": "퓨트레신(putrescine)",
-      "3": "타이라민(tyramine)"
+      "1": "석유폐수 → 3,4 - Benzopyrene → 발암물질",
+      "2": "광업소폐수 → 카드뮴(Cd) → 미나마타병",
+      "3": "펄프공장폐수 → 석탄 타르(tar) → 조개류의 쓴맛",
+      "4": "구리정련공장폐수 → 구리(Cu) → 녹색 굴"
     },
     "answers": [
       3
@@ -74,15 +74,51 @@
   {
     "id": 5,
     "date": "20030525",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 32,
-    "question": "김의 붉은 색을 나타내는 것은?",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "다음 설명 중 경구전염병과 거리가 먼 것은?",
     "choices": {
-      "1": "102 – 103",
-      "3": "astaxanthin",
-      "4": "106 - 107",
-      "2": "103 - 104 ❸ 105 – 106"
+      "1": "비교적 소량의 균량으로 발생한다.",
+      "2": "잠복기가 비교적 길다.",
+      "3": "2차 감염이 거의 발생하지 않는다.",
+      "4": "집단적으로 발생한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 8,
+    "question": "발진티푸스의 균명은?",
+    "choices": {
+      "1": "Bacillus anthracis",
+      "2": "Salmonella paratyphi",
+      "3": "Rickettsia prowazeki",
+      "4": "Mycobacterium tuberculosis"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "식품취급자의 손 소독에 가장 적합한 약제는?",
+    "choices": {
+      "1": "크레졸 비누액",
+      "2": "역성비누액",
+      "3": "포르말린",
+      "4": "승홍수"
     },
     "answers": [
       2
@@ -90,7 +126,277 @@
     "explanation": ""
   },
   {
-    "id": 6,
+    "id": 8,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 12,
+    "question": "투과력이 크며 식품 저장에 널리 이용되고 있는 방사선은?",
+    "choices": {
+      "1": "가시광선",
+      "2": "α 선",
+      "3": "β 선",
+      "4": "γ선"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "동물성 식품의 변질검사에 해당되는 것은?",
+    "choices": {
+      "1": "히스타민(histamine) 측정",
+      "2": "산도(酸度) 측정",
+      "3": "카르보닐가 측정",
+      "4": "요오드가 측정"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "동물성 식품에서 유래된 독소는?",
+    "choices": {
+      "1": "무스카린(muscarine)",
+      "2": "아미그달린(amygdalin)",
+      "3": "베네루핀(venerupin)",
+      "4": "에르고톡신(ergotoxin)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 15,
+    "question": "플라스틱의 감별을 위한 방법으로 이용할 수 있는 물리적인 특성이 아닌 것은?",
+    "choices": {
+      "1": "작업장과 화장실은 2일 1회 이상 청소하여야 한다.",
+      "2": "온도계와 같은 계기류는 유명회사 제품을 사용하면 자체 점검할 필요가 없다.",
+      "3": "우물물을 사용하는 경우 정기적으로 공공기관에 수질검 사를 받고 그 성적서를 보관한다.",
+      "4": "냉장시설과 창고는 월 1회 이상 청소를 하여야 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 18,
+    "question": "비브리오 패혈증의 예방대책을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "간장 질환자는 해수욕을 가급적 삼가한다.",
+      "2": "생선회 원료는 수돗물에 잘 씻는다.",
+      "3": "서해안에 강물이 유입되는 장소는 균의 증감을 감시한 다.",
+      "4": "생선회를 냉장고에 일정시간 보관하였다가 먹는다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 19,
+    "question": "농약에 의한 식품오염에 대한 설명으로 적합하지 않은 것 은?",
+    "choices": {
+      "1": "유기인제 농약은 대부분 극독약이므로 급성중독에 의한 사고가 많다.",
+      "2": "농작물에 살포된 농약은 비, 바람, 햇빛 등의 외적작용과 작물의 성장, 대사 등의 내적작용에 의하여 분해된다.",
+      "3": "유기염소제 농약은 제조사용이 금지되어 있지만 아직도 토양에서 검출되고 있다.",
+      "4": "유기수은제 농약은 축적성이 거의 없다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20030525",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 20,
+    "question": "식품의 부패검사법 중 화학적 검사법이 아닌 것은?",
+    "choices": {
+      "1": "휘발성 아민 측정",
+      "2": "식물성 식품의 산도측정",
+      "3": "어육의 단백질 침전 반응",
+      "4": "경도측정"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 21,
+    "question": "해수어(海水魚)의 자기소화 작용의 적온은?",
+    "choices": {
+      "1": "0℃-10℃",
+      "2": "10℃-20℃",
+      "3": "40℃-50℃",
+      "4": "60℃-70℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 22,
+    "question": "다음 중 지질의 불포화도를 나타내는 척도는?",
+    "choices": {
+      "1": "과산화물값",
+      "2": "산값",
+      "3": "요오드값",
+      "4": "카르보닐값"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 23,
+    "question": "패류의 정미성분으로 알려진 것은?",
+    "choices": {
+      "1": "히스타민(histamine)",
+      "2": "프토마인(ptomaine)",
+      "3": "타이라민(tyramine)",
+      "4": "퓨트레신(putrescine)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 25,
+    "question": "핵산 관련 물질 분석에 주로 사용되고 있는 추출법은?",
+    "choices": {
+      "1": "피크린산(picric acid) 추출법",
+      "2": "에타놀(ethanol) 추출법",
+      "3": "과염소산(perchloric acid) 추출법",
+      "4": "열수 추출법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 26,
+    "question": "다음 중 참치류의 녹변에 관여하는 성분과 관계가 먼 것은?",
+    "choices": {
+      "1": "glucose-6-phosphate 와 fructose-6-phosphate",
+      "2": "histidine",
+      "3": "anserine 과 carnosine",
+      "4": "trimethylamine oxide"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 31,
+    "question": "다음 중 부패과정에 있어서 아미노산의 탈탄산반응에 의하 여 생성되는 것은?",
+    "choices": {
+      "1": "알데히드류",
+      "2": "케톤류",
+      "3": "아민류",
+      "4": "알콜류"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 32,
+    "question": "김의 붉은 색을 나타내는 것은?",
+    "choices": {
+      "1": "102 – 103",
+      "2": "103 - 104",
+      "3": "105 – 106",
+      "4": "106 - 107"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 34,
+    "question": "한천질 다당류의 구성 단위는?",
+    "choices": {
+      "1": "alginic acid",
+      "2": "agarobiose",
+      "3": "glucose",
+      "4": "amylopectin"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
     "date": "20030525",
     "subject": 2,
     "subject_name": "수산화학",
@@ -98,8 +404,8 @@
     "question": "다음 중 수산물의 신선도를 측정하기 위한 휘발성 염기질소 (VBN)법에서 측정 대상이 되지 않는 성분은?",
     "choices": {
       "1": "구연산(citric acid)",
-      "2": "푸말산(fumaric acid) ❸ 피크린산(picric acid)",
-      "3": "디메틸아민(Dimethylamine) ❹ 황화수소(Hydrogen sulfide) 36. 어육을 메탄올-클로로포름 혼합용매로서 마쇄하였을 때 기 름은 어떻게 분리하는가?",
+      "2": "푸말산(fumaric acid)",
+      "3": "피크린산(picric acid)",
       "4": "피루브산(pyruvic acid)"
     },
     "answers": [
@@ -108,14 +414,122 @@
     "explanation": ""
   },
   {
-    "id": 7,
+    "id": 24,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 39,
+    "question": "젤라틴은 어디서 유도된 것인가?",
+    "choices": {
+      "1": "염용성 단백질",
+      "2": "근형질 단백질",
+      "3": "근원섬유 단백질",
+      "4": "근기질 단백질"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20030525",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 40,
+    "question": "산화된 어유의 갈변에 가장 필수적인 인자는？",
+    "choices": {
+      "1": "아미노화합물",
+      "2": "암모니아",
+      "3": "알칼리(alkali)",
+      "4": "무기염류"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 41,
+    "question": "물간에 의한 염장품 제조에 맞는 것은?",
+    "choices": {
+      "1": "Bé20° 의 염수에 6-12시간 정도 절인다.",
+      "2": "Bé22° 의 염수에 8-15시간 정도 절인다.",
+      "3": "Bé24° 의 염수에 18-20시간 정도 절인다.",
+      "4": "Bé26° 의 염수에 21-24시간 정도 절인다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 42,
+    "question": "알긴산 겔의 특성이 아닌 것은?",
+    "choices": {
+      "1": "알긴산은 이가 양이온과 반응하여 겔을 형성.",
+      "2": "해조내의 알긴산은 대부분 Ca염의 형태로 존재한다.",
+      "3": "M/G 비율이 높은 알긴산은 겔 강도가 강하다.",
+      "4": "알긴산 겔은 알긴산 칼슘겔에 비해 물성이 부드럽다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 43,
+    "question": "어묵 제조시에 쓰이는 부재료가 아닌 것은?",
+    "choices": {
+      "1": "MSG",
+      "2": "감자전분",
+      "3": "유지",
+      "4": "인산염"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 44,
+    "question": "어체의 식염 삼투작용과 직접관계가 없는 것은?",
+    "choices": {
+      "1": "시간과 온도",
+      "2": "원료의 선도",
+      "3": "식염농도와 지방",
+      "4": "식염수의 pH"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
     "date": "20030525",
     "subject": 3,
     "subject_name": "수산가공학",
     "question_no": 45,
     "question": "갈치, 장어와 같은 어종을 입상할 때의 배열 방법은?",
     "choices": {
-      "1": "배립형(背立形)",
+      "1": "동결,융해조작 반복에 의한 탈수,승화에 의한 탈수",
       "2": "동결,건조조작 반복에 의한 탈수,해동에 의한 탈수",
       "3": "동결,증발에 의한 탈수,증발에 의한 탈수",
       "4": "동결,흡습에 의한 탈수,흡습에 의한 탈수"
@@ -126,17 +540,17 @@
     "explanation": ""
   },
   {
-    "id": 8,
+    "id": 31,
     "date": "20030525",
     "subject": 3,
     "subject_name": "수산가공학",
-    "question_no": 52,
-    "question": "다음 중 박엽지(薄葉紙)가 아닌 것은?",
+    "question_no": 47,
+    "question": "다음 중 열훈법의 처리 온도와 시간으로 가장 적당한 것은?",
     "choices": {
-      "2": "지방이나 향신료를 사용하여 축육 소시지와 같은 풍미를 가지도록 조미하는 것.",
-      "3": "통기성이 없는 열수축성의 포장 재료에 채워 충분히 가 열하여 저장성을 갖는다. ❹ 원료어로서 지방이 많으며 탄력이 강하고 흰 살인어류가 좋다.",
-      "4": "Carbon paper 53. 어육 햄 및 소시지가 일반 수산 연제품과 차이점에서 관계 가 먼 것은?",
-      "1": "원료어로서 흰살 어류 대신에 붉은 살 어류를 사용하는 것."
+      "1": "120-140℃, 3시간",
+      "2": "50-60℃, 2시간",
+      "3": "100-120℃, 3시간",
+      "4": "120-140℃, 5시간"
     },
     "answers": [
       1
@@ -144,17 +558,17 @@
     "explanation": ""
   },
   {
-    "id": 9,
+    "id": 32,
     "date": "20030525",
     "subject": 3,
     "subject_name": "수산가공학",
-    "question_no": 60,
-    "question": "건제품 저장시 가장 문제가 되는 미생물은?",
+    "question_no": 49,
+    "question": "다음 중 수산가공품을 수출하기 위해 필히 고려해야 할 사 항은?",
     "choices": {
-      "1": "저장온도가 낮을 때 ❷ 수분함량이 많을 때",
-      "2": "바이러스 ❸ 곰팡이",
-      "4": "철,구리등의 성분이 봉쇄되었을 때",
-      "3": "아황산이 첨가되었을 때"
+      "1": "기호성에 변화에 대비",
+      "2": "고선도의 수산물 원료의 확보",
+      "3": "위해분석중요관리점방식의 도입",
+      "4": "수산가공 부산물의 효율적 이용"
     },
     "answers": [
       3
@@ -162,17 +576,53 @@
     "explanation": ""
   },
   {
-    "id": 10,
+    "id": 33,
     "date": "20030525",
-    "subject": 4,
-    "subject_name": "통조림제조학",
-    "question_no": 62,
-    "question": "통조림의 플랫사워(flat-sour)원인균으로 중요한 것은?",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 50,
+    "question": "수산물 종합 가공 공장에서 가장 선도가 좋은 원료를 배정 하여야 할 제품은?",
     "choices": {
-      "2": "Pseudomonas",
-      "3": "3.1",
-      "4": "4.1",
-      "1": "1.1 ❷ 2.1 kg/cm2 kg/cm2"
+      "1": "냉동품",
+      "2": "연제품",
+      "3": "훈제품",
+      "4": "염장품"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 51,
+    "question": "다음중 어패류 특유의 맛과 가장 밀접한 관련이 있는 것은?",
+    "choices": {
+      "1": "탄수화물",
+      "2": "단백질",
+      "3": "엑스성분",
+      "4": "회분"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 52,
+    "question": "다음 중 박엽지(薄葉紙)가 아닌 것은?",
+    "choices": {
+      "1": "원료어로서 흰살 어류 대신에 붉은 살 어류를 사용하는 것.",
+      "2": "지방이나 향신료를 사용하여 축육 소시지와 같은 풍미를 가지도록 조미하는 것.",
+      "3": "통기성이 없는 열수축성의 포장 재료에 채워 충분히 가 열하여 저장성을 갖는다.",
+      "4": "원료어로서 지방이 많으며 탄력이 강하고 흰 살인어류가 좋다."
     },
     "answers": [
       1
@@ -180,17 +630,17 @@
     "explanation": ""
   },
   {
-    "id": 11,
+    "id": 36,
     "date": "20030525",
-    "subject": 4,
-    "subject_name": "통조림제조학",
-    "question_no": 73,
-    "question": "양철관을 사용하는 방법을 고안한 사람은?",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 54,
+    "question": "마른간법의 장점을 설명한 것에서 관계가 먼 것은?",
     "choices": {
-      "1": "일반적으로 영양분, 향기성분의 보존성이 높 다.",
-      "3": "원더 우드(Under wood)",
-      "4": "HTST법은 일반적으로 고체식품에 불리하다.",
-      "2": "식품품질에 악영향을 미치는 어느 효소의 Z값이 클 경우 불리하다. ❸ 관내를 일정시간 통과시켜 살균하는 경우 층류(laminar flow)의 경우 난류(turbulent flow)의 경우보다 미생물의 생존확률이 적다."
+      "1": "염장에 특별한 설비가 필요없다.",
+      "2": "소금의 침투가 균일하여 제품의 품질이 고르다.",
+      "3": "용염량에 비하여 탈수량이 많고 식염의 삼투가 빠르며 염장초기의 부패가 적다.",
+      "4": "염장이 잘못되었을 때 그 피해를 부분적으로 그치게 할 수 있다."
     },
     "answers": [
       2
@@ -198,7 +648,367 @@
     "explanation": ""
   },
   {
-    "id": 12,
+    "id": 37,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 55,
+    "question": "온훈법의 훈연온도는 몇 도로 하는 것이 적당한가?",
+    "choices": {
+      "1": "30℃∼50℃",
+      "2": "50℃∼80℃",
+      "3": "80℃∼100℃",
+      "4": "100℃∼120℃"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 56,
+    "question": "수산물의 건조 중 일어나는 변질현상이 아닌 것은?",
+    "choices": {
+      "1": "단백질의 변성",
+      "2": "섬유질의 저하",
+      "3": "색소감소",
+      "4": "지방산화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 57,
+    "question": "식품의 살균에 가장 효과적인 방사선은?",
+    "choices": {
+      "1": "α선",
+      "2": "β선",
+      "3": "γ선",
+      "4": "X선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 58,
+    "question": "어육 소시지의 부패와 가장 관련이 깊은 세균 속은?",
+    "choices": {
+      "1": "Bacillus",
+      "2": "Pseudomonas",
+      "3": "Enterobacter",
+      "4": "Achromobacter"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20030525",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 60,
+    "question": "건제품 저장시 가장 문제가 되는 미생물은?",
+    "choices": {
+      "1": "저장온도가 낮을 때",
+      "2": "수분함량이 많을 때",
+      "3": "아황산이 첨가되었을 때",
+      "4": "철,구리등의 성분이 봉쇄되었을 때"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 62,
+    "question": "통조림의 플랫사워(flat-sour)원인균으로 중요한 것은?",
+    "choices": {
+      "1": "1.1",
+      "2": "2.1 kg/cm2 kg/cm2",
+      "3": "3.1",
+      "4": "4.1"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 64,
+    "question": "Buckling을 일으키는 원인에 관계 없는 것은?",
+    "choices": {
+      "1": "관의 내압력이 약할 경우",
+      "2": "밀봉 불량의 경우",
+      "3": "탈기 불충분과 살균전의 부패나 수소팽창",
+      "4": "가열살균 후 증기를 급격히 배출하는 경우"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 65,
+    "question": "다음 중 가열탈기 과정에서 가열효과와 관계가 없는것은?",
+    "choices": {
+      "1": "가열팽창되었던 내용물의 수축에 의한 진공의 생성",
+      "2": "내용물 중에 용해되어 있는 공기의 기화 제거",
+      "3": "head space 내의 공기의 팽창 제거",
+      "4": "호열성 세균의 살균"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 66,
+    "question": "Honey comb 현상이 잘 나타나는 통조림은?",
+    "choices": {
+      "1": "가다랑어 통조림",
+      "2": "꽁치 통조림",
+      "3": "어란 통조림",
+      "4": "고등어 통조림"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 67,
+    "question": "통조림 살균에서 냉점(cold point)이란?",
+    "choices": {
+      "1": "통조림 관내에서 가장 열전달이 늦는 부위",
+      "2": "통조림 관내의 기하학적 중심부위",
+      "3": "통조림내의 열침투 속도의 진행을 표시하는 점",
+      "4": "통조림 관내에서 가장 열전달이 빠른 부위"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 68,
+    "question": "시이밍헤드 높이 조절에서 자동밀봉기의 경우 리프터쿠션 (lifter cushion)의 기준값은?",
+    "choices": {
+      "1": "0.8mm",
+      "2": "0.9mm",
+      "3": "1.0mm",
+      "4": "0.7mm"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 69,
+    "question": "통조림 살균 조작에서 Come-up time을 옳게 말한 것은?",
+    "choices": {
+      "1": "레트로트에 증기를 도입하기 시작하여 소정의 살균온도 에 도달할 때까지의 시간",
+      "2": "레트로트에 증기를 도입하기 시작하여 통조림 중심부의 온도가 소정의 온도에 도달할 때까지 의 시간",
+      "3": "레트로트에 증기를 도입하기 시작한 때로부터 레토르트 온도와 통조림내용물의 평균온도가 일치한 시간",
+      "4": "레트로트의 초온이 통조림 중심부 온도와 일치할 때까지 의 시간"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 70,
+    "question": "밀봉부가 과도하게 밑으로 처지는 현상은?",
+    "choices": {
+      "1": "립(lip)",
+      "2": "드루우핑(drooping)",
+      "3": "비이(Vee)",
+      "4": "샤아프시임(sharp seam)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 71,
+    "question": "Pasteurization이 목표로 하는 열처리는?",
+    "choices": {
+      "1": "고온살균",
+      "2": "저온살균",
+      "3": "상업적살균",
+      "4": "간헐살균"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 73,
+    "question": "양철관을 사용하는 방법을 고안한 사람은?",
+    "choices": {
+      "1": "일반적으로 영양분, 향기성분의 보존성이 높 다.",
+      "2": "식품품질에 악영향을 미치는 어느 효소의 Z값이 클 경우 불리하다.",
+      "3": "관내를 일정시간 통과시켜 살균하는 경우 층류(laminar flow)의 경우 난류(turbulent flow)의 경우보다 미생물의 생존확률이 적다.",
+      "4": "HTST법은 일반적으로 고체식품에 불리하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 75,
+    "question": "통조림 불량관 중 타검에서 선별이 곤란한 것은?",
+    "choices": {
+      "1": "팽창관",
+      "2": "경량관",
+      "3": "과량관",
+      "4": "산패관"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 76,
+    "question": "굴훈제 유지 통조림의 일반적 살균조건은? (단, 각 3호 B관 기준임)",
+    "choices": {
+      "1": "80℃, 60분",
+      "2": "90℃, 60분",
+      "3": "100℃, 60분",
+      "4": "110℃, 60분"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 77,
+    "question": "소정의 온도에서 주어진 미생물을 90%사멸시키는데 요하는 가열시간은?",
+    "choices": {
+      "1": "Z-값",
+      "2": "Fo-값",
+      "3": "D-값",
+      "4": "fn-값"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 79,
+    "question": "통조림 식품의 비타민 중 가열에 대하여 가장 안정한 것은?",
+    "choices": {
+      "1": "비타민A",
+      "2": "비타민B 1",
+      "3": "비타민C",
+      "4": "비타민D"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20030525",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 80,
+    "question": "살균공정 중 옳지 않은 것은?",
+    "choices": {
+      "1": "Bleeder는 come up time 기간중만 열어 놓는다.",
+      "2": "Bleeder의 구경은 1/8인치(3.17mm)이상일 것.",
+      "3": "Bleeder는 살균 전공정중 열어 놓는다.",
+      "4": "Bleeder는 레토르트 양단으로부터 30cm의 위치에 보통 설치한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
     "date": "20030525",
     "subject": 5,
     "subject_name": "냉동냉장학",
@@ -207,8 +1017,8 @@
     "choices": {
       "1": "호흡 속도를 낮춘다.",
       "2": "미생물의 번식을 저지시킴",
-      "3": "효소의 활성을 지연시킴 ❹ 식품의 동결점을 높인다",
-      "4": "모세관 83. chilling 냉장법은 과일, 채소류의 저장에 널리 이용되고 있 다. chilling 효과와 관계 없는 사항은?"
+      "3": "효소의 활성을 지연시킴",
+      "4": "식품의 동결점을 높인다"
     },
     "answers": [
       4
@@ -216,17 +1026,71 @@
     "explanation": ""
   },
   {
-    "id": 13,
+    "id": 58,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 84,
+    "question": "다음 중 냉매 토출 압력에 의하여 작동하는 기기는?",
+    "choices": {
+      "1": "저압 제어기",
+      "2": "모터 제어기",
+      "3": "온도 제어기",
+      "4": "고압 제어기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 85,
+    "question": "다음 증발기의 설명 중 틀린 것은?",
+    "choices": {
+      "1": "건식증발기는 프레온과 같이 윤활유를 용해하는 냉매에 있어서는 유(oil)가 압축기에 회수가 용이하다.",
+      "2": "만액식 증발기는 냉매측에 열전달이 양호 하므로 주로 액체 냉각용에 사용한다.",
+      "3": "만액식 증발기에 프레온을 냉매로 하는 것은 압축기로 유회수 장치가 필요 없다.",
+      "4": "액순환식 증발기는 증발기 내부에서 증발하는 액화냉매 량의 4∼6배의 액을 액펌프 이용 강제 순환한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 86,
+    "question": "증기 압축식 냉동장치의 주요 4요소와 관계가 먼 것은?",
+    "choices": {
+      "1": "균일한 모양과 크기의 냉동식품",
+      "2": "모양이 불규칙한 대형포장 냉동식품",
+      "3": "팽창판(expansion valve) 및 증발기(evaporator)",
+      "4": "수액기(receiver) 87. 접촉식 평판 냉동기(contact-plate freezer)는 어떤 종류의 냉동식품을 가공하는데 가장 적당한가?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
     "date": "20030525",
     "subject": 5,
     "subject_name": "냉동냉장학",
     "question_no": 88,
     "question": "최대 빙결정 생성대와 관계되는 온도범위로 맞는 것은?",
     "choices": {
-      "1": "0 ~ -5℃ ❷ 동결점 ~ -5℃",
+      "1": "쿨렌(W.Cullen)",
+      "2": "까레(F.Carre)",
       "3": "퍼킨스(J.Perkins)",
-      "4": "린데와 보일 (Linde &Boyle)",
-      "2": "까레(F.Carre)"
+      "4": "린데와 보일 (Linde &Boyle)"
     },
     "answers": [
       2
@@ -234,17 +1098,107 @@
     "explanation": ""
   },
   {
-    "id": 14,
+    "id": 62,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 90,
+    "question": "동결 식품의 빙결정 성장에 관계되는 요인이 아닌 것은?",
+    "choices": {
+      "1": "얼음과 물의 수증기압의 차",
+      "2": "빙결정의 대소에 따른 수증기압의 차",
+      "3": "급속 동결",
+      "4": "저장온도의 변동"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 91,
+    "question": "다음의 저장방법 중에서 빙결정이 생성되어서 저장되는 방 법은?",
+    "choices": {
+      "1": "빙온법",
+      "2": "냉각해수법",
+      "3": "냉장법",
+      "4": "부분동결법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 92,
+    "question": "냉동품의 냉장시 냉장실의 관계습도는 어느 정도가 알맞는 가?",
+    "choices": {
+      "1": "15∼40%",
+      "2": "50∼60%",
+      "3": "70∼75%",
+      "4": "90∼95%"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 93,
+    "question": "2원 냉동장치에서 저온측 냉매로 적합하지 않는 것은?",
+    "choices": {
+      "1": "R-12",
+      "2": "R-13",
+      "3": "R-14",
+      "4": "R-503"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 94,
+    "question": "동결과 해동을 반복하여 탈수한 제품은?",
+    "choices": {
+      "1": "한천",
+      "2": "마른전복",
+      "3": "마른오징어",
+      "4": "마른해삼"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
     "date": "20030525",
     "subject": 5,
     "subject_name": "냉동냉장학",
     "question_no": 95,
     "question": "어육을 동결시에 급속동결의 설명중에서 잘못된 것은?",
     "choices": {
-      "1": "최대 빙결정 생성대 통과시간이 30분이내 ❷ 최대 빙결정 생성대 통과시간이 1시간이내",
+      "1": "Rauolt법칙",
+      "2": "Plank법칙",
       "3": "Heiss법칙",
-      "4": "열역학법칙",
-      "2": "Plank법칙"
+      "4": "열역학법칙"
     },
     "answers": [
       2
@@ -252,14 +1206,32 @@
     "explanation": ""
   },
   {
-    "id": 15,
+    "id": 68,
+    "date": "20030525",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 97,
+    "question": "다음 중 냉매로서 적합하지 못한 것은?",
+    "choices": {
+      "1": "저온에서 대기압 이상의 압력으로 증발하고 상온에서 비 교적 저압으로 액화할 것",
+      "2": "임계온도가 높고 응고온도가 낮을 것",
+      "3": "증발잠열은 크고 비열비값이 적을 것",
+      "4": "임계온도가 낮고 응고온도가 높을 것 98. 10 냉동톤 냉동기의 냉동효과가 132.8 kcal/kg 일 때 이 장"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
     "date": "20030525",
     "subject": 5,
     "subject_name": "냉동냉장학",
     "question_no": 99,
     "question": "냉동장치의 증발기에 얼어 붙은 서리의 제거방법이 아닌 것 은?",
     "choices": {
-      "1": "압축기의 고압가스를 증발기로 보내어서 제상시킨다.",
+      "1": "1 - 2 kg/cm2",
       "2": "3 - 4 kg/cm2",
       "3": "5 - 6 kg/cm2",
       "4": "7 kg/cm2"
@@ -270,14 +1242,68 @@
     "explanation": ""
   },
   {
-    "id": 16,
+    "id": 70,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "다음의 세균 중 식품취급자의 손, 피부, 인후염 등을 통하여 식품에 가장 오염되기 용이한 것은?",
+    "choices": {
+      "1": "Escherichia coli",
+      "2": "Salmonella spp.",
+      "3": "Staphylococcus aureus",
+      "4": "Shigella spp."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "대장균의 정성, 정량 검사법으로 사용되는 선택 배지는?",
+    "choices": {
+      "1": "Lactose broth",
+      "2": "BGLB broth",
+      "3": "Deoxycholate agar",
+      "4": "EC broth"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 3,
+    "question": "다음 식물성 식중독의 원인성분과 식품의 연결이 바르지 않 는 것은?",
+    "choices": {
+      "1": "솔라닌(solanine) - 감자",
+      "2": "아미그달린(amygdalin) - 청매",
+      "3": "무스카린(muscarine) - 버섯",
+      "4": "셉신(sepsine) - 고사리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
     "date": "20040523",
     "subject": 1,
     "subject_name": "식품위생학",
     "question_no": 4,
     "question": "파리에 의하여 전파되는 질병과 가장 관계가 먼 것은?",
     "choices": {
-      "1": "장티푸스",
+      "1": "지방의 산화",
       "2": "단백질 변성",
       "3": "전분의 노화",
       "4": "무기질 산화"
@@ -288,17 +1314,35 @@
     "explanation": ""
   },
   {
-    "id": 17,
+    "id": 74,
     "date": "20040523",
     "subject": 1,
     "subject_name": "식품위생학",
-    "question_no": 8,
-    "question": "복어 식중독의 독성물질로서 맞는 것은?",
+    "question_no": 6,
+    "question": "식품오염에 문제가 되는 방사성 물질과 거리가 먼 것은?",
     "choices": {
-      "1": "무기수은은 재질에 포함되어 있는 세균에 의하여 메틸수 은이 된다. ❷ 생체내에서는 무기수은은 유기수은으로 변하는 일은 없 다.",
-      "2": "프토마인(ptomaine) ❸ 테트로도톡신(tetrodotoxin)",
-      "4": "머리카락중의 총수은량으로 메틸수은 중독을 진단하는 기 준으로 쓸 수 있다.",
-      "3": "유기수은은 무기수은보다 생체 축적성이 크다."
+      "1": "90Sr",
+      "2": "137Cs",
+      "3": "131I",
+      "4": "12C"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "다음의 식품 첨가물 중 유화제로 사용되지 않는 것은?",
+    "choices": {
+      "1": "soybean lecithin",
+      "2": "glycerin fatty acid ester",
+      "3": "morpholine fatty acid salt",
+      "4": "sucrose monosterate"
     },
     "answers": [
       3
@@ -306,17 +1350,89 @@
     "explanation": ""
   },
   {
-    "id": 18,
+    "id": 76,
     "date": "20040523",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 22,
-    "question": "다음 중 다시마에 함유되어 있는 혈압강하성분은? ❶ 라민닌(Laminine)",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 8,
+    "question": "복어 식중독의 독성물질로서 맞는 것은?",
     "choices": {
-      "2": "도모익산(Domoic acid)",
-      "3": "직접적 탈아미노반응",
-      "4": "간접적 탈아미노반응",
-      "1": "산화적 탈아미노반응 ❷ 환원적 탈아미노반응"
+      "1": "무기수은은 재질에 포함되어 있는 세균에 의하여 메틸수 은이 된다.",
+      "2": "생체내에서는 무기수은은 유기수은으로 변하는 일은 없 다.",
+      "3": "유기수은은 무기수은보다 생체 축적성이 크다.",
+      "4": "머리카락중의 총수은량으로 메틸수은 중독을 진단하는 기 준으로 쓸 수 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "식품에 대한 방사선조사에 관한 설명으로 옳지 않은 것은?",
+    "choices": {
+      "1": "미강유",
+      "2": "들기름",
+      "3": "면실유",
+      "4": "콩기름"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "미생물에 의한 단백질의 변질시 생성되는 물질이 아닌 것 은?",
+    "choices": {
+      "1": "암모니아",
+      "2": "아민류",
+      "3": "페놀",
+      "4": "젖산"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "효모의 증식에 영향을 주지 않는 보존제는?",
+    "choices": {
+      "1": "Sorbic acid",
+      "2": "Parabens",
+      "3": "Dehydroacetic acid(DHA)",
+      "4": "Propionic acid"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 15,
+    "question": "주로 채소를 통하여 매개되는 기생충은?",
+    "choices": {
+      "1": "십이지장충",
+      "2": "간디스토마",
+      "3": "민촌충",
+      "4": "선모충"
     },
     "answers": [
       1
@@ -324,17 +1440,53 @@
     "explanation": ""
   },
   {
-    "id": 19,
+    "id": 81,
     "date": "20040523",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 27,
-    "question": "냉동품의 냉동변성을 방지하는데 효과적인 물질은?",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "대장균군에 대한 최확수법에 대한 설명으로 옳지 않은 것 은?",
     "choices": {
-      "1": "염산",
-      "2": "Fructan",
-      "4": "Inulin",
-      "3": "Galactomannan"
+      "1": "최확수란 이론적으로 가장 가능한 수치를 말한다.",
+      "2": "대장균군수는 희석한 시료를 유당배지 발효관에 접종하 여 실험한다.",
+      "3": "유당배지 발효관 중 가스생성 여부에 따라 확률적인 대 장균의 수치를 산출하고 최확수로 나타낸다.",
+      "4": "실험결과, 최확수표에서 직접 구하는 대장균군수는 시료 1㎖에 대한 것이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 17,
+    "question": "인축공통 전염병이 아닌 것은?",
+    "choices": {
+      "1": "야토병(tularemia)",
+      "2": "탄저(anthrax)",
+      "3": "파상열(brucelloses)",
+      "4": "콜레라(cholera)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 18,
+    "question": "다음 물질을 식품에 첨가했을 때 착색효과와 영양강화 현상 을 동시에 나타낼 수 있는 것은?",
+    "choices": {
+      "1": "아스코르빈산(ascorbic acid)",
+      "2": "캐러멜(caramel)",
+      "3": "베타카로틴(β -carotene)",
+      "4": "비타민(Vitamin) C"
     },
     "answers": [
       3
@@ -342,7 +1494,133 @@
     "explanation": ""
   },
   {
-    "id": 20,
+    "id": 84,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 20,
+    "question": "식품가공 공장의 바닥, 수구 등에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "바닥은 내수성이고 청소하기에 편리하여야 된다.",
+      "2": "바닥은 물이 잘 빠지도록 경사가 필요하다.",
+      "3": "배수구는 U자형으로 하는 것이 좋다.",
+      "4": "배수구는 벽과 평행하여 밀착되게 설치하되 깊이는 15m 이상 되게 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 21,
+    "question": "엑스분(extractives)과 관계 없는 것은?",
+    "choices": {
+      "1": "정미성분",
+      "2": "저분자 질소화합물",
+      "3": "색소",
+      "4": "유기산"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 22,
+    "question": "다음 중 다시마에 함유되어 있는 혈압강하성분은?",
+    "choices": {
+      "1": "산화적 탈아미노반응",
+      "2": "환원적 탈아미노반응",
+      "3": "직접적 탈아미노반응",
+      "4": "간접적 탈아미노반응"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 24,
+    "question": "어류의 근원섬유 단백질 중 함량 비율이 가장 높은 것은?",
+    "choices": {
+      "1": "미오신(myosin)",
+      "2": "액틴(actin)",
+      "3": "트로포닌(troponin)",
+      "4": "액티닌(actinin)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 25,
+    "question": "다음 중 자가소화에 의한 어육 연화의 원인이 아닌 것은?",
+    "choices": {
+      "1": "멜라닌(melanin) 색소의 분해",
+      "2": "근원섬유의 소편화",
+      "3": "코넥틴(connectin)의 분해",
+      "4": "단백질 분해효소의 작용"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 26,
+    "question": "다음 중 글리코겐(glycogen)의 혐기적 해당작용으로 생성되 어 신선 어육의 pH 변화에 크게 영향을 미치는 것은?",
+    "choices": {
+      "1": "초산(Acetic acid)",
+      "2": "구연산(Citric acid)",
+      "3": "젖산(Lactic acid)",
+      "4": "호박산(Succinic acid)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 27,
+    "question": "냉동품의 냉동변성을 방지하는데 효과적인 물질은?",
+    "choices": {
+      "1": "Dextran",
+      "2": "Fructan",
+      "3": "Galactomannan",
+      "4": "Inulin"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
     "date": "20040523",
     "subject": 2,
     "subject_name": "수산화학",
@@ -350,9 +1628,9 @@
     "question": "어류 근육 중의 결합수(結合水)에 대한 설명으로 틀린 것은?",
     "choices": {
       "1": "10%미만",
-      "2": "10-20% ❸ 35-40%",
-      "4": "약50%",
-      "3": "변동이 없고 거의 일정하다."
+      "2": "10-20%",
+      "3": "35-40%",
+      "4": "약50%"
     },
     "answers": [
       3
@@ -360,7 +1638,241 @@
     "explanation": ""
   },
   {
-    "id": 21,
+    "id": 92,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 33,
+    "question": "다음 어유 성분 중 특수 윤활유로 쓰이는 것은?",
+    "choices": {
+      "1": "monoglyceride",
+      "2": "cetyl alcohol",
+      "3": "wax",
+      "4": "squalene"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 34,
+    "question": "다음 중 사후경직을 연장시키는 방법은?",
+    "choices": {
+      "1": "완만동결을 실시하는 것",
+      "2": "상온으로 유통시키는 것",
+      "3": "어획 직후 내장을 제거하는 것",
+      "4": "자가소화를 촉진시키는 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 35,
+    "question": "다음 어패류 중 다당류의 함량이 가장 많은 것은?",
+    "choices": {
+      "1": "명태",
+      "2": "피등어 꼴두기",
+      "3": "새우",
+      "4": "굴"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 36,
+    "question": "해산어의 냄새와 관계 없는 성분은?",
+    "choices": {
+      "1": "피페리딘",
+      "2": "요오드취",
+      "3": "TMA",
+      "4": "암모니아"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 37,
+    "question": "struvite의 조성을 바르게 나타낸 것은?",
+    "choices": {
+      "1": "Mg(NH )PO .6H O",
+      "2": "Mg(H PO ) .4H O 4 4 2 2 4 2 2",
+      "3": "MgHPO .6H O",
+      "4": "MgH P O .4H O 4 2 2 2 7 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 38,
+    "question": "연어,송어의 육 색소는?",
+    "choices": {
+      "1": "astaxanthin",
+      "2": "hemocyanin",
+      "3": "astacene",
+      "4": "myoglobin"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 39,
+    "question": "수산물 가공원료의 선도지표로 가장 많이 활용되고 있는 것 은?",
+    "choices": {
+      "1": "휘발성 염기질소값",
+      "2": "K값",
+      "3": "인돌값",
+      "4": "아미노질소값"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 40,
+    "question": "다음 중 무척추동물 특유의 근원섬유 단백질은?",
+    "choices": {
+      "1": "파라미오신(paramyosin)",
+      "2": "액티닌(actinin)",
+      "3": "트로포미오신(tropomyosin)",
+      "4": "데스민(desmin)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 41,
+    "question": "가다랑어 엑스분을 가공할 때 가장 문제점은 다음 중 어느 것인가?",
+    "choices": {
+      "1": "탈지",
+      "2": "탈색",
+      "3": "탈취",
+      "4": "콜라겐의 용출"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 42,
+    "question": "다음 중 저장을 주목적으로 한 훈연법은?",
+    "choices": {
+      "1": "온훈법(Hot smoking)",
+      "2": "냉훈법(Cold smoking)",
+      "3": "속훈법(Quick smoking",
+      "4": "전훈법(Electric smoking)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 43,
+    "question": "게 통조림의 제조시 청변육이 생기는 원인은?",
+    "choices": {
+      "1": "통조림 용기와 접촉하여 청변육이 생긴다.",
+      "2": "수중세균이 게육에 오염이 되었을 때 세균의 분해작용으 로 인하여 생성된다.",
+      "3": "구리를 함유하는 혈색소인 Hemocyanin의 원인으로 생 성된다.",
+      "4": "게육질에 함유하는 혈색소인 Hemoglobin의 원인으로 생 성된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 44,
+    "question": "수산 훈제품 가공시의 훈연 조건 중 틀린 것은?",
+    "choices": {
+      "1": "냉훈법은 1∼3주간 훈연한다.",
+      "2": "온훈법은 2∼12시간 훈연한다.",
+      "3": "냉훈법의 온도는 5∼10℃ 정도이다.",
+      "4": "온훈법의 온도는 50∼80℃ 정도이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 45,
+    "question": "마른간법의 장점이 아닌 것은?",
+    "choices": {
+      "1": "염장에 특별한 설비가 필요없다.",
+      "2": "용염량에 비하여 탈수량이 많다.",
+      "3": "염장중 공기와 접촉하지 않으므로 지방의 산화가 적다.",
+      "4": "소금의 삼투가 빠르며 염장초기의 부패가 적다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
     "date": "20040523",
     "subject": 3,
     "subject_name": "수산가공학",
@@ -369,8 +1881,8 @@
     "choices": {
       "1": "dressed",
       "2": "semi-dressed",
-      "4": "식해는 유산 발효에 의해 주로 숙성, 발효된다. 48. 어체의 등뼈를 따라 좌우로 2매의 육편을 편뜨기하고, 한장 의 뼈판이 남도록 칼질한 것으로 세겹 편뜨기라고도 하는 것은?",
-      "3": "slice ❹ fillet"
+      "3": "slice",
+      "4": "fillet"
     },
     "answers": [
       3
@@ -378,7 +1890,79 @@
     "explanation": ""
   },
   {
-    "id": 22,
+    "id": 106,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 49,
+    "question": "KCl을 가할 때 겔화하여 침전하는 카라기난은?",
+    "choices": {
+      "1": "ι - 카라기난",
+      "2": "λ - 카라기난",
+      "3": "β - 카라기난",
+      "4": "κ - 카라기난"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 50,
+    "question": "플라스틱 포장식품의 저장 중 품질변화가 아닌 것은?",
+    "choices": {
+      "1": "냄새의 변화",
+      "2": "탈습에 의한 무게의 감소",
+      "3": "색택의 암색화",
+      "4": "숙성에 의한 향미의 증진"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 51,
+    "question": "연제품의 일반적인 가열살균온도는?",
+    "choices": {
+      "1": "중심온도 50℃ 이상",
+      "2": "중심온도 60℃ 이상",
+      "3": "중심온도 70℃ 이상",
+      "4": "중심온도 80℃ 이상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 52,
+    "question": "껍질을 붙인 마른새우(boiled-dried shrimp)의 자숙방법을 옳게 설명한 것은?",
+    "choices": {
+      "1": "전기해동법",
+      "2": "접촉해동법",
+      "3": "조합해동법",
+      "4": "수중해동법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
     "date": "20040523",
     "subject": 3,
     "subject_name": "수산가공학",
@@ -387,8 +1971,8 @@
     "choices": {
       "1": "식염은 탄력 형성에 관여한다",
       "2": "미림과 소주는 풍미에 관여한다",
-      "4": "pH 8.0 이상 55. 게맛어묵류의 제조에 있어서 고기갈이할 때 첨가제의 역할 을 설명한 것 중 틀린 것은?",
-      "3": "인산염은 보수성을 높인다 ❹ CaCO 는 색소퇴색방지에 관여한다 3"
+      "3": "인산염은 보수성을 높인다",
+      "4": "CaCO 는 색소퇴색방지에 관여한다 3"
     },
     "answers": [
       3
@@ -396,17 +1980,71 @@
     "explanation": ""
   },
   {
-    "id": 23,
+    "id": 111,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 56,
+    "question": "다음 중 활성포장시스템이 아닌 것은?",
+    "choices": {
+      "1": "처음 습도가 낮은 곳에서 건조한다.",
+      "2": "잠재움 등으로 수분을 확산시킨다.",
+      "3": "습도가 낮은 곳에 비교적 고온에서 저장한다.",
+      "4": "습도를 높게 하여 비교적 저온에 저장한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 58,
+    "question": "시간· 온도· 허용한도 (T.T.T)란?",
+    "choices": {
+      "1": "저온 저장식품의 품질한계 상수",
+      "2": "저온 저장식품의 품질기준 상수",
+      "3": "저온 저장식품의 품질, 저장기간, 품온관계상수",
+      "4": "저온 저장식품의 저장기간, 품질변화량 관계상수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 60,
+    "question": "건조식품의 안전보장 수분함량은?",
+    "choices": {
+      "1": "살재임 작업을 쉽게 하기위하여",
+      "2": "제조후의 제품의 색택보호를 위하여",
+      "3": "공정 중 어육이 흩여지는 것을 방지하기 위하여",
+      "4": "액즙의 혼탁과 curd의 생성을 방지하기 위하여"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
     "date": "20040523",
     "subject": 4,
     "subject_name": "통조림제조학",
     "question_no": 62,
     "question": "High retort pouch 식품의 적당한 살균온도 및 시간은?",
     "choices": {
-      "2": "212℉에서 주어진 미생물의 90%를 사멸시켰다는 뜻 ❸ 212℉에서 주어진 미생물의 90%를 사멸시키는데 10분 소요되었다는 뜻",
-      "3": "120~130℃, 2~5분",
-      "4": "212℉에서 주어진 미생물의 100%를 사멸시키는데 10분 소요되었다는 뜻",
-      "1": "212℉에서 주어진 미생물의 10%를 사멸시켰다는 뜻"
+      "1": "212℉에서 주어진 미생물의 10%를 사멸시켰다는 뜻",
+      "2": "212℉에서 주어진 미생물의 90%를 사멸시켰다는 뜻",
+      "3": "212℉에서 주어진 미생물의 90%를 사멸시키는데 10분 소요되었다는 뜻",
+      "4": "212℉에서 주어진 미생물의 100%를 사멸시키는데 10분 소요되었다는 뜻"
     },
     "answers": [
       1
@@ -414,7 +2052,97 @@
     "explanation": ""
   },
   {
-    "id": 24,
+    "id": 115,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 64,
+    "question": "통조림의 배기방법으로 적합하지 않는 것은?",
+    "choices": {
+      "1": "가열배기법",
+      "2": "화학적 배기법",
+      "3": "기계적 배기법",
+      "4": "증기분사법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 65,
+    "question": "해동할 때 일어나는 일반변화와 관계 없는 것은?",
+    "choices": {
+      "1": "drip 현상",
+      "2": "영양분의 산화",
+      "3": "미생물의 작용",
+      "4": "향미 증진"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 66,
+    "question": "가열살균을 마친 통조림을 급히 냉각해야 하는 이유가 아닌 것은?",
+    "choices": {
+      "1": "내용물의 조직을 연하게 만들기 위함이다.",
+      "2": "내용물의 과열에 의한 조직이 연하게 되는 것을 막기 위 함이다.",
+      "3": "유화수송의 발생을 적게 하기 위함이다.",
+      "4": "호열성균을 사멸시키기 위함이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 68,
+    "question": "통조림 식품의 flat-sour형 변패 원인균은?",
+    "choices": {
+      "1": "Bacillus stearothermophilus",
+      "2": "CIostrium nigrificans",
+      "3": "Polymyxa",
+      "4": "Saccharomyces cervisiae"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 69,
+    "question": "다음 중 관내부의 압력이 관외부의 압력보다 커져서 그 차 이가 관의 탄성한계를 넘어설 때 생기는 영구적 현상은?",
+    "choices": {
+      "1": "Buckled can",
+      "2": "Panelled can",
+      "3": "Swell(또는 Blower)",
+      "4": "Flipper"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
     "date": "20040523",
     "subject": 4,
     "subject_name": "통조림제조학",
@@ -422,9 +2150,9 @@
     "question": "Fo-값의 설명 중 옳은 것은?",
     "choices": {
       "1": "백관(plain can)",
-      "2": "원통형이중밀봉관(cylindrical double seamed can) ❸ 타발압연관(drawn and ironed can, DI관)",
-      "4": "위생관(sanitary can)",
-      "3": "관내에서의 육질 붕괴를 방지한다. ❹ 풍미를 증진시킨다. 75. 컵모양으로 찍어낸 관을 기계적 처리로 관동(can body)을 늘어뜨려 관의 높이를 높게 한 관으로서 주로 맥주나 탄산 음료용으로 사용되는 two piece can을 무엇이라 부르는가?"
+      "2": "원통형이중밀봉관(cylindrical double seamed can)",
+      "3": "타발압연관(drawn and ironed can, DI관)",
+      "4": "위생관(sanitary can)"
     },
     "answers": [
       3
@@ -432,7 +2160,43 @@
     "explanation": ""
   },
   {
-    "id": 25,
+    "id": 121,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 76,
+    "question": "통조림의 배기(탈기)목적과 관계가 없는 것은?",
+    "choices": {
+      "1": "관내공기의 팽창 억제",
+      "2": "내용물의 품질 변화 억제",
+      "3": "관내면의 부식 억제",
+      "4": "혐기성 세균의 발육 억제"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 77,
+    "question": "가밀봉(clinching)과 가장 관계가 깊은 것은?",
+    "choices": {
+      "1": "진공권체기(vaccum seamer)",
+      "2": "레톨트(retort)",
+      "3": "탈기함(exhaust box)",
+      "4": "시럽주입기(syrup filler)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
     "date": "20040523",
     "subject": 4,
     "subject_name": "통조림제조학",
@@ -440,8 +2204,8 @@
     "question": "레토르트에서 블리이터의 역할로서 옳지 않는 것은?",
     "choices": {
       "1": "용기의 종류와 크기",
-      "2": "내용물의 물리적 성질 ❸ 내용물의 산도",
-      "3": "냉각수의 장기보존",
+      "2": "내용물의 물리적 성질",
+      "3": "내용물의 산도",
       "4": "통조림통의 회전속도"
     },
     "answers": [
@@ -450,14 +2214,230 @@
     "explanation": ""
   },
   {
-    "id": 26,
+    "id": 124,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 81,
+    "question": "펠티어(Peltier) 효과를 이용한 냉동법은?",
+    "choices": {
+      "1": "증기압축식 냉동법",
+      "2": "볼텍스 튜브 냉동법",
+      "3": "공기냉동법",
+      "4": "열전냉동법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 82,
+    "question": "불응축 가스에 관하여 바른 것은?",
+    "choices": {
+      "1": "불응축 가스가 장치내에 들어와도 응축 압력에 변화가 없다.",
+      "2": "윤활유 보충때 공기가 스며 들어도 윤활유에 녹으므로 불응축가스로 되지 않는다.",
+      "3": "불응축 가스는 응축기에 고이므로 압축기의 토출가스온 도에는 영향이 없다.",
+      "4": "증발온도가 -40℃이하의 암모니아 냉동장치에는 불응축 가스가 생기기 쉽다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 83,
+    "question": "암모니아(NH )냉매에 관한 설명 중에서 틀린 것은? 3",
+    "choices": {
+      "1": "동,황동에는 화학반응을 일으키지 않는다.",
+      "2": "누설장소에 리트머스 시험지를 가져가면 청색으로 변한 다.",
+      "3": "불쾌한 자극성 냄새가 난다.",
+      "4": "물에 용해가 잘되며 철강류와는 화학반응을 잘 일으키지 않는다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 85,
+    "question": "다음 사항 중 옳은 것은?",
+    "choices": {
+      "1": "제빙톤과 냉동톤은 값이 같다.",
+      "2": "냉동기를 열펌프라고도 하는데 흡수하는 열량과 방출하 는 열량은 같다.",
+      "3": "한국 1냉동톤은 미국 1냉동톤 보다 크다.",
+      "4": "한국 1냉동톤은 3024 kcal/h 이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 86,
+    "question": "대구나 명태육을 냉동 저장할 때 고려하여야 할 가장 중요 한 품질 요인은?",
+    "choices": {
+      "1": "육색의 변화",
+      "2": "기름의 산화",
+      "3": "단백질의 변성",
+      "4": "Freezer burn"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 87,
+    "question": "동결 식품을 보관하는데 가장 적당한 온도에 관한 것은?",
+    "choices": {
+      "1": "-10℃ 이하면 된다.",
+      "2": "-18℃ 이하라야 하며, 장기간, 고급 품질을 위해서는 -23℃ 이하가 좋다.",
+      "3": "저온 장해가 일어나지 않는 범위에서 가능한한 저온으로 한다.",
+      "4": "-23℃ 이하 보존이 좋으나 가끔 -30℃ 이하로 내려주면 좋다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 88,
+    "question": "다음 중에서 물을 냉매로 하는 흡수식 냉동기의 흡수제로 사용되는 것은?",
+    "choices": {
+      "1": "암모니아(NH )",
+      "2": "프레온 냉매 3",
+      "3": "리듐브로마이드(LiBr)",
+      "4": "염화 마그네슘(MgCl ) 2"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 90,
+    "question": "다음의 자연냉동 재료에서 단위 중량당 냉동능력이 가장 큰 것은?",
+    "choices": {
+      "1": "얼음",
+      "2": "드라이 아이스",
+      "3": "액체질소",
+      "4": "해수빙"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 93,
+    "question": "냉동제품의 저장중에 생기는 품질변화에 관련이 없는 것은?",
+    "choices": {
+      "1": "지방의 산화",
+      "2": "효소적 갈변",
+      "3": "단백질의 불용화",
+      "4": "탄수화물의 가수분해"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 94,
+    "question": "다음은 건조도에 관한 설명이다. 옳은 것은?",
+    "choices": {
+      "1": "건조도 χ 일 때 1-χ 가 증기이다.",
+      "2": "건조도 χ 일 때 1-χ 가 액이다.",
+      "3": "포화액의 건조도는 1 이다.",
+      "4": "건조포화증기의 건조도는 0 이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 95,
+    "question": "브라인(brine)에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "2차냉매 또는 간접냉매라 한다.",
+      "2": "감열상태로 열을 운반한다.",
+      "3": "브라인으로 보통 R-12, R-22등이 사용된다.",
+      "4": "무기질 브라인으로 CaCl , Nacl 등이 사용된다. 2"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 96,
+    "question": "다음 냉동법 중 2차 냉매를 이용한 냉동법은?",
+    "choices": {
+      "1": "송풍식 동결법",
+      "2": "가스식 동결법",
+      "3": "부유식 동결법",
+      "4": "침지식 동결법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
     "date": "20040523",
     "subject": 5,
     "subject_name": "냉동냉장학",
     "question_no": 97,
     "question": "대형어를 처리 할 때 팬 드레스(pan dressed)란?",
     "choices": {
-      "1": "머리 및 내장이 있는 전내체",
+      "1": "해동경직",
       "2": "한냉경직",
       "3": "자가소화",
       "4": "사후경직"
@@ -468,17 +2448,341 @@
     "explanation": ""
   },
   {
-    "id": 27,
+    "id": 137,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 99,
+    "question": "식품의 동결점에서 온도를 더욱 낮게 하였을 때 틀린 것은?",
+    "choices": {
+      "1": "식품의 경도 감소",
+      "2": "빙결 수분량 증가",
+      "3": "동결율 증가",
+      "4": "동결된 상태 증가"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 100,
+    "question": "수산물 냉동품의 냉장저장 온도 변화에 대하여 맞는 설명 은?",
+    "choices": {
+      "1": "가능한 한 없어야 함",
+      "2": "3℃ 이내 허용됨",
+      "3": "전후 5℃ 까지 허용됨",
+      "4": "동결온도로 지속되어야 함"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "다음의 인축공통전염병과 병원체의 연결이 잘못된 것은?",
+    "choices": {
+      "1": "Q 열 - Coxiella burnetii",
+      "2": "파상열 - Brucella abortus",
+      "3": "탄저 - Bacillus cereus",
+      "4": "야토병 - Pasteurella tularensis"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "식품첨가물에 대한 다음의 설명 중 올바른 것은?",
+    "choices": {
+      "1": "식품첨가물의 안전성 검토에는 1일섭취허용량을 결정하고 독성시험은 급성, 아급성, 만성독성 시험의 3단계로 분류 한다.",
+      "2": "쨈류에 식품첨가물인 보존료를 첨가한 경우 다른 가열공 정을 하지 않고 안전하게 유통시킬 수 있다.",
+      "3": "식품제조가공시에 사용한 원료에 보존료를 첨가하지 않은 경우 \"무보존료\" 라고 표시할 수 있다.",
+      "4": "식품제조가공업소로 신고한 영업소는 식품 뿐만 아니라 식품첨가물도 생산할 수 있다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 3,
+    "question": "육류 발색제로 쓰이는 첨가물은?",
+    "choices": {
+      "1": "CuSO",
+      "2": "FeSO 4 4",
+      "3": "KNO",
+      "4": "Fe O 2 2 3"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "체내에 축적되어 만성중독을 일으킬 가능성이 가장 높은 농 약류는?",
+    "choices": {
+      "1": "간디스토마",
+      "2": "긴촌충",
+      "3": "민촌충",
+      "4": "갈고리촌충"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 6,
+    "question": "수인성 전염병에 속하지 않는 것은?",
+    "choices": {
+      "1": "장티푸스",
+      "2": "이질",
+      "3": "콜레라",
+      "4": "파상풍"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 7,
+    "question": "단백질 식품의 변질상태를 조사하고자 한다. 다음 중 단백질 식품의 부패생성물과 거리가 먼 것은?",
+    "choices": {
+      "1": "암모니아",
+      "2": "알콜",
+      "3": "황화수소(H S)",
+      "4": "아민류 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 8,
+    "question": "다음 소독 및 살균의 관계를 나타낸 것 중 틀린 것은?",
+    "choices": {
+      "1": "식품공장에 있어서 기구 및 기계의 살균 – 증기살균",
+      "2": "음식용 식기의 소독 - 자비소독(끓임소독)",
+      "3": "우물물의 소독 - 불소의 첨가",
+      "4": "우유의 살균 – 62~65℃의 온도에서 30분간 가열살균"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 9,
+    "question": "탄산을 포함하지 않는 청량 음료수에 사용하려고 할 때 가장 적합한 보존료는?",
+    "choices": {
+      "1": "Sodium benzoate",
+      "2": "Sodium propionate",
+      "3": "Potassium sorbate",
+      "4": "Dehydroacetic acid"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "식품에 대한 저선량 방사선조사(1kGy 이하)의 목적이 아닌 것은?",
+    "choices": {
+      "1": "하수",
+      "2": "분뇨",
+      "3": "작업장",
+      "4": "배수구"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 13,
+    "question": "식중독 세균인 장염 비브리오균의 특징에 해당되는 것은?",
+    "choices": {
+      "1": "아포를 형성한다.",
+      "2": "내열성이 있다.",
+      "3": "감염형 식중독균으로 전형적인 급성장염을 유발한다.",
+      "4": "편모가 없다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "식품 검체로부터 미생물을 신속하게 검출하는 방법에 해당 하는 것은?",
+    "choices": {
+      "1": "PCR을 이용하는 방법",
+      "2": "TLC를 이용하는 방법",
+      "3": "HPLC를 이용하는 방법",
+      "4": "IR을 이용하는 방법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 15,
+    "question": "식품에 사용되는 기구 및 용기·포장의 일반 기준에 해당하 지 않는 것은?",
+    "choices": {
+      "1": "식품에 사용되는 기구 및 용기·포장의 제조시에 디옥틸 프탈레이트를 사용해서는 안 된다.",
+      "2": "식품에 사용되는 용기·포장의 제조시 인쇄가 필요한 경 우 식품과 접촉하는 면에는 인쇄하면 안 된다.",
+      "3": "전류를 직접 식품에 통하게 하는 장치를 가진 기구의 전 극은 백금과 알루미늄 이외의 금속을 사용해서는 안 된 다.",
+      "4": "식품에 사용되는 용기·포장의 재질은 별도로 식품위생법 에 제시되어 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "공장폐수에 의한 식품오염에 대한 설명으로 적합한 것은?",
+    "choices": {
+      "1": "도금공장의 폐수는 주로 유기성 폐수로서 유해물질이 농·수산물 등에 직접적인 피해를 주는 경우가 있다.",
+      "2": "식품공장의 폐수는 주로 무기성 폐수로서 생물학적 산소 요구량(BOD)이 높고 부유물질을 다량 함유하고 있어 용 수를 오염시켜 2차적인 피해를 주는 경우가 있다.",
+      "3": "생물학적 산소요구량(BOD)이란 물 속에 있는 오염물질 이 생물학적으로 산화되어 유기성 산화물과 가스가 되기 위해 소비되는 산소량을 ppm으로 표시한 것이다.",
+      "4": "미나마타(Minamata)병은 공장폐수 중 메틸수은 화합물에 오염된 어패류를 장기간 섭취한 결과이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 19,
+    "question": "주로 감자 중의 발아부위에 함유되는 독성물질은?",
+    "choices": {
+      "1": "무스카린(muscarine)",
+      "2": "아마니타톡신(amanitatoxin)",
+      "3": "베네루핀(venerupin)",
+      "4": "솔라닌(solanine)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 20,
+    "question": "질병 발생의 역학적 인자에 해당되지 않는 것은?",
+    "choices": {
+      "1": "문화적 인자",
+      "2": "환경적 인자",
+      "3": "숙주적 인자",
+      "4": "병인적 인자"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 21,
+    "question": "다음 중 통조림의 스트루바이트(struvite) 생성 억제를 위한 가장 효과적인 것은?",
+    "choices": {
+      "1": "pH를 약 알칼리성으로 유지",
+      "2": "살균 후 급냉",
+      "3": "Tyrosinase의 첨가",
+      "4": "탄산칼슘의 첨가"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
     "date": "20050529",
     "subject": 2,
     "subject_name": "수산화학",
     "question_no": 22,
     "question": "수산물의 유독성분 중 신경독이 아닌 것은?",
     "choices": {
+      "1": "용매로서 작용하지 않는다.",
       "2": "미생물의 번식이나 발아에도 이용될 수 없는 수분이다.",
-      "3": "어육에는 대개 15∼25% 함유되고 있다. ❹ 0℃가 되어야 한다.",
-      "4": "Gonyautoxin 23. 식품의 구성성분과 결합된 결합수(bound water)와 관계가 먼 것은?",
-      "1": "용매로서 작용하지 않는다."
+      "3": "어육에는 대개 15∼25% 함유되고 있다.",
+      "4": "0℃가 되어야 한다."
     },
     "answers": [
       1
@@ -486,17 +2790,17 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 156,
     "date": "20050529",
     "subject": 2,
     "subject_name": "수산화학",
     "question_no": 24,
     "question": "김(해태)에서 가장 함량이 많은 유리 아미노산은？",
     "choices": {
-      "1": "histidine ❷ ptomaine",
-      "2": "알라린(alanine) ❸ 글루탐산(glutamic acid)",
-      "4": "muscarine",
-      "3": "choline"
+      "1": "histidine",
+      "2": "ptomaine",
+      "3": "choline",
+      "4": "muscarine"
     },
     "answers": [
       3
@@ -504,17 +2808,89 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 157,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 26,
+    "question": "다음 중 중성 지질(비극성 지질)이 아닌 것은？",
+    "choices": {
+      "1": "탄화수소",
+      "2": "인지질(phospholipid)",
+      "3": "스테롤(sterol)",
+      "4": "왁스에스테르(wax ester)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 28,
+    "question": "염장한 어육의 식염 삼투량(渗透量)을 높이는 방법으로서 적 당하지 않는 것은?",
+    "choices": {
+      "1": "식염 사용량을 증가시킨다.",
+      "2": "염장 온도를 높인다.",
+      "3": "선도가 떨어진 생선을 원료로 사용한다.",
+      "4": "순도가 높은 식염을 사용한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 29,
+    "question": "대부분의 연체류 근육에 생성되지 않는 물질은?",
+    "choices": {
+      "1": "ATP(adenosine triphosphate)",
+      "2": "TMA(trimethylamine)",
+      "3": "IMP(inosine monophosphate)",
+      "4": "Adenosine"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 30,
+    "question": "어육이 보수력(保水力)을 갖는 주 원인이 되는 것은?",
+    "choices": {
+      "1": "산화적 탈아미노반응",
+      "2": "환원적 탈아미노반응",
+      "3": "직접적 탈아미노반응",
+      "4": "간접적 탈아미노반응"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
     "date": "20050529",
     "subject": 2,
     "subject_name": "수산화학",
     "question_no": 32,
     "question": "다음 중 갈조류의 전분에 상당하는 성분은？",
     "choices": {
+      "1": "골격 단백질",
       "2": "미량 조절 단백질",
-      "3": "조절 단백질 ❹ 수축 단백질",
-      "4": "사르가산(sargassan) 33. 어종의 감별에 주로 이용되는 단백질은？",
-      "1": "골격 단백질"
+      "3": "조절 단백질",
+      "4": "수축 단백질"
     },
     "answers": [
       1
@@ -522,17 +2898,17 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 162,
     "date": "20050529",
     "subject": 2,
     "subject_name": "수산화학",
     "question_no": 34,
-    "question": "다음 중 해당(glycolysis)과정의 최종 생성물은？ ❶ 피루빈산(pyruvic acid)",
+    "question": "다음 중 해당(glycolysis)과정의 최종 생성물은？",
     "choices": {
-      "2": "구연산(citric acid)",
+      "1": "",
+      "2": "",
       "3": "",
-      "4": "",
-      "1": "❷"
+      "4": ""
     },
     "answers": [
       1
@@ -540,17 +2916,35 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 163,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 36,
+    "question": "요오드가(Iodine value)는 다음 설명 중 어느 것인가?",
+    "choices": {
+      "1": "기름 1㎏에 흡수되는 요오드의 g수",
+      "2": "기름 1g에 흡수되는 요오드의 ㎎수",
+      "3": "기름 100g에 흡수되는 요오드의 g수",
+      "4": "기름 10g에 흡수되는 요오드의 ㎎수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
     "date": "20050529",
     "subject": 2,
     "subject_name": "수산화학",
     "question_no": 38,
     "question": "다음 중 백색육 어류에 속하는 것은?",
     "choices": {
-      "1": "TMAO",
+      "1": "EPA(eicosapentaenoic acid)",
       "2": "팔리톡신(palytoxin)",
-      "4": "아프리시스타틴(aplysistatin)",
-      "3": "돌라스타틴(dolastatin)"
+      "3": "돌라스타틴(dolastatin)",
+      "4": "아프리시스타틴(aplysistatin)"
     },
     "answers": [
       3
@@ -558,17 +2952,71 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 165,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 41,
+    "question": "연제품 제조시 탄력형성에서 관계가 먼 것은?",
+    "choices": {
+      "1": "밀가루",
+      "2": "설탕",
+      "3": "소금",
+      "4": "달걀흰자"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 42,
+    "question": "패류에 있어서 전중량에 대한 육중량의 대략적인 비율은 몇 %인가?",
+    "choices": {
+      "1": "간 마른치(염건품)",
+      "2": "찐 마른치(자건품)",
+      "3": "얼 마른치(동건품)",
+      "4": "날 마른치(소건품)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 44,
+    "question": "식품포장 용기로서 유리병의 장점이 아닌 것은?",
+    "choices": {
+      "1": "투명하며 내용물을 볼 수 있다.",
+      "2": "기체투과성 및 투습성이 없다.",
+      "3": "포장 및 수송경비가 적게 든다.",
+      "4": "화학적으로 안정하다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
     "date": "20050529",
     "subject": 3,
     "subject_name": "수산가공학",
     "question_no": 45,
     "question": "어유의 정제에 관한 사항 중 틀린 것은?",
     "choices": {
-      "1": "냉훈법 ❷ 온훈법",
-      "2": "어유의 탈취법중 수소 첨가법과 중합법이 효과가 좋다. ❸ 간유 정제시는 활성탄 등을 사용하는 흡착법이 효과적이 다.",
-      "4": "압착 염장법 47. 훈연법 중 수분함량이 50~65%로 보존성은 적으나 제품에 풍미를 붙이는 것을 주 목적으로 한 훈연법은?",
-      "3": "가염지와 본염지"
+      "1": "냉훈법",
+      "2": "온훈법",
+      "3": "가염지와 본염지",
+      "4": "압착 염장법 47. 훈연법 중 수분함량이 50~65%로 보존성은 적으나 제품에 풍미를 붙이는 것을 주 목적으로 한 훈연법은?"
     },
     "answers": [
       3
@@ -576,17 +3024,35 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 169,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 49,
+    "question": "동결건조(freeze drying)의 원리를 가장 잘 표현한 것은?",
+    "choices": {
+      "1": "진공을 이용한 건조",
+      "2": "농축을 이용한 건조",
+      "3": "승화를 이용한 건조",
+      "4": "감압증발을 이용한 건조"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
     "date": "20050529",
     "subject": 3,
     "subject_name": "수산가공학",
     "question_no": 50,
     "question": "훈제품의 가공시에 훈연성분의 조성에 가장 큰 영향을 미치 는 것은?",
     "choices": {
-      "1": "가열속도",
+      "1": "30초 정도",
       "2": "1분 30초 정도",
-      "4": "3분 30초 정도",
-      "3": "2분 30초 정도"
+      "3": "2분 30초 정도",
+      "4": "3분 30초 정도"
     },
     "answers": [
       3
@@ -594,7 +3060,61 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 171,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 52,
+    "question": "개별동결 식품(IQF)을 가공하는데 가장 빠른 동결법은?",
+    "choices": {
+      "1": "송풍 동결법",
+      "2": "액화가스 동결법",
+      "3": "부분 동결법",
+      "4": "저온 삼투압 탈수 동결법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 53,
+    "question": "식품포장을 하는 목적을 설명한 것 중 가장 중요한 것은?",
+    "choices": {
+      "1": "내용물의 보존성을 높인다.",
+      "2": "상품가치를 높인다.",
+      "3": "위해 요소의 오염을 막는다.",
+      "4": "보호성을 부여한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 54,
+    "question": "식품포장재료로서 갖추어야 할 조건이 아닌 것은?",
+    "choices": {
+      "1": "위생성과 보호성",
+      "2": "영양성과 저장성",
+      "3": "작업성과 편리성",
+      "4": "상품성과 경제성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
     "date": "20050529",
     "subject": 3,
     "subject_name": "수산가공학",
@@ -602,9 +3122,9 @@
     "question": "변성이 가장 민감하게 일어나는 어육단백질은?",
     "choices": {
       "1": "산소의 용해도 감소로 호기성 세균의 발육억제",
-      "3": "근기질 단백질",
-      "4": "단백질 분해 효소작용의 저해",
-      "2": "세균에 대한 염소이온의 저해작용 ❸ 식염자체의 살균력"
+      "2": "세균에 대한 염소이온의 저해작용",
+      "3": "식염자체의 살균력",
+      "4": "단백질 분해 효소작용의 저해"
     },
     "answers": [
       2
@@ -612,17 +3132,17 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 175,
     "date": "20050529",
-    "subject": 4,
-    "subject_name": "통조림제조학",
-    "question_no": 70,
-    "question": "다음의 살균방법 중 열전탈 형태가 전도이어서 고체를 주로 하는 어육 및 축육 통조림의 살균에 가장 적당한 것은?",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 57,
+    "question": "고기풀의 엉겨앉음(setting)현상이란 무엇인가?",
     "choices": {
-      "1": "curd",
-      "3": "flat-sour ❹ honey comb",
-      "4": "성층 가열 살균 71. 가다랑어나 다랑어류와 같은 대형어의 통조림에서 육의 표 면에 다수의 작은 구멍이 생기는 것은?",
-      "2": "adhesion"
+      "1": "고기풀이 가열응고하여 탄력이 거의 없는 두부 모양으로 되는 현상",
+      "2": "고기풀을 상온에 그대로 두었을 때 탄력있는 gel로 변하 는 현상",
+      "3": "펩티드 코일처럼 꼬이는 현상",
+      "4": "고기풀을 낮은 온도에서 장시간 가열하면 일어나는 현상"
     },
     "answers": [
       2
@@ -630,17 +3150,17 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 176,
     "date": "20050529",
-    "subject": 4,
-    "subject_name": "통조림제조학",
-    "question_no": 74,
-    "question": "통조림 밀봉시 다음 사항 중 직접 밀봉역할을 하지 않는 것 은?",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 59,
+    "question": "젓갈류 중 김치를 담글 때 부원료로 많이 쓰이는 것은?",
     "choices": {
-      "2": "cystein ❸ lysine",
-      "3": "제1 roll groove",
-      "4": "methionine",
-      "1": "cystine"
+      "1": "멸치젓, 새우젓, 굴젓",
+      "2": "정어리젓, 대구알젓, 해삼창자젓",
+      "3": "꼴뚜기젓, 전어밤젓, 메가리젓",
+      "4": "전복내장젓, 성게알젓, 조개젓"
     },
     "answers": [
       1
@@ -648,7 +3168,223 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 177,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 60,
+    "question": "어체의 대소, 부위 및 생산시기에 따른 성분 조성의 변동에 대한 기술 중 옳지 않는 것은?",
+    "choices": {
+      "1": "참치 복부육은 지방 함량이 높고 미오글로빈 함량이 낮 다.",
+      "2": "단백질의 함량은 어기에 따라 큰 차이가 없다.",
+      "3": "산란 직전에는 지질 함량은 높고 엑스분도 농축되어 있 다.",
+      "4": "어체가 클수록 지방 함량이 적고 맛이 담백하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 61,
+    "question": "다음 중 립(lip)이란?",
+    "choices": {
+      "1": "2중밀봉부가 파도모양으로 된것",
+      "2": "시임부부이 발같이 나온것",
+      "3": "랩시임부를 뛰어넘은 현상",
+      "4": "보디훅이 시임부 아래로 입술처럼 노출된 상태"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 62,
+    "question": "그림의 관 마크에서 원료의 품종명을 나타내는 것은?",
+    "choices": {
+      "1": "OY",
+      "2": "OY SO",
+      "3": "M B5",
+      "4": "7N15"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 63,
+    "question": "다음 중 set up 관리시에 원통형관의 밀봉 훅(hook) 중합율 은?",
+    "choices": {
+      "1": "50% 이상",
+      "2": "50% 이하",
+      "3": "55% 이상",
+      "4": "55% 이하"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 64,
+    "question": "통조림 제조에 있어서 올바른 공정은?",
+    "choices": {
+      "1": "밀봉 - 가열살균 - 배기 - 냉각",
+      "2": "가열살균 - 밀봉 - 배기 - 냉각",
+      "3": "배기 - 밀봉 - 가열살균 - 냉각",
+      "4": "배기 - 밀봉 - 냉각 - 가열살균"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 65,
+    "question": "다음 관 마크(can mark)에 사용되는 조리방법 중 옳지 않은 것은?",
+    "choices": {
+      "1": "BL - 보일드 통조림",
+      "2": "MD - 가미 통조림",
+      "3": "OL - 기름 담금 통조림",
+      "4": "SO - 훈제 기름 담금 통조림"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 68,
+    "question": "다음 중 흑변의 발생이 가장 용이한 통조림은?",
+    "choices": {
+      "1": "복숭아 통조림",
+      "2": "파인애플 통조림",
+      "3": "포도 통조림",
+      "4": "게 통조림"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 69,
+    "question": "탈기의 목적과 관계가 없는 것은?",
+    "choices": {
+      "1": "비타민의 파괴 및 영양소의 변질방지",
+      "2": "혐기성 세균의 발육 저해",
+      "3": "가열살균 중 관내공기의 팽창에 따른 관의 파손 방지",
+      "4": "내용물의 변패 판별용이"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 70,
+    "question": "다음의 살균방법 중 열전탈 형태가 전도이어서 고체를 주로 하는 어육 및 축육 통조림의 살균에 가장 적당한 것은?",
+    "choices": {
+      "1": "curd",
+      "2": "adhesion",
+      "3": "flat-sour",
+      "4": "honey comb"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 72,
+    "question": "통조림공장의 품질관리 기록 중 가장 장기보관이 필요한 것 은?",
+    "choices": {
+      "1": "원료의 불량률 관리기록",
+      "2": "살균작업 관리기록",
+      "3": "이중권체부위 검사기록",
+      "4": "고형량 관리기록"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 73,
+    "question": "타발압연관(DI)의 재료로 가장 적당한 것은?",
+    "choices": {
+      "1": "철",
+      "2": "주석",
+      "3": "알루미늄",
+      "4": "아연"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 74,
+    "question": "통조림 밀봉시 다음 사항 중 직접 밀봉역할을 하지 않는 것 은?",
+    "choices": {
+      "1": "cystine",
+      "2": "cystein",
+      "3": "lysine",
+      "4": "methionine"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
     "date": "20050529",
     "subject": 4,
     "subject_name": "통조림제조학",
@@ -657,8 +3393,8 @@
     "choices": {
       "1": "포화수증기압",
       "2": "수증기의 분압",
-      "4": "오목부에 미생물을 모아 살균하기 쉽게 78. 레토르트내의 수증기가 일부 공기와 혼합된 상태로 있을 때 압력게이지에 나타난 압력은?",
-      "3": "공기의 분압 ❹ 수증기 분압과 공기분압의 합"
+      "3": "공기의 분압",
+      "4": "수증기 분압과 공기분압의 합"
     },
     "answers": [
       3
@@ -666,17 +3402,89 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 190,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 79,
+    "question": "통조림 살균에 있어서 상업적 살균조작이란?",
+    "choices": {
+      "1": "관내의 부패 세균만을 완전히 죽이는 것",
+      "2": "포자 형성 세균만을 완전히 살멸 시키는 것",
+      "3": "관내세균을 살균하되 살균후 통조림 저장과 상관없는 세 균은 살멸하지 않는것",
+      "4": "포자 형성 세균과 생활세포를 완전히 살멸시키는 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 80,
+    "question": "TFS관(tin free steel can)의 장점을 설명한 것으로 옳지 못 한 것은?",
+    "choices": {
+      "1": "도막의 접착이 극히 좋고 고온단시간소부가 가능하다.",
+      "2": "납땜이 잘 된다.",
+      "3": "황화변색을 잘 일으키지 않는다.",
+      "4": "주석을 사용하지 않으므로 값이 싸다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 81,
+    "question": "팽창밸브의 설치위치는?",
+    "choices": {
+      "1": "응축기와 수액기 사이",
+      "2": "압축기와 응축기 사이",
+      "3": "응축기와 증발기 사이",
+      "4": "증발기와 압축기 사이"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 82,
+    "question": "In Line Freezer의 특징이 아닌 것은?",
+    "choices": {
+      "1": "엔탈피에 비례하여 증가한다.",
+      "2": "엔탈피에 반비례하여 감소한다.",
+      "3": "엔탈피에 따라 증가 또는 감소한다.",
+      "4": "엔탈피의 증가에 관계없이 일정하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
     "date": "20050529",
     "subject": 5,
     "subject_name": "냉동냉장학",
     "question_no": 85,
     "question": "냉동에서 가장 많이 이용되는 열은?",
     "choices": {
-      "2": "급속동결시간 ❸ 공칭동결시간",
-      "3": "융해열",
-      "4": "심온동결시간",
-      "1": "유효동결시간"
+      "1": "유효동결시간",
+      "2": "급속동결시간",
+      "3": "공칭동결시간",
+      "4": "심온동결시간"
     },
     "answers": [
       1
@@ -684,7 +3492,79 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 195,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 87,
+    "question": "응축기 중 전열이 가장 불량한 것은?",
+    "choices": {
+      "1": "공냉식 응축기(air cooled condenser)",
+      "2": "증발식 응축기(evaporative condenser)",
+      "3": "2중관 응축기(double tube condenser)",
+      "4": "쉘튜브 응축기(shell and tube condenser)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 88,
+    "question": "저온세균이 저온에서 증식이 가능한 이유가 아닌 것은?",
+    "choices": {
+      "1": "세포막이 저온에서 유동성을 유지함",
+      "2": "세포막이 저온에서 기질 투과성의 기능을 보존함",
+      "3": "단백질 합성능력이 저온에서도 유지됨",
+      "4": "세포막에 포화지방산을 많이 함유함"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 89,
+    "question": "다음 중 선박용 동결장치로 가장 적당한 것은?",
+    "choices": {
+      "1": "쉘앤드 튜브 응축기",
+      "2": "쉘앤드 코일 응축기",
+      "3": "증발식 응축기",
+      "4": "공냉식 응축기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 91,
+    "question": "다음 설명 중 옳은 것은?",
+    "choices": {
+      "1": "압축비는 고압 압력계가 나타내는 압력을 저압 압력계가 나타내는 압력으로 나눈것이다.",
+      "2": "팽창밸브를 통과하는 냉매의 enthalpy는 감소한다.",
+      "3": "습포화증기에 열을 가하면 포화온도에서 액화한다.",
+      "4": "고압상태의 포화액을 팽창밸브를 통과시켜 급격히 압력 을 내리면 습포화증기로 된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
     "date": "20050529",
     "subject": 5,
     "subject_name": "냉동냉장학",
@@ -692,9 +3572,9 @@
     "question": "Brine에 대한 다음 설명 중 가장 타당한 것은?",
     "choices": {
       "1": "18,912",
-      "3": "20,392 ❹ 21,760",
-      "4": "냉매라 볼 수 없다. 93. 냉동능력이 5RT이고 압축기 소요동력이 6KW일 때 이 냉동 장치의 응축기에서 방출해야 할 열량(kcal/h)은?",
-      "2": "20,280"
+      "2": "20,280",
+      "3": "20,392",
+      "4": "21,760"
     },
     "answers": [
       2
@@ -702,17 +3582,35 @@
     "explanation": ""
   },
   {
-    "id": 40,
-    "date": "20070513",
-    "subject": 1,
-    "subject_name": "식품위생학",
-    "question_no": 20,
-    "question": "식품위생법규상 식품취급자의 위생에 대한 설명으로 틀린 것은?",
+    "id": 200,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 95,
+    "question": "냉동장치내의 불응축가스분리기(가스퍼저)의 설명 중에서 틀 린 것은?",
     "choices": {
-      "1": "봄",
-      "3": "가을 ❹ 겨울",
-      "4": "결핵에 걸린 자가 비전염성인 경우는 영업에 종사할 수 있다. 21. 구멍갈파래, 갈파래 및 꼬시래기의 단백질은 일반적으로 어 느 계절에 가장 많은가?",
-      "2": "여름"
+      "1": "저압부에서 침입한 공기와 냉매를 분리시킨다.",
+      "2": "분리된 냉매는 수액기로 들어간다.",
+      "3": "분리된 냉매는 압축기로 들어간다.",
+      "4": "분리된 공기는 대기로 방출된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 96,
+    "question": "진공동결건조법의 적당한 진공도 범위는?",
+    "choices": {
+      "1": "0.001 ~ 0.01 mmHg",
+      "2": "0.1 ~ 1 mmHg",
+      "3": "1 ~ 5 mmHg",
+      "4": "12 ~ 18 mmHg"
     },
     "answers": [
       2
@@ -720,53 +3618,35 @@
     "explanation": ""
   },
   {
-    "id": 41,
-    "date": "20070513",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 30,
-    "question": "천연 단백질이 변성할 때 나타나는 현상이 아닌 것은?",
+    "id": 202,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 97,
+    "question": "체적효율(ηv)에 영향을 미치는 요인이 아닌 것은?",
     "choices": {
-      "1": "",
-      "3": "glutamic acid ❹ taurine 33. 단위의 분수나 배수를 나타내기 위하여 사용되는 보조단위 피코(pico)의 의미는? 10-6 10-9",
-      "4": "",
-      "2": "10-12 10-15 ❸"
+      "1": "클리어런스",
+      "2": "흡입가스의 팽창",
+      "3": "압축비",
+      "4": "압축 일량"
     },
     "answers": [
-      2
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 42,
-    "date": "20070513",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 34,
-    "question": "다음 중 어패류의 저장 초기 pH 저하에 가장 크게 영향을 미치는 것은?",
+    "id": 203,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 98,
+    "question": "1 냉동톤(RT)의 설명중 옳은 것은?",
     "choices": {
-      "1": "산값",
-      "3": "지방산",
-      "4": "카보닐값",
-      "2": "과산화물값 ❸ 요오드값"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 43,
-    "date": "20070513",
-    "subject": 2,
-    "subject_name": "수산화학",
-    "question_no": 40,
-    "question": "다음 중 guanidino 화합물이 아닌 것은?",
-    "choices": {
-      "2": "R-12(CCl 2 F 2 )",
-      "3": "R-13(CClF 3 ) ❹ R-22(CHClF 2 )",
-      "4": "arginine 41. 프레온계 냉매로 쇼케이스(showcase)에 많이 사용되는 것 은?",
-      "1": "R-11(CCl 3 F)"
+      "1": "0℃의 물 1 ton을 24시간에 0℃의 얼음으로 하는 냉동 능력",
+      "2": "24시간 동안에 실제 얼음이 제빙되는 능력",
+      "3": "0℃의 물 1ton을 1시간에 0℃의 얼음으로 하는 냉동능 력",
+      "4": "1시간동안에 실제 얼음이 제빙되는 능력"
     },
     "answers": [
       1
@@ -774,14 +3654,554 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 204,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 99,
+    "question": "냉동용어 설명 중 옳지 않는 것은?",
+    "choices": {
+      "1": "냉동능력이란 1시간당 냉동기가 흡수하는 열량이다.",
+      "2": "냉동효과란 냉매 1kg이 흡수하는 열량을 말한다.",
+      "3": "성적계수란 압축일량(Aw)/냉동효과(r) 이다.",
+      "4": "냉동톤이란 0℃의 물 1톤을 24시간 동안에 0℃의 얼음 으로 변화시키는 능력이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 100,
+    "question": "냉동장치에서 고압수액기의 설치위치로 적합한 곳은?",
+    "choices": {
+      "1": "응축기와 팽창밸브 사이",
+      "2": "증발기와 응축기 사이",
+      "3": "팽창밸브와 증발기 사이",
+      "4": "증발기와 응축기 사이"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 1,
+    "question": "식품에서 생성되는 Acrylamide에 의한 위험을 낮추기 위한 방법으로 잘못된 것은?",
+    "choices": {
+      "1": "감자는 8℃ 이상의 음지에서 보관하고 냉장고에 보관하지 않는다.",
+      "2": "튀김의 온도는 160℃ 이상으로 하고, 오븐의 경우는 20 0℃ 이상으로 조절한다.",
+      "3": "빵이나 시리얼 등의 곡류 제품은 갈색으로 변하지 않도록 조리하고, 조리 후 갈색으로 변한 부분은 제거한다.",
+      "4": "가정에서 생감자를 튀길 경우 물과 식초의 혼합물(1:1 비 율)에 15분간 침지한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 2,
+    "question": "발색제에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "염지시 사용되는 식품첨가물이다.",
+      "2": "발색뿐만 아니라 육제품의 보존성이나 특유의 향미를 부 여하는 효과를 나타낸다.",
+      "3": "보툴리누스균 등의 일반 세균의 생육에는 영향을 미치지 않고 곰팡이의 생육을 저해한다.",
+      "4": "강한 산화력을 나타내어 메트미오글로빈혈증을 일으키는 등 급성 독성을 갖고 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 3,
+    "question": "콜레라에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "주증상은 심한 설사이다.",
+      "2": "내열성은 약하지만 일반 소독제에 대해서는 저항력이 강 한 편이다.",
+      "3": "외래 전염병으로 검역 대상전염병이다.",
+      "4": "비브리오속에 속하는 세균이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 4,
+    "question": "다음 전염병 중 바이러스에 의해 전염되지 않는 것은?",
+    "choices": {
+      "1": "5.0% 이하",
+      "2": "7.0% 이하",
+      "3": "9.0% 이하",
+      "4": "10.0% 이하"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 6,
+    "question": "'잔류성유기오염물질에 대한 협약' 에 관련된 설명으로 틀린 것은?",
+    "choices": {
+      "1": "POPs조약 ㆍ 스톡홀름협약이라고 한다.",
+      "2": "다이옥신을 비롯한 12종에 대한 제조 ㆍ 사용 ㆍ 수출입 등을 금지 또는 제한, 규제하는 내용을 담고 있다.",
+      "3": "잔류성 유기오염물질은 환경 중에서 분해되기 어렵고 체 내에 축적되기 쉽다.",
+      "4": "인간의 건강과 환경을 보호할 목적으로 WHO가 주도하여 미국, 일본 등 100여개의 국가가 비준하였다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 8,
+    "question": "대장균지수(Coli index)란?",
+    "choices": {
+      "1": "식품의 품질을 보존하거나 안정성을 향상",
+      "2": "식품의 영양성분을 유지",
+      "3": "특정 목적으로 소비자를 위하여 제조하는 식품에 필요한 원료 또는 성분을 공급",
+      "4": "식품의 제조 ㆍ 가공 과정 중 결함 있는 원재료를 은폐"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 10,
+    "question": "방사선조사식품에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "식품을 일정시간 동안 이온화에너지에 노출시킨다.",
+      "2": "발어억제, 숙도지연, 보존성향상, 기생충 및 해충사멸 등 의 효과가 있다.",
+      "3": "조사 후 건조 또는 탈기 과정이 필요하며 잔류 독성이 있다.",
+      "4": "방서선량의 단위는 Gy, kGy이며, 1Gy는 1J/kg과 같다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 11,
+    "question": "유전자 재조합식품의 안전성 평가를 위한 일반적인 조사에 해당하지 않는 것은?",
+    "choices": {
+      "1": "건강에의 직접적 영향(독성)",
+      "2": "유전자 재조합에 의해 만들어진 영야 효과",
+      "3": "유전자 도입 전 식품의 안전성",
+      "4": "알레르기 반응을 일으키는 경향"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 12,
+    "question": "다음과 같은 식품 기계장치의 세정 방법은?",
+    "choices": {
+      "1": "분해 세정법",
+      "2": "CIP 법",
+      "3": "HACCP 법",
+      "4": "Clean room 법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 14,
+    "question": "알레르기 형태의 식중독에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "원인식품은 꽁치, 고등어 등 붉은살 생선이다.",
+      "2": "발종 시간은 잠복기가 느려 보통 2-3일 뒤에 증상이 나 타난다.",
+      "3": "증상은 발적, 안면홍조, 입 또는 눈의 점막충혈 등이다.",
+      "4": "단백질분해물질인 히스타민 등 유해아민에 위한 것이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 15,
+    "question": "식품의 안전성과 수분활성도(Aw)에 관한 설명으로 틀린 것 은?",
+    "choices": {
+      "1": "비효소적 갈변 : 다분자수분층보다 낮은 Aw에서는 발생 하기 어렵다.",
+      "2": "효소 활성 : Aw가 높을 때가 낮을 때보다 활발하다.",
+      "3": "미생물의 성장 : 보통 세균 증식에 필요한 Aw는 0.91 정도이다.",
+      "4": "유지의 산화반응 : Aw가 0.5-0.7이면 반응이 일어나지 않는다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 16,
+    "question": "유구조충에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "돼지고기를 숙주로 돼지 소장에서 부화한 후 돼지 신체 조직으로 옮겨진다.",
+      "2": "머리에 갈고리가 있어 갈고리촌충이라고도 한다.",
+      "3": "66℃로 가열하면 완전히 사멸된다.",
+      "4": "성충이 기생하면 복부 불쾌감, 설사, 구토, 식욕항진 등 을 일으킨다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 17,
+    "question": "식품등의 표시기준상 합성감미료에 해당하지 않는 식품첨가 물은?",
+    "choices": {
+      "1": "삭카린나트륨",
+      "2": "아세설팜칼륨",
+      "3": "글리실리진산이나트륨",
+      "4": "이산화티타늄"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 18,
+    "question": "아래와 같은 특성을 가지는 식중독균은?",
+    "choices": {
+      "1": "리스테리아 모노사이토네제스",
+      "2": "클로스크리디움 보툴리눔",
+      "3": "병원성 대장균",
+      "4": "황색포도상구균"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "date": "20070513",
+    "subject": 1,
+    "subject_name": "식품위생학",
+    "question_no": 20,
+    "question": "식품위생법규상 식품취급자의 위생에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "봄",
+      "2": "여름",
+      "3": "가을",
+      "4": "겨울"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 22,
+    "question": "어류의 선도판정 방법 중 K값의 변화에 가장 큰 영향을 미 치는 것은?",
+    "choices": {
+      "1": "IMP 분해속도",
+      "2": "ATP 분해속도",
+      "3": "AMP 생성속도",
+      "4": "ADP 생성속도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 23,
+    "question": "어육의 ATP분해 경로는?",
+    "choices": {
+      "1": "ATP → ADP → adenosine → inosine → hypoxanthine",
+      "2": "ATP → ADP → AMP → adenosine → inosine → hypoxanthine",
+      "3": "ATP → ADP → AMP → IMP → adenosine → hypoxanthine",
+      "4": "ATP → AMP → ADP → adenosine → inosine → hypoxanthine"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 24,
+    "question": "어묵의 망상구조형성과 관계 있는 것은?",
+    "choices": {
+      "1": "stroma",
+      "2": "actomyosin",
+      "3": "gelatin",
+      "4": "myogen"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 25,
+    "question": "담수어 냄새 성분과 가장 거리가 먼 물질은?",
+    "choices": {
+      "1": "trimethylamine",
+      "2": "amino valeral",
+      "3": "aldehyde",
+      "4": "piperidine"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 26,
+    "question": "어교의 원료 중 가장 좋은 품질을 나타내는 것은?",
+    "choices": {
+      "1": "두부아교",
+      "2": "비늘아교",
+      "3": "뼈아교",
+      "4": "껍질아교"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 29,
+    "question": "인지질의 구성성분이 아닌 것은?",
+    "choices": {
+      "1": "choline",
+      "2": "inositol",
+      "3": "serine",
+      "4": "cerebrine"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 30,
+    "question": "천연 단백질이 변성할 때 나타나는 현상이 아닌 것은?",
+    "choices": {
+      "1": "",
+      "2": "10-12 10-15",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 34,
+    "question": "다음 중 어패류의 저장 초기 pH 저하에 가장 크게 영향을 미치는 것은?",
+    "choices": {
+      "1": "산값",
+      "2": "과산화물값",
+      "3": "요오드값",
+      "4": "카보닐값"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 36,
+    "question": "다음 중 미역 등의 갈조류에 많이 함유되어 있는 점질이 높 은 수용성 황산다당류는?",
+    "choices": {
+      "1": "Alginic acid",
+      "2": "Agarose",
+      "3": "Fucoidan",
+      "4": "Fructan"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 37,
+    "question": "다음 중 어육의 신선도를 유지하기 위해서 연장해야 하는 사후변화 단계는?",
+    "choices": {
+      "1": "사후경직",
+      "2": "자가소화",
+      "3": "해경",
+      "4": "부패"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 39,
+    "question": "송어나 연어 육의 변색과 가장 관련이 있는 색소는?",
+    "choices": {
+      "1": "Astaxanthin",
+      "2": "Zeaxanthin",
+      "3": "Salmoxanthin",
+      "4": "Canthaxanthin"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "date": "20070513",
+    "subject": 2,
+    "subject_name": "수산화학",
+    "question_no": 40,
+    "question": "다음 중 guanidino 화합물이 아닌 것은?",
+    "choices": {
+      "1": "R-11(CCl 3 F)",
+      "2": "R-12(CCl 2 F 2 )",
+      "3": "R-13(CClF 3 )",
+      "4": "R-22(CHClF 2 )"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 42,
+    "question": "식품을 포장하는데 내용식품의 품질보존이나 작업의 안전성 의 관점에서 용기 및 재료가 구비해야 할 조건 중 물리적 구비조건이 아닌 것은?",
+    "choices": {
+      "1": "기체 차단성",
+      "2": "내충격성",
+      "3": "내염성",
+      "4": "내압성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
     "date": "20070513",
     "subject": 3,
     "subject_name": "수산가공학",
     "question_no": 43,
     "question": "미른멸치 가공에 대한 설명 중 틀린 것은?",
     "choices": {
-      "1": "온훈법 ❷ 냉훈법",
+      "1": "표피 - 진피 - 색소층 - 피하지방층",
       "2": "진피 - 색소층 - 피하지방층 - 근육층",
       "3": "표피 - 피하지방층 - 색소층 - 근육층",
       "4": "진피 - 피하지방층 - 색소층 - 근육층"
@@ -792,15 +4212,159 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 235,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 46,
+    "question": "한천의 일반적인 성질이 아닌 것은?",
+    "choices": {
+      "1": "한천은 agarose 및 agaropectin 의 혼합물이다.",
+      "2": "한천의 가장 큰 특징은 응고성이다.",
+      "3": "99.9%의 수분을 유지할 수 있는 보수성이 있다.",
+      "4": "한천의 sol 의 응고온도와 gel 의 융해온도는 75~80℃ 정도이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 48,
+    "question": "다음 중 일반적인 중간수분식품의 Aw 범위는?",
+    "choices": {
+      "1": "0.05 ~ 0.01",
+      "2": "0.10 ~ 0.25",
+      "3": "0.30 ~ 0.55",
+      "4": "0.60 ~ 0.85"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 49,
+    "question": "다음 중 명골(明骨, boilde-dried cartilage)의 설명으로 옳 은 것은?",
+    "choices": {
+      "1": "상어지느러미를 자숙하여 표피와 연골을 제거하고 근사 만으로 한 제품",
+      "2": "큰가리비, 국자가리비, 키조개 등의 패주를 자숙 건조 한 제품",
+      "3": "상어류, 가오리, 개복치 등의 두부, 턱뼈, 아가미뼈 및 지노러미 부착부 등의 연골을 자숙 건조한 제품",
+      "4": "마른새우를 염수에 넣어 새우가 부상할 때까지 자숙한 제품"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 50,
+    "question": "캐비아(caviar) 란 무엇을 염장한 것인가?",
+    "choices": {
+      "1": "청어알",
+      "2": "연어알",
+      "3": "명태알",
+      "4": "용상어알"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 51,
+    "question": "다음 훈연성분 중 체내에서 대사활성화되어 DNA와 결합함 으로써 생성되는 발암성 물질은?",
+    "choices": {
+      "1": "Phenol",
+      "2": "Acetic acid",
+      "3": "Propionic acid",
+      "4": "3,4-Benzopyrene"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 52,
+    "question": "비교적 선도가 좋지 못한 어류를 염장할 때 어체처리 방법 으로 가장 적합한 것은?",
+    "choices": {
+      "1": "PVDC",
+      "2": "Polyethylene",
+      "3": "Vinyl resin",
+      "4": "Polypropylene"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 54,
+    "question": "어묵의 망상구조 형성에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "Glutamyl-lysine 공유결합은 Ca 의존형 T Gase에 의해 형성된다.",
+      "2": "S-S 공유결합은 저온 자연응고(setting)시보다는 본가열 시에 다량 형성된다.",
+      "3": "Glutamyl-lysine 공유결합은 40℃ 이하의 자연응고 (setting)시 주로 형성된다.",
+      "4": "S-S 결합은 두 개의 cystine 아미노산 잔기가 산화되어 형성된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "date": "20070513",
+    "subject": 3,
+    "subject_name": "수산가공학",
+    "question_no": 55,
+    "question": "키틴과 키토산에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "키틴은 N-아세틸글루코사민이 β-1,4 결합된 다당류이 다.",
+      "2": "키틴은 갑각류 껍질, 버섯의 세포벽 등에 단백질과 복합 체로 존재한다.",
+      "3": "키토산은 글루코사민이 β-1,4 결합된 다당류이다.",
+      "4": "키틴과 키노산은 물에 녹는 수용성이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 243,
     "date": "20070513",
     "subject": 3,
     "subject_name": "수산가공학",
     "question_no": 56,
     "question": "다음 중 어분 제조시 자숙의 목적에 해당하지 않는 것은?",
     "choices": {
-      "1": "팬닝(Panning) ❷ 그레이징(Glazing)",
-      "2": "냉각해수법",
+      "1": "팬닝(Panning)",
+      "2": "그레이징(Glazing)",
       "3": "탈팬(Depanning)",
       "4": "침지식(immersion)"
     },
@@ -810,14 +4374,140 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 244,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 61,
+    "question": "buckling 현상에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "3분",
+      "2": "2분",
+      "3": "1분",
+      "4": "30초"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 63,
+    "question": "121.1℃에서 z값이 10℃인 경우 가열치사시간을 나타내는 기호는?",
+    "choices": {
+      "1": "F0값",
+      "2": "Z0값",
+      "3": "A값",
+      "4": "X값"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 64,
+    "question": "밀봉부 외부의 치수 측정만으로는 알 수 없는 것은?",
+    "choices": {
+      "1": "관높이(H)",
+      "2": "밀봉두께(T)",
+      "3": "밀봉폭(W)",
+      "4": "Body hook 길이(BH)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 65,
+    "question": "다음 중 Flat-sour 에 관계되는 주요 미생물은?",
+    "choices": {
+      "1": "Bacillus polymyxa",
+      "2": "Bacillus stearothermophilus",
+      "3": "Bacillus macerans",
+      "4": "Bacillus subtilis"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 66,
+    "question": "굴통조림의 적변과 관계가 없는 물질은?",
+    "choices": {
+      "1": "chlorophyll",
+      "2": "lecithin",
+      "3": "peridinine",
+      "4": "protein"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 67,
+    "question": "레토르트를 사용한 가열살균에서 come-up time 이란?",
+    "choices": {
+      "1": "증기를 도입한 후 공기제거를 시작할 때까지의 시간",
+      "2": "증기를 도입한 후 공기의 제거가 끝날 때까지의 시간",
+      "3": "증기를 도입한 후 공기를 제거하고 살균온도에 도달할 때까지의 시간",
+      "4": "증기를 도입한 후 공기를 제거하고 살균이 끝 날 때까지 의 시간"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 68,
+    "question": "다음 중 알루미늄관의 장점이 아닌 것은?",
+    "choices": {
+      "1": "금속냄새가 거의 나지 않는다.",
+      "2": "흑변을 야기하지 않는다.",
+      "3": "식염 함유 식품에 의해 부식되지 않는다.",
+      "4": "0℃에서도 기계적 성질의 변화가 거의 없다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 251,
     "date": "20070513",
     "subject": 4,
     "subject_name": "통조림제조학",
     "question_no": 69,
     "question": "sealing compuond 는 어디에 도포하는가?",
     "choices": {
-      "1": "플랜지(flange)부",
+      "1": "18~20%",
       "2": "21~25%",
       "3": "17~15%",
       "4": "10~14%"
@@ -828,17 +4518,53 @@
     "explanation": ""
   },
   {
-    "id": 47,
+    "id": 252,
     "date": "20070513",
     "subject": 4,
     "subject_name": "통조림제조학",
-    "question_no": 76,
-    "question": "아래의 기능을 하는 장치는?",
+    "question_no": 71,
+    "question": "일상 관리 중의 원통형 통조림에 적합한 밀봉 훅 중합률 (OL%, percentage of overlap hook)은?",
     "choices": {
-      "2": "Steam header",
-      "3": "6겹",
-      "4": "5겹",
-      "1": "8겹 ❷ 7겹"
+      "1": "40% 이상",
+      "2": "45% 이상",
+      "3": "50% 이상",
+      "4": "55% 이상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 72,
+    "question": "타발압연관(drawn and ironed can, DI관)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "Two piece can 이다.",
+      "2": "관동의 이음매가 없다.",
+      "3": "관동과 밑바닥의 두께가 같다.",
+      "4": "관 재료가 절감된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 73,
+    "question": "통조림 냉각수를 염소처리하는 주된 목적은?",
+    "choices": {
+      "1": "기화잠열이 작다.",
+      "2": "온도조절이 쉽다.",
+      "3": "수증기를 발생시키기가 쉽다.",
+      "4": "관의 변형을 방지한다. 75. 관의 뚜껑과 밑바닥은 거의 편평하나, 한쪽 면이 약간 부풀"
     },
     "answers": [
       1
@@ -846,20 +4572,308 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 255,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 76,
+    "question": "아래의 기능을 하는 장치는?",
+    "choices": {
+      "1": "8겹",
+      "2": "7겹",
+      "3": "6겹",
+      "4": "5겹"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 78,
+    "question": "High retort pouch 식품에 적합한 살균온도와 시간은?",
+    "choices": {
+      "1": "100~110℃, 2~10분",
+      "2": "110~120℃, 2~5분",
+      "3": "120~130℃, 2~5분",
+      "4": "130℃ 이상, 2~10분"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 79,
+    "question": "다음 중 이중밀봉은 양호하나 살균이 불량한 통조림에서 검 출될 수 있는 편성혐기성 세균은?",
+    "choices": {
+      "1": "Pseudomonas",
+      "2": "Vibrio",
+      "3": "Achromobacter",
+      "4": "Clostridium"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "date": "20070513",
+    "subject": 4,
+    "subject_name": "통조림제조학",
+    "question_no": 80,
+    "question": "커퍼 훅(cover hook)의 주름도에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "밀봉의 강도를 나타낸다.",
+      "2": "시밍 롤(seaming roll)의 압력이 약하면 주름이 많아진 다.",
+      "3": "대형관일수록 주름이 적어진다.",
+      "4": "주름도가 클수록 밀봉이 잘 된 것이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 259,
     "date": "20070513",
     "subject": 5,
     "subject_name": "냉동냉장학",
     "question_no": 81,
-    "question": "반만액식 증발기에 대한 설명으로 틀린 것은? ❶ 냉매액은 상부에서 공급한다.",
+    "question": "반만액식 증발기에 대한 설명으로 틀린 것은?",
     "choices": {
+      "1": "압축비가 크면 체적효율은 높아진다.",
       "2": "압축비와 체적효율은 항상 일정하다.",
-      "3": "압축비와 체적효율은 상관관계가 없다. ❹ 압축비가 크면 체적효율은 낮아진다.",
-      "4": "상부에서는 냉매가스만 압축기에 보낸다. 82. 동일 냉매 및 압축기에서 압축비와 체적효율의 관계가 바르 게 설명된 것은?",
-      "1": "압축비가 크면 체적효율은 높아진다."
+      "3": "압축비와 체적효율은 상관관계가 없다.",
+      "4": "압축비가 크면 체적효율은 낮아진다."
     },
     "answers": [
       1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 84,
+    "question": "아래에서 설명하는 얼음의 재결정은?",
+    "choices": {
+      "1": "화학공업용의 브라인 냉각시 증발기로 사용",
+      "2": "냉장고 내의 공기 냉각시 증발기로 사용",
+      "3": "냉장실 및 동결실의 냉각봉으로 사용",
+      "4": "식품공업에서 기름의 냉각시에 증발기로 사용"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 86,
+    "question": "냉동식품 내의 얼음결정의 생성과 성장에 관한 설명 중 틀 린 것은?",
+    "choices": {
+      "1": "결정핵의 생성과 결정의 성장으로 나눌 수 있다.",
+      "2": "결정핵은 어는점에서는 생성되지 않고 용액이 어는점 이 하로 과냉각되어야 한다.",
+      "3": "과냉각도가 적을수록 결정핵의 생성속도가 증가한다.",
+      "4": "급속동결된 식품은 작고 많은 결정을 포함하고 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 87,
+    "question": "freezer burn 현상을 방지할 수 있는 방법으로 적합하지 않 은 것은?",
+    "choices": {
+      "1": "높은 RH%에서 저장한다.",
+      "2": "용액에 침지한다.",
+      "3": "수분 증발을 막는 포장을 한다.",
+      "4": "식품 표면을 순간적으로 가열처리 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 88,
+    "question": "어패류 냉동품에 빙의(glaze)를 입히는 주된 목적은?",
+    "choices": {
+      "1": "드립(drip) 유출 방지",
+      "2": "수분증발과 산화 방지",
+      "3": "단백질 변성 방지",
+      "4": "효소분해작용 억제"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 89,
+    "question": "어류의 냉동저장 중 지방의 변화에 대한 설명으로 틀린 것 은?",
+    "choices": {
+      "1": "산화작용과 효소의 작용에 의하여 발생한다.",
+      "2": "glyceride 가 가수분해되어 유리지방산이 생성된다.",
+      "3": "lipoxygenase 는 포화지방산의 산화를 촉진한다.",
+      "4": "냉동어류의 지방산화는 저온에서도 계속되나, 온도가 낮 을수록 반응속도는 느려진다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 91,
+    "question": "냉동장치에서 응축기의 주된 기능은?",
+    "choices": {
+      "1": "흡입압력을 증가시킨다.",
+      "2": "배출압력을 증가시킨다.",
+      "3": "강제로 고압증기에서 열을 버리게 하여 액체로 응축시킨 다.",
+      "4": "냉매를 압축기로부터 수액기로 송달시킨다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 92,
+    "question": "동결식품의 탈팬(depanning) 방법과 조건으로 가장 적합한 것은?",
+    "choices": {
+      "1": "상온에서 물에 1~2분간 넣었다가 꺼내어 밑을 두드려 탈팬한다.",
+      "2": "30℃의 물에 넣어 해동한 뒤 밑을 두드려 탈팬한다.",
+      "3": "상온에서 그대로 방치한 후 탈팬한다.",
+      "4": "급히 뜨거운 물(60℃ 이상)에 2~3분간 담근 후 탈팬한 다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 93,
+    "question": "냉동에서 승화열을 이용하는 것은?",
+    "choices": {
+      "1": "1.5cm/h",
+      "2": "2.5cm/h",
+      "3": "3.5cm/h",
+      "4": "5cm/h"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 95,
+    "question": "정지공기 동결법에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "103kg/h",
+      "2": "123kg/h",
+      "3": "143kg/h",
+      "4": "163kg/h"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 97,
+    "question": "다음 중 냉각탑과 응축기를 합친 형식의 응축기는?",
+    "choices": {
+      "1": "1단압축냉동기",
+      "2": "2단압축냉동기",
+      "3": "2원압축냉동기",
+      "4": "다효압축냉동기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 99,
+    "question": "냉동장치에서 기름 분리기의 설치 위치로서 가장 적당한 곳 은?",
+    "choices": {
+      "1": "압축기와 응축기 사이",
+      "2": "응축기와 팽창밸브 사이",
+      "3": "팽창밸브와 증발기 사이",
+      "4": "증발기와 압축기 사이"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "date": "20070513",
+    "subject": 5,
+    "subject_name": "냉동냉장학",
+    "question_no": 100,
+    "question": "다음 어류 중에서 sponge화가 가장 잘 일어나는 것은?",
+    "choices": {
+      "1": "전갱이",
+      "2": "방어",
+      "3": "고등어",
+      "4": "대구"
+    },
+    "answers": [
+      4
     ],
     "explanation": ""
   }

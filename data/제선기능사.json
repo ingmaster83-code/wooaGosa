@@ -4,16 +4,16 @@
     "date": "20010429",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 4,
-    "question": "스치거나 문질러서 벗겨진 상해는?",
+    "question_no": 3,
+    "question": "정투상법에서 물체의 특징을 가장 잘 나타내는 면은 어느 투 상도로 하는가?",
     "choices": {
-      "2": "허용치수가 7 mm ❸ IT 공차등급 7급",
-      "3": "부종",
-      "4": "구멍 깊이가 7 mm",
-      "1": "구멍수가 7개"
+      "1": "평면도",
+      "2": "정면도",
+      "3": "우측면도",
+      "4": "좌측면도"
     },
     "answers": [
-      1
+      2
     ],
     "explanation": ""
   },
@@ -22,13 +22,13 @@
     "date": "20010429",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 9,
-    "question": "금속의 비열이란? ❶ 1g의 물질의 온도를 1℃높이는데 필요한 열량",
+    "question_no": 4,
+    "question": "스치거나 문질러서 벗겨진 상해는?",
     "choices": {
-      "2": "재결정 ❸ 경도의 증가",
-      "3": "금속 1g을 융해시키는데 필요한 열량",
-      "4": "결정입자의 성장 11. 고로 장입장치 중 상부장입종과 하부장입종을 설치한 이유 는?",
-      "1": "내부 응력제거"
+      "1": "구멍수가 7개",
+      "2": "허용치수가 7 mm",
+      "3": "IT 공차등급 7급",
+      "4": "구멍 깊이가 7 mm"
     },
     "answers": [
       1
@@ -38,15 +38,15 @@
   {
     "id": 3,
     "date": "20010429",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 44,
-    "question": "청동의 주성분은?",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "소결작업에서 소결원료가 미세(粉) 해지면 어떻게 되겠는가?",
     "choices": {
-      "2": "0.8배",
-      "3": "0.4배 ❹ 0.6배",
-      "4": "알루미늄 - 크롬 45. 소결연료로 사용되는 분코크스의 입도는 통상 배합원료 평 균 입도의 몇 배가 좋은가?",
-      "1": "0.3-0.5배"
+      "1": "통기성이 나빠진다.",
+      "2": "소결 생산성이 향상된다.",
+      "3": "석회석의 분해가 활발해진다.",
+      "4": "소결온도가 급상승한다."
     },
     "answers": [
       1
@@ -56,51 +56,51 @@
   {
     "id": 4,
     "date": "20010429",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 46,
-    "question": "가상선으로 표시하는 경우가 아닌 것은? ❶ 부분 생략, 부분 단면의 경계를 나타내는 경우",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "소결광 중 FeO 성분이 목표치보다 낮을 경우, 어느 원료를 사용하여야 하는가?",
     "choices": {
-      "2": "파열판(박판)",
-      "3": "20 mm",
-      "4": "40 mm",
-      "1": "5 mm ❷ 10 mm"
+      "1": "적철광",
+      "2": "석회석",
+      "3": "밀스케일(mill scale)",
+      "4": "사문암"
     },
     "answers": [
-      1
+      3
     ],
     "explanation": ""
   },
   {
     "id": 5,
     "date": "20010429",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 53,
-    "question": "고로가스 청정장치 중 건식 청정기는?",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "일반적으로 선철에서 철 이외의 5대 원소는?",
     "choices": {
-      "1": "250",
-      "2": "300 ❸ 500",
-      "3": "스탭 청정기 ❹ 여과식 가스 청정기 54. 단면적이 10mm2 인 환봉에 5000 ㎏f의 외력이 작용할 때 재료 내부에 생기는 응력(kgf/mm2)은?",
-      "4": "1000"
+      "1": "크롬, 몰리브덴, 니켈, 탄소, 텅스텐",
+      "2": "질소, 탄소, 붕소, 헬륨, 수소",
+      "3": "탄소, 황, 망간, 인, 규소",
+      "4": "주석, 납, 카드뮴, 은, 아연"
     },
     "answers": [
-      4
+      3
     ],
     "explanation": ""
   },
   {
     "id": 6,
-    "date": "20020407",
+    "date": "20010429",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 2,
-    "question": "금속간 화합물을 바르게 설명한 것은? ❶ 일반적으로 복잡한 결정구조를 갖는다.",
+    "question_no": 9,
+    "question": "금속의 비열이란?",
     "choices": {
-      "2": "변형하기 쉽고 인성이 크다.",
-      "3": "결정핵성장",
-      "4": "시효완료",
-      "1": "재결정 ❷ 회복"
+      "1": "내부 응력제거",
+      "2": "재결정",
+      "3": "경도의 증가",
+      "4": "결정입자의 성장 11. 고로 장입장치 중 상부장입종과 하부장입종을 설치한 이유 는?"
     },
     "answers": [
       1
@@ -109,16 +109,16 @@
   },
   {
     "id": 7,
-    "date": "20020407",
+    "date": "20010429",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 7,
-    "question": "탄소가 가장 많이 함유되어 있는 조직은?",
+    "question_no": 12,
+    "question": "팔레트 대차와 가장 거리가 먼 것은?",
     "choices": {
-      "1": "0.02%",
-      "2": "0.86% ❸ 2.0%",
-      "3": "오스테나이트 ❹ 시멘타이트 8. Fe-C 평형상태도에서 γ고용체가 최대로 함유할 수 있는 탄 소의 양은 약 어느정도인가?",
-      "4": "4.3%"
+      "1": "사이드 플레이트",
+      "2": "화격자",
+      "3": "스프로킷 휠",
+      "4": "스크린"
     },
     "answers": [
       4
@@ -127,52 +127,16 @@
   },
   {
     "id": 8,
-    "date": "20020407",
+    "date": "20010429",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 15,
-    "question": "스프링강(spring steel)의 기호는?",
+    "question_no": 14,
+    "question": "큰 도면을 접어서 보관할 경우에 기준이 되는 크기는?",
     "choices": {
-      "1": "가상선",
-      "3": "절단선 ❹ 파단선",
-      "4": "STD 16. 도면에서 단위 기호를 생략하고 치수 숫자만 기입할 수 있 는 단위는?",
-      "2": "지시선"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 9,
-    "date": "20020407",
-    "subject": 2,
-    "subject_name": "금속제도",
-    "question_no": 20,
-    "question": "정투상법에서 물체의 모양과 기능을 가장 뚜렷하게 나타내 는 면을 어떤 투상도로 선택하는가?",
-    "choices": {
-      "1": "등각투상도법",
-      "3": "측면도",
-      "4": "투시도법",
-      "2": "사투상도법 ❸ 정투상도법"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 10,
-    "date": "20020407",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 38,
-    "question": "고로과정이 일반 야금 과정과 다른점 중 틀린 것은?",
-    "choices": {
-      "1": "Ladle ❷ Soaking pit",
-      "2": "고로내 가열을 받는 장입물과 고온 가스사이에 역류가 일어나 열효율이 크다. ❸ 선철과 슬랙은 고체 상태로 얻어지고 비중차로써 분리한 다.",
-      "4": "Mixer",
-      "3": "Torpedo Car"
+      "1": "A 2",
+      "2": "A 3",
+      "3": "A",
+      "4": "A 4 5"
     },
     "answers": [
       3
@@ -180,7 +144,1285 @@
     "explanation": ""
   },
   {
+    "id": 9,
+    "date": "20010429",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "열풍로의 축열실 내화벽돌의 조건으로 맞는 것은?",
+    "choices": {
+      "1": "열전도율이 좋아야 한다.",
+      "2": "비열이 낮아야 한다.",
+      "3": "기공율이 30% 이상이어야 한다.",
+      "4": "비중이 5.0 이상이고 점토질을 사용하지 않는다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 16,
+    "question": "고로의 장입물에 속하지 않는 것은?",
+    "choices": {
+      "1": "철광석",
+      "2": "보크사이트",
+      "3": "석회석",
+      "4": "코크스"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
     "id": 11,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 17,
+    "question": "공을 비스듬히 절단하였을 때 단면의 형상은?",
+    "choices": {
+      "1": "타원형",
+      "2": "원형",
+      "3": "부채꼴형",
+      "4": "포물선형"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 18,
+    "question": "벨트 컨베이어의 연결법이 아닌 것은?",
+    "choices": {
+      "1": "트리퍼 연결",
+      "2": "슈트 연결",
+      "3": "염자식 연결",
+      "4": "피더컨베이어 연결"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 19,
+    "question": "수나사의 바깥 지름이나 암나사의 안지름은 어느 선으로 나 타내는가?",
+    "choices": {
+      "1": "가는 실선",
+      "2": "굵은 실선",
+      "3": "가는 일점 쇄선",
+      "4": "가는 이점 쇄선"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 20,
+    "question": "면심입방격자의 표시는?",
+    "choices": {
+      "1": "FCC",
+      "2": "LPG",
+      "3": "CCP",
+      "4": "CDP"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 21,
+    "question": "주석청동에 Pb를 3.0 - 26 % 첨가한 것은?",
+    "choices": {
+      "1": "연청동",
+      "2": "규소청동",
+      "3": "인청동",
+      "4": "알루미늄청동"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "알루미늄의 재결정 온도(℃)는?",
+    "choices": {
+      "1": "약 180",
+      "2": "약 450",
+      "3": "약 600",
+      "4": "약 800"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 23,
+    "question": "소결광의 낙하강도 지수(SI)를 구하는 시험방법으로 옳은 것 은?",
+    "choices": {
+      "1": "2[m] 높이에서 4회 낙하시킨 후 잔존+10[mm]의 중량 [%]이다.",
+      "2": "2[m] 높이에서 4회 낙하시킨 후 잔존-10[mm]의 중량 [%]이다.",
+      "3": "2[m] 높이에서 2회 낙하시킨 후 잔존+10[mm]의 중량 [%]이다.",
+      "4": "2[m] 높이에서 2회 낙하시킨 후 잔존-10[mm]의 중량 [%]이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 24,
+    "question": "보통 주철에서 흑연이 어떤 모양일 때 강도를 가장 해치게 되는가?",
+    "choices": {
+      "1": "커다란 편상흑연",
+      "2": "작은 편상흑연",
+      "3": "둥근 구상흑연",
+      "4": "미세한 편상흑연"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "텅스텐의 원소 기호는?",
+    "choices": {
+      "1": "W",
+      "2": "V",
+      "3": "P",
+      "4": "N"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "확산형의 소결에 주가 되는 성분은?",
+    "choices": {
+      "1": "FeO",
+      "2": "SiO",
+      "3": "CaCO",
+      "4": "MgSO"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 27,
+    "question": "고급 주철의 인장강도(kgf/mm2)는 얼마 정도인가?",
+    "choices": {
+      "1": "0 - 5",
+      "2": "5 - 10",
+      "3": "10 - 15",
+      "4": "30 이상"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 28,
+    "question": "제선설비가 아닌 것은?",
+    "choices": {
+      "1": "열풍관",
+      "2": "풍구",
+      "3": "스키머",
+      "4": "균열로"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 29,
+    "question": "고로용 코크스는 어느 것을 건류하여 제조하는가?",
+    "choices": {
+      "1": "역청탄",
+      "2": "갈탄",
+      "3": "능철강",
+      "4": "약점결탄"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20010429",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "주물용선에 속하는 것은?",
+    "choices": {
+      "1": "고규소선",
+      "2": "베세머선철",
+      "3": "산성평로선철",
+      "4": "염기성전로용선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "고로의 노상에 사용되는 벽돌로서 부상되기 쉬운 것은?",
+    "choices": {
+      "1": "탄소벽돌",
+      "2": "알루미나벽돌",
+      "3": "크롬벽돌",
+      "4": "실리카벽돌 32. 소결원료를 혼합하는 혼합기 중 원통 회전형 내에 블레이드"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "재료기호 중에서 탄소 단강품을 나타내는 것은?",
+    "choices": {
+      "1": "BrC",
+      "2": "SF 3",
+      "3": "SM",
+      "4": "SCP"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 35,
+    "question": "고로 조업의 특징이 아닌 것은?",
+    "choices": {
+      "1": "연속조업",
+      "2": "선철과 슬랙의 비중에 의한 분리",
+      "3": "철분 회수율 양호",
+      "4": "탄소의 산화제 역활"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "코크스제조에서 사용되지 않는 것은?",
+    "choices": {
+      "1": "머드건",
+      "2": "균열강도",
+      "3": "텀블러지수",
+      "4": "낙하시험"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "팔레트 속도가 빠를 때 조업에 미치는 직접적인 영향은?",
+    "choices": {
+      "1": "급광량 증가",
+      "2": "편석도 증대",
+      "3": "층후의 열교환 저하",
+      "4": "원료 중 생석회의 감소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "용광로 출선구 성형 작업시 옳지 못한 것은?",
+    "choices": {
+      "1": "출선구에서 고로가스 분출 및 심한 고열이 다량 발생하 므로 출선구 후드(hood)를 닫는다.",
+      "2": "출선구를 살수하여 소화 냉각한다.",
+      "3": "출선구 앞 대탕도에 족장판을 설치한다.",
+      "4": "공기 마스크를 착용한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "재결정 온도가 가장 높은 금속은?",
+    "choices": {
+      "1": "Aℓ",
+      "2": "Mg",
+      "3": "W",
+      "4": "Pb"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "고로의 실효높이를 나타내는 것은?",
+    "choices": {
+      "1": "노저로 부터 바람구멍까지의 높이",
+      "2": "출선구로부터 장입기준선 까지의 높이",
+      "3": "바람구멍 중심선으로 부터 장입 기준선 까지의 높이",
+      "4": "출재구로 부터 장입 기준선 까지의 높이"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "미분의 적철광을 소결했을 때의 현상 중 옳은 것은?",
+    "choices": {
+      "1": "강도는 높고 소결이 균일하며 실수율도 높아 진다.",
+      "2": "강도는 저하하고 소결이 불균일하며 실수율도 낮아진다.",
+      "3": "강도는 저하하고 소결은 균일하며 실수율은 높아진다",
+      "4": "강도는 높고 소결은 불균일하여 실수율은 낮아 진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20010429",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 44,
+    "question": "청동의 주성분은?",
+    "choices": {
+      "1": "0.3-0.5배",
+      "2": "0.8배",
+      "3": "0.4배",
+      "4": "0.6배"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "가상선으로 표시하는 경우가 아닌 것은?",
+    "choices": {
+      "1": "5 mm",
+      "2": "10 mm",
+      "3": "20 mm",
+      "4": "40 mm"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "제강용선과 비교한 주물용선의 특징으로 맞는 것은?",
+    "choices": {
+      "1": "황이 높다.",
+      "2": "고염기도 슬랙이다.",
+      "3": "규소가 낮다.",
+      "4": "망간이 낮다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "철광석 중의 다음 성분 중 소결과정에서 제거하기 쉬운 원 소는?",
+    "choices": {
+      "1": "S",
+      "2": "Pb",
+      "3": "K",
+      "4": "Zn"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 52,
+    "question": "A 도면 용지의 크기(mm)는? 3",
+    "choices": {
+      "1": "594 × 841",
+      "2": "420 × 594",
+      "3": "297 × 420",
+      "4": "210 × 297"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "고로가스 청정장치 중 건식 청정기는?",
+    "choices": {
+      "1": "250",
+      "2": "300",
+      "3": "500",
+      "4": "1000"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "소결설비 중 수분을 첨가시키는 설비는?",
+    "choices": {
+      "1": "테이블 절출장치",
+      "2": "드럼 혼화기",
+      "3": "셔틀 콘베이어",
+      "4": "드럼 피더"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "고로의 노내반응은?",
+    "choices": {
+      "1": "황화반응",
+      "2": "산화반응",
+      "3": "탈탄반응",
+      "4": "환원반응"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 57,
+    "question": "코크스비에 해당하는 것은?",
+    "choices": {
+      "1": "코크스 장입량 (㎏)/선철 생산량(T)",
+      "2": "선철 생산량 (T/D)/코크스 장입량(T/D)",
+      "3": "코크스장입량 (T/D)/노 내용적(Nm3)",
+      "4": "코크스중 탄소량(%)/코크스 장입량(kg)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 58,
+    "question": "아래 도형에서 A 의 치수는 얼마인가?",
+    "choices": {
+      "1": "315",
+      "2": "720",
+      "3": "675",
+      "4": "360"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "소결과정의 가장 중요한 원리는?",
+    "choices": {
+      "1": "조업 용이도",
+      "2": "소성의 신속화",
+      "3": "열이동과 충분한 열공급",
+      "4": "생산성과 원단위"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20010429",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "소결과정 중 환원반응이 일어나는 온도는?",
+    "choices": {
+      "1": "200-400℃",
+      "2": "600-800℃",
+      "3": "900-1200℃",
+      "4": "1300-1500℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "재결정온도가 가장 낮은 것은?",
+    "choices": {
+      "1": "Au",
+      "2": "Sn",
+      "3": "Cu",
+      "4": "Ni"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "금속간 화합물을 바르게 설명한 것은?",
+    "choices": {
+      "1": "재결정",
+      "2": "회복",
+      "3": "결정핵성장",
+      "4": "시효완료"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "알파(α)철의 자기변태점은?",
+    "choices": {
+      "1": "A",
+      "2": "A 1 2",
+      "3": "A",
+      "4": "A 3 4"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "금속의 결정격자에 속하지 않는 기호는?",
+    "choices": {
+      "1": "FCC",
+      "2": "LDN",
+      "3": "BCC",
+      "4": "CPH"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "18-8 스테인리스강에 해당되지 않는 것은?",
+    "choices": {
+      "1": "Cr 18%-Ni 8% 이다.",
+      "2": "내식성이 우수하다.",
+      "3": "상자성체이다.",
+      "4": "오스테나이트계이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "탄소가 가장 많이 함유되어 있는 조직은?",
+    "choices": {
+      "1": "0.02%",
+      "2": "0.86%",
+      "3": "2.0%",
+      "4": "4.3%"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "함석판은 얇은 강판에 무엇을 도금한 것인가?",
+    "choices": {
+      "1": "니켈",
+      "2": "크롬",
+      "3": "아연",
+      "4": "주석"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "탄소강에서 나타나는 상온메짐의 원인이 되는 주 원소는?",
+    "choices": {
+      "1": "P",
+      "2": "Ni",
+      "3": "Zn",
+      "4": "Mn"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "양은(양백)의 설명 중 맞지 않는 것은?",
+    "choices": {
+      "1": "Cu-Zn-Ni 계의 황동이다.",
+      "2": "탄성재료에 사용된다.",
+      "3": "내식성이 불량하다.",
+      "4": "일반전기저항체로 이용된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "공작기계용 절삭공구재료로써 가장 많이 사용되는 것은?",
+    "choices": {
+      "1": "연강",
+      "2": "회주철",
+      "3": "저탄소강",
+      "4": "고속도강"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "스프링강(spring steel)의 기호는?",
+    "choices": {
+      "1": "가상선",
+      "2": "지시선",
+      "3": "절단선",
+      "4": "파단선"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 18,
+    "question": "다음 중 가는 실선을 사용하는 선이 아닌 것은?",
+    "choices": {
+      "1": "지시선",
+      "2": "치수선",
+      "3": "치수보조선",
+      "4": "외형선"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 19,
+    "question": "물체의 보이지 않는 곳의 형상을 나타낼 때 사용하는 선은?",
+    "choices": {
+      "1": "실선",
+      "2": "파선",
+      "3": "일점 쇄선",
+      "4": "이점 쇄선"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 20,
+    "question": "정투상법에서 물체의 모양과 기능을 가장 뚜렷하게 나타내 는 면을 어떤 투상도로 선택하는가?",
+    "choices": {
+      "1": "등각투상도법",
+      "2": "사투상도법",
+      "3": "정투상도법",
+      "4": "투시도법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "치수 숫자와 같이 사용된 기호 t 가 뜻하는 것은?",
+    "choices": {
+      "1": "두께",
+      "2": "반지름",
+      "3": "지름",
+      "4": "모떼기"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 24,
+    "question": "재료기호 \"SS400\"(구기호:SS41)의 400 이 뜻하는 것은?",
+    "choices": {
+      "1": "최고인장강도",
+      "2": "최저인장강도",
+      "3": "탄소함유량",
+      "4": "두께치수"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "유니파이 가는나사의 호칭 기호는?",
+    "choices": {
+      "1": "M",
+      "2": "PT",
+      "3": "UNF",
+      "4": "PF"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "최대허용치수와 최소허용치수의 차는?",
+    "choices": {
+      "1": "위치수허용차",
+      "2": "아래치수허용차",
+      "3": "치수공차",
+      "4": "기준치수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 28,
+    "question": "고로 노내 조업 분위기는?",
+    "choices": {
+      "1": "산화성",
+      "2": "환원성",
+      "3": "중성",
+      "4": "산화,환원,중성의 복합분위기"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 29,
+    "question": "고로의 생산성 향상이 아닌 것은?",
+    "choices": {
+      "1": "코크스 회분의 저하",
+      "2": "코크스 비 상승",
+      "3": "입도의 균일화",
+      "4": "코크스 강도의 향상"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "용광로에 사용하는 코크스의 특징이 잘못된 것은?",
+    "choices": {
+      "1": "다공질(기공률 40% 이상)이어야 한다.",
+      "2": "회분은 낮을수록 좋다.",
+      "3": "적당한 반응성을 가져야 한다.",
+      "4": "P 및 S 분이 높아야 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "고로시멘트의 특징 중 틀린 것은?",
+    "choices": {
+      "1": "내산성이 우수하다.",
+      "2": "열에 강하다.",
+      "3": "오랫동안 강도가 크다.",
+      "4": "내화성이 우수하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "고로수리를 위하여 일시적으로 송풍을 중지시키는 것은?",
+    "choices": {
+      "1": "행깅",
+      "2": "점화",
+      "3": "소화",
+      "4": "휴풍"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "제강공장으로 부터 용선중 망간 [Mn]% 를 현재의 0.4%에 서 0.55% 까지 높여달라는 요청이 왔다. 이를 위해 용광로 에 장입해야 할 망간광석량은? (단, 1ch 당 선철 생성량 : 65000 ㎏/ch용광로내에서의 망간 환원율 : 70%, 망간광 중 망간 함량 : 31%)",
+    "choices": {
+      "1": "Ch당 약 449㎏ 증가",
+      "2": "Ch당 약 449㎏ 감소",
+      "3": "Ch당 약 900㎏ 증가",
+      "4": "Ch당 약 900㎏ 감소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "습식 청정기가 아닌 것은?",
+    "choices": {
+      "1": "다이센 청정기",
+      "2": "스프레이 와셔",
+      "3": "허어들 와셔",
+      "4": "여과식 가스 청정기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 35,
+    "question": "코크스 제조 공정의 순서가 옳은 것은?",
+    "choices": {
+      "1": "Mixer-Coal bunker-Coke oven-Surge bin",
+      "2": "Coal bunker-Coke oven-Quenching tower-Coke wharf",
+      "3": "Crusher-Surge bin-Mixer-Coal bunker",
+      "4": "Mixer-Coal bunker-Coke wharf-Coke oven"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "선철의 분류 중 파면에 의한 분류가 아닌 것은?",
+    "choices": {
+      "1": "목탄 선철",
+      "2": "백 선철",
+      "3": "반 선철",
+      "4": "회 선철"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "가스차단 밸브로 가스를 가장 완전하게 차단할 수 있는 밸 브는?",
+    "choices": {
+      "1": "워터 시링 밸브(water-sealing valve)",
+      "2": "볼 밸브(ball valve)",
+      "3": "나이프 밸브(knife valve)",
+      "4": "온 오프 밸브(on-off valve)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "고로과정이 일반 야금 과정과 다른점 중 틀린 것은?",
+    "choices": {
+      "1": "Ladle",
+      "2": "Soaking pit",
+      "3": "Torpedo Car",
+      "4": "Mixer"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "수송물을 저장하는 곳은?",
+    "choices": {
+      "1": "텐션(tension)",
+      "2": "플레임(frame)",
+      "3": "호퍼(hopper)",
+      "4": "벨트(belt)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "불순물 제거에 가장 적합한 것은?",
+    "choices": {
+      "1": "스트레이너(strainer)",
+      "2": "오리피스 메타(orifice meter)",
+      "3": "벤츄리 메타(venturi meter)",
+      "4": "로타메타(rota meter) 42. 용광로 출선구 개공기 신호 중 한 손을 출선구쪽을 가리키"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 44,
+    "question": "고로의 작업 안전 보호구가 아닌 것은?",
+    "choices": {
+      "1": "안전복",
+      "2": "안전모",
+      "3": "안전화",
+      "4": "위생대"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 45,
+    "question": "소량으로도 인체에 가장 치명적인 것은?",
+    "choices": {
+      "1": "CO",
+      "2": "Na CO 2 3",
+      "3": "H O",
+      "4": "CO 2 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20020407",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "자철광에 해당되는 분자식은?",
+    "choices": {
+      "1": "Fe 2 O 3",
+      "2": "Fe 3 O 4",
+      "3": "Fe 2 O 3 · 6H 2 O",
+      "4": "FeCO 3"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
     "date": "20020407",
     "subject": 4,
     "subject_name": "소결법",
@@ -189,8 +1431,8 @@
     "choices": {
       "1": "통기성이 좋아야 한다.",
       "2": "반광을 핵으로 화학적인 반응이 진행되어야 한다.",
-      "4": "풍압 및 온도 48. 소결성상에서 소성 시 소결 진행속도가 원만히 이루어지기 위한 조건으로 틀린 것은?",
-      "3": "소결대의 폭이 두터워야 한다. ❹ 점화전 부압과 점화후 부압이 동일해야 한다."
+      "3": "소결대의 폭이 두터워야 한다.",
+      "4": "점화전 부압과 점화후 부압이 동일해야 한다."
     },
     "answers": [
       3
@@ -198,7 +1440,7 @@
     "explanation": ""
   },
   {
-    "id": 12,
+    "id": 81,
     "date": "20020407",
     "subject": 4,
     "subject_name": "소결법",
@@ -206,9 +1448,9 @@
     "question": "펠릿(pellet)에서 생 볼(green ball)로 만드는 조립기가 아닌 것은?",
     "choices": {
       "1": "하소대",
-      "3": "드럼(drum)형",
-      "4": "건조대",
-      "2": "환원대 ❸ 연소대"
+      "2": "환원대",
+      "3": "연소대",
+      "4": "건조대"
     },
     "answers": [
       2
@@ -216,17 +1458,107 @@
     "explanation": ""
   },
   {
-    "id": 13,
+    "id": 82,
+    "date": "20020407",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "고로에서 요구되는 소결광의 적정입도 범위는?",
+    "choices": {
+      "1": "철 소결광",
+      "2": "자용성 소결광",
+      "3": "펠릿(pellet)",
+      "4": "단광"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20020407",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "소결 조업 중 연소대 부근의 온도는?",
+    "choices": {
+      "1": "800 ∼ 900 ℃",
+      "2": "900 ∼ 1000 ℃",
+      "3": "1200 ∼ 1300 ℃",
+      "4": "1500 ∼ 1700 ℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20020407",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "자철광을 소결할 때 연료가 적게 드는 이유는 어느 것의 영 향 때문인가?",
+    "choices": {
+      "1": "산화성이 나빠진다.",
+      "2": "강도가 떨어진다.",
+      "3": "환원성이 좋아진다.",
+      "4": "경도와 강도가 나빠진다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20020407",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "소결 2차 점화로 측 보열로의 설치 목적이 아닌 것은?",
+    "choices": {
+      "1": "약 3 %",
+      "2": "약 5 %",
+      "3": "약 7 %",
+      "4": "약 10 %"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20020407",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 58,
+    "question": "다음 중 소결의 잡원료에 속하지 않는 것은?",
+    "choices": {
+      "1": "석회석",
+      "2": "규석",
+      "3": "망간",
+      "4": "형석"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
     "date": "20020407",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 59,
     "question": "다음 중 철광석의 선광법으로 가장 적합한 것은?",
     "choices": {
-      "2": "비중선광법",
+      "1": "SiO 2",
+      "2": "Al 2 O 3",
       "3": "CaO",
-      "4": "MgO",
-      "1": "SiO 2 ❷ Al 2 O 3"
+      "4": "MgO"
     },
     "answers": [
       1
@@ -234,7 +1566,7 @@
     "explanation": ""
   },
   {
-    "id": 14,
+    "id": 88,
     "date": "20050403",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -242,9 +1574,9 @@
     "question": "청동의 합금원소는?",
     "choices": {
       "1": "붕괴",
-      "3": "Cu-B",
-      "4": "결정핵 파괴",
-      "2": "기포수축 ❸ 편석"
+      "2": "기포수축",
+      "3": "편석",
+      "4": "결정핵 파괴"
     },
     "answers": [
       2
@@ -252,7 +1584,25 @@
     "explanation": ""
   },
   {
-    "id": 15,
+    "id": 89,
+    "date": "20050403",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "바나듐의 기호로 옳은 것은?",
+    "choices": {
+      "1": "Mn",
+      "2": "Ni",
+      "3": "Zn",
+      "4": "V"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
     "date": "20050403",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -261,8 +1611,8 @@
     "choices": {
       "1": "펄라이트",
       "2": "오스테나이트",
-      "4": "1,780℃ 5. 탄소 2.11 % 의 γ고용체와 탄소 6.68 %의 시멘타이트와의 공정조직으로서 주철에서 나타나는 조직은?",
-      "3": "α고용체 ❹ 레데뷰라이트"
+      "3": "α고용체",
+      "4": "레데뷰라이트"
     },
     "answers": [
       3
@@ -270,14 +1620,50 @@
     "explanation": ""
   },
   {
-    "id": 16,
+    "id": 91,
+    "date": "20050403",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "고속도강의 성분으로 옳은 것은?",
+    "choices": {
+      "1": "Cr-Mo-Sn-Zn",
+      "2": "Ni-Cr-Mo-Mn",
+      "3": "C-W-Cr-V",
+      "4": "W-Cr-Ag-Mg"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20050403",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "소성가공에 속하지 않는 가공법은?",
+    "choices": {
+      "1": "단조",
+      "2": "인발",
+      "3": "표면처리",
+      "4": "압출"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
     "date": "20050403",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 8,
     "question": "다음 중 불변강의 종류가 아닌 것은?",
     "choices": {
-      "1": "플래티나이트",
+      "1": "진응력",
       "2": "공칭응력",
       "3": "탄성력",
       "4": "하중력"
@@ -288,35 +1674,35 @@
     "explanation": ""
   },
   {
-    "id": 17,
+    "id": 94,
     "date": "20050403",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 12,
-    "question": "금속의 결정격자에 속하지 않는 기호는?",
+    "question_no": 10,
+    "question": "금속간 화합물에 관한 설명 중 옳지 않은 것은?",
     "choices": {
-      "1": "FCC ❷ LDN",
-      "3": "고속도강(high speed steel)",
-      "4": "인바(invar)",
-      "2": "두랄루민(duralumin)"
+      "1": "변형이 어렵다.",
+      "2": "경도가 높고 취약하다.",
+      "3": "일반적으로 복잡한 결정구조를 갖는다.",
+      "4": "경도가 높고 전연성이 좋다."
     },
     "answers": [
-      2
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 18,
+    "id": 95,
     "date": "20050403",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 14,
-    "question": "다음 중 퀴리점이란?",
+    "question_no": 11,
+    "question": "탄소강의 표준조직에 대한 설명 중 옳지 않은 것은?",
     "choices": {
-      "1": "동소변태점",
-      "2": "",
-      "4": "",
-      "3": ""
+      "1": "탄소강에 나타나는 조직의 비율은 C량에 의해 달라진다.",
+      "2": "탄소강의 표준조직이란 강종에 따라 A 점 또는 Acm보다 3 30 ∼ 50℃ 높은 온도로 강을 가열하여 오스테나이트 단일 상으로 한 후, 대기 중에서 냉각했을 때 나타나는 조직을 말한다.",
+      "3": "탄소강은 표준조직에 의해 탄소량을 추정할 수 없다.",
+      "4": "탄소강의 표준조직은 오스테나이트, 펄라이트, 페라이트"
     },
     "answers": [
       3
@@ -324,15 +1710,69 @@
     "explanation": ""
   },
   {
-    "id": 19,
+    "id": 96,
+    "date": "20050403",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "금속의 결정격자에 속하지 않는 기호는?",
+    "choices": {
+      "1": "서멧(cermet)",
+      "2": "두랄루민(duralumin)",
+      "3": "고속도강(high speed steel)",
+      "4": "인바(invar)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20050403",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "다음 중 퀴리점이란?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 17,
+    "question": "제3각법에서 평면도는 어느 곳에 위치하는가?",
+    "choices": {
+      "1": "정면도의 위",
+      "2": "좌측면도의 위",
+      "3": "우측면도의 위",
+      "4": "정면도의 아래"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
     "date": "20050403",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 18,
     "question": "도면의 치수 기입법 설명으로 옳은 것은?",
     "choices": {
-      "1": "특수선 ❷ 해칭선",
-      "2": "치수는 중복되더라도 이해하기 쉽게 여러번 기입한다.",
+      "1": "특수선",
+      "2": "해칭선",
       "3": "절단선",
       "4": "파단선"
     },
@@ -342,7 +1782,43 @@
     "explanation": ""
   },
   {
-    "id": 20,
+    "id": 100,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 20,
+    "question": "도면에 기입된 구멍의 치수 ø50H7 에서 알 수 없는 것은?",
+    "choices": {
+      "1": "끼워맞춤의 종류",
+      "2": "기준치수",
+      "3": "구멍의 종류",
+      "4": "IT 공차등급"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 21,
+    "question": "아래와 같은 도형의 테이퍼 값은?",
+    "choices": {
+      "1": "1/5",
+      "2": "1/10",
+      "3": "2/5",
+      "4": "3/10"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
     "date": "20050403",
     "subject": 2,
     "subject_name": "금속제도",
@@ -351,8 +1827,8 @@
     "choices": {
       "1": "가는 파선",
       "2": "가는 실선",
-      "4": "t : 두께 23. 나사의 간략도시에서 수나사 및 암나사의 산은 어떤 선으로 나타내는가? (단, 나사 산이 눈에 보이는 경우임)",
-      "3": "중간 굵기의 실선 ❹ 굵은 실선"
+      "3": "중간 굵기의 실선",
+      "4": "굵은 실선"
     },
     "answers": [
       3
@@ -360,7 +1836,61 @@
     "explanation": ""
   },
   {
-    "id": 21,
+    "id": 103,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 24,
+    "question": "도면의 부품란에 기입되는 사항이 아닌 것은?",
+    "choices": {
+      "1": "도면명칭",
+      "2": "부품번호",
+      "3": "재질",
+      "4": "부품수량"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "제도에 사용하는 다음 선의 종류 중 굵기가 가장 큰 것은?",
+    "choices": {
+      "1": "치수보조선",
+      "2": "피치선",
+      "3": "파단선",
+      "4": "외형선"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "KS의 부문별 분류 기호 중 틀리게 연결된 것은?",
+    "choices": {
+      "1": "KS A - 전자",
+      "2": "KS B - 기계",
+      "3": "KS C - 전기",
+      "4": "KS D - 금속"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
     "date": "20050403",
     "subject": 2,
     "subject_name": "금속제도",
@@ -368,9 +1898,9 @@
     "question": "다음 재료 기호 중 고속도 공구강은?",
     "choices": {
       "1": "내화도가 높아야 한다.",
-      "3": "침식과 마멸에 견딜 수 있어야 한다. ❹ 비중이 높아야 한다.",
-      "4": "SM 28. 고로는 전 높이에 걸쳐 많은 내화벽돌로 쌓여져 있다. 내화 벽돌이 갖추어야 될 조건으로 옳지 않은 것은?",
-      "2": "치수가 정확하여야 한다."
+      "2": "치수가 정확하여야 한다.",
+      "3": "침식과 마멸에 견딜 수 있어야 한다.",
+      "4": "비중이 높아야 한다."
     },
     "answers": [
       2
@@ -378,71 +1908,17 @@
     "explanation": ""
   },
   {
-    "id": 22,
+    "id": 107,
     "date": "20050403",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 34,
-    "question": "유안을 제조하는 방법 중 반응열을 이용하여 유안을 건조하 는 방법은?",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 29,
+    "question": "용광로 조업말기에 TiO 장입량을 증가시키는 주 이유는? 2",
     "choices": {
-      "1": "석탄이 산화하면 온도가 상승한다.",
-      "3": "석탄이 발열하면 발화한다. ❹ 석탄 성분 중 휘발분이 증가한다.",
-      "4": "아황산가스를 이용하는 방법 35. 석탄(유연탄)을 대기중에서 장기간 방치하면 산화 현상이 일 어난다. 석탄의 산화와 관계가 없는 것은?",
-      "2": "석탄이 산화하면 석탄성분 중 점결력이 감소한다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 23,
-    "date": "20050403",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 37,
-    "question": "피환원성이 가장 좋은 것은?",
-    "choices": {
-      "1": "냉각판을 넣는다.",
-      "3": "외부에서 물을 뿌려 냉각시킨다. ❹ 보수하지 않고 쇳물이 나오도록 한다.",
-      "4": "자철광 38. 노벽이 국부적으로 얇아져서 노안으로부터 가스 또는 용해 물이 분출될 때의 조치사항으로 옳지 않은 것은?(오류 신고 가 접수된 문제입니다. 반드시 정답과 해설을 확인하시기 바랍니다.)",
-      "2": "바람구멍의 지름을 조절한다."
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 24,
-    "date": "20050403",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 46,
-    "question": "소결기의 급광장치 종류가 아닌 것은?",
-    "choices": {
-      "1": "호퍼 ❷ 스크린",
-      "3": "열팽창, 수축 등에 의해 파괴되지 않을 것",
-      "4": "되도록 모양이 구상화된 형태일 것",
-      "2": "오랫동안 보관하여도 풍화되지 않을 것"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 25,
-    "date": "20050403",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 48,
-    "question": "소결공장에서 점화로의 연료로 사용하지 않는 것은?",
-    "choices": {
-      "1": "강도는 떨어지고, 환원성도 저하한다. ❷ 강도는 커지고, 환원성은 저하한다.",
-      "2": "B.F.G ❸ Coal",
-      "4": "강도는 떨어지나, 환원성은 좋다.",
-      "3": "강도는 커지고, 환원성도 좋다."
+      "1": "제강 취련 작업을 원활히 하기 위해서",
+      "2": "용선의 유동성 향상을 위해서",
+      "3": "노저보호를 위해서",
+      "4": "샤프트각을 크게 하기 위해서"
     },
     "answers": [
       3
@@ -450,7 +1926,331 @@
     "explanation": ""
   },
   {
-    "id": 26,
+    "id": 108,
+    "date": "20050403",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "고로의 조업에서 고압조업의 효과로 옳지 않은 것은?",
+    "choices": {
+      "1": "고[S]의 용선 생산",
+      "2": "출선량의 증대",
+      "3": "연료비 저하",
+      "4": "노황의 안정"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "다음 중 염기성 플럭스(flux)는?",
+    "choices": {
+      "1": "돌로마이트",
+      "2": "규석",
+      "3": "샤모트",
+      "4": "탄화규소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "용광로 철피 적열상태를 점검하는 방법의 설명으로 옳지 않 은 것은?",
+    "choices": {
+      "1": "온도계로 온도측정",
+      "2": "소량의 물로 비등현상 확인",
+      "3": "조명 소등 후 철피색깔 비교",
+      "4": "신체 접촉으로 온기 확인"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "고로의 수명을 지배하는 요인으로 옳지 못한 것은?",
+    "choices": {
+      "1": "노의 설계 및 구성",
+      "2": "원료 사정과 노의 조업상태는 상관없다",
+      "3": "노체를 구성하는 내화 재료의 품질과 축로 기술",
+      "4": "각종 물리적, 화학적 변화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "유안을 제조하는 방법 중 반응열을 이용하여 유안을 건조하 는 방법은?",
+    "choices": {
+      "1": "석탄이 산화하면 온도가 상승한다.",
+      "2": "석탄이 산화하면 석탄성분 중 점결력이 감소한다.",
+      "3": "석탄이 발열하면 발화한다.",
+      "4": "석탄 성분 중 휘발분이 증가한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "다음 설비 중 장입물 분포를 제어하는데 이용되는 것은?",
+    "choices": {
+      "1": "수평 사운드",
+      "2": "가스 샘플러",
+      "3": "무우벌 아아머",
+      "4": "노정 살수장치"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "피환원성이 가장 좋은 것은?",
+    "choices": {
+      "1": "냉각판을 넣는다.",
+      "2": "바람구멍의 지름을 조절한다.",
+      "3": "외부에서 물을 뿌려 냉각시킨다.",
+      "4": "보수하지 않고 쇳물이 나오도록 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "고로조업에서 송풍 원단위로 맞는 것은?",
+    "choices": {
+      "1": "㎏/T-T",
+      "2": "m3/㎏-m",
+      "3": "Nm3/T-P",
+      "4": "㎏/m3-T 40. 각 사업장 간의 재해상황을 비교하는 자료로 사용되는 천인 율의 공식은?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 43,
+    "question": "고로에서 주물선과 관련이 가장 깊은 원소는?",
+    "choices": {
+      "1": "Cu",
+      "2": "Si",
+      "3": "Aℓ",
+      "4": "Sn"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 44,
+    "question": "고로의 구조가 아닌 것은?",
+    "choices": {
+      "1": "샤프트",
+      "2": "노복",
+      "3": "보시",
+      "4": "축열실"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20050403",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 45,
+    "question": "고로(BF)의 부속 설비로 옳지 않은 것은?",
+    "choices": {
+      "1": "풍구",
+      "2": "장입종",
+      "3": "스키머",
+      "4": "소화탑"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "소결기의 급광장치 종류가 아닌 것은?",
+    "choices": {
+      "1": "다공질로 노안에서 산화가 잘 될 것",
+      "2": "오랫동안 보관하여도 풍화되지 않을 것",
+      "3": "열팽창, 수축 등에 의해 파괴되지 않을 것",
+      "4": "되도록 모양이 구상화된 형태일 것"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 48,
+    "question": "소결공장에서 점화로의 연료로 사용하지 않는 것은?",
+    "choices": {
+      "1": "강도는 떨어지고, 환원성도 저하한다.",
+      "2": "강도는 커지고, 환원성은 저하한다.",
+      "3": "강도는 커지고, 환원성도 좋다.",
+      "4": "강도는 떨어지나, 환원성은 좋다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "소결공정의 믹서(mixer)의 역할이 아닌 것은?",
+    "choices": {
+      "1": "수분 첨가",
+      "2": "장입",
+      "3": "조립",
+      "4": "혼합"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 52,
+    "question": "소결용 원료로서 적합치 않은 것은?",
+    "choices": {
+      "1": "고로 더스트(dust)",
+      "2": "스케일",
+      "3": "사하분광",
+      "4": "팰릿(pellet)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "소결광 성분이 다음과 같을 때 염기도는?",
+    "choices": {
+      "1": "1.51",
+      "2": "1.65",
+      "3": "1.86",
+      "4": "1.92"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "확산형 소결광의 장점이 아닌 것은?",
+    "choices": {
+      "1": "산화도가 크다.",
+      "2": "기공율이 좋다.",
+      "3": "강도가 크다.",
+      "4": "환원성이 좋다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "소결 작업에서 최대팽윤 수분이란?",
+    "choices": {
+      "1": "부피 비중이 최소가 되는 수분 백분율(%)",
+      "2": "통기성이 최대로 되는 수분 백분율(%)",
+      "3": "부피 비중이 최대로 되는 수분 백분율(%)",
+      "4": "원료 응집이 최대로 되는 수분 백분율(%)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
     "date": "20050403",
     "subject": 4,
     "subject_name": "소결법",
@@ -458,8 +2258,8 @@
     "question": "소결 감산 시의 감산 조치가 아닌 것은?",
     "choices": {
       "1": "포트 소결기",
-      "2": "그리나발트 소결기 ❸ 드와이트 · 로이드 소결기",
-      "3": "강도의 증가 ❹ 적절한 열분포 58. 가동 부분이 많아서 고장이 많고, 누풍이 많은 결점이 있으 나 작업이 간편하며, 작업 인원이 적어도 되고, 대량 생산에 적합한 소결기는?",
+      "2": "그리나발트 소결기",
+      "3": "드와이트 · 로이드 소결기",
       "4": "AIB식 소결기"
     },
     "answers": [
@@ -468,15 +2268,33 @@
     "explanation": ""
   },
   {
-    "id": 27,
+    "id": 127,
+    "date": "20050403",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "석회 소결광에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "용광로 내에서 가스의 환원성과 보유열량이 유효하게 이 용된다.",
+      "2": "석회석과 광석이 균일하게 혼합되어 용광로 내의 반응이 촉진된다.",
+      "3": "많이 사용하면 로황이 불안정하여 고온 송풍이 불가능 하다.",
+      "4": "용광로 내에 사용하면 연료소비량이 적게 든다. 60. 펠라타이징법의 소성 경화작업에 사용되는 수직형 소성로의"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
     "date": "20080203",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 2,
     "question": "다음 중 초초두랄루민(ESD)의 조성으로 옳은 것은?",
     "choices": {
-      "1": "침투경화 ❷ 가공경화",
-      "2": "Al-Mn 계",
+      "1": "침투경화",
+      "2": "가공경화",
       "3": "석출경화",
       "4": "고용경화"
     },
@@ -486,7 +2304,115 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 129,
+    "date": "20080203",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "다음 중 경합금에 해당되지 않는 것은?",
+    "choices": {
+      "1": "마그네슘(Mg) 함급",
+      "2": "알루미늄(Al) 함급",
+      "3": "베릴륨(Be) 함급",
+      "4": "텅스텐(W) 함급"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20080203",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "재료에 대한 포아송비(poisson's ratio)의 식으로 옳은 것은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20080203",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "금속의 일반적 특성에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "항복점",
+      "2": "탄성한계",
+      "3": "인장강도",
+      "4": "최대 하중점"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20080203",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "다음 중 펄라이트의 생성기구에서 가장 처음 발생하는 것은?",
+    "choices": {
+      "1": "ζ-Fe",
+      "2": "β-Fe",
+      "3": "Fe C핵",
+      "4": "θ-Fe 3"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20080203",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "Fe-C 평형상태도에서 α-철의 자기변태점은?",
+    "choices": {
+      "1": "A",
+      "2": "A 1 2",
+      "3": "A",
+      "4": "A 3 4"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20080203",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "다음 중 철강을 분류할 때 “SM45C\"는 어느 강인가?",
+    "choices": {
+      "1": "순철",
+      "2": "아공석강",
+      "3": "과공석강",
+      "4": "공정주철"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
     "date": "20080203",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -495,8 +2421,8 @@
     "choices": {
       "1": "칠드 주철",
       "2": "백심가단 주철",
-      "4": "Al-Cu-Mg-Si 15. 주철용탕에 최초로 칼슘-실리테이트를 접종하여 만든 강인 한 회주철은?",
-      "3": "구상흑연 주철 ❹ 미해나이트 주철"
+      "3": "구상흑연 주철",
+      "4": "미해나이트 주철"
     },
     "answers": [
       3
@@ -504,7 +2430,61 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 136,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 16,
+    "question": "다음 중 물체 뒤쪽 면을 수평으로 바라본 상태에서 그린 그 림은?",
+    "choices": {
+      "1": "배면도",
+      "2": "저면도",
+      "3": "평면도",
+      "4": "측연도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 18,
+    "question": "다음 중 선긋기를 올바르게 표시한 것은 어느 것인가?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 19,
+    "question": "다음 중 국제표준화기구를 나타내는 약호로 옳은 것은?",
+    "choices": {
+      "1": "톱니나사",
+      "2": "유니파이 가는나사",
+      "3": "사다리꼴 나사",
+      "4": "관용평행 나사"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
     "date": "20080203",
     "subject": 2,
     "subject_name": "금속제도",
@@ -523,17 +2503,89 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 140,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "다음 중 선의 굵기가 가장 굵은 선은?",
+    "choices": {
+      "1": "치수선",
+      "2": "지시선",
+      "3": "외형선",
+      "4": "해칭선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "도면의 치수기입에서 “□20“이 갖는 의미로 옳은 것은?",
+    "choices": {
+      "1": "정사각형이 20개이다.",
+      "2": "단면 지름이 20m이다.",
+      "3": "정사각형의 넓이가 20mm2이다.",
+      "4": "한 변의 길이가 20mm인 정사각형이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "다음 중 ‘보오링’ 가공방법의 기호로 옳은 것은?",
+    "choices": {
+      "1": "B",
+      "2": "D",
+      "3": "M",
+      "4": "L"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 27,
+    "question": "구멍의 치수가 일 때의 치수공차로 옳은 것은?",
+    "choices": {
+      "1": "0.11",
+      "2": "0.24",
+      "3": "0.37",
+      "4": "0.87"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
     "date": "20080203",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 28,
-    "question": "다음 중 산소 부화에 의한 효과로 틀린 것은? ❶ 질소 강소에 의해 발열량을 감소시킨다.",
+    "question": "다음 중 산소 부화에 의한 효과로 틀린 것은?",
     "choices": {
-      "2": "바람 구멍 앞의 온도가 높아진다.",
+      "1": "선광(dressing)",
+      "2": "하소(calcination)",
       "3": "배소(rcasling)",
-      "4": "소결(sintering)",
-      "1": "선광(dressing) ❷ 하소(calcination)"
+      "4": "소결(sintering)"
     },
     "answers": [
       1
@@ -541,17 +2593,35 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 145,
+    "date": "20080203",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "산업재해 원인 중 교육적 원인에 해당하는 것은?",
+    "choices": {
+      "1": "구조 재료가 적합하지 못하다.",
+      "2": "생산 방법이 적당하지 못하다.",
+      "3": "점검, 정비, 보존 등이 불량하다.",
+      "4": "안전 지식이 부족하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
     "date": "20080203",
     "subject": 3,
     "subject_name": "제선법",
     "question_no": 31,
-    "question": "다음 중 철광석의 구비조건으로 틀린 것은? ❶ 피환원성이 나쁠 것",
+    "question": "다음 중 철광석의 구비조건으로 틀린 것은?",
     "choices": {
-      "2": "자화 ❸ 충전",
-      "3": "철분을 많이 함유하고 있을 것",
-      "4": "축로",
-      "1": "화입"
+      "1": "화입",
+      "2": "자화",
+      "3": "충전",
+      "4": "축로"
     },
     "answers": [
       1
@@ -559,7 +2629,79 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 147,
+    "date": "20080203",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "용선을 따라서 흘러나오는슬래그는 어디에서 분리하는가?",
+    "choices": {
+      "1": "용선 레이들",
+      "2": "토페도 카",
+      "3": "주선기",
+      "4": "스키머"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20080203",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "다음 중 코크스의 반응성을 나타내는 식으로 옳은 것은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20080203",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 35,
+    "question": "다음 중 스치거나 문질러서 벗겨진 상해는?",
+    "choices": {
+      "1": "찰과상",
+      "2": "절상",
+      "3": "부종",
+      "4": "자상"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20080203",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "내용적 3795m3의 고로에 풍량 6000Nm3/mim 으로 송풍하 여 선철을 8160ton/일, 슬래그 2690ton/일 생산하였을 때의 출선비(t/일/m3)는 약 얼마인가?",
+    "choices": {
+      "1": "0.71",
+      "2": "1.80",
+      "3": "2.15",
+      "4": "2.86"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
     "date": "20080203",
     "subject": 3,
     "subject_name": "제선법",
@@ -567,8 +2709,8 @@
     "question": "다음 중 습식 청정기가 아닌 것은?",
     "choices": {
       "1": "환원가스의 생성",
-      "2": "석탄의 건조 및 탈가스화 ❸ 철광석의 간접환원",
-      "3": "20",
+      "2": "석탄의 건조 및 탈가스화",
+      "3": "철광석의 간접환원",
       "4": "슬래그의 용해"
     },
     "answers": [
@@ -577,14 +2719,50 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 152,
+    "date": "20080203",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "고로조업시 바람구멍의 파손 원인으로 틀린 것은?",
+    "choices": {
+      "1": "슬립이 많을 때",
+      "2": "회분이 많을 때",
+      "3": "송풍온도가 낮을 때",
+      "4": "코크스의 균열감도가 낮을 때"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20080203",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 43,
+    "question": "로내 장입물의 분포상태를 변경하는 방법이 아닌 것은?",
+    "choices": {
+      "1": "장입선의 변경",
+      "2": "층두께의 변경",
+      "3": "용선차의 변경",
+      "4": "장입순서의 변경"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
     "date": "20080203",
     "subject": 3,
     "subject_name": "제선법",
     "question_no": 44,
     "question": "다음 중 고로의 구조가 아닌 것은?",
     "choices": {
-      "1": "고온강도가 높을 것",
+      "1": "Constant Feed weigher",
       "2": "Vibrating Feeder",
       "3": "Table Feeder",
       "4": "Belt Feeder"
@@ -595,7 +2773,7 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 155,
     "date": "20080203",
     "subject": 4,
     "subject_name": "소결법",
@@ -603,9 +2781,9 @@
     "question": "소결광 성분이 보기와 같을 때 염기도는?",
     "choices": {
       "1": "로마스팅",
-      "3": "1.86",
-      "4": "브리케팅",
-      "2": "산터링 ❸ 펠레타이징"
+      "2": "산터링",
+      "3": "펠레타이징",
+      "4": "브리케팅"
     },
     "answers": [
       2
@@ -613,17 +2791,17 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 156,
     "date": "20080203",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 50,
-    "question": "다음 중 조재성분에 대한 설명으로 옳은 것은? ❶ 생산율은 CaO, SiO 의 증가에 따라 향상된다. 2",
+    "question": "다음 중 조재성분에 대한 설명으로 옳은 것은?",
     "choices": {
+      "1": "증액선광",
       "2": "자력선광",
       "3": "CaO, SiO 는 제품의 감도를 낮춘다. 2",
-      "4": "Al O , MgO는 결정수를 증가시킨다. 2 3 51. 광물의 미립자를 물에 넣고 부선재를 첨가하여 많은 기포를 발생시켜 기포표면에 필요한 광물의 입자를 붙게 하여 표면 에 뜨게 하여 분리 회수하는 방법은?",
-      "1": "증액선광"
+      "4": "Al O , MgO는 결정수를 증가시킨다. 2 3 51. 광물의 미립자를 물에 넣고 부선재를 첨가하여 많은 기포를 발생시켜 기포표면에 필요한 광물의 입자를 붙게 하여 표면 에 뜨게 하여 분리 회수하는 방법은?"
     },
     "answers": [
       1
@@ -631,17 +2809,89 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 157,
+    "date": "20080203",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 52,
+    "question": "소결 원료에서 배합원료의 수분 값의 범위로 가장 적당한 것은?",
+    "choices": {
+      "1": "1-2%",
+      "2": "5-8%",
+      "3": "10-17%",
+      "4": "20-27%"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20080203",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "다음 중 소결반응에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "저온에서는 확산결합을 한다.",
+      "2": "고온에서는 용융결합을 한다.",
+      "3": "용융결합은 자철광을 다량으로 배합할 때 일어나는 결합 이다.",
+      "4": "확산결합의 강도는 아주 강하며, 코크스가 많거나 원료 입도가 미세할 때 볼 수 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20080203",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "다음 중 분광석을 괴상화하는 소결설비로 자동화가 가능하 며 연속식이며, 대량생산용으로 가장 많이 사용하는 설비 는?",
+    "choices": {
+      "1": "pelletizing식",
+      "2": "GW식(Greenawalt pen)",
+      "3": "DL식(Dwight-Lloyd aachine)",
+      "4": "AIB식(Allmanna Inginfors Byron disc)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20080203",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "다음 중 석탄의 성질에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "석탄을 건류할 때 괴상으로 코크스가 되는 성질을 점결 성이라 한다.",
+      "2": "석탄을 습속히 가열하면 연화 및 팽창을 하게 되는데 이 때 연화팽창하는 성질을 코크스화성이라 한다.",
+      "3": "생성한 괴의 강도를 좌우하는 성질을 점착성이라 한다.",
+      "4": "코크스화성이 큰 것을 약점결탄, 작은 것을 강정갈탄이 라 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
     "date": "20080203",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 56,
     "question": "다음 중 능철광을 나타내는 화학식으로 옳은 것은?",
     "choices": {
-      "2": "Fe O 3 2 3",
+      "1": "용융대-소결대-습원료대-건조대",
+      "2": "소결대-용융대-건조대-습원료대",
       "3": "습원료대-건조대-용융대-소결대",
-      "4": "소결대-건조대-습원료대-용융대",
-      "1": "용융대-소결대-습원료대-건조대 ❷ 소결대-용융대-건조대-습원료대"
+      "4": "소결대-건조대-습원료대-용융대"
     },
     "answers": [
       1
@@ -649,14 +2899,14 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 162,
     "date": "20080203",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 58,
     "question": "다음 중 피환원성이 가장 우수한 것은?",
     "choices": {
-      "1": "자철광",
+      "1": "5",
       "2": "12",
       "3": "24",
       "4": "48"
@@ -667,17 +2917,17 @@
     "explanation": ""
   },
   {
-    "id": 38,
-    "date": "20090118",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 2,
-    "question": "체심입방격자와 조밀육방격자의 배위수는 각각 얼마인가?",
+    "id": 163,
+    "date": "20080203",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "소결조업에 사용되는 용어 중 FFS가 의미하는 것은?",
     "choices": {
-      "1": "체심입방격자 : 8, 조밀육방격자 : 8",
-      "2": "문츠메탈(muntz metal)",
-      "4": "실루민(silumin)",
-      "3": "틴 브라스(tin brass)"
+      "1": "고로 가스",
+      "2": "코크스 가스",
+      "3": "화염진행속도",
+      "4": "최고도달온도"
     },
     "answers": [
       3
@@ -685,7 +2935,43 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 164,
+    "date": "20090118",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "강에서 상온 메짐(취성)의 원인이 되는 원소는?",
+    "choices": {
+      "1": "P",
+      "2": "S",
+      "3": "Mn",
+      "4": "Cu"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20090118",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "체심입방격자와 조밀육방격자의 배위수는 각각 얼마인가?",
+    "choices": {
+      "1": "리드 브라스(lead brass)",
+      "2": "문츠메탈(muntz metal)",
+      "3": "틴 브라스(tin brass)",
+      "4": "실루민(silumin)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
     "date": "20090118",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -693,9 +2979,9 @@
     "question": "강에 탄소량이 증가할수록 증가하는 것은?",
     "choices": {
       "1": "인바(invar)",
-      "3": "단면수축율",
-      "4": "슈퍼인바(superinvar)",
-      "2": "코엘린바(coelinvar) ❸ 엘린바(elinvar)"
+      "2": "코엘린바(coelinvar)",
+      "3": "엘린바(elinvar)",
+      "4": "슈퍼인바(superinvar)"
     },
     "answers": [
       2
@@ -703,17 +2989,17 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 167,
     "date": "20090118",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 6,
     "question": "금속재료의 일반적인 설명으로 틀린 것은?",
     "choices": {
-      "1": "경강 ❷ 연강",
+      "1": "스프링강",
+      "2": "베어링강",
       "3": "쾌삭강",
-      "4": "영구자석강",
-      "2": "베어링강"
+      "4": "영구자석강"
     },
     "answers": [
       2
@@ -721,17 +3007,35 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 168,
+    "date": "20090118",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "오스테나이트계 스테인리스강에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "대표적인 합금에 18%Cr-8%Ni 강이 있다.",
+      "2": "1100℃에서 급냉하여 용체화처리를 하면 오스테나이트 조직이 된다.",
+      "3": "Ti, V, Nb 등을 첨가하면 입계부식이 방지된다.",
+      "4": "1000℃로 가열한 후 서냉하면 Cr C 등의 탄화물이 결정 23 6 입계에 석출하여 입계부식을 방지한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
     "date": "20090118",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 11,
     "question": "동소변태에 대한 설명으로 틀린 것은?",
     "choices": {
-      "1": "결정격자의 변화이다.",
+      "1": "서멧",
       "2": "SAP",
-      "4": "TD Ni",
-      "3": "FRM"
+      "3": "FRM",
+      "4": "TD Ni"
     },
     "answers": [
       3
@@ -739,7 +3043,277 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 170,
+    "date": "20090118",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "다음 중 면심입방격자(FCC) 금속에 해당되는 것은?",
+    "choices": {
+      "1": "Ta, Li, Mo",
+      "2": "Ba, Cr, Fe",
+      "3": "Ag, Al, Pt",
+      "4": "Be, Cd, Mg"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20090118",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "금속의 슬립(slip)과 쌍정(twin)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "슬립은 원자밀도가 최소인 방향으로 일어난다.",
+      "2": "슬립은 원자밀도가 가장 작은 격자면에서 잘 일어난다.",
+      "3": "쌍정은 결정의 변형부분과 변형되지 않은 부분이 대칭을 이루게 된다.",
+      "4": "쌍정에 의한 변형은 슬립에 의한 변형보다 매우 크다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20090118",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "다음 중 Fe-C 평형상태도에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "형판",
+      "2": "축척자",
+      "3": "삼각자",
+      "4": "디바이더"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 17,
+    "question": "도면에 치수를 기입할 때 유의해야 할 사항으로 옳은 것은?",
+    "choices": {
+      "1": "치수는 계산을 하도록 기입해야 한다.",
+      "2": "치수의 기입은 되도록 중복하여 기입해야 한다.",
+      "3": "치수는 가능한 한 보조 투상도에 기입해야 한다.",
+      "4": "관련되는 치수는 가능한 한곳에 모아서 기입해야 한다. 18. 도면에서와 같이 절단 평면과 원뿔의 밑면이 이루는 각이 원뿔의 모선과 밑면이 이루는 각보다 작은 경우 이 때의 단 면은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 19,
+    "question": "현과 호에 대한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "호의 길이를 표시하는 치수선은 호에 평행한 직선으로 표시한다.",
+      "2": "현의 길이를 표시하는 치수선은 그 현과 동심인 원호를 표시한다.",
+      "3": "원호를 구성되는 곡선의 치수는 원호의 반지름과 그 중 심 또는 원호와의 접선 위치를 기입할 필요가 없다.",
+      "4": "원호와 현을 구별해야 할 때에는 호의 치수숫자 위에 표시를 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 21,
+    "question": "다음 중 도면의 크기와 양식에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "도면의 크기 A2 는 420 × 594 mm 이다.",
+      "2": "도면에서 그려야 할 사항 중에는 윤곽선, 중심마크, 표제 란 등이 있다.",
+      "3": "큰 도면을 접을 때에는 A0 의 크기를 접는 것을 원칙으 로 한다.",
+      "4": "표제란은 도면의 오른쪽 아래에 표제란을 그린다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "구멍 치수 , 축 치수 인 경우 어떤 끼워 맞춤인가?",
+    "choices": {
+      "1": "헐거운 끼워맞춤",
+      "2": "억지 끼워맞춤",
+      "3": "중간 끼워맞춤",
+      "4": "보통 끼워맞춤"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "SM20C에서 20C 는 무엇을 나타내는가?",
+    "choices": {
+      "1": "최고인장강도",
+      "2": "최저인장강도",
+      "3": "탄소함유량",
+      "4": "최고 항복점"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "다음 중 위치수 허용차를 옳게 나타낸 것은?",
+    "choices": {
+      "1": "HBV",
+      "2": "CBV",
+      "3": "ECV",
+      "4": "CBMV"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 29,
+    "question": "고로의 조업에서 고압조업의 효과가 아닌 것은?",
+    "choices": {
+      "1": "고황(S)의 용선 생산 증대",
+      "2": "출선량의 증대",
+      "3": "연진의 감소",
+      "4": "코크스비의 감소"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20090118",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "선철 중의 탄소의 용해도를 증가시키는 원소가 아닌 것은?",
+    "choices": {
+      "1": "V",
+      "2": "Si",
+      "3": "Cr",
+      "4": "Mn"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "다음 중 고로 안에서 거의 환원되는 것은?",
+    "choices": {
+      "1": "CaO",
+      "2": "P O 2 5",
+      "3": "MgO",
+      "4": "Al O 2 3"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "제감용선 중 염기성 선철을 제조하는 원칙에 해당하지 않는 것은?",
+    "choices": {
+      "1": "염기도를 낮춘다.",
+      "2": "강하시간을 빠르게 한다.",
+      "3": "중장입으로 하여 송풍량을 높인다.",
+      "4": "로황을 항상 좋게 유지하여 규소량에 차가 없도록 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "고로수리를 위하여 일시적으로 송풍을 중지시키는 것은?",
+    "choices": {
+      "1": "hanging",
+      "2": "blowing in",
+      "3": "ventilation",
+      "4": "blowing out"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "고로 조업시에 로정가스 성분에서 검출되지 않는 것은?",
+    "choices": {
+      "1": "CO",
+      "2": "CO 2",
+      "3": "He",
+      "4": "H 2"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
     "date": "20090118",
     "subject": 3,
     "subject_name": "제선법",
@@ -747,8 +3321,8 @@
     "question": "주물용 선철 성분의 특징으로 옳은 것은?",
     "choices": {
       "1": "0.48",
-      "2": "1.07 ❸ 2.07",
-      "3": "밴츄리 스크러버(venturi scrubber)",
+      "2": "1.07",
+      "3": "2.07",
       "4": "2.48"
     },
     "answers": [
@@ -757,7 +3331,61 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 186,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "용광로 철피 적열상태를 점검하는 방법을 설명한 것으로 틀 린 것은?",
+    "choices": {
+      "1": "온도계로 온도측정",
+      "2": "소량의 물로 비등현상 확인",
+      "3": "조명 소등 후 철피 색상 비교",
+      "4": "신체 접촉으로 온기 확인 kcal/m3"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "코크스로가스(COG)의 발열량은 약 몇 인가?",
+    "choices": {
+      "1": "850",
+      "2": "4750",
+      "3": "7500",
+      "4": "9500"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "고로에서 풍구수준면에서 장입기준선까지의 용적을 무엇이 라 하는가?",
+    "choices": {
+      "1": "실용적",
+      "2": "내용적",
+      "3": "전용적",
+      "4": "유효 내용적"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
     "date": "20090118",
     "subject": 3,
     "subject_name": "제선법",
@@ -765,8 +3393,8 @@
     "question": "보호구의 보관방법에 대한 설명으로 틀린 것은?",
     "choices": {
       "1": "균광",
-      "2": "단광 ❸ 선광",
-      "3": "땅 등으로 오염된 경우에는 세탁하고 건조시킨 후 보관 할 것 ❹ 부식성 액체, 유기용제, 기름, 산 등과 혼합하여 보관할 것 44. 광석의 철 품위를 높이고 광석 중의 유해 불순물인 비소 (As), 황(S) 등을 제거하기 위해서 하는 것은?",
+      "2": "단광",
+      "3": "선광",
       "4": "소광"
     },
     "answers": [
@@ -775,15 +3403,33 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 190,
+    "date": "20090118",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 45,
+    "question": "고로조업 중 배가스 처리장치를 통해 가장 많이 배출되는 가스는?",
+    "choices": {
+      "1": "N",
+      "2": "H 2 2",
+      "3": "CO",
+      "4": "CO 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
     "date": "20090118",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 46,
     "question": "소결조업 중 배합원료에 수분을 첨가하는 이유를 설명한 것 중 틀린 것은?",
     "choices": {
-      "1": "연진 ❷ 스케일",
-      "2": "이분원료의 응집에 의한 통기성을 향상시킨다.",
+      "1": "연진",
+      "2": "스케일",
       "3": "유산재",
       "4": "전로재"
     },
@@ -793,17 +3439,35 @@
     "explanation": ""
   },
   {
-    "id": 45,
+    "id": 192,
     "date": "20090118",
     "subject": 4,
     "subject_name": "소결법",
-    "question_no": 51,
-    "question": "다음의 화학 반응식 중 옳은 것은? ❶ 4Fe O + O ⇄ 6Fe O 3 4 2 2 3",
+    "question_no": 48,
+    "question": "코크스의 생산량을 구하는 식으로 옳은 것은?",
     "choices": {
-      "2": "915",
-      "3": "1426 ❹ 1626 53. 광석을 가열하여 수산화물 및 탄산염과 같이 화학적으로 결",
-      "4": "3Fe O + O ⇄ 5Fe O 3 4 3 2 3 52. 품위가 57.8%인 광석에서 철분 94%의 선철 1톤을 만드는 데 필요한 광석량은 약 몇 kg 인가? (단, 철분이 모두 환원 되어 철의 손실이 없다고 가정한다.)",
-      "1": "615"
+      "1": "(Oven당 석탄의 장입량 + Coke 실수율) ÷ 압출문수",
+      "2": "(Oven당 석탄의 장입량 - Coke 실수율) ÷ 압출문수",
+      "3": "Oven당 석탄의 장입량 × Coke 실수율 × 압출문수",
+      "4": "Oven당 석탄의 장입량 × 압출문수 ÷ Coke 실수율"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 49,
+    "question": "덩어리로된 괴광에 필요한 성질에 대한 설명으로 옳은 것 은?",
+    "choices": {
+      "1": "다공질로 로 안에서 환원이 잘 되어야 한다.",
+      "2": "로에 장입 및 강하시에는 잘 분쇄되어야 한다.",
+      "3": "선철에 품질을 높일 수 있는 황과 인이 있어야 한다.",
+      "4": "점결제에는 알칼리류를 함유하고 있어야 하며, 열팽창 및 수축에 의한 붕괴를 일으켜야 한다."
     },
     "answers": [
       1
@@ -811,17 +3475,53 @@
     "explanation": ""
   },
   {
-    "id": 46,
+    "id": 194,
     "date": "20090118",
     "subject": 4,
     "subject_name": "소결법",
-    "question_no": 57,
-    "question": "다음 중 소결기의 급광장치에 속하지 않는 것은?",
+    "question_no": 50,
+    "question": "용광로에서 분상의 광석을 사용하지 않는 이유와 가장 관계 가 없는 것은?",
     "choices": {
-      "1": "침출(leaching)법",
-      "3": "Cut gate",
-      "4": "브리케팅(briquetting)법",
-      "2": "오일링(oiling)법 ❸ 펠레타이징(pelletizing)법"
+      "1": "장입물의 강하가 불균일하기 때문이다.",
+      "2": "통풍의 약화 현상을 가져오기 때문이다.",
+      "3": "로정가스에 의한 미분광의 손실이 우려되기 때문이다.",
+      "4": "로내의 용탕이 불량해지기 때문이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "다음의 화학 반응식 중 옳은 것은?",
+    "choices": {
+      "1": "615",
+      "2": "915",
+      "3": "1426",
+      "4": "1626 53. 광석을 가열하여 수산화물 및 탄산염과 같이 화학적으로 결"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "소결법을 시행하는 이유가 아닌 것은?",
+    "choices": {
+      "1": "생산성을 증가시키기 위하여",
+      "2": "코크스의 원단위를 증가시키기 위하여",
+      "3": "제선의 능률을 향상시키기 위하여",
+      "4": "적합한 입도를 유지시키기 위하여"
     },
     "answers": [
       2
@@ -829,17 +3529,17 @@
     "explanation": ""
   },
   {
-    "id": 47,
-    "date": "20110213",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 2,
-    "question": "금속에 대한 성질을 설명한 것 중 틀린 것은? ❶ 모든 금속은 상온에서 고체 상태로 존재한다.",
+    "id": 197,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "드와이트-로이드(Dwight Lloyd) 소결기에 대한 설명으로 틀 린 것은?",
     "choices": {
-      "2": "65% ❸ 75%",
-      "3": "캡드강",
-      "4": "85%",
-      "1": "25%"
+      "1": "소결 불량시 재점화가 가능하다.",
+      "2": "방진장치 설치가 용이하다.",
+      "3": "기계부분의 손상 마모가 크다.",
+      "4": "연속식이기 때문에 대량생산에 적합하다."
     },
     "answers": [
       1
@@ -847,17 +3547,107 @@
     "explanation": ""
   },
   {
-    "id": 48,
+    "id": 198,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "소결공정에서 혼화기(Drum Mixer)의 역할이 아닌 것은?",
+    "choices": {
+      "1": "수분첨가",
+      "2": "조립",
+      "3": "장입",
+      "4": "혼합"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 57,
+    "question": "다음 중 소결기의 급광장치에 속하지 않는 것은?",
+    "choices": {
+      "1": "침출(leaching)법",
+      "2": "오일링(oiling)법",
+      "3": "펠레타이징(pelletizing)법",
+      "4": "브리케팅(briquetting)법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "다음 중 생펠렛에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "펠레타이징시 적당한 크기로 만들어진 것을 생펠렛이라 한다.",
+      "2": "자연 건조시 경화되어 큰 강도를 얻고자 할 때 소결한 다.",
+      "3": "철광석을 생펠렛으로 만든 다음 가열하여 환원배소하면 기공성이 우수한 철광석이 얻어진다.",
+      "4": "소성경화는 약 650℃에서 경화가 이루어 진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20090118",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "다음 소결원료 중 광물적 주원료에 해당되는 것은?",
+    "choices": {
+      "1": "자철광",
+      "2": "생석회",
+      "3": "밀스케일",
+      "4": "보크사이트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "date": "20110213",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "금속에 대한 성질을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "25%",
+      "2": "65%",
+      "3": "75%",
+      "4": "85%"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
     "date": "20110213",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 5,
     "question": "금속의 산화(酸化)에 관한 설명 중 틀린 것은?",
     "choices": {
-      "1": "금속의 산화는 이온화 경향이 큰 금속일수록 일어나기 쉽 다.",
+      "1": "스텔라이트",
       "2": "고속도강",
-      "4": "플래티나이트",
-      "3": "퍼멀로이"
+      "3": "퍼멀로이",
+      "4": "플래티나이트"
     },
     "answers": [
       3
@@ -865,17 +3655,53 @@
     "explanation": ""
   },
   {
-    "id": 49,
+    "id": 204,
+    "date": "20110213",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "마그네슘 및 마그네슘 합금의 성질에 대한 설명으로 옳은 것 은?",
+    "choices": {
+      "1": "제진 합금",
+      "2": "초전도 합금",
+      "3": "Mg 합금보다 Al합금의 비강도가 우수하다.",
+      "4": "Mg는 알칼리에 잘 견디나, 산이나 염수에는 침식된다. 9. 기체 급랭법의 일종으로 금속을 기체 상태로 한 후에 급랭하 는 방법으로 제조되는 합금으로서 대표적인 방법은 진공 증 착법이나 스퍼터링법 등이 있다. 이러한 방법으로 제조되는 합금은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20110213",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 11,
+    "question": "다음 중 Sn을 함유하지 않은 청동은?",
+    "choices": {
+      "1": "납 청동",
+      "2": "인 청동",
+      "3": "니켈 청동",
+      "4": "알루미늄 청동"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
     "date": "20110213",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 12,
-    "question": "다음 중 베어링용 합금이 갖추어야 할 조건 중 틀린 것은? ❶ 마찰계수가 크고 저항력이 작을 것",
+    "question": "다음 중 베어링용 합금이 갖추어야 할 조건 중 틀린 것은?",
     "choices": {
-      "2": "충분한 점성과 인성이 있을 것",
+      "1": "입상정",
+      "2": "수지상정",
       "3": "주상정",
-      "4": "결정립",
-      "1": "입상정 ❷ 수지상정"
+      "4": "결정립"
     },
     "answers": [
       1
@@ -883,17 +3709,35 @@
     "explanation": ""
   },
   {
-    "id": 50,
+    "id": 207,
+    "date": "20110213",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "순철의 동소체로만 나열된 것은?",
+    "choices": {
+      "1": "α=Fe, γ-Fe, δ-Fe",
+      "2": "β-Fe, ϵ-Fe, ξ-Fe",
+      "3": "η-Fe, λ-Fe, ρ-Fe",
+      "4": "α-Fe, λ-Fe, ω-Fe"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
     "date": "20110213",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 15,
     "question": "철강 내에 포함된 다음 원소 중 철강의 성질에 미치는 영향 이 가장 큰 것은?",
     "choices": {
-      "1": "입체도 ❷ 전개도",
-      "2": "Mn ❸ C",
-      "4": "정투상도",
-      "3": "사투상도"
+      "1": "입체도",
+      "2": "전개도",
+      "3": "사투상도",
+      "4": "정투상도"
     },
     "answers": [
       3
@@ -901,7 +3745,61 @@
     "explanation": ""
   },
   {
-    "id": 51,
+    "id": 209,
+    "date": "20110213",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 21,
+    "question": "다음 물체를 3각법으로 옳게 표현한 것은? (단, 화살표 방 향은 정면도이다.)",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20110213",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 23,
+    "question": "치수를 기입할 때 주의사항 중 틀린 것은?",
+    "choices": {
+      "1": "치수 숫자는 선에 겹쳐서 기입한다.",
+      "2": "치수를 공정별로 나누어서 기입할 수도 있다.",
+      "3": "치수 수치는 치수선과 교차되는 장소에 기입하지 말아야 한다.",
+      "4": "가공할 때 기준으로 할 곳이 있는 경우는 그 곳을 기준 으로 기입한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20110213",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 24,
+    "question": "CAD 시스템의 하드웨어 중 출력장치에 해당하는 것은?",
+    "choices": {
+      "1": "디지타이저",
+      "2": "마우스",
+      "3": "키보드",
+      "4": "플로터"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
     "date": "20110213",
     "subject": 2,
     "subject_name": "금속제도",
@@ -910,8 +3808,8 @@
     "choices": {
       "1": "슬립(slip)",
       "2": "드롭(drop)",
-      "3": "행깅(hanging) ❹ 벤틸레이션(ventilation)",
-      "4": "인장강도 28. 로체 연와의 침식이 심하게 진행되고 있을 때 취하는 조치 (중장기 노체 보호조치)로 틀린 것은?"
+      "3": "행깅(hanging)",
+      "4": "벤틸레이션(ventilation)"
     },
     "answers": [
       4
@@ -919,53 +3817,71 @@
     "explanation": ""
   },
   {
-    "id": 52,
+    "id": 213,
+    "date": "20110213",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "용선 중 Si를 저하시키기 위한 조업방법으로 옳은 것은?",
+    "choices": {
+      "1": "조업속도를 낮춘다.",
+      "2": "광재의 염기도를 낮춘다.",
+      "3": "철광석량을 감소시킨다.",
+      "4": "로상열(爐床熱)을 낮게 한다. 31. 고로조업시 화입할 때나 로황이 아주 나쁠 때 코크스와 석"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
     "date": "20110213",
     "subject": 3,
     "subject_name": "제선법",
-    "question_no": 40,
-    "question": "고로 가스 청정 설비 중 건식 장비에 해당되는 것은?",
+    "question_no": 32,
+    "question": "고로 슬래그 용도로 부적합한 것은?",
     "choices": {
-      "2": "64%",
-      "3": "74% ❹ 84%",
-      "4": "스프레이 와셔 41. 코크스 중에 회분이 7%, 휘발분이 5%, 수분이 4% 있다면 고정탄소의 양은 몇 %인가?",
-      "1": "54%"
+      "1": "시멘트용",
+      "2": "비료용",
+      "3": "골재대용",
+      "4": "탈활용"
     },
     "answers": [
-      1
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 53,
+    "id": 215,
     "date": "20110213",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 51,
-    "question": "소결설비에서 점화로의 기능에 대한 설명으로 옳은 것은? ❶ 장입된 원료 표면에 착화하는 장치이다.",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "용광로 조업시 연료비(燃料比)를 저하시키기 위한 조업방법 으로 가장 적절한 것은?",
     "choices": {
-      "2": "소결설비의 가열로에 점화하는 장치이다.",
-      "3": "3.35",
-      "4": "4.35",
-      "1": "1.35 ❷ 2.35"
+      "1": "광재량(鑛裁量)을 증가시킨다.",
+      "2": "로내 가스(gas) 이용율을 향상시킨다.",
+      "3": "소결광의 철분(Fe) 함량을 저하시킨다.",
+      "4": "로내의 습분(濕分)을 다량 취입한다."
     },
     "answers": [
-      1
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 54,
+    "id": 216,
     "date": "20110213",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 55,
-    "question": "철광석이 갖추어야 할 성질이 아닌 것은?",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "다음 중 보시(bosh) 부위에 해당되는 곳은?",
     "choices": {
-      "1": "건조대→습원료대→하소대→소결대→용융대 ❷ 습원료대→건조대→하소대→용융대→소결대",
-      "2": "유해 불순물이 적을 것 ❸ 로 안에서 쉽게 부서질 것",
-      "4": "습원료대→하소대→건조대→소결대→용융대",
-      "3": "건조대→하소대→습원료대→용융대→소결대"
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
     },
     "answers": [
       3
@@ -973,7 +3889,349 @@
     "explanation": ""
   },
   {
-    "id": 55,
+    "id": 217,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 35,
+    "question": "산업재해의 문제해결 방법은 다음 중 어느 단계에서 적용해 야 가장 적절한가?",
+    "choices": {
+      "1": "검토",
+      "2": "조치",
+      "3": "실시",
+      "4": "계획"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "로의 내용적이 4800m3, 로정압이 2.5kg/cm2, 1일 출선량 8400t/d, 연료비는 4600kg/T-P일 때 출선비는?",
+    "choices": {
+      "1": "1.75",
+      "2": "2.10",
+      "3": "3.10",
+      "4": "7.75"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "용광로의 횡단면이 원형인 이유로 틀린 것은?",
+    "choices": {
+      "1": "가스 상승을 균일하게 하기 위하여",
+      "2": "열의 분포를 균일하게 하기 위하여",
+      "3": "열의 발산을 크게 하기 위하여",
+      "4": "장입물 강하를 균일하게 하기 위하여"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "인(P)은 선철 중에 유해하므로 가능한 한 적게 하기 위한 방법으로 옳은 것은?",
+    "choices": {
+      "1": "장입물 중의 인을 많게 한다.",
+      "2": "로상 온도를 낮춘다.",
+      "3": "염기도를 낮게 한다.",
+      "4": "저속 조업을 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "다음 중 염기성 내화물에 속하는 것은?",
+    "choices": {
+      "1": "마그네시아질",
+      "2": "점토잘",
+      "3": "샤모트질",
+      "4": "규산질"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "고로 가스 청정 설비 중 건식 장비에 해당되는 것은?",
+    "choices": {
+      "1": "54%",
+      "2": "64%",
+      "3": "74%",
+      "4": "84%"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "다음의 고로 장입물 중 환원되기 쉬운 것은?",
+    "choices": {
+      "1": "MgO",
+      "2": "FeO",
+      "3": "Al O",
+      "4": "CaO 2 3"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 43,
+    "question": "고로에 사용되는 내화재가 갖추어야 할 조건으로 틀린 것 은?",
+    "choices": {
+      "1": "열충격이나 마모에 강할 것",
+      "2": "고온에서 용융, 연화하지 않을 것",
+      "3": "열전도도는 매우 높고, 냉각효과가 없을 것",
+      "4": "용선, 용재 및 가스에 대하여 화학적으로 안정할 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 44,
+    "question": "다음 중 고로의 주상설비가 아닌 것은?",
+    "choices": {
+      "1": "Mud Gun",
+      "2": "개공기",
+      "3": "주선기",
+      "4": "집진장치"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "date": "20110213",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 45,
+    "question": "다음 중 부유선광법에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "자철광 또는 사철광을 선광하여 맥석을 분리하는 방법",
+      "2": "갈철광 등과 같이 진흙이 붙어 있는 광석을 물로 씻어서 품위를 높이는 방법",
+      "3": "중력에 의하여 큰 광석은 가라앉히고, 작은 광석은 뜨게 하여 분리하는 방법",
+      "4": "비중의 차를 이용하여 광석으로부터 맥석을 선별, 제거 하거나 또는 광석 중의 유효 광물을 분리하는 방법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "다음 중 소결광의 환원분화를 조장하는 화합물은?",
+    "choices": {
+      "1": "마그네타이트(Magnetite)",
+      "2": "페이어라이트(Fayalite)",
+      "3": "칼슘페라이트(Calcium Ferrite)",
+      "4": "재산화 해머타이트(Hematite)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 47,
+    "question": "다음 중 소결반응에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "저온에서는 확산결합을 한다.",
+      "2": "저융질의 슬래그일수록 용융결합을 한다.",
+      "3": "용융결합은 세립의 자철광을 다량으로 배합할 때 일어나 는 결합이다.",
+      "4": "확산결합의 강도는 아주 강하며, 코크스가 많거나 원료 입도가 미세할 때 볼 수 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 48,
+    "question": "소결조업 중 수분첨가의 영향으로 틀린 것은?",
+    "choices": {
+      "1": "미분원료의 응집에 의한 통기성이 향상된다.",
+      "2": "소결층의 더스트(Dust) 흡입 비산을 방지한다.",
+      "3": "소결층 내의 온도 구배를 개선하여 열효율을 높인다.",
+      "4": "배가스(gas) 온도가 하강하여 열효율이 나빠진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 49,
+    "question": "장입물의 입도 중 소결광의 하한과 상한의 입도는?",
+    "choices": {
+      "1": "하한 5~6mm, 상한 50~75mm",
+      "2": "하한 8~10mm, 상한 25~30mm",
+      "3": "하한 15~30mm, 상한 75~90mm",
+      "4": "하한 25~35mm, 상한 100~150mm"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "고로 내에서 코크스의 역할이 아닌 것은?",
+    "choices": {
+      "1": "산화제로서의 역할",
+      "2": "연소에 따른 열원으로서의 역할",
+      "3": "고로 내의 통기를 잘하기 위한 Spacer로서의 역할",
+      "4": "선철, 슬래그에 열을 주는 열교환 매개체로서의 역할"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "소결설비에서 점화로의 기능에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "1.35",
+      "2": "2.35",
+      "3": "3.35",
+      "4": "4.35"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "다음의 철광석 중 철분의 함량이 가장 많은 것은?",
+    "choices": {
+      "1": "적철광",
+      "2": "자철광",
+      "3": "갈철광",
+      "4": "능철광"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "철광석이 갖추어야 할 성질이 아닌 것은?",
+    "choices": {
+      "1": "건조대→습원료대→하소대→소결대→용융대",
+      "2": "습원료대→건조대→하소대→용융대→소결대",
+      "3": "건조대→하소대→습원료대→용융대→소결대",
+      "4": "습원료대→하소대→건조대→소결대→용융대"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "date": "20110213",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "소결장치 중 드럼믹서(Drum mixer)의 역할이 아닌 것은?",
+    "choices": {
+      "1": "혼합",
+      "2": "조립",
+      "3": "조습",
+      "4": "파쇄"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
     "date": "20110213",
     "subject": 4,
     "subject_name": "소결법",
@@ -991,15 +4249,33 @@
     "explanation": ""
   },
   {
-    "id": 56,
+    "id": 237,
+    "date": "20120212",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "다음 중 두랄루민과 관련이 없는 것은?",
+    "choices": {
+      "1": "용체화처리를 한다.",
+      "2": "상온시효처리를 한다.",
+      "3": "알루미늄 합금이다.",
+      "4": "단조경화 합금이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
     "date": "20120212",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 2,
     "question": "다음 중 반도체제조용으로 사용되는 금속으로 옳은 것은?",
     "choices": {
-      "1": "용체화처리 ❷ 개량처리",
-      "2": "다결정 ❸ 주상 결정",
+      "1": "용체화처리",
+      "2": "개량처리",
       "3": "접종처리",
       "4": "구상화처리"
     },
@@ -1009,17 +4285,17 @@
     "explanation": ""
   },
   {
-    "id": 57,
+    "id": 239,
     "date": "20120212",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 6,
     "question": "아공석강의 탄소 함유량(%C)으로 옳은 것은?",
     "choices": {
-      "2": "0.8~2.0%C",
+      "1": "내식성",
+      "2": "크리프",
       "3": "피로강도",
-      "4": "전기전도도",
-      "1": "내식성 ❷ 크리프"
+      "4": "전기전도도"
     },
     "answers": [
       1
@@ -1027,17 +4303,53 @@
     "explanation": ""
   },
   {
-    "id": 58,
+    "id": 240,
     "date": "20120212",
-    "subject": 2,
-    "subject_name": "금속제도",
-    "question_no": 19,
-    "question": "제3각법에 따라 투상도의 배치를 설명한 것 중 옳은 것은? ❶ 정면도, 평면도, 우측면도 또는 좌측면도의 3면도로 나타 낼 때가 많다.",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "공구용 재료로서 구비해야 할 조건이 아닌 것은?",
     "choices": {
-      "2": "간단한 물체는 평면도와 측면도의 2면도로만 나타낸다.",
-      "3": "억지 끼워 맞춤",
-      "4": "축 기준 끼워 맞춤",
-      "1": "헐거운 끼워 맞춤 ❷ 중간 끼워 맞춤"
+      "1": "강인성이 커야 한다.",
+      "2": "내마멸성이 작아야 한다.",
+      "3": "열처리와 공작이 용이해야 한다.",
+      "4": "상온과 고온에서의 경도가 높아야 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "date": "20120212",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "다음 중 황동 합금에 해당되는 것은?",
+    "choices": {
+      "1": "질화강",
+      "2": "톰백",
+      "3": "스텔라이트",
+      "4": "화이트 메탈"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "date": "20120212",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "강괴의 종류에 해당되지 않는 것은?",
+    "choices": {
+      "1": "쾌삭강",
+      "2": "캡드강",
+      "3": "킬드강",
+      "4": "림드강"
     },
     "answers": [
       1
@@ -1045,17 +4357,17 @@
     "explanation": ""
   },
   {
-    "id": 59,
+    "id": 243,
     "date": "20120212",
-    "subject": 2,
-    "subject_name": "금속제도",
-    "question_no": 26,
-    "question": "다음 도면의 크기가 a=594, b=841 일 때 그림에 대한 설명 으로 옳은 것은?",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "다음 중 Mg 합금에 해당하는 것은?",
     "choices": {
-      "1": "도면 크기의 호칭은 A0 이다.",
-      "2": "굵은 실선",
-      "4": "굵은 1점 쇄선",
-      "3": "가는 파선"
+      "1": "실루민",
+      "2": "문쯔메탈",
+      "3": "엘렉트론",
+      "4": "배빗메탈"
     },
     "answers": [
       3
@@ -1063,15 +4375,285 @@
     "explanation": ""
   },
   {
-    "id": 60,
+    "id": 244,
+    "date": "20120212",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "다음 중 슬립(slip)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "원자 밀도가 가장 큰 격자면에서 잘 일어난다.",
+      "2": "원자 밀도가 최대인 방향으로 잘 일어난다.",
+      "3": "슬립이 계속 진행하면 결정은 점점 단단해져서 변형이 쉬어진다.",
+      "4": "다결정에서는 외력이 가해질 때 슬립방향이 서로 달라 간섭을 일으킨다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "date": "20120212",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "구상흑연 주철품의 기호표시에 해당하는 것은?",
+    "choices": {
+      "1": "WMC 490",
+      "2": "BMC 340",
+      "3": "GCD 450",
+      "4": "PMC 490"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 16,
+    "question": "도면의 척도를 “NS\"로 표시하는 경우는?",
+    "choices": {
+      "1": "그림의 형태가 척도에 비례하지 않을 때",
+      "2": "척도가 두 배일 때",
+      "3": "축척임을 나타낼 때",
+      "4": "배척임을 나타낼 때"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 17,
+    "question": "제도에서 치수숫자와 같이 사용하는 기호가 아닌 것은?",
+    "choices": {
+      "1": "ø",
+      "2": "R",
+      "3": "□",
+      "4": "Y"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 19,
+    "question": "제3각법에 따라 투상도의 배치를 설명한 것 중 옳은 것은?",
+    "choices": {
+      "1": "헐거운 끼워 맞춤",
+      "2": "중간 끼워 맞춤",
+      "3": "억지 끼워 맞춤",
+      "4": "축 기준 끼워 맞춤"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 21,
+    "question": "대상물의 좌표면이 투상면에 평행인 직각 투상법은 어느 것 인가?",
+    "choices": {
+      "1": "정투사법",
+      "2": "사투상법",
+      "3": "등각투상법",
+      "4": "부등각투상법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "리드가 12mm 인 3줄 나사의 피치는 몇 mm 인가?",
+    "choices": {
+      "1": "3",
+      "2": "4",
+      "3": "5",
+      "4": "6"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 23,
+    "question": "다음 중 치수 기입의 기본 원칙에 대한 설명으로 틀린 것 은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "구멍의 치수 기입에서 관통 구멍이 원형으로 표시된 투 상도에는 그 깊이를 기입한다.",
+      "4": "도면에 길이의 크기와 자세 및 위치를 명확하게 표시해 야 한다. 24. 투상도 중에서 화살표 방향에서 본 투상도가 정면 도이면 평면도로 적합한 것은?"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "제도에 사용되는 문자의 크기는 무엇으로 나타내는가?",
+    "choices": {
+      "1": "문자의 굵기",
+      "2": "문자의 넓이",
+      "3": "문자의 높이",
+      "4": "문자의 장평"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "다음 도면의 크기가 a=594, b=841 일 때 그림에 대한 설명 으로 옳은 것은?",
+    "choices": {
+      "1": "가는 실선",
+      "2": "굵은 실선",
+      "3": "가는 파선",
+      "4": "굵은 1점 쇄선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 28,
+    "question": "열풍로의 축열실 내화벽돌의 조건으로 옳은 것은?",
+    "choices": {
+      "1": "백필터(Bag filter)",
+      "2": "제진기(Dust Catcher)",
+      "3": "전기집진기(Electric Precipitator)",
+      "4": "벤츄리스크러버(Venturi Scrubber)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "date": "20120212",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "다음 반응 중 직접 환원 반응은?",
+    "choices": {
+      "1": "Fe O + CO ⇄ 3FeO + CO 3 4 2",
+      "2": "FeO + CO ⇄ Fe + CO 2",
+      "3": "3Fe O + CO ⇄ 2Fe O +CO 2 3 3 4 2",
+      "4": "FeO + C ⇄ Fe + CO"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "고로내 열수지 계산시 출열에 해당하는 것은?",
+    "choices": {
+      "1": "열풍 현열",
+      "2": "용선 현열",
+      "3": "슬래그 생성열",
+      "4": "코크스 발열량"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "다음 중 고정탄소(%)를 구하는 식으로 옳은 것은?",
+    "choices": {
+      "1": "예열층",
+      "2": "환원층",
+      "3": "가탄층",
+      "4": "용해층"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "고로내에서의 코크스 역할이 아닌 것은?",
+    "choices": {
+      "1": "열원",
+      "2": "환원제",
+      "3": "통기성",
+      "4": "탈황"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 259,
     "date": "20120212",
     "subject": 3,
     "subject_name": "제선법",
     "question_no": 35,
     "question": "선철 중에 Si를 높이기 위한 조치 방법이 아닌 것은?",
     "choices": {
-      "1": "행잉(hanging) ❷ 레이스 웨이(race way)",
-      "2": "염기도를 낮게 한다.",
+      "1": "행잉(hanging)",
+      "2": "레이스 웨이(race way)",
       "3": "풀루딩(flooding)",
       "4": "슬로핑(slopping)"
     },
@@ -1081,14 +4663,122 @@
     "explanation": ""
   },
   {
-    "id": 61,
+    "id": 260,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "다음 중 고로 원료로 가장 많이 사용되는 적철광을 나타내 는 화학식은?",
+    "choices": {
+      "1": "Fe O",
+      "2": "Fe O 3 4 2 3",
+      "3": "Fe O ㆍH O",
+      "4": "2Fe Oㆍ3H O 3 4 2 2 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "고로의 생산물인 선철을 파면에 의해 분류할 때 이에 해당 되지 않는 것은?",
+    "choices": {
+      "1": "백선철",
+      "2": "은선철",
+      "3": "반선철",
+      "4": "회선철"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "고로에서 용선을 빼내는 곳은?",
+    "choices": {
+      "1": "밸리부",
+      "2": "열풍구",
+      "3": "출선구",
+      "4": "장입 기준선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "고로 조업에서 출선 할 때 사용되는 스키머의 역할은?",
+    "choices": {
+      "1": "용선과 슬래그를 분리하는 역할",
+      "2": "용선을 레이들로 보내는 역할",
+      "3": "슬래그를 레이들에 보내는 역할",
+      "4": "슬래그를 슬래그피트(slagpit)로 보내는 역할 41. 품위 57%의 광석에서 철분 93%의 선철 1톤을 만드는데 필 요한 광석의 양은 몇 kg 인가? (단, 철분이 모두 환원되어 철의 손실은 없다.)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "정상적인 조업일 때 노정가스 성분 중 가장 적게 함유되어 있는 것은?",
+    "choices": {
+      "1": "H",
+      "2": "N 2 2",
+      "3": "CO",
+      "4": "CO 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "date": "20120212",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 43,
+    "question": "선철 중의 P 을 적게 하기 위한 사항으로 옳은 것은?",
+    "choices": {
+      "1": "노상온도를 낮춘다.",
+      "2": "염기도를 낮게 한다.",
+      "3": "속도 늦은 조업을 실시한다.",
+      "4": "장입물 중 P 함유량이 많은 것을 선정한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 266,
     "date": "20120212",
     "subject": 3,
     "subject_name": "제선법",
     "question_no": 44,
     "question": "다음 중 고로의 장입물에 해당되지 않는 것은?",
     "choices": {
-      "1": "철광석",
+      "1": "연소가 어려워진다.",
       "2": "폭발범위는 넓어진다.",
       "3": "화염온도는 높아진다.",
       "4": "점화에너지는 감소한다."
@@ -1099,17 +4789,17 @@
     "explanation": ""
   },
   {
-    "id": 62,
+    "id": 267,
     "date": "20120212",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 46,
-    "question": "생펠렛(pellet)을 조립하기 위한 조건으로 틀린 것은? ❶ 분입자 간에 수분이 없어야 한다.",
+    "question": "생펠렛(pellet)을 조립하기 위한 조건으로 틀린 것은?",
     "choices": {
+      "1": "Belt Feeder",
       "2": "Vibrating Feeder",
-      "3": "Table Feeder ❹ Constant Feed weigher",
-      "4": "균등하게 조립될 수 있는 전동법이어야 한다. 47. 저광조에서 소결원료가 밸트 상에 배출되면 자동적으로 밸 트 속도를 가감하여 목표량만큼 절출하는 장치는?",
-      "1": "Belt Feeder"
+      "3": "Table Feeder",
+      "4": "Constant Feed weigher"
     },
     "answers": [
       1
@@ -1117,53 +4807,17 @@
     "explanation": ""
   },
   {
-    "id": 63,
+    "id": 268,
     "date": "20120212",
     "subject": 4,
     "subject_name": "소결법",
-    "question_no": 54,
-    "question": "소결광의 낙하 강도 지수(SI)를 구하는 시험방법으로 옳은 것은? ❶ 2m 높이에서 4회 낙하시킨 후 입도가 +10mm 인 시료 무게의 시험 전 시료 무게에 대한 백분율로 표시",
+    "question_no": 48,
+    "question": "소결조업에 사용되는 용어 중 FFS 가 의미하는 것은?",
     "choices": {
-      "2": "배소(roasting)",
-      "3": "부유선광법(flotation)",
-      "4": "비중 선광법(Gravity separation)",
-      "1": "SiO /Al O"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 64,
-    "date": "20120212",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 60,
-    "question": "소결기 Grate Bar 위에 깔아주는 상부광의 기능이 아닌 것 은?",
-    "choices": {
-      "1": "",
-      "3": "",
-      "4": "",
-      "2": ""
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 65,
-    "date": "20130721",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 2,
-    "question": "다음 중 중금속에 해당되는 것은?",
-    "choices": {
-      "1": "Al",
-      "2": "톰백",
-      "4": "스테인리스",
-      "3": "Y합금"
+      "1": "고로 가스",
+      "2": "코크스 가스",
+      "3": "화염진행속도",
+      "4": "최고도달온도"
     },
     "answers": [
       3
@@ -1171,17 +4825,35 @@
     "explanation": ""
   },
   {
-    "id": 66,
-    "date": "20130721",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 4,
-    "question": "다음의 철광석 중 자철광을 나타낸 화학식으로 옳은 것은?",
+    "id": 269,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 49,
+    "question": "괴상법의 종류 중 단광법에 해당되지 않는 것은?",
     "choices": {
-      "1": "하드필드강 ❷ 마우러조직도",
-      "3": "톰백(tombac)",
-      "4": "망간 황동",
-      "2": "네이벌 황동(navel brass)"
+      "1": "크루프(krupp)법",
+      "2": "다이스(dise)법",
+      "3": "프레스(press)법",
+      "4": "플런저(plunger)법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "소결조업 중 배합원료에 수분을 첨가하는 이유가 아닌 것 은?",
+    "choices": {
+      "1": "소결층 내의 온도 구배를 개선하기 위해서",
+      "2": "배가스 온도를 상승시키기 위해서",
+      "3": "미분원료의 응집에 의한 통기성을 향상시키기 위해서",
+      "4": "소결층의 Dust 흡입 비산을 방지하기 위해서"
     },
     "answers": [
       2
@@ -1189,17 +4861,287 @@
     "explanation": ""
   },
   {
-    "id": 67,
+    "id": 271,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 52,
+    "question": "자용성 소결광의 사용시 이점에 대한 설명이 틀린 것은?",
+    "choices": {
+      "1": "소결광 중에는 페이얼라이트 함유량이 커서 피환원성이 크다.",
+      "2": "코크스가 저하되고, 출선량이 증대된다.",
+      "3": "로 황이 안정되어 고온 송풍이 가능하다.",
+      "4": "노 내의 열량 소비를 감소시킨다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "소결반응에서 용융결합이란 무엇인가?",
+    "choices": {
+      "1": "저온에서 소결이 행해지는 경우 입자가 기화해서 입자 표면 접촉부의 확산 반응에 의해 결합이 일어난것",
+      "2": "고온에서 소결한 경우 원료 중의 슬래그 성분이 기화해 서 입자가 슬래그로 단단하게 결합한 것",
+      "3": "고온에서 소결한 경우 원료 중의 슬래그 성분이 용융해 서 입자가 슬래그 성분으로 단단하게 결합한 것",
+      "4": "고온에서 소결이 행해지는 경우 입자가 용융해서 입자 표면 접촉부의 확산 반응에 의해 결합이 일어난 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "소결광의 낙하 강도 지수(SI)를 구하는 시험방법으로 옳은 것은?",
+    "choices": {
+      "1": "하소(calcination)",
+      "2": "배소(roasting)",
+      "3": "부유선광법(flotation)",
+      "4": "비중 선광법(Gravity separation)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "다음 중 소결기의 급광장치에 속하지 않는 것은?",
+    "choices": {
+      "1": "Hopper",
+      "2": "Wind box",
+      "3": "Cut gate",
+      "4": "Shuttle Conveyor"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "date": "20120212",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "소결기 Grate Bar 위에 깔아주는 상부광의 기능이 아닌 것 은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "순철에서 동소 변태가 일어나는 온도는 약 몇 ℃인가?",
+    "choices": {
+      "1": "210℃",
+      "2": "700℃",
+      "3": "912℃",
+      "4": "1600℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "다음 중 중금속에 해당되는 것은?",
+    "choices": {
+      "1": "켈밋",
+      "2": "톰백",
+      "3": "Y합금",
+      "4": "스테인리스"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 278,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "다음의 철광석 중 자철광을 나타낸 화학식으로 옳은 것은?",
+    "choices": {
+      "1": "에드미럴티 황동(admiralty brass)",
+      "2": "네이벌 황동(navel brass)",
+      "3": "톰백(tombac)",
+      "4": "망간 황동"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 279,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "Fe-C 평형상태도에서 보기와 같은 반응식은?",
+    "choices": {
+      "1": "포정반응",
+      "2": "편정반응",
+      "3": "공정반응",
+      "4": "공석반응"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 280,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "만능 재료시험기로 인장 시험을 할 경우 값을 구할 수 없는 금속의 기계적 성질은?",
+    "choices": {
+      "1": "인장강도",
+      "2": "항복강도",
+      "3": "충격값",
+      "4": "연신율"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 281,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "다음 중 고 투자율의 자성합금은?",
+    "choices": {
+      "1": "NH , CO",
+      "2": "He, Ar 3",
+      "3": "하스텔로이(hastelloy)",
+      "4": "퍼멀로이(pemalloy) 11. 열처리로에 사용하는 분위기 가스 중 볼활성 가스로만 짝지 어진 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 282,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "마그네슘 및 마그네슘 합금의 성질에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "Mg의 열전도율은 Cu와 Al보다 높다.",
+      "2": "Mg의 전기전도율은 Cu와 Al보다 높다.",
+      "3": "Mg합금보다 Al합금의 비강도가 우수하다.",
+      "4": "Mg는 알칼리에 잘 견디나 산이나 염수에는 침식된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 283,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "탄소강 재료에 포함된 5대 원소가 아닌 것은?",
+    "choices": {
+      "1": "C",
+      "2": "P",
+      "3": "Mn",
+      "4": "Al"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 284,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "보기는 강의 심랭 처리에 대한 설명이다. (A), (B)에 들어갈 용어로 옳은 것은?",
+    "choices": {
+      "1": "(A) : 잔류 오스테나이트, (B) : 마텐자이트",
+      "2": "(A) : 마텐자이트, (B) : 베이나이트",
+      "3": "(A) : 마텐자이트, (B) : 소르바이트",
+      "4": "(A) : 오스테나이트, (B) : 펄라이트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 285,
+    "date": "20130721",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "Al-Mg계 합금에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "Al-Mg계 합금은 내식성 및 강도가 우수하다.",
+      "2": "Al-Mg계 평형상태도에서는 450℃에서 공정을 만든다.",
+      "3": "Al-Mg계 합금에 Si를 0.3% 이상 첨가하여 연성을 향상 시킨다.",
+      "4": "Al에 4~10%Mg까지 함유한 강을 하이드로날륨이라 한 다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 286,
     "date": "20130721",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 16,
     "question": "기계 제작에 필요한 예산을 산출하고, 주문품의 내용을 설 명할 때 이용되는 도면은?",
     "choices": {
-      "2": "설명도",
+      "1": "2.5",
+      "2": "5",
       "3": "50",
-      "4": "100",
-      "1": "2.5 ❷ 5"
+      "4": "100"
     },
     "answers": [
       1
@@ -1207,17 +5149,125 @@
     "explanation": ""
   },
   {
-    "id": 68,
+    "id": 287,
+    "date": "20130721",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 19,
+    "question": "볼트를 고정하는 방법에 따라 분류할 때, 물체의 한쪽에 암 나사를 깍은 다음 나사박기를 하여 죄며 너트를 사용하지 않는 볼트는?",
+    "choices": {
+      "1": "관통볼트",
+      "2": "기초볼트",
+      "3": "탭볼트",
+      "4": "스터드 볼트"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 288,
+    "date": "20130721",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 21,
+    "question": "도면의 크기에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "제도 용지의 세로와 가로의 비는 1:2이다.",
+      "2": "제도 용지의 크기는 A열 용지 사용이 원칙이다.",
+      "3": "도면의 크기는 사용하는 제도 용지의 크기로 나타낸다.",
+      "4": "큰 토면을 접을 때는 앞면에 표제란이 보이도록 A4의 크 기로 접는다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 289,
+    "date": "20130721",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "KS의 부문별 기호 중 기본 부문에 해당되는 기호는?",
+    "choices": {
+      "1": "KS A",
+      "2": "KS B",
+      "3": "KS C",
+      "4": "KS D"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 290,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "출선시 용선과 같이 배출되는 슬래그를 분리하는 장치는?",
+    "choices": {
+      "1": "블랜딩(Blending)",
+      "2": "워싱(Washing)",
+      "3": "정립(Sizing)",
+      "4": "선광(Dressing) 34. 고로의 영역(zone) 중 광석의 환원, 연화 융착이 거의 동시"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 291,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "고로의 유효 내용적을 나타낸 것은?",
+    "choices": {
+      "1": "노저에서 풍구까지의 용적",
+      "2": "노저에서 장입 기준선까지의 용적",
+      "3": "출선구에서 장입 기준선까지의 용적",
+      "4": "풍구 수준면에서 장입 기준선까지의 용적"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 292,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "다음 중 고로제선법의 문제점을 보완하여 저렴한 분광석, 분탄을 직접 노에 넣어 용선을 생산하는 차세대 제선법은?",
+    "choices": {
+      "1": "BF법",
+      "2": "LD법",
+      "3": "파이넥스법",
+      "4": "스트립 캐스팅법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 293,
     "date": "20130721",
     "subject": 3,
     "subject_name": "제선법",
     "question_no": 38,
     "question": "고로에서 슬래그의 성분 중 가장 많은 양을 차지하는 것은?",
     "choices": {
-      "2": "1200",
+      "1": "딥 레그(Dip leg)",
+      "2": "분산판 노즐(Nozzle)",
       "3": "친니스 햇(Chiness hat)",
-      "4": "가이드 파이프(Guidp pipe)",
-      "1": "딥 레그(Dip leg) ❷ 분산판 노즐(Nozzle)"
+      "4": "가이드 파이프(Guidp pipe)"
     },
     "answers": [
       1
@@ -1225,17 +5275,89 @@
     "explanation": ""
   },
   {
-    "id": 69,
+    "id": 294,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "고로용 철광석의 입도가 작을 경우, 고로 조업에 미치는 영 향과 관련이 없는 것은?",
+    "choices": {
+      "1": "통기성이 저하된다.",
+      "2": "산화성이 저하된다.",
+      "3": "걸림(Hanging)사고의 원인이 된다.",
+      "4": "가스분포가 불균일하여 노황을 나쁘게 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 295,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "용광로의 고압 조업이 갖는 효과가 아닌 것은?",
+    "choices": {
+      "1": "연진이 감소한다.",
+      "2": "출선량이 증가한다.",
+      "3": "로정 온도가 올라간다.",
+      "4": "코크스의 비가 감소한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 296,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 43,
+    "question": "다음 중 산성 내화물의 주성분으로 옳은 것은?",
+    "choices": {
+      "1": "SiO",
+      "2": "MgO 2",
+      "3": "CaO",
+      "4": "Al O 2 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 297,
+    "date": "20130721",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 44,
+    "question": "철광석의 종류와 주성분의 화학식이 틀린 것은?",
+    "choices": {
+      "1": "갈철광 : Fe SO",
+      "2": "적철광 : Fe O 2 4 2 3",
+      "3": "자철광 : Fe O",
+      "4": "능철광 : FeCO 3 4 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 298,
     "date": "20130721",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 46,
     "question": "소결 배합원료를 급광할 때 가장 바람직한 편석은?",
     "choices": {
-      "2": "폭 방향의 점도편석",
+      "1": "전팽창(TD)",
+      "2": "휘발분(VM)",
       "3": "유동도(MF)",
-      "4": "조직평형지수(CBI)",
-      "1": "전팽창(TD) ❷ 휘발분(VM)"
+      "4": "조직평형지수(CBI)"
     },
     "answers": [
       1
@@ -1243,14 +5365,230 @@
     "explanation": ""
   },
   {
-    "id": 70,
+    "id": 299,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 48,
+    "question": "소결 원료 중 조재(造滓)성분에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "Al 2 O 3 는 결정수를 감소시킨다.",
+      "2": "SiO 2 는 제품의 강도를 감소시킨다.",
+      "3": "MgO의 증가에 따라 생산성을 증가시킨다.",
+      "4": "CaO의 증가에 따라 제품의 강도를 감소시킨다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 300,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 49,
+    "question": "철광석의 피환원성에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "산화도가 높은 것이 좋다.",
+      "2": "기공률이 클수록 환원이 잘된다.",
+      "3": "다른 환원조건이 같으면 입도가 작을수록 좋다.",
+      "4": "페이라라이트(fayalite)는 환원성을 좋게 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 301,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "코크스(coke)가 고로 내에서의 역할을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "철 중에 용해되어 선철을 만든다.",
+      "2": "철의 용융점을 높이는 역할을 한다.",
+      "3": "고로 안의 통기성을 좋게 하기 위한 돌로 역할을 한다.",
+      "4": "일산화탄소를 생성하여 철광석을 간접 환원하는 역할을 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "석탄의 풍화에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "온도가 높으면 풍화는 크게 촉진된다.",
+      "2": "미분은 표면적이 크기 때문에 풍화되기 쉽다.",
+      "3": "탄화도가 높은 석탄일수록 풍화되기 쉽다.",
+      "4": "환기가 양호하면 열방산이 많아 좋으나 새로운 공기가 공급되기 때문에 발열하기 쉬워진다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 52,
+    "question": "소결기의 급광장치 종류가 아닌 것은?",
+    "choices": {
+      "1": "호퍼",
+      "2": "스크린",
+      "3": "드럼 피더",
+      "4": "셔틀 컨베이어"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "다음 중 소결광 품질향상을 위한 대책에 해당되지 않는 것 은?",
+    "choices": {
+      "1": "분화 방지",
+      "2": "사전처리 강화",
+      "3": "소결 통기성 증대",
+      "4": "유효 슬래그 감소"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "제게르 후의 번호 SK33의 용융 연화점 온도는 몇 ℃인가?",
+    "choices": {
+      "1": "1630℃",
+      "2": "1690℃",
+      "3": "1730℃",
+      "4": "1850℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "코크스의 연소실 구조에 따른 분류 중 순환식에 해당되는 것은?",
+    "choices": {
+      "1": "코퍼스식",
+      "2": "오토식",
+      "3": "쿠로다식",
+      "4": "월푸투식"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 57,
+    "question": "고로용 철광석의 구비조건으로 틀린 것은?",
+    "choices": {
+      "1": "산화력이 우수해야 한다.",
+      "2": "적정 입도를 가져야 한다.",
+      "3": "철 함유량이 많아야 한다.",
+      "4": "물리성상이 우수해야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 58,
+    "question": "배소광과 비교한 소결광의 특징이 아닌 것은?",
+    "choices": {
+      "1": "충진 밀도가 크다.",
+      "2": "기공도가 크다.",
+      "3": "빠른 기체속도에 의해 날아가기 쉽다.",
+      "4": "분말 형태의 일반 배소광보다 부피가 작다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "코크스의 생산량을 구하는 식으로 옳은 것은?",
+    "choices": {
+      "1": "(oven당 석탄의 장입량×코크스 실수율)-압출문수",
+      "2": "oven당 석탄의 장입량-(코크스 실수율×입출문수)",
+      "3": "oven당 석탄의 장입량÷코크스 실수율÷압출문수",
+      "4": "oven당 석탄의 장입량×코크스 실수율×압출문수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "date": "20130721",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "드와이트 로이드식 소결기에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "배기 장치의 누풍량이 많다.",
+      "2": "고로의 자동화가 가능하다.",
+      "3": "소결이 불량할 때 재점화가 가능하다.",
+      "4": "연속식이기 때문에 대량생산에 적합하다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 311,
     "date": "20140126",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 1,
     "question": "비중으로 중금속(heavy metal)을 옳게 구분한 것은?",
     "choices": {
-      "1": "비중이 약 2.0 이하인 금속",
+      "1": "칠드 주철",
       "2": "흑심 가단 주철",
       "3": "백심 가단 주철",
       "4": "구상 흑연 주철"
@@ -1261,7 +5599,7 @@
     "explanation": ""
   },
   {
-    "id": 71,
+    "id": 312,
     "date": "20140126",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -1270,8 +5608,8 @@
     "choices": {
       "1": "침탄강",
       "2": "강인강",
-      "4": "일정한 온도 범위 안에서 급격히 비연속적인 변화가 일어 난다. 4. 구조용 합금강과 공구용 합금강을 나눌 때 기어, 축 등에 사 용되는 구조용 합금강 재료에 해당되지 않는 것은?",
-      "3": "질화강 ❹ 고속도강"
+      "3": "질화강",
+      "4": "고속도강"
     },
     "answers": [
       3
@@ -1279,17 +5617,17 @@
     "explanation": ""
   },
   {
-    "id": 72,
+    "id": 313,
     "date": "20140126",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 5,
     "question": "다음 중 경질 자성재료에 해당되는 것은?",
     "choices": {
-      "1": "Si 강판 ❷ Nd 자석",
+      "1": "Ti",
+      "2": "Sn",
       "3": "Pb",
-      "4": "Co",
-      "2": "Sn"
+      "4": "Co"
     },
     "answers": [
       2
@@ -1297,17 +5635,17 @@
     "explanation": ""
   },
   {
-    "id": 73,
+    "id": 314,
     "date": "20140126",
     "subject": 1,
     "subject_name": "금속재료일반",
     "question_no": 7,
-    "question": "고강도 AI 합금인 초초두랄루민의 합금에 대한 설명으로 틀 린 것은? ❶ AI 합금중에서 최저의 강도를 갖는다.",
+    "question": "고강도 AI 합금인 초초두랄루민의 합금에 대한 설명으로 틀 린 것은?",
     "choices": {
+      "1": "자성",
       "2": "비중",
-      "3": "비열 ❹ 탄성률",
-      "4": "성분 조성은 AI-1.5~2.5%Cu-7~9%Zn-1.2~1.8%Mg-0.3%~0.5%Mn -0.1~0.4%Cr이다. 8. Ni-Fe계 합금인 엘린바(elinvar)는 고급시계, 지진계, 압력계, 스프링 저울, 다이얼 게이지 등에 사용되는데 이는 재료의 어 떤 특성 때문에 사용하는가?",
-      "1": "자성"
+      "3": "비열",
+      "4": "탄성률"
     },
     "answers": [
       1
@@ -1315,143 +5653,17 @@
     "explanation": ""
   },
   {
-    "id": 74,
+    "id": 315,
     "date": "20140126",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 14,
-    "question": "열간가공을 끝맺는 온도를 무엇이라 하는가?",
+    "question_no": 9,
+    "question": "용융액에서 두 개의 고체가 동시에 나오는 반응은?",
     "choices": {
-      "2": "재결정 온도",
-      "3": "퍼민바",
-      "4": "인코넬",
-      "1": "모넬 메탈 ❷ 콘스탄탄"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 75,
-    "date": "20140126",
-    "subject": 2,
-    "subject_name": "금속제도",
-    "question_no": 27,
-    "question": "다음 도면에 보기와 같이 표시된 금속재료의 기호 중 330이 의미하는 것은?",
-    "choices": {
-      "2": "B",
-      "3": "C ❹ D",
-      "4": "재질을 나타내는 기호 28. 그림과 같은 고로에서 미환원의 철, 규소, 망간이 직접환원 을 받는 부분은?",
-      "1": "A"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 76,
-    "date": "20140126",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 33,
-    "question": "철광석의 피환원성은 좋게 하는 것이 아닌 것은?",
-    "choices": {
-      "1": "슬래그의 용해",
-      "2": "환원가스의 생성 ❸ 철광석의 간접환원",
-      "4": "석탄의 건조 및 탈가스화",
-      "3": "2.63 ❹ 3.33 35. 용융 환원로(COREX)는 환원로와 용융로 두 개의 반응기로 구분한다. 이 때 용융로의 역할이 아닌 것은?"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 77,
-    "date": "20140126",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 41,
-    "question": "안전 보호구의 용도가 옳게 짝지어진 것은?",
-    "choices": {
-      "1": "연소대 ❷ 적하대",
-      "2": "로저 파손 ❸ 적열(hot spot)",
-      "4": "노상대",
-      "3": "융착대"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 78,
-    "date": "20140126",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 51,
-    "question": "소결의 일반적인 공정 순서로 옳은 것은?",
-    "choices": {
-      "1": "CO＞CH ＞N ＞H",
-      "3": "원료장입→혼합 및 조립→소결→점화→냉각",
-      "4": "N ＞CH ＞H ＞CO 2 4 2 2 4 2",
-      "2": "CH ＞CO＞H ＞N 4 2 2 4 2 2 ❸ H ＞CH ＞CO＞N"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 79,
-    "date": "20140126",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 54,
-    "question": "원료 처리 설비 중 파쇄 설비로 옳은 것은?",
-    "choices": {
-      "1": "통기도는 악화되고, 소결시간이 단축된다.",
-      "3": "3.0~3.2톤",
-      "4": "갈철광 58. 광석의 입도가 작으면 소결 과정에서 통기도와 소결시간이 어떻게 변화하는가?",
-      "2": "적철광 ❸ 자철광"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 80,
-    "date": "20140126",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 60,
-    "question": "분광석의 괴성화 방법이 아닌 것은?",
-    "choices": {
-      "2": "",
-      "3": "",
-      "4": "",
-      "1": ""
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 81,
-    "date": "20140720",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 8,
-    "question": "재료의 강도를 높이는 방법으로 휘스커(whisker) 섬유를 연성 과 인성이 높은 금속이나 합금 중에 균일하게 배열 시킨 복 합재료는?",
-    "choices": {
-      "1": "클래드 복합재료",
-      "2": "Al",
-      "3": "알드리",
-      "4": "하이드로날륨 10. 비중이 약 1.74, 용융점이 약 650℃이며, 비강도가 커서 휴 대용 기기나 항공우주용 재료로 사용되는 것은? ❶ Mg"
+      "1": "포석 반응",
+      "2": "포정 반응",
+      "3": "공석 반응",
+      "4": "공정 반응"
     },
     "answers": [
       4
@@ -1459,17 +5671,17 @@
     "explanation": ""
   },
   {
-    "id": 82,
-    "date": "20140720",
+    "id": 316,
+    "date": "20140126",
     "subject": 1,
     "subject_name": "금속재료일반",
-    "question_no": 13,
-    "question": "주석을 함유한 황동의 일반적인 성질 및 합금에 관한 설명 으로 옳은 것은?",
+    "question_no": 12,
+    "question": "다음 중 Mg에 대한 설명으로 옳은 것은?",
     "choices": {
-      "1": "α-마텐자이트 ❷ 트루스타이트",
-      "2": "고용한도 이상의 Sn 첨가시 나타나는 Cu Sn 상은 고연 4 성을 나타내게 한다. ❸ 7-3황동에 1%주석을 첨가한 것이 애드미럴티(admiralty) 황동이다.",
-      "4": "펄라이트",
-      "3": "소르바이트"
+      "1": "FRM",
+      "2": "SAP",
+      "3": "cermet",
+      "4": "kelmet"
     },
     "answers": [
       3
@@ -1477,53 +5689,53 @@
     "explanation": ""
   },
   {
-    "id": 83,
-    "date": "20140720",
+    "id": 317,
+    "date": "20140126",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "열간가공을 끝맺는 온도를 무엇이라 하는가?",
+    "choices": {
+      "1": "모넬 메탈",
+      "2": "콘스탄탄",
+      "3": "퍼민바",
+      "4": "인코넬"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "date": "20140126",
     "subject": 2,
     "subject_name": "금속제도",
-    "question_no": 26,
-    "question": "제도에서 가상선을 사용하는 경우가 아닌 것은?",
+    "question_no": 16,
+    "question": "다음 물체를 3각법으로 표현할 때 우측면도로 옳은 것은? (단, 화살표방 방향이 정면도 방향이다.)",
     "choices": {
-      "1": "예열대 ❷ 연소대",
-      "2": "청동 합금 주물",
-      "4": "노상부",
-      "3": "용융대"
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": "17. 물품을 구성하는 각 부품에 대하여 상세하게 나타내는 도면 으로 이 도면에 의해 부품이 실제로 제작되는 도면은?"
     },
     "answers": [
-      3
+      4
     ],
     "explanation": ""
   },
   {
-    "id": 84,
-    "date": "20140720",
+    "id": 319,
+    "date": "20140126",
     "subject": 2,
     "subject_name": "금속제도",
-    "question_no": 29,
-    "question": "냉입 사고 발생의 원인으로 관계가 먼 것은?",
+    "question_no": 18,
+    "question": "다음 중 \"C“와 ”SR\"에 해당되는 치수 보조 기호의 설명으로 옳은 것은?",
     "choices": {
-      "1": "살수식 ❷ 냉각반식",
-      "2": "날바람, 박락 등으로 노황부조 ❸ 급작스런 연료 취입증가로 노 내 열 밸런스 회복",
-      "4": "스테이브(stave) 냉각방식",
-      "3": "자켓(jaxket)식"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 85,
-    "date": "20140720",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 42,
-    "question": "고로의 열수지 항목중 입열 항목에 해당되는 것은?",
-    "choices": {
-      "1": "허가 없이 장치를 운전한다.",
-      "3": "개인보호구를 사용하지 않는다. ❹ 작업 장소가 밀집되어 있다.",
-      "4": "산화철 환원열 43. 재해의 원인을 불안전한 행동과 불안전한 상태로 구분할 때 불안전한 상태에 해당되는 것은?",
-      "2": "잘못된 작업 위치를 취한다."
+      "1": "C는 원호이며, SR은 구의 지름이다.",
+      "2": "C는 45도 모따기이며, SR은 구의 반지름이다.",
+      "3": "C는 판의 두께이며, SR은 구의 반지름이다.",
+      "4": "C는 구의 반지름이며, SR은 구의 지름이다."
     },
     "answers": [
       2
@@ -1531,14 +5743,932 @@
     "explanation": ""
   },
   {
-    "id": 86,
+    "id": 320,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 20,
+    "question": "나사의 호칭 N20×2에서 2가 뜻하는 것은?",
+    "choices": {
+      "1": "피치",
+      "2": "줄의 수",
+      "3": "등급",
+      "4": "산의 수"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 23,
+    "question": "다음 중 가는 실선으로 사용되는 선의 용도가 아닌 것은?",
+    "choices": {
+      "1": "치수를 기입하기 위하여 사용하는 선",
+      "2": "치수를 기입하기 위하여 도형에서 인출하는 선",
+      "3": "지시, 기호 등을 나타내기 위하여 사용하는 선",
+      "4": "형상의 부분 생략, 부분 단면의 경계를 나타내는 선"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "다음의 단면도 중 위, 아래 또는 왼쪽과 오른쪽이 대칭인 물체의 단면을 나타낼 때 사용되는 단면도는?",
+    "choices": {
+      "1": "한쪽 단면도",
+      "2": "부분 단면도",
+      "3": "전 단면도",
+      "4": "회전 도시 단면도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "제도 용지 A3는 A4용지의 몇 배 크기가 되는가?",
+    "choices": {
+      "1": "1/2배",
+      "2": "√2배",
+      "3": "2배",
+      "4": "4배"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 27,
+    "question": "다음 도면에 보기와 같이 표시된 금속재료의 기호 중 330이 의미하는 것은?",
+    "choices": {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "D"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 325,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 29,
+    "question": "코크스제조에서 사용되지 않는 것은?",
+    "choices": {
+      "1": "머드건",
+      "2": "균열강도",
+      "3": "낙하시험",
+      "4": "텀블러지수"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "date": "20140126",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "고로에 사용되는 내화재의 구비 조건으로 틀린 것은?",
+    "choices": {
+      "1": "스폴링성이 커야 한다.",
+      "2": "열충격이나 마모에 강해야 한다.",
+      "3": "고온, 고압에서 상당한 강도를 가져야 한다.",
+      "4": "고온에서 연화 또는 휘발하지 않아야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "생 펠릿에 강도를 주기 위해 첨가하는 물질이 아닌 것은?",
+    "choices": {
+      "1": "붕사",
+      "2": "규사",
+      "3": "벤토나이트",
+      "4": "염화나트륨"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "고로 부원료로 사용되는 석회석을 나타내는 화학식은?",
+    "choices": {
+      "1": "CaCO",
+      "2": "AI O 3 2 3",
+      "3": "MgCO",
+      "4": "SIO 3 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "철광석의 피환원성은 좋게 하는 것이 아닌 것은?",
+    "choices": {
+      "1": "슬래그의 용해",
+      "2": "환원가스의 생성",
+      "3": "철광석의 간접환원",
+      "4": "석탄의 건조 및 탈가스화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "주물용선을 제조할 때의 조업방법이 아닌 것은?",
+    "choices": {
+      "1": "슬래그를 산성으로 한다.",
+      "2": "코크스 배합비율을 높인다.",
+      "3": "노내 장입물 강하시간을 짧게 한다.",
+      "4": "고온 조업이므로 선철 중에 들어가는 금속원소의 환원율 을 높게 생각하여 광석 배합을 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "고로의 장입설비에서 벨레스형(bell-less type)의 특징을 설 명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "대형 고로에 적합하다.",
+      "2": "성형원료 장입에 최적이다.",
+      "3": "장입물 분포를 중심부까지 제어가 가능하다.",
+      "4": "장입물의 표면 형상을 바꿀 수 없어 가스 이용률은 낮 다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "고로에 사용되는 축류 송풍기의 특징을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "풍압 변동에 대한 정풍량 운전이 용이하다.",
+      "2": "바람 방향의 전환이 없어 효율이 우수하다.",
+      "3": "무겁고 크게 제작해야 하므로 설치 면적이 넓다.",
+      "4": "터보 송풍기에 비하여 압축된 유체의 통로가 단순하고 짧다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "용제에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "유동성을 좋게 한다.",
+      "2": "슬래그의 용융점을 높인다.",
+      "3": "슬래그를 금속으로부터 분리시킨다.",
+      "4": "산성 용제에는 규암, 규석 등이 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 334,
+    "date": "20140126",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "안전 보호구의 용도가 옳게 짝지어진 것은?",
+    "choices": {
+      "1": "연소대",
+      "2": "적하대",
+      "3": "융착대",
+      "4": "노상대"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "코크스의 반응성지수를 나타내는 식으로 옳은 것은?",
+    "choices": {
+      "1": "615kg",
+      "2": "915kg",
+      "3": "1426kg",
+      "4": "1592kg"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 336,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "배소를 통한 철광석의 유해 성분이 아닌 것은?",
+    "choices": {
+      "1": "황(S)",
+      "2": "물(H2!O)",
+      "3": "비소(As)",
+      "4": "탄소(C)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 337,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "소결의 일반적인 공정 순서로 옳은 것은?",
+    "choices": {
+      "1": "CO＞CH ＞N ＞H",
+      "2": "CH ＞CO＞H ＞N 4 2 2 4 2 2",
+      "3": "H ＞CH ＞CO＞N",
+      "4": "N ＞CH ＞H ＞CO 2 4 2 2 4 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 338,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "소성 펠릿의 특징을 설명한 것 중 옳은 것은?",
+    "choices": {
+      "1": "고로 안에서 소결광보다 급격한 수축을 일으킨다.",
+      "2": "분쇄한 원료로 만든 것으로 야금 반응에 민감하지 않다.",
+      "3": "입도가 일정하고 입도 편석을 일으키며, 공극률이 작다.",
+      "4": "황 성분이 적고, 그 밖에 해면철 상태를 통해 용해되므 로 규소의 흡수가 적다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 339,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 54,
+    "question": "원료 처리 설비 중 파쇄 설비로 옳은 것은?",
+    "choices": {
+      "1": "통기도는 악화되고, 소결시간이 단축된다.",
+      "2": "적철광",
+      "3": "자철광",
+      "4": "갈철광 58. 광석의 입도가 작으면 소결 과정에서 통기도와 소결시간이 어떻게 변화하는가?"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 340,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "제철 원료로서 코크스의 역할에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "연소 가스는 철광석을 간접 환원한다.",
+      "2": "일부는 선철 중에 용해해서 선철 중의 탄소가 된다.",
+      "3": "연소 가스는 액체 탄소로서 선철 성분을 간접 환원 시킨 다.",
+      "4": "바람 구멍 앞에서 연소해서 제선에 필요한 열량을 공급 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 341,
+    "date": "20140126",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "분광석의 괴성화 방법이 아닌 것은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 342,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "게이지용 공구강이 갖추어야 할 조건에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "HRC 40 이하의 경도를 가져야 한다.",
+      "2": "팽창계수가 보통강보다 작아야 한다.",
+      "3": "시간이 지남에 따라 치수변화가 없어야 한다.",
+      "4": "담금질에 의한 균열이나 변형이 없어야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 343,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "다음 중 가장 높은 용융점을 갖는 금속은?",
+    "choices": {
+      "1": "Cu",
+      "2": "Ni",
+      "3": "Cr",
+      "4": "W"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 344,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "다음 중 베어링용 합금이 아닌 것은?",
+    "choices": {
+      "1": "켈밋",
+      "2": "배빗메탈",
+      "3": "문쯔메탈",
+      "4": "화이트메탈"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 345,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "구리에 대한 특성을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "구리는 비자성체다.",
+      "2": "전기전도율이 Ag 다음으로 좋다.",
+      "3": "공기 중에 표면이 산화되어 암적색이 된다.",
+      "4": "체심임방격자이며, 동소변태점이 존재한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 346,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "탄소강에 함유된 원소가 철강에 미치는 영향으로 옳은 것은?",
+    "choices": {
+      "1": "S : 저온메짐의 원인이 된다.",
+      "2": "Si : 연신율 및 충격값을 감소시킨다.",
+      "3": "Cu : 부식에 대한 저항을 감소시킨다.",
+      "4": "P : 적열메짐의 원인이 된다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 347,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "과냉(Super cooling)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "실내온도에서 용융상태인 금속이다.",
+      "2": "고온에서도 고체 상태인 금속이다.",
+      "3": "금속이 응고점보다 낮은 온도에서 용해되는 것이다.",
+      "4": "응고점보다 낮은 온도에서 응고가 시작되는 현상이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 348,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "재료의 강도를 높이는 방법으로 휘스커(whisker) 섬유를 연성 과 인성이 높은 금속이나 합금 중에 균일하게 배열 시킨 복 합재료는?",
+    "choices": {
+      "1": "Mg",
+      "2": "Al",
+      "3": "알드리",
+      "4": "하이드로날륨 10. 비중이 약 1.74, 용융점이 약 650℃이며, 비강도가 커서 휴 대용 기기나 항공우주용 재료로 사용되는 것은?"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 349,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 11,
+    "question": "다음 중 주철에서 칠드 층을 얇게 하는 원소는?",
+    "choices": {
+      "1": "Co",
+      "2": "Sn",
+      "3": "Mn",
+      "4": "S"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 350,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "다음 중 체심입방격자(BCC)의 배위수(최근전원자수)는?",
+    "choices": {
+      "1": "4개",
+      "2": "8개",
+      "3": "12개",
+      "4": "24개"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 351,
+    "date": "20140720",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "주석을 함유한 황동의 일반적인 성질 및 합금에 관한 설명 으로 옳은 것은?",
+    "choices": {
+      "1": "α-마텐자이트",
+      "2": "트루스타이트",
+      "3": "소르바이트",
+      "4": "펄라이트"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 352,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 16,
+    "question": "다음 중 45˚ 모따기를 나타내는 기호는?",
+    "choices": {
+      "1": "R",
+      "2": "C",
+      "3": "□",
+      "4": "SR"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 353,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 18,
+    "question": "다음 중 도면의 표제란에 표시되지 않는 것은?",
+    "choices": {
+      "1": "품명, 도면 내용",
+      "2": "척도, 도면 번호",
+      "3": "투상법, 도면 명칭",
+      "4": "제도자, 도면 작성일"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 354,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 24,
+    "question": "다음은 구멍을 치수 기입한 예이다. 치수 기입된 11-ø4에 서의 11이 의미하는 것은?",
+    "choices": {
+      "1": "구멍의 지름",
+      "2": "구멍의 깊이",
+      "3": "구멍의 수",
+      "4": "구멍의 피치"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 355,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "KS 부문별 분류 기호 중 전기 부문은?",
+    "choices": {
+      "1": "KS A",
+      "2": "KS B",
+      "3": "KS C",
+      "4": "KS D"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 356,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 26,
+    "question": "제도에서 가상선을 사용하는 경우가 아닌 것은?",
+    "choices": {
+      "1": "예열대",
+      "2": "연소대",
+      "3": "용융대",
+      "4": "노상부"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 357,
+    "date": "20140720",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 29,
+    "question": "냉입 사고 발생의 원인으로 관계가 먼 것은?",
+    "choices": {
+      "1": "살수식",
+      "2": "냉각반식",
+      "3": "자켓(jaxket)식",
+      "4": "스테이브(stave) 냉각방식"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 358,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "다음 중 고로 원료로 가장 많이 사용되는 적철광을 나타내 는 화학식은?",
+    "choices": {
+      "1": "Fe O",
+      "2": "Fe O 3 4 2 3",
+      "3": "Fe O ㆍH O",
+      "4": "2Fe O ㆍ3H O 3 4 2 2 3 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 359,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "DL식 소결법의 효과에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "코크스 원단위 증가",
+      "2": "생산성 향상",
+      "3": "피환원성 향상",
+      "4": "상온강도 향상"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 360,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "광석이 용융해서 생긴 슬래그의 점착 작용은?",
+    "choices": {
+      "1": "이온 결합",
+      "2": "공유 결합",
+      "3": "확산 결합",
+      "4": "용융 결합"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 361,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 35,
+    "question": "산소부화 송풍의 효과에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "풍구 앞의 온도가 높아진다.",
+      "2": "로정가스의 온도를 낮게 하고 발열량을 증가시킨다.",
+      "3": "송풍량을 증가시키는 요인이 되어 코크스비가 증가한다.",
+      "4": "코크스의 연소속도를 빠르게 하여 출선량을 증대시킨다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 362,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "고로설비 중 주상설비에 해당되지 않는 것은?",
+    "choices": {
+      "1": "충선구 개공기",
+      "2": "탄화실",
+      "3": "주상 집진기",
+      "4": "출재구 폐색기"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 363,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "괴상법에 의해 만들어진 괴광에 필요한 성질을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "다공질로 노 안에서 환원이 잘 되어야 한다.",
+      "2": "강도가 커서 운반, 저장, 노내 강하 도중에 분쇄되지 않 아야 한다.",
+      "3": "점결제를 사용할 때에는 고로벽을 침식시키지 않는 알칼 리류를 함유하여야 한다.",
+      "4": "장기 저장에 의한 풍화와 열팽창 및 수축에 의한 붕괴를 일으키지 않아야 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 364,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "로황이 안정되었을 때 좋은 슬래그의 특징이 아닌 것은?",
+    "choices": {
+      "1": "색깔이 회색이다.",
+      "2": "유동성이 좋다.",
+      "3": "SiO 2 가 많이 포함되어 있다.",
+      "4": "파면이 암석모양이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 365,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "고로가스의 성분 조성 중 가장 많은 것은?",
+    "choices": {
+      "1": "N 2",
+      "2": "CO",
+      "3": "H 2",
+      "4": "CO 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 366,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "개수 공사를 위해 고로의 불을 끄는 조업의 순서로 옳은 것 은?",
+    "choices": {
+      "1": "클리닝 조업→감척 종풍 조업→노저 출선 작업→주수 냉 각 작업",
+      "2": "클리닝 조업→노지 출선 작업→감척 종풍 조업→주수 냉 각 작업",
+      "3": "감척 종풍 조업→노저 출선 작업→클리닝 조업→주수 냉 각 작업",
+      "4": "감척 종풍 조업→주수 냉각 작업→클리닝 조업→노저 출 선 작업 41. 고로에서 선철 1톤을 얻기 위해 철광석은 약 멀마나 필요한"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 367,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "고로의 열수지 항목중 입열 항목에 해당되는 것은?",
+    "choices": {
+      "1": "허가 없이 장치를 운전한다.",
+      "2": "잘못된 작업 위치를 취한다.",
+      "3": "개인보호구를 사용하지 않는다.",
+      "4": "작업 장소가 밀집되어 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 368,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 44,
+    "question": "제강용으로 공급되는 고로 용선이 배합상 가져야 할 특징으 로 옳은 것은?",
+    "choices": {
+      "1": "Al O 는 슬래그의 유동성을 개선하므로 많아야 한다. 2 3",
+      "2": "자용성 소결광은 통기성을 저해하므로 적을수록 좋다.",
+      "3": "생광석을 고품위 정립광석이 많을수록 좋다.",
+      "4": "P와 As는 유용한 원소이므로 적당량 함유되면 좋다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 369,
+    "date": "20140720",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 45,
+    "question": "코크스(Coke)의 고로내 역할로 맞지 않는 것은?",
+    "choices": {
+      "1": "탈탄",
+      "2": "열원",
+      "3": "환원제",
+      "4": "통기성 향상"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 370,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "조기 출선을 해야 할 경우에 해당되지 않는 것은?",
+    "choices": {
+      "1": "출선, 출재가 불충분 할 때",
+      "2": "감압 휴풍이 예상될 때",
+      "3": "장입물의 하강이 느릴 때",
+      "4": "노황 냉기미로 풍구에 슬래그가 보일 때"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 371,
     "date": "20140720",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 47,
     "question": "좋은 슬래그를 만들기 위한 용제(flux)의 구비조건이 아닌 것은?",
     "choices": {
-      "1": "용융점이 낮을 것",
+      "1": "",
       "2": "",
       "3": "",
       "4": ""
@@ -1549,7 +6679,43 @@
     "explanation": ""
   },
   {
-    "id": 87,
+    "id": 372,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 50,
+    "question": "다음 설명 중 소결성이 좋은 원료라고 볼 수 없는 것은?",
+    "choices": {
+      "1": "생산성이 높은 원료",
+      "2": "분율이 높은 소결광을 제조할 수 있는 원료",
+      "3": "강도가 높은 소결광을 제조할 수 있는 원료",
+      "4": "적은 원료로서 소결광을 제조할 수 있는 원료"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 373,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "코크스로 내에서 석탄을 건류하는 설비는?",
+    "choices": {
+      "1": "연소실",
+      "2": "축열실",
+      "3": "가열실",
+      "4": "탄화실"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 374,
     "date": "20140720",
     "subject": 4,
     "subject_name": "소결법",
@@ -1558,8 +6724,8 @@
     "choices": {
       "1": "",
       "2": "",
-      "4": "코크스 54. 한국산업표준에서 정한 내화벽돌의 부피 비중 및 참기공률 측정방법에서 참기공률을 구하는 식으로 옳은 것은? (단, D 는 벽돌의 부피 비중, D는 동일 벽돌의 참비중이다.) b t",
-      "3": "❹"
+      "3": "",
+      "4": ""
     },
     "answers": [
       3
@@ -1567,7 +6733,151 @@
     "explanation": ""
   },
   {
-    "id": 88,
+    "id": 375,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "일반적으로 철이 산화 될 때 산소와 닿는 가장 바깥쪽 표면 에 생기는 것은?",
+    "choices": {
+      "1": "FeO",
+      "2": "Fe 2 O 3",
+      "3": "Fe O",
+      "4": "FeS 3 4 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 376,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "코크스 제조 중에 발생하는 건류생성물이 아닌 것은?",
+    "choices": {
+      "1": "경유",
+      "2": "타르",
+      "3": "황산암모늄",
+      "4": "소결광"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 377,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 57,
+    "question": "소결에서 열정산 항목 중 출열에 해당되지 않는 것은?",
+    "choices": {
+      "1": "증발",
+      "2": "하소",
+      "3": "환원",
+      "4": "점화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 378,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 58,
+    "question": "야드 설비 중 하역설비에 해당되지 않는 것은?",
+    "choices": {
+      "1": "Stacker",
+      "2": "Rodmill",
+      "3": "Train Hopper",
+      "4": "Unloader"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 379,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "다음 철광석 중 결정수 등의 함유 수분이 높은 철광석은?",
+    "choices": {
+      "1": "자철광",
+      "2": "갈철광",
+      "3": "적철광",
+      "4": "능철광"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 380,
+    "date": "20140720",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "균광의 효과로 가장 적합한 것은?",
+    "choices": {
+      "1": "노황의 불안정",
+      "2": "제선능률 저하",
+      "3": "코크스비 저하",
+      "4": "장입물 불균일 향상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 381,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "구리 및 구리 합금에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "라우탈",
+      "2": "엘린바",
+      "3": "문쯔메탈",
+      "4": "코비탈륨"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 382,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "다음 중 비중(specific gravity)이 가장 작은 금속은?",
+    "choices": {
+      "1": "Mg",
+      "2": "Cr",
+      "3": "Mn",
+      "4": "Pb"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 383,
     "date": "20150125",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -1575,8 +6885,8 @@
     "question": "다음 비철금속 중 구리가 포함되어 있는 합금이 아닌 것은?",
     "choices": {
       "1": "제진 합금",
-      "2": "초전도 합금 ❸ 비정질 합금",
-      "3": "청동 ❹ 하이드로날륨 7. 기체 급랭법의 일종으로 금속을 기체 상태로 한 후에 급랭하 는 방법으로 제조되는 합금으로서 대표적인 방법은 진공 종 착법이나 스퍼터링법 등이 있다. 이러한 방법으로 제조되는 합금은?",
+      "2": "초전도 합금",
+      "3": "비정질 합금",
       "4": "형상 기억 합금"
     },
     "answers": [
@@ -1585,7 +6895,115 @@
     "explanation": ""
   },
   {
-    "id": 89,
+    "id": 384,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "저용융점 합금의 용융 온도는 약 몇 ℃이하 인가?",
+    "choices": {
+      "1": "250℃ 이하",
+      "2": "450℃ 이하",
+      "3": "550℃ 이하",
+      "4": "650℃ 이하"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 385,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "특수강에서 다음 금속이 미치는 영향으로 틀린 것은?",
+    "choices": {
+      "1": "Si : 전자기적 성질을 개선한다.",
+      "2": "Cr : 내마멸성을 증가시킨다.",
+      "3": "Mo : 뜨임메짐을 방지한다.",
+      "4": "Ni : 탄화물을 만든다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 386,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "공석강의 탄소함유량은 약 얼마인가?",
+    "choices": {
+      "1": "0.15%",
+      "2": "0.8%",
+      "3": "2.0%",
+      "4": "4.3%"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 387,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "용융금속을 주형에 주입할 때 응고하는 과정을 설명한 것으 로 틀린 것은?",
+    "choices": {
+      "1": "나뭇가지 모양으로 응고하는 것을 수지상정이라 한다.",
+      "2": "핵 생성 속도가 핵 성장 속도보다 빠르면 입자가 미세해 진다.",
+      "3": "주형에 접한 부분이 빠른 속도로 응고하고 차차 내부로 가면서 천천히 응고한다.",
+      "4": "주상 결정 입자 조직이 생성된 주물에서는 주상결정 입 내 부분에 불순물이 집중하므로 메짐이 생긴다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 388,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "재진 재료에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "제진 합금에는 Mg-Zr, Mn-Cu 등이 있다.",
+      "2": "제진 합금에서 제진 기구는 마텐자이트 변태와 같다.",
+      "3": "제진 재료는 진동을 제어하기 위하여 사용되는 재료이 다.",
+      "4": "제진 합금이란 큰 의미에서 두드려도 소리가 나지 않는 합금이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 389,
+    "date": "20150125",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "다음 철강 재료에서 인성이 가장 낮은 것은?",
+    "choices": {
+      "1": "회주철",
+      "2": "탄소공구강",
+      "3": "합금공구강",
+      "4": "고속도공구강"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 390,
     "date": "20150125",
     "subject": 2,
     "subject_name": "금속제도",
@@ -1593,8 +7011,8 @@
     "question": "실물을 보고 프리핸드로 그린 도면은?",
     "choices": {
       "1": "배면도",
-      "2": "정면도 ❸ 평면도",
-      "3": "W-파라미터",
+      "2": "정면도",
+      "3": "평면도",
       "4": "우측면도"
     },
     "answers": [
@@ -1603,17 +7021,35 @@
     "explanation": ""
   },
   {
-    "id": 90,
+    "id": 391,
+    "date": "20150125",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 22,
+    "question": "다음 가공방법의 기호와 그 의미의 연결이 틀린 것은?",
+    "choices": {
+      "1": "C-주조",
+      "2": "L-선삭",
+      "3": "G-연삭",
+      "4": "FF-소성가공"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 392,
     "date": "20150125",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 23,
     "question": "제도용지에 대한 설명으로 틀린 것은?",
     "choices": {
-      "1": "5mm ❷ 10mm",
-      "2": "B0 제도용지의 넓이는 약 1.5m2이다. ❸ A0 제도용지의 크기는 594×841이다.",
-      "4": "40mm",
-      "3": "20mm"
+      "1": "5mm",
+      "2": "10mm",
+      "3": "20mm",
+      "4": "40mm"
     },
     "answers": [
       3
@@ -1621,15 +7057,69 @@
     "explanation": ""
   },
   {
-    "id": 91,
+    "id": 393,
+    "date": "20150125",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 25,
+    "question": "끼워 맞춤에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "최대 죔새는 구멍의 최대 허용 치수에서 축의 최소 허용 치수를 뺀 치수이다.",
+      "2": "최소 죔새는 구멍의 최소 허용 치수에서 축의 최대 허용 치수를 뺀 치수이다.",
+      "3": "구멍의 최소 치수가 축의 최대 치수보다 작은 경우 헐거 운 끼워 맞춤이 된다.",
+      "4": "구멍과 축의 끼워 맞춤에서 틈새가 없이 죔새만 있으면 억지 끼워 맞춤이 된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 394,
+    "date": "20150125",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 27,
+    "question": "2N M50×2-6h 이라는 나사의 표시 방법에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "왼나사이다.",
+      "2": "2줄 나사이다.",
+      "3": "유니파이 보통 나사이다.",
+      "4": "피치는 1인치당 산의 개수로 표시한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 395,
+    "date": "20150125",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 28,
+    "question": "파이넥스 유동로의 환원율에 영향을 미치는 인자가 아닌 것 은?",
+    "choices": {
+      "1": "환원가스 성분 중 CO, H 농도 2",
+      "2": "광석 1t당 환원가스 원단위",
+      "3": "유동로 압력",
+      "4": "환원가스 온도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 396,
     "date": "20150125",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 29,
     "question": "고로의 수리를 위하여 일시적으로 송풍을 중지시키는 것은?",
     "choices": {
-      "1": "15 ❷ 18",
-      "2": "blowing in",
+      "1": "15",
+      "2": "18",
       "3": "20",
       "4": "23"
     },
@@ -1639,17 +7129,17 @@
     "explanation": ""
   },
   {
-    "id": 92,
+    "id": 397,
     "date": "20150125",
     "subject": 3,
     "subject_name": "제선법",
-    "question_no": 32,
-    "question": "고로조염 중 배가스 처리장치를 통해 가장 많이 배출되는 가스는?",
+    "question_no": 31,
+    "question": "다음 중 염기성 내화물에 해당되는 것은?",
     "choices": {
-      "2": "H 2",
-      "3": "염기도를 높인다.",
-      "4": "장입물 중 인(P) 성분을 적게 한다.",
-      "1": "급속조업을 한다. ❷ 노삼온도를 높인다."
+      "1": "마그네시아질",
+      "2": "점토질",
+      "3": "샤모트질",
+      "4": "규산질"
     },
     "answers": [
       1
@@ -1657,7 +7147,43 @@
     "explanation": ""
   },
   {
-    "id": 93,
+    "id": 398,
+    "date": "20150125",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 32,
+    "question": "고로조염 중 배가스 처리장치를 통해 가장 많이 배출되는 가스는?",
+    "choices": {
+      "1": "급속조업을 한다.",
+      "2": "노삼온도를 높인다.",
+      "3": "염기도를 높인다.",
+      "4": "장입물 중 인(P) 성분을 적게 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 399,
+    "date": "20150125",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "산소 부화에 의한 효과로 틀린 것은?",
+    "choices": {
+      "1": "질소 강소에 의해 발열량을 감소시킨다.",
+      "2": "바람 구멍 앞의 온도가 높아진다.",
+      "3": "코크스의 연소 속도가 빠르다.",
+      "4": "출선량을 증대시킨다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 400,
     "date": "20150125",
     "subject": 3,
     "subject_name": "제선법",
@@ -1666,8 +7192,8 @@
     "choices": {
       "1": "54%",
       "2": "64%",
-      "4": "출선량이 증가한다. 38. 코크스 중에 회분이 7%, 휘발분이 5%, 수분이 4% 있다면 고정탄소의 양은 몇 %인가?",
-      "3": "74% ❹ 84%"
+      "3": "74%",
+      "4": "84%"
     },
     "answers": [
       3
@@ -1675,35 +7201,17 @@
     "explanation": ""
   },
   {
-    "id": 94,
+    "id": 401,
     "date": "20150125",
     "subject": 3,
     "subject_name": "제선법",
-    "question_no": 42,
-    "question": "고로 살부에서부터 하부로의 순서가 옳은 것은? ❶ 로구→샤프트→로복→보시→로상",
+    "question_no": 39,
+    "question": "생 펠릿 성형기의 특징이 아닌 것은?",
     "choices": {
-      "2": "용선 : 7.9, 슬래그 : 4.0~4.1",
-      "3": "용선 : 7.5, 슬래그 : 3.6~3.7 ❹ 용선 : 7.0, 슬래그 : 2.6~2.7",
-      "4": "로구→로복→샤프트→로상→보시 43. 출선된 용선은 탕도에서 슬래그(광재)와 비중차로 분리된다. 용선과 슬래그의 각각 비중은 약 얼마인가?",
-      "1": "용선 : 8.7, 슬래그 : 4.5~4.6"
-    },
-    "answers": [
-      1
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 95,
-    "date": "20150125",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 45,
-    "question": "작업자의 안전심리에서 고려되는 가장 중요한 요소는?",
-    "choices": {
-      "1": "입도를 균일하게 한다.",
-      "2": "원료의 성분을 안정화시킨다. ❸ 야드 적치시 편석이 잘 되게 한다.",
-      "4": "양이 적은 광종도 적절히 사용할 수 있다.",
-      "3": "소결 ❹ 하소 47. 여러 종류의 철광석을 혼합하여 적치하는 블랜딩(Blending) 의 이점이 아닌 것은?"
+      "1": "틀이 필요없다.",
+      "2": "가압을 필요로 하지 않는다.",
+      "3": "연속조업이 불가능하다.",
+      "4": "물리적으로 원심력을 이용한다."
     },
     "answers": [
       3
@@ -1711,17 +7219,17 @@
     "explanation": ""
   },
   {
-    "id": 96,
+    "id": 402,
     "date": "20150125",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 56,
-    "question": "자용성 소결광이 고로 원료로 사용될 때 설명으로 옳은 것 은?",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "선철 중의 탄소의 용해도를 증가시키는 원소가 아닌 것은?",
     "choices": {
-      "1": "피환원성이 감소한다. ❷ 코크스비가 저하한다.",
-      "3": "압출시간",
-      "4": "방치시간",
-      "2": "잠입시간"
+      "1": "V",
+      "2": "Si",
+      "3": "Cr",
+      "4": "Mn"
     },
     "answers": [
       2
@@ -1729,53 +7237,35 @@
     "explanation": ""
   },
   {
-    "id": 97,
+    "id": 403,
     "date": "20150125",
-    "subject": 4,
-    "subject_name": "소결법",
-    "question_no": 59,
-    "question": "고로 내 코크스의 역할에 해당되지 않는 것은?",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "다음 중 수세법에 대한 설명으로 옳은 것은?",
     "choices": {
-      "1": "맥석결합 ❷ 용융결합",
-      "2": "연소를 통한 열원제 ❸ 철광석의 산화반응 촉진",
-      "4": "화합결합",
-      "3": "확산결합"
+      "1": "자철광 또는 사철광을 선광하여 맥석을 분리하는 방법",
+      "2": "갈철광 등과 같이 진흙이 붙어 있는 광석을 물로 씻어서 품위를 높이는 방법",
+      "3": "중력에 의하여 큰 광석은 가라앉히고, 작은 광석은 뜨게 하여 분리하는 방법",
+      "4": "비중의 차를 이용하여 광석으로부터 맥석을 선별, 제거 하거나 또는 광석 중의 유효 광물을 분리하는 방법"
     },
     "answers": [
-      3
+      2
     ],
     "explanation": ""
   },
   {
-    "id": 98,
-    "date": "20160124",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 1,
-    "question": "반자성체에 해당하는 금속은?",
+    "id": 404,
+    "date": "20150125",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 42,
+    "question": "고로 살부에서부터 하부로의 순서가 옳은 것은?",
     "choices": {
-      "1": "철(Fe)",
-      "2": "주석 청동",
-      "4": "애드미럴티 황동",
-      "3": "네이벌 황동"
-    },
-    "answers": [
-      3
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 99,
-    "date": "20160124",
-    "subject": 1,
-    "subject_name": "금속재료일반",
-    "question_no": 5,
-    "question": "강에 탄소량이 증가할수록 증가하는 것은?",
-    "choices": {
-      "2": "Ag",
-      "3": "18%Cr-4%Al-1%W",
-      "4": "18%W-4%Cr-1%Pb",
-      "1": "18%Cu-4%Cr-1%Sn ❷ 18%W-4%Cr-1%V"
+      "1": "용선 : 8.7, 슬래그 : 4.5~4.6",
+      "2": "용선 : 7.9, 슬래그 : 4.0~4.1",
+      "3": "용선 : 7.5, 슬래그 : 3.6~3.7",
+      "4": "용선 : 7.0, 슬래그 : 2.6~2.7"
     },
     "answers": [
       1
@@ -1783,7 +7273,367 @@
     "explanation": ""
   },
   {
-    "id": 100,
+    "id": 405,
+    "date": "20150125",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 45,
+    "question": "작업자의 안전심리에서 고려되는 가장 중요한 요소는?",
+    "choices": {
+      "1": "입도를 균일하게 한다.",
+      "2": "원료의 성분을 안정화시킨다.",
+      "3": "야드 적치시 편석이 잘 되게 한다.",
+      "4": "양이 적은 광종도 적절히 사용할 수 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 406,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 48,
+    "question": "소결용 연료인 코크스의 구비 조건이 아닌 것은?",
+    "choices": {
+      "1": "소결성이 좋을 것",
+      "2": "발열량이 높을 것",
+      "3": "적당한 입도를 가질 것",
+      "4": "수분함량과 P.S의 양이 많을 것"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 407,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 49,
+    "question": "소결설비 중 윈드 박스(wind box)의 역할은?",
+    "choices": {
+      "1": "부유 선광",
+      "2": "자력 선광",
+      "3": "중액 선광",
+      "4": "비중 선광"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 408,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 51,
+    "question": "소결장치 중 드럼믹서(Drum mixer)의 역할이 아닌 것은?",
+    "choices": {
+      "1": "혼합",
+      "2": "조립",
+      "3": "조습",
+      "4": "파쇄"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 409,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 52,
+    "question": "소결원료의 배합시 의사입화에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "품질이 향상된다.",
+      "2": "회수율이 증가한다.",
+      "3": "생산성이 증가한다.",
+      "4": "원단위가 증가한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 410,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 53,
+    "question": "다음 중 코크스를 견류하는 과정에 발생되는 가스의 명칭 은?",
+    "choices": {
+      "1": "BFG",
+      "2": "LDG",
+      "3": "COG",
+      "4": "LPG"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 411,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "삭탄의 분쇄 입도의 영향에 대한 설명으로 틀린 것은? (단, HGI : Hardgrove Grindability Index이다.)",
+    "choices": {
+      "1": "수분이 많으면 파쇄하기 어렵다.",
+      "2": "파쇄기 급량이 많으면 조파쇄가 된다.",
+      "3": "석탄의 HGI가 작으면 파쇄하기 쉽다.",
+      "4": "분쇄전 석탄입도가 크면 분쇄 후 입도가 크다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 412,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "자용성 소결광이 고로 원료로 사용될 때 설명으로 옳은 것 은?",
+    "choices": {
+      "1": "탄화시간",
+      "2": "잠입시간",
+      "3": "압출시간",
+      "4": "방치시간"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 413,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 58,
+    "question": "집진기의 형식 중 집진효율이 가장 우수한 것은?",
+    "choices": {
+      "1": "중력 집진장치",
+      "2": "전기 집진장치",
+      "3": "관성력 집진장치",
+      "4": "원심력 집진장치"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 414,
+    "date": "20150125",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "고로 내 코크스의 역할에 해당되지 않는 것은?",
+    "choices": {
+      "1": "맥석결합",
+      "2": "용융결합",
+      "3": "확산결합",
+      "4": "화합결합"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 415,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "반자성체에 해당하는 금속은?",
+    "choices": {
+      "1": "6-4 황동",
+      "2": "주석 청동",
+      "3": "네이벌 황동",
+      "4": "애드미럴티 황동"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 416,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "다음 중 강괴의 탈산제로 부적합한 것은?",
+    "choices": {
+      "1": "Al",
+      "2": "Fe-Mn",
+      "3": "Cu-P",
+      "4": "Fe-Si"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 417,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "주철의 기계적 성질에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "경도는 C+Si의 함유량이 많을수록 높아진다.",
+      "2": "주철의 압축강도는 인장강도의 3~4배 정도이다.",
+      "3": "고 C, 고 Si의 크고 거친 흑연편을 함유하는 주철 은 충격값이 작다.",
+      "4": "주철은 자체의 흑연이 윤활제 역할을 하며, 내마멸 성이 우수하다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 418,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "강에 탄소량이 증가할수록 증가하는 것은?",
+    "choices": {
+      "1": "18%Cu-4%Cr-1%Sn",
+      "2": "18%W-4%Cr-1%V",
+      "3": "18%Cr-4%Al-1%W",
+      "4": "18%W-4%Cr-1%Pb"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 419,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "다음의 합금 원소 중 함유량이 많아지면 내마멸성을 크게 증가시키고, 적열 메짐을 방지하는 것은?",
+    "choices": {
+      "1": "Ni",
+      "2": "Mn",
+      "3": "Si",
+      "4": "Mo"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 420,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "금(Au)의 일반적인 성질에 대한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "금(Au) 내식성이 매우 나쁘다.",
+      "2": "금(Au)의 순도는 캐럿(K)으로 표시한다.",
+      "3": "금(Au)은 강도, 내마멸성이 높다.",
+      "4": "금(Au) 조밀육방격자에 해당하는 금속이다. 10. Al에 1~1.5%의 Mn을 합금한 내식성 알루미늄 합금"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 421,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 11,
+    "question": "Ti 금속의 특징을 설명한 것 중 옳은 것은?",
+    "choices": {
+      "1": "Ti 및 그 합금은 비강도가 낮다.",
+      "2": "고용융점 금속이며, 열전도율이 낮다.",
+      "3": "상온에서 체심입방격자의 구조를 갖는다.",
+      "4": "Ti은 화학적으로 반응성이 없어 내식성이 나쁘다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 422,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "Al-Si계 합금에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "Si 함유량이 증가할수록 열팽창계수가 낮아진다.",
+      "2": "실용합금으로는 10~13%의 Si가 함유된 실루민이 있다.",
+      "3": "용융점이 높고 유동성이 좋지 않아 복잡한 모래형 주물에는 이용되지 않는다.",
+      "4": "개량처리를 하게 되면 용탕과 모래 수분과의 반응 으로 수소를 흡수하여 기포가 발생된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 423,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "Fe-C 평형상태도에서 레데뷰라이트의 조직은?",
+    "choices": {
+      "1": "페라이트",
+      "2": "페라이트+시멘타이트",
+      "3": "페라이트+오스테나이트",
+      "4": "오스테나이트+시멘타이트"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 424,
+    "date": "20160124",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "다음 중 슬립(slip)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "원자 밀도가 최대인 방향으로 잘 일어난다.",
+      "2": "원자 밀도가 가장 큰 격자면에서 잘 일어난다.",
+      "3": "슬립이 계속 진행하면 결정은 점점 단단해져 변형 이 쉬워진다.",
+      "4": "다결정에서는 외력이 가해질 때 슬립방향이 서로 달라 간섭을 일으킨다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 425,
     "date": "20160124",
     "subject": 1,
     "subject_name": "금속재료일반",
@@ -1792,8 +7642,8 @@
     "choices": {
       "1": "가는 파선",
       "2": "가는 일점 쇄선",
-      "4": "기지 금속 중에 0.01~0.1μm 정도의 미세한 입자 를 분산시켜 만든 재료이다. 16. 침탄, 질화 등 특수 가공 할 부분을 표시할 때, 나타 내는 선으로 옳은 것은?",
-      "3": "가는 이점 쇄선 ❹ 굵은 일점 쇄선 17. 표제란에 재료를 나타내는 표시 중 밑줄 친 KS D가 의미하는 것은?"
+      "3": "가는 이점 쇄선",
+      "4": "굵은 일점 쇄선 17. 표제란에 재료를 나타내는 표시 중 밑줄 친 KS D가 의미하는 것은?"
     },
     "answers": [
       3
@@ -1801,17 +7651,17 @@
     "explanation": ""
   },
   {
-    "id": 101,
+    "id": 426,
     "date": "20160124",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 20,
     "question": "치수 기입을 위한 치수선과 치수보조선 위치가 가장 적합한 것은?",
     "choices": {
-      "2": "(ㄱ):정면도, (ㄴ):평면도, (ㄷ):좌측면도 ❸ (ㄱ):평면도, (ㄴ):정면도, (ㄷ):우측면도",
-      "3": "",
-      "4": "(ㄱ):평면도, (ㄴ):우측면도, (ㄷ):정면도",
-      "1": "(ㄱ):정면도, (ㄴ):좌측면도, (ㄷ):평면도"
+      "1": "(ㄱ):정면도, (ㄴ):좌측면도, (ㄷ):평면도",
+      "2": "(ㄱ):정면도, (ㄴ):평면도, (ㄷ):좌측면도",
+      "3": "(ㄱ):평면도, (ㄴ):정면도, (ㄷ):우측면도",
+      "4": "(ㄱ):평면도, (ㄴ):우측면도, (ㄷ):정면도"
     },
     "answers": [
       1
@@ -1819,15 +7669,33 @@
     "explanation": ""
   },
   {
-    "id": 102,
+    "id": 427,
+    "date": "20160124",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 24,
+    "question": "다음 기호 중 치수 보조 기호가 아닌 것은?",
+    "choices": {
+      "1": "C",
+      "2": "R",
+      "3": "t",
+      "4": "△"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 428,
     "date": "20160124",
     "subject": 2,
     "subject_name": "금속제도",
     "question_no": 25,
     "question": "금속의 가공 공정의 기호 중 스크레이핑 다듬질에 해 당하는 약호는?",
     "choices": {
-      "1": "투시도 ❷ 사투상도",
-      "2": "FF",
+      "1": "투시도",
+      "2": "사투상도",
       "3": "등각 투상도",
       "4": "부등각 투상도"
     },
@@ -1837,17 +7705,53 @@
     "explanation": ""
   },
   {
-    "id": 103,
+    "id": 429,
     "date": "20160124",
-    "subject": 3,
-    "subject_name": "제선법",
-    "question_no": 31,
-    "question": "다음 중 고로의 풍구가 파손되는 가장 큰 원인은? ❶ 용선이 접촉할 때",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 27,
+    "question": "제도 도면에 사용되는 문자의 호칭 크기는 무엇으로 나타내는가?",
     "choices": {
-      "2": "435.7kg",
-      "3": "515.7kg ❹ 535.7kg",
-      "4": "고로내 장입물이 슬립을 일으킬 때 32. 고로의 슬래그 염기도를 1.2로 조업하려고 한다. 슬 래그 중 SiO 가 250kg이라면 석회석(CaCO )은 약 얼 2 3 마 정도가 필요한가? (단, 석회석(CaCO ) 중 유효 3 CaO는 56%이다.",
-      "1": "415.7kg"
+      "1": "문자의 폭",
+      "2": "문자의 굵기",
+      "3": "문자의 높이",
+      "4": "문자의 경사도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 430,
+    "date": "20160124",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 28,
+    "question": "다음 중 코크스의 반응성을 나타내는 식으로 옳은 것 은?",
+    "choices": {
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 431,
+    "date": "20160124",
+    "subject": 2,
+    "subject_name": "금속제도",
+    "question_no": 30,
+    "question": "로의 내용적이 4800m3, 로정압이 2.5kg/cm2, 1일 출 선량이 8400t/d, 연료비는 4600kg/T-P일 때 출선비 는?",
+    "choices": {
+      "1": "1.75",
+      "2": "2.10",
+      "3": "3.10",
+      "4": "7.75"
     },
     "answers": [
       1
@@ -1855,7 +7759,187 @@
     "explanation": ""
   },
   {
-    "id": 104,
+    "id": 432,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 31,
+    "question": "다음 중 고로의 풍구가 파손되는 가장 큰 원인은?",
+    "choices": {
+      "1": "415.7kg",
+      "2": "435.7kg",
+      "3": "515.7kg",
+      "4": "535.7kg"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 433,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 33,
+    "question": "Mn의 노내 작용이 아닌 것은?",
+    "choices": {
+      "1": "탈황작용",
+      "2": "탈산작용",
+      "3": "탈탄작용",
+      "4": "슬래그의 유동성 증대"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 434,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 34,
+    "question": "고로에서 코크스비를 낮추기 위한 방법이 아닌 것은?",
+    "choices": {
+      "1": "송풍온도 상승",
+      "2": "코크스 회분 상승",
+      "3": "CO가스 이용률 향상",
+      "4": "철광석의 피환원성 증가"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 435,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 35,
+    "question": "다음 중 산성 내화물의 주성분으로 옳은 것은?",
+    "choices": {
+      "1": "SiO",
+      "2": "MgO 2",
+      "3": "CaO",
+      "4": "Al O 2 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 436,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 36,
+    "question": "생리적 원인에 의한 재해는?",
+    "choices": {
+      "1": "안전시설 불량",
+      "2": "작업자의 피로",
+      "3": "작업복의 불량",
+      "4": "작업공구의 미흡"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 437,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 37,
+    "question": "용광로 조업에서 석회과잉(line setting)현상의 설명 중 틀린 것은?",
+    "choices": {
+      "1": "유동성이 악화된다.",
+      "2": "용융온도가 상승한다.",
+      "3": "염기도가 급격히 감소한다.",
+      "4": "출선 출재가 곤란하게 된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 438,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 38,
+    "question": "휴풍시 작업상의 주의사항을 설명한 것 중 틀린 것 은?",
+    "choices": {
+      "1": "노정 및 가스 배관을 부압으로 할 것",
+      "2": "제진기의 증기를 필요이상으로 장시간 취입하지 말 것",
+      "3": "가스를 열풍 밸브로부터 송풍기 측에 역류시키지 말 것",
+      "4": "송풍 직후 압력이 낮을 때 누풍을 점검하고 누풍 이 있으면 수리 할 것"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 439,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 39,
+    "question": "다음 중 부주의가 발생하는 현상과 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "의식의 단절",
+      "2": "의식의 우회",
+      "3": "의식의 집중화",
+      "4": "의식 수준의 저하"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 440,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 40,
+    "question": "고로의 장입장치가 구비해야 할 조건으로 틀린 것은?",
+    "choices": {
+      "1": "장치가 간단하여 보수하기 쉬워야 한다.",
+      "2": "장치의 개폐에 따른 마모가 없어야 한다.",
+      "3": "원료를 장입할 때 가스가 새지 않아야 한다.",
+      "4": "조업속도와는 상관없이 최대한 느리게 장입되어야 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 441,
+    "date": "20160124",
+    "subject": 3,
+    "subject_name": "제선법",
+    "question_no": 41,
+    "question": "질소와 화합하여 광재의 유동성을 저해하는 원소는?",
+    "choices": {
+      "1": "C",
+      "2": "Si",
+      "3": "Mn",
+      "4": "Ti"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 442,
     "date": "20160124",
     "subject": 3,
     "subject_name": "제선법",
@@ -1864,8 +7948,8 @@
     "choices": {
       "1": "슬립부에 코크스를 다량 장입한다.",
       "2": "송풍량을 감하고 송풍온도를 높인다.",
-      "4": "가이드 파이프(Guide pipe) 44. 고로 조업시 벤틸레이션과 슬립이 일어났을 때의 대 책과 관계없는 것은?",
-      "3": "슬립부 쪽의 바람구멍에서 송풍량을 감소시킨다. ❹ 통기 저항을 크게 하고 가스 상승차가 발생하게 된다. 45. 고로의 노체 연와(煙瓦)마모 방지 설비인 냉각반은 주 로 구리를 사용하여 만드는 가장 큰 이유는?(오류 신 고가 접수된 문제입니다. 반드시 정답과 해설을 확인 하시기 바랍니다.)"
+      "3": "슬립부 쪽의 바람구멍에서 송풍량을 감소시킨다.",
+      "4": "통기 저항을 크게 하고 가스 상승차가 발생하게 된다. 45. 고로의 노체 연와(煙瓦)마모 방지 설비인 냉각반은 주 로 구리를 사용하여 만드는 가장 큰 이유는?(오류 신 고가 접수된 문제입니다. 반드시 정답과 해설을 확인 하시기 바랍니다.)"
     },
     "answers": [
       3
@@ -1873,7 +7957,25 @@
     "explanation": ""
   },
   {
-    "id": 105,
+    "id": 443,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 46,
+    "question": "소결광의 성분이 보기와 같을 때 염기도는?",
+    "choices": {
+      "1": "1.55",
+      "2": "1.60",
+      "3": "1.65",
+      "4": "1.70"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 444,
     "date": "20160124",
     "subject": 4,
     "subject_name": "소결법",
@@ -1881,9 +7983,9 @@
     "question": "석탄의 풍화에 대한 설명으로 옳은 것은?",
     "choices": {
       "1": "폭 방향으로 연료 및 입도의 편석이 적어야 한다.",
-      "2": "소결기 상층부에는 분 코크스를 증가시키는 것이 좋다. ❸ 입도는 작을수록 소결시간이 단축되므로 미립이 많아야 한다.",
-      "4": "장입물 입도분포와 장입밀도에 따라 소결반응에 영향을 미치므로 통기성이 좋아야 한다.",
-      "3": "자력 선광 ❹ 중액 선광 49. 소결기에 급광하는 원료의 소결반응을 신속하게 하기 위한 조건으로 틀린 것은?"
+      "2": "소결기 상층부에는 분 코크스를 증가시키는 것이 좋다.",
+      "3": "입도는 작을수록 소결시간이 단축되므로 미립이 많아야 한다.",
+      "4": "장입물 입도분포와 장입밀도에 따라 소결반응에 영향을 미치므로 통기성이 좋아야 한다."
     },
     "answers": [
       3
@@ -1891,17 +7993,17 @@
     "explanation": ""
   },
   {
-    "id": 106,
+    "id": 445,
     "date": "20160124",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 50,
-    "question": "코크스(coke)가 과다하게 첨가(배합)되었을 경우 일어 나는 현상이 아닌 것은? ❶ 소결광의 생산량이 증가한다.",
+    "question": "코크스(coke)가 과다하게 첨가(배합)되었을 경우 일어 나는 현상이 아닌 것은?",
     "choices": {
-      "2": "배기가스의 온도가 상승한다.",
+      "1": "건조대→습원료대→하소대→소결대→용융대",
+      "2": "습원료대→건조대→하소대→용융대→소결대",
       "3": "건조대→ 하소대→습원료대→용융대→소결대",
-      "4": "습원료대→하소대→건조대→소결대→용융대",
-      "1": "건조대→습원료대→하소대→소결대→용융대 ❷ 습원료대→건조대→하소대→용융대→소결대"
+      "4": "습원료대→하소대→건조대→소결대→용융대"
     },
     "answers": [
       1
@@ -1909,20 +8011,128 @@
     "explanation": ""
   },
   {
-    "id": 107,
+    "id": 446,
     "date": "20160124",
     "subject": 4,
     "subject_name": "소결법",
     "question_no": 53,
     "question": "다음 중 코크스로에서 발생되는 가스의 성분조성으로 가장 많은 것은?",
     "choices": {
-      "2": "석회석 ❸ 백운석",
-      "3": "N",
-      "4": "감람석",
-      "1": "규석"
+      "1": "규석",
+      "2": "석회석",
+      "3": "백운석",
+      "4": "감람석"
     },
     "answers": [
       1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 447,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 55,
+    "question": "소결광 품질이 고로 조업에 미치는 영향을 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "낙하정도(SI) 저하시 노황 부조의 원인이 된다.",
+      "2": "낙하정도(SI) 저하시 고로 내의 통기성을 저해한 다.",
+      "3": "일반적으로 피환원성이 좋은 소결광일수록 환원시 분화가 어렵고 입자 직경이 커진다.",
+      "4": "소결광의 염기도 변동 폭이 클 경우 부원료를 직 접 장입함으로써 열손실을 초래한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 448,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 56,
+    "question": "야드 설비 중 불출 설비에 해당되는 것은?",
+    "choices": {
+      "1": "스택커(Stacker)",
+      "2": "언로더(Unloader)",
+      "3": "리크레이머(Reclaimer)",
+      "4": "트레인 호퍼(Train Hopper)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 449,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 57,
+    "question": "고로내에서 코크스(coke)의 역할이 아닌 것은?",
+    "choices": {
+      "1": "열원",
+      "2": "산화제",
+      "3": "열교환 매체",
+      "4": "통기성 유지제"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 450,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 58,
+    "question": "소결광을 고로에 사용했을 때의 장점에 해당되지 않 는 것은?",
+    "choices": {
+      "1": "원료비 절감",
+      "2": "피환원성 향상",
+      "3": "코크스연소 촉진",
+      "4": "용선성분 안정화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 451,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 59,
+    "question": "상부광이 사용되는 목적으로 틀린 것은?",
+    "choices": {
+      "1": "화격자가 고온이 되도록 한다.",
+      "2": "화격자 면의 통기성을 양호하게 유지한다.",
+      "3": "용융상태의 소결광이 화격자에 접착되지 않게 한 다.",
+      "4": "화격자 공간으로 원료가 낙하하는 것을 방지하고 분광의 공간 메움을 방지한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 452,
+    "date": "20160124",
+    "subject": 4,
+    "subject_name": "소결법",
+    "question_no": 60,
+    "question": "소결광의 환원분화를 조장하는 화합물은?",
+    "choices": {
+      "1": "페이어라이트(Fayalite)",
+      "2": "마그네타이트(Magnetite)",
+      "3": "칼슘페라이트(Calcium Ferrite)",
+      "4": "재산화 해머타이트(Hematite)"
+    },
+    "answers": [
+      4
     ],
     "explanation": ""
   }

@@ -12785,24 +12785,6 @@
     "date": "20220625",
     "subject": 1,
     "subject_name": "시스템 보안",
-    "question_no": 17,
-    "question": "다음 그림은 a.a.a.a 시스템에서 UDP 패킷을 TTL=1부터 하 나씩 늘려가면서 b.b.b.b로 전송하고, TTL=4일 때 b.b.b.b 시스템에 UDP 패킷이 도달하고 ICMP Port Unreachable(Type 3) 패킷이 a.a.a.a 시스템으로 돌아왓다. 무엇을 하기 위한 과정인가?",
-    "choices": {
-      "1": "ICMP scan",
-      "2": "traceroute",
-      "3": "ping",
-      "4": "UDP scan"
-    },
-    "answers": [
-      2
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 712,
-    "date": "20220625",
-    "subject": 1,
-    "subject_name": "시스템 보안",
     "question_no": 19,
     "question": "BIOS에 대한 설명으로 틀린 것은?",
     "choices": {
@@ -12817,7 +12799,7 @@
     "explanation": ""
   },
   {
-    "id": 713,
+    "id": 712,
     "date": "20220625",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -12835,7 +12817,7 @@
     "explanation": ""
   },
   {
-    "id": 714,
+    "id": 713,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12853,7 +12835,7 @@
     "explanation": ""
   },
   {
-    "id": 715,
+    "id": 714,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12871,7 +12853,7 @@
     "explanation": ""
   },
   {
-    "id": 716,
+    "id": 715,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12889,7 +12871,7 @@
     "explanation": ""
   },
   {
-    "id": 717,
+    "id": 716,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12907,7 +12889,7 @@
     "explanation": ""
   },
   {
-    "id": 718,
+    "id": 717,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12925,7 +12907,7 @@
     "explanation": ""
   },
   {
-    "id": 719,
+    "id": 718,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12943,7 +12925,7 @@
     "explanation": ""
   },
   {
-    "id": 720,
+    "id": 719,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12961,7 +12943,7 @@
     "explanation": ""
   },
   {
-    "id": 721,
+    "id": 720,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12979,7 +12961,7 @@
     "explanation": ""
   },
   {
-    "id": 722,
+    "id": 721,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -12997,7 +12979,7 @@
     "explanation": ""
   },
   {
-    "id": 723,
+    "id": 722,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13015,7 +12997,7 @@
     "explanation": ""
   },
   {
-    "id": 724,
+    "id": 723,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13033,7 +13015,7 @@
     "explanation": ""
   },
   {
-    "id": 725,
+    "id": 724,
     "date": "20220625",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13051,7 +13033,7 @@
     "explanation": ""
   },
   {
-    "id": 726,
+    "id": 725,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13069,7 +13051,7 @@
     "explanation": ""
   },
   {
-    "id": 727,
+    "id": 726,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13087,7 +13069,7 @@
     "explanation": ""
   },
   {
-    "id": 728,
+    "id": 727,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13105,7 +13087,7 @@
     "explanation": ""
   },
   {
-    "id": 729,
+    "id": 728,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13123,7 +13105,7 @@
     "explanation": ""
   },
   {
-    "id": 730,
+    "id": 729,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13141,7 +13123,7 @@
     "explanation": ""
   },
   {
-    "id": 731,
+    "id": 730,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13159,7 +13141,7 @@
     "explanation": ""
   },
   {
-    "id": 732,
+    "id": 731,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13177,7 +13159,7 @@
     "explanation": ""
   },
   {
-    "id": 733,
+    "id": 732,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13195,7 +13177,7 @@
     "explanation": ""
   },
   {
-    "id": 734,
+    "id": 733,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13213,7 +13195,7 @@
     "explanation": ""
   },
   {
-    "id": 735,
+    "id": 734,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13231,7 +13213,7 @@
     "explanation": ""
   },
   {
-    "id": 736,
+    "id": 735,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13249,7 +13231,7 @@
     "explanation": ""
   },
   {
-    "id": 737,
+    "id": 736,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13267,7 +13249,7 @@
     "explanation": ""
   },
   {
-    "id": 738,
+    "id": 737,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13285,7 +13267,7 @@
     "explanation": ""
   },
   {
-    "id": 739,
+    "id": 738,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13303,7 +13285,7 @@
     "explanation": ""
   },
   {
-    "id": 740,
+    "id": 739,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13321,7 +13303,7 @@
     "explanation": ""
   },
   {
-    "id": 741,
+    "id": 740,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13339,7 +13321,7 @@
     "explanation": ""
   },
   {
-    "id": 742,
+    "id": 741,
     "date": "20220625",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -13357,7 +13339,7 @@
     "explanation": ""
   },
   {
-    "id": 743,
+    "id": 742,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13375,7 +13357,7 @@
     "explanation": ""
   },
   {
-    "id": 744,
+    "id": 743,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13393,7 +13375,7 @@
     "explanation": ""
   },
   {
-    "id": 745,
+    "id": 744,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13411,7 +13393,7 @@
     "explanation": ""
   },
   {
-    "id": 746,
+    "id": 745,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13429,7 +13411,7 @@
     "explanation": ""
   },
   {
-    "id": 747,
+    "id": 746,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13447,7 +13429,7 @@
     "explanation": ""
   },
   {
-    "id": 748,
+    "id": 747,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13465,7 +13447,7 @@
     "explanation": ""
   },
   {
-    "id": 749,
+    "id": 748,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13483,7 +13465,7 @@
     "explanation": ""
   },
   {
-    "id": 750,
+    "id": 749,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13501,7 +13483,7 @@
     "explanation": ""
   },
   {
-    "id": 751,
+    "id": 750,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13519,7 +13501,7 @@
     "explanation": ""
   },
   {
-    "id": 752,
+    "id": 751,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13537,7 +13519,7 @@
     "explanation": ""
   },
   {
-    "id": 753,
+    "id": 752,
     "date": "20220625",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -13555,7 +13537,7 @@
     "explanation": ""
   },
   {
-    "id": 754,
+    "id": 753,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13573,7 +13555,7 @@
     "explanation": ""
   },
   {
-    "id": 755,
+    "id": 754,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13591,7 +13573,7 @@
     "explanation": ""
   },
   {
-    "id": 756,
+    "id": 755,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13609,7 +13591,7 @@
     "explanation": ""
   },
   {
-    "id": 757,
+    "id": 756,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13627,7 +13609,7 @@
     "explanation": ""
   },
   {
-    "id": 758,
+    "id": 757,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13645,7 +13627,7 @@
     "explanation": ""
   },
   {
-    "id": 759,
+    "id": 758,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13663,7 +13645,7 @@
     "explanation": ""
   },
   {
-    "id": 760,
+    "id": 759,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13681,7 +13663,7 @@
     "explanation": ""
   },
   {
-    "id": 761,
+    "id": 760,
     "date": "20220625",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -13699,7 +13681,7 @@
     "explanation": ""
   },
   {
-    "id": 762,
+    "id": 761,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13717,7 +13699,7 @@
     "explanation": ""
   },
   {
-    "id": 763,
+    "id": 762,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13735,7 +13717,7 @@
     "explanation": ""
   },
   {
-    "id": 764,
+    "id": 763,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13753,7 +13735,7 @@
     "explanation": ""
   },
   {
-    "id": 765,
+    "id": 764,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13771,7 +13753,7 @@
     "explanation": ""
   },
   {
-    "id": 766,
+    "id": 765,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13789,7 +13771,7 @@
     "explanation": ""
   },
   {
-    "id": 767,
+    "id": 766,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13807,7 +13789,7 @@
     "explanation": ""
   },
   {
-    "id": 768,
+    "id": 767,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13825,7 +13807,7 @@
     "explanation": ""
   },
   {
-    "id": 769,
+    "id": 768,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13843,7 +13825,7 @@
     "explanation": ""
   },
   {
-    "id": 770,
+    "id": 769,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13861,7 +13843,7 @@
     "explanation": ""
   },
   {
-    "id": 771,
+    "id": 770,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13879,7 +13861,7 @@
     "explanation": ""
   },
   {
-    "id": 772,
+    "id": 771,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13897,7 +13879,7 @@
     "explanation": ""
   },
   {
-    "id": 773,
+    "id": 772,
     "date": "20230311",
     "subject": 1,
     "subject_name": "시스템 보안",
@@ -13915,7 +13897,7 @@
     "explanation": ""
   },
   {
-    "id": 774,
+    "id": 773,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13933,7 +13915,7 @@
     "explanation": ""
   },
   {
-    "id": 775,
+    "id": 774,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13951,7 +13933,7 @@
     "explanation": ""
   },
   {
-    "id": 776,
+    "id": 775,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13969,7 +13951,7 @@
     "explanation": ""
   },
   {
-    "id": 777,
+    "id": 776,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -13987,7 +13969,7 @@
     "explanation": ""
   },
   {
-    "id": 778,
+    "id": 777,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -14005,7 +13987,7 @@
     "explanation": ""
   },
   {
-    "id": 779,
+    "id": 778,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -14023,7 +14005,7 @@
     "explanation": ""
   },
   {
-    "id": 780,
+    "id": 779,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -14041,7 +14023,7 @@
     "explanation": ""
   },
   {
-    "id": 781,
+    "id": 780,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -14059,7 +14041,7 @@
     "explanation": ""
   },
   {
-    "id": 782,
+    "id": 781,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -14077,7 +14059,7 @@
     "explanation": ""
   },
   {
-    "id": 783,
+    "id": 782,
     "date": "20230311",
     "subject": 2,
     "subject_name": "네트워크 보안",
@@ -14095,7 +14077,7 @@
     "explanation": ""
   },
   {
-    "id": 784,
+    "id": 783,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14113,7 +14095,7 @@
     "explanation": ""
   },
   {
-    "id": 785,
+    "id": 784,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14131,7 +14113,7 @@
     "explanation": ""
   },
   {
-    "id": 786,
+    "id": 785,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14149,7 +14131,7 @@
     "explanation": ""
   },
   {
-    "id": 787,
+    "id": 786,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14167,7 +14149,7 @@
     "explanation": ""
   },
   {
-    "id": 788,
+    "id": 787,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14185,7 +14167,7 @@
     "explanation": ""
   },
   {
-    "id": 789,
+    "id": 788,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14203,7 +14185,7 @@
     "explanation": ""
   },
   {
-    "id": 790,
+    "id": 789,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14221,7 +14203,7 @@
     "explanation": ""
   },
   {
-    "id": 791,
+    "id": 790,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14239,7 +14221,7 @@
     "explanation": ""
   },
   {
-    "id": 792,
+    "id": 791,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14257,7 +14239,7 @@
     "explanation": ""
   },
   {
-    "id": 793,
+    "id": 792,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14275,7 +14257,7 @@
     "explanation": ""
   },
   {
-    "id": 794,
+    "id": 793,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14293,7 +14275,7 @@
     "explanation": ""
   },
   {
-    "id": 795,
+    "id": 794,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14311,7 +14293,7 @@
     "explanation": ""
   },
   {
-    "id": 796,
+    "id": 795,
     "date": "20230311",
     "subject": 3,
     "subject_name": "어플리케이션 보안",
@@ -14329,7 +14311,7 @@
     "explanation": ""
   },
   {
-    "id": 797,
+    "id": 796,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14347,7 +14329,7 @@
     "explanation": ""
   },
   {
-    "id": 798,
+    "id": 797,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14365,7 +14347,7 @@
     "explanation": ""
   },
   {
-    "id": 799,
+    "id": 798,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14383,7 +14365,7 @@
     "explanation": ""
   },
   {
-    "id": 800,
+    "id": 799,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14401,25 +14383,7 @@
     "explanation": ""
   },
   {
-    "id": 801,
-    "date": "20230311",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 68,
-    "question": "다음 그림의 Needham-Schroeder 프로토콜에 대한 설명으 로 틀린 것은?",
-    "choices": {
-      "1": "사용자 Alice는 사용자 Bob과 공유할 대칭키를 KDC에게 생성해주도록 요청한 후 사용자 Bob과 안전하게 공유하 게 된다.",
-      "2": "사용자 Alice와 KDC, 사용자 Bob과 KDC 간에 전달되는 메시지는 사전에 공유된 대칭키인 마스터키를 이용하여 암호화되어 전달되므로 안전하게 보호된다.",
-      "3": "사용자 Alice와 Bob이 난수 N2와 N3를 암호화해서 교환 하고 암호화된 N2-1과 N3-1을 받는 이유는 상호인증 기능을 수행하는데 목적이 있다.",
-      "4": "이 방식은 공격자가 Ticketb와 Kab{N2}를 스니핑하여 복제한 후 복제된 메시지와 Alice로 위장한 자신의 신분 정보를 보내는 재전송공격에 취약한 단점이 있다."
-    },
-    "answers": [
-      4
-    ],
-    "explanation": ""
-  },
-  {
-    "id": 802,
+    "id": 800,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14437,7 +14401,7 @@
     "explanation": ""
   },
   {
-    "id": 803,
+    "id": 801,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14455,7 +14419,7 @@
     "explanation": ""
   },
   {
-    "id": 804,
+    "id": 802,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14473,7 +14437,7 @@
     "explanation": ""
   },
   {
-    "id": 805,
+    "id": 803,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14491,7 +14455,7 @@
     "explanation": ""
   },
   {
-    "id": 806,
+    "id": 804,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14509,7 +14473,7 @@
     "explanation": ""
   },
   {
-    "id": 807,
+    "id": 805,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14527,7 +14491,7 @@
     "explanation": ""
   },
   {
-    "id": 808,
+    "id": 806,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14545,7 +14509,7 @@
     "explanation": ""
   },
   {
-    "id": 809,
+    "id": 807,
     "date": "20230311",
     "subject": 4,
     "subject_name": "정보 보안 일반",
@@ -14563,7 +14527,7 @@
     "explanation": ""
   },
   {
-    "id": 810,
+    "id": 808,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14581,7 +14545,7 @@
     "explanation": ""
   },
   {
-    "id": 811,
+    "id": 809,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14599,7 +14563,7 @@
     "explanation": ""
   },
   {
-    "id": 812,
+    "id": 810,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14617,7 +14581,7 @@
     "explanation": ""
   },
   {
-    "id": 813,
+    "id": 811,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14635,7 +14599,7 @@
     "explanation": ""
   },
   {
-    "id": 814,
+    "id": 812,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14653,7 +14617,7 @@
     "explanation": ""
   },
   {
-    "id": 815,
+    "id": 813,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14671,7 +14635,7 @@
     "explanation": ""
   },
   {
-    "id": 816,
+    "id": 814,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14689,7 +14653,7 @@
     "explanation": ""
   },
   {
-    "id": 817,
+    "id": 815,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14707,7 +14671,7 @@
     "explanation": ""
   },
   {
-    "id": 818,
+    "id": 816,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14725,7 +14689,7 @@
     "explanation": ""
   },
   {
-    "id": 819,
+    "id": 817,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14743,7 +14707,7 @@
     "explanation": ""
   },
   {
-    "id": 820,
+    "id": 818,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14761,7 +14725,7 @@
     "explanation": ""
   },
   {
-    "id": 821,
+    "id": 819,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
@@ -14779,7 +14743,7 @@
     "explanation": ""
   },
   {
-    "id": 822,
+    "id": 820,
     "date": "20230311",
     "subject": 5,
     "subject_name": "정보보안 관리 및 법규",
