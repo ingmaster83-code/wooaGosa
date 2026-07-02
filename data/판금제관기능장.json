@@ -1,1 +1,4322 @@
-[{"id": 1, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "다음은 강재의 변형을 수정하는 기구들이다. 변형수정에 사용 되지 않는 것은 ?", "choices": {"1": "터닝 롤(turning roll)", "2": "앵글 벤더(angle bender)", "3": "벤딩 롤링 머신(bending rolling machine)", "4": "탄젠트 벤더(tangent bender)"}, "answers": [1], "explanation": ""}, {"id": 2, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 5, "question": "다음 중 전단가공 방식이 아닌 것은 ?", "choices": {"1": "4배", "2": "5배", "3": "6배", "4": "7배"}, "answers": [4], "explanation": ""}, {"id": 3, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 9, "question": "스프링 백(spring back)에 대한 설명 중 틀린것은 ?", "choices": {"1": "1.32× 103", "2": "1.32× 104", "3": "스프링 백의 양은 굽힘선의 길이와 비례한다.", "4": "스프링 백은 탄성한계 및 강도가 높을수록 스프링 백의 양은 작아진다. 10. 두께 4.5mm의 강판에 1변이 30mm되는 사각구멍을 뚫으려 면 펀치에 몇 kgf의 힘을 가하면 되는가 ? (단, 이 강판은 전단응력이 35kgf/mm2를 넘으면 전단된다고 한다.)"}, "answers": [4], "explanation": ""}, {"id": 4, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 11, "question": "다음 클리어런스(틈)의 크기에 관한 설명중 잘못된것은 ?", "choices": {"1": "패킹 플레이트(packing plate)", "2": "녹 아웃(knock out)", "3": "펀치 홀더(punch holder)", "4": "스토퍼(stopper)"}, "answers": [2], "explanation": ""}, {"id": 5, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "경판을 프레스로 가공하려고 할 때의 설명 중 잘못된 것은 ?", "choices": {"1": "경판 곡선부의 반지름 방향 허용공차는 3% 이하로 제한 한다.", "2": "소재와 다이 접촉부와의 길이는 판두께의 3배 이하로 한 다.", "3": "가공 후 경판의 끝부분은 판두께가 증가한다.", "4": "드로잉비는 강판의 경우 보통 1.3 - 2.0이다."}, "answers": [1], "explanation": ""}, {"id": 6, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 14, "question": "리벳 구멍사이의 판재가 절단될 경우 인장하중을 나타내는 식은 ? (단, W:인장하중(kgf), P:리벳의 피치(㎝), d:리벳지 름(㎝), t:강판의 두께(㎝), σ : 강판의 인장응력(kgf/cm2)) t", "choices": {"1": "코킹 정", "2": "캡 정", "3": "홈 정", "4": "평 정"}, "answers": [1], "explanation": ""}, {"id": 7, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "보일러의 리벳이음에서 세로이음에 대한 설명으로 틀린 것 은 ?", "choices": {"1": "한쪽 덮개판 이음(Strapped Joint)으로 하지 않는다.", "2": "안지름이 1000mm을 초과할 때는 겹치기 이음 (Lap Joint)으로 하지 않는다.", "3": "세로이음의 강도는 원주방향 강도의 50% 이상이 필요하 다.", "4": "안지름이 1000mm이하이고, 최고사용 압력이 7kgf/cm2 을 초과할 때는 겹치기 이음으로 하지 않는다."}, "answers": [3], "explanation": ""}, {"id": 8, "date": "20020407", "subject": 1, "subject_name": "임의 구분", "question_no": 19, "question": "프로젝션 용접(projection welding)의 요구조건으로 틀린 것 은 ?", "choices": {"1": "상승 특성", "2": "정전압 특성", "3": "정전류 특성", "4": "수하 특성"}, "answers": [3], "explanation": ""}, {"id": 9, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 21, "question": "아세틸렌 가스의 자연발화 온도를 가장 알맞게 나타낸 것은 ?", "choices": {"1": "G", "2": "CH", "3": "R", "4": "B"}, "answers": [3], "explanation": ""}, {"id": 10, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 23, "question": "보일러 및 압력 용기용 압연강판을 나타내는 것은 ?", "choices": {"1": "삼각형 전개법", "2": "평행선 전개법", "3": "방사선 전개법", "4": "사다리 전개법"}, "answers": [2], "explanation": ""}, {"id": 11, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 25, "question": "금속재료가 소성변형에 의하여 단단하게 경화되는 현상은 ?", "choices": {"1": "담금질 경화", "2": "가공 경화", "3": "풀림 경화", "4": "시효 경화"}, "answers": [2], "explanation": ""}, {"id": 12, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 26, "question": "양은 이라고 하는 양백판(german silver)의 주성분이 아닌 것은 ?", "choices": {"1": "구리(Cu)", "2": "아연(Zn)", "3": "망간(Mn)", "4": "니켈(Ni)"}, "answers": [3], "explanation": ""}, {"id": 13, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 27, "question": "쌍정에 의한 변형은 어떤 것에 의하여 형성되는가 ?", "choices": {"1": "0.24mm", "2": "0.48mm", "3": "탄성적인 이동에 의하여", "4": "집단 슬립의 이동에 의하여 28. 외경이 쫑53, 길이 4m의 강관이 20℃에서 설치되었으나 액 체가 흐름에 따라 80℃로 상승하였다. 열에 의한 신장량을 구하면 ? (단, 열팽창계수는 α = 2 × 10-5 deg-1 로 한다.)"}, "answers": [1], "explanation": ""}, {"id": 14, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 30, "question": "피니싱 온도(finishing temperature)는 무엇이 끝나는 온도인 가?", "choices": {"1": "재결정", "2": "열처리", "3": "냉간 가공", "4": "열간 가공"}, "answers": [4], "explanation": ""}, {"id": 15, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 35, "question": "다음 중 산업재해의 인적 요인으로 옳지 않은 것은?", "choices": {"1": "위험물의 취급 부주의", "2": "복장, 보호구의 결함", "3": "안전장치의 기능제거", "4": "불안전한 속도조작"}, "answers": [2], "explanation": ""}, {"id": 16, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 36, "question": "T.T.T 곡선과 관계가 있는 것은 어느 곡선인가 ?", "choices": {"1": "Fe -C 곡선", "2": "탄성 곡선 3", "3": "항온 변태 곡선", "4": "인장 피로 곡선"}, "answers": [3], "explanation": ""}, {"id": 17, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 37, "question": "담금질 조직으로 경도가 가장 큰 것은 ?", "choices": {"1": "오스테나이트", "2": "마르텐사이트", "3": "소르바이트", "4": "퍼얼라이트"}, "answers": [2], "explanation": ""}, {"id": 18, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 38, "question": "다음 중 플라이휠(fly wheel)을 설치하지않는 프레스는 ?", "choices": {"1": "크랭크 프레스(Crank press)", "2": "토글 프레스(Toggle press)", "3": "프레스 브레이크(Press brake)", "4": "유압 프레스(Hydraulic press)"}, "answers": [4], "explanation": ""}, {"id": 19, "date": "20020407", "subject": 2, "subject_name": "임의 구분", "question_no": 39, "question": "다음 중 크랭크 프레스의 능력이 아닌 것은 ?", "choices": {"1": "드로잉률 0.3, 재드로잉 지름 56mm", "2": "드로잉률 0.6, 재드로잉 지름 48mm", "3": "드로잉률 1.2, 재드로잉 지름 60mm", "4": "드로잉률 0.3, 재드로잉 지름 100mm"}, "answers": [1], "explanation": ""}, {"id": 20, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "판금 가공중 드로잉(Drawing)가공법은 ?", "choices": {"1": "25%", "2": "26.6%", "3": "73.4%", "4": "75%"}, "answers": [2], "explanation": ""}, {"id": 21, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 46, "question": "제 1 각법에서 정면도 아래에는 어느 것이 위치하게 되는가 ?", "choices": {"1": "저면도", "2": "측면도", "3": "평면도", "4": "배면도"}, "answers": [3], "explanation": ""}, {"id": 22, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "투상도법의 제원칙과 거리가 먼 내용은 ?", "choices": {"1": "일반적으로 투상법은 제3각법으로 작도함을 원칙으로 한 다.", "2": "단면은 기본 중심선에서 절단한 면으로서 표시 하는 것 을 원칙으로 한다.", "3": "일부가 특정한 형태로 되어 있는것(키이 홈을 가지는 보 스 등)은 그부분이 그림의 위쪽에 나타나게 그린다.", "4": "축, 핀, 리벳 등은 길이 방향으로 절단하는 것을 원칙으"}, "answers": [4], "explanation": ""}, {"id": 23, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 48, "question": "판뜨기 전개에서 판두께의 중립선의 위치 설정에 대한 설명 이다. 옳은 것은 ?", "choices": {"1": "원통과 같이 평면도가 곡선으로 그려지는 것은 판두께의 바깥지름에서 잡는다.", "2": "원뿔과 같이 평면도가 곡선으로 그려지는 것은 판두께의 중심에서 잡는다.", "3": "각통과 같이 모가 나게 굽혀진 곳이 있는 것은 판두께의 바깥쪽에서 잡는다.", "4": "각뿔과 같이 모가 나게 굽혀진 곳이 있는 것은 판두께의 중심에서 잡는다."}, "answers": [2], "explanation": ""}, {"id": 24, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 49, "question": "평행 전개법을 사용하여 판뜨기 전개도를 그리는 것이 가장 적합한 것은 ?", "choices": {"1": "평행선법", "2": "삼각형법", "3": "직교좌표법", "4": "혼합법"}, "answers": [1], "explanation": ""}, {"id": 25, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "판금 가공용 판재가 될 수 없는 것은 ?", "choices": {"1": "주철판", "2": "연강판", "3": "스테인리스강판", "4": "알루미늄 합금판"}, "answers": [1], "explanation": ""}, {"id": 26, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "판금 가공용 재료의 구비할 조건이 될 수 없는 것은 ?", "choices": {"1": "전연성이 풍부할 것", "2": "항복점이 낮을 것", "3": "탄성이 풍부할 것", "4": "소성이 풍부할 것"}, "answers": [3], "explanation": ""}, {"id": 27, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "다음 중 용융 아연도금 강판 기호로 맞는 것은 ?", "choices": {"1": "SBC", "2": "HRS", "3": "SSP", "4": "SGHC"}, "answers": [4], "explanation": ""}, {"id": 28, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "철강 재료에 포함되어 있는 철의 5대 원소는 ?", "choices": {"1": "C, Si, P, Mn, O", "2": "C, P, N, Cu, S", "3": "C, N, Mn, Si, P", "4": "C, Si, Mn, P, S"}, "answers": [4], "explanation": ""}, {"id": 29, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 55, "question": "도수분포표에서 도수가 최대인 곳의 대표치를 말하는 것은?", "choices": {"1": "비용구배(Cost slope)", "2": "정상 소요시간(Normal duration)", "3": "비용견적(Cost estimation)", "4": "총비용(Total cost)"}, "answers": [3], "explanation": ""}, {"id": 30, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "서블릭(therblig)기호는 어떤 분석에 주로 이용되는가?", "choices": {"1": "연합작업분석", "2": "공정분석", "3": "동작분석", "4": "작업분석"}, "answers": [3], "explanation": ""}, {"id": 31, "date": "20020407", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "모집단의 참값과 측정 데이터의 차를 무엇이라 하는가?", "choices": {"1": "150분", "2": "145분", "3": "125분", "4": "105분"}, "answers": [1], "explanation": ""}, {"id": 32, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 2, "question": "ㄱ형강이나 T형강을 굽히는데 주로 사용되는 기계는 ?", "choices": {"1": "127", "2": "137", "3": "2.0t", "4": "2.5t 7. 그림과 같은 제품을 두께 4mm의 강판을 이용하여 제작하려 고 한다. 중립선이 판의 중심부에 있다고 가정하면 필요한 소 재의 길이는 몇 mm인가?"}, "answers": [3], "explanation": ""}, {"id": 33, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 9, "question": "파일럿(pilot)의 기능을 가장 잘 설명한 것은?", "choices": {"1": "23", "2": "28", "3": "34", "4": "38"}, "answers": [3], "explanation": ""}, {"id": 34, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 11, "question": "납땜 작업에서 연납용 용제로 주로 사용되는 것은 ?", "choices": {"1": "2600", "2": "1800", "3": "1260", "4": "1170"}, "answers": [4], "explanation": ""}, {"id": 35, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "패킹,박판,형강등 얇은 물체의 단면 표시 방법으로 맞는 것 은 ?", "choices": {"1": "1개의 굵은 실선", "2": "1개의 가는 실선", "3": "은선", "4": "파선"}, "answers": [1], "explanation": ""}, {"id": 36, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 16, "question": "다음중 금속재료의 기계적 성질이 아닌 것은 ?", "choices": {"1": "인성", "2": "경도", "3": "열팽창 계수", "4": "탄성계수"}, "answers": [3], "explanation": ""}, {"id": 37, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "오스테나이트계 스테인리스강에 대한 설명으로 틀린것은?", "choices": {"1": "KS 기호로는 STS 304이다.", "2": "자성체이다.", "3": "Cr 18%, Ni 8%의 합금이다.", "4": "소성 가공성이 양호하다."}, "answers": [2], "explanation": ""}, {"id": 38, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 18, "question": "냉간가공과 열간가공의 구분 온도는 ?", "choices": {"1": "응고 온도", "2": "담금질 온도", "3": "재결정 온도", "4": "연소 온도"}, "answers": [3], "explanation": ""}, {"id": 39, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 20, "question": "다음 중 관을 직선으로 연결할 때 사용하는 것으로 옳지 않 은 것은 ?", "choices": {"1": "quenching", "2": "annealing", "3": "normalizing", "4": "tempering"}, "answers": [2], "explanation": ""}, {"id": 40, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 22, "question": "다음은 침탄법과 질화법의 성질을 비교한 것이다. 침탄법에 속하는 것은 ?", "choices": {"1": "질화법", "2": "시안화법", "3": "숏 피닝", "4": "금속침투법"}, "answers": [4], "explanation": ""}, {"id": 41, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 24, "question": "담금질 조직 중 경도와 강도 순으로 표시한 것은?", "choices": {"1": "블랭킹(blanking)", "2": "전단(shearing)", "3": "펀칭(punching)", "4": "트리밍(trimming)"}, "answers": [1], "explanation": ""}, {"id": 42, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 31, "question": "다음 중 압축가공의 종류로만 짝지어진 것은?", "choices": {"1": "블랭킹, 셰이빙, 벌징", "2": "사이징, 압출가공, 펀칭", "3": "엠보싱, 스웨이징, 코이닝", "4": "커핑, 브로우칭, 트리밍"}, "answers": [3], "explanation": ""}, {"id": 43, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 32, "question": "다음 판금가공 중 압축가공이 아닌 것은?", "choices": {"1": "0.75", "2": "2.1", "3": "3.01", "4": "9.8"}, "answers": [4], "explanation": ""}, {"id": 44, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 34, "question": "리벳이음의 검사에서 틀린 것은?", "choices": {"1": "전류용량을 크게 할 수 있다.", "2": "클램프(clamp)", "3": "받침대(dally)", "4": "스냅(snap) 36. 불활성가스 텅스텐 아크 용접에서 토륨 텅스텐 봉을 사용하 는 이유가 아닌 것은?"}, "answers": [2], "explanation": ""}, {"id": 45, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 38, "question": "연강용 피복아크 용접봉 중 일미나이트계 용접봉은?", "choices": {"1": "D = t/2", "2": "D = (t/2) +1", "3": "D = (t/2) -1", "4": "D = (t/2) +2"}, "answers": [1], "explanation": ""}, {"id": 46, "date": "20020721", "subject": 2, "subject_name": "임의 구분", "question_no": 40, "question": "KS제도에서 가는 실선으로 나타내지 않는 것은 ?", "choices": {"1": "치수 보조선", "2": "지시선", "3": "기준선", "4": "회전 단면선"}, "answers": [3], "explanation": ""}, {"id": 47, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "다음 금속중 가장 비중이 큰 것은 ?", "choices": {"1": "Cu", "2": "Au", "3": "Pb", "4": "Al"}, "answers": [2], "explanation": ""}, {"id": 48, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 45, "question": "점 용접의 3대 요소가 아닌 것은 ?", "choices": {"1": "편석", "2": "쌍정", "3": "전위", "4": "슬립"}, "answers": [3], "explanation": ""}, {"id": 50, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "설비의 구식화에 의한 열화는?", "choices": {"1": "3", "2": "6", "3": "9", "4": "12"}, "answers": [1], "explanation": ""}, {"id": 51, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "냉간가공에 의하여 강도와 경도가 증가되는 현상은?", "choices": {"1": "시효경화", "2": "표면경화", "3": "가공경화", "4": "침탄경화"}, "answers": [3], "explanation": ""}, {"id": 52, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 55, "question": "TIG 용접에 관한 설명 중 틀린 것은?", "choices": {"1": "직류정극성은 비드폭이 좁고 용입이 깊다.", "2": "알루미늄, 마그네슘 합금 등은 주로 직류 정극성을 사용 한다.", "3": "아르곤, 헬륨 등의 불활성 가스를 사용한다.", "4": "용제(flux)를 사용하지 않으므로 슬래그 제거가 불필요하 다."}, "answers": [2], "explanation": ""}, {"id": 53, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 56, "question": "공급자에 대한 보호와 구입자에 대한 보증의 정도를 규정해 두고 공급자의 요구와 구입자의 요구 양쪽을 만족하도록 하 는 샘플링 검사방식은?", "choices": {"1": "규준형 샘플링 검사", "2": "조정형 샘플링 검사", "3": "선별형 샘플링 검사", "4": "연속생산형 샘플링 검사"}, "answers": [1], "explanation": ""}, {"id": 54, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "표는 어느 회사의 월별 판매실적을 나타낸 것이다. 5개월 이동평균법으로 6월의 수요를 예측하면?", "choices": {"1": "150", "2": "140", "3": "130", "4": "120"}, "answers": [4], "explanation": ""}, {"id": 56, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "강판을 원통, 원뿔형으로 굽히는 기계는?", "choices": {"1": "스프링 해머(spring hammer)", "2": "너클 죠인트 프레스(knuckle joint press)", "3": "드롭 해머(drop hammer)", "4": "토글 해머(toggle hammer)"}, "answers": [4], "explanation": ""}, {"id": 57, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 4, "question": "성형에 사용되는 해머(hammer)의 크기는 무엇으로 표시하는 가 ?", "choices": {"1": "해머의 머리 무게", "2": "해머의 전체 길이", "3": "해머의 전체 무게(해머머리 + 자루)", "4": "해머의 단면적"}, "answers": [1], "explanation": ""}, {"id": 58, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 5, "question": "파이프 굽힘작업 설명 중 틀린 것은?", "choices": {"1": "판재의 경도가 높을수록 작아진다.", "2": "탄성한계가 높을수록 작아진다.", "3": "판재의 소성이 클수록 커진다.", "4": "동일한 두께의 판재에서는 구부림 반경이 클수록 커진다."}, "answers": [1], "explanation": ""}, {"id": 59, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 7, "question": "스프링백의 감소방법에 해당되지 않는 것은 ?", "choices": {"1": "펀치에 백 테이퍼(back taper)를 붙여준다.", "2": "캠기구를 이용한다.", "3": "펀치와 다이의 표면을 도금처리 하여 조도를 높인다.", "4": "패드에 배압을 가한다."}, "answers": [3], "explanation": ""}, {"id": 60, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 10, "question": "강철 단조작업에서 단조온도의 색깔에 대한 다음 설명 중 옳은 것은?", "choices": {"1": "각장(leg length)", "2": "노치(notch)", "3": "목의 이론두께(theoretical throat)", "4": "용접선(weld line)"}, "answers": [4], "explanation": ""}, {"id": 61, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 12, "question": "아세틸렌 가스의 자연발화 온도는 ?", "choices": {"1": "406 - 408℃", "2": "505 - 515℃", "3": "780℃", "4": "150 - 200℃"}, "answers": [1], "explanation": ""}, {"id": 62, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "이산화탄소 아크용접의 특징으로 틀린 것은 ?", "choices": {"1": "테르밋 용접", "2": "일렉트로 슬래그 용접", "3": "일렉트로 빔 용접", "4": "플라스마 용접"}, "answers": [3], "explanation": ""}, {"id": 63, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 16, "question": "점용접의 결과에 영향을 미치는 중요한 요소가 아닌것은?", "choices": {"1": "통전시간", "2": "도전율", "3": "용접전류", "4": "가압력"}, "answers": [2], "explanation": ""}, {"id": 64, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "다음 투영법 중 제 3각법의 설명으로 틀린 것은 ?", "choices": {"1": "m= d/D", "2": "m= D/d", "3": "m= (D-d)/d", "4": "m= (D-d)/D"}, "answers": [4], "explanation": ""}, {"id": 65, "date": "20030330", "subject": 1, "subject_name": "임의 구분", "question_no": 19, "question": "45° 로 자른 원뿔의 전개도는 어떤 방법을 이용하여 그리는 것이 편리한가 ?", "choices": {"1": "되풀이하는 것을 나타내는 선", "2": "단면의 무게중심을 연결한 선을 표시하는 선", "3": "중심이 이동한 중심궤적을 표시하는 선", "4": "공구,지그 등의 위치를 참고로 나타내는 선"}, "answers": [3], "explanation": ""}, {"id": 66, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 21, "question": "다음 회주철을 표시하는 것은 ?", "choices": {"1": "실루민", "2": "히드로날륨", "3": "라우탈", "4": "Y 합금"}, "answers": [4], "explanation": ""}, {"id": 67, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 23, "question": "열처리 조직의 강도와 경도가 큰 순위가 바르게 된 것은?", "choices": {"1": "마텐자이트>트루스타이트>소르바이트>펄라이트", "2": "트루스타이트>마텐자이트>소르바이트>펄라이트", "3": "소르바이트>펄라이트>트루스타이트>마텐자이트", "4": "펄라이트>트루스타이트>마텐자이트>소르바이트"}, "answers": [1], "explanation": ""}, {"id": 68, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 24, "question": "냉간가공과 열간가공을 비교 설명한 것 중 열간가공에 속하 는 것은 ?", "choices": {"1": "탄젠트 벤더", "2": "엔빌", "3": "가감나사", "4": "짐 크로(jim crow)"}, "answers": [4], "explanation": ""}, {"id": 69, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 26, "question": "다음 재료의 변형 수정에 대하여 쓴 것 중 틀린 것은 ?", "choices": {"1": "조정나사는 조립한 구조물이 비틀리거나 벌어지거나 하 였을 때에 조정하기 위하여 사용한다.", "2": "강판의 변형을 수정하려면 변형 수정 롤을 사용하면 좋 다.", "3": "후판용 변형 교정롤에는 작업롤의 지름을 작게하고 강성 을 주기 위하여 짐크로를 설치한 것이 많다.", "4": "변형 교정 프레스는 수직형과 수평형이 있다."}, "answers": [3], "explanation": ""}, {"id": 70, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 27, "question": "다음에서 초음파 검사 방식이 아닌 것은 ?", "choices": {"1": "펄스 반사식", "2": "투과식", "3": "여과식", "4": "공진식"}, "answers": [3], "explanation": ""}, {"id": 71, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 28, "question": "항온 열처리의 요소에 해당되지 않는 것은 ?", "choices": {"1": "불림(normalizing)", "2": "담금질(quenching)", "3": "풀림(annealing)", "4": "뜨임(tempering)"}, "answers": [2], "explanation": ""}, {"id": 72, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 30, "question": "배력 장치를 이용한 프레스(press)는 어느 것인가 ?", "choices": {"1": "사각 나사(square thread)", "2": "사다리꼴 나사(trapezoidal thread)", "3": "톱니 나사(buttress thread)", "4": "둥근 나사(round thread)"}, "answers": [1], "explanation": ""}, {"id": 73, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 32, "question": "다음은 전단가공하였을 경우, 절단면에 이루어지는 형상 중 넓을수록, 클수록 좋은 형상은 ?", "choices": {"1": "처짐면", "2": "전단면", "3": "파단면", "4": "버어(burr)면"}, "answers": [2], "explanation": ""}, {"id": 74, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 33, "question": "다음중 전단가공이 아닌 것은 ?", "choices": {"1": "드로잉률 0.3, 용기의 지름 56mm", "2": "드로잉률 0.6, 용기의 지름 48mm", "3": "29.28", "4": "30.28 35. 지름 100mm의 소재를 드로잉하여 지름 60mm의 원통용기 를 만들었다. 이 때 드로잉률은 얼마인가 ? 또 이 60mm지 름의 용기를 재드로잉률 0.8을 써서 재드로잉하면 재드로잉 후의 용기의 지름은 얼마인가 ?"}, "answers": [1], "explanation": ""}, {"id": 75, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 37, "question": "국부가열에 의한 변형교정 작업으로 잘못 설명한 것은?", "choices": {"1": "경강은 열 영향이 커서 효과가 없다.", "2": "가열온도가 너무 높으면 금속 조직이 거칠어진다.", "3": "가열은 작은 불꽃으로 장시간 가열한다.", "4": "두께가 0.8mm인 연강판의 가열범위는 10 - 15mm가 적당하다."}, "answers": [3], "explanation": ""}, {"id": 76, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 38, "question": "다음 중 전기저항열을 이용하는 용접이 아닌 것은 ?", "choices": {"1": "점 용접(spot welding)", "2": "일렉트로 슬래그 용접(electro slag welding)", "3": "프로젝션 용접(projection welding)", "4": "심 용접(seam welding)"}, "answers": [2], "explanation": ""}, {"id": 77, "date": "20030330", "subject": 2, "subject_name": "임의 구분", "question_no": 39, "question": "리벳이음 작업시 작업순서를 나열한 것중 옳은 것은 ?", "choices": {"1": "1 : 1", "2": "1 : 2", "3": "1 : 3", "4": "1 : 4"}, "answers": [1], "explanation": ""}, {"id": 78, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "판뜨기 전개에서 판두께를 고려하여 전개도를 그리는 가장 큰 이유는 ?", "choices": {"1": "정확한 판뜨기를 위하여", "2": "접속부에 마찰열이 생기므로", "3": "절단 부위의 요철을 막기 위하여", "4": "전개시간을 절약하기 위하여 43. 그림과 같이 바로 선 사각통에 원통이 비스듬이 만나는 상 관체의 전개도를 그렸다. 사각주의 상관부분 전개도로서 알 맞는 것은 ?"}, "answers": [1], "explanation": ""}, {"id": 79, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 46, "question": "판재에 대한 다음 설명 중 잘못된 것은 ?", "choices": {"1": "SS400-A", "2": "SS400-P", "3": "SS400-B", "4": "SS400-F"}, "answers": [2], "explanation": ""}, {"id": 80, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 48, "question": "재료의 전성(展性)이 큰 순서대로 된 것은 ?", "choices": {"1": "금 >은 >백금 >알루미늄 >철 >니켈", "2": "금 >백금 >은 >구리 >철 >아연", "3": "금 >은 >알루미늄 >구리 >백금 >납", "4": "금 >은 >구리 >알루미늄 >납 >니켈"}, "answers": [1], "explanation": ""}, {"id": 81, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 49, "question": "냉간가공과 열간가공을 비교했을 때 열간가공의 특징을 설 명한 것이다. 옳은 것은?", "choices": {"1": "결정립의 결정학적 방향이 일정하지 않고 무질서한 방위 를 갖는것.", "2": "결정립이 선택방위를 갖게되어 기계적 성질이 측정하는 방향에 따라 달라지는 것.", "3": "재료의 섬유조직이 파괴되어 결정립의 방향이 무질서한 집합조직으로 되는 것.", "4": "열간가공하면 질서정연하던 결정조직이 파괴되어 무질서 하게 되는 것."}, "answers": [3], "explanation": ""}, {"id": 82, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "금속의 슬립(slip)에 대한 설명이다. 틀린 것은 ?", "choices": {"1": "슬립선은 변형이 진행됨에 따라 그 수가 적어진다.", "2": "슬립이 일어나기 쉬운 면은 원자 밀도가 제일 큰 격자면 이다.", "3": "슬립에 대한 저항이 차차 증가하면 가공경화가 생긴다.", "4": "슬립의 방향은 원자 밀도가 제일 큰 방향이다."}, "answers": [1], "explanation": ""}, {"id": 83, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "풀림(Annealing)의 목적과 관계가 없는 것은 ?", "choices": {"1": "3.7", "2": "4.2", "3": "4.7", "4": "5.2"}, "answers": [3], "explanation": ""}, {"id": 85, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 56, "question": "품질관리 활동의 초기단계에서 가장 큰 비율로 들어가는 코 스트는?", "choices": {"1": "평가코스트", "2": "실패코스트", "3": "예방코스트", "4": "검사코스트"}, "answers": [2], "explanation": ""}, {"id": 86, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "PERT/CPM에서 Network 작도시 碇은 무엇을 나타내는가?", "choices": {"1": "단계(event)", "2": "명목상의 활동(dummy activity)", "3": "병행활동(paralleled activity)", "4": "최초단계(initial event)"}, "answers": [2], "explanation": ""}, {"id": 87, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 58, "question": "신제품에 가장 적합한 수요예측 방법은?", "choices": {"1": "시계열분석", "2": "의견분석", "3": "최소자승법", "4": "지수평활법"}, "answers": [2], "explanation": ""}, {"id": 88, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "관리도에 대한 설명 내용으로 가장 관계가 먼 것은?", "choices": {"1": "관리도는 공정의 관리만이 아니라 공정의 해석에도 이용 된다.", "2": "관리도는 과거의 데이터의 해석에도 이용된다.", "3": "관리도는 표준화가 불가능한 공정에는 사용할 수 없다.", "4": "계량치인 경우에는 관리도가 일반적으로 이용된다."}, "answers": [3], "explanation": ""}, {"id": 89, "date": "20030330", "subject": 3, "subject_name": "임의 구분", "question_no": 60, "question": "다음은 워크 샘플링에 대한 설명이다. 틀린 것은?", "choices": {"1": "관측대상의 작업을 모집단으로 하고 임의의 시점에서 작 업내용을 샘플로 한다.", "2": "업무나 활동의 비율을 알 수 있다.", "3": "기초이론은 확률이다.", "4": "한 사람의 관측자가 1인 또는 1대의 기계만을 측정한다."}, "answers": [4], "explanation": ""}, {"id": 90, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "다음 프레스 작업의 설명 중 틀린 것은 ?", "choices": {"1": "백 포스트형(back post type)", "2": "센터 포스트형(center post type)", "3": "다이애거널 포스트형(diagonal post type)", "4": "포오 포스트형(four post type)"}, "answers": [3], "explanation": ""}, {"id": 91, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 3, "question": "센터펀치(center punch)의 일반적인 각도는 ?", "choices": {"1": "15°", "2": "30°", "3": "60°", "4": "118°"}, "answers": [3], "explanation": ""}, {"id": 92, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 4, "question": "굽힘 작업시 압축도 인장도 받지 않는 부분을 무엇이라 하는 가 ?", "choices": {"1": "140", "2": "160", "3": "180", "4": "200"}, "answers": [4], "explanation": ""}, {"id": 93, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 7, "question": "블랭킹(blanking) 작업이란 ?", "choices": {"1": "코이닝", "2": "사이징", "3": "스웨이징", "4": "엠보싱"}, "answers": [4], "explanation": ""}, {"id": 94, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 11, "question": "아크 용접법에서 비소모식 전극봉을 사용하는 것은 ?", "choices": {"1": "플라스마 절단", "2": "산소 아크 절단", "3": "금속 아크 절단", "4": "아크 에어 가우징"}, "answers": [1], "explanation": ""}, {"id": 95, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "전자빔(electron beam)용접법의 특징은 ?", "choices": {"1": "R : 1077mm, θ: 133.7°", "2": "R : 1177mm, θ: 143.7°", "3": "R : 1077mm, θ: 123.4°", "4": "R : 1177mm, θ: 143.4°"}, "answers": [3], "explanation": ""}, {"id": 96, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 15, "question": "공작물의 일부분에 열처리 등 특수한 가공을 하는 경우에는 그 범위를 외형선에 약간 떼어서 그리게 되는데 이 때 사용 하는 선은 ?", "choices": {"1": "관용 투상도", "2": "가상 투상도", "3": "보조 투상도", "4": "직접 투상도"}, "answers": [3], "explanation": ""}, {"id": 97, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 18, "question": "다음 중 철의 재결정 온도는?", "choices": {"1": "변태온도", "2": "재결정온도", "3": "단조온도", "4": "천이온도"}, "answers": [3], "explanation": ""}, {"id": 98, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 21, "question": "어느 한 방향으로 소성변형을 가한 재료에 다시 역방향의 하중을 가하면 전과 같은 방향으로 하중을 가한 경우 보다 도 소성변형에 대한 저항이 감소한다. 즉 가공경화가 적어 지는 이와 같은 것을 무엇이라 하는가 ?", "choices": {"1": "0.005mm", "2": "0.001mm", "3": "0.05mm", "4": "0.01mm"}, "answers": [1], "explanation": ""}, {"id": 99, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 25, "question": "라미네이션(lamination)의 결함을 탐상하는데 가장 적합한 시험법은?", "choices": {"1": "A 또는 A 점 보다 30 - 50℃ 높게 가열하고 두께 3 1 25mm 에 대하여 30분 정도 유지한다.", "2": "A 변태점 보다 낮은 550 - 650℃ 정도로 가열한다. 1", "3": "A 또는 A 점 보다 20 - 30℃ 높게 가열하고 두께 3 1 10mm 당 10분 정도 유지한다.", "4": "600 - 680℃ 에서 2 - 5시간 가열한다."}, "answers": [2], "explanation": ""}, {"id": 100, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 27, "question": "표면 경화법 중 화염 경화법의 특징이 아닌 것은 ?", "choices": {"1": "경도를 증가시키기 위하여", "2": "균열발생을 방지하기 위하여", "3": "탄소당량을 증가시키기 위하여", "4": "인성과 강도를 증가시키기 위하여"}, "answers": [4], "explanation": ""}, {"id": 101, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 29, "question": "다음 판금공작용 기계중 폭이 좁은 바이트를 아래와 위에 각각 장치하고 윗날의 상하 운동에 의하여 재료를 절단하는 것은 ?", "choices": {"1": "회전 전단기(rotary shear)", "2": "바이브러 시어(vibro shear)", "3": "레버 시어(lever shear)", "4": "직각 전단기(square shear)"}, "answers": [2], "explanation": ""}, {"id": 102, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 30, "question": "가공 행정의 끝부분에서 강력한 힘을 얻을 수 있어 코닝작 업 등에 많이 사용되는 프레스는 ?", "choices": {"1": "유압 프레스", "2": "마찰 프레스", "3": "너클 프레스", "4": "크랭크 프레스"}, "answers": [3], "explanation": ""}, {"id": 103, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 31, "question": "다음중 토글 프레스(Toggle Press)에 대한 설명으로 맞는 것은 ?", "choices": {"1": "행정의 끝부분에서 속도가 늦어지고 힘이 크게 되도록 되어 있다.", "2": "Press의 성능에 비하여 과대한 힘을 필요로 하는 작업에 도 적당하다.", "3": "행정과 크랭크의 회전 각도와의 관계는 싸인 커브를 그 리도록 되어 있다.", "4": "여러 개의 프레스를 하나로 만든 매우 능률적인 프레스 이다."}, "answers": [1], "explanation": ""}, {"id": 104, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 34, "question": "굽힘 작업을 할 때에 고려해야 할 사항이 아닌 것은 ?", "choices": {"1": "압연가공", "2": "압출가공", "3": "인발가공", "4": "전조가공"}, "answers": [4], "explanation": ""}, {"id": 105, "date": "20030720", "subject": 2, "subject_name": "임의 구분", "question_no": 39, "question": "다음 중 연납땜에 속하는 것은 ?", "choices": {"1": "업셋 용접(upset welding)", "2": "플레시 용접(flash welding)", "3": "프로젝션 용접(projection welding)", "4": "심 용접(seam welding) 41. 심 용접에서 롤러(Roller)의 가압력은 점 용접(spot welding) 에 비해 약 몇 배로 가압해야 하는가 ?"}, "answers": [1], "explanation": ""}, {"id": 106, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "다음 점용접용 팁중 앵글등과 같이 용접위치가 나쁠 때 사 용하는 팁은 ?", "choices": {"1": "R형", "2": "P형", "3": "C형", "4": "E형"}, "answers": [4], "explanation": ""}, {"id": 107, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "다음중 리벳의 배열방법이 아닌 것은 ?", "choices": {"1": "한줄 리벳이음", "2": "두줄 평행형", "3": "두줄 지그재그형", "4": "두줄 대칭형"}, "answers": [4], "explanation": ""}, {"id": 108, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "치수 기입법 중 현의 길이를 올바르게 표시한 것은 ?", "choices": {"1": "석출균열", "2": "잔류균열", "3": "자기균열", "4": "자연균열"}, "answers": [3], "explanation": ""}, {"id": 109, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "냉간가공을 하면 감소하는 금속의 기계적 성질은 ?", "choices": {"1": "동소변태", "2": "시효경화", "3": "자기변태", "4": "저온풀림"}, "answers": [4], "explanation": ""}, {"id": 110, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "다음 측정기 중 비교 측정기는?", "choices": {"1": "신뢰성", "2": "정확성", "3": "정밀도", "4": "오차"}, "answers": [3], "explanation": ""}, {"id": 111, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 58, "question": "로트(Lot)수를 가장 올바르게 정의한 것은?", "choices": {"1": "1회 생산수량을 의미한다.", "2": "일정한 제조회수를 표시하는 개념이다.", "3": "생산목표량을 기계대수로 나눈 것이다.", "4": "생산목표량을 공정수로 나눈 것이다."}, "answers": [2], "explanation": ""}, {"id": 112, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "다음의 데이터를 보고 편차 제곱합(S)을 구하면? (단, 소숫 점 3자리까지 구하시오.)", "choices": {"1": "0.338", "2": "1.029", "3": "0.114", "4": "1.014"}, "answers": [2], "explanation": ""}, {"id": 114, "date": "20040404", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "다음 중 망치 작업시 주의사항으로 옳은 것은?", "choices": {"1": "탄성한계가 높을수록", "2": "구부림 반지름이 클수록", "3": "소성이 큰 재료일수록", "4": "강도가 높을수록"}, "answers": [1], "explanation": ""}, {"id": 115, "date": "20040404", "subject": 1, "subject_name": "임의 구분", "question_no": 6, "question": "최소 굽힘 반지름에 대하여 설명한 것 중 틀린 것은?", "choices": {"1": "1549", "2": "1565", "3": "1590", "4": "1675 8. 전단가공을 한 제품의 전단면을 바른 치수로 다듬질을 하거"}, "answers": [3], "explanation": ""}, {"id": 116, "date": "20040404", "subject": 1, "subject_name": "임의 구분", "question_no": 11, "question": "교류아크 용접에서 핫스타트(hot start) 장치에 대한 이점으 로 틀린 것은 ?", "choices": {"1": "블로우 홀(blow hole)를 방지한다.", "2": "비드 모양을 개선한다.", "3": "아크 발생 초기의 비드용입을 양호하게 한다.", "4": "전류 조정을 용이하게 한다."}, "answers": [4], "explanation": ""}, {"id": 117, "date": "20040404", "subject": 1, "subject_name": "임의 구분", "question_no": 12, "question": "일렉트로 슬래그(electro slag)용접은 다음 중 어느 용접에 가장 적합한가?", "choices": {"1": "엷은 판재의 용접", "2": "두꺼운 판의 용접", "3": "재질이 서로 다른 판의 용접", "4": "플라스틱 용접"}, "answers": [2], "explanation": ""}, {"id": 118, "date": "20040404", "subject": 1, "subject_name": "임의 구분", "question_no": 14, "question": "현도장에서 사용되는 기구로만 짝지어진 것은 ?", "choices": {"1": "강재줄자, 곡자, 수준기", "2": "접자, 목공도구, 스냅", "3": "직각자, 드리프트, 추", "4": "비임컴퍼스, 먹통, 벤딩핀"}, "answers": [1], "explanation": ""}, {"id": 119, "date": "20040404", "subject": 1, "subject_name": "임의 구분", "question_no": 20, "question": "금속재료를 냉간 가공하면 그 성질이 변하게 되는데 틀린 것은 ?", "choices": {"1": "인장강도가 증가한다.", "2": "연신율이 증가한다.", "3": "경도가 증가한다.", "4": "항복점이 높아진다."}, "answers": [2], "explanation": ""}, {"id": 120, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 21, "question": "압력용기의 재료는 다음 항을 고려하여 택하되 탄성한도가 크며, 질긴 재료이어야 한다. 관계가 먼 것은 ?", "choices": {"1": "유체의 양", "2": "유체의 종류", "3": "유체의 성질", "4": "유체의 압력"}, "answers": [1], "explanation": ""}, {"id": 121, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 22, "question": "다음표를 보고 A공장의 천인율(千人率)을 계산하면 어느 것 인가?", "choices": {"1": "완전 풀림", "2": "연화 풀림", "3": "확산 풀림", "4": "구상화 풀림"}, "answers": [1], "explanation": ""}, {"id": 122, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 24, "question": "다음 중 항온 열처리의 종류가 아닌 것은?", "choices": {"1": "질량효과", "2": "오스템퍼", "3": "담금균열", "4": "노치효과"}, "answers": [3], "explanation": ""}, {"id": 123, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 26, "question": "다음 중 드릴링 머신(drilling machine)으로 할 수 없는 작업 은?", "choices": {"1": "블랭킹", "2": "펀칭", "3": "노칭", "4": "셰이빙 28. 연강판의 두께가 2mm인 재료를 블랭킹(blanking)하고자 한 다. 블랭킹한 제품의 지름이 18mm로 하고자 하면 펀치의 지름은 몇 mm로 하여야 적당 하겠는가?"}, "answers": [4], "explanation": ""}, {"id": 124, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 29, "question": "손작업으로 보기와 같은 제품을 만들때 알맞는 순서는 ?", "choices": {"1": "320.0", "2": "314.0", "3": "307.8", "4": "310.0"}, "answers": [3], "explanation": ""}, {"id": 126, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 35, "question": "다음과 같은 물체는 어떤 전개방법을 선택하는 것이 가장 좋은가?", "choices": {"1": "콘스탄탄(constantan)", "2": "모넬 메탈(monel metal)", "3": "브리타니아 메탈(Britania metal)", "4": "Y합금"}, "answers": [2], "explanation": ""}, {"id": 127, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 37, "question": "일반용 냉간 압연 강판의 기호는 어느 것인가 ?", "choices": {"1": "SHP", "2": "SPCC", "3": "SSP", "4": "SBHG"}, "answers": [2], "explanation": ""}, {"id": 128, "date": "20040404", "subject": 2, "subject_name": "임의 구분", "question_no": 38, "question": "다음 금속의 성질 중 기계적 성질에 속하는 것은 ?", "choices": {"1": "쌍정(twin)", "2": "방향성", "3": "전위(dislocation)", "4": "슬립(slip)"}, "answers": [1], "explanation": ""}, {"id": 129, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "나사를 결합용과 운동용으로 분류할 때 운동용 나사에 해당 하는 것은?", "choices": {"1": "업세팅", "2": "엠보싱", "3": "코이닝", "4": "스웨이징"}, "answers": [4], "explanation": ""}, {"id": 130, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 45, "question": "다음 해머 중 찌그러진 판재의 펴기작업에 주로 쓰이는 해 머는?", "choices": {"1": "볼핀해머", "2": "셋팅해머", "3": "레이징해머", "4": "범핑해머"}, "answers": [4], "explanation": ""}, {"id": 131, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 46, "question": "리벳이음의 작업과정이 순서대로 나열된 것은?", "choices": {"1": "리벳뽑기 → 리벳끼움 → 리벳구멍 채우기 → 머리가공 → 완성가공", "2": "리벳끼움 → 리벳뽑기 → 리벳구멍 채우기 → 머리가공 → 완성가공", "3": "리벳구멍 채우기 → 리벳뽑기 → 리벳끼움 → 머리가공 → 완성가공", "4": "리벳뽑기 → 리벳끼움 → 머리가공 → 리벳구멍 채우기 → 완성가공"}, "answers": [2], "explanation": ""}, {"id": 132, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "이음의 전길이에 걸쳐 건너뛰어서 비드를 놓는 방법으로 변 형, 잔류응력이 가장 적게되며 용접선이 긴 경우에 적당한 용착방법은?", "choices": {"1": "정면도", "2": "배면도", "3": "저면도", "4": "측면도 49. 판금제관용 공구 중에서, 약 300∼500mm 정도의 크기로"}, "answers": [4], "explanation": ""}, {"id": 133, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "다음 중 단면모양에 따른 형강의 종류가 아닌 것은?", "choices": {"1": "T형강", "2": "H형강", "3": "F형강", "4": "ㄷ형강"}, "answers": [3], "explanation": ""}, {"id": 134, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "용접 후 잔류응력 제거를 주목적으로 하는 열처리법은?", "choices": {"1": "담금질", "2": "풀림", "3": "불림", "4": "뜨임"}, "answers": [2], "explanation": ""}, {"id": 135, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 55, "question": "샘플링 검사의 목적으로서 틀린 것은?", "choices": {"1": "8대", "2": "9대", "3": "10대", "4": "11대"}, "answers": [2], "explanation": ""}, {"id": 136, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "T Q C (Total Quality Control)란?", "choices": {"1": "시스템적 사고방법을 사용하지 않는 품질관리 기법이다.", "2": "아프터 서비스를 통한 품질을 보증하는 방법이다.", "3": "전사적인 품질정보의 교환으로 품질향상을 기도하는 기 법이다.", "4": "QC부의 정보분석 결과를 생산부에 피드백하는 것이다"}, "answers": [3], "explanation": ""}, {"id": 137, "date": "20040404", "subject": 3, "subject_name": "임의 구분", "question_no": 60, "question": "계수값 관리도는 어느 것인가?", "choices": {"1": "R관리도", "2": "관리도", "3": "P관리도", "4": "관리도"}, "answers": [3], "explanation": ""}]
+[
+  {
+    "id": 1,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "다음은 강재의 변형을 수정하는 기구들이다. 변형수정에 사용 되지 않는 것은 ?",
+    "choices": {
+      "1": "로울 마아크(Roll mark)",
+      "2": "짐크로우(Jim crow)",
+      "3": "조정나사",
+      "4": "변형수정 블록"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "구리, 납과 같이 연한 금속을 정으로 절단할 때 적당한 정날 의 각도는 ?",
+    "choices": {
+      "1": "25 - 30°",
+      "2": "45 - 50°",
+      "3": "55 - 60°",
+      "4": "65 - 70°"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "판금 제품에 강인성을 증가시키고 둥근홈을 만들어 제품을 아름답게 만드는 기계는 ?",
+    "choices": {
+      "1": "비딩 머신",
+      "2": "포밍 머신",
+      "3": "폴딩 머신",
+      "4": "갱 슬리터"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "플랜지(flange)가 있는 판을 주름을 만들지 않고 또 표면에 흠이 없게 정확한 원모양으로 구부리는 기계는 무엇인가 ?",
+    "choices": {
+      "1": "터닝 롤(turning roll)",
+      "2": "앵글 벤더(angle bender)",
+      "3": "벤딩 롤링 머신(bending rolling machine)",
+      "4": "탄젠트 벤더(tangent bender)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "다음 중 전단가공 방식이 아닌 것은 ?",
+    "choices": {
+      "1": "피어싱(piercing)",
+      "2": "블랭킹(blanking)",
+      "3": "세이빙(shaving)",
+      "4": "벌징(bulging)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "족답식 직각 전단기로써 전단시 전단힘을 줄일 수 있도록한 전단각(shear angle)은 ?",
+    "choices": {
+      "1": "9 - 12°",
+      "2": "6 - 9°",
+      "3": "3 - 6°",
+      "4": "12 - 15°"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "판재의 굽힘방향이 한 방향일 때 압연방향과 어떤 관계가 되 도록 굽히는 것이 좋은가 ?",
+    "choices": {
+      "1": "압연방향과 45°",
+      "2": "압연방향과 60°",
+      "3": "압연방향과 평행",
+      "4": "압연방향과 직각"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "재료를 굽힘작업 할 때 중립면의 위치는 굽힘부분의 반지름 R가 재료 두께의 몇 배이상일 때 중립면이 중앙에 오는가 ?",
+    "choices": {
+      "1": "4배",
+      "2": "5배",
+      "3": "6배",
+      "4": "7배"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "스프링 백(spring back)에 대한 설명 중 틀린것은 ?",
+    "choices": {
+      "1": "스프링 백은 재질, 굽힘정도, 판두께 등과 밀접한 관계가 있다.",
+      "2": "스프링 백의 양을 감소시키기 위하여 풀림하거나 연질재 료를 사용한다.",
+      "3": "스프링 백의 양은 굽힘선의 길이와 비례한다.",
+      "4": "스프링 백은 탄성한계 및 강도가 높을수록 스프링 백의 양은 작아진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "다음 클리어런스(틈)의 크기에 관한 설명중 잘못된것은 ?",
+    "choices": {
+      "1": "일감이 같은 소재일 때는 클리어런스를 크게 잡을수록 뽑기 압력은 작아도 된다.",
+      "2": "제품의 정도를 향상시키기 위해서는 클리어런스를 크게 하는 것이 좋다",
+      "3": "날끝마모를 억제하고자 할 때는 클리어런스를 크게 잡아 두는 것이 좋다.",
+      "4": "스트리퍼(stripper)의 압력을 작게하기 위해서는 클리어 린스를 크게하는 것이 좋다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "프레스의 램하면에 접촉되게 설치하는 판을 말하며 윗면에 생크(shank)가 부착되는 것은 ?",
+    "choices": {
+      "1": "패킹 플레이트(packing plate)",
+      "2": "녹 아웃(knock out)",
+      "3": "펀치 홀더(punch holder)",
+      "4": "스토퍼(stopper)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "경판을 프레스로 가공하려고 할 때의 설명 중 잘못된 것은 ?",
+    "choices": {
+      "1": "경판 곡선부의 반지름 방향 허용공차는 3% 이하로 제한 한다.",
+      "2": "소재와 다이 접촉부와의 길이는 판두께의 3배 이하로 한 다.",
+      "3": "가공 후 경판의 끝부분은 판두께가 증가한다.",
+      "4": "드로잉비는 강판의 경우 보통 1.3 - 2.0이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "리벳 구멍사이의 판재가 절단될 경우 인장하중을 나타내는 식은 ? (단, W:인장하중(kgf), P:리벳의 피치(㎝), d:리벳지 름(㎝), t:강판의 두께(㎝), σ : 강판의 인장응력(kgf/cm2)) t",
+    "choices": {
+      "1": "W = (P-d)tσ",
+      "2": "W = (P+d)tσ t t",
+      "3": "W = (P-2d)tσ",
+      "4": "W = (P+2d)tσ t t"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "두께 15mm의 판재를 양쪽 덮개판 맞대기 이음하려고 한다. 스트랩(strap)의 두께는 모재 두께의 70%로 하려고 할 때 적당한 리벳길이는 대략 몇 mm인가 ?",
+    "choices": {
+      "1": "38",
+      "2": "48",
+      "3": "58",
+      "4": "68"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "압력용기를 리벳으로 이음하였다. 이 때 판재면 사이로 증 기가 새는 것을 방지하기 위하여 사용하는 공구는 ?",
+    "choices": {
+      "1": "코킹 정",
+      "2": "캡 정",
+      "3": "홈 정",
+      "4": "평 정"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "보일러의 리벳이음에서 세로이음에 대한 설명으로 틀린 것 은 ?",
+    "choices": {
+      "1": "한쪽 덮개판 이음(Strapped Joint)으로 하지 않는다.",
+      "2": "안지름이 1000mm을 초과할 때는 겹치기 이음 (Lap Joint)으로 하지 않는다.",
+      "3": "세로이음의 강도는 원주방향 강도의 50% 이상이 필요하 다.",
+      "4": "안지름이 1000mm이하이고, 최고사용 압력이 7kgf/cm2 을 초과할 때는 겹치기 이음으로 하지 않는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 19,
+    "question": "프로젝션 용접(projection welding)의 요구조건으로 틀린 것 은 ?",
+    "choices": {
+      "1": "프로젝션은 전류가 통하기 전의 가압력에 견딜 수 있을 것",
+      "2": "성형시 일부에 전단 부분이 생기지 않을 것",
+      "3": "상대 판이 충분히 가열되면 녹을 것",
+      "4": "성형에 의한 변형이 없어야 하며 용접후 양면의 밀착이 양호할 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20020407",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "수동 아크 용접기에서 부하전류의 증가와 더불어 단자전압 이 저하하는 특성은 ?",
+    "choices": {
+      "1": "상승 특성",
+      "2": "정전압 특성",
+      "3": "정전류 특성",
+      "4": "수하 특성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "아세틸렌 가스의 자연발화 온도를 가장 알맞게 나타낸 것은 ?",
+    "choices": {
+      "1": "103 - 107℃",
+      "2": "250 - 255℃",
+      "3": "406 - 408℃",
+      "4": "505 - 515℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "파이프 속을 흐르는 유체의 종류를 나타내는 기호 중 2차 냉매를 나타내는 기호는 ?",
+    "choices": {
+      "1": "G",
+      "2": "CH",
+      "3": "R",
+      "4": "B"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "보일러 및 압력 용기용 압연강판을 나타내는 것은 ?",
+    "choices": {
+      "1": "SWS",
+      "2": "SB",
+      "3": "SPP",
+      "4": "STS"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 24,
+    "question": "강관을 사용하여 동심 T(Tee) 분기관을 전개법에 의해 제작 하려고 한다. 가장 적합한 전개방식은 ?",
+    "choices": {
+      "1": "삼각형 전개법",
+      "2": "평행선 전개법",
+      "3": "방사선 전개법",
+      "4": "사다리 전개법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 25,
+    "question": "금속재료가 소성변형에 의하여 단단하게 경화되는 현상은 ?",
+    "choices": {
+      "1": "담금질 경화",
+      "2": "가공 경화",
+      "3": "풀림 경화",
+      "4": "시효 경화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 26,
+    "question": "양은 이라고 하는 양백판(german silver)의 주성분이 아닌 것은 ?",
+    "choices": {
+      "1": "구리(Cu)",
+      "2": "아연(Zn)",
+      "3": "망간(Mn)",
+      "4": "니켈(Ni)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "쌍정에 의한 변형은 어떤 것에 의하여 형성되는가 ?",
+    "choices": {
+      "1": "전단적인 이동에 의하여",
+      "2": "미끄럼적인 이동에 의하여",
+      "3": "탄성적인 이동에 의하여",
+      "4": "집단 슬립의 이동에 의하여"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "인발작업에서 지름 5.5mm의 와이어를 인발하여 지름 4mm 로 하였을 때 단면 감소율은 ?",
+    "choices": {
+      "1": "약 27%",
+      "2": "약 37%",
+      "3": "약 47%",
+      "4": "약 73%"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "피니싱 온도(finishing temperature)는 무엇이 끝나는 온도인 가?",
+    "choices": {
+      "1": "재결정",
+      "2": "열처리",
+      "3": "냉간 가공",
+      "4": "열간 가공"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 32,
+    "question": "제관제품을 용접하여 조립하면 수축과 변형이 발생되는데 용접시공방법 중 변형을 억제하는법으로 틀린 것은 ?",
+    "choices": {
+      "1": "맞대기 용접부보다 필릿 용접부를 먼저 용접한다.",
+      "2": "용접을 중앙부터 시작하여 밖을 향해 진행한다.",
+      "3": "이음의 용입을 될수록 작게하고 맞춤의 이가 잘 맞도록 한다.",
+      "4": "단면의 중심선 양쪽에 균형있는 용착을 시킨다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 33,
+    "question": "판재나 제관제품이 용접 또는 다른 가공에 의해 변형이 생 겼을 경우에 가스불꽃으로 가열 후 물로 급냉하여 변형을 교정하는 방법은 ?",
+    "choices": {
+      "1": "도열법",
+      "2": "점열급냉법",
+      "3": "피이닝법",
+      "4": "역변형법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 34,
+    "question": "X선 투과 검사시 검출되는 결함과 필름에 나타나는 것으로 잘못 연결된 것은 ?",
+    "choices": {
+      "1": "기공 - 백색 둥근점",
+      "2": "스패터 - 백색 둥근점",
+      "3": "언더컷 - 가늘고 긴 검은선",
+      "4": "용입부족 - 검은 직선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 35,
+    "question": "다음 중 산업재해의 인적 요인으로 옳지 않은 것은?",
+    "choices": {
+      "1": "위험물의 취급 부주의",
+      "2": "복장, 보호구의 결함",
+      "3": "안전장치의 기능제거",
+      "4": "불안전한 속도조작"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "T.T.T 곡선과 관계가 있는 것은 어느 곡선인가 ?",
+    "choices": {
+      "1": "Fe -C 곡선",
+      "2": "탄성 곡선 3",
+      "3": "항온 변태 곡선",
+      "4": "인장 피로 곡선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "담금질 조직으로 경도가 가장 큰 것은 ?",
+    "choices": {
+      "1": "오스테나이트",
+      "2": "마르텐사이트",
+      "3": "소르바이트",
+      "4": "퍼얼라이트"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "다음 중 플라이휠(fly wheel)을 설치하지않는 프레스는 ?",
+    "choices": {
+      "1": "크랭크 프레스(Crank press)",
+      "2": "토글 프레스(Toggle press)",
+      "3": "프레스 브레이크(Press brake)",
+      "4": "유압 프레스(Hydraulic press)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "다음 중 크랭크 프레스의 능력이 아닌 것은 ?",
+    "choices": {
+      "1": "회전 능력",
+      "2": "일 능력",
+      "3": "압력 능력",
+      "4": "토크 능력"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20020407",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "재료의 폭 300mm,두께 3mm의 연강판(인장강도 =40kgf/mm2)을 다이(die)의 견폭(肩幅,다이의 홈폭)이 재료 두께의 8배 일때의 V 굽힘 압력을 계산하면 몇 kgf인가 ? (단, V형 다이의 견폭 계수 K 값은 1.33으로 한다.) 1",
+    "choices": {
+      "1": "1995",
+      "2": "5985",
+      "3": "17955",
+      "4": "47880"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 41,
+    "question": "지름 100mm의 소재를 드오잉하여 지름 60mm의 원통을 만들었다. 이 때 드오잉률은 얼마인가 ? 또 이 60mm 지름 의 용기를 재 드로잉률 0.8을 써서 재 드로잉하면 재 드로 잉 후의 용기의 지름은 얼마인가 ?",
+    "choices": {
+      "1": "드로잉률 0.3, 재드로잉 지름 56mm",
+      "2": "드로잉률 0.6, 재드로잉 지름 48mm",
+      "3": "드로잉률 1.2, 재드로잉 지름 60mm",
+      "4": "드로잉률 0.3, 재드로잉 지름 100mm"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "판금 가공중 드로잉(Drawing)가공법은 ?",
+    "choices": {
+      "1": "코이닝(coining)",
+      "2": "커핑(cupping)",
+      "3": "스웨이징(swaging)",
+      "4": "사이징(sizing)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "소재의 두께를 변화시키지 않고 상하형이 서로 반대되는 다 이 사이에 넣어 판재를 요철(凹凸)모양으로 성형하는 것은 다음 중 어느 것인가 ?",
+    "choices": {
+      "1": "엠보싱(embossing)",
+      "2": "코이닝(coining)",
+      "3": "업세팅(upsetting)",
+      "4": "벌징(bulging)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "판금 재료 중 Ni-Cr계 합금으로서 내식성이 강하며, 표면이 아름다운 은백색인 것은 ?",
+    "choices": {
+      "1": "아연도금 강판",
+      "2": "주석도금 강판",
+      "3": "구리도금 강판",
+      "4": "스테인리스 강판"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "판의 두께 16mm, 리벳의 지름 16mm, 리벳구멍의 지름 17mm, 피치 64mm인 1줄 겹치기 리벳이음에서 1피치마다 1500kgf의 하중이 작용할 때 판의 효율은 어느 것인가 ?",
+    "choices": {
+      "1": "25%",
+      "2": "26.6%",
+      "3": "73.4%",
+      "4": "75%"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "제 1 각법에서 정면도 아래에는 어느 것이 위치하게 되는가 ?",
+    "choices": {
+      "1": "저면도",
+      "2": "측면도",
+      "3": "평면도",
+      "4": "배면도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "투상도법의 제원칙과 거리가 먼 내용은 ?",
+    "choices": {
+      "1": "일반적으로 투상법은 제3각법으로 작도함을 원칙으로 한 다.",
+      "2": "단면은 기본 중심선에서 절단한 면으로서 표시 하는 것 을 원칙으로 한다.",
+      "3": "일부가 특정한 형태로 되어 있는것(키이 홈을 가지는 보 스 등)은 그부분이 그림의 위쪽에 나타나게 그린다.",
+      "4": "축, 핀, 리벳 등은 길이 방향으로 절단하는 것을 원칙으"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "판뜨기 전개에서 판두께의 중립선의 위치 설정에 대한 설명 이다. 옳은 것은 ?",
+    "choices": {
+      "1": "원통과 같이 평면도가 곡선으로 그려지는 것은 판두께의 바깥지름에서 잡는다.",
+      "2": "원뿔과 같이 평면도가 곡선으로 그려지는 것은 판두께의 중심에서 잡는다.",
+      "3": "각통과 같이 모가 나게 굽혀진 곳이 있는 것은 판두께의 바깥쪽에서 잡는다.",
+      "4": "각뿔과 같이 모가 나게 굽혀진 곳이 있는 것은 판두께의 중심에서 잡는다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "평행 전개법을 사용하여 판뜨기 전개도를 그리는 것이 가장 적합한 것은 ?",
+    "choices": {
+      "1": "관통 구멍이 있는 원통",
+      "2": "원뿔 2편의 직각 엘보우",
+      "3": "원통으로 잘라낸 경사원뿔",
+      "4": "경사원뿔대의 2축이 만나는 관"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "밑부분은 원형이고 윗부분은 정사각형인 환기통을 전개하고 자 한다. 어떤 전개방법을 쓰면 좋은가 ?",
+    "choices": {
+      "1": "평행선법",
+      "2": "삼각형법",
+      "3": "직교좌표법",
+      "4": "혼합법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "판금 가공용 판재가 될 수 없는 것은 ?",
+    "choices": {
+      "1": "주철판",
+      "2": "연강판",
+      "3": "스테인리스강판",
+      "4": "알루미늄 합금판"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "판금 가공용 재료의 구비할 조건이 될 수 없는 것은 ?",
+    "choices": {
+      "1": "전연성이 풍부할 것",
+      "2": "항복점이 낮을 것",
+      "3": "탄성이 풍부할 것",
+      "4": "소성이 풍부할 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "다음 중 용융 아연도금 강판 기호로 맞는 것은 ?",
+    "choices": {
+      "1": "SBC",
+      "2": "HRS",
+      "3": "SSP",
+      "4": "SGHC"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "철강 재료에 포함되어 있는 철의 5대 원소는 ?",
+    "choices": {
+      "1": "C, Si, P, Mn, O",
+      "2": "C, P, N, Cu, S",
+      "3": "C, N, Mn, Si, P",
+      "4": "C, Si, Mn, P, S"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "도수분포표에서 도수가 최대인 곳의 대표치를 말하는 것은?",
+    "choices": {
+      "1": "중위수",
+      "2": "비 대칭도",
+      "3": "모우드(mode)",
+      "4": "첨도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "일정통제를 할 때 1일당 그 작업을 단축하는데 소요되는 비 용의 증가를 의미하는 것은?",
+    "choices": {
+      "1": "비용구배(Cost slope)",
+      "2": "정상 소요시간(Normal duration)",
+      "3": "비용견적(Cost estimation)",
+      "4": "총비용(Total cost)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "서블릭(therblig)기호는 어떤 분석에 주로 이용되는가?",
+    "choices": {
+      "1": "연합작업분석",
+      "2": "공정분석",
+      "3": "동작분석",
+      "4": "작업분석"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "관리도에서 점이 관리한계내에 있고 중심선 한쪽에 연속해 서 나타나는 점을 무엇이라 하는가?",
+    "choices": {
+      "1": "경향",
+      "2": "주기",
+      "3": "런",
+      "4": "산포"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "모집단의 참값과 측정 데이터의 차를 무엇이라 하는가?",
+    "choices": {
+      "1": "오차",
+      "2": "신뢰성",
+      "3": "정밀도",
+      "4": "정확도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20020407",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "준비작업시간이 5분, 정미작업시간이 20분, lot수 5, 주작업 에 대한 여유율이 0.2라면 가공시간은?",
+    "choices": {
+      "1": "150분",
+      "2": "145분",
+      "3": "125분",
+      "4": "105분"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "판재에 인장력을 주어 고르게 변형을 바로 잡는 기계로 대량 생산에는 접합하지 않고 교정할 재료의 양끝을 잡는 클리퍼 가(clipper)있는 기계는 ?",
+    "choices": {
+      "1": "변형교정 프레스(straightening press)",
+      "2": "롤 교정기(roll leveller)",
+      "3": "스트레처 교정기(stretcher leveller)",
+      "4": "서큘러 시어(circular shear)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "ㄱ형강이나 T형강을 굽히는데 주로 사용되는 기계는 ?",
+    "choices": {
+      "1": "파이프 벤더",
+      "2": "시밍 머신",
+      "3": "앵글 벤더",
+      "4": "폴딩 머신"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "전동기에 의해 회전하는 플라이 휘일의 회전력이 클러치를 통하여 편심축에 전달되어 고정된 아랫날에 대해 윗날이 상, 하로 움직이면서 판재를 자르는 전단기는 ?",
+    "choices": {
+      "1": "갱 슬리터(gang slitter)",
+      "2": "로울러 시어(roller shear)",
+      "3": "직각 전단기(squear shear)",
+      "4": "니블링 시어(nibbling shear)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "제관 공작물을 고정할 때 사용하는 쐐기는 몇 도 이내로 제 작 되어야 스스로 빠져나오지 않는가 ?",
+    "choices": {
+      "1": "17°",
+      "2": "24°",
+      "3": "27°",
+      "4": "32°"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "해머의 한쪽은 판재의 둥근부 타출에 쓰이며 다른 쪽은 평판 재의 타출에 쓰이는 해머는 ?",
+    "choices": {
+      "1": "세팅해머",
+      "2": "볼핀해머",
+      "3": "연질해머",
+      "4": "레이징해머"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "직각으로 굽힘가공시 플랜지의 최소높이는 굽힘 반지름 R = 0인 경우에는 얼마까지 가공할 수 있는가? (t:두께)",
+    "choices": {
+      "1": "1.0t",
+      "2": "1.5t",
+      "3": "2.0t",
+      "4": "2.5t"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "형강 굽힘 작업시 굽힘 반지름이 작을 때에는 몇 ℃로 가열 한 다음 해머로 때려 굽히는가?",
+    "choices": {
+      "1": "350 - 450℃",
+      "2": "500 - 600℃",
+      "3": "800 - 1000℃",
+      "4": "1400 - 1530℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "파일럿(pilot)의 기능을 가장 잘 설명한 것은?",
+    "choices": {
+      "1": "다이블록의 강도를 보완하여 준다.",
+      "2": "가느다란 펀치를 잘 보호하여 준다.",
+      "3": "가공한 구멍에 삽입하여 위치를 결정하여 준다.",
+      "4": "펀치로부터 재료를 벗겨준다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "납땜 작업에서 연납용 용제로 주로 사용되는 것은 ?",
+    "choices": {
+      "1": "염화칼륨(KCI)",
+      "2": "산화제일구리(Cu O) 2",
+      "3": "붕사(Na B O )",
+      "4": "염화아연(ZnCI ) 2 4 7 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "패킹,박판,형강등 얇은 물체의 단면 표시 방법으로 맞는 것 은 ?",
+    "choices": {
+      "1": "1개의 굵은 실선",
+      "2": "1개의 가는 실선",
+      "3": "은선",
+      "4": "파선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "다음중 금속재료의 기계적 성질이 아닌 것은 ?",
+    "choices": {
+      "1": "인성",
+      "2": "경도",
+      "3": "열팽창 계수",
+      "4": "탄성계수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "오스테나이트계 스테인리스강에 대한 설명으로 틀린것은?",
+    "choices": {
+      "1": "KS 기호로는 STS 304이다.",
+      "2": "자성체이다.",
+      "3": "Cr 18%, Ni 8%의 합금이다.",
+      "4": "소성 가공성이 양호하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "냉간가공과 열간가공의 구분 온도는 ?",
+    "choices": {
+      "1": "응고 온도",
+      "2": "담금질 온도",
+      "3": "재결정 온도",
+      "4": "연소 온도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "다음 중 관을 직선으로 연결할 때 사용하는 것으로 옳지 않 은 것은 ?",
+    "choices": {
+      "1": "니플(nipple)",
+      "2": "벤드(bend)",
+      "3": "부싱(bushing)",
+      "4": "플랜지(flange)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "변태점 이상으로 가열한 오스테나이트 상태의 강을 급랭하 여 마텐자이트로 변태시켜 강을 경화시키는 열처리는?",
+    "choices": {
+      "1": "quenching",
+      "2": "annealing",
+      "3": "normalizing",
+      "4": "tempering"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "다음은 침탄법과 질화법의 성질을 비교한 것이다. 침탄법에 속하는 것은 ?",
+    "choices": {
+      "1": "표면경화 처리후 열처리가 필요없다.",
+      "2": "표면경화 처리후 수정이 불가능하다.",
+      "3": "표면경화 처리후 경화층이 여리다.",
+      "4": "표면경화 처리를 짧은시간에 할 수 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "강재의 화학 조성을 변화시키지 않고 표면을 경화시키는 방 법은?",
+    "choices": {
+      "1": "질화법",
+      "2": "시안화법",
+      "3": "숏 피닝",
+      "4": "금속침투법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 24,
+    "question": "담금질 조직 중 경도와 강도 순으로 표시한 것은?",
+    "choices": {
+      "1": "마텐자이트>트루스타이트>소르바이트>오스테나이트",
+      "2": "트루스타이트>소르바이트>오스테나이트>마텐자이트",
+      "3": "트루스타이트>마텐자이트>소르바이트>오스테나이트",
+      "4": "소르바이트>오스테나이트>마텐자이트>트루스타이트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 25,
+    "question": "보일러용 압연 강재를 열간가공하여 드럼으로 만들려고 한 다. 이때 적당한 가열온도는 몇 ℃인가 ?",
+    "choices": {
+      "1": "200 - 300",
+      "2": "500 - 550",
+      "3": "900 - 950",
+      "4": "1200 - 1250"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 26,
+    "question": "일반적으로 판금용 가위 날의 표준 각도에 제일 가까운 것 은 ?",
+    "choices": {
+      "1": "12°",
+      "2": "30°",
+      "3": "45°",
+      "4": "65°"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "원판의 소재에서 뽑힌 부분이 스크랩이 되고 남은 부분이 제품이 되는 작업은 ?",
+    "choices": {
+      "1": "블랭킹(blanking)",
+      "2": "전단(shearing)",
+      "3": "펀칭(punching)",
+      "4": "트리밍(trimming)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "판재를 원통형 용기로 드로잉 가공 하였을 때 보기와 같이 용기의 끝부분에 불규칙하게 늘어난 부분(Lug)이 발생하는 경우가 있다. 그 이유로서 옳은 것은?",
+    "choices": {
+      "1": "불순물이 지나치게 많으므로",
+      "2": "드오잉 속도가 지나치게 빠르므로",
+      "3": "드로잉 형의 상형보다 하형이 작을 경우",
+      "4": "압연판은 압연방향과 그 직각방향에 대한 신율이 각기 다르므로"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "지름 100mm의 소재를 드로잉하여 지름 70mm의 원통을 만들었다. 이 때 드로잉률은 얼마이며, 또 이 70mm지름의 용기를 재드로잉률 0.8을 써서 재드로잉하면 재드로잉 후의 용기 지름은 얼마인가 ?",
+    "choices": {
+      "1": "드로잉률 0.7, 용기 지름 56mm",
+      "2": "드로잉률 1.4, 용기 지름 50mm",
+      "3": "드로잉률 0.7, 용기 지름 49mm",
+      "4": "드로잉률 1.4, 용기 지름 70mm"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "다음 중 압축가공의 종류로만 짝지어진 것은?",
+    "choices": {
+      "1": "블랭킹, 셰이빙, 벌징",
+      "2": "사이징, 압출가공, 펀칭",
+      "3": "엠보싱, 스웨이징, 코이닝",
+      "4": "커핑, 브로우칭, 트리밍"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 32,
+    "question": "다음 판금가공 중 압축가공이 아닌 것은?",
+    "choices": {
+      "1": "압인가공(coining)",
+      "2": "엠보싱(embossing)",
+      "3": "스웨이징(swaging)",
+      "4": "셰이빙(shaving)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 33,
+    "question": "1줄 겹치기 리벳이음에서 전단하중 400 N,리벳지름 13mm 일때 전단응력은 몇 N/mm2인가?",
+    "choices": {
+      "1": "0.75",
+      "2": "2.1",
+      "3": "3.01",
+      "4": "9.8"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 34,
+    "question": "리벳이음의 검사에서 틀린 것은?",
+    "choices": {
+      "1": "검사용 해머의 무게는 500g 정도의 것을 사용한다.",
+      "2": "리벳과 판재와의 각도가 45~60° 방향으로 때려본다.",
+      "3": "리벳이 잘된 것은 해머가 반발한다.",
+      "4": "해머를 때렸을 때 탁한 소리가 나면 잘못된 것이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 35,
+    "question": "리벳 머리를 해머로 두둘겨 대충 모양을 만든후 이것을 대 고 다듬질 하는 공구는 ?",
+    "choices": {
+      "1": "드리프트(drift)",
+      "2": "클램프(clamp)",
+      "3": "받침대(dally)",
+      "4": "스냅(snap)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "용접재료(모재)를 적당한 거리에 놓고 서로 서서히 접근시키 면서 대전류를 통해 모재 사이에서 생기는 스파크 열에 의 하여 모재가 가열되었을 때 강한 압력으로 압접하는 용접법 은?",
+    "choices": {
+      "1": "퍼커션 용접",
+      "2": "프로젝션 용접",
+      "3": "플래쉬 버트 용접",
+      "4": "업셋 버트 용접"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "연강용 피복아크 용접봉 중 일미나이트계 용접봉은?",
+    "choices": {
+      "1": "E4301",
+      "2": "E4303",
+      "3": "E4311",
+      "4": "E4313"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "가스 용접에서 판두께에 적당한 용접봉의 지름(Ｄ)과 모재의 두께 (ｔ)와는 어떠한 관계를 가지고 있는가?",
+    "choices": {
+      "1": "D = t/2",
+      "2": "D = (t/2) +1",
+      "3": "D = (t/2) -1",
+      "4": "D = (t/2) +2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "KS제도에서 가는 실선으로 나타내지 않는 것은 ?",
+    "choices": {
+      "1": "치수 보조선",
+      "2": "지시선",
+      "3": "기준선",
+      "4": "회전 단면선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "다음 금속중 가장 비중이 큰 것은 ?",
+    "choices": {
+      "1": "Cu",
+      "2": "Au",
+      "3": "Pb",
+      "4": "Al"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "점 용접의 3대 요소가 아닌 것은 ?",
+    "choices": {
+      "1": "용접전류",
+      "2": "통전시간",
+      "3": "유지시간",
+      "4": "가압력"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "국부가열에 의한 변형 교정시 연강재료의 가열온도는 약 몇 ℃인가 ?",
+    "choices": {
+      "1": "300℃",
+      "2": "500℃",
+      "3": "700℃",
+      "4": "1000℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "금속에 외력이 작용했을 때 결정격자의 배열이 불규칙한 곳 으로부터 이동이 생기는 것을 무엇이라고 하는가 ?",
+    "choices": {
+      "1": "편석",
+      "2": "쌍정",
+      "3": "전위",
+      "4": "슬립"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "설비의 구식화에 의한 열화는?",
+    "choices": {
+      "1": "상대적 열화",
+      "2": "경제적 열화",
+      "3": "기술적 열화",
+      "4": "절대적 열화"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "냉간가공에 의하여 강도와 경도가 증가되는 현상은?",
+    "choices": {
+      "1": "시효경화",
+      "2": "표면경화",
+      "3": "가공경화",
+      "4": "침탄경화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "TIG 용접에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "직류정극성은 비드폭이 좁고 용입이 깊다.",
+      "2": "알루미늄, 마그네슘 합금 등은 주로 직류 정극성을 사용 한다.",
+      "3": "아르곤, 헬륨 등의 불활성 가스를 사용한다.",
+      "4": "용제(flux)를 사용하지 않으므로 슬래그 제거가 불필요하 다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "공급자에 대한 보호와 구입자에 대한 보증의 정도를 규정해 두고 공급자의 요구와 구입자의 요구 양쪽을 만족하도록 하 는 샘플링 검사방식은?",
+    "choices": {
+      "1": "규준형 샘플링 검사",
+      "2": "조정형 샘플링 검사",
+      "3": "선별형 샘플링 검사",
+      "4": "연속생산형 샘플링 검사"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "표는 어느 회사의 월별 판매실적을 나타낸 것이다. 5개월 이동평균법으로 6월의 수요를 예측하면?",
+    "choices": {
+      "1": "150",
+      "2": "140",
+      "3": "130",
+      "4": "120"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "모든작업을 기본동작으로 분해하고 각 기본동작에 대하여 성질과 조건에 따라 정해놓은 시간치를 적용하여 정미시간 을 산정하는 방법은?",
+    "choices": {
+      "1": "PTS법",
+      "2": "WS법",
+      "3": "스톱워치법",
+      "4": "실적기록법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "강판을 원통, 원뿔형으로 굽히는 기계는?",
+    "choices": {
+      "1": "프레스 브레이크(press brake)",
+      "2": "스피닝 선반(spinning lathe)",
+      "3": "롤링 머신(rolling machine)",
+      "4": "판 굽힘 롤(plate bending roll)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "판을 리벳 이음할 때 리벳 구멍을 일치시키기 위해 만든 테 이퍼로 되어 있는 둥근 환봉은 ?",
+    "choices": {
+      "1": "드리프트",
+      "2": "리베팅 돌리",
+      "3": "리베팅 스냅",
+      "4": "코킹 정"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "벨트, 로프, 회전판 등을 이용하여 추를 일정한 높이로 들어 올렸다가 낙하 시키는 해머를 무엇이라 하는가 ?",
+    "choices": {
+      "1": "스프링 해머(spring hammer)",
+      "2": "너클 죠인트 프레스(knuckle joint press)",
+      "3": "드롭 해머(drop hammer)",
+      "4": "토글 해머(toggle hammer)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "성형에 사용되는 해머(hammer)의 크기는 무엇으로 표시하는 가 ?",
+    "choices": {
+      "1": "해머의 머리 무게",
+      "2": "해머의 전체 길이",
+      "3": "해머의 전체 무게(해머머리 + 자루)",
+      "4": "해머의 단면적"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "파이프 굽힘작업 설명 중 틀린 것은?",
+    "choices": {
+      "1": "같은 관경에 대하여는 두께가 두꺼운 파이프가 주름이 많 이 생긴다.",
+      "2": "재질은 연성이 큰 것이 굽힘작업에 용이하다.",
+      "3": "굽힘 반경이 작을수록 주름이 많이 생긴다.",
+      "4": "심금(Mandrel)이 있는 편이 굽힘 반경을 작게할 수 있다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "스프링 백(spring back)은 판재를 변형시킬 때 하중을 제거 하면 탄성에 의해 어느정도 처음 상태로 되돌아가는 현상을 말한다. 다음에서 스프링 백의 양(量)이 변하는 요인을 옳게 설명한 것은?",
+    "choices": {
+      "1": "판재의 경도가 높을수록 작아진다.",
+      "2": "탄성한계가 높을수록 작아진다.",
+      "3": "판재의 소성이 클수록 커진다.",
+      "4": "동일한 두께의 판재에서는 구부림 반경이 클수록 커진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "스프링백의 감소방법에 해당되지 않는 것은 ?",
+    "choices": {
+      "1": "펀치에 백 테이퍼(back taper)를 붙여준다.",
+      "2": "캠기구를 이용한다.",
+      "3": "펀치와 다이의 표면을 도금처리 하여 조도를 높인다.",
+      "4": "패드에 배압을 가한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "강철 단조작업에서 단조온도의 색깔에 대한 다음 설명 중 옳은 것은?",
+    "choices": {
+      "1": "어두운 색깔이면 단조가공을 시작할 수 있다.",
+      "2": "빨강색이면 단조가공을 시작할 수 있다.",
+      "3": "노랑.빨강색이면 단조가공을 시작할 수 있다.",
+      "4": "담황색이면 단조가공을 시작할 수 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "이음의 루트로부터 필릿 용접의 직각변 끝까지의 거리를 무 엇이라 하는가 ?",
+    "choices": {
+      "1": "각장(leg length)",
+      "2": "노치(notch)",
+      "3": "목의 이론두께(theoretical throat)",
+      "4": "용접선(weld line)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "아세틸렌 가스의 자연발화 온도는 ?",
+    "choices": {
+      "1": "406 - 408℃",
+      "2": "505 - 515℃",
+      "3": "780℃",
+      "4": "150 - 200℃"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "이산화탄소 아크용접의 특징으로 틀린 것은 ?",
+    "choices": {
+      "1": "용착금속의 기계적 성질이 우수하다.",
+      "2": "자동 또는 반자동의 고속 용접을 할 수 있다.",
+      "3": "용입이 얇다.",
+      "4": "전자세 용접이 가능하다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "전기저항 용접법 중에서 전극소모가 작으며 신뢰도가 높고, 작업속도가 빠르며 소재에 돌기를 만들어 용접하는 용접법 은 ?",
+    "choices": {
+      "1": "프로젝션(projection)용접법",
+      "2": "스폿(spot)용접법",
+      "3": "시임(seam)용접법",
+      "4": "플래시(flash)용접법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "특수 용접에서 심선과 용융 슬래그속을 흐르는 전류의 저항 발열(joule열)을 이용한 것은 ?",
+    "choices": {
+      "1": "테르밋 용접",
+      "2": "일렉트로 슬래그 용접",
+      "3": "일렉트로 빔 용접",
+      "4": "플라스마 용접"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "점용접의 결과에 영향을 미치는 중요한 요소가 아닌것은?",
+    "choices": {
+      "1": "통전시간",
+      "2": "도전율",
+      "3": "용접전류",
+      "4": "가압력"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "다음 투영법 중 제 3각법의 설명으로 틀린 것은 ?",
+    "choices": {
+      "1": "정면도의 윗쪽에 평면도를 그린다.",
+      "2": "정면도의 오른쪽에 우측면도를 그린다.",
+      "3": "정면도의 왼쪽에 좌측면도를 그린다.",
+      "4": "정면도의 아래쪽에 배면도를 그린다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "원형 블랭크 지름을 D라 하고 드로잉 제품의 지름을 d 라 하면 드로잉률 m은?",
+    "choices": {
+      "1": "m= d/D",
+      "2": "m= D/d",
+      "3": "m= (D-d)/d",
+      "4": "m= (D-d)/D"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 19,
+    "question": "45° 로 자른 원뿔의 전개도는 어떤 방법을 이용하여 그리는 것이 편리한가 ?",
+    "choices": {
+      "1": "평행선법",
+      "2": "삼각형법",
+      "3": "방사선법",
+      "4": "혼합법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20030330",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "용도에 따른 선의 종류 중 가는1점쇄선으로 나타내는 선은 ?",
+    "choices": {
+      "1": "되풀이하는 것을 나타내는 선",
+      "2": "단면의 무게중심을 연결한 선을 표시하는 선",
+      "3": "중심이 이동한 중심궤적을 표시하는 선",
+      "4": "공구,지그 등의 위치를 참고로 나타내는 선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "다음 회주철을 표시하는 것은 ?",
+    "choices": {
+      "1": "SS",
+      "2": "SC",
+      "3": "SF",
+      "4": "GC"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "알루미늄에 약 10% 까지의 마그네슘을 첨가한 합금으로 다 른 주물용 알루미늄 합금에 비하여 내식성,강도, 연신율이 우수하고 절삭성이 매우 좋은 것은 ?",
+    "choices": {
+      "1": "실루민",
+      "2": "히드로날륨",
+      "3": "라우탈",
+      "4": "Y 합금"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "열처리 조직의 강도와 경도가 큰 순위가 바르게 된 것은?",
+    "choices": {
+      "1": "마텐자이트>트루스타이트>소르바이트>펄라이트",
+      "2": "트루스타이트>마텐자이트>소르바이트>펄라이트",
+      "3": "소르바이트>펄라이트>트루스타이트>마텐자이트",
+      "4": "펄라이트>트루스타이트>마텐자이트>소르바이트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 24,
+    "question": "냉간가공과 열간가공을 비교 설명한 것 중 열간가공에 속하 는 것은 ?",
+    "choices": {
+      "1": "연신율 및 충격력의 감소한다.",
+      "2": "도전율이 증가된다.",
+      "3": "가공방향으로 섬유조직이 생기고 판재등은 방향성이 생 긴다.",
+      "4": "표면이 산화되기 쉬우며 정밀가공은 곤란하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 25,
+    "question": "조립된 구조물이 비틀렸거나 넓어진 것을 조정하는데 사용 되는 수공구는 ?",
+    "choices": {
+      "1": "탄젠트 벤더",
+      "2": "엔빌",
+      "3": "가감나사",
+      "4": "짐 크로(jim crow)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 26,
+    "question": "다음 재료의 변형 수정에 대하여 쓴 것 중 틀린 것은 ?",
+    "choices": {
+      "1": "조정나사는 조립한 구조물이 비틀리거나 벌어지거나 하 였을 때에 조정하기 위하여 사용한다.",
+      "2": "강판의 변형을 수정하려면 변형 수정 롤을 사용하면 좋 다.",
+      "3": "후판용 변형 교정롤에는 작업롤의 지름을 작게하고 강성 을 주기 위하여 짐크로를 설치한 것이 많다.",
+      "4": "변형 교정 프레스는 수직형과 수평형이 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "다음에서 초음파 검사 방식이 아닌 것은 ?",
+    "choices": {
+      "1": "펄스 반사식",
+      "2": "투과식",
+      "3": "여과식",
+      "4": "공진식"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 28,
+    "question": "항온 열처리의 요소에 해당되지 않는 것은 ?",
+    "choices": {
+      "1": "온도",
+      "2": "시료",
+      "3": "시간",
+      "4": "변태"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "금속 재료의 결정입자를 미세화하고 조직을 표준화할 목적 으로 하는 열처리는 ?",
+    "choices": {
+      "1": "불림(normalizing)",
+      "2": "담금질(quenching)",
+      "3": "풀림(annealing)",
+      "4": "뜨임(tempering)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "배력 장치를 이용한 프레스(press)는 어느 것인가 ?",
+    "choices": {
+      "1": "토글 프레스(toggle press)",
+      "2": "익센트릭 프레스(eccentric press)",
+      "3": "마찰 프레스(friction press)",
+      "4": "나사 프레스(screw press)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "추력이 한 방향으로만 작용하는 바이스와 같은 기구에 사용 하는 나사는 ?",
+    "choices": {
+      "1": "사각 나사(square thread)",
+      "2": "사다리꼴 나사(trapezoidal thread)",
+      "3": "톱니 나사(buttress thread)",
+      "4": "둥근 나사(round thread)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 32,
+    "question": "다음은 전단가공하였을 경우, 절단면에 이루어지는 형상 중 넓을수록, 클수록 좋은 형상은 ?",
+    "choices": {
+      "1": "처짐면",
+      "2": "전단면",
+      "3": "파단면",
+      "4": "버어(burr)면"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 33,
+    "question": "다음중 전단가공이 아닌 것은 ?",
+    "choices": {
+      "1": "업세팅(upsetting)",
+      "2": "트리밍(trimming)",
+      "3": "펀칭(punching)",
+      "4": "블랭킹(blanking)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 34,
+    "question": "직경 20mm의 반구형을 드로잉 가공할 때 블랭크의 직경은 몇 mm 인가 ?",
+    "choices": {
+      "1": "27.28",
+      "2": "28.28",
+      "3": "29.28",
+      "4": "30.28"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "기름,물,고무,모래등을 이용하여 원통형 재료를 팽창시켜 플 라스크형 금속용기를 만드는 것을 무엇이라 하는가 ?",
+    "choices": {
+      "1": "벌징",
+      "2": "마르폼",
+      "3": "스피닝",
+      "4": "커핑"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "국부가열에 의한 변형교정 작업으로 잘못 설명한 것은?",
+    "choices": {
+      "1": "경강은 열 영향이 커서 효과가 없다.",
+      "2": "가열온도가 너무 높으면 금속 조직이 거칠어진다.",
+      "3": "가열은 작은 불꽃으로 장시간 가열한다.",
+      "4": "두께가 0.8mm인 연강판의 가열범위는 10 - 15mm가 적당하다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "다음 중 전기저항열을 이용하는 용접이 아닌 것은 ?",
+    "choices": {
+      "1": "점 용접(spot welding)",
+      "2": "일렉트로 슬래그 용접(electro slag welding)",
+      "3": "프로젝션 용접(projection welding)",
+      "4": "심 용접(seam welding)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "리벳이음 작업시 작업순서를 나열한 것중 옳은 것은 ?",
+    "choices": {
+      "1": "드릴링, 리밍, 리베팅, 코킹",
+      "2": "리밍, 드릴링, 리베팅, 코킹",
+      "3": "드릴링, 리밍, 코킹, 리베팅",
+      "4": "리밍, 드릴링, 코킹, 리베팅"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20030330",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "모재를 맞대고 이음부에 같은 종류의 얇은 판을 대고 가압 하는 방식의 심 용접법은 ?",
+    "choices": {
+      "1": "메시 심 용접(mesh seam welding)",
+      "2": "포일 심 용접(foil seam welding)",
+      "3": "맞대기 심 용접(butt seam welding)",
+      "4": "인터액트 심 용접(interact seam welding)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 41,
+    "question": "경합금을 심 용접할 때 통전시간과 단전시간(휴식시간)의 비 를 몇 대 몇으로 하는가?",
+    "choices": {
+      "1": "1 : 1",
+      "2": "1 : 2",
+      "3": "1 : 3",
+      "4": "1 : 4"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "판뜨기 전개에서 판두께를 고려하여 전개도를 그리는 가장 큰 이유는 ?",
+    "choices": {
+      "1": "정확한 판뜨기를 위하여",
+      "2": "접속부에 마찰열이 생기므로",
+      "3": "절단 부위의 요철을 막기 위하여",
+      "4": "전개시간을 절약하기 위하여"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "판재에 대한 다음 설명 중 잘못된 것은 ?",
+    "choices": {
+      "1": "아연 도금 강판에서 열연원판의 두께는 보통 1.6 ~ 6.0 mm 이다.",
+      "2": "딥드로잉용 냉간 압연 강판의 기호는 SHP3이다.",
+      "3": "STS316L은 오스테나이트계 스테인리스강을 의미한다",
+      "4": "황동판은 아연 함유량 30%에서 연신율이 최대값을 나타 낸다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "일반구조용 압연 강재로서 인장강도 400MPa의 강판의 표기 중 옳은 것은 ?",
+    "choices": {
+      "1": "SS400-A",
+      "2": "SS400-P",
+      "3": "SS400-B",
+      "4": "SS400-F"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "재료의 전성(展性)이 큰 순서대로 된 것은 ?",
+    "choices": {
+      "1": "금 >은 >백금 >알루미늄 >철 >니켈",
+      "2": "금 >백금 >은 >구리 >철 >아연",
+      "3": "금 >은 >알루미늄 >구리 >백금 >납",
+      "4": "금 >은 >구리 >알루미늄 >납 >니켈"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "냉간가공과 열간가공을 비교했을 때 열간가공의 특징을 설 명한 것이다. 옳은 것은?",
+    "choices": {
+      "1": "제품의 치수가 정확하다.",
+      "2": "기계적 성질이 좋아진다.",
+      "3": "가공하기가 쉽다.",
+      "4": "제품의 표면이 깨끗하다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "금속재료가 소성변형에 의하여 갖게 되는 이방성(異方性 : anisotropy)이란 ?",
+    "choices": {
+      "1": "결정립의 결정학적 방향이 일정하지 않고 무질서한 방위 를 갖는것.",
+      "2": "결정립이 선택방위를 갖게되어 기계적 성질이 측정하는 방향에 따라 달라지는 것.",
+      "3": "재료의 섬유조직이 파괴되어 결정립의 방향이 무질서한 집합조직으로 되는 것.",
+      "4": "열간가공하면 질서정연하던 결정조직이 파괴되어 무질서 하게 되는 것."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "금속의 슬립(slip)에 대한 설명이다. 틀린 것은 ?",
+    "choices": {
+      "1": "슬립선은 변형이 진행됨에 따라 그 수가 적어진다.",
+      "2": "슬립이 일어나기 쉬운 면은 원자 밀도가 제일 큰 격자면 이다.",
+      "3": "슬립에 대한 저항이 차차 증가하면 가공경화가 생긴다.",
+      "4": "슬립의 방향은 원자 밀도가 제일 큰 방향이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "풀림(Annealing)의 목적과 관계가 없는 것은 ?",
+    "choices": {
+      "1": "잔류 응력 제거",
+      "2": "인성의 향상",
+      "3": "조직을 균질화하고 조대화",
+      "4": "절삭성 향상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "앵글(30x30x4)을 굽힘각 30° 로 굽히려고 할 때 앵글의 절 단 여유길이(a)는 약 몇 mm 인가?",
+    "choices": {
+      "1": "3.7",
+      "2": "4.2",
+      "3": "4.7",
+      "4": "5.2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "품질관리 활동의 초기단계에서 가장 큰 비율로 들어가는 코 스트는?",
+    "choices": {
+      "1": "평가코스트",
+      "2": "실패코스트",
+      "3": "예방코스트",
+      "4": "검사코스트"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "PERT/CPM에서 Network 작도시 碇은 무엇을 나타내는가?",
+    "choices": {
+      "1": "단계(event)",
+      "2": "명목상의 활동(dummy activity)",
+      "3": "병행활동(paralleled activity)",
+      "4": "최초단계(initial event)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "신제품에 가장 적합한 수요예측 방법은?",
+    "choices": {
+      "1": "시계열분석",
+      "2": "의견분석",
+      "3": "최소자승법",
+      "4": "지수평활법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "관리도에 대한 설명 내용으로 가장 관계가 먼 것은?",
+    "choices": {
+      "1": "관리도는 공정의 관리만이 아니라 공정의 해석에도 이용 된다.",
+      "2": "관리도는 과거의 데이터의 해석에도 이용된다.",
+      "3": "관리도는 표준화가 불가능한 공정에는 사용할 수 없다.",
+      "4": "계량치인 경우에는 관리도가 일반적으로 이용된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20030330",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "다음은 워크 샘플링에 대한 설명이다. 틀린 것은?",
+    "choices": {
+      "1": "관측대상의 작업을 모집단으로 하고 임의의 시점에서 작 업내용을 샘플로 한다.",
+      "2": "업무나 활동의 비율을 알 수 있다.",
+      "3": "기초이론은 확률이다.",
+      "4": "한 사람의 관측자가 1인 또는 1대의 기계만을 측정한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "다음 프레스 작업의 설명 중 틀린 것은 ?",
+    "choices": {
+      "1": "꺾임 높이 30mm제품을 프레스 스트로크 65mm로 성형 가능하다.",
+      "2": "금형을 프레스기에 취부할 때는 상형을 먼저한다.",
+      "3": "다이스를 고정시키는 주목적은 프레스 기계의 정도를 보 존하기 위함이다.",
+      "4": "마이크로인칭 장치는 형의 고정작업을 용이하게 하기 위 한 특별한 장치이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "전후좌우가 개방되어 있어 작업을 행하기 쉽고 C형 프레임에 유리한 다이 세트(die set)는 ?",
+    "choices": {
+      "1": "백 포스트형(back post type)",
+      "2": "센터 포스트형(center post type)",
+      "3": "다이애거널 포스트형(diagonal post type)",
+      "4": "포오 포스트형(four post type)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "센터펀치(center punch)의 일반적인 각도는 ?",
+    "choices": {
+      "1": "15°",
+      "2": "30°",
+      "3": "60°",
+      "4": "118°"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "굽힘 작업시 압축도 인장도 받지 않는 부분을 무엇이라 하는 가 ?",
+    "choices": {
+      "1": "스프링 백",
+      "2": "최소 굽힘 반지름",
+      "3": "이방성",
+      "4": "중립면"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "소성 변형된 금속재료는 재료의 어떠한 성질이 방향성을 갖 는가 ?",
+    "choices": {
+      "1": "인장강도",
+      "2": "밀도",
+      "3": "비중",
+      "4": "체적"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "블랭킹(blanking) 작업이란 ?",
+    "choices": {
+      "1": "제품에 강도를 주기위한 작업",
+      "2": "표면에 모양(무늬)을 새기는 작업",
+      "3": "구부리는 작업",
+      "4": "원하는 형상을 잘라 뽑아내는 작업"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "서로 반대로 되어 있는 한 쌍의 다이 사이에 얇은 판재를 놓 고 압축력을 가하여 제품을 성형가공하는 방법은 ?",
+    "choices": {
+      "1": "코이닝",
+      "2": "사이징",
+      "3": "스웨이징",
+      "4": "엠보싱"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "판두께 14mm, 리벳지름 22mm, 피치 54mm, 리벳 중심에서 판끝까지 길이 35mm의 한줄 리벳 겹치기 이음이 있다. 1피 치당 하중은 13.5 kN이라면 리벳에 작용하는 전단응력 τ 는 몇 MPa 인가?",
+    "choices": {
+      "1": "25.5",
+      "2": "35.5",
+      "3": "45.5",
+      "4": "55.5"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "코킹(Caulking)한 후 기밀을 더욱 완전하게 유지하기 위해 끝이 넓은 끌로 때리는 작업은 ?",
+    "choices": {
+      "1": "업세팅(Upsetting)",
+      "2": "트리밍(trimming)",
+      "3": "풀러링(fullering)",
+      "4": "시밍(seaming)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "아크 용접법에서 비소모식 전극봉을 사용하는 것은 ?",
+    "choices": {
+      "1": "TIG 용접",
+      "2": "MIG 용접",
+      "3": "CO 용접",
+      "4": "서브머지드 용접 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "이 절단법은 금속,비철금속을 고속도로 절단할 수 있으며 특히 내화물의 절단이 가능한 절단법은 ?",
+    "choices": {
+      "1": "플라스마 절단",
+      "2": "산소 아크 절단",
+      "3": "금속 아크 절단",
+      "4": "아크 에어 가우징"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "전자빔(electron beam)용접법의 특징은 ?",
+    "choices": {
+      "1": "용접부의 용접폭이 넓고 용입이 얇다.",
+      "2": "수지상(dendrite)조직이 발생한다.",
+      "3": "용입이 깊으므로 적은 입열로 두꺼운 소재의 용접이 가 능하다.",
+      "4": "가공, 핏(pit) 균열등의 불량이 발생하기 쉽다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "공작물의 일부분에 열처리 등 특수한 가공을 하는 경우에는 그 범위를 외형선에 약간 떼어서 그리게 되는데 이 때 사용 하는 선은 ?",
+    "choices": {
+      "1": "가는 실선",
+      "2": "가는 일점 쇄선",
+      "3": "굵은 일점 쇄선",
+      "4": "가상선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "한개의 원기둥에 그보다 작은 원기둥이나 각 기둥이 교차했 을 때 그 부분을 실제 투상에 의하지 않고 직선으로 나타내 는 투상도는 ?",
+    "choices": {
+      "1": "관용 투상도",
+      "2": "가상 투상도",
+      "3": "보조 투상도",
+      "4": "직접 투상도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "다음 중 철의 재결정 온도는?",
+    "choices": {
+      "1": "약 150℃",
+      "2": "약 300℃",
+      "3": "약 450℃",
+      "4": "약 600℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 19,
+    "question": "탄소강에 함유된 원소 중 적열취성이 원인이 되는 황화철 (FeS)이 나타나는 것을 방지하는 것은 ?",
+    "choices": {
+      "1": "Si",
+      "2": "P",
+      "3": "Mn",
+      "4": "Cr"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "금속을 소성가공할 때 열간가공(고온가공)과 냉간가공(상온 가공)을 구별하는데 기준이 되는 것은 ?",
+    "choices": {
+      "1": "변태온도",
+      "2": "재결정온도",
+      "3": "단조온도",
+      "4": "천이온도"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "어느 한 방향으로 소성변형을 가한 재료에 다시 역방향의 하중을 가하면 전과 같은 방향으로 하중을 가한 경우 보다 도 소성변형에 대한 저항이 감소한다. 즉 가공경화가 적어 지는 이와 같은 것을 무엇이라 하는가 ?",
+    "choices": {
+      "1": "바우싱거 효과(Bauschinger effect)",
+      "2": "소성 히스테리시스(plastic hysteresis)",
+      "3": "시효경화(age hardening)",
+      "4": "임계 전단응력(critical resolved shear stress)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "파이프 속을 흐르는 유체의 역류를 방지하여 한 방향으로만 흐르게 하는 역할을 하는 밸브는 ?",
+    "choices": {
+      "1": "나비 밸브(butterfly valve)",
+      "2": "첵 밸브(check valve)",
+      "3": "게이트 밸브(gate valve)",
+      "4": "스톱 밸브(stop valve)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "나사의 피치(pitch)가 0.5mm인 마이크로미터에서 딤블의 원 주눈금이 100등분 되었다면 읽을 수 있는 최소값은 ?",
+    "choices": {
+      "1": "0.005mm",
+      "2": "0.001mm",
+      "3": "0.05mm",
+      "4": "0.01mm"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 25,
+    "question": "라미네이션(lamination)의 결함을 탐상하는데 가장 적합한 시험법은?",
+    "choices": {
+      "1": "침투 탐상시험",
+      "2": "초음파 탐상시험",
+      "3": "자분 탐상시험",
+      "4": "누설검사"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 26,
+    "question": "강철의 질을 굳게하는 목적으로 가열하여 균일한 오스테나 이트 조직을 얻은 다음 급냉하는 조작을 담금질이라고 하는 데 가열하는 온도와 가열시간 관계를 바르게 쓴것은?",
+    "choices": {
+      "1": "A 또는 A 점 보다 30 - 50℃ 높게 가열하고 두께 3 1 25mm 에 대하여 30분 정도 유지한다.",
+      "2": "A 변태점 보다 낮은 550 - 650℃ 정도로 가열한다. 1",
+      "3": "A 또는 A 점 보다 20 - 30℃ 높게 가열하고 두께 3 1 10mm 당 10분 정도 유지한다.",
+      "4": "600 - 680℃ 에서 2 - 5시간 가열한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "표면 경화법 중 화염 경화법의 특징이 아닌 것은 ?",
+    "choices": {
+      "1": "피가열물의 크기나 형상에 제한이 적다.",
+      "2": "국부 담금질을 할 수 있다.",
+      "3": "작업이 간편하며 경제적이다.",
+      "4": "사용재료의 선택범위가 좁다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 28,
+    "question": "용접 후 처리작업 중 제 1층에서 피닝(peening)을 하지 않 는 이유는?",
+    "choices": {
+      "1": "경도를 증가시키기 위하여",
+      "2": "균열발생을 방지하기 위하여",
+      "3": "탄소당량을 증가시키기 위하여",
+      "4": "인성과 강도를 증가시키기 위하여"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "다음 판금공작용 기계중 폭이 좁은 바이트를 아래와 위에 각각 장치하고 윗날의 상하 운동에 의하여 재료를 절단하는 것은 ?",
+    "choices": {
+      "1": "회전 전단기(rotary shear)",
+      "2": "바이브러 시어(vibro shear)",
+      "3": "레버 시어(lever shear)",
+      "4": "직각 전단기(square shear)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "가공 행정의 끝부분에서 강력한 힘을 얻을 수 있어 코닝작 업 등에 많이 사용되는 프레스는 ?",
+    "choices": {
+      "1": "유압 프레스",
+      "2": "마찰 프레스",
+      "3": "너클 프레스",
+      "4": "크랭크 프레스"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "다음중 토글 프레스(Toggle Press)에 대한 설명으로 맞는 것은 ?",
+    "choices": {
+      "1": "행정의 끝부분에서 속도가 늦어지고 힘이 크게 되도록 되어 있다.",
+      "2": "Press의 성능에 비하여 과대한 힘을 필요로 하는 작업에 도 적당하다.",
+      "3": "행정과 크랭크의 회전 각도와의 관계는 싸인 커브를 그 리도록 되어 있다.",
+      "4": "여러 개의 프레스를 하나로 만든 매우 능률적인 프레스 이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 33,
+    "question": "프레스 가공중 전단작업에서 얻어진 제품의 단면 형상에 가 장 영향을 많이 미치는 것은 ?",
+    "choices": {
+      "1": "소재의 전단저항",
+      "2": "클리어런스",
+      "3": "가압 시간",
+      "4": "프레스의 종류"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 34,
+    "question": "굽힘 작업을 할 때에 고려해야 할 사항이 아닌 것은 ?",
+    "choices": {
+      "1": "판재의 재질",
+      "2": "판재의 방향성",
+      "3": "최소 굽힘 반지름",
+      "4": "잔류응력"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 35,
+    "question": "판두께 1.2mm, 굽힘길이 150mm의 연강판을 V-굽힘할 때 굽힘 하중력은 몇 kN 정도인가? (이 때의 다이 견폭(어깨 폭)은 8t, 인장강도는 380 MPa, 상수 C는 1.33이다.)",
+    "choices": {
+      "1": "11.37",
+      "2": "30.32",
+      "3": "45.67",
+      "4": "56.31"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "컨테이너 속에 재료를 넣고 램(ram)으로 압력을 가해 가공 하는 것은 어느 것인가 ?",
+    "choices": {
+      "1": "압연가공",
+      "2": "압출가공",
+      "3": "인발가공",
+      "4": "전조가공"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "주화나 메달등을 만들때 쓰는 것으로 조각된 한쌍의 다이 사이에 소재를 넣고, 위.아래의 전면에 압축력을 주어 다이 모양으로 만드는 가공방법은?",
+    "choices": {
+      "1": "엠보싱(embossing)",
+      "2": "코이닝(coining)",
+      "3": "스웨이징(swaging)",
+      "4": "사이징(sizing)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "다음 중 연납땜에 속하는 것은 ?",
+    "choices": {
+      "1": "주석납",
+      "2": "황동납",
+      "3": "은납",
+      "4": "알루미늄납"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 40,
+    "question": "모재의 한쪽 또는 양쪽에 작은 돌기를 만들어 이 부분에 대 전류와 압력을 가해 압접하는 용접법은 ?",
+    "choices": {
+      "1": "업셋 용접(upset welding)",
+      "2": "플레시 용접(flash welding)",
+      "3": "프로젝션 용접(projection welding)",
+      "4": "심 용접(seam welding)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "다음 점용접용 팁중 앵글등과 같이 용접위치가 나쁠 때 사 용하는 팁은 ?",
+    "choices": {
+      "1": "R형",
+      "2": "P형",
+      "3": "C형",
+      "4": "E형"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "다음중 리벳의 배열방법이 아닌 것은 ?",
+    "choices": {
+      "1": "한줄 리벳이음",
+      "2": "두줄 평행형",
+      "3": "두줄 지그재그형",
+      "4": "두줄 대칭형"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "황동 중 델타 메탈(delta metal)은 6.4황동에 어떠한 것을 첨가한 합금인가 ?",
+    "choices": {
+      "1": "납",
+      "2": "주석",
+      "3": "철",
+      "4": "망간"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "가공성이 풍부하고 내식성이 강하며 해독이 없으므로 가정 용기구등에 사용되나 건축용 재료로는 적합하지 않은 강판 은 ?",
+    "choices": {
+      "1": "아연도금 강판",
+      "2": "주석도금 강판",
+      "3": "규소 강판",
+      "4": "비닐 강판"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "황동판이 냉간가공후 시간이 오래 경과함에 따라 잔류응력 에 의거 균열이 생기는 것은 무엇이라 하는가 ?",
+    "choices": {
+      "1": "석출균열",
+      "2": "잔류균열",
+      "3": "자기균열",
+      "4": "자연균열"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "냉간가공을 하면 감소하는 금속의 기계적 성질은 ?",
+    "choices": {
+      "1": "인장강도",
+      "2": "항복점",
+      "3": "탄성한계",
+      "4": "단면수축율"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "어떤 종류의 금속 또는 합금은 가공 경화한 직후부터 시간 의 경과와 더불어 기계적 성질이 변화하나 나중에는 일정값 을 나타낸다. 이러한 현상을 무엇이라 하는가 ?",
+    "choices": {
+      "1": "동소변태",
+      "2": "시효경화",
+      "3": "자기변태",
+      "4": "저온풀림"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "다음 측정기 중 비교 측정기는?",
+    "choices": {
+      "1": "버어니어 캘리퍼스",
+      "2": "마이크로 미터",
+      "3": "공기 마이크로 미터",
+      "4": "한계 게이지"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "판두께를 얇게하여 단면의 성능을 좋게하고 비교적 하중이 작은 구조물에 사용하며, 국부좌굴을 방지하기 위하여 립 (lip)을 붙인 강은 ?",
+    "choices": {
+      "1": "ㄱ형강",
+      "2": "H형강",
+      "3": "ㄷ형강",
+      "4": "경량형강"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "어떤 측정법으로 동일 시료를 무한 횟수 측정하였을 때 데 이터의 분포의 평균치와 참값과의 차를 무엇이라 하는가?",
+    "choices": {
+      "1": "신뢰성",
+      "2": "정확성",
+      "3": "정밀도",
+      "4": "오차"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "관리한계선을 구하는데 이항분포를 이용하여 관리선을 구하 는 관리도는?",
+    "choices": {
+      "1": "Pn 관리도",
+      "2": "U 관리도",
+      "3": "관리도",
+      "4": "X 관리도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "로트(Lot)수를 가장 올바르게 정의한 것은?",
+    "choices": {
+      "1": "1회 생산수량을 의미한다.",
+      "2": "일정한 제조회수를 표시하는 개념이다.",
+      "3": "생산목표량을 기계대수로 나눈 것이다.",
+      "4": "생산목표량을 공정수로 나눈 것이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "다음의 데이터를 보고 편차 제곱합(S)을 구하면? (단, 소숫 점 3자리까지 구하시오.)",
+    "choices": {
+      "1": "0.338",
+      "2": "1.029",
+      "3": "0.114",
+      "4": "1.014"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "다음 중 망치 작업시 주의사항으로 옳은 것은?",
+    "choices": {
+      "1": "슬래지 해머(sledge hammer)를 사용시는 보안경을 쓴다.",
+      "2": "드레스(dress)시에는 상온에서 공냉처리하여 연성을 부여 한다.",
+      "3": "보조 해머를 사용시 손목의 충격을 방지하기 위해 가볍게 움켜쥔다.",
+      "4": "망치 표면은 산화를 방지하기 위해 오일을 묻혀 사용한 다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "플랜지(flange)가 있는 판을 주름을 만들지 않고 또 표면에 흠이 없게 원호 모양으로 구부리는 기계는 ?",
+    "choices": {
+      "1": "프레스 브레이크(press break)",
+      "2": "탄젠트 벤더(tangent bender)",
+      "3": "앵글 벤더(angle bender)",
+      "4": "파이프 벤더(pipe bender)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "원형으로 된 윗날과 아랫날을 회전시켜 판재를 직선이나 원 형 및 임의의 곡선으로 전단하는 기계는?",
+    "choices": {
+      "1": "서어큘러 시어",
+      "2": "갱 슬리터",
+      "3": "스퀘어 시어",
+      "4": "갭 시어"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "펀치(Punch)와 다이(die)를 사용하여 연강이나 순철을 전단할 때 보통 판두께에 대한 틈새 (clearance)값으로 옳은 것은?",
+    "choices": {
+      "1": "1~3%",
+      "2": "3~6%",
+      "3": "6~9%",
+      "4": "9~12%"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "스프링 백(spring back)의 양이 커지는 것과 관계 없는 것 은?",
+    "choices": {
+      "1": "탄성한계가 높을수록",
+      "2": "구부림 반지름이 클수록",
+      "3": "소성이 큰 재료일수록",
+      "4": "강도가 높을수록"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "최소 굽힘 반지름에 대하여 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "재료에 균열이 생기지 않게 하고 굽힐 수 있는 최소의 굽 힘 반경이다.",
+      "2": "판두께가 두꺼울수록 커져야 한다.",
+      "3": "판의 나비가 좁을수록 커져야 한다.",
+      "4": "압연방향과 직각인 방향의 경우가 적어진다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "교류 아크(arc)가 직류 아크(arc)보다 불안정한 주된 이유 는?",
+    "choices": {
+      "1": "전류값이 1사이클에 2번 0이 되기 때문이다.",
+      "2": "전류값이 직류가 높기 때문이다.",
+      "3": "직류보다 교류가 전압이 낮기 때문이다.",
+      "4": "자기쏠림(arc blow)현상이 일어나기 때문이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "교류아크 용접에서 핫스타트(hot start) 장치에 대한 이점으 로 틀린 것은 ?",
+    "choices": {
+      "1": "블로우 홀(blow hole)를 방지한다.",
+      "2": "비드 모양을 개선한다.",
+      "3": "아크 발생 초기의 비드용입을 양호하게 한다.",
+      "4": "전류 조정을 용이하게 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "일렉트로 슬래그(electro slag)용접은 다음 중 어느 용접에 가장 적합한가?",
+    "choices": {
+      "1": "엷은 판재의 용접",
+      "2": "두꺼운 판의 용접",
+      "3": "재질이 서로 다른 판의 용접",
+      "4": "플라스틱 용접"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "현도장에서 사용되는 기구로만 짝지어진 것은 ?",
+    "choices": {
+      "1": "강재줄자, 곡자, 수준기",
+      "2": "접자, 목공도구, 스냅",
+      "3": "직각자, 드리프트, 추",
+      "4": "비임컴퍼스, 먹통, 벤딩핀"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "스테인리스 클래드 강판(stainless clad steel sheet)의 제품 기호 \"SB42 + STS316L - R 1F\"에서 \"R\"은 무엇을 나타내 는가?",
+    "choices": {
+      "1": "클래드강의 종류 기호",
+      "2": "모재의 종류",
+      "3": "접합재의 종류",
+      "4": "클래드강의 접합상태의 등급 기호"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "일반적으로 강판을 두께에 따라 구분할 때 후판은 몇 mm이 상으로 하는가 ?",
+    "choices": {
+      "1": "1.5",
+      "2": "3.0",
+      "3": "6.0",
+      "4": "15.0"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20040404",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "금속재료를 냉간 가공하면 그 성질이 변하게 되는데 틀린 것은 ?",
+    "choices": {
+      "1": "인장강도가 증가한다.",
+      "2": "연신율이 증가한다.",
+      "3": "경도가 증가한다.",
+      "4": "항복점이 높아진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 21,
+    "question": "압력용기의 재료는 다음 항을 고려하여 택하되 탄성한도가 크며, 질긴 재료이어야 한다. 관계가 먼 것은 ?",
+    "choices": {
+      "1": "유체의 양",
+      "2": "유체의 종류",
+      "3": "유체의 성질",
+      "4": "유체의 압력"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 22,
+    "question": "다음표를 보고 A공장의 천인율(千人率)을 계산하면 어느 것 인가?",
+    "choices": {
+      "1": "122",
+      "2": "112",
+      "3": "102",
+      "4": "92"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 23,
+    "question": "결정입자의 미세화 또는 열처리에 의하여 경화된 재료의 완 전 연화를 목적으로 A 1 또는 A 3 변태점 이상 30 ~ 50℃ 범 위로 일정한 시간 가열하여 조직을 미세한 오스테나이트로 변화시킨 다음 서냉시키는 열처리는?",
+    "choices": {
+      "1": "완전 풀림",
+      "2": "연화 풀림",
+      "3": "확산 풀림",
+      "4": "구상화 풀림"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 24,
+    "question": "다음 중 항온 열처리의 종류가 아닌 것은?",
+    "choices": {
+      "1": "마템퍼링 (martempering)",
+      "2": "마퀜칭 (marquenching)",
+      "3": "마어닐링 (marannealing)",
+      "4": "오스템퍼링 (austempering)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 25,
+    "question": "탄소강을 담금질할 때 내외부가 냉각속도에 따라 담금질 효 과가 다르게 나타나는 현상을 무엇이라 하는가 ?",
+    "choices": {
+      "1": "질량효과",
+      "2": "오스템퍼",
+      "3": "담금균열",
+      "4": "노치효과"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 26,
+    "question": "다음 중 드릴링 머신(drilling machine)으로 할 수 없는 작업 은?",
+    "choices": {
+      "1": "카운터 보링(counter boring)",
+      "2": "카운터 싱킹(counter sinking)",
+      "3": "리밍(reaming)",
+      "4": "키 홀(key hole)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 27,
+    "question": "프레스에 의한 전단가공 중 펀치로 찍어내고 남는 것이 제 품이되는 가공은 ?",
+    "choices": {
+      "1": "블랭킹",
+      "2": "펀칭",
+      "3": "노칭",
+      "4": "셰이빙"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 29,
+    "question": "손작업으로 보기와 같은 제품을 만들때 알맞는 순서는 ?",
+    "choices": {
+      "1": "A,B,C,D,E",
+      "2": "A,E,B,C,D",
+      "3": "A,E,B,D,C",
+      "4": "C,A,E,B,D"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 30,
+    "question": "굽힘부의 판길이 200mm, 판두께 1.2mm의 강판을 프레스 에 의한 V굽힘하려고 한다. 다이의 어깨 폭이 8t이고 상수 C = 1.33일때 가공력은 몇 ton 인가? (단, 강판의 인장 강 도는 40 kgf/mm2이다.)",
+    "choices": {
+      "1": "1.6",
+      "2": "2.8",
+      "3": "3.2",
+      "4": "4.5"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 31,
+    "question": "두께 2mm의 연강판으로 외경이 100mm인 원통을 만들 때 마름질할 판의 길이는 몇 mm 인가?",
+    "choices": {
+      "1": "320.0",
+      "2": "314.0",
+      "3": "307.8",
+      "4": "310.0"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 35,
+    "question": "다음과 같은 물체는 어떤 전개방법을 선택하는 것이 가장 좋은가?",
+    "choices": {
+      "1": "평행선 전개법",
+      "2": "삼각형 전개법",
+      "3": "방사선 전개법",
+      "4": "상관선 전개법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 36,
+    "question": "구리에 60 ~ 70% Ni을 첨가한 내열.내식성 합금으로서, 기 계적 성질과 화학적 성질이 우수하여 과열 증기 밸브, 열기 관 부품, 화학기계 부품 등에 많이 쓰이는 재료는 ?",
+    "choices": {
+      "1": "콘스탄탄(constantan)",
+      "2": "모넬 메탈(monel metal)",
+      "3": "브리타니아 메탈(Britania metal)",
+      "4": "Y합금"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 37,
+    "question": "일반용 냉간 압연 강판의 기호는 어느 것인가 ?",
+    "choices": {
+      "1": "SHP",
+      "2": "SPCC",
+      "3": "SSP",
+      "4": "SBHG"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 38,
+    "question": "다음 금속의 성질 중 기계적 성질에 속하는 것은 ?",
+    "choices": {
+      "1": "마모성",
+      "2": "비중",
+      "3": "열전도성",
+      "4": "내열성"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "date": "20040404",
+    "subject": 2,
+    "subject_name": "임의 구분",
+    "question_no": 39,
+    "question": "원자의 미끄럼이 어떤면을 경계로해서 한쪽의 결정이 회전 을 일으키고 다른쪽의 회전을 일으키지 않는 결정과 그면에 서 대칭으로 되는 변형을 무엇이라 하는가?",
+    "choices": {
+      "1": "쌍정(twin)",
+      "2": "방향성",
+      "3": "전위(dislocation)",
+      "4": "슬립(slip)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "나사를 결합용과 운동용으로 분류할 때 운동용 나사에 해당 하는 것은?",
+    "choices": {
+      "1": "둥근나사",
+      "2": "미터나사",
+      "3": "유니파이나사",
+      "4": "사각나사"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "요철이 서로 반대인 한쌍의 다이 사이에 얇은 판재를 넣고 압축력을 가하여 제품을 성형 가공하는 방법은?",
+    "choices": {
+      "1": "업세팅",
+      "2": "엠보싱",
+      "3": "코이닝",
+      "4": "스웨이징"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "다음 해머 중 찌그러진 판재의 펴기작업에 주로 쓰이는 해 머는?",
+    "choices": {
+      "1": "볼핀해머",
+      "2": "셋팅해머",
+      "3": "레이징해머",
+      "4": "범핑해머"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "리벳이음의 작업과정이 순서대로 나열된 것은?",
+    "choices": {
+      "1": "리벳뽑기 → 리벳끼움 → 리벳구멍 채우기 → 머리가공 → 완성가공",
+      "2": "리벳끼움 → 리벳뽑기 → 리벳구멍 채우기 → 머리가공 → 완성가공",
+      "3": "리벳구멍 채우기 → 리벳뽑기 → 리벳끼움 → 머리가공 → 완성가공",
+      "4": "리벳뽑기 → 리벳끼움 → 머리가공 → 리벳구멍 채우기 → 완성가공"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "이음의 전길이에 걸쳐 건너뛰어서 비드를 놓는 방법으로 변 형, 잔류응력이 가장 적게되며 용접선이 긴 경우에 적당한 용착방법은?",
+    "choices": {
+      "1": "전진법",
+      "2": "후진법",
+      "3": "대칭법",
+      "4": "스킵법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "기계제도에서 3각법으로 입체를 투상시 입체의 높이가 나타 나지 않는 투상도의 명칭은?",
+    "choices": {
+      "1": "정면도",
+      "2": "배면도",
+      "3": "저면도",
+      "4": "측면도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "제관용 강판의 내식성 및 내구성을 향상시킬 목적으로 특수 피복강판이 사용된다. 다음 중 특수 피복강판이 아닌 것은?",
+    "choices": {
+      "1": "크로메이트(chromate) 강판",
+      "2": "스테인리스 클래드(stainless clad) 강판",
+      "3": "착색아연(coloring galvanize) 강판",
+      "4": "규소(silicon) 강판"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "기둥의 단면형상 등 모든 조건이 동일할 때 기둥을 지지하 는 방법 중에서 좌굴하중이 가장 큰 경우는?",
+    "choices": {
+      "1": "일단고정 타단자유의 기둥",
+      "2": "양단회전(핀)인 기둥",
+      "3": "일단고정 타단회전(핀)인 기둥",
+      "4": "양단고정인 기둥"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "선반을 사용하여 소재(판재)를 다이와 함께 회전시켜, 외측 에서 소재(판재)를 다이의 외부에 눌러서 성형하는 가공방법 은?",
+    "choices": {
+      "1": "슬리팅(slitting)",
+      "2": "해 밍(hemming)",
+      "3": "스피닝(spinning)",
+      "4": "프레스 벤딩(press bending)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "다음 중 단면모양에 따른 형강의 종류가 아닌 것은?",
+    "choices": {
+      "1": "T형강",
+      "2": "H형강",
+      "3": "F형강",
+      "4": "ㄷ형강"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "용접 후 잔류응력 제거를 주목적으로 하는 열처리법은?",
+    "choices": {
+      "1": "담금질",
+      "2": "풀림",
+      "3": "불림",
+      "4": "뜨임"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "샘플링 검사의 목적으로서 틀린 것은?",
+    "choices": {
+      "1": "검사비용 절감",
+      "2": "생산공정상의 문제점 해결",
+      "3": "품질향상의 자극",
+      "4": "나쁜 품질인 로트의 불합격"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "월 100대의 제품을 생산하는데 세이퍼 1대의 제품 1대당 소요공수가 14.4 H 라 한다. 1일 8 H, 월 25일, 가동한다고 할 때 이 제품 전부를 만드는데 필요한 세이퍼의 필요대수 를 계산하면? (단,작업자 가동율 80 %, 세이퍼 가동율 90 % 이다.)",
+    "choices": {
+      "1": "8대",
+      "2": "9대",
+      "3": "10대",
+      "4": "11대"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "T Q C (Total Quality Control)란?",
+    "choices": {
+      "1": "시스템적 사고방법을 사용하지 않는 품질관리 기법이다.",
+      "2": "아프터 서비스를 통한 품질을 보증하는 방법이다.",
+      "3": "전사적인 품질정보의 교환으로 품질향상을 기도하는 기 법이다.",
+      "4": "QC부의 정보분석 결과를 생산부에 피드백하는 것이다"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "date": "20040404",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "계수값 관리도는 어느 것인가?",
+    "choices": {
+      "1": "R관리도",
+      "2": "관리도",
+      "3": "P관리도",
+      "4": "관리도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  }
+]

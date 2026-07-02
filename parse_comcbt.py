@@ -107,15 +107,17 @@ def get_key(folder_name: str) -> str:
 
 
 def get_max_q(folder_name: str) -> int:
-    """자격증 등급별 문항 수 자동 설정."""
+    """자격증 등급별 문항 수 자동 설정.
+    실제 문항 수가 등급별 표준치를 넘는 회차가 있어(예: 2003년 건설안전기사 107문항)
+    여유를 두고 상한을 잡는다 — 순번 기준 매칭이라 실제 문항이 없으면 어차피 안 잡힘."""
     if '기능사' in folder_name or '기능장' in folder_name:
-        return 60
+        return 70
     if '산업기사' in folder_name:
-        return 80
-    if '기사' in folder_name:
         return 100
+    if '기사' in folder_name:
+        return 120
     # 관리사, 전문가, 이용사, 미용사 등 기타
-    return 100
+    return 120
 
 
 def build_exam_targets() -> list:
@@ -237,8 +239,11 @@ def collect_subject_names(pdfs: list) -> dict:
 
 # ── 문제 블록 분리 ────────────────────────────────────────────
 
-def lines_to_blocks(lines: list, subject_state: list, max_q: int) -> list:
-    blocks, cur, last_no = [], None, 0
+def lines_to_blocks(lines: list, subject_state: list, max_q: int, last_no_state: list) -> list:
+    """last_no_state: [int] — PDF 파일(시험 1회차) 전체에서 공유하는 순번 카운터.
+    문제 시작 판단은 '이전 번호+1과 정확히 일치하는 순번'인지로만 함
+    (키워드 매칭은 줄바꿈으로 키워드가 잘리면 놓치는 경우가 있어 폐기)."""
+    blocks, cur = [], None
     for line in lines:
         sm = re.match(r'^(\d+)과목\s*[:：]\s*', line)
         if sm:
@@ -248,20 +253,7 @@ def lines_to_blocks(lines: list, subject_state: list, max_q: int) -> list:
         if m:
             n = int(m.group(1))
             rest = m.group(2)
-            is_q = (
-                1 <= n <= max_q
-                and n > last_no
-                and (
-                    not rest
-                    or re.search(
-                        r'[?\[]|것은|옳은|가장|고른|찾은|골라|보면|나타난|무엇|다음|어느|'
-                        r'해당|설명|내용|관련|시기|아닌|대한|경우|위한|틀린|맞는|올바른|'
-                        r'잘못|옳지|알맞은|적합|적절|올바르|해설|의미|정의|특징|방법',
-                        rest
-                    )
-                )
-            )
-            if is_q:
+            if n == last_no_state[0] + 1 and n <= max_q:
                 if cur:
                     blocks.append(cur)
                 cur = {
@@ -269,7 +261,7 @@ def lines_to_blocks(lines: list, subject_state: list, max_q: int) -> list:
                     'subject': subject_state[0],
                     'lines': [rest] if rest else [],
                 }
-                last_no = n
+                last_no_state[0] = n
                 continue
         if cur is not None:
             cur['lines'].append(line)
@@ -305,6 +297,8 @@ def block_to_question(block: dict):
 
     if len(choices) not in (4, 5) or not question:
         return None
+    if any(not v.strip() for v in choices.values()):
+        return None  # 빈 보기가 있으면 파싱 실패로 간주 (원형기호/숫자 줄바꿈 어긋남 등)
 
     return {
         'no':      block['no'],
@@ -343,11 +337,12 @@ def parse_exam(pdf_path: Path, max_q: int) -> tuple:
     with pdfplumber.open(str(pdf_path)) as pdf:
         answers = parse_answers(pdf, max_q)
         subject_state = [1]
+        last_no_state = [0]  # 파일(시험 1회차) 전체에서 이어지는 순번 카운터
         for page in pdf.pages:
             left, right = extract_columns(page)
             for col in (left, right):
                 col = filter_lines(col)
-                for block in lines_to_blocks(col, subject_state, max_q):
+                for block in lines_to_blocks(col, subject_state, max_q, last_no_state):
                     q = block_to_question(block)
                     if q and q['no'] not in questions:
                         questions[q['no']] = q

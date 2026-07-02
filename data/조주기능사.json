@@ -115,10 +115,10 @@
     "question_no": 8,
     "question": "삼국시대 대외 관계에 관한 설명으로 옳은 것은?",
     "choices": {
-      "1": "노비안검법 - 음서제",
-      "2": "백관의 공복 제정 - 광덕 연호 사용",
-      "3": "기인제 - 정동행성 설치",
-      "4": "과거제 - 교정도감 설치"
+      "1": "고구려 미천왕은 낙랑군을 축출하여 대동강 유역을 차지 하였다.",
+      "2": "백제 동성왕은 수군을 정비하여 중국 요서 지방에 진출하 였다.",
+      "3": "신라 내물왕은 백제를 통해 중국 전진과 외교 관계를 맺 었다.",
+      "4": "전기 가야연맹은 백제와 왜의 공격을 받아 연맹이 무너졌 다."
     },
     "answers": [
       1
@@ -127,6 +127,24 @@
   },
   {
     "id": 8,
+    "date": "20150404",
+    "subject": 1,
+    "subject_name": "한국사",
+    "question_no": 9,
+    "question": "고려 초기 중앙집권 체제를 구축하기 위해 시행한 정책을 바 르게 나열한 것은?",
+    "choices": {
+      "1": "노비안검법 - 음서제",
+      "2": "백관의 공복 제정 - 광덕 연호 사용",
+      "3": "기인제 - 정동행성 설치",
+      "4": "과거제 - 교정도감 설치"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -144,7 +162,7 @@
     "explanation": ""
   },
   {
-    "id": 9,
+    "id": 10,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -162,7 +180,7 @@
     "explanation": ""
   },
   {
-    "id": 10,
+    "id": 11,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -180,7 +198,7 @@
     "explanation": ""
   },
   {
-    "id": 11,
+    "id": 12,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -198,7 +216,7 @@
     "explanation": ""
   },
   {
-    "id": 12,
+    "id": 13,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -216,7 +234,7 @@
     "explanation": ""
   },
   {
-    "id": 13,
+    "id": 14,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -234,7 +252,7 @@
     "explanation": ""
   },
   {
-    "id": 14,
+    "id": 15,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -252,7 +270,7 @@
     "explanation": ""
   },
   {
-    "id": 15,
+    "id": 16,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -270,7 +288,7 @@
     "explanation": ""
   },
   {
-    "id": 16,
+    "id": 17,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -288,7 +306,7 @@
     "explanation": ""
   },
   {
-    "id": 17,
+    "id": 18,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -306,7 +324,7 @@
     "explanation": ""
   },
   {
-    "id": 18,
+    "id": 19,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -324,7 +342,7 @@
     "explanation": ""
   },
   {
-    "id": 19,
+    "id": 20,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -342,7 +360,7 @@
     "explanation": ""
   },
   {
-    "id": 20,
+    "id": 21,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -360,7 +378,7 @@
     "explanation": ""
   },
   {
-    "id": 21,
+    "id": 22,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -378,7 +396,7 @@
     "explanation": ""
   },
   {
-    "id": 22,
+    "id": 23,
     "date": "20150404",
     "subject": 1,
     "subject_name": "한국사",
@@ -396,7 +414,7 @@
     "explanation": ""
   },
   {
-    "id": 23,
+    "id": 24,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -414,7 +432,7 @@
     "explanation": ""
   },
   {
-    "id": 24,
+    "id": 25,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -432,7 +450,7 @@
     "explanation": ""
   },
   {
-    "id": 25,
+    "id": 26,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -450,7 +468,7 @@
     "explanation": ""
   },
   {
-    "id": 26,
+    "id": 27,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -468,7 +486,7 @@
     "explanation": ""
   },
   {
-    "id": 27,
+    "id": 28,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -486,7 +504,7 @@
     "explanation": ""
   },
   {
-    "id": 28,
+    "id": 29,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -504,7 +522,7 @@
     "explanation": ""
   },
   {
-    "id": 29,
+    "id": 30,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -522,7 +540,7 @@
     "explanation": ""
   },
   {
-    "id": 30,
+    "id": 31,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -540,7 +558,7 @@
     "explanation": ""
   },
   {
-    "id": 31,
+    "id": 32,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -558,7 +576,7 @@
     "explanation": ""
   },
   {
-    "id": 32,
+    "id": 33,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -576,7 +594,7 @@
     "explanation": ""
   },
   {
-    "id": 33,
+    "id": 34,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -594,17 +612,17 @@
     "explanation": ""
   },
   {
-    "id": 34,
+    "id": 35,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
     "question_no": 38,
     "question": "다음 사액서원 중 경상북도에 위치하지 않은 것은?",
     "choices": {
-      "1": "석전대제",
-      "2": "사직대제",
-      "3": "종묘대제",
-      "4": "별신대제"
+      "1": "필암서원",
+      "2": "옥동서원",
+      "3": "도산서원",
+      "4": "옥산서원"
     },
     "answers": [
       1
@@ -612,7 +630,25 @@
     "explanation": ""
   },
   {
-    "id": 35,
+    "id": 36,
+    "date": "20150404",
+    "subject": 2,
+    "subject_name": "관광자원해설",
+    "question_no": 39,
+    "question": "중요무형문화재로 땅과 곡식의 신에게 드리는 국가적인 제 사의 명칭은?",
+    "choices": {
+      "1": "석전대제",
+      "2": "사직대제",
+      "3": "종묘대제",
+      "4": "별신대제"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -630,7 +666,7 @@
     "explanation": ""
   },
   {
-    "id": 36,
+    "id": 38,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -648,7 +684,7 @@
     "explanation": ""
   },
   {
-    "id": 37,
+    "id": 39,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -666,7 +702,7 @@
     "explanation": ""
   },
   {
-    "id": 38,
+    "id": 40,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -684,7 +720,7 @@
     "explanation": ""
   },
   {
-    "id": 39,
+    "id": 41,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -702,7 +738,7 @@
     "explanation": ""
   },
   {
-    "id": 40,
+    "id": 42,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -720,7 +756,7 @@
     "explanation": ""
   },
   {
-    "id": 41,
+    "id": 43,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -738,7 +774,7 @@
     "explanation": ""
   },
   {
-    "id": 42,
+    "id": 44,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -756,7 +792,7 @@
     "explanation": ""
   },
   {
-    "id": 43,
+    "id": 45,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",
@@ -774,7 +810,7 @@
     "explanation": ""
   },
   {
-    "id": 44,
+    "id": 46,
     "date": "20150404",
     "subject": 2,
     "subject_name": "관광자원해설",

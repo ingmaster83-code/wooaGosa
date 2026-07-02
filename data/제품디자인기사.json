@@ -1,1 +1,3278 @@
-[{"id": 1, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 1, "question": "형태에 대한 기초연습으로 자연이나 인공물의 형태 질서를 관찰, 파악, 변형해서 재현해 보는 것은?", "choices": {"1": "양식화", "2": "형태화", "3": "추상화", "4": "비구상화"}, "answers": [1], "explanation": ""}, {"id": 2, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 2, "question": "다음 시세포 중에서 색채를 주로 식별할 수 있는 기능을 갖 고 있는 것은?", "choices": {"1": "독창적인 아이디어의 양산", "2": "손재주로부터의 해방", "3": "데이터 관리의 용이", "4": "다양한 조형시뮬레이션"}, "answers": [1], "explanation": ""}, {"id": 3, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 4, "question": "제품디자인의 역사적 단계별 특징을 설명한 것 중 틀린 것 은?", "choices": {"1": "의장 사용료제도", "2": "시간제도", "3": "일정 요금제도", "4": "전속 계약제도"}, "answers": [2], "explanation": ""}, {"id": 4, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 6, "question": "공업디자인의 조건에 부합되지 않는 것은?", "choices": {"1": "신합리주의", "2": "합리주의", "3": "제품의미론", "4": "역사주의"}, "answers": [2], "explanation": ""}, {"id": 5, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 8, "question": "아르 데코(Art Deco)의 설명 중 틀린 것은?", "choices": {"1": "그래픽디자인", "2": "환경디자인", "3": "포장디자인", "4": "전시디자인"}, "answers": [4], "explanation": ""}, {"id": 6, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 10, "question": "디자인에서 시각유도를 계획하는 것은?", "choices": {"1": "렌더링", "2": "시장조사", "3": "이이디어 스케치", "4": "목업 제작"}, "answers": [1], "explanation": ""}, {"id": 7, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 15, "question": "바우하우스가 설립된 최초의 도시는?", "choices": {"1": "뎃사우", "2": "시카고", "3": "뮌헨", "4": "바이마르"}, "answers": [4], "explanation": ""}, {"id": 8, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 16, "question": "오늘날 산업디자이너의 자세는 어떠해야 하는가?", "choices": {"1": "가상공간(virtual space)", "2": "착시공간(optical space)", "3": "암시적 공간(implied space)", "4": "환영적 공간(illusive space)"}, "answers": [3], "explanation": ""}, {"id": 9, "date": "20040523", "subject": 1, "subject_name": "제품디자인론", "question_no": 18, "question": "'독일의 아르누보'라고 불리는 양식은?", "choices": {"1": "독일 공작연맹", "2": "유켄트스틸", "3": "아르 누보", "4": "아트 앤드 크라프트"}, "answers": [1], "explanation": ""}, {"id": 10, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 21, "question": "시각표시장치 보다 청각표시장치를 쓰는 것이 유리한 경우 는?", "choices": {"1": "1000 lux 이상", "2": "600 ~ 800 lux", "3": "300 ~ 500 lux", "4": "300 lux 미만"}, "answers": [3], "explanation": ""}, {"id": 11, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 25, "question": "다음 인간공학의 연구분석방법 중 직접적 관찰법과 관련이 없는 것은?", "choices": {"1": "Time Motion Study에 의한 방법", "2": "A.I.O(Activities Interest Opinion)", "3": "조사자의 의견, 면접 또는 제안에 의한 방법", "4": "Layout(flow-diagram)에 의한 방법"}, "answers": [2], "explanation": ""}, {"id": 12, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 26, "question": "인간의 시각적 구조 중 색을 구별하게 하는 요소는?", "choices": {"1": "망막", "2": "동공", "3": "간상세포", "4": "추상세포"}, "answers": [4], "explanation": ""}, {"id": 13, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 27, "question": "다음 중 음성전송 계통에서 생기지 않는 왜곡은?", "choices": {"1": "전도", "2": "대류", "3": "복사", "4": "증발"}, "answers": [4], "explanation": ""}, {"id": 14, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 31, "question": "다음 중 음의 단위가 아닌 것은?", "choices": {"1": "변별역", "2": "정비역", "3": "자극역", "4": "등치역"}, "answers": [4], "explanation": ""}, {"id": 15, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 33, "question": "다음 중 황금분할(golden section) 혹은 황금비와 관련이 있는 것은?", "choices": {"1": "1 : 1.618", "2": "1 : 2", "3": "1 : 2.145", "4": "1 : 3"}, "answers": [1], "explanation": ""}, {"id": 16, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 34, "question": "눈의 동공은 카메라의 무엇과 비슷한가?", "choices": {"1": "샤터", "2": "조리개", "3": "렌즈", "4": "필름"}, "answers": [2], "explanation": ""}, {"id": 17, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 35, "question": "사람의 작업성능에 대한 소음의 영향 중 옳은 것은?", "choices": {"1": "특정한 의미가 없는 일정소음이 90dB(A)를 초과하지 않 을 때는 작업을 방해하지 않는 것으로 본다.", "2": "암순응과 같은 감각의 반응은 소음에 직접적인 영향을 받는다.", "3": "소음은 작업의 정밀도의 저하보다는 총작업량을 저하시 키기 쉽다.", "4": "단순작업은 복잡한 작업보다 소음에 의해 나쁜 영향을 받기 쉽다."}, "answers": [1], "explanation": ""}, {"id": 18, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 36, "question": "다음 중 관절운동의 정의로 맞는 것은?", "choices": {"1": "굴곡(flexion)", "2": "신전(extention)", "3": "하향(pronation)", "4": "외전(adduction)"}, "answers": [4], "explanation": ""}, {"id": 19, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 38, "question": "촉각, 온각, 냉각에 대한 설명 중 잘못된 것은?", "choices": {"1": "피부의 온도순응은 동시에 이루어진다.", "2": "정상적인 피부표면은 36℃이다.", "3": "위치의 지각은 손, 발, 입술 등이 예민하다.", "4": "완전하게 순응되는 온도를 넘으면 부분적 순응이 이루어 진다."}, "answers": [2], "explanation": ""}, {"id": 20, "date": "20040523", "subject": 2, "subject_name": "인간공학", "question_no": 40, "question": "인체의 자세와 요추의 변화 중 그림 B에 해당되는 것은?", "choices": {"1": "(1)", "2": "(2)", "3": "(3)", "4": "(4)"}, "answers": [1], "explanation": ""}, {"id": 21, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 41, "question": "금속의 기본 특성에 관한 설명 중 틀린 것은?", "choices": {"1": "상온에서 액체이고, 액체에서 결정을 형성한다.", "2": "비중이 크고 광택을 갖고 있다.", "3": "열 및 전기의 양도체이다.", "4": "이온화했을 때에는 양이온이 된다."}, "answers": [1], "explanation": ""}, {"id": 22, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 42, "question": "다음 재료 중 열가소성 플라스틱은?", "choices": {"1": "페놀 수지", "2": "멜라민 수지", "3": "푸란 수지", "4": "폴리에틸렌"}, "answers": [4], "explanation": ""}, {"id": 23, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 43, "question": "도면의 치수 기입 방법 중 잘못된 것은?", "choices": {"1": "치수는 중복하여 기입하지 않는다.", "2": "도면에서 큰 치수는 ㎝단위로 기입한다.", "3": "치수는 가능한 계산할 필요가 없도록 기입한다.", "4": "치수선은 가는 실선으로 그어 외형선과 구별한다."}, "answers": [2], "explanation": ""}, {"id": 24, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 44, "question": "좌우 대칭인 물품의 단면 표시로 적합한 것은?", "choices": {"1": "반단면", "2": "회전단면", "3": "국부단면", "4": "전단면"}, "answers": [1], "explanation": ""}, {"id": 25, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 45, "question": "도료의 용제가 갖추어야 할 성질이 아닌 것은?", "choices": {"1": "골판", "2": "기계가공 합판", "3": "휘발성", "4": "위생성 46. 속판은 작은 각재(角材)를 단면으로 이어 붙이고, 그 위에 첨심판(크로스 보드)을 앞뒤로 붙인 합판은?"}, "answers": [1], "explanation": ""}, {"id": 26, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 47, "question": "제품디자인 프로세스에서 모델링이 갖는 의미에 해당하지 않는 것은?", "choices": {"1": "아이디어의 입체화", "2": "가공기술의 구체화", "3": "판매방법의 구체화", "4": "재료선정의 검토화"}, "answers": [3], "explanation": ""}, {"id": 27, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 48, "question": "유리 가공법 중 샌드 블라스트 기법과 관련 있는 것은?", "choices": {"1": "에머리(emery)에 의한 물리적인 표면 상흔의 효과", "2": "표면의 요철을 제거하여 투명도를 강조", "3": "표면에 금속을 뿜어 붙인 효과", "4": "표면의 강도를 높혀 내구력을 증대"}, "answers": [1], "explanation": ""}, {"id": 28, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 49, "question": "나일론(nylon 6-6)의 설명으로 틀린 것은?", "choices": {"1": "마찰에 강하다", "2": "비중이 낮다", "3": "습기를 잘 흡수한다", "4": "아미드기와 탄화수소가 결합한 것이다"}, "answers": [3], "explanation": ""}, {"id": 29, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 50, "question": "자유스런 조형의 특징을 갖고 있으나 보존강도나 표면처리 등에 난점이 있는 재질은?", "choices": {"1": "점토", "2": "A.B.S 수지", "3": "플라스틱", "4": "목재"}, "answers": [1], "explanation": ""}, {"id": 30, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 51, "question": "금속을 '철과 비철금속'으로 나누었을 때 다음 중 '철'에 속 하는 것은?", "choices": {"1": "강(鋼)", "2": "동(銅)", "3": "게르마늄", "4": "알루미늄"}, "answers": [1], "explanation": ""}, {"id": 31, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 52, "question": "렌더링(Rendering)에 관한 설명 중 맞지 않는 것은?", "choices": {"1": "내구성", "2": "균질성", "3": "탄성", "4": "경도"}, "answers": [2], "explanation": ""}, {"id": 32, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 54, "question": "클램프(Clamp)공구란?", "choices": {"1": "접착면을 일정한 각도로 유지시키고 조여주는 공구", "2": "만능 측정 공구", "3": "입체 칫수를 재는 공구", "4": "표시하는데 사용되는 도구"}, "answers": [1], "explanation": ""}, {"id": 33, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 56, "question": "성능, 기능, 외관을 포함하여 종합적으로 제작하는 모델은?", "choices": {"1": "프레젠테이션 모델", "2": "더미 모델", "3": "아우트라인 모델", "4": "프로토타입 모델"}, "answers": [4], "explanation": ""}, {"id": 34, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 57, "question": "제도에 있어서 가는 1점 쇄선은 다음 중 어떤 경우에 사용 되는가?", "choices": {"1": "해칭선", "2": "보이지 않는 외형선", "3": "물체의 내부선", "4": "중심선"}, "answers": [4], "explanation": ""}, {"id": 35, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 58, "question": "다음의 설명은 어떤 석재에 대한 것인가?", "choices": {"1": "화강암", "2": "대리석", "3": "현무암", "4": "안산암"}, "answers": [2], "explanation": ""}, {"id": 36, "date": "20040523", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 59, "question": "다음 플라스틱 성형방법 중 압축공기를 불어 넣어 중공체를 넓혀 금형에 압착한 다음 냉각, 경화시켜 성형품을 만드는 방법으로 모양이 단순한 병 용기의 대량 생산에 가장 적당 한 성형법은?", "choices": {"1": "인디아지(india paper)", "2": "크라프트지(kraft paper)", "3": "글라싱지(glassing paper)", "4": "라이스지(rice paper)"}, "answers": [3], "explanation": ""}, {"id": 37, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 62, "question": "관용색명에 대한 다음 설명 중 잘못된 것은?", "choices": {"1": "습관상으로 사용하는 색으로 계통색명이라고도 한다.", "2": "하양, 검정, 빨강 등이 있다.", "3": "황(黃), 청(靑), 적(赤) 등이 있다.", "4": "금색, 은색, 호박색 등이 있다."}, "answers": [1], "explanation": ""}, {"id": 38, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 63, "question": "남색의 먼셀기호와 가장 가까운 것은?", "choices": {"1": "5PB 3/12", "2": "5B 4/8", "3": "10P 4/10", "4": "10RP 5/10"}, "answers": [1], "explanation": ""}, {"id": 39, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 64, "question": "빨강 사과가 빨갛게 느끼는 이유로 다음 설명 중 옳은 것 은?", "choices": {"1": "질서성의 원리", "2": "모호성의 원리", "3": "동류성의 원리", "4": "친근성의 원리"}, "answers": [3], "explanation": ""}, {"id": 40, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 68, "question": "Moon-Spencer의 색채조화론에 대한 설명 중 틀린 것은?", "choices": {"1": "조화는 동등조화, 유사조화, 대비조화로 구분된다.", "2": "부조화는 제1부조화, 제2부조화, 눈부심(glare)이다.", "3": "색채조화는 색상의 범위로만 국한되어 있다.", "4": "색상에서 유사조화 범위는 7-12(100등분 색상)이다."}, "answers": [3], "explanation": ""}, {"id": 41, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 69, "question": "조명에 의하여 물체의 색을 결정하는 광원의 성질은?", "choices": {"1": "조명성", "2": "기능성", "3": "연색성", "4": "조색성"}, "answers": [3], "explanation": ""}, {"id": 42, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 70, "question": "색조(tone)의 개념에 대한 올바른 설명은?", "choices": {"1": "채도를 나타내는 개념", "2": "색상과 명도를 포함하는 복합개념", "3": "명도와 채도를 포함하는 복합개념", "4": "명도를 나타내는 개념 71. 색의 혼합에서 그 결과가 혼합전의 색보다 명도가 높아지는"}, "answers": [3], "explanation": ""}, {"id": 43, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 73, "question": "다음 중 장시간 머무는 대합실 등에 가장 적합한 색은?", "choices": {"1": "진출색", "2": "한색계", "3": "난색계", "4": "고채도의 색"}, "answers": [2], "explanation": ""}, {"id": 44, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 74, "question": "다음 색 중 백색배경에서 가장 명시도가 낮은 색은?", "choices": {"1": "황색", "2": "보라색", "3": "파랑색", "4": "청보라색"}, "answers": [1], "explanation": ""}, {"id": 45, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 75, "question": "색의 대비현상에 관한 기술 중 가장 타당성이 높은 것은?", "choices": {"1": "면적 대비란 면적이 커지면 명도 및 채도가 더 낮아보이 는 현상이다", "2": "계시 대비란 먼저 본 색의 영향으로 나중에 보는 색이 다르게 보이는 현상이다", "3": "한난 대비란 한색은 따뜻하게 보이고, 난색은 차게보이 는 현상이다", "4": "연변 대비란 두 색이 붙어있는 경계부분에서 색의 대비 가 더욱 약하게 보이는 현상이다"}, "answers": [2], "explanation": ""}, {"id": 46, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 76, "question": "먼셀 색입체에 관한 기술 중 옳은 것은?", "choices": {"1": "채도는 색입체의 중심에서 원둘레 방향으로 가면서 점점 높아진다.", "2": "색입체에서 채도는 위로 올라갈수록 높아진다.", "3": "색입체 중심축의 맨 위에는 검정색이 위치한다.", "4": "색입체를 임의의 위치에서 자른 수평단면은 동일채도 면 이다."}, "answers": [1], "explanation": ""}, {"id": 47, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 77, "question": "크기가 같은 라디오에 다음과 같이 채색되었을 때 가장 크 게 느껴지는 것은? (단, 명도는 같다.)", "choices": {"1": "밝은 회색 라디오", "2": "밝은 녹색 라디오", "3": "밝은 보라색 라디오", "4": "밝은 노랑색 라디오"}, "answers": [4], "explanation": ""}, {"id": 48, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 78, "question": "올림픽 마크의 5대양주 색은 어떤 성질을 이용한 것인가?", "choices": {"1": "시대성", "2": "상징성", "3": "기호성", "4": "기억성"}, "answers": [2], "explanation": ""}, {"id": 49, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 79, "question": "채도에 관한 설명 중 옳은 것은?", "choices": {"1": "채도는 흰색을 섞으면 높아지고 검정색을 섞으면 낮아진 다.", "2": "채도는 색의 선명도를 나타낸 것으로 무채색을 섞으면 낮아진다.", "3": "채도는 색의 밝은 정도를 말하는 것이며, 유채색끼리 섞 으면 높아진다.", "4": "채도는 그림물감을 칠했을 때 나타나는 효과이며, 흰색 을 섞으면 높아진다."}, "answers": [2], "explanation": ""}, {"id": 50, "date": "20040523", "subject": 4, "subject_name": "색채학", "question_no": 80, "question": "색의 삼속성에 관한 기술 중 잘못된 것은?", "choices": {"1": "색상환에서 정반대쪽에 위치한 색은 보색이다.", "2": "명도는 고명도, 중명도, 저명도로 나눈다.", "3": "채도가 가장 높은 색을 백색이라고 한다.", "4": "무채색의 채도는 0이다."}, "answers": [3], "explanation": ""}, {"id": 51, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 81, "question": "다음 중 시장조사의 기본적인 역할이 아닌 것은?", "choices": {"1": "품질계획 비용", "2": "품질관리 기술 비용", "3": "검사 및 시험기기의 보전비용", "4": "품질시스템 개발 및 관리비용"}, "answers": [3], "explanation": ""}, {"id": 52, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 83, "question": "제품의 라이프 싸이클(life cycle)의 4단계 순서가 올바른 것 은?", "choices": {"1": "감정적 제품동기", "2": "합리적 제품동기", "3": "감정적 애고동기", "4": "합리적 애고동기"}, "answers": [1], "explanation": ""}, {"id": 53, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 85, "question": "신제품 아이디어 구상을 위한 브레인 스토밍법(Brain storming)의 규칙에 해당되지 않는 것은?", "choices": {"1": "각종 청소도구 및 전구", "2": "용접봉 및 용접용 산소", "3": "볼트, 나사", "4": "연료, 사무용품"}, "answers": [2], "explanation": ""}, {"id": 54, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 90, "question": "다각화 전략의 방향이 아닌 것은?", "choices": {"1": "군수품 시장에서의 분포범위(coverage)를 개선하기 위한 수평적 다각화", "2": "경기후퇴기에 판매량을 안정화시키기 위한 측면적 다각 화", "3": "전체적인 판매계획상의 상업적 판매율을 증가 시키려는 수평적 다각화", "4": "기업의 이해 관계자들이 정상적인 기업 안정과 성장을 추구하기 위한 다각화"}, "answers": [4], "explanation": ""}, {"id": 55, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 91, "question": "물적유통기능이 아닌 것은?", "choices": {"1": "운송기능", "2": "보관기능", "3": "제품기능", "4": "포장기능"}, "answers": [3], "explanation": ""}, {"id": 56, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 92, "question": "포장의 강도적인 설계에 가장 큰 영향을 주는 것은?", "choices": {"1": "수송", "2": "통신", "3": "하역", "4": "보관"}, "answers": [3], "explanation": ""}, {"id": 57, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 93, "question": "다음 중 품질관리의 목적이 아닌 것은?", "choices": {"1": "신제품 개발", "2": "종합적 원가 관리", "3": "품질보증 및 불량품 방지", "4": "품질개선 및 고급화, 원가절감"}, "answers": [2], "explanation": ""}, {"id": 58, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 94, "question": "생활 유형(life style)에 의한 시장 세분화와 무관한 것은?", "choices": {"1": "주요관심사", "2": "시간의 소비 방법", "3": "제품 디자인", "4": "주거지역"}, "answers": [3], "explanation": ""}, {"id": 59, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 95, "question": "다음 중 기능중간상에 해당 되는 것은?", "choices": {"1": "중개인", "2": "도매상", "3": "백화점", "4": "연쇄점"}, "answers": [1], "explanation": ""}, {"id": 60, "date": "20040523", "subject": 5, "subject_name": "제품관리", "question_no": 96, "question": "변동비에 있어 비례비의 설명이 올바른 것은?", "choices": {"1": "고객에 따라 가격할인을 해줌으로써 대량판매를 기하는 데 있다.", "2": "생산량 증감과 관계없는 원가", "3": "생산량의 증감 이하의 비율로 변동하는 원가", "4": "생산량의 증감 이상의 비율로 변동하는 원가 97. 유통 활동에 있어서 물적 유통관리(physical distribution Management)의 목적은?"}, "answers": [1], "explanation": ""}, {"id": 62, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 1, "question": "미국 기능주의 실용미술의 발전 배경이 아닌 것은?", "choices": {"1": "수공예적 전통을 가지고 있지 않음", "2": "Bauhaus 지도적 인물의 미국 이주", "3": "대량생산을 통한 대중문화의 발달", "4": "역사주의적 양식 답습"}, "answers": [4], "explanation": ""}, {"id": 63, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 2, "question": "다음 중 산업디자인 개념에 포함되지 않는 것은?", "choices": {"1": "순수미 추구", "2": "기능추구", "3": "사회의 유익성", "4": "심리적, 육체적, 생리적 요소 충족"}, "answers": [1], "explanation": ""}, {"id": 64, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 3, "question": "바우하우스(bauhaus) 운동과 직접 관계가 없는 사람은?", "choices": {"1": "그로피우스", "2": "모홀리나기", "3": "헤르만 무테지우스", "4": "요한네스 이텐"}, "answers": [3], "explanation": ""}, {"id": 65, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 4, "question": "독일공작연맹(DWB)의 주창자는?", "choices": {"1": "헤르만 무테지우스(Herman Muthesius)", "2": "발터그로피우스(Walter Gropius)", "3": "모흘리 나기(Moholy Nagy)", "4": "반데벨레(Henry Vande Velde)"}, "answers": [1], "explanation": ""}, {"id": 66, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 5, "question": "일본이 디자인 진흥을 위해 추진한 내용과 관련이 없는 것 은?", "choices": {"1": "산업에 대한 디자인 진흥책의 강화", "2": "일본 공업디자이너 협회 결성", "3": "국제 교류강화", "4": "대기업 중심의 지원"}, "answers": [4], "explanation": ""}, {"id": 67, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 6, "question": "세계 산업디자인 단체 협의회의 약칭(영문)은?", "choices": {"1": "디자인 서비스의 질적 향상과 생산성 제고", "2": "에너지 절약과 신재료의 대체개발", "3": "발명과 생산기술의 권리보호", "4": "제품디자인의 심미성과 유행성의 효율적 해결"}, "answers": [3], "explanation": ""}, {"id": 68, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 9, "question": "아르누보 양식의 특징이 아닌 것은?", "choices": {"1": "장식적", "2": "곡선적", "3": "대칭적", "4": "역동적"}, "answers": [3], "explanation": ""}, {"id": 69, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 10, "question": "자유곡선형의 무늬 디자인이 우리에게 주는 일반 감정은?", "choices": {"1": "안정성", "2": "유연성", "3": "명료성", "4": "강력성"}, "answers": [2], "explanation": ""}, {"id": 70, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 11, "question": "산업디자인(Industrial Design)의 개념에 대한 설명 중 가장 올바른 것은?", "choices": {"1": "주로 평면적인 시각 전달 매체를 대상으로 시각 정보의 가치를 증진시키는 분야이다.", "2": "사용자의 욕구를 파악하고 새롭게 정의함으로써 제품의 가치를 창조하는 분야이다.", "3": "제품의 성능, 생산, 시장조건에 관련하여 기술 지향적으 로 최적의 인공물을 창출하는 분야이다.", "4": "도시계획에서부터 건축과 실내공간, 가로시설물 계획등 효율적 공간을 창출하는 분야이다."}, "answers": [2], "explanation": ""}, {"id": 71, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 12, "question": "다음 중 서로 관련이 없게 짝지어진 것은?", "choices": {"1": "독일 공작연맹과 요한네스 이텐", "2": "공예운동과 윌리엄 모리스", "3": "바우하우스와 윌터 그로피우스", "4": "아르누보와 반 데 벨데"}, "answers": [1], "explanation": ""}, {"id": 72, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 13, "question": "다음 중 Auto-CAD의 명령어가 아닌 것은?", "choices": {"1": "ARRAY", "2": "EXPLODE", "3": "BLUR", "4": "LIST"}, "answers": [3], "explanation": ""}, {"id": 73, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 14, "question": "제품의 라이프 사이클을 바르게 나열한 것은?", "choices": {"1": "도입기 - 성장기 - 성숙기 - 쇠퇴기", "2": "성장기 - 도입기 - 성숙기 - 쇠퇴기", "3": "도입기 - 성숙기 - 성장기 - 쇠퇴기", "4": "성숙기 - 도입기 - 성장기 - 쇠퇴기"}, "answers": [1], "explanation": ""}, {"id": 74, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 16, "question": "디자인 부서의 역할과 관련이 먼 것은?", "choices": {"1": "미국 - 자동차 디자인", "2": "영국 - 가구 디자인", "3": "독일 - 전기제품 디자인", "4": "이태리 - 생활용품 디자인"}, "answers": [3], "explanation": ""}, {"id": 75, "date": "20050529", "subject": 1, "subject_name": "제품디자인론", "question_no": 19, "question": "다음은 비례를 수치로 나타낸 것이다. 이중 황금분할 (Golden section)의 비(比)는?", "choices": {"1": "에토레 소트사스(Ettore Sottsass)", "2": "찰스 임스(Charls Eames)", "3": "마리오 보타(Mario Botta)", "4": "안드레아 브란치(Andrea Branzi)"}, "answers": [3], "explanation": ""}, {"id": 76, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 21, "question": "다음 인체의 긴장을 나타내는 신체적 척도(지표)가 아닌 것 은?", "choices": {"1": "심박수", "2": "심전도", "3": "혈압", "4": "호흡수"}, "answers": [2], "explanation": ""}, {"id": 77, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 22, "question": "음향 에너지의 표기법이 맞는 것은?", "choices": {"1": "최소가분시력(minimum seperable acuity)", "2": "입체시력(stereoscopic acuity)", "3": "버니어(vernier)시력", "4": "bel 23. 사람눈의 시각(視覺)능력의 측정과는 큰 관계가 없는 시력의 척도는?"}, "answers": [2], "explanation": ""}, {"id": 78, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 24, "question": "다음 중 조도(illumination)의 단위는?", "choices": {"1": "칸델라(candela)", "2": "룩스(lux)", "3": "왓트(watt)", "4": "루멘(lumen)"}, "answers": [2], "explanation": ""}, {"id": 79, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 25, "question": "피부감각의 특성에 관한 설명 중 틀린 것은?", "choices": {"1": "촉각을 가지고 있다.", "2": "통각, 압각, 온각, 냉각을 가지고 있다.", "3": "같은 크기의 자극이 반복되면 적응되어 고유감각을 잃는 다.", "4": "뇌는 통각을 가지고 있다."}, "answers": [4], "explanation": ""}, {"id": 80, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 26, "question": "내이(內耳)에 관한 설명으로 옳은 것은?", "choices": {"1": "상태(status)정보", "2": "묘사적(representational)정보", "3": "신호(signal)정보", "4": "식별(identification)정보"}, "answers": [2], "explanation": ""}, {"id": 81, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 28, "question": "인체 골격이 하는 주요 기능이 아닌 것은?", "choices": {"1": "몸을 지탱하며 그 외형을 지지한다.", "2": "체강(體腔)을 형성하며 체강내의 장기를 보호한다.", "3": "골격 내부에 골수를 넣어 조혈작용을 한다.", "4": "대뇌의 지시에 따라 자기 마음대로 이완, 수축을 해골격 운동에 기여한다."}, "answers": [4], "explanation": ""}, {"id": 82, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 29, "question": "다음 시각적 표시장치의 지침 설계의 원칙 중 틀린 것은?", "choices": {"1": "의자 좌면(座面)의 높이는 하퇴(下腿)의 길이가 높은 사 람보다는 짧은 사람에게 맞추어야 한다.", "2": "등받침의 높이는 앉은 자세에서 좌면에서 견갑골 하단까 지의 거리가 적당하다.", "3": "의자와 책상의 디자인에 있어서 의자와 책상은 각각 독 립된 칫수대로만 제작하면 된다.", "4": "제도용 의자는 앉아서도 서서도 사용할 수 있게 고려한 디자인을 하여야 된다."}, "answers": [4], "explanation": ""}, {"id": 83, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 31, "question": "다음 중 시각피로 원인 중에서 조절성 안정피로를 의미하는 것은?", "choices": {"1": "노인과 원시, 난시, 초점조절력의 쇠퇴 또는 마비", "2": "신경쇠약이나 히스테리의 경우", "3": "망막에 맺히는 상이 두 눈에 차이가 날 경우", "4": "시선을 대상물에 집중시키는 기능의 이상이나 난시 또는"}, "answers": [1], "explanation": ""}, {"id": 84, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 32, "question": "소리의 강도를 나타내는 표기법은?", "choices": {"1": "sone", "2": "phone", "3": "mel", "4": "decibel"}, "answers": [4], "explanation": ""}, {"id": 85, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 33, "question": "다음 중 망막위치에서 전시위치의 최대범위는?", "choices": {"1": "좌,우 45도", "2": "좌,우 15도", "3": "상+40도, 하-20도", "4": "상+30도, 하-20도"}, "answers": [3], "explanation": ""}, {"id": 86, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 34, "question": "다음 내용은 인간이 시스템에서 정보를 처리하는 과정을 나 타낸 것이다. 괄호 안에 적절한 기능은?", "choices": {"1": "검출(sensing)", "2": "시스템 환경(system environment)", "3": "대응선택(response selection)", "4": "피드백(feedback)"}, "answers": [1], "explanation": ""}, {"id": 87, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 35, "question": "다음은 백분위(퍼센타일)에 관한 사항이다. 올바르게 관련 지어진 것이 아닌 것은?", "choices": {"1": "문높이 - 95퍼센타일", "2": "운동경기장 맨 앞자리 스텐드 난간높이 - 5퍼센타일", "3": "시내버스의 천정높이 - 95퍼센타일", "4": "좌식방에서의 창턱높이 - 95퍼센타일"}, "answers": [4], "explanation": ""}, {"id": 88, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 36, "question": "단기 감각 저장고(short term memory)의 역할에 대한 설명 중 틀린 것은?", "choices": {"1": "자극의 물리적인 세부사항을 기억한다.", "2": "저장된 기억은 빠르게 소멸된다.", "3": "훈련에 의해 능력이 향상될 수 있다.", "4": "문제 해결을 위한 지식 저장 창고이다."}, "answers": [4], "explanation": ""}, {"id": 89, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 37, "question": "다음 중 인간관계가 작업 및 작업공간의 설계에 못지 않게 생산성에 큰 영향을 미친다는 것은?", "choices": {"1": "호오손(Hawthorne)법칙", "2": "페크너(Fechner)법칙", "3": "웨버(Weber)법칙", "4": "밀러(Miller)법칙"}, "answers": [1], "explanation": ""}, {"id": 90, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 38, "question": "다음 중 양립성(compatibility)을 설명하는 내용으로 적절치 못한 것은?", "choices": {"1": "청색은 정상을 나타내는 것과 같은 연상의 양립성은 개 념적 양립성이다.", "2": "공간적 양립성은 표시장치의 이동방향이 조종장치의 이 동방향과 일치할 때를 가리킨다.", "3": "표시장치의 이동방향과 조종장치의 이동방향이 다르면 인간실수가 증가된다.", "4": "양립성이 클수록 자극에 대한 반응속도는 빨라진다."}, "answers": [2], "explanation": ""}, {"id": 91, "date": "20050529", "subject": 2, "subject_name": "인간공학", "question_no": 40, "question": "다음 보기의 ㉠과 ㉡의 빈칸안에 들어갈 내용으로 알맞게 짝지어진 것은?", "choices": {"1": "㉠시력-㉡백색, 청색, 황색, 적색, 녹색", "2": "㉠시야-㉡백색, 청색, 황색, 적색, 녹색", "3": "㉠시력-㉡녹색, 적색, 황색, 청색, 백색", "4": "㉠시야-㉡녹색, 적색, 황색, 청색, 백색"}, "answers": [2], "explanation": ""}, {"id": 92, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 41, "question": "적외선 차단유리 제조에 주요성분으로 사용되는 재료는?", "choices": {"1": "인산", "2": "석회", "3": "소다", "4": "규사"}, "answers": [1], "explanation": ""}, {"id": 93, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 42, "question": "변성암은 다음 중 어떻게 형성된 것인가?", "choices": {"1": "춘재", "2": "추재", "3": "심재", "4": "변재"}, "answers": [3], "explanation": ""}, {"id": 94, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 46, "question": "재료의 성질을 알아보기 위한 시험의 목적이 아닌 것은?", "choices": {"1": "물리적 성질", "2": "화학적 성질", "3": "색채적 성질", "4": "기계적 성질"}, "answers": [3], "explanation": ""}, {"id": 95, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 47, "question": "시멘트의 수화속도(水和速度)에 가장 큰 영향을 주는 것은?", "choices": {"1": "알부민", "2": "네오프렌", "3": "분말도", "4": "풍화도 48. 합성고무를 휘발성 용제에 녹인 것으로 클로로프렌 (chloro-prene)의 중합체로서 내수성, 내산성, 내알칼리성이 큰 접착제는?"}, "answers": [3], "explanation": ""}, {"id": 96, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 49, "question": "다음 플라스틱 재료 중 열가소성 수지가 아닌 것은?", "choices": {"1": "산성염료", "2": "중성염료", "3": "배트염료", "4": "직접염료"}, "answers": [4], "explanation": ""}, {"id": 97, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 51, "question": "목재모형의 특징이 아닌 것은?", "choices": {"1": "자유곡면 가공이 용이하다.", "2": "다른 재료와 조합하여 많이 사용된다.", "3": "장기보존이 가능하다.", "4": "습기에 강하고 변형이 적다."}, "answers": [4], "explanation": ""}, {"id": 98, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 52, "question": "디자인 행위에서 다른 표시보다 설득과 이해를 가장 강하게 호소하는 능력을 가지고 있는 것은?", "choices": {"1": "모형", "2": "렌더링", "3": "스케치", "4": "드로잉"}, "answers": [1], "explanation": ""}, {"id": 99, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 53, "question": "정8면체가 구성하고 있는 한 면의 형태는?", "choices": {"1": "정6각형", "2": "정5각형", "3": "정4각형", "4": "정3각형"}, "answers": [4], "explanation": ""}, {"id": 100, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 54, "question": "다음 중 목재 모형제작에 적합하지 못한 나무는?", "choices": {"1": "발사(Balsa)", "2": "피나무", "3": "괴목", "4": "마디카"}, "answers": [3], "explanation": ""}, {"id": 101, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 55, "question": "목공선반 작업시 유의사항이 아닌 것은?", "choices": {"1": "뒤묻음", "2": "배어나옴", "3": "피킹", "4": "크리스탈리제이션"}, "answers": [2], "explanation": ""}, {"id": 102, "date": "20050529", "subject": 3, "subject_name": "공업재료 및 모형제작론", "question_no": 57, "question": "러프목업 모델의 설명 중 틀린 것은?", "choices": {"1": "압축성형법", "2": "이송성형법", "3": "압출성형법", "4": "사출성형법"}, "answers": [4], "explanation": ""}, {"id": 103, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 61, "question": "두가지 색이 회전에 의해 혼합되는 경우는?", "choices": {"1": "가산혼합", "2": "감산혼합", "3": "중간혼합", "4": "색광혼합"}, "answers": [3], "explanation": ""}, {"id": 104, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 62, "question": "먼셀(Munsell)의 색상환에서 주요 5색상에 해당되지 않는 조건은?", "choices": {"1": "Blue", "2": "Purple", "3": "Orange", "4": "Green"}, "answers": [3], "explanation": ""}, {"id": 105, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 63, "question": "다음 중 가시광선에 속하는 파장의 범위는?", "choices": {"1": "300nm - 700nm", "2": "380nm - 780nm", "3": "400nm - 800nm", "4": "420nm - 820nm"}, "answers": [2], "explanation": ""}, {"id": 106, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 64, "question": "오스트발트의 색채 조화론과 관계 있는 것은?", "choices": {"1": "동등조화, 유사조화", "2": "등백 혹은 등흑계열과 회색조화", "3": "대비조화, 유사조화", "4": "제1부조화, 제2부조화"}, "answers": [2], "explanation": ""}, {"id": 107, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 65, "question": "색의 대비현상에 관한 내용 중에서 잘못된 것은?", "choices": {"1": "명도대비 : 명도가 다른 두 색이 서로의 영향으로 명도 차가 더 크게 나타나는 것", "2": "연변대비 : 두 색의 경계부분에서 색의 3속성별로 대비 현상이 더욱 강하게 나타나는 것", "3": "계시대비 : 먼저 본 색의 영향으로 다음에 보는 색이 먼 저 본 색의 보색으로 보이는 것", "4": "보색대비 : 보색관계인 두 색이 서로의 영향으로 각각의 채도가 더 높게 보이는 것"}, "answers": [3], "explanation": ""}, {"id": 108, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 66, "question": "다음 중 점묘법으로 그린 그림의 혼색효과와 같은 것은?", "choices": {"1": "병치감법혼색", "2": "동시감법혼색", "3": "계시가법혼색", "4": "병치가법혼색"}, "answers": [4], "explanation": ""}, {"id": 109, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 67, "question": "비렌(Birren)의 형과 색의 연관 관계 중 틀린 것은?", "choices": {"1": "빨강색 - 정사각형", "2": "노랑색 - 삼각형", "3": "파랑색 - 육각형", "4": "주황색 - 직사각형"}, "answers": [3], "explanation": ""}, {"id": 110, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 70, "question": "다음 중 색의 대비현상과 관계 없는 것은?", "choices": {"1": "색상대비", "2": "방향대비", "3": "명도대비", "4": "보색대비"}, "answers": [2], "explanation": ""}, {"id": 111, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 71, "question": "다음 중 속도감이 가장 둔한 느낌의 색상은?", "choices": {"1": "추상체", "2": "한상체", "3": "수정체", "4": "홍채"}, "answers": [4], "explanation": ""}, {"id": 112, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 73, "question": "오스트발트 표색계의 설명으로 틀린 것은?", "choices": {"1": "영·헬름홀쯔의 설에 근거를 두고 있다.", "2": "색입체는 복원추체이다.", "3": "모든 색은 순색량 + 흰색량 + 검정색량 = 100 % 가 된 다.", "4": "안료로서 발색이 가능한 명도는 a, c, e, g, i, l, n,p 의 8단계이다."}, "answers": [1], "explanation": ""}, {"id": 113, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 74, "question": "오스트발트 색채 시스템에 관한 설명으로 틀린 것은?", "choices": {"1": "노랑을 기준으로 전체 24색상으로 이루어져 있다.", "2": "톤은 무채색을 제외하고 각 색상 당 28색으로 이루어져 있다.", "3": "원래 색채의 배색을 위한 조화를 목적으로 제작되었다.", "4": "색채조화메뉴얼(CHM)에는 모두 40색상으로 구성된다."}, "answers": [4], "explanation": ""}, {"id": 114, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 75, "question": "다음 중 색채의 감정적 효과로서 가장 흥분을 유발시키는 색은?", "choices": {"1": "난색계의 높은 채도", "2": "한색계의 높은 채도", "3": "난색계의 높은 명도", "4": "한색계의 높은 명도"}, "answers": [1], "explanation": ""}, {"id": 115, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 76, "question": "다음 중간혼합에 관한 설명 중 잘못된 것은?", "choices": {"1": "질서의 원리", "2": "비모호성의 원리", "3": "유사의 원리", "4": "대비의 원리"}, "answers": [1], "explanation": ""}, {"id": 116, "date": "20050529", "subject": 4, "subject_name": "색채학", "question_no": 80, "question": "오스트발트의 색채 조화론에 관한 다음 설명 중 틀린 것은?", "choices": {"1": "무채색 단계에서 같은 간격으로 선택한 배색은 조화된 다.", "2": "등색상 3각형의 아래쪽 사변에 평행한 선상의 색들은 조 화된다.", "3": "등색상 3각형의 위쪽 사변에 평행한 선상의 색들은 조화 된다.", "4": "색상 일련번호의 차가 6 ∼ 8일 때 반대색 조화가 생긴 다."}, "answers": [4], "explanation": ""}, {"id": 117, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 81, "question": "통계적 품질관리의 원칙 중 랜덤 샘플링과 가장 관계가 깊 은 것은?", "choices": {"1": "목적명확화의 원칙", "2": "수량화의 원칙", "3": "등질화의 원칙", "4": "확률화의 원칙"}, "answers": [4], "explanation": ""}, {"id": 118, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 82, "question": "제품 디자인의 시장평가에 관한 조사는 다음 시장조사 범위 중 어디에 해당되는가?", "choices": {"1": "제품에 관한 조사", "2": "시장에 관한 조사", "3": "정책에 관한 조사", "4": "판매방법에 관한 조사"}, "answers": [1], "explanation": ""}, {"id": 119, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 83, "question": "제품 디자인의 아이디어(idea) 원천이 안되는 것은?", "choices": {"1": "종업원의 시사", "2": "소비자의 시사", "3": "경쟁상품의 연구", "4": "P.O.P 광고"}, "answers": [4], "explanation": ""}, {"id": 120, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 84, "question": "제품관리의 대상으로서 보편 타당한 것은?", "choices": {"1": "경제성", "2": "신속성", "3": "안전성", "4": "복합성"}, "answers": [3], "explanation": ""}, {"id": 121, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 86, "question": "재고비에 있어 재고 유지비에 해당되지 않는 비용은?", "choices": {"1": "창고보관비", "2": "화재,도난 보험료", "3": "진부화에 따른 위험부담 비용", "4": "주문처리 발송비"}, "answers": [4], "explanation": ""}, {"id": 122, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 90, "question": "프랜차이즈 시스템(franchise system)이란?", "choices": {"1": "제품의 계약적 판매권", "2": "제품의 수송권", "3": "제품의 하청제조권", "4": "제품의 특허 이용권"}, "answers": [1], "explanation": ""}, {"id": 123, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 91, "question": "특정의 판매자가 구매자에게 제공하는 모든 제품계열과 제 품 품목의 집합을 나타내는 말은?", "choices": {"1": "제품믹스(product mix)", "2": "제품형(product form)", "3": "제품계층(product class)", "4": "상표차원(brand dimension)"}, "answers": [1], "explanation": ""}, {"id": 124, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 92, "question": "마아케팅 믹스의 4가지 요소를 무엇이라 칭하는가?", "choices": {"1": "4C", "2": "4S", "3": "4H", "4": "4P"}, "answers": [4], "explanation": ""}, {"id": 125, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 93, "question": "품질관리의 기능에 대한 설명 중 적합치 않은 것은?", "choices": {"1": "본원적 차별화(genefic differentiation)", "2": "표적시장중심 차별화(targeted differentiation)", "3": "세분시장중심 차별화(segmented diffenentiation)", "4": "원가중심 차별화(cost differentiation)"}, "answers": [1], "explanation": ""}, {"id": 126, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 96, "question": "다음 중 기차를 이용한 수송의 형태가 갖는 장점인 것은?", "choices": {"1": "택배(door-to-door)서비스", "2": "스케쥴상의 융통성", "3": "도착시간에 대한 보증", "4": "소규모선적에서의 용이함"}, "answers": [3], "explanation": ""}, {"id": 127, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 97, "question": "다음 중 물적 유통관리 활동으로 보기 어려운 것은?", "choices": {"1": "금융활동", "2": "수송활동", "3": "보관활동", "4": "하역활동"}, "answers": [1], "explanation": ""}, {"id": 128, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 98, "question": "현대적 품질통제기능을 가장 성공적으로 수행하는 방법은?", "choices": {"1": "제품의 검사를 실시한다.", "2": "명확한 규격의 설정이 가장 중요하다.", "3": "사내 모든 관리요원을 종합적으로 품질통제 활동에 참여 시킨다.", "4": "품질관리요원의 교육을 철저히 한다."}, "answers": [3], "explanation": ""}, {"id": 129, "date": "20050529", "subject": 5, "subject_name": "제품관리", "question_no": 99, "question": "마아케팅의 출발점은?", "choices": {"1": "식물등급", "2": "표준품", "3": "제품별규격", "4": "협약기준"}, "answers": [1], "explanation": ""}]
+[
+  {
+    "id": 1,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 1,
+    "question": "형태에 대한 기초연습으로 자연이나 인공물의 형태 질서를 관찰, 파악, 변형해서 재현해 보는 것은?",
+    "choices": {
+      "1": "양식화",
+      "2": "형태화",
+      "3": "추상화",
+      "4": "비구상화"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 2,
+    "question": "다음 시세포 중에서 색채를 주로 식별할 수 있는 기능을 갖 고 있는 것은?",
+    "choices": {
+      "1": "추상체",
+      "2": "간상체",
+      "3": "홍채",
+      "4": "수정체"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 3,
+    "question": "제품디자인 프로세스에 컴퓨터를 도입하여 얻을 수 있는 장 점으로 볼 수 없는 것은?",
+    "choices": {
+      "1": "독창적인 아이디어의 양산",
+      "2": "손재주로부터의 해방",
+      "3": "데이터 관리의 용이",
+      "4": "다양한 조형시뮬레이션"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 4,
+    "question": "제품디자인의 역사적 단계별 특징을 설명한 것 중 틀린 것 은?",
+    "choices": {
+      "1": "최초단계- 의복 및 생활용품의 제작시기",
+      "2": "숙련단계- 규격화를 바탕으로 대량생산화",
+      "3": "기계화 단계- 산업혁명 이후의 생산기술 발달",
+      "4": "과학화 단계- 가공기술의 과학화와 자동화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 5,
+    "question": "디자인 의뢰자가 디자이너에게 약정된 요금으로 디자인의 저 작권, 판매권을 독점할 수 있도록 디자인료를 결정하는 방식 은?",
+    "choices": {
+      "1": "의장 사용료제도",
+      "2": "시간제도",
+      "3": "일정 요금제도",
+      "4": "전속 계약제도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 6,
+    "question": "공업디자인의 조건에 부합되지 않는 것은?",
+    "choices": {
+      "1": "합목적성",
+      "2": "장식성",
+      "3": "경제성",
+      "4": "독창성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 7,
+    "question": "디자인에서 물건과 시스템을 이해하는 원리를 명확히 하는데 그 목적이 있으며, 본질적으로 모든 디자이너가 직관적으로 알아야 한다고 주장하는 이론은?",
+    "choices": {
+      "1": "신합리주의",
+      "2": "합리주의",
+      "3": "제품의미론",
+      "4": "역사주의"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 8,
+    "question": "아르 데코(Art Deco)의 설명 중 틀린 것은?",
+    "choices": {
+      "1": "1925년 파리「현대장식 산업미술 국제박람회」의 약칭에 서 유래",
+      "2": "화려한 색채와 고도의 기하학적 장식성, 우아한 기능의 표현",
+      "3": "응용미술 및 패션을 비롯한 건축과 실내 디자인에 공헌",
+      "4": "1890년대 유럽과 미국을 중심으로한 식물의 유기적인 곡 선이 특징"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 9,
+    "question": "프로덕트 디자인과 커뮤니케이션 디자인을 부분적으로 포함 하고 있으며 집약적인 의미의 사회적 공간 또는 인위적공간 을 형성하는 디자인은?",
+    "choices": {
+      "1": "그래픽디자인",
+      "2": "환경디자인",
+      "3": "포장디자인",
+      "4": "전시디자인"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 10,
+    "question": "디자인에서 시각유도를 계획하는 것은?",
+    "choices": {
+      "1": "layout",
+      "2": "color",
+      "3": "texture",
+      "4": "cost"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 11,
+    "question": "1894년 반 데 벨데(Van de Velde)에 의해 선언되었던 새로 운 예술인 아르누보(Art Nouveau)의 핵심이 된 것은?",
+    "choices": {
+      "1": "직선적 표현",
+      "2": "장식",
+      "3": "과학성",
+      "4": "표준화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 12,
+    "question": "1970년대 중반부터 프랑스 저널리스트들이 이름 붙인 \"레트 로\" 라고 하는 디자인 경향의 특성은?",
+    "choices": {
+      "1": "미래지향적",
+      "2": "복고주의적",
+      "3": "절충주의적",
+      "4": "초현실주의적"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 13,
+    "question": "카메라 부품의 호환성 처럼 사용 및 효용상의 연결에 따라 선택구매의 계획을 용이하게 하는 디자인 방법은?",
+    "choices": {
+      "1": "세트(Set)",
+      "2": "패밀리(Family)",
+      "3": "시리즈(Series)",
+      "4": "유니트(Unit)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 14,
+    "question": "디자인 해결안 모색단계에서 이루어지는 주된 디자인 작업 은?",
+    "choices": {
+      "1": "렌더링",
+      "2": "시장조사",
+      "3": "이이디어 스케치",
+      "4": "목업 제작"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 15,
+    "question": "바우하우스가 설립된 최초의 도시는?",
+    "choices": {
+      "1": "뎃사우",
+      "2": "시카고",
+      "3": "뮌헨",
+      "4": "바이마르"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 16,
+    "question": "오늘날 산업디자이너의 자세는 어떠해야 하는가?",
+    "choices": {
+      "1": "스페셜 리스트(specialist)",
+      "2": "어댑터(adapter)",
+      "3": "제너럴 리스트(generalist)",
+      "4": "델리커시(delicacy)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 17,
+    "question": "인공적으로 만들어졌지만 마치 현실처럼 느껴지는 공간을 무엇이라고 하는가?",
+    "choices": {
+      "1": "가상공간(virtual space)",
+      "2": "착시공간(optical space)",
+      "3": "암시적 공간(implied space)",
+      "4": "환영적 공간(illusive space)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 18,
+    "question": "'독일의 아르누보'라고 불리는 양식은?",
+    "choices": {
+      "1": "유겐트 스틸",
+      "2": "비엔나 분리파",
+      "3": "스틸 리버티",
+      "4": "아르데 호벤"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 19,
+    "question": "아이디어 발상법 중 오스본(A.F. Osbon)이 고안한 것으로 팀으로 실시하며 단 시간에 다수의 아이디어를 얻을 수 있 고 집단의 이점을 살릴 수 있는 것은?",
+    "choices": {
+      "1": "매트릭스(matrix) 사고법",
+      "2": "시네틱스(synectics)",
+      "3": "브레인 스토밍법(brain storming)",
+      "4": "입· 출력법(input-output)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20040523",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 20,
+    "question": "20세기 디자인의 원리를 형성한 헨리 반데 벨데의 양식운동 은?",
+    "choices": {
+      "1": "독일 공작연맹",
+      "2": "유켄트스틸",
+      "3": "아르 누보",
+      "4": "아트 앤드 크라프트"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 21,
+    "question": "시각표시장치 보다 청각표시장치를 쓰는 것이 유리한 경우 는?",
+    "choices": {
+      "1": "메시지가 복잡한 경우",
+      "2": "메시지가 후에 다시 참조되는 경우",
+      "3": "메시지가 즉각적인 행동을 요구하는 경우",
+      "4": "메시지가 공간적인 위치를 이루는 경우"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 22,
+    "question": "사람이 자동차나 비행기를 조종할 때 긴장감의 정도를 파악 하기 위하여 심박수, 호흡율, 뇌전위, 혈압 등을 조사하는 데, 이는 다음 중 어느 것을 지표로서 이용하는 경우인가?",
+    "choices": {
+      "1": "심리적 변화",
+      "2": "육체적 변화",
+      "3": "생리적 변화",
+      "4": "정신적 변화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 23,
+    "question": "일반적으로 정확성을 요구하지 않는 동작의 CD(Control Display) 비율에 맞는 것은?",
+    "choices": {
+      "1": "1 : 1 에 가까워야 한다.",
+      "2": "1 : 2 에 가까워야 한다.",
+      "3": "1 : 5 에 가까워야 한다.",
+      "4": "1 : 10 에 가까워야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 24,
+    "question": "VDT(Visual Display Terminal)의 사용에 있어 적당한 주변의 조도는?",
+    "choices": {
+      "1": "1000 lux 이상",
+      "2": "600 ~ 800 lux",
+      "3": "300 ~ 500 lux",
+      "4": "300 lux 미만"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 25,
+    "question": "다음 인간공학의 연구분석방법 중 직접적 관찰법과 관련이 없는 것은?",
+    "choices": {
+      "1": "Time Motion Study에 의한 방법",
+      "2": "A.I.O(Activities Interest Opinion)",
+      "3": "조사자의 의견, 면접 또는 제안에 의한 방법",
+      "4": "Layout(flow-diagram)에 의한 방법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 26,
+    "question": "인간의 시각적 구조 중 색을 구별하게 하는 요소는?",
+    "choices": {
+      "1": "망막",
+      "2": "동공",
+      "3": "간상세포",
+      "4": "추상세포"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 27,
+    "question": "다음 중 음성전송 계통에서 생기지 않는 왜곡은?",
+    "choices": {
+      "1": "주파수 왜곡",
+      "2": "여파",
+      "3": "진폭 왜곡",
+      "4": "공진"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 28,
+    "question": "Miller는 인간의 절대식별 한계를\"magical number7 ± 2\"라 하였는데 이것의 의미는?",
+    "choices": {
+      "1": "장기기억의 한계",
+      "2": "작업기억의 한계",
+      "3": "감각보관의 한계",
+      "4": "감각수용기의 한계"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 29,
+    "question": "인간은 날씨가 덥거나 심한 육체적 활동 후 땀을 흘림으로 써 체온을 조절하게 되는데 이는 다음 중 어떠한 열교환 현 상과 관련이 있는가?",
+    "choices": {
+      "1": "전도",
+      "2": "대류",
+      "3": "복사",
+      "4": "증발"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 31,
+    "question": "다음 중 음의 단위가 아닌 것은?",
+    "choices": {
+      "1": "phon",
+      "2": "sone",
+      "3": "dB",
+      "4": "hue"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 32,
+    "question": "자극간의 차이를 알수 있는 것과 알수 없는 것의 한계에 있 는 자극변화량을 말하는 것은?",
+    "choices": {
+      "1": "변별역",
+      "2": "정비역",
+      "3": "자극역",
+      "4": "등치역"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 33,
+    "question": "다음 중 황금분할(golden section) 혹은 황금비와 관련이 있는 것은?",
+    "choices": {
+      "1": "1 : 1.618",
+      "2": "1 : 2",
+      "3": "1 : 2.145",
+      "4": "1 : 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 34,
+    "question": "눈의 동공은 카메라의 무엇과 비슷한가?",
+    "choices": {
+      "1": "샤터",
+      "2": "조리개",
+      "3": "렌즈",
+      "4": "필름"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 35,
+    "question": "사람의 작업성능에 대한 소음의 영향 중 옳은 것은?",
+    "choices": {
+      "1": "특정한 의미가 없는 일정소음이 90dB(A)를 초과하지 않 을 때는 작업을 방해하지 않는 것으로 본다.",
+      "2": "암순응과 같은 감각의 반응은 소음에 직접적인 영향을 받는다.",
+      "3": "소음은 작업의 정밀도의 저하보다는 총작업량을 저하시 키기 쉽다.",
+      "4": "단순작업은 복잡한 작업보다 소음에 의해 나쁜 영향을 받기 쉽다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 36,
+    "question": "다음 중 관절운동의 정의로 맞는 것은?",
+    "choices": {
+      "1": "중앙회전(medial rotation): 신체의 중앙에서 바깥으로 회 전하는 운동",
+      "2": "측회전(lateral rotation): 신체의 바깥에서 중앙으로 회전 하는 운동",
+      "3": "손의 외전(supination): 손바닥을 밑으로 해서 아래 팔을 회전하는 운동",
+      "4": "내전(adduction): 신체의 부분이 신체의 중앙이나 그것이 붙어있는 방향으로 움직이는 동작"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 37,
+    "question": "신체역학에서 신체부위간의 각도가 감소하는 동작을 부를 때 사용되는 단어는?",
+    "choices": {
+      "1": "굴곡(flexion)",
+      "2": "신전(extention)",
+      "3": "하향(pronation)",
+      "4": "외전(adduction)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 38,
+    "question": "촉각, 온각, 냉각에 대한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "피부의 온도순응은 동시에 이루어진다.",
+      "2": "정상적인 피부표면은 36℃이다.",
+      "3": "위치의 지각은 손, 발, 입술 등이 예민하다.",
+      "4": "완전하게 순응되는 온도를 넘으면 부분적 순응이 이루어 진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20040523",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 40,
+    "question": "인체의 자세와 요추의 변화 중 그림 B에 해당되는 것은?",
+    "choices": {
+      "1": "(1)",
+      "2": "(2)",
+      "3": "(3)",
+      "4": "(4)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 41,
+    "question": "금속의 기본 특성에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "상온에서 액체이고, 액체에서 결정을 형성한다.",
+      "2": "비중이 크고 광택을 갖고 있다.",
+      "3": "열 및 전기의 양도체이다.",
+      "4": "이온화했을 때에는 양이온이 된다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 42,
+    "question": "다음 재료 중 열가소성 플라스틱은?",
+    "choices": {
+      "1": "페놀 수지",
+      "2": "멜라민 수지",
+      "3": "푸란 수지",
+      "4": "폴리에틸렌"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 43,
+    "question": "도면의 치수 기입 방법 중 잘못된 것은?",
+    "choices": {
+      "1": "치수는 중복하여 기입하지 않는다.",
+      "2": "도면에서 큰 치수는 ㎝단위로 기입한다.",
+      "3": "치수는 가능한 계산할 필요가 없도록 기입한다.",
+      "4": "치수선은 가는 실선으로 그어 외형선과 구별한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 44,
+    "question": "좌우 대칭인 물품의 단면 표시로 적합한 것은?",
+    "choices": {
+      "1": "반단면",
+      "2": "회전단면",
+      "3": "국부단면",
+      "4": "전단면"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 45,
+    "question": "도료의 용제가 갖추어야 할 성질이 아닌 것은?",
+    "choices": {
+      "1": "은폐성",
+      "2": "용해성",
+      "3": "휘발성",
+      "4": "위생성"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 47,
+    "question": "제품디자인 프로세스에서 모델링이 갖는 의미에 해당하지 않는 것은?",
+    "choices": {
+      "1": "아이디어의 입체화",
+      "2": "가공기술의 구체화",
+      "3": "판매방법의 구체화",
+      "4": "재료선정의 검토화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 48,
+    "question": "유리 가공법 중 샌드 블라스트 기법과 관련 있는 것은?",
+    "choices": {
+      "1": "에머리(emery)에 의한 물리적인 표면 상흔의 효과",
+      "2": "표면의 요철을 제거하여 투명도를 강조",
+      "3": "표면에 금속을 뿜어 붙인 효과",
+      "4": "표면의 강도를 높혀 내구력을 증대"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 49,
+    "question": "나일론(nylon 6-6)의 설명으로 틀린 것은?",
+    "choices": {
+      "1": "마찰에 강하다",
+      "2": "비중이 낮다",
+      "3": "습기를 잘 흡수한다",
+      "4": "아미드기와 탄화수소가 결합한 것이다"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 50,
+    "question": "자유스런 조형의 특징을 갖고 있으나 보존강도나 표면처리 등에 난점이 있는 재질은?",
+    "choices": {
+      "1": "점토",
+      "2": "A.B.S 수지",
+      "3": "플라스틱",
+      "4": "목재"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 51,
+    "question": "금속을 '철과 비철금속'으로 나누었을 때 다음 중 '철'에 속 하는 것은?",
+    "choices": {
+      "1": "강(鋼)",
+      "2": "동(銅)",
+      "3": "게르마늄",
+      "4": "알루미늄"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 52,
+    "question": "렌더링(Rendering)에 관한 설명 중 맞지 않는 것은?",
+    "choices": {
+      "1": "제품의 완성을 예상하며 묘사하는 완성 예상도이다.",
+      "2": "제 3자에게 인식시키기 위한 것으로 사진처럼 정밀묘사 되어야 한다.",
+      "3": "형태의 표현은 투시도법 또는 3면도법을 사용한다.",
+      "4": "형상, 재질, 색채, 패턴 등을 충실히 표현한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 53,
+    "question": "조형물에서 그 사용재료가 파손, 노후(老朽)등 변형되거나 변질되지 않고 오래 견디는 성질은?",
+    "choices": {
+      "1": "내구성",
+      "2": "균질성",
+      "3": "탄성",
+      "4": "경도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 54,
+    "question": "클램프(Clamp)공구란?",
+    "choices": {
+      "1": "접착면을 일정한 각도로 유지시키고 조여주는 공구",
+      "2": "만능 측정 공구",
+      "3": "입체 칫수를 재는 공구",
+      "4": "표시하는데 사용되는 도구"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 56,
+    "question": "성능, 기능, 외관을 포함하여 종합적으로 제작하는 모델은?",
+    "choices": {
+      "1": "프레젠테이션 모델",
+      "2": "더미 모델",
+      "3": "아우트라인 모델",
+      "4": "프로토타입 모델"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 57,
+    "question": "제도에 있어서 가는 1점 쇄선은 다음 중 어떤 경우에 사용 되는가?",
+    "choices": {
+      "1": "해칭선",
+      "2": "보이지 않는 외형선",
+      "3": "물체의 내부선",
+      "4": "중심선"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 58,
+    "question": "다음의 설명은 어떤 석재에 대한 것인가?",
+    "choices": {
+      "1": "화강암",
+      "2": "대리석",
+      "3": "현무암",
+      "4": "안산암"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 59,
+    "question": "다음 플라스틱 성형방법 중 압축공기를 불어 넣어 중공체를 넓혀 금형에 압착한 다음 냉각, 경화시켜 성형품을 만드는 방법으로 모양이 단순한 병 용기의 대량 생산에 가장 적당 한 성형법은?",
+    "choices": {
+      "1": "압출 성형(extrusion molding)",
+      "2": "압축 성형(compression molding)",
+      "3": "블로우 성형(blow molding)",
+      "4": "주입식 성형(casting)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20040523",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 60,
+    "question": "성서(聖書)나 사전의 인쇄에 사용되는 종이로 불투명도가 높 고, 지질(紙質)이 균일하며 좋은 인쇄적성을 갖고 있는 것 은?",
+    "choices": {
+      "1": "인디아지(india paper)",
+      "2": "크라프트지(kraft paper)",
+      "3": "글라싱지(glassing paper)",
+      "4": "라이스지(rice paper)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 62,
+    "question": "관용색명에 대한 다음 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "습관상으로 사용하는 색으로 계통색명이라고도 한다.",
+      "2": "하양, 검정, 빨강 등이 있다.",
+      "3": "황(黃), 청(靑), 적(赤) 등이 있다.",
+      "4": "금색, 은색, 호박색 등이 있다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 63,
+    "question": "남색의 먼셀기호와 가장 가까운 것은?",
+    "choices": {
+      "1": "5PB 3/12",
+      "2": "5B 4/8",
+      "3": "10P 4/10",
+      "4": "10RP 5/10"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 64,
+    "question": "빨강 사과가 빨갛게 느끼는 이유로 다음 설명 중 옳은 것 은?",
+    "choices": {
+      "1": "사과 표면에 비친 빛 중 빨강 파장은 흡수, 나머지는 반 사하기 때문",
+      "2": "사과 표면에 비친 빛 중 빨강 파장은 투과, 나머지는 흡 수하기 때문",
+      "3": "사과 표면에 비친 빛 중 빨강 파장은 반사, 나머지는 흡 수하기 때문",
+      "4": "사과 표면에 비친 빛 중 빨강 파장은 굴절, 나머지는 반 사하기 때문"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 65,
+    "question": "우리나라 산업규격의 안전 색광 사용 통칙에 있어서 위험과 긴급을 표시하는 색광은?",
+    "choices": {
+      "1": "노랑",
+      "2": "빨강",
+      "3": "녹색",
+      "4": "자주"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 66,
+    "question": "비누 거품이나 전복 껍질 등에서 무지개 같은 색이 나타나 는 것을 볼 수 있는데 이것은 빛의 어떠한 현상에 의해 나 타나는 색인가?",
+    "choices": {
+      "1": "왜곡현상",
+      "2": "투과현상",
+      "3": "간섭현상",
+      "4": "직진현상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 67,
+    "question": "저드(Judd, D.B.)가 주장하는 색채조화의 네 가지 원칙이 아닌 것은?",
+    "choices": {
+      "1": "질서성의 원리",
+      "2": "모호성의 원리",
+      "3": "동류성의 원리",
+      "4": "친근성의 원리"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 68,
+    "question": "Moon-Spencer의 색채조화론에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "조화는 동등조화, 유사조화, 대비조화로 구분된다.",
+      "2": "부조화는 제1부조화, 제2부조화, 눈부심(glare)이다.",
+      "3": "색채조화는 색상의 범위로만 국한되어 있다.",
+      "4": "색상에서 유사조화 범위는 7-12(100등분 색상)이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 69,
+    "question": "조명에 의하여 물체의 색을 결정하는 광원의 성질은?",
+    "choices": {
+      "1": "조명성",
+      "2": "기능성",
+      "3": "연색성",
+      "4": "조색성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 70,
+    "question": "색조(tone)의 개념에 대한 올바른 설명은?",
+    "choices": {
+      "1": "채도를 나타내는 개념",
+      "2": "색상과 명도를 포함하는 복합개념",
+      "3": "명도와 채도를 포함하는 복합개념",
+      "4": "명도를 나타내는 개념"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 72,
+    "question": "색채에 있어서 수반 감정은 색채가 인간에게 미치는 기본적 인 효과를 말한다. 색이 수반하는 감정에 관한 다음 설명 중 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "난색계의 채도가 높은 색은 흥분을 유발시킨다.",
+      "2": "장파장 쪽의 색이 따뜻하게 느껴진다.",
+      "3": "저명도의 색은 무겁게 느껴진다.",
+      "4": "개인별로 느낌의 차이가 대단히 많다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 73,
+    "question": "다음 중 장시간 머무는 대합실 등에 가장 적합한 색은?",
+    "choices": {
+      "1": "진출색",
+      "2": "한색계",
+      "3": "난색계",
+      "4": "고채도의 색"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 74,
+    "question": "다음 색 중 백색배경에서 가장 명시도가 낮은 색은?",
+    "choices": {
+      "1": "황색",
+      "2": "보라색",
+      "3": "파랑색",
+      "4": "청보라색"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 75,
+    "question": "색의 대비현상에 관한 기술 중 가장 타당성이 높은 것은?",
+    "choices": {
+      "1": "면적 대비란 면적이 커지면 명도 및 채도가 더 낮아보이 는 현상이다",
+      "2": "계시 대비란 먼저 본 색의 영향으로 나중에 보는 색이 다르게 보이는 현상이다",
+      "3": "한난 대비란 한색은 따뜻하게 보이고, 난색은 차게보이 는 현상이다",
+      "4": "연변 대비란 두 색이 붙어있는 경계부분에서 색의 대비 가 더욱 약하게 보이는 현상이다"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 76,
+    "question": "먼셀 색입체에 관한 기술 중 옳은 것은?",
+    "choices": {
+      "1": "채도는 색입체의 중심에서 원둘레 방향으로 가면서 점점 높아진다.",
+      "2": "색입체에서 채도는 위로 올라갈수록 높아진다.",
+      "3": "색입체 중심축의 맨 위에는 검정색이 위치한다.",
+      "4": "색입체를 임의의 위치에서 자른 수평단면은 동일채도 면 이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 77,
+    "question": "크기가 같은 라디오에 다음과 같이 채색되었을 때 가장 크 게 느껴지는 것은? (단, 명도는 같다.)",
+    "choices": {
+      "1": "밝은 회색 라디오",
+      "2": "밝은 녹색 라디오",
+      "3": "밝은 보라색 라디오",
+      "4": "밝은 노랑색 라디오"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 78,
+    "question": "올림픽 마크의 5대양주 색은 어떤 성질을 이용한 것인가?",
+    "choices": {
+      "1": "시대성",
+      "2": "상징성",
+      "3": "기호성",
+      "4": "기억성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 79,
+    "question": "채도에 관한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "채도는 흰색을 섞으면 높아지고 검정색을 섞으면 낮아진 다.",
+      "2": "채도는 색의 선명도를 나타낸 것으로 무채색을 섞으면 낮아진다.",
+      "3": "채도는 색의 밝은 정도를 말하는 것이며, 유채색끼리 섞 으면 높아진다.",
+      "4": "채도는 그림물감을 칠했을 때 나타나는 효과이며, 흰색 을 섞으면 높아진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20040523",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 80,
+    "question": "색의 삼속성에 관한 기술 중 잘못된 것은?",
+    "choices": {
+      "1": "색상환에서 정반대쪽에 위치한 색은 보색이다.",
+      "2": "명도는 고명도, 중명도, 저명도로 나눈다.",
+      "3": "채도가 가장 높은 색을 백색이라고 한다.",
+      "4": "무채색의 채도는 0이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 81,
+    "question": "다음 중 시장조사의 기본적인 역할이 아닌 것은?",
+    "choices": {
+      "1": "시장 위험을 예측하여 안전한 시장진입을 하는데 필요하 다.",
+      "2": "경영자 판매정책을 결정하는데 사용된다.",
+      "3": "사업가가 생산계획을 결정하는데 주로 쓰인다.",
+      "4": "시장경쟁을 분석하는데 쓰인다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 82,
+    "question": "생산자의 품질코스트의 구분에 있어 예방비용(prevention cost)에 해당되지 않는 것은?",
+    "choices": {
+      "1": "품질계획 비용",
+      "2": "품질관리 기술 비용",
+      "3": "검사 및 시험기기의 보전비용",
+      "4": "품질시스템 개발 및 관리비용"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 83,
+    "question": "제품의 라이프 싸이클(life cycle)의 4단계 순서가 올바른 것 은?",
+    "choices": {
+      "1": "도입기 → 성장기 → 성숙기 → 쇠퇴기",
+      "2": "도입기 → 성숙기 → 성장기 → 쇠퇴기",
+      "3": "쇠퇴기 → 도입기 → 성숙기 → 성장기",
+      "4": "쇠퇴기 → 성장기 → 성숙기 → 도입기"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 84,
+    "question": "A양복점에는 많은 유명 배우들이 양복을 맞추어 입기 때문 에 나도 그 양복점에 가서 맞추어 입었다. 다음 중 어느 것 에 해당되는 동기인가?",
+    "choices": {
+      "1": "감정적 제품동기",
+      "2": "합리적 제품동기",
+      "3": "감정적 애고동기",
+      "4": "합리적 애고동기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 85,
+    "question": "신제품 아이디어 구상을 위한 브레인 스토밍법(Brain storming)의 규칙에 해당되지 않는 것은?",
+    "choices": {
+      "1": "남의 아이디어를 비판해서는 안된다.",
+      "2": "가급적 최소화 한 최선의 아이디어를 제시해야 한다.",
+      "3": "남의 아이디어에 편승하는 것을 환영한다.",
+      "4": "제안된 아이디어를 결합하고 개선하려 해야 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 86,
+    "question": "제품 수명주기 중 도입기에 있어 마아케팅요인들을 믹스하 여 도입의 정착과 성장을 꾀하여야 하는데 다음 요소 중 어 떤 것에 가장 큰 비중을 두어야 하는가?",
+    "choices": {
+      "1": "가격",
+      "2": "광고",
+      "3": "품질",
+      "4": "서비스"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 87,
+    "question": "산업제품분류에 있어 소모품 중 운영품목(operating items) 에 해당되는 것은?",
+    "choices": {
+      "1": "각종 청소도구 및 전구",
+      "2": "용접봉 및 용접용 산소",
+      "3": "볼트, 나사",
+      "4": "연료, 사무용품"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 88,
+    "question": "개별경제, 즉 기업경영의 내부를 중심으로 그의 거래활동을 분석 연구하여 경영합리화를 모색하려는 일련의 활동은?",
+    "choices": {
+      "1": "거시 마아케팅(巨視 마아케팅)",
+      "2": "미시 마아케팅(微視 마아케팅)",
+      "3": "공장도 가격제(工場渡 價格制)",
+      "4": "가격 카르텔(價格 카르텔)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 89,
+    "question": "일반적으로 기존제품 개선에 있어 기본적 개선의 측면이 될 수 없는 것은?",
+    "choices": {
+      "1": "품질개선",
+      "2": "기능적 특징 개선",
+      "3": "광고의 필요에 따른 개선",
+      "4": "스타일 개선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 90,
+    "question": "다각화 전략의 방향이 아닌 것은?",
+    "choices": {
+      "1": "군수품 시장에서의 분포범위(coverage)를 개선하기 위한 수평적 다각화",
+      "2": "경기후퇴기에 판매량을 안정화시키기 위한 측면적 다각 화",
+      "3": "전체적인 판매계획상의 상업적 판매율을 증가 시키려는 수평적 다각화",
+      "4": "기업의 이해 관계자들이 정상적인 기업 안정과 성장을 추구하기 위한 다각화"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 91,
+    "question": "물적유통기능이 아닌 것은?",
+    "choices": {
+      "1": "운송기능",
+      "2": "보관기능",
+      "3": "제품기능",
+      "4": "포장기능"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 92,
+    "question": "포장의 강도적인 설계에 가장 큰 영향을 주는 것은?",
+    "choices": {
+      "1": "수송",
+      "2": "통신",
+      "3": "하역",
+      "4": "보관"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 93,
+    "question": "다음 중 품질관리의 목적이 아닌 것은?",
+    "choices": {
+      "1": "신제품 개발",
+      "2": "종합적 원가 관리",
+      "3": "품질보증 및 불량품 방지",
+      "4": "품질개선 및 고급화, 원가절감"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 94,
+    "question": "생활 유형(life style)에 의한 시장 세분화와 무관한 것은?",
+    "choices": {
+      "1": "주요관심사",
+      "2": "시간의 소비 방법",
+      "3": "제품 디자인",
+      "4": "주거지역"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 95,
+    "question": "다음 중 기능중간상에 해당 되는 것은?",
+    "choices": {
+      "1": "중개인",
+      "2": "도매상",
+      "3": "백화점",
+      "4": "연쇄점"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 96,
+    "question": "변동비에 있어 비례비의 설명이 올바른 것은?",
+    "choices": {
+      "1": "생산량의 증감과 같은 비율로 변동하는 원가",
+      "2": "생산량 증감과 관계없는 원가",
+      "3": "생산량의 증감 이하의 비율로 변동하는 원가",
+      "4": "생산량의 증감 이상의 비율로 변동하는 원가"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 98,
+    "question": "신제품을 개발하여 시장에 도입시킨 제품이 실패하는 요인 이 될 수 없는 것은?",
+    "choices": {
+      "1": "불충분한 시장분석",
+      "2": "경쟁 및 타이밍 오차",
+      "3": "마아케팅 노력의 부족",
+      "4": "노사분규"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20040523",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 99,
+    "question": "제품 품질에 영향을 미치는 생산의 4대 주요소에 해당되는 것은?",
+    "choices": {
+      "1": "자본",
+      "2": "시장과 고객",
+      "3": "작업방법",
+      "4": "경영자"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 1,
+    "question": "미국 기능주의 실용미술의 발전 배경이 아닌 것은?",
+    "choices": {
+      "1": "수공예적 전통을 가지고 있지 않음",
+      "2": "Bauhaus 지도적 인물의 미국 이주",
+      "3": "대량생산을 통한 대중문화의 발달",
+      "4": "역사주의적 양식 답습"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 2,
+    "question": "다음 중 산업디자인 개념에 포함되지 않는 것은?",
+    "choices": {
+      "1": "순수미 추구",
+      "2": "기능추구",
+      "3": "사회의 유익성",
+      "4": "심리적, 육체적, 생리적 요소 충족"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 3,
+    "question": "바우하우스(bauhaus) 운동과 직접 관계가 없는 사람은?",
+    "choices": {
+      "1": "그로피우스",
+      "2": "모홀리나기",
+      "3": "헤르만 무테지우스",
+      "4": "요한네스 이텐"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 4,
+    "question": "독일공작연맹(DWB)의 주창자는?",
+    "choices": {
+      "1": "헤르만 무테지우스(Herman Muthesius)",
+      "2": "발터그로피우스(Walter Gropius)",
+      "3": "모흘리 나기(Moholy Nagy)",
+      "4": "반데벨레(Henry Vande Velde)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 5,
+    "question": "일본이 디자인 진흥을 위해 추진한 내용과 관련이 없는 것 은?",
+    "choices": {
+      "1": "산업에 대한 디자인 진흥책의 강화",
+      "2": "일본 공업디자이너 협회 결성",
+      "3": "국제 교류강화",
+      "4": "대기업 중심의 지원"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 6,
+    "question": "세계 산업디자인 단체 협의회의 약칭(영문)은?",
+    "choices": {
+      "1": "ICOGRADA",
+      "2": "IDSA",
+      "3": "ICSID",
+      "4": "IFI"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 7,
+    "question": "디자인 메니지먼트(Design Management)의 주요 목표는 다 음 중 어느 것이 가장 적합한가?",
+    "choices": {
+      "1": "디자인 서비스의 질적 향상과 생산성 제고",
+      "2": "에너지 절약과 신재료의 대체개발",
+      "3": "발명과 생산기술의 권리보호",
+      "4": "제품디자인의 심미성과 유행성의 효율적 해결"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 9,
+    "question": "아르누보 양식의 특징이 아닌 것은?",
+    "choices": {
+      "1": "장식적",
+      "2": "곡선적",
+      "3": "대칭적",
+      "4": "역동적"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 10,
+    "question": "자유곡선형의 무늬 디자인이 우리에게 주는 일반 감정은?",
+    "choices": {
+      "1": "안정성",
+      "2": "유연성",
+      "3": "명료성",
+      "4": "강력성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 11,
+    "question": "산업디자인(Industrial Design)의 개념에 대한 설명 중 가장 올바른 것은?",
+    "choices": {
+      "1": "주로 평면적인 시각 전달 매체를 대상으로 시각 정보의 가치를 증진시키는 분야이다.",
+      "2": "사용자의 욕구를 파악하고 새롭게 정의함으로써 제품의 가치를 창조하는 분야이다.",
+      "3": "제품의 성능, 생산, 시장조건에 관련하여 기술 지향적으 로 최적의 인공물을 창출하는 분야이다.",
+      "4": "도시계획에서부터 건축과 실내공간, 가로시설물 계획등 효율적 공간을 창출하는 분야이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 12,
+    "question": "다음 중 서로 관련이 없게 짝지어진 것은?",
+    "choices": {
+      "1": "독일 공작연맹과 요한네스 이텐",
+      "2": "공예운동과 윌리엄 모리스",
+      "3": "바우하우스와 윌터 그로피우스",
+      "4": "아르누보와 반 데 벨데"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 13,
+    "question": "다음 중 Auto-CAD의 명령어가 아닌 것은?",
+    "choices": {
+      "1": "ARRAY",
+      "2": "EXPLODE",
+      "3": "BLUR",
+      "4": "LIST"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 14,
+    "question": "제품의 라이프 사이클을 바르게 나열한 것은?",
+    "choices": {
+      "1": "도입기 - 성장기 - 성숙기 - 쇠퇴기",
+      "2": "성장기 - 도입기 - 성숙기 - 쇠퇴기",
+      "3": "도입기 - 성숙기 - 성장기 - 쇠퇴기",
+      "4": "성숙기 - 도입기 - 성장기 - 쇠퇴기"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 16,
+    "question": "디자인 부서의 역할과 관련이 먼 것은?",
+    "choices": {
+      "1": "조형을 통한 제품의 질 향상",
+      "2": "디자인 정책 수립",
+      "3": "생산물량의 공급 조절",
+      "4": "소비자의 동향 파악"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 17,
+    "question": "아이디어 발상법 중 브레인스토밍(Brainstorming)의 진행 규 칙에 대한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "다른 사람의 아이디어에 대해서 확실하게 비판을 할 것",
+      "2": "어떠한 아이디어라도 자유분방하게 제출하도록 할 것",
+      "3": "아이디어의 질이 중요하므로 현실성있는 것만을 낼 것",
+      "4": "이미 제출된 아이디어들을 조합하거나 활용하지 말 것"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 18,
+    "question": "1920년대에 새로운 제품 모델을 개발하여 시장에 내놓음 으 로써 의도적으로 기존 제품의 인위적 폐기처분 현상을 조장 하기 시작한 국가와 디자인 분야가 알맞게 짝지워진 것은?",
+    "choices": {
+      "1": "미국 - 자동차 디자인",
+      "2": "영국 - 가구 디자인",
+      "3": "독일 - 전기제품 디자인",
+      "4": "이태리 - 생활용품 디자인"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 19,
+    "question": "다음은 비례를 수치로 나타낸 것이다. 이중 황금분할 (Golden section)의 비(比)는?",
+    "choices": {
+      "1": "1:1.418",
+      "2": "1:1.518",
+      "3": "1:1.618",
+      "4": "1:1.818"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20050529",
+    "subject": 1,
+    "subject_name": "제품디자인론",
+    "question_no": 20,
+    "question": "올리베티(Olivetti)에서 시스템 가구를 제안한 후 산업사회를 넘어선 멤피스 운동을 이끌며 '디자인은 감성(emotion) 이 다'라고 정의한 인물은?",
+    "choices": {
+      "1": "에토레 소트사스(Ettore Sottsass)",
+      "2": "찰스 임스(Charls Eames)",
+      "3": "마리오 보타(Mario Botta)",
+      "4": "안드레아 브란치(Andrea Branzi)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 21,
+    "question": "다음 인체의 긴장을 나타내는 신체적 척도(지표)가 아닌 것 은?",
+    "choices": {
+      "1": "심박수",
+      "2": "심전도",
+      "3": "혈압",
+      "4": "호흡수"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 22,
+    "question": "음향 에너지의 표기법이 맞는 것은?",
+    "choices": {
+      "1": "dyne/cm2",
+      "2": "watt/cm2",
+      "3": "cycle/sec",
+      "4": "bel"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 24,
+    "question": "다음 중 조도(illumination)의 단위는?",
+    "choices": {
+      "1": "칸델라(candela)",
+      "2": "룩스(lux)",
+      "3": "왓트(watt)",
+      "4": "루멘(lumen)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 25,
+    "question": "피부감각의 특성에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "촉각을 가지고 있다.",
+      "2": "통각, 압각, 온각, 냉각을 가지고 있다.",
+      "3": "같은 크기의 자극이 반복되면 적응되어 고유감각을 잃는 다.",
+      "4": "뇌는 통각을 가지고 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 26,
+    "question": "내이(內耳)에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "소리를 모아주는 역할을 한다.",
+      "2": "소리를 청신경 중추에 보내는 역할을 한다.",
+      "3": "공기중의 음파가 직접 내이에 전하여져서 소리의 감각을 느끼게 한다.",
+      "4": "목과 코로 연결되어 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 27,
+    "question": "정보의 유형에서 사물, 지역, 구성 등을 사진, 그림, 그래프 로 나타내는 정보는?",
+    "choices": {
+      "1": "상태(status)정보",
+      "2": "묘사적(representational)정보",
+      "3": "신호(signal)정보",
+      "4": "식별(identification)정보"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 28,
+    "question": "인체 골격이 하는 주요 기능이 아닌 것은?",
+    "choices": {
+      "1": "몸을 지탱하며 그 외형을 지지한다.",
+      "2": "체강(體腔)을 형성하며 체강내의 장기를 보호한다.",
+      "3": "골격 내부에 골수를 넣어 조혈작용을 한다.",
+      "4": "대뇌의 지시에 따라 자기 마음대로 이완, 수축을 해골격 운동에 기여한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 29,
+    "question": "다음 시각적 표시장치의 지침 설계의 원칙 중 틀린 것은?",
+    "choices": {
+      "1": "뾰족한 지침을 사용하라.",
+      "2": "지침을 눈금면과 밀착시켜라.",
+      "3": "지침의 색은 선단에서 눈금의 중심까지 칠하라.",
+      "4": "지침의 끝은 작은 눈금과 겹치도록 하라."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 30,
+    "question": "대량생산을 전제로 한 가벼운 작업용 의자와 책상을 디자인 할 경우(예:사무용, 강의용 등) 고려해야 할 점에 대한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "의자 좌면(座面)의 높이는 하퇴(下腿)의 길이가 높은 사 람보다는 짧은 사람에게 맞추어야 한다.",
+      "2": "등받침의 높이는 앉은 자세에서 좌면에서 견갑골 하단까 지의 거리가 적당하다.",
+      "3": "의자와 책상의 디자인에 있어서 의자와 책상은 각각 독 립된 칫수대로만 제작하면 된다.",
+      "4": "제도용 의자는 앉아서도 서서도 사용할 수 있게 고려한 디자인을 하여야 된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 31,
+    "question": "다음 중 시각피로 원인 중에서 조절성 안정피로를 의미하는 것은?",
+    "choices": {
+      "1": "노인과 원시, 난시, 초점조절력의 쇠퇴 또는 마비",
+      "2": "신경쇠약이나 히스테리의 경우",
+      "3": "망막에 맺히는 상이 두 눈에 차이가 날 경우",
+      "4": "시선을 대상물에 집중시키는 기능의 이상이나 난시 또는"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 32,
+    "question": "소리의 강도를 나타내는 표기법은?",
+    "choices": {
+      "1": "sone",
+      "2": "phone",
+      "3": "mel",
+      "4": "decibel"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 33,
+    "question": "다음 중 망막위치에서 전시위치의 최대범위는?",
+    "choices": {
+      "1": "좌,우 45도",
+      "2": "좌,우 15도",
+      "3": "상+40도, 하-20도",
+      "4": "상+30도, 하-20도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 34,
+    "question": "다음 내용은 인간이 시스템에서 정보를 처리하는 과정을 나 타낸 것이다. 괄호 안에 적절한 기능은?",
+    "choices": {
+      "1": "검출(sensing)",
+      "2": "시스템 환경(system environment)",
+      "3": "대응선택(response selection)",
+      "4": "피드백(feedback)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 35,
+    "question": "다음은 백분위(퍼센타일)에 관한 사항이다. 올바르게 관련 지어진 것이 아닌 것은?",
+    "choices": {
+      "1": "문높이 - 95퍼센타일",
+      "2": "운동경기장 맨 앞자리 스텐드 난간높이 - 5퍼센타일",
+      "3": "시내버스의 천정높이 - 95퍼센타일",
+      "4": "좌식방에서의 창턱높이 - 95퍼센타일"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 36,
+    "question": "단기 감각 저장고(short term memory)의 역할에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "자극의 물리적인 세부사항을 기억한다.",
+      "2": "저장된 기억은 빠르게 소멸된다.",
+      "3": "훈련에 의해 능력이 향상될 수 있다.",
+      "4": "문제 해결을 위한 지식 저장 창고이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 37,
+    "question": "다음 중 인간관계가 작업 및 작업공간의 설계에 못지 않게 생산성에 큰 영향을 미친다는 것은?",
+    "choices": {
+      "1": "호오손(Hawthorne)법칙",
+      "2": "페크너(Fechner)법칙",
+      "3": "웨버(Weber)법칙",
+      "4": "밀러(Miller)법칙"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 38,
+    "question": "다음 중 양립성(compatibility)을 설명하는 내용으로 적절치 못한 것은?",
+    "choices": {
+      "1": "청색은 정상을 나타내는 것과 같은 연상의 양립성은 개 념적 양립성이다.",
+      "2": "공간적 양립성은 표시장치의 이동방향이 조종장치의 이 동방향과 일치할 때를 가리킨다.",
+      "3": "표시장치의 이동방향과 조종장치의 이동방향이 다르면 인간실수가 증가된다.",
+      "4": "양립성이 클수록 자극에 대한 반응속도는 빨라진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20050529",
+    "subject": 2,
+    "subject_name": "인간공학",
+    "question_no": 40,
+    "question": "다음 보기의 ㉠과 ㉡의 빈칸안에 들어갈 내용으로 알맞게 짝지어진 것은?",
+    "choices": {
+      "1": "㉠시력-㉡백색, 청색, 황색, 적색, 녹색",
+      "2": "㉠시야-㉡백색, 청색, 황색, 적색, 녹색",
+      "3": "㉠시력-㉡녹색, 적색, 황색, 청색, 백색",
+      "4": "㉠시야-㉡녹색, 적색, 황색, 청색, 백색"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 41,
+    "question": "적외선 차단유리 제조에 주요성분으로 사용되는 재료는?",
+    "choices": {
+      "1": "인산",
+      "2": "석회",
+      "3": "소다",
+      "4": "규사"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 42,
+    "question": "변성암은 다음 중 어떻게 형성된 것인가?",
+    "choices": {
+      "1": "석회암이 변화되어 결정화 된 것",
+      "2": "석회질이 용해하여 침전된 것",
+      "3": "화성암이 지열과 압력으로 화학작용을 일으킨 것",
+      "4": "석회암이 응고하여 생긴 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 43,
+    "question": "일종의 박엽지로서 주로 아마, 대마섬유가 원료이고 얇으면 서 강하고, 불투명하며, 무미, 무취이고, 연소될 때 악취가 없어야 하는 것은?",
+    "choices": {
+      "1": "글라싱지(glassing paper)",
+      "2": "인디아지(india paper)",
+      "3": "라이스지(rice paper)",
+      "4": "크라프트지(kraft paper)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 44,
+    "question": "일반적으로 섬유소 유도체를 주성분으로 하여 만들며, 건조 되는 속도가 극히 빠른 것이 특징인 도료는?",
+    "choices": {
+      "1": "바니스",
+      "2": "조합 페인트",
+      "3": "래커",
+      "4": "에나멜 페인트"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 45,
+    "question": "목재의 조직 중 견고하고 무거우며 내구성이 풍부하나 갈라 지기 쉬운 것은?",
+    "choices": {
+      "1": "춘재",
+      "2": "추재",
+      "3": "심재",
+      "4": "변재"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 46,
+    "question": "재료의 성질을 알아보기 위한 시험의 목적이 아닌 것은?",
+    "choices": {
+      "1": "물리적 성질",
+      "2": "화학적 성질",
+      "3": "색채적 성질",
+      "4": "기계적 성질"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 47,
+    "question": "시멘트의 수화속도(水和速度)에 가장 큰 영향을 주는 것은?",
+    "choices": {
+      "1": "화학성분",
+      "2": "온도",
+      "3": "분말도",
+      "4": "풍화도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 49,
+    "question": "다음 플라스틱 재료 중 열가소성 수지가 아닌 것은?",
+    "choices": {
+      "1": "폴리비닐 알콜(polyvinyl alcohol)",
+      "2": "폴리비닐 아세테이트(polyvinyl acetate)",
+      "3": "염화비닐 수지(vinyl chloride resin)",
+      "4": "폴리에스테르 수지(polyester resin)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 50,
+    "question": "염료의 종류에 있어서 염색적 성질의 분류에 속하지 않는 것은?",
+    "choices": {
+      "1": "산성염료",
+      "2": "중성염료",
+      "3": "배트염료",
+      "4": "직접염료"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 51,
+    "question": "목재모형의 특징이 아닌 것은?",
+    "choices": {
+      "1": "자유곡면 가공이 용이하다.",
+      "2": "다른 재료와 조합하여 많이 사용된다.",
+      "3": "장기보존이 가능하다.",
+      "4": "습기에 강하고 변형이 적다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 52,
+    "question": "디자인 행위에서 다른 표시보다 설득과 이해를 가장 강하게 호소하는 능력을 가지고 있는 것은?",
+    "choices": {
+      "1": "모형",
+      "2": "렌더링",
+      "3": "스케치",
+      "4": "드로잉"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 53,
+    "question": "정8면체가 구성하고 있는 한 면의 형태는?",
+    "choices": {
+      "1": "정6각형",
+      "2": "정5각형",
+      "3": "정4각형",
+      "4": "정3각형"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 54,
+    "question": "다음 중 목재 모형제작에 적합하지 못한 나무는?",
+    "choices": {
+      "1": "발사(Balsa)",
+      "2": "피나무",
+      "3": "괴목",
+      "4": "마디카"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 55,
+    "question": "목공선반 작업시 유의사항이 아닌 것은?",
+    "choices": {
+      "1": "자료를 측정할 경우 정지상태를 확인한다.",
+      "2": "심압축은 예리하기 때문에 기름을 칠하지 않는다.",
+      "3": "심압축의 고정상태는 자주 확인해야 한다.",
+      "4": "끌은 항상 예리하게 갈아 쓴다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 56,
+    "question": "인쇄시 종이가 쉽게 뜯기는 현상으로 잉크의 접착력과 종이 표면의 강도가 불균형일때 일어나는 것은?",
+    "choices": {
+      "1": "뒤묻음",
+      "2": "배어나옴",
+      "3": "피킹",
+      "4": "크리스탈리제이션"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 57,
+    "question": "러프목업 모델의 설명 중 틀린 것은?",
+    "choices": {
+      "1": "전개되는 아이디어의 확인을 위해 직접 제작한다.",
+      "2": "크고 제작하기 어려운 대상은 축척모형을 제작한다.",
+      "3": "재료는 점토류, 발포 아크릴, 종이류 등을 사용한다.",
+      "4": "더미모델이라고도 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 58,
+    "question": "합성수지를 용융시켜 파이프, 튜브, 필름가공, 병 등을 만드 는 성형법은?",
+    "choices": {
+      "1": "압축성형법",
+      "2": "이송성형법",
+      "3": "압출성형법",
+      "4": "사출성형법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20050529",
+    "subject": 3,
+    "subject_name": "공업재료 및 모형제작론",
+    "question_no": 60,
+    "question": "주로 디자이너 자신이 디자인(입체)감각과 비례를 예견하기 위하여 라프하게 제작하는 모델로서 사용할 재료에 수분을 가하여 굳혀서 사용하는 모델은?",
+    "choices": {
+      "1": "목재모델(wood model)",
+      "2": "석고모델(praster model)",
+      "3": "수지모델(prastics model)",
+      "4": "금속모델(metal model)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 61,
+    "question": "두가지 색이 회전에 의해 혼합되는 경우는?",
+    "choices": {
+      "1": "가산혼합",
+      "2": "감산혼합",
+      "3": "중간혼합",
+      "4": "색광혼합"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 62,
+    "question": "먼셀(Munsell)의 색상환에서 주요 5색상에 해당되지 않는 조건은?",
+    "choices": {
+      "1": "Blue",
+      "2": "Purple",
+      "3": "Orange",
+      "4": "Green"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 63,
+    "question": "다음 중 가시광선에 속하는 파장의 범위는?",
+    "choices": {
+      "1": "300nm - 700nm",
+      "2": "380nm - 780nm",
+      "3": "400nm - 800nm",
+      "4": "420nm - 820nm"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 64,
+    "question": "오스트발트의 색채 조화론과 관계 있는 것은?",
+    "choices": {
+      "1": "동등조화, 유사조화",
+      "2": "등백 혹은 등흑계열과 회색조화",
+      "3": "대비조화, 유사조화",
+      "4": "제1부조화, 제2부조화"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 65,
+    "question": "색의 대비현상에 관한 내용 중에서 잘못된 것은?",
+    "choices": {
+      "1": "명도대비 : 명도가 다른 두 색이 서로의 영향으로 명도 차가 더 크게 나타나는 것",
+      "2": "연변대비 : 두 색의 경계부분에서 색의 3속성별로 대비 현상이 더욱 강하게 나타나는 것",
+      "3": "계시대비 : 먼저 본 색의 영향으로 다음에 보는 색이 먼 저 본 색의 보색으로 보이는 것",
+      "4": "보색대비 : 보색관계인 두 색이 서로의 영향으로 각각의 채도가 더 높게 보이는 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 66,
+    "question": "다음 중 점묘법으로 그린 그림의 혼색효과와 같은 것은?",
+    "choices": {
+      "1": "병치감법혼색",
+      "2": "동시감법혼색",
+      "3": "계시가법혼색",
+      "4": "병치가법혼색"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 67,
+    "question": "비렌(Birren)의 형과 색의 연관 관계 중 틀린 것은?",
+    "choices": {
+      "1": "빨강색 - 정사각형",
+      "2": "노랑색 - 삼각형",
+      "3": "파랑색 - 육각형",
+      "4": "주황색 - 직사각형"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 69,
+    "question": "유행색을 선정하는 국제단체인 인터칼라(Intercolor)에서는 대개 얼마 후의 칼라를 예측하는가?",
+    "choices": {
+      "1": "2년",
+      "2": "1년 6개월",
+      "3": "1년",
+      "4": "6개월"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 70,
+    "question": "다음 중 색의 대비현상과 관계 없는 것은?",
+    "choices": {
+      "1": "색상대비",
+      "2": "방향대비",
+      "3": "명도대비",
+      "4": "보색대비"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 71,
+    "question": "다음 중 속도감이 가장 둔한 느낌의 색상은?",
+    "choices": {
+      "1": "노랑",
+      "2": "빨강",
+      "3": "주황",
+      "4": "청록"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 72,
+    "question": "우리 눈의 망막상에서 어두운 곳에서는 약한 광선을 받아들 이며 색상은 보이지 않고 명암만을 판별하는 시세포는?",
+    "choices": {
+      "1": "추상체",
+      "2": "한상체",
+      "3": "수정체",
+      "4": "홍채"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 73,
+    "question": "오스트발트 표색계의 설명으로 틀린 것은?",
+    "choices": {
+      "1": "영·헬름홀쯔의 설에 근거를 두고 있다.",
+      "2": "색입체는 복원추체이다.",
+      "3": "모든 색은 순색량 + 흰색량 + 검정색량 = 100 % 가 된 다.",
+      "4": "안료로서 발색이 가능한 명도는 a, c, e, g, i, l, n,p 의 8단계이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 74,
+    "question": "오스트발트 색채 시스템에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "노랑을 기준으로 전체 24색상으로 이루어져 있다.",
+      "2": "톤은 무채색을 제외하고 각 색상 당 28색으로 이루어져 있다.",
+      "3": "원래 색채의 배색을 위한 조화를 목적으로 제작되었다.",
+      "4": "색채조화메뉴얼(CHM)에는 모두 40색상으로 구성된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 75,
+    "question": "다음 중 색채의 감정적 효과로서 가장 흥분을 유발시키는 색은?",
+    "choices": {
+      "1": "난색계의 높은 채도",
+      "2": "한색계의 높은 채도",
+      "3": "난색계의 높은 명도",
+      "4": "한색계의 높은 명도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 76,
+    "question": "다음 중간혼합에 관한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "색을 혼합하면 백색이 된다.",
+      "2": "날줄과 씨줄에 의한 직물에 활용된다.",
+      "3": "실제의 물리적 혼합이 아니라 눈의 망막에서 일어나는 착시적 혼합이다.",
+      "4": "망점에 의한 원색 인쇄에도 활용된다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 77,
+    "question": "배색된 색채들이 서로 공통되는 상태와 속성을 가질 때, 그 조화 원리론은?",
+    "choices": {
+      "1": "질서의 원리",
+      "2": "비모호성의 원리",
+      "3": "유사의 원리",
+      "4": "대비의 원리"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 79,
+    "question": "명시도(明視度)는 색고유의 특성보다 배경색과의 관계에 의 하여 결정된다. 흑색 배경이라고 가정할 때 다음 중 명시도 가 가장 높은 색은?",
+    "choices": {
+      "1": "황색(yellow)",
+      "2": "백색(white)",
+      "3": "자색(purple)",
+      "4": "청색(blue)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "date": "20050529",
+    "subject": 4,
+    "subject_name": "색채학",
+    "question_no": 80,
+    "question": "오스트발트의 색채 조화론에 관한 다음 설명 중 틀린 것은?",
+    "choices": {
+      "1": "무채색 단계에서 같은 간격으로 선택한 배색은 조화된 다.",
+      "2": "등색상 3각형의 아래쪽 사변에 평행한 선상의 색들은 조 화된다.",
+      "3": "등색상 3각형의 위쪽 사변에 평행한 선상의 색들은 조화 된다.",
+      "4": "색상 일련번호의 차가 6 ∼ 8일 때 반대색 조화가 생긴 다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 81,
+    "question": "통계적 품질관리의 원칙 중 랜덤 샘플링과 가장 관계가 깊 은 것은?",
+    "choices": {
+      "1": "목적명확화의 원칙",
+      "2": "수량화의 원칙",
+      "3": "등질화의 원칙",
+      "4": "확률화의 원칙"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 82,
+    "question": "제품 디자인의 시장평가에 관한 조사는 다음 시장조사 범위 중 어디에 해당되는가?",
+    "choices": {
+      "1": "제품에 관한 조사",
+      "2": "시장에 관한 조사",
+      "3": "정책에 관한 조사",
+      "4": "판매방법에 관한 조사"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 83,
+    "question": "제품 디자인의 아이디어(idea) 원천이 안되는 것은?",
+    "choices": {
+      "1": "종업원의 시사",
+      "2": "소비자의 시사",
+      "3": "경쟁상품의 연구",
+      "4": "P.O.P 광고"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 84,
+    "question": "제품관리의 대상으로서 보편 타당한 것은?",
+    "choices": {
+      "1": "판매가능성, 재고상품, 수지계산",
+      "2": "상품조정, 재고량, 구입과 판매",
+      "3": "상품의 종목, 수량, 가격",
+      "4": "제품라인, 제품품목, 검사"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 85,
+    "question": "일반적으로 수송수단을 선택할 때 고려할 사항과 거리가 가 장 먼 것은?",
+    "choices": {
+      "1": "경제성",
+      "2": "신속성",
+      "3": "안전성",
+      "4": "복합성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 86,
+    "question": "재고비에 있어 재고 유지비에 해당되지 않는 비용은?",
+    "choices": {
+      "1": "창고보관비",
+      "2": "화재,도난 보험료",
+      "3": "진부화에 따른 위험부담 비용",
+      "4": "주문처리 발송비"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 88,
+    "question": "제품생산시 설비배치의 종류 중 소품종 다량생산으로 대량 생산내지 연속생산공장에서 사용되는 것은?",
+    "choices": {
+      "1": "제품(Line)별 배치",
+      "2": "공정(Process)별 배치",
+      "3": "혼합(Combined)별 배치",
+      "4": "고정(Fixed)별 배치"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 89,
+    "question": "물류 관리 의사결정 영역에 있어 단기의사 결정 영역에 해 당되는 것은?",
+    "choices": {
+      "1": "유통 경로",
+      "2": "제품 할당",
+      "3": "공장 위치",
+      "4": "물류 거점의 입지, 규모"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 90,
+    "question": "프랜차이즈 시스템(franchise system)이란?",
+    "choices": {
+      "1": "제품의 계약적 판매권",
+      "2": "제품의 수송권",
+      "3": "제품의 하청제조권",
+      "4": "제품의 특허 이용권"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 91,
+    "question": "특정의 판매자가 구매자에게 제공하는 모든 제품계열과 제 품 품목의 집합을 나타내는 말은?",
+    "choices": {
+      "1": "제품믹스(product mix)",
+      "2": "제품형(product form)",
+      "3": "제품계층(product class)",
+      "4": "상표차원(brand dimension)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 92,
+    "question": "마아케팅 믹스의 4가지 요소를 무엇이라 칭하는가?",
+    "choices": {
+      "1": "4C",
+      "2": "4S",
+      "3": "4H",
+      "4": "4P"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 93,
+    "question": "품질관리의 기능에 대한 설명 중 적합치 않은 것은?",
+    "choices": {
+      "1": "품질관리는 대별하면 공정관리, 창고관리, 판매관리, 소 비자관리의 4기능으로 구분된다.",
+      "2": "품질에 관계되는 모든 활동을 일반적으로 품질기능이라 한다.",
+      "3": "품질관리는 사내 각 부문에서 분산되어 있는 품질기능을 효과적으로 체계화하는 것이다.",
+      "4": "생산공정의 흐름에서 품질에 영향을 주는 요인들의 작용 이 품질관리 기능과 연관되어 나타난다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 94,
+    "question": "성경을 주요제품으로 하는 출판회사가 소비자의 연령대에 맞추어 청소년용, 젊은이용, 주부용, 직장인용, 중년용, 노년 용으로 나누어 편집과 포장을 달리한 성경을 출간하였다. 이 회사의 차별화전략은 어디에 속한다고 볼 수 있는가?",
+    "choices": {
+      "1": "본원적 차별화(genefic differentiation)",
+      "2": "표적시장중심 차별화(targeted differentiation)",
+      "3": "세분시장중심 차별화(segmented diffenentiation)",
+      "4": "원가중심 차별화(cost differentiation)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 96,
+    "question": "다음 중 기차를 이용한 수송의 형태가 갖는 장점인 것은?",
+    "choices": {
+      "1": "택배(door-to-door)서비스",
+      "2": "스케쥴상의 융통성",
+      "3": "도착시간에 대한 보증",
+      "4": "소규모선적에서의 용이함"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 97,
+    "question": "다음 중 물적 유통관리 활동으로 보기 어려운 것은?",
+    "choices": {
+      "1": "금융활동",
+      "2": "수송활동",
+      "3": "보관활동",
+      "4": "하역활동"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 98,
+    "question": "현대적 품질통제기능을 가장 성공적으로 수행하는 방법은?",
+    "choices": {
+      "1": "제품의 검사를 실시한다.",
+      "2": "명확한 규격의 설정이 가장 중요하다.",
+      "3": "사내 모든 관리요원을 종합적으로 품질통제 활동에 참여 시킨다.",
+      "4": "품질관리요원의 교육을 철저히 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 99,
+    "question": "마아케팅의 출발점은?",
+    "choices": {
+      "1": "고객지향",
+      "2": "이익지향",
+      "3": "기업지향",
+      "4": "정부지향"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20050529",
+    "subject": 5,
+    "subject_name": "제품관리",
+    "question_no": 100,
+    "question": "상품 거래소 선물거래의 가격결정에 쓰이는 품질 등급 기 준은?",
+    "choices": {
+      "1": "식물등급",
+      "2": "표준품",
+      "3": "제품별규격",
+      "4": "협약기준"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  }
+]

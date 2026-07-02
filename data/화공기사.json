@@ -1,1 +1,2126 @@
-[{"id": 1, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 1, "question": "기하이성질체를 나타내는 고분자가 아닌 것은?", "choices": {"1": "폴리부타디엔", "2": "폴리크로로프렌", "3": "폴리이소프렌", "4": "폴리비닐알코올"}, "answers": [4], "explanation": ""}, {"id": 2, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 2, "question": "양쪽성 물질에 대한 설명으로 옳은 것은?", "choices": {"1": "동일한 조건에서 여러 가지 축합반응을 일으키는 물질", "2": "수계 및 유계에서 계면활성제로 작용하는 물질", "3": "pKa 값이 7 이하인 물질", "4": "반응조건에 따라 산으로도 작용하고 염기로도 작용하는 물질"}, "answers": [4], "explanation": ""}, {"id": 3, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 3, "question": "염화물의 에스테르화 반응에서 Schotten-Baumann법에 해당 하는 것은?", "choices": {"1": "전해액 중의 기포가 증가되도록 한다.", "2": "두 전극 간의 거리를 증가시킨다.", "3": "전해액의 온도 및 NaCl의 농도를 높여준다.", "4": "전해액의 온도를 저온으로 유지시켜 준다."}, "answers": [4], "explanation": ""}, {"id": 4, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 6, "question": "합성염산의 원료기체를 제조하는 방법은?", "choices": {"1": "스위트닝 공정", "2": "MTG 공정", "3": "가스화 공정", "4": "개질 공정"}, "answers": [3], "explanation": ""}, {"id": 5, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 8, "question": "칼륨 비료에 속하는 것은?", "choices": {"1": "유안", "2": "요소", "3": "볏집재", "4": "초안"}, "answers": [3], "explanation": ""}, {"id": 6, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 9, "question": "아래의 구조를 갖는 물질의 명칭은?", "choices": {"1": "석탄산", "2": "살리실산", "3": "톨루엔", "4": "피크르산"}, "answers": [2], "explanation": ""}, {"id": 7, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 10, "question": "환원반응에 의해 알코올(alcohol)을 생성하지 않는 것은?", "choices": {"1": "카르복시산", "2": "나프탈렌", "3": "알데히드", "4": "케톤"}, "answers": [2], "explanation": ""}, {"id": 8, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 11, "question": "석유의 접촉분해 시 일어나는 반응으로 가장 거리가 먼 것 은?", "choices": {"1": "철망", "2": "Ni", "3": "Hg", "4": "흑연"}, "answers": [1], "explanation": ""}, {"id": 9, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 14, "question": "천연고무와 가장 관계가 깊은 것은?", "choices": {"1": "Propane", "2": "Ethylene", "3": "Isoprene", "4": "Isobutene"}, "answers": [3], "explanation": ""}, {"id": 10, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 15, "question": "아래와 같은 특성을 가지고 있는 연료전지는?", "choices": {"1": "폭발 방지", "2": "반응열 조절", "3": "장치부식 억제", "4": "Cl 가스의 농축 2 17. 황산의 원료인 아황산가스를 황화철광(iron pyrite)을 공기로"}, "answers": [3], "explanation": ""}, {"id": 11, "date": "20220305", "subject": 1, "subject_name": "공업합성", "question_no": 20, "question": "syndiotactic polystyrene의 합성에 관여하는 촉매로 가장 적합한 것은?", "choices": {"1": "메탈로센 촉매", "2": "메탈옥사이드 촉매", "3": "린들러 촉매", "4": "벤조일퍼록사이드"}, "answers": [1], "explanation": ""}, {"id": 12, "date": "20220305", "subject": 2, "subject_name": "반응운전", "question_no": 21, "question": "화학반응의 평형상수(K)에 관한 내용 중 틀린 것은? (단, a, i ν는 각각 i 성분의 활동도와 양론수이며 △G°는 표준 깁스 i (Gibbs) 자유에너지 변화이다.)", "choices": {"1": "엔트로피", "2": "내부에너지", "3": "3", "4": "4 25. 혼합물의 융해, 기화, 승화 시 변하지 않는 열역학적 성질에 해당하는 것은?"}, "answers": [2], "explanation": ""}, {"id": 13, "date": "20220305", "subject": 2, "subject_name": "반응운전", "question_no": 30, "question": "가역과정(Reversible process)에 관한 설명 중 틀린 것은?", "choices": {"1": "6.89", "2": "7.89", "3": "폐쇄계에서 부피가 일정한 경우 내부에너지 변화는 온도 와 엔트로피변화의 곱이다.", "4": "자연상태에서 일어나는 실제 과정이다. 31. 혼합흐름반응기에서 A + R → R + R인 자동촉매반응으로 99mol% A와 1mol% R인 반응물질을 전환시켜서 10mol% A와 90mol% R인 생성물을 얻고자 할 때, 반응기의 체류시 간(min)은? (단, 혼합반응물의 초기농도는 1mol/L이고, 반응 상수는 1L/mol·min 이다.)"}, "answers": [4], "explanation": ""}, {"id": 14, "date": "20220305", "subject": 2, "subject_name": "반응운전", "question_no": 32, "question": "자동촉매반응(autocatalytic reaction)에 대한 설명으로 옳은 것은?", "choices": {"1": "n = 1인 반응에서는 크기가 다른 반응기를 연결하는 것 이 이상적이다.", "2": "n ＞ 1인 반응에서는 작은 반응기가 먼저 와야 한다.", "3": "n ＜ 1인 반응에서는 큰 반응기가 먼저 와야 한다.", "4": "두 반응기의 크기 비는 일반적으로 반응속도와 전화율에 따른다. 36. A와 B에 각각 1차인 A + B → C 인 반응이 아래의 조건에 서 일어날 때, 반응속도(mol/L·s)는?"}, "answers": [2], "explanation": ""}, {"id": 15, "date": "20220305", "subject": 3, "subject_name": "단위공정관리", "question_no": 45, "question": "분쇄에 대한 설명으로 틀린 것은?", "choices": {"1": "최종입자가 중요하다.", "2": "최초의 입자는 무관하다.", "3": "파쇄물질의 종류도 분쇄동력의 계산에 관계된다.", "4": "파쇄기 소요일량은 분쇄되어 생성되는 표면적에 비례한 다."}, "answers": [2], "explanation": ""}, {"id": 16, "date": "20220305", "subject": 3, "subject_name": "단위공정관리", "question_no": 46, "question": "건조장치 선정에서 가장 중요한 사항은?", "choices": {"1": "15", "2": "67", "3": "150", "4": "670"}, "answers": [1], "explanation": ""}, {"id": 17, "date": "20220305", "subject": 3, "subject_name": "단위공정관리", "question_no": 49, "question": "무차원 항이 밀도와 관계없는 것은?", "choices": {"1": "다중효용 증발", "2": "고압 증발", "3": "진공 증발", "4": "압축 증발 51. 25℃에서 벤젠이 bomb 열량계 속에서 연소되어 이산화탄 소와 물이 될 때 방출된 열량을 실험으로 재어보니 벤젠 1mol 당 780890 cal 였을 때, 25℃에서의 벤젠의 표준연소 열(cal)은? (단, 반응식은 다음과 같으며 이상기체로 가정한 다.)"}, "answers": [4], "explanation": ""}, {"id": 18, "date": "20220305", "subject": 3, "subject_name": "단위공정관리", "question_no": 53, "question": "Hess의 법칙과 가장 관련이 있는 함수는?", "choices": {"1": "D = 0.35, B = 0.64", "2": "D = 64.7, B = 35.3", "3": "20265", "4": "202650 57. 40mol% C H Cl 톨루엔 혼합용액이 100 mol/h로 증류탑에 2 4 2 공급되어 아래와 같은 조성으로 분리될 때, 각 흐름의 속도 (mol/h)는?"}, "answers": [4], "explanation": ""}, {"id": 19, "date": "20220305", "subject": 4, "subject_name": "화공계측제어", "question_no": 62, "question": "서보(servo)제어에 대한 설명 중 옳은 것은?", "choices": {"1": "K ＜ -1", "2": "K ＞ -1 c c", "3": "K ＞ -2", "4": "K ＜ -2 c c"}, "answers": [1], "explanation": ""}, {"id": 23, "date": "20220305", "subject": 4, "subject_name": "화공계측제어", "question_no": 71, "question": "어떤 공정의 열교환망 설계를 위한 핀치 방법이 아래와 같 을 때, 틀린 설명은?", "choices": {"1": "최소 열교환 온도차는 10℃ 이다.", "2": "핀치의 상부의 흐름은 5개이다.", "3": "핀치의 온도는 고온 흐름 기준 140℃ 이다.", "4": "유틸리티로 냉각수와 수증기를 모두 사용한다고 할 때 핀치 방법으로 필요한 최소 열교환 장치는 7개이다. 72. 발열이 있는 반응기의 온도제어를 위해 그림과 같이 냉각수 를 이용한 열교환으로 제열을 수행하고 있다. 다음 중 옳은 설명은?"}, "answers": [3], "explanation": ""}, {"id": 24, "date": "20220305", "subject": 4, "subject_name": "화공계측제어", "question_no": 73, "question": "제어계의 구성요소 중 제어오차(에러)를 계산하는 부분은?", "choices": {"1": "센서", "2": "공정", "3": "최종제어요소", "4": "피드백 제어기"}, "answers": [4], "explanation": ""}, {"id": 26, "date": "20220305", "subject": 4, "subject_name": "화공계측제어", "question_no": 78, "question": "의 라플라스 역변환은?", "choices": {"1": "UNIFAC", "2": "Ion - NRTL", "3": "Peng-Robinson", "4": "Ieal gas law"}, "answers": [4], "explanation": ""}, {"id": 27, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 1, "question": "중과린산석회의 제법으로 가장 옳은 설명은?", "choices": {"1": "인산을 암모니아로 처리한다.", "2": "과린산석회를 암모니아로 처리한다.", "3": "칠레 초석을 황산으로 처리한다.", "4": "인광석을 인산으로 처리한다."}, "answers": [4], "explanation": ""}, {"id": 28, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 2, "question": "공업적인 HCl 제조방법에 해당하는 것은?", "choices": {"1": "부생염산법", "2": "Petersen Tower법", "3": "OPL법", "4": "Meyer법"}, "answers": [1], "explanation": ""}, {"id": 29, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 3, "question": "석회질소 비료에 대한 설명 중 틀린 것은?", "choices": {"1": "토양의 살균효과가 있다.", "2": "과린산석회, 암모늄염 등과의 배합비료로 적당하다.", "3": "저장 중 이산화탄소, 물을 흡수하여 부피가 증가한다.", "4": "분해 시 생성되는 디시안디아미드는 식물에 유해하다."}, "answers": [2], "explanation": ""}, {"id": 30, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 4, "question": "석유정제에 사용되는 용제가 갖추어야 하는 조건이 아닌 것 은?", "choices": {"1": "촉매로는 Pt에 Rh이나 Pd를 첨가하여 만든 백금계 촉매 가 일반적으로 사용된다.", "2": "촉매는 단위 중량에 대한 표면적이 큰 것이 유리하다.", "3": "촉매형상은 직경 0.2cm 이상의 선으로 망을 떠서 사용한 다.", "4": "Rh은 가격이 비싸지만 강도, 촉매활성, 촉매손실을 개선 하는데 효과가 있다."}, "answers": [3], "explanation": ""}, {"id": 31, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 9, "question": "다음 중 옥탄가가 가장 낮은 가솔린은?", "choices": {"1": "접촉개질 가솔린", "2": "알킬화 가솔린", "3": "접촉분해 가솔린", "4": "직류 가솔린"}, "answers": [4], "explanation": ""}, {"id": 32, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 10, "question": "열가소성 플라스틱에 해당하는 것은?", "choices": {"1": "ABS수지", "2": "규소수지", "3": "에폭시수지", "4": "알키드수지"}, "answers": [1], "explanation": ""}, {"id": 33, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 11, "question": "황산제조에 사용되는 원료가 아닌 것은?", "choices": {"1": "질산, 암모니아", "2": "불산, 염화나트륨", "3": "에탄올, 벤젠", "4": "황산, 과산화수소"}, "answers": [3], "explanation": ""}, {"id": 34, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 14, "question": "폐수 내에 녹아있는 중금속 이온을 제거하는 방법이 아닌 것은?", "choices": {"1": "열분해", "2": "이온교환수지를 이용하여 제거", "3": "pH를 조절하여 수산화물 형태로 침전제거", "4": "전기화학적 방법을 이용한 전해 회수"}, "answers": [1], "explanation": ""}, {"id": 35, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 15, "question": "LeBlanc법으로 100% HCl 3000kg을 제조하기 위한 85% 소금의 이론량(kg)은? (단, 각 원자의 원자량은 Na는 23 amu, Cl은 35.5 amu 이다.)", "choices": {"1": "3636", "2": "4646", "3": "5657", "4": "6667"}, "answers": [3], "explanation": ""}, {"id": 36, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 16, "question": "레페(Reppe) 합성반응을 크게 4가지로 분류할 때 해당하지 않는 것은?", "choices": {"1": "알킬화 반응", "2": "비닐화 반응", "3": "고리화 반응", "4": "카르보닐화 반응"}, "answers": [1], "explanation": ""}, {"id": 37, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 17, "question": "환경친화적인 생분해성 고분자로 가장 거리가 먼 것은?", "choices": {"1": "13.76", "2": "23.76", "3": "33.76", "4": "43.76"}, "answers": [2], "explanation": ""}, {"id": 38, "date": "20220424", "subject": 1, "subject_name": "공업합성", "question_no": 19, "question": "일반적인 공정에서 에텔렌으로부터 얻는 제품이 아닌 것은?", "choices": {"1": "에틸벤젠", "2": "아세트알데히드", "3": "에탄올", "4": "염화알릴"}, "answers": [4], "explanation": ""}, {"id": 39, "date": "20220424", "subject": 2, "subject_name": "반응운전", "question_no": 21, "question": "평형상태에 대한 설명 중 옳은 것은? (dGt)", "choices": {"1": "0", "2": "1", "3": "2", "4": "3"}, "answers": [3], "explanation": ""}, {"id": 43, "date": "20220424", "subject": 2, "subject_name": "반응운전", "question_no": 30, "question": "푸개시티(Fugacity)에 관한 설명으로 틀린 것은?", "choices": {"1": "0.111", "2": "0.222", "3": "0.333", "4": "0.444"}, "answers": [4], "explanation": ""}, {"id": 45, "date": "20220424", "subject": 2, "subject_name": "반응운전", "question_no": 35, "question": "반응물 A의 전화율(X A )과 온도(T)에 대한 데이터가 아래와 같을 때 이 반응에 대한 설명으로 옳은 것은? (단, 반응은 단열상태에서 진행되었으며, H 은 반응의 엔탈피를 의미한 R 다.)", "choices": {"1": "흡열반응, △H ＜ 0", "2": "발열반응, △H ＜ 0 R R", "3": "흡열반응, △H ＞ 0", "4": "발열반응, △H ＞ 0 R R"}, "answers": [3], "explanation": ""}, {"id": 47, "date": "20220424", "subject": 2, "subject_name": "반응운전", "question_no": 40, "question": "혼합흐름 반응기의 다중 정상상태에 대한 설명 중 틀린 것 은? (단, 반응은 1차 반응이며, R(T)와 G(T)는 각각 온도에 따른 제거된 열과 생성된 열을 의미한다.)", "choices": {"1": "R(T)의 그래프는 직선으로 나타낸다.", "2": "점화-소화곡선에서 도약이 일어나는 온도를 점화온도라 한다.", "3": "유입온도가 점화온도 이상일 경우 상부 정상상태에서 운 전이 가능하다.", "4": "아주 높은 온도에서는 공식을 로 축소해서 생성된 열을 구할 수 있다."}, "answers": [4], "explanation": ""}, {"id": 48, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 41, "question": "2개의 관을 연결할 때 사용되는 관 부속품이 아닌 것은?", "choices": {"1": "860", "2": "1120", "3": "1560", "4": "2027"}, "answers": [4], "explanation": ""}, {"id": 49, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 44, "question": "건조장치의 선정에서 고려할 사항 중 가장 중요한 사항은?", "choices": {"1": "습윤상태", "2": "화학포텐셜", "3": "엔탈피", "4": "반응속도 45. 분자량이 296.5인 어떤 유체 A의 20℃에서의 점도를 측정 하기 위해 Ostwald 점도계를 사용하여 측정한 결과가 아래 와 같을 때, A 유체의 점도(P)는?"}, "answers": [1], "explanation": ""}, {"id": 50, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 46, "question": "HETP에 대한 설명으로 가장 거리가 먼 것은?", "choices": {"1": "A-B", "2": "A-C", "3": "B-C", "4": "D-E"}, "answers": [2], "explanation": ""}, {"id": 51, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 48, "question": "확산에 의한 분리 조작이 아닌 것은?", "choices": {"1": "0.158", "2": "0.375", "3": "1.58", "4": "3.75"}, "answers": [4], "explanation": ""}, {"id": 52, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 50, "question": "증류에 대한 설명으로 가장 거리가 먼 것은? (단, q는 공급 원료 1몰을 원료 공급단에 넣었을 때 그 중 탈거부로 내려 가는 액체의 몰수이다.)", "choices": {"1": "최소환류비일 경우 이론단수는 무한대로 된다.", "2": "포종(bubble-cap)을 사용하면 기액접촉의 효과가 좋다.", "3": "McCabe-Thiele법에서 q값은 증기 원료일 때 0보다 크 다.", "4": "Ponchon-Savarit법은 엔탈피-농도 도표와 관계가 있다. 51. Methyl acetate가 아래의 반응식과 같이 고압촉매 반응에 의하여 합성될 때 이 반응의 표준 반응열(kcal/mol)은? (단,"}, "answers": [3], "explanation": ""}, {"id": 53, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 54, "question": "순환(recycle)과 우회(bypass)에 대한 설명 중 틀린 것은?", "choices": {"1": "순환은 공정을 거쳐 나온 흐름의 일부를 원료로 함께 공 정에 공급한다.", "2": "우회는 원료의 일부를 공정을 거치지 않고, 그 공정에서 나오는 흐름과 합류시킨다.", "3": "순환과 우회 조작은 연속적인 공정에서 행한다.", "4": "우회와 순환 조작에 의한 조성의 변화는 같다."}, "answers": [4], "explanation": ""}, {"id": 54, "date": "20220424", "subject": 3, "subject_name": "단위공정관리", "question_no": 55, "question": "일산화탄소 분자의 온도에 대한 열용량(C P )이 아래와 같을 때, 500℃와 1000℃ 사이의 평균열용량(cal/mol·℃)은?", "choices": {"1": "682", "2": "584", "3": "485", "4": "276 57. 그림과 같은 공정에서 물질수지도를 작성하려면 측정해야 할 최소한의 변수(자유도)는? (단, A, B, C는 성분을 나타내 고 F 흐름은 3성분계, W 흐름은 2성분계, P 흐름은 3성분 계이다.)"}, "answers": [2], "explanation": ""}, {"id": 55, "date": "20220424", "subject": 4, "subject_name": "화공계측제어", "question_no": 61, "question": "공정 에 대한 PI제어기를 Ziegler-Nichols법으로 튜닝한 것은?", "choices": {"1": "공정 A가 더 빠르게 정상상태에 도달한다.", "2": "공정 B가 더 진동이 심한 응답을 보인다.", "3": "공정 A가 더 진동이 심한 응답을 보인다.", "4": "공정 B가 더 큰 최종 응답 변화 값을 가진다. 63. 연속 입출력 흐름과 내부 가열기가 있는 저장조의 온도제어 방법 중 공정제어 개념이라고 볼 수 없는 것은?"}, "answers": [2], "explanation": ""}, {"id": 56, "date": "20220424", "subject": 4, "subject_name": "화공계측제어", "question_no": 64, "question": "다음과 같은 블록선도에서 Bode 시스템 안정도 판단에 사 용되는 개방회로 전달함수는?", "choices": {"1": "안정하다.", "2": "불안정하다.", "3": "초기는 불안정하다 점진적으로 안정해진다.", "4": "주어진 조건으로는 판단할 수 없다."}, "answers": [4], "explanation": ""}, {"id": 57, "date": "20220424", "subject": 4, "subject_name": "화공계측제어", "question_no": 69, "question": "운전자의 눈을 가린 후 도로에 대한 자세한 정보를 주고 운 전을 시킨다면 이는 어느 공정제어 기법이라고 볼 수 있는 가?", "choices": {"1": "앞먹임제어", "2": "비례제어", "3": "되먹임제어", "4": "분산제어"}, "answers": [1], "explanation": ""}, {"id": 59, "date": "20220424", "subject": 4, "subject_name": "화공계측제어", "question_no": 72, "question": "특성방정식에 대한 설명 중 틀린 것은?", "choices": {"1": "y(1) = 0.1, y(2) = 0.2, y(3) = 0.4", "2": "y(1) = 0.05, y(2) = 0.1, y(3) = 0.2", "3": "y(1) = 0.1, y(2) = 0.3, y(3) = 0.7", "4": "y(1) = 0.2, y(2) = 0.4, y(3) = 0.8 74. 일 때, 최종치 정리를 옳게 나타낸 것은?"}, "answers": [3], "explanation": ""}, {"id": 60, "date": "20220424", "subject": 4, "subject_name": "화공계측제어", "question_no": 75, "question": "다음 중 ATO(Air-To-Open) 제어밸브가 사용되어야 하는 경우는?", "choices": {"1": "냉각수, 10kW", "2": "냉각수, 30kW", "3": "수증기, 10kW", "4": "수증기, 30kW"}, "answers": [3], "explanation": ""}]
+[
+  {
+    "id": 1,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 1,
+    "question": "기하이성질체를 나타내는 고분자가 아닌 것은?",
+    "choices": {
+      "1": "폴리부타디엔",
+      "2": "폴리크로로프렌",
+      "3": "폴리이소프렌",
+      "4": "폴리비닐알코올"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 2,
+    "question": "양쪽성 물질에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "동일한 조건에서 여러 가지 축합반응을 일으키는 물질",
+      "2": "수계 및 유계에서 계면활성제로 작용하는 물질",
+      "3": "pKa 값이 7 이하인 물질",
+      "4": "반응조건에 따라 산으로도 작용하고 염기로도 작용하는 물질"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 4,
+    "question": "질산의 직접 합성 반응식이 아래와 같을 때 반응 후 응축하 여 생성된 질산 용액의 농도(wt%)는?",
+    "choices": {
+      "1": "68",
+      "2": "78",
+      "3": "88",
+      "4": "98"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 5,
+    "question": "가성소다 공업에서 전해액의 저항을 낮추기 위해서 수행하는 조작은?",
+    "choices": {
+      "1": "전해액 중의 기포가 증가되도록 한다.",
+      "2": "두 전극 간의 거리를 증가시킨다.",
+      "3": "전해액의 온도 및 NaCl의 농도를 높여준다.",
+      "4": "전해액의 온도를 저온으로 유지시켜 준다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 6,
+    "question": "합성염산의 원료기체를 제조하는 방법은?",
+    "choices": {
+      "1": "공기의 액화",
+      "2": "공기의 아크방전법",
+      "3": "소금물의 전해",
+      "4": "염화물의 치환법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 7,
+    "question": "옥탄가가 낮은 나프타를 고옥탄가의 가솔린으로 변화시키는 공정은?",
+    "choices": {
+      "1": "스위트닝 공정",
+      "2": "MTG 공정",
+      "3": "가스화 공정",
+      "4": "개질 공정"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 8,
+    "question": "칼륨 비료에 속하는 것은?",
+    "choices": {
+      "1": "유안",
+      "2": "요소",
+      "3": "볏집재",
+      "4": "초안"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 9,
+    "question": "아래의 구조를 갖는 물질의 명칭은?",
+    "choices": {
+      "1": "석탄산",
+      "2": "살리실산",
+      "3": "톨루엔",
+      "4": "피크르산"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 10,
+    "question": "환원반응에 의해 알코올(alcohol)을 생성하지 않는 것은?",
+    "choices": {
+      "1": "카르복시산",
+      "2": "나프탈렌",
+      "3": "알데히드",
+      "4": "케톤"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 11,
+    "question": "석유의 접촉분해 시 일어나는 반응으로 가장 거리가 먼 것 은?",
+    "choices": {
+      "1": "축합",
+      "2": "탈수소",
+      "3": "고리화",
+      "4": "이성질화"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 12,
+    "question": "나프타의 열분해 반응은 감압 하에 하는 것이 유리하나 실 제에는 수증기를 도입하여 탄화수소의 분압을 내리고 평형 을 유지하게 한다. 이러한 조건으로 하는 이유가 아닌 것 은?",
+    "choices": {
+      "1": "진공가스 펌프의 에너지 효율을 높인다.",
+      "2": "중합 등의 부반응을 억제한다.",
+      "3": "수성가스 반응에 의한 탄소석출을 방지한다.",
+      "4": "농축에 의해 생성물과의 분류가 용이하다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 13,
+    "question": "격막식 전해조에서 전해액은 양극에 도입되어 격막을 통해 음극으로 흐르고, 음극실의 OH- 이온이 역류한다. 이 때 격 막실 전해조 양극의 재료는?",
+    "choices": {
+      "1": "철망",
+      "2": "Ni",
+      "3": "Hg",
+      "4": "흑연"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 14,
+    "question": "천연고무와 가장 관계가 깊은 것은?",
+    "choices": {
+      "1": "Propane",
+      "2": "Ethylene",
+      "3": "Isoprene",
+      "4": "Isobutene"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 15,
+    "question": "아래와 같은 특성을 가지고 있는 연료전지는?",
+    "choices": {
+      "1": "인산형 연료전지(PAFC)",
+      "2": "용융탄산염 연료전지(MCFC)",
+      "3": "고체산화물형 연료전지(SOFC)",
+      "4": "알칼리연료전지(AFC)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 16,
+    "question": "HCl 가스를 합성할 때 H 가스를 이론량보다 과잉으로 넣어 2 반응시키는 이유로 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "폭발 방지",
+      "2": "반응열 조절",
+      "3": "장치부식 억제",
+      "4": "Cl 가스의 농축 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 18,
+    "question": "석회질소 비료 제조 시 반응되고 남은 카바이드는 수분과 반응하여 아세틸렌 가스를 생성한다. 1kg 석회질소 비료에 서 아세틸렌 가스가 200L 발생하였을 때, 비료 중 카바이드 의 함량(wt%)은? (단, Ca의 원자량은 40amu이고, 아세틸렌 가스의 부피 측정은 20℃, 760 mmHg에서 진행하였다.)",
+    "choices": {
+      "1": "53.2%",
+      "2": "63.5%",
+      "3": "78.8%",
+      "4": "83.9%"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 19,
+    "question": "p형 반도체를 제조하기 위해 실리콘에 소량 첨가하는 물질 은?",
+    "choices": {
+      "1": "인듐",
+      "2": "비소",
+      "3": "안티몬",
+      "4": "비스무스"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20220305",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 20,
+    "question": "syndiotactic polystyrene의 합성에 관여하는 촉매로 가장 적합한 것은?",
+    "choices": {
+      "1": "메탈로센 촉매",
+      "2": "메탈옥사이드 촉매",
+      "3": "린들러 촉매",
+      "4": "벤조일퍼록사이드"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 22,
+    "question": "수증기 1L를 1기압에서 5기압으로 등온압축했을 때 부피 감 소량(cm3)은? (단, 등온압축률은 4.53×10-5 atm-1 이다.)",
+    "choices": {
+      "1": "0.181",
+      "2": "0.225",
+      "3": "1.81",
+      "4": "2.25"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 23,
+    "question": "어떤 산 정상에서 질량(mass)이 600kg인 물체를 10m 높이 까지 들어 올리는데 필요한 일(kgf·m)은? (단, 지표면과 산 m/s2, m/s2 정상에서의 중력가속도는 각각 9.8 9.4 이다.)",
+    "choices": {
+      "1": "600",
+      "2": "1255",
+      "3": "3400",
+      "4": "5755"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 24,
+    "question": "C와 O , CO 의 임의의 양이 500℃ 근처에서 혼합된 2상계 2 2 의 자유도는?",
+    "choices": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 26,
+    "question": "열용량이 일정한 이상기체의 PV 도표에서 일정 엔트로피 곡 선과 일정 온도 곡선에 대한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "두 곡선 모두 양(positive)의 기울기를 갖는다.",
+      "2": "두 곡선 모두 음(negative)의 기울기를 갖는다.",
+      "3": "일정 엔트로피 곡선은 음의 기울기를, 일정 온도 곡선은 양의 기울기를 갖는다.",
+      "4": "일정 엔트로피 곡선은 양의 기울기를, 일정 온도 곡선은 음의 기울기를 갖는다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 28,
+    "question": "정상상태로 흐르는 유체가 노즐을 통과할 때의 일반적인 에 너지 수지식은? (단, H는 엔탈피, U는 내부에너지, KE는 운 동에너지, PE는 위치에너지, Q는 열, W는 일을 나타낸다.)",
+    "choices": {
+      "1": "△H = 0",
+      "2": "△H + △KE = 0",
+      "3": "△H + △PE = 0",
+      "4": "△U = Q - W"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 29,
+    "question": "여름철 실내 온도를 26℃ 로 유지하기 위해 열펌프의 실내 측 방열판의 온도를 5℃, 실외측 방열판의 온도를 18℃로 유지하여야 할 때, 이 열펌프의 성능계수는?",
+    "choices": {
+      "1": "21.40",
+      "2": "19.98",
+      "3": "15.56",
+      "4": "8.33"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 30,
+    "question": "가역과정(Reversible process)에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "연속적으로 일련의 평형상태들을 거친다.",
+      "2": "가역과정을 일으키는 계와 외부와의 포텐셜 차는 무한소 이다.",
+      "3": "폐쇄계에서 부피가 일정한 경우 내부에너지 변화는 온도 와 엔트로피변화의 곱이다.",
+      "4": "자연상태에서 일어나는 실제 과정이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 32,
+    "question": "자동촉매반응(autocatalytic reaction)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "전화율이 작을 때는 플러그흐름 반응기가 유리하다.",
+      "2": "전화율이 작을 때는 혼합흐름 반응기가 유리하다.",
+      "3": "전화율과 무관하게 혼합흐름 반응기가 항상 유리하다.",
+      "4": "전화율과 무관하게 플러그흐름 반응기가 항상 유리하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 33,
+    "question": "1차 직렬반응을 아래와 같이 단일반응으로 간주하려 할 때, 단일반응의 반응속도상수(k; s-1)는?",
+    "choices": {
+      "1": "11.00",
+      "2": "9.52",
+      "3": "0.11",
+      "4": "0.09"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 34,
+    "question": "반응물 A와 B가 R과 S로 반응하는 아래와 같은 경쟁반응이 혼합흐름 반응기(CSTR)에서 일어날 때, A의 전화율이 80% 일 때 생성물 흐름 중 S의 함량(mol%)은? (단, 반응기로 유 입되는 A와 B의 농도는 각각 20mol/L 이다.)",
+    "choices": {
+      "1": "33.3",
+      "2": "44.4",
+      "3": "55.5",
+      "4": "66.6"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 35,
+    "question": "크기가 다른 두 혼합흐름 반응기를 직렬로 연결한 반응계에 대하여, 정해진 유량과 온도 및 최종 전화율 조건하에서 두 반응기의 부피 합이 최소가 되는 경우에 대한 설명으로 옳 지 않은 것은? (단, n은 반응차수를 의미한다.)",
+    "choices": {
+      "1": "n = 1인 반응에서는 크기가 다른 반응기를 연결하는 것 이 이상적이다.",
+      "2": "n ＞ 1인 반응에서는 작은 반응기가 먼저 와야 한다.",
+      "3": "n ＜ 1인 반응에서는 큰 반응기가 먼저 와야 한다.",
+      "4": "두 반응기의 크기 비는 일반적으로 반응속도와 전화율에 따른다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 38,
+    "question": "2A + B → 2C인 기상반응에서 초기 혼합 반응물의 몰비가 아래와 같을 때, 반응이 완료되었을 때 A의 부피 변화율(ε ) A 은? (단, 반응이 진행되는 동안 압력은 일정하게 유지된다고 가정한다.)",
+    "choices": {
+      "1": "-0.200",
+      "2": "-0.300",
+      "3": "-0.167",
+      "4": "-0.150"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 39,
+    "question": "반응물 A의 농도를 C , 시간을 t라고 할 때, 0차 반응의 경 A 우 직선으로 나타나는 관계는?",
+    "choices": {
+      "1": "C vs t",
+      "2": "lnC vs t A A",
+      "3": "C -1 vs t",
+      "4": "(lnC )-1 vs t A A"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20220305",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 40,
+    "question": "공간속도(Space velocity)가 2.5s-1이고 원료 공급 속도가 1 초당 100L 일 때 반응기의 체적(L)은?",
+    "choices": {
+      "1": "10",
+      "2": "20",
+      "3": "30",
+      "4": "40"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 41,
+    "question": "같은 질량을 갖는 2개의 구가 공기중에서 낙하한다. 두 구 의 직경비(D /D )가 3일 때 입자 레이놀드수(N ＜ 1.0 1 2 Re, p 이라면 종단속도의 비(V /V )는? 1 2",
+    "choices": {
+      "1": "9",
+      "2": "9-1",
+      "3": "3",
+      "4": "3-1"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 43,
+    "question": "유량측정기구 중 부자 또는 부표(float)라고 하는 부품에 의 해 유량을 측정하는 기구는?",
+    "choices": {
+      "1": "로터미터(rotameter)",
+      "2": "벤투리미터(venturi meter)",
+      "3": "오리피스미터(orifice meter)",
+      "4": "초음파유량계(ultrasonic meter)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 44,
+    "question": "충전 흡수탑에서 플러딩(flooding)이 일어나지 않게 하기 위 한 조건은?",
+    "choices": {
+      "1": "탑의 높이를 높게 한다.",
+      "2": "탑의 높이를 낮게 한다.",
+      "3": "탑의 직경를 크게 한다.",
+      "4": "탑의 직경를 작게 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 45,
+    "question": "분쇄에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "최종입자가 중요하다.",
+      "2": "최초의 입자는 무관하다.",
+      "3": "파쇄물질의 종류도 분쇄동력의 계산에 관계된다.",
+      "4": "파쇄기 소요일량은 분쇄되어 생성되는 표면적에 비례한 다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 46,
+    "question": "건조장치 선정에서 가장 중요한 사항은?",
+    "choices": {
+      "1": "습윤상태",
+      "2": "화학포텐셜",
+      "3": "선택도",
+      "4": "반응속도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 47,
+    "question": "정류탑에서 50mol%의 벤젠-톨루엔 혼합액을 비등 액체 상 태로 1000kg/h 의 속도로 공급한다. 탑상의 유출액은 벤젠 99mol% 순도이고 탑저 제품은 톨루엔 98mol%을 얻고자 한다. 벤젠의 액조성이 0.5일 때 평형증기의 조성은 0.72이 다. 실제 환류비는? (단, 실제 환류비는 최소 환류비의 3배 이다.)",
+    "choices": {
+      "1": "0.82",
+      "2": "1.23",
+      "3": "2.73",
+      "4": "3.68"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 48,
+    "question": "열전도도가 0.15 kcal/m·h·℃인 100mm 두께의 평면벽 양 1m2 쪽 표면 온도차가 100℃ 일 때, 이 벽의 당 전열량 (kcal/h)은?",
+    "choices": {
+      "1": "15",
+      "2": "67",
+      "3": "150",
+      "4": "670"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 49,
+    "question": "무차원 항이 밀도와 관계없는 것은?",
+    "choices": {
+      "1": "그라스호프(Grashof) 수",
+      "2": "레이놀즈(Reynolds) 수",
+      "3": "슈미트(Schmidt) 수",
+      "4": "너셀(Nusselt) 수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 50,
+    "question": "낮은 온도에서 증발이 가능해서 증기의 경제적 이용이 가능 하고 과즙, 젤라틴 등과 같이 열에 민감한 물질을 처리하는 데 주로 사용되는 것은?",
+    "choices": {
+      "1": "다중효용 증발",
+      "2": "고압 증발",
+      "3": "진공 증발",
+      "4": "압축 증발"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 52,
+    "question": "101kPa에서 물 1mol을 80℃에서 120℃까지 가열할 때 엔 탈피 변화(kJ)는? (단, 물의 비열은 75.0 J/mol·K, 물의 기 화열은 47.3 kJ/mol, 수증기의 비열은 35.4 J/mol·K 이다.)",
+    "choices": {
+      "1": "40.1",
+      "2": "46.0",
+      "3": "49.5",
+      "4": "52.1"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 53,
+    "question": "Hess의 법칙과 가장 관련이 있는 함수는?",
+    "choices": {
+      "1": "비열",
+      "2": "열용량",
+      "3": "엔트로피",
+      "4": "반응열"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 54,
+    "question": "1 atm에서 포름알데히드 증기의 내부에너지(U; J/mol)가 아 래와 같이 온도(t; ℃)의 함수로 표시될 때, 0℃에서 정용열 용량(J/mol·℃)은?",
+    "choices": {
+      "1": "13.38",
+      "2": "17.64",
+      "3": "21.42",
+      "4": "25.96"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 55,
+    "question": "터빈을 운전하기 위해 2kg/s 의 증기가 5atm, 300℃에서 50m/s 로 터빈에 들어가고 300m/s 속도로 대기에 방출된 다. 이 과정에서 터빈은 400kW 의 축일로 하고 100kJ/s의 열을 방출하였다고 할 때, 엔탈피 변화(kW)는?",
+    "choices": {
+      "1": "212.5",
+      "2": "-387.5",
+      "3": "412.5",
+      "4": "-587.5"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 56,
+    "question": "압력이 1atm인 화학변화계의 체적이 2L 증가하였을 때 한 일(J)은?",
+    "choices": {
+      "1": "202.65",
+      "2": "2026.5",
+      "3": "20265",
+      "4": "202650"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 58,
+    "question": "가스분석기를 사용하여 사염화탄소를 분석하고자 하는데 한 쪽에서는 순수 질소가 유입되고 다른 쪽에서는 가스 1L당 280mg의 CCl 를 함유하는 질소가 0.2L/min 의 유속으로 4 혼합기에 유입되어 혼합된다. 혼합가스가 대기압 하에서 10L/min 의 유량으로 가스분석기에 보내질 때 온도가 24℃ 로 일정하다면 혼합기 내 혼합가스의 CCl 농도(mg/L)는? 4 (단, 혼합기의 게이지압은 8cmH O 이다.) 2",
+    "choices": {
+      "1": "3.74",
+      "2": "5.64",
+      "3": "7.28",
+      "4": "9.14"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 59,
+    "question": "주어진 계에서 기체 분자들이 반응하여 새로운 분자가 생성 되었을 때 원자백분율 조성에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "그 계의 압력 변화에 따라 변화한다.",
+      "2": "그 계의 온도 변화에 따라 변화한다.",
+      "3": "그 계내에서 화학 반응이 일어날 때 변화한다.",
+      "4": "그 계내에서 화학 반응에 관계없이 일정하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20220305",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 60,
+    "question": "수분이 60wt%인 어묵을 500kg/h의 속도로 건조하여 수분 을 20wt%로 만들 때 수분의 증발속도(kg/h)는?",
+    "choices": {
+      "1": "200",
+      "2": "220",
+      "3": "240",
+      "4": "250"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 61,
+    "question": "비례-적분-미분(PID) 제어기가 제어하고 있는 제어시스템에 서 정상상태에서의 제어기 출력순 변화가 2라 할 때 정상상 태에서의 제어기의 비례 P = k (y - y), 적분 c s , 미분 항 각각의 크기는?",
+    "choices": {
+      "1": "P : 0, I : 0, D : 0",
+      "2": "P : 0, I : 2, D : 0",
+      "3": "P : 2, I : 0, D : 0",
+      "4": "P : 0, I : 0, D : 2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 62,
+    "question": "서보(servo)제어에 대한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "설정점의 변화와 조작변수와의 동작관계이다.",
+      "2": "부하와 조작변수와의 동작관계이다.",
+      "3": "부하와 설정점의 동시변화에 대한 조작변수와의 동작관 계이다.",
+      "4": "설정점의 변화와 부하와의 동작관계이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 63,
+    "question": "특성방정식이 으로 표현되는 선형 제어계에 대하여 Routh-Hurwitz의 안정 판정에 의한 K 의 c 범위는?",
+    "choices": {
+      "1": "K ＜ -1",
+      "2": "K ＞ -1 c c",
+      "3": "K ＞ -2",
+      "4": "K ＜ -2 c c"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 66,
+    "question": "다음 중 2차계에서 overshoot를 가장 크게 하는 제동비 (damping factor; ζ)는?",
+    "choices": {
+      "1": "0.1",
+      "2": "0.5",
+      "3": "1",
+      "4": "10"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 67,
+    "question": "개방회로 전달함수가 인 제어계에서 이득여유 (gain margin)가 2.0이 되는 K 는? c",
+    "choices": {
+      "1": "2",
+      "2": "4",
+      "3": "6",
+      "4": "8"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 71,
+    "question": "어떤 공정의 열교환망 설계를 위한 핀치 방법이 아래와 같 을 때, 틀린 설명은?",
+    "choices": {
+      "1": "최소 열교환 온도차는 10℃ 이다.",
+      "2": "핀치의 상부의 흐름은 5개이다.",
+      "3": "핀치의 온도는 고온 흐름 기준 140℃ 이다.",
+      "4": "유틸리티로 냉각수와 수증기를 모두 사용한다고 할 때 핀치 방법으로 필요한 최소 열교환 장치는 7개이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 73,
+    "question": "제어계의 구성요소 중 제어오차(에러)를 계산하는 부분은?",
+    "choices": {
+      "1": "센서",
+      "2": "공정",
+      "3": "최종제어요소",
+      "4": "피드백 제어기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 75,
+    "question": "4~20mA를 출력으로 내어주는 온도 변환기의 측정폭을 0℃ 에서 100℃ 범위로 설정하였을 때 25℃에서 발생한 표준 전류신호(mA)는?",
+    "choices": {
+      "1": "4",
+      "2": "8",
+      "3": "12",
+      "4": "16"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20220305",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 80,
+    "question": "공장에서 배출되는 이산화탄소를 아민류로 포집하는 시설을 공정설계 시뮬레이터를 사용하여 모사한다고 할 때 적합한 열역학적 물성 모델은?",
+    "choices": {
+      "1": "UNIFAC",
+      "2": "Ion - NRTL",
+      "3": "Peng-Robinson",
+      "4": "Ieal gas law"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 1,
+    "question": "중과린산석회의 제법으로 가장 옳은 설명은?",
+    "choices": {
+      "1": "인산을 암모니아로 처리한다.",
+      "2": "과린산석회를 암모니아로 처리한다.",
+      "3": "칠레 초석을 황산으로 처리한다.",
+      "4": "인광석을 인산으로 처리한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 2,
+    "question": "공업적인 HCl 제조방법에 해당하는 것은?",
+    "choices": {
+      "1": "부생염산법",
+      "2": "Petersen Tower법",
+      "3": "OPL법",
+      "4": "Meyer법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 3,
+    "question": "석회질소 비료에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "토양의 살균효과가 있다.",
+      "2": "과린산석회, 암모늄염 등과의 배합비료로 적당하다.",
+      "3": "저장 중 이산화탄소, 물을 흡수하여 부피가 증가한다.",
+      "4": "분해 시 생성되는 디시안디아미드는 식물에 유해하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 4,
+    "question": "석유정제에 사용되는 용제가 갖추어야 하는 조건이 아닌 것 은?",
+    "choices": {
+      "1": "선택성이 높아야 한다.",
+      "2": "추출할 성분에 대한 용해도가 높아야 한다.",
+      "3": "용제의 비점과 추출성분의 비점의 차이가 적어야 한다.",
+      "4": "독성이나 장치에 대한 부식성이 적어야 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 5,
+    "question": "말레산 무수물을 벤젠의 공기산화법으로 제조하고자 할 때 사용되는 촉매는?",
+    "choices": {
+      "1": "V O",
+      "2": "PdCl 2 5 2",
+      "3": "LiH PO",
+      "4": "Si-Al O 담체로 한 Nickel 2 4 2 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 6,
+    "question": "전류효율이 90%인 전해조에서 소금물을 전기분해하면 수산 화나트륨과 염소, 수소가 만들어진다. 매일 17.75ton 의 염소 가 부산물로 나온다면 수산화나트륨의 생산량(ton/day)은?",
+    "choices": {
+      "1": "16",
+      "2": "18",
+      "3": "20",
+      "4": "22"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 7,
+    "question": "초산과 에탄올을 산 촉매 하에서 반응시켜 에스테르와 물을 생성할 때, 물 분자의 산소원자의 출처는?",
+    "choices": {
+      "1": "초산의 C=O",
+      "2": "초산의 OH",
+      "3": "에탄올의 OH",
+      "4": "촉매에서 산소 도입"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 8,
+    "question": "암모니아 산화에 의한 질산제조 공정에서 사용되는 촉매에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "촉매로는 Pt에 Rh이나 Pd를 첨가하여 만든 백금계 촉매 가 일반적으로 사용된다.",
+      "2": "촉매는 단위 중량에 대한 표면적이 큰 것이 유리하다.",
+      "3": "촉매형상은 직경 0.2cm 이상의 선으로 망을 떠서 사용한 다.",
+      "4": "Rh은 가격이 비싸지만 강도, 촉매활성, 촉매손실을 개선 하는데 효과가 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 9,
+    "question": "다음 중 옥탄가가 가장 낮은 가솔린은?",
+    "choices": {
+      "1": "접촉개질 가솔린",
+      "2": "알킬화 가솔린",
+      "3": "접촉분해 가솔린",
+      "4": "직류 가솔린"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 10,
+    "question": "열가소성 플라스틱에 해당하는 것은?",
+    "choices": {
+      "1": "ABS수지",
+      "2": "규소수지",
+      "3": "에폭시수지",
+      "4": "알키드수지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 11,
+    "question": "황산제조에 사용되는 원료가 아닌 것은?",
+    "choices": {
+      "1": "황화철광",
+      "2": "자류철광",
+      "3": "염화암모늄",
+      "4": "금속제련 폐가스"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 12,
+    "question": "650℃에서 작동하며 수소 또는 일산화탄소를 음극연료로 사 용하는 연료전지는?",
+    "choices": {
+      "1": "인산형 연료전지(PAFC)",
+      "2": "알칼리형 연료전지(AFC)",
+      "3": "고체산화물 연료전지(SOFC)",
+      "4": "용융탄산염 연료전지(MCFC)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 13,
+    "question": "반도체 제조과정 중에서 식각공정 후 행해지는 세정공정에 사용되는 piranha 용액의 주원료에 해당하는 것은?",
+    "choices": {
+      "1": "질산, 암모니아",
+      "2": "불산, 염화나트륨",
+      "3": "에탄올, 벤젠",
+      "4": "황산, 과산화수소"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 14,
+    "question": "폐수 내에 녹아있는 중금속 이온을 제거하는 방법이 아닌 것은?",
+    "choices": {
+      "1": "열분해",
+      "2": "이온교환수지를 이용하여 제거",
+      "3": "pH를 조절하여 수산화물 형태로 침전제거",
+      "4": "전기화학적 방법을 이용한 전해 회수"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 15,
+    "question": "LeBlanc법으로 100% HCl 3000kg을 제조하기 위한 85% 소금의 이론량(kg)은? (단, 각 원자의 원자량은 Na는 23 amu, Cl은 35.5 amu 이다.)",
+    "choices": {
+      "1": "3636",
+      "2": "4646",
+      "3": "5657",
+      "4": "6667"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 16,
+    "question": "레페(Reppe) 합성반응을 크게 4가지로 분류할 때 해당하지 않는 것은?",
+    "choices": {
+      "1": "알킬화 반응",
+      "2": "비닐화 반응",
+      "3": "고리화 반응",
+      "4": "카르보닐화 반응"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 17,
+    "question": "환경친화적인 생분해성 고분자로 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "전분",
+      "2": "폴릴이소프렌",
+      "3": "폴리카프로락톤",
+      "4": "지방족폴리에스테르"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 18,
+    "question": "염화수소 가스 42.3kg을 물 83kg에 흡수시켜 염산을 제조 할 때 염산의 농도(wt%)는? (단, 염화수소 가스는 전량 물 에 흡수된 것으로 한다.)",
+    "choices": {
+      "1": "13.76",
+      "2": "23.76",
+      "3": "33.76",
+      "4": "43.76"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20220424",
+    "subject": 1,
+    "subject_name": "공업합성",
+    "question_no": 19,
+    "question": "일반적인 공정에서 에텔렌으로부터 얻는 제품이 아닌 것은?",
+    "choices": {
+      "1": "에틸벤젠",
+      "2": "아세트알데히드",
+      "3": "에탄올",
+      "4": "염화알릴"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 21,
+    "question": "평형상태에 대한 설명 중 옳은 것은? (dGt)",
+    "choices": {
+      "1": "T.P = 1 이 성립한다. (dGt)",
+      "2": "T.P ＞ 0 가 성립한다. (dGt)",
+      "3": "T.P = 0 이 성립한다. (dGt)",
+      "4": "T.P ＜ 0 가 성립한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 22,
+    "question": "질소가 200atm, 250K로 채워져 있는 10L 기체저장탱크에 5L 진공용기를 두 탱크의 압력이 같아질 때까지 연결하였을 때, 기체저장탱크(T )와 진공용기(T )의 온도(K)는? (단, 질 1f 2f 소는 이상기체이고, 탱크 밖으로 질소 또는 열의 손실을 완 전히 무시할 수 있다고 가정하며, 질소의 정압열용량은 7 cal/mol·K 이다.)",
+    "choices": {
+      "1": "T = 222.8, T = 330.6 1f 2f",
+      "2": "T = 222.8, T = 133.3 1f 2f",
+      "3": "T = 133.3, T = 330.6 1f 2f",
+      "4": "T = 133.3, T = 222.8 1f 2f"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 23,
+    "question": "3개의 기체 화학종(N , H , NH )으로 구성된 계에서 아래의 2 2 3 화학반응이 일어날 때 반응계의 자유도는?",
+    "choices": {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 27,
+    "question": "열역학적 성질에 대한 설명 중 옳지 않은 것은?",
+    "choices": {
+      "1": "순수한 물질의 임계점보다 높은 온도와 압력에서는 상의 계면이 없어지며 한 개의 상을 이루게 된다.",
+      "2": "동일한 이심인자를 갖는 모든 유체는 같은 온도, 같은 압력에서 거의 동일한 Z값을 가진다.",
+      "3": "비리얼(Virial) 상태방정식의 순수한 물질에 대한 비리얼 계수는 온도만의 함수이다.",
+      "4": "반데르 발스(Van der Waals) 상태방정식은 기/액 평형상 태에서 3개의 부피 해를 가진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 28,
+    "question": "아세톤의 부피팽창계수(β)는 1.487×10-3 ℃-1, 등온압축계수 62×10-6 atm-1 (κ)는 일 때, 아세톤을 정적하에서 20℃, 1atm부터 30℃까지 가열하였을 때 압력(atm)은? (단, β와 κ의 값은 항상 일정하다고 가정한다.)",
+    "choices": {
+      "1": "12.1",
+      "2": "24.1",
+      "3": "121",
+      "4": "241"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 30,
+    "question": "푸개시티(Fugacity)에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "일종의 세기(intensive properties) 성질이다.",
+      "2": "이상기체 압력에 대응하는 실제기체의 상태량이다.",
+      "3": "순수기체의 경우 이상기체 압력에 퓨개시티 계수를 곱하 면 퓨개시티가 된다.",
+      "4": "퓨개시티는 압력만의 함수이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 31,
+    "question": "반응물 A가 아래와 같이 반응하고, 이 반응이 회분식 반응 기에서 진행될 때, R 물질의 최대 농도(mol/L)는? (단, 반응 기에 A 물질만 1.0 mol/L로 공급하였다.)",
+    "choices": {
+      "1": "0.111",
+      "2": "0.222",
+      "3": "0.333",
+      "4": "0.444"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 33,
+    "question": "A → R → S인 균일계 액상반응에서 1단계는 2차 반응, 2 단계는 1차 반응으로 진행된다. 이 반응의 목적 생성물이 R 일 때, 다음 설명 중 옳은 것은?",
+    "choices": {
+      "1": "A의 농도를 높게 유지할수록 좋다.",
+      "2": "반응온도를 높게 유지할수록 좋다.",
+      "3": "A의 농도는 R의 수율과 직접 관계가 없다.",
+      "4": "혼합흐름 반응기가 플러그흐름 반응기보다 더 좋다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 35,
+    "question": "반응물 A의 전화율(X A )과 온도(T)에 대한 데이터가 아래와 같을 때 이 반응에 대한 설명으로 옳은 것은? (단, 반응은 단열상태에서 진행되었으며, H 은 반응의 엔탈피를 의미한 R 다.)",
+    "choices": {
+      "1": "흡열반응, △H ＜ 0",
+      "2": "발열반응, △H ＜ 0 R R",
+      "3": "흡열반응, △H ＞ 0",
+      "4": "발열반응, △H ＞ 0 R R"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 36,
+    "question": "다음 비가역 기초반응에 의하여 연간 2억 kg 에틸렌을 생산 하는데 필요한 플러그흐름 반응기의 부피(m3)는? (단, 공장 은 24시간 가동하며, 압력은 8 atm, 온도는 1200K로 등온 이며 압력강하는 무시하고, 전화율 90%로 반응한다.)",
+    "choices": {
+      "1": "2.84",
+      "2": "28.4",
+      "3": "42.8",
+      "4": "82.2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 39,
+    "question": "A와 B의 병렬반응에서 목적생성물의 선택도를 향상시킬 수 있는 조건이 아닌 것은? (단, 반응은 등온에서 일어나며, 각 반응의 활성화에너지는 E ＜ E 이다.) 1 2",
+    "choices": {
+      "1": "높은 압력",
+      "2": "높은 온도",
+      "3": "관형반응기",
+      "4": "반응물의 고농도"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20220424",
+    "subject": 2,
+    "subject_name": "반응운전",
+    "question_no": 40,
+    "question": "혼합흐름 반응기의 다중 정상상태에 대한 설명 중 틀린 것 은? (단, 반응은 1차 반응이며, R(T)와 G(T)는 각각 온도에 따른 제거된 열과 생성된 열을 의미한다.)",
+    "choices": {
+      "1": "R(T)의 그래프는 직선으로 나타낸다.",
+      "2": "점화-소화곡선에서 도약이 일어나는 온도를 점화온도라 한다.",
+      "3": "유입온도가 점화온도 이상일 경우 상부 정상상태에서 운 전이 가능하다.",
+      "4": "아주 높은 온도에서는 공식을 로 축소해서 생성된 열을 구할 수 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 41,
+    "question": "2개의 관을 연결할 때 사용되는 관 부속품이 아닌 것은?",
+    "choices": {
+      "1": "유니온(union)",
+      "2": "니플(nipple)",
+      "3": "소켓(socket)",
+      "4": "플러그(plug)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 42,
+    "question": "절대습도가 0.02인 공기를 매분 50kg씩 건조기에 불어 넣 어 젖은 목재를 건조시키려 한다. 건조기를 나오는 공기의 절대습도가 0.05일 때 목재에서 60kg의 수분을 제거하기 위한 건조시간(min)은?",
+    "choices": {
+      "1": "20.0",
+      "2": "20.4",
+      "3": "40.0",
+      "4": "40.8"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 43,
+    "question": "8% NaOH 용액을 18%로 농축하기 위해서 21℃ 원액을 내 부압이 417 mmHg인 증발기로 4540kg/h 질량 유속으로 보 낼 때, 증발기의 총괄열전달계수(kcal/m2·h·℃)는? (단, 증발 기의 유효 전열 면적은 37.2m2, 8% NaOH 용액의 417 mmHg에서 비점은 88℃, 88℃에서의 물의 증발잠열은 547 kcal/kg, 가열증기온도는 110℃이며, 액체의 비열은 0.92 kcal/kg·℃로 일정하다고 가정하고, 비점상승은 무시한다.)",
+    "choices": {
+      "1": "860",
+      "2": "1120",
+      "3": "1560",
+      "4": "2027"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 44,
+    "question": "건조장치의 선정에서 고려할 사항 중 가장 중요한 사항은?",
+    "choices": {
+      "1": "습윤상태",
+      "2": "화학포텐셜",
+      "3": "엔탈피",
+      "4": "반응속도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 46,
+    "question": "HETP에 대한 설명으로 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "Height Equivalent to a Theoretical Plate를 말한다.",
+      "2": "HETP의 값이 1m보다 클 때 단의 효율이 좋다.",
+      "3": "(충전탑의 높이 : Z)/(이론 단위수 : N)이다.",
+      "4": "탑의 한 이상단과 똑같은 작용을 하는 충전탑의 높이이 다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 48,
+    "question": "확산에 의한 분리 조작이 아닌 것은?",
+    "choices": {
+      "1": "증류",
+      "2": "추출",
+      "3": "건조",
+      "4": "여과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 49,
+    "question": "레이놀즈수가 300인 유체가 흐르고 있는 내경이 2.5cm 관 에 마노메타를 설치하고자 할 때, 관 입구로부터 마노메타 까지의 최소 적정거리(m)는?",
+    "choices": {
+      "1": "0.158",
+      "2": "0.375",
+      "3": "1.58",
+      "4": "3.75"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 50,
+    "question": "증류에 대한 설명으로 가장 거리가 먼 것은? (단, q는 공급 원료 1몰을 원료 공급단에 넣었을 때 그 중 탈거부로 내려 가는 액체의 몰수이다.)",
+    "choices": {
+      "1": "최소환류비일 경우 이론단수는 무한대로 된다.",
+      "2": "포종(bubble-cap)을 사용하면 기액접촉의 효과가 좋다.",
+      "3": "McCabe-Thiele법에서 q값은 증기 원료일 때 0보다 크 다.",
+      "4": "Ponchon-Savarit법은 엔탈피-농도 도표와 관계가 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 52,
+    "question": "기체 A 30vol%와 기체 B 70vol% 기체 혼합물에서 기체 B 의 일부가 흡수탑에서 산에 흡수되어 제거된다. 이 흡수탑 을 나가는 기체 혼합물 조성에서 기체 A가 80vol%이고 흡 수탑을 들어가는 혼합기체가 100mol/h 라 할 때, 기체 B의 흡수량(mol/h)은?",
+    "choices": {
+      "1": "52.5",
+      "2": "62.5",
+      "3": "72.5",
+      "4": "82.5"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 54,
+    "question": "순환(recycle)과 우회(bypass)에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "순환은 공정을 거쳐 나온 흐름의 일부를 원료로 함께 공 정에 공급한다.",
+      "2": "우회는 원료의 일부를 공정을 거치지 않고, 그 공정에서 나오는 흐름과 합류시킨다.",
+      "3": "순환과 우회 조작은 연속적인 공정에서 행한다.",
+      "4": "우회와 순환 조작에 의한 조성의 변화는 같다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 55,
+    "question": "일산화탄소 분자의 온도에 대한 열용량(C P )이 아래와 같을 때, 500℃와 1000℃ 사이의 평균열용량(cal/mol·℃)은?",
+    "choices": {
+      "1": "0.7518",
+      "2": "7.518",
+      "3": "37.59",
+      "4": "375.9"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 56,
+    "question": "60℃에서 NaHCO 포화수용액 10000kg을 20℃로 냉각할 3 때 석출되는 NaHCO 의 양(kg)은? (단, NaHCO 의 용해도는 3 3 60℃에서 16.4g NaHCO /100gH O 이고, 20℃에서 9.6g 3 2 NaHCO /100gH O 이다.) 3 2",
+    "choices": {
+      "1": "682",
+      "2": "584",
+      "3": "485",
+      "4": "276"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 58,
+    "question": "질소와 산소의 반응과 반응열이 아래와 같을 때, NO 1mol 의 분해열(kcal)은?",
+    "choices": {
+      "1": "-21.5",
+      "2": "-43",
+      "3": "+43",
+      "4": "+21.5"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20220424",
+    "subject": 3,
+    "subject_name": "단위공정관리",
+    "question_no": 60,
+    "question": "지하 220m 깊이에서부터 지하수를 양수하여 20m 높이에 가설된 물탱크에 15kg/s의 양으로 물을 올릴 때, 위치 에니 지의 증가량(J/s)은?",
+    "choices": {
+      "1": "35280",
+      "2": "3600",
+      "3": "3250",
+      "4": "205"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 61,
+    "question": "공정 에 대한 PI제어기를 Ziegler-Nichols법으로 튜닝한 것은?",
+    "choices": {
+      "1": "K c = 0.5, τ I = 2.8",
+      "2": "K c = 1.8, τ I = 5.2",
+      "3": "K c = 2.5, τ I = 6.8",
+      "4": "K c = 2.5, τ I = 2.8"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 62,
+    "question": "로 표현되는 공정 A와 로 표현되는 공정 B에 같은 크기의 계단입력이 가해졌을 때 다음 설명 중 옳은 것은?",
+    "choices": {
+      "1": "공정 A가 더 빠르게 정상상태에 도달한다.",
+      "2": "공정 B가 더 진동이 심한 응답을 보인다.",
+      "3": "공정 A가 더 진동이 심한 응답을 보인다.",
+      "4": "공정 B가 더 큰 최종 응답 변화 값을 가진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 64,
+    "question": "다음과 같은 블록선도에서 Bode 시스템 안정도 판단에 사 용되는 개방회로 전달함수는?",
+    "choices": {
+      "1": "C/R",
+      "2": "C/U",
+      "3": "G G U",
+      "4": "G G G H 1 2 C 1 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 65,
+    "question": "Smith predictor는 어떠한 공정문제를 보상하기 위하여 사용 되는가?",
+    "choices": {
+      "1": "역응답",
+      "2": "공정의 비선형",
+      "3": "지연시간",
+      "4": "공정의 상호간섭"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 66,
+    "question": "동일한 2개의 1차계가 상호작용 없이(non interacting) 직렬 연결 되어 있는 계는 다음 중 어느 경우의 2차계와 같아지 는가? (단, ξ는 감쇠계수(damping coefficient) 이다.)",
+    "choices": {
+      "1": "ξ ＞ 1",
+      "2": "ξ = 1",
+      "3": "ξ ＜ 1",
+      "4": "ξ = ∞"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 67,
+    "question": "특성방정식의 근 중 하나가 복소평면의 우측반평면에 존재 하면 이 계의 안정성은?",
+    "choices": {
+      "1": "안정하다.",
+      "2": "불안정하다.",
+      "3": "초기는 불안정하다 점진적으로 안정해진다.",
+      "4": "주어진 조건으로는 판단할 수 없다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 69,
+    "question": "운전자의 눈을 가린 후 도로에 대한 자세한 정보를 주고 운 전을 시킨다면 이는 어느 공정제어 기법이라고 볼 수 있는 가?",
+    "choices": {
+      "1": "앞먹임제어",
+      "2": "비례제어",
+      "3": "되먹임제어",
+      "4": "분산제어"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 70,
+    "question": "동적계(Dynamic System)를 전달함수로 표현하는 경우를 옳 게 설명한 것은?",
+    "choices": {
+      "1": "선형계의 동특성을 전달함수로 표현할 수 없다.",
+      "2": "비선형계를 선형화하고 전달함수로 표현하면 비선형 동 특성을 근사할 수 있다.",
+      "3": "비선형계를 선형화하고 전달함수로 표현하면 비선형 동 특성을 정확히 표현할 수 있다.",
+      "4": "비선형계의 동특성을 선형화하지 않아도 전달함수로 표 현할 수 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 72,
+    "question": "특성방정식에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "주어진 계의 특성방정식의 근이 모두 복소평면의 왼쪽 반평면에 놓이면 계는 안정하다.",
+      "2": "Routh test에서 주어진 계의 특성방정식이 Routh array 의 처음 열의 모든 요소가 0 이 아닌 양의 값이면 주어 진 계는 안정하다.",
+      "3": "주어진 계의 특성방정식이 S4 + 3S3 - 4S2 + 7 = 0 일 때 이 계는 안정하다.",
+      "4": "특성방정식이 S3 + 2S2 + 2S + 40 = 0 인 계에는 양의 실수부를 가지는 2개의 근이 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 73,
+    "question": "초기상태 공정입출력이 0이고 정상상태일 때, 어떤 선형 공 정에 계단 입력 u(t) = 1을 입력했더니, 출력 y(t)는 각각 y(1) = 0.1, y(2) = 0.2, y(3) = 0.4 이었다. 입력 u(t) = 0.5 를 입력할 때 각각의 출력은?",
+    "choices": {
+      "1": "y(1) = 0.1, y(2) = 0.2, y(3) = 0.4",
+      "2": "y(1) = 0.05, y(2) = 0.1, y(3) = 0.2",
+      "3": "y(1) = 0.1, y(2) = 0.3, y(3) = 0.7",
+      "4": "y(1) = 0.2, y(2) = 0.4, y(3) = 0.8"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 75,
+    "question": "다음 중 ATO(Air-To-Open) 제어밸브가 사용되어야 하는 경우는?",
+    "choices": {
+      "1": "저장 탱크 내 위험물질의 증발을 방지하기 위해 설치된 열교환기의 냉각수 유량 제어용 제어밸브",
+      "2": "저장 탱크 내 물질의 응고를 방지하기 위해 설치된 열교 환기의 온수 유량 제어용 제어밸브",
+      "3": "반응기에 발열을 일으키는 반응 원료의 유량 제어용 제 어밸브",
+      "4": "부반응 방지를 위하여 고온 공정 유체를 신속히 냉각시 켜야 하는 열교환기의 냉각수 유량 제어용 제어밸브 σAT4"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 76,
+    "question": "복사에 의한 열전달 식은 q = 으로 표현된다. 정상상 태에서 T = T 일 때 이 식을 선형화하면? (단, σ와 A는 상 s 수이다.)",
+    "choices": {
+      "1": "σA(T – T )",
+      "2": "σAT 4(T – T ) s s s",
+      "3": "3σAT 3(T – T )2",
+      "4": "4σAT 3(T – 0.75T ) s s s s"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 77,
+    "question": "비례제어기를 사용하는 어떤 제어계의 폐루프 전달함수는 이다. 이 계의 설정치 X에 단위 계단 변화를 주었을 때 offset 은?",
+    "choices": {
+      "1": "0.4",
+      "2": "0.5",
+      "3": "0.6",
+      "4": "0.8"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 78,
+    "question": "나뉘어 운영되고 있던 두 공정을 한 구역으로 통합하여 운 영할 때의 경제성을 평가하고자 한다. △T = 20℃로 하여 min 최대 열교환을 하고, 추가로 필요한 열량은 수증기나 냉각 수로 공급한다고 할 때, 필요한 유틸리티와 그 에너지량은? (단, 필요에 따라 Stream은 spilt 할 수 있으며, T 와 T는 s t 해당 STream의 유입온도와 유출온도를 의미한다.)",
+    "choices": {
+      "1": "냉각수, 10kW",
+      "2": "냉각수, 30kW",
+      "3": "수증기, 10kW",
+      "4": "수증기, 30kW"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20220424",
+    "subject": 4,
+    "subject_name": "화공계측제어",
+    "question_no": 79,
+    "question": "공정유체 10m3를 담고 있는 완전혼합이 일어나는 탱크에 성분 A를 포함한 공정유체가 1m3/h로 유입되며 또한 동일 한 유량으로 배출되고 있다. 공정유체와 함께 유입되는 성 분 A의 농도가 1시간을 주기로 평균치를 중심으로 진폭 0.3mol/L로 진동하며 변한다고 할 때 배출되는 A의 농도변 화 진폭(mol/L)은?",
+    "choices": {
+      "1": "0.5",
+      "2": "0.05",
+      "3": "0.005",
+      "4": "0.0005"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  }
+]

@@ -1,1 +1,6140 @@
-[{"id": 1, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 1, "question": "선수선저 형상을 구상선수로 하는 주된 이유는?", "choices": {"1": "조정성능 증대", "2": "선수부 강도 증대", "3": "조파저항 성능 개선", "4": "점성저항 성능 개선"}, "answers": [3], "explanation": ""}, {"id": 2, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 2, "question": "선도에서 수선면의 진형상은 어느 도면에 나타나는가?", "choices": {"1": "정면도", "2": "반폭도", "3": "측면도", "4": "공사용 정면선도"}, "answers": [2], "explanation": ""}, {"id": 3, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 3, "question": "다음 괄호 속에 들어갈 알맞은 말은?", "choices": {"1": "1.5 m3", "2": "14.7 m3", "3": "15.7 m3", "4": "2.0 m3"}, "answers": [4], "explanation": ""}, {"id": 4, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 5, "question": "내연기관선의 추진효율을 옳게 나타낸 식은? (단, EHP : 유 효마력, THP : 추력마력, DHP : 전달마력, BHP : 제동마력)", "choices": {"1": "EHP/THP", "2": "EHP/DHP", "3": "THP/BHP", "4": "EHP/BHP"}, "answers": [4], "explanation": ""}, {"id": 5, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 6, "question": "만재 입항시에 복원성이 나쁜 이유가 아닌 것은?", "choices": {"1": "출항시 가득 찼던 연료가 항해 중 소모로 자유표면의 효 과가 있다.", "2": "선저 탱크의 기름소모로 인해 중심이 상승한다.", "3": "산적화물선의 경우 횡요에 의해 화물이 한 쪽으로 쏠린 다.", "4": "항해 중 밸러스트 탱크에 해수를 채우므로 배수량이 증가 한다."}, "answers": [4], "explanation": ""}, {"id": 6, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 7, "question": "메타센터 높이(GM)를 계산하는 옳은 식은? (단, KB : 기선으 로부터 부심까지의 연직높이, KG : 기선으로부터 무게중심까 지의 연직높이, BM:메타센터 반지름)", "choices": {"1": "GM = KB - BM – KG", "2": "GM = KB + BM - KG", "3": "GM = KB - BM + KG", "4": "GM = KB + BM + KG"}, "answers": [2], "explanation": ""}, {"id": 7, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 8, "question": "선박의 타각 범위를 바르게 나타낸 것은?", "choices": {"1": "좌, 우현 35°", "2": "좌, 우현 30°", "3": "좌현 30°, 우현 35°", "4": "좌현 35°, 우현 30°"}, "answers": [1], "explanation": ""}, {"id": 8, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 9, "question": "선박설계에 있어서 설계자가 결정해야 할 선박 특성은?", "choices": {"1": "재화중량", "2": "형상계수", "3": "항해구역", "4": "항해속력"}, "answers": [2], "explanation": ""}, {"id": 9, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 10, "question": "선박으로부터의 해상 오염 방지를 위한 국제 협약은?", "choices": {"1": "0.735", "2": "0.765", "3": "1.30", "4": "1.73"}, "answers": [2], "explanation": ""}, {"id": 10, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 13, "question": "만재배수 톤수에서 경하배수 톤수를 뺀 값은?", "choices": {"1": "총 톤수", "2": "순 톤수", "3": "기준 배수 톤수", "4": "재화 톤수"}, "answers": [4], "explanation": ""}, {"id": 11, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 14, "question": "선박의 경사시험을 하는 목적은 다음 중 무엇을 구하기 위 해서인가?", "choices": {"1": "0.2 m", "2": "0.3 m", "3": "0.4 m", "4": "0.6 m"}, "answers": [3], "explanation": ""}, {"id": 12, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 17, "question": "선박의 저항에 관한 설명으로 옳은 것은?", "choices": {"1": "마찰저항은 속도가 느릴수록 크다.", "2": "잉여저항은 조파저항과 조와저항 등의 합이다.", "3": "조파저항은 속도가 빠를수록 작다.", "4": "조와저항은 공기저항이다."}, "answers": [2], "explanation": ""}, {"id": 13, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 18, "question": "선박기관의 연속최대출력에 대한 설명으로 틀린 것은?", "choices": {"1": "보통 MCR로 약기한다.", "2": "주기관의 설계 조건상 24시간 이상의 연속 운전에서 낼 수 있는 안전 최대출력을 뜻한다.", "3": "2시간 동안 연속적으로 운전 가능한 과부하 출력을 말한 다.", "4": "축계설계, 프로펠러의 강도 계산에 쓰이는 기준 마력이 다."}, "answers": [3], "explanation": ""}, {"id": 14, "date": "20020526", "subject": 1, "subject_name": "조선공학일반", "question_no": 20, "question": "다음 중에서 경두선을 잘못 설명한 것은?", "choices": {"1": "30", "2": "60", "3": "300", "4": "600"}, "answers": [3], "explanation": ""}, {"id": 15, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 23, "question": "이상기체에 관한 설명으로 틀린 것은?", "choices": {"1": "기체의 비중량은 보일-샬의 법칙에서 구한다.", "2": "기체의 비중량은 압력에 비례하고 절대온도에 반비례한 다.", "3": "기체상수의 값은 가스의 종류에 따라 다르며 각 가스의 분자량과 반비례하는 관계가 있다. m3이다.", "4": "모든 가스 1mole이 차지하는 체적은 20.4"}, "answers": [4], "explanation": ""}, {"id": 16, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 24, "question": "곡면에 작용하는 힘의 수평 분력은?", "choices": {"1": "162", "2": "81", "3": "73", "4": "92"}, "answers": [3], "explanation": ""}, {"id": 17, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 26, "question": "평판 위를 흐르는 유체 유동에 대한 설명으로 틀린 것은?", "choices": {"1": "유속의 법선방향 구배는 거의 0 이다.", "2": "유속의 접선성분은 0 이다.", "3": "유속의 법선성분은 0 이다.", "4": "압력 구배는 거의 0 이다."}, "answers": [1], "explanation": ""}, {"id": 18, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 27, "question": "운동량의 단위는?", "choices": {"1": "kgf.sec2/m", "2": "kgf.m/sec", "3": "kgf.sec", "4": "kgf"}, "answers": [3], "explanation": ""}, {"id": 19, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 31, "question": "수평 원관의 층류유동에 관한 설명으로 틀린 것은?", "choices": {"1": "속도 분포는 2차원 포물선으로 된다.", "2": "벽면에서의 속도는 평균속도의 반이다.", "3": "최대속도는 평균속도의 2배이다.", "4": "원관의 중심에서 최대속도가 된다. 32. 그림과 같은 직사각형 단면의 단주 기둥에 e=2mm의 편심 거리에 P=100kN의 압축하중이 작용할 때 발생하는 최대압 축응력을 구하면 몇 MPa인가?"}, "answers": [2], "explanation": ""}, {"id": 20, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 37, "question": "단면의 주축에 관한 설명 중 옳은 것은?", "choices": {"1": "36.82", "2": "46.82", "3": "56.28", "4": "66.28"}, "answers": [2], "explanation": ""}, {"id": 21, "date": "20020526", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 39, "question": "벤츄리 미터에 관한 설명으로 옳은 것은?", "choices": {"1": "유속을 직접 측정하는 계기이다.", "2": "압력차를 측정하여 유량을 계산한다.", "3": "수평관로에만 사용할 수 있다.", "4": "베르누이의 정리와는 무관하다."}, "answers": [2], "explanation": ""}, {"id": 23, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 41, "question": "선체 선수선저부의 보강구조는?", "choices": {"1": "팬팅구조", "2": "덕트 킬", "3": "혼합식 구조", "4": "이중저 구조"}, "answers": [1], "explanation": ""}, {"id": 24, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 42, "question": "다음 갑판 중 기능상 그 성질이 다른 것은?", "choices": {"1": "건현갑판", "2": "상갑판", "3": "격벽갑판", "4": "대갑판"}, "answers": [4], "explanation": ""}, {"id": 25, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 43, "question": "선박에서 새깅과 호깅상태의 응력을 담당하는 부재가 아닌 것은?", "choices": {"1": "화물의 이동 공간을 적게하여 복원성을 높이기 위함이 다.", "2": "종강도를 크게 하여 굽힘모멘트에 대처하기 위함이다", "3": "발라스트용으로 사용할 때 중심을 좀 더 낮추기 위함이 다.", "4": "화물의 하역을 용이하게 하기 위함이다."}, "answers": [3], "explanation": ""}, {"id": 26, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 47, "question": "선수 형상에서 구상 선수를 채용하는 일반적 이유는?", "choices": {"1": "외형을 좋게 하기 위하여", "2": "충돌시에 대비하여", "3": "조파 저항을 줄이기 위하여", "4": "선체 용적을 증가시키기 위하여"}, "answers": [3], "explanation": ""}, {"id": 27, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 48, "question": "선체에서 집중하중이 걸리는 부분에 대한 보강법이 아닌 것 은?", "choices": {"1": "응력이 집중되지 않도록 한다.", "2": "하중이 선체구조부재에 넓게 분포되지 않도록 한다.", "3": "선체구조 부재에서 얻을 수 있는 지지효과를 활용한다.", "4": "받침기초에 굽힘모멘트에 의한 선체응력이 전달되지 않 도록 한다."}, "answers": [3], "explanation": ""}, {"id": 28, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 50, "question": "종식 구조양식을 주로 채용하는 선박은?", "choices": {"1": "여객선", "2": "화물선", "3": "유조선", "4": "화객선"}, "answers": [3], "explanation": ""}, {"id": 29, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 51, "question": "횡식구조 선박에서 횡강도 담당부재가 아닌 것은?", "choices": {"1": "특설늑골(web frame)", "2": "실체늑판(solid floor)", "3": "조립늑판(open floor)", "4": "중심선 거더(center girder)"}, "answers": [4], "explanation": ""}, {"id": 30, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 53, "question": "선체부재 중 단면계수의 계산에 포함되지 않은 것은?", "choices": {"1": "평판용골", "2": "현측후판", "3": "갑판거더", "4": "갑판특설보"}, "answers": [4], "explanation": ""}, {"id": 31, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 58, "question": "기둥(pillar)의 좌굴(buckling) 원인이 아닌 것은?", "choices": {"1": "진동 등 기타의 원인으로 축방향으로 비대칭의 힘이 작 용할 때", "2": "하중이 기둥 축선에 일치하지 않을 때", "3": "축방향으로 인장하중이 과도하게 작용할 때", "4": "재질이 불균일할 때"}, "answers": [3], "explanation": ""}, {"id": 32, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 59, "question": "갑판의 설계시 고려하는 상갑판 위의 최대하중은?", "choices": {"1": "0.720 ton/m2", "2": "1.100 ton/m2", "3": "1.530 ton/m2", "4": "1.568 ton/m2"}, "answers": [4], "explanation": ""}, {"id": 33, "date": "20020526", "subject": 3, "subject_name": "선체구조학", "question_no": 60, "question": "선체구조에 고장력강을 사용하는 주요 목적은?", "choices": {"1": "η ＞ η ＞ η", "2": "η ＞ η ＞ η ths thd tho tho ths thd", "3": "η ＞ η ＞ η", "4": "η ＞ η ＞ η tho thd ths ths tho thd"}, "answers": [1], "explanation": ""}, {"id": 34, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 63, "question": "선박 건조의 공작관리도표를 작성하는 데 있어서 가장 중요 한 것은?", "choices": {"1": "생산성", "2": "관리성", "3": "기술성", "4": "경제성"}, "answers": [1], "explanation": ""}, {"id": 35, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 64, "question": "프로펠러의 캐비테이션 원인이 아닌 것은?", "choices": {"1": "형상이 불량할 때", "2": "날개 끝이 얇을 때", "3": "회전속도가 임계치 이상일 때", "4": "수면 가까이서 회전할 때"}, "answers": [2], "explanation": ""}, {"id": 36, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 65, "question": "경사선대에서 선박을 진수할 경우 진수계산 항목이 아닌 것 은?", "choices": {"1": "950 ℃ 이상", "2": "850 ∼ 900 ℃", "3": "250 ∼ 450 ℃", "4": "250 ℃ 미만"}, "answers": [4], "explanation": ""}, {"id": 37, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 68, "question": "직접 분사식 디젤 기관의 설명 중 틀린 것은?", "choices": {"1": "비교적 폭발압력이 낮다.", "2": "연소실 표면적이 가장 작다.", "3": "구조가 간단하다. kg/cm2", "4": "분사압력은 200 이상이다."}, "answers": [1], "explanation": ""}, {"id": 38, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 69, "question": "선체 건조 작업시 스트롱 백(strong back)이란?", "choices": {"1": "용접시 루트부의 과용융으로 인한 용락을 방지하기 위해 이음부 뒤편에 대는 백킹판", "2": "용접시 변형을 방지하거나 이음부 판재의 상대위치를 정 확히 하기 위해 사용하는 판", "3": "고소 작업시에 작업이 가능하도록 임시로 붙이는 발판", "4": "용접의 시작부와 끝부분에 결함이 남는 것을 방지하기 위해 판 시작부 및 끝부에 부착하는 작은 판"}, "answers": [2], "explanation": ""}, {"id": 39, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 70, "question": "건조 선대(dry dock)의 활용도를 높이는 방법으로 먼저 건 조되는 선박의 건조와 병행하여 다음 건조될 선박의 선미부 를 선대에서 같이 건조하는 건조법은?", "choices": {"1": "횡이동법", "2": "압출식 건조법", "3": "쎄미탄뎀법", "4": "2중 건조법"}, "answers": [3], "explanation": ""}, {"id": 40, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 72, "question": "다음 중 가공공사에 속하지 않는 작업은?", "choices": {"1": "마킹", "2": "절단", "3": "굽힘", "4": "선행의장"}, "answers": [4], "explanation": ""}, {"id": 41, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 73, "question": "가스터빈 기관의 효율을 높이기 위한 것이 아닌 것은?", "choices": {"1": "중간 냉각기", "2": "재열기", "3": "과급기", "4": "재생기"}, "answers": [3], "explanation": ""}, {"id": 42, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 74, "question": "보슈식 연료분사 펌프에 관한 설명으로 틀린 것은?", "choices": {"1": "토출밸브에는 감압 피스톤이 달려 있다.", "2": "플런저와 배럴의 간극은 플런저 지름의 0.3/1,000 ~ 0.4/1,000배이다.", "3": "보슈식 연료분사 펌프는 플런저 크기로 구분하며 종류는 4가지 뿐이다.", "4": "플런저 재료는 특수 공구강, 크롬강 등을 사용한다."}, "answers": [3], "explanation": ""}, {"id": 43, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 75, "question": "선박건조의 일반적인 공정순서는?", "choices": {"1": "현도공사→ 가공공사→ 탑재공사→ 조립공사→ 진수공사", "2": "현도공사→ 가공공사→ 선대공사→ 조립공사→ 진수공사", "3": "현도공사→ 조립공사→ 가공공사→ 진수공사→ 탑재공사", "4": "현도공사→ 가공공사→ 조립공사→ 선대공사→ 진수공사"}, "answers": [4], "explanation": ""}, {"id": 44, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 76, "question": "플라이 휠(fly wheel)의 작용으로 가장 적절한 것은?", "choices": {"1": "엔진의 회전을 빠르게", "2": "엔진의 회전을 원활히", "3": "캠 축의 회전을 빠르게", "4": "감속기 설치를 위해"}, "answers": [2], "explanation": ""}, {"id": 45, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 77, "question": "디젤 기관의 노킹(knocking) 방지법으로 옳은 것은?", "choices": {"1": "회전을 빠르게 한다.", "2": "압축비를 높인다.", "3": "흡입온도를 낯춘다.", "4": "발화점이 높은 연료를 사용한다."}, "answers": [2], "explanation": ""}, {"id": 46, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 78, "question": "4행정 기관과 비교한 2행정 기관의 특징 설명으로 잘못된 것은?", "choices": {"1": "실린더 부피가 같은 경우 1.2~1.5배의 출력을 얻을 수 있다.", "2": "배기작용이 충분하고 고속기관에 적합하다.", "3": "같은 출력의 4행정 기관보다 부피와 무게가 작다.", "4": "저속 회전이 불안정하고, 저속시 회전력이 낮다."}, "answers": [2], "explanation": ""}, {"id": 47, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 79, "question": "과급(過給) 디젤 기관의 이점이라고 볼 수 없는 것은?", "choices": {"1": "기관출력을 50 % 정도 증가시킬 수 있다.", "2": "기관 설치면적이 커져서 안정도가 있다.", "3": "마력당의 중량을 30~40 % 감소시킨다.", "4": "연소가 잘 된다."}, "answers": [2], "explanation": ""}, {"id": 48, "date": "20020526", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 80, "question": "선체 블록을 분할할 경우 고려하는 사항이 아닌 것은?", "choices": {"1": "크레인의 능력", "2": "지상조립의 공작 및 회전 조건", "3": "탑재 시기의 결정", "4": "선대 공작상의 여건"}, "answers": [3], "explanation": ""}, {"id": 49, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 1, "question": "컨테이너선은 어느 종류의 선박에 속하는가?", "choices": {"1": "저선미루선", "2": "복갑판선", "3": "저선수루선", "4": "삼도형선"}, "answers": [3], "explanation": ""}, {"id": 50, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 3, "question": "선박의 프로펠러 효율과 관계가 없는 것은?", "choices": {"1": "날개 면적", "2": "프로펠러 직경", "3": "피치(pitch)", "4": "엔진의 종류"}, "answers": [4], "explanation": ""}, {"id": 51, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 4, "question": "선박의 닻줄을 감아올리는 장치는?", "choices": {"1": "페어 리더(fair leader)", "2": "윈드라스(windlass)", "3": "볼라드(bollard)", "4": "와핑 엔드(warping end)"}, "answers": [2], "explanation": ""}, {"id": 52, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 5, "question": "선박으로서 갖추어야 할 기본적인 3가지 특성이 아닌 것은?", "choices": {"1": "부양성", "2": "적재성", "3": "이동성", "4": "예인성"}, "answers": [4], "explanation": ""}, {"id": 53, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 6, "question": "여객 정원이 20 명이고, 화물 수송을 함께 하는 선박은?", "choices": {"1": "여객선", "2": "화객선", "3": "화물선", "4": "모선"}, "answers": [2], "explanation": ""}, {"id": 54, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 7, "question": "군함의 크기를 나타내는 데 사용되는 톤수는?", "choices": {"1": "884", "2": "760", "3": "950", "4": "942"}, "answers": [2], "explanation": ""}, {"id": 55, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 9, "question": "프루드(Froude)의 선박 저항 분류 방식에서 잉여저항은?", "choices": {"1": "조파저항 ＋ 마찰저항", "2": "조파저항 ＋ 조와저항", "3": "마찰저항 ＋ 공기저항", "4": "조파저항 ＋ 공기저항"}, "answers": [2], "explanation": ""}, {"id": 56, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 10, "question": "선체와 프로펠러의 종합적인 추진 성능을 알기위한 시험은?", "choices": {"1": "풍동시험", "2": "자항시험", "3": "마찰시험", "4": "경사시험"}, "answers": [2], "explanation": ""}, {"id": 57, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 11, "question": "선박이 조난한 경우 해상에 투하하여 이 곳에 탑승하거나 붙잡고 구조를 기다리는 목적에 사용되며, 신호장치, 의약 품, 비상식량 등이 비치된 자항능력이 없는 구명설비는?", "choices": {"1": "구조정", "2": "구명정", "3": "구명부환", "4": "구명뗏목 12. 선박 추진기관의 동력이 프로펠러에 전달되는 과정에서 각"}, "answers": [4], "explanation": ""}, {"id": 58, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 14, "question": "스톡리스(stockless) 앵커의 장점이 아닌 것은?", "choices": {"1": "0.803", "2": "0.692", "3": "0.747", "4": "0.826"}, "answers": [4], "explanation": ""}, {"id": 59, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 16, "question": "하천을 운항하던 선박이 바다로 진입하면?", "choices": {"1": "4.0 cm", "2": "4.5 cm", "3": "5.0 cm", "4": "5.5 cm"}, "answers": [2], "explanation": ""}, {"id": 60, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 18, "question": "선박의 톤수와 관련된 다음의 관계식 중 옳은 것은?", "choices": {"1": "재화중량 + 경하 배수량 = 만재 배수량", "2": "재화중량 - 경하 배수량 = 만재 배수량", "3": "경하 배수량 - 순톤수 = 만재 배수량", "4": "재화중량 + 순톤수 = 만재 배수량"}, "answers": [1], "explanation": ""}, {"id": 61, "date": "20030810", "subject": 1, "subject_name": "조선공학일반", "question_no": 19, "question": "선박의 복원력에 관한 설명으로 잘못된 것은?", "choices": {"1": "조와저항 증가 현상", "2": "와류 현상", "3": "천수영향", "4": "거칠기 영향 21. 단면 b(폭)×h(높이)＝3㎝×4㎝, 길이 40㎝인 외팔보의 자유 단에 300N의 집중하중이 작용하면 자유단에서의 최대처짐 은 몇 cm인가? (단, 탄성계수 E = 200GPa이다.)"}, "answers": [2], "explanation": ""}, {"id": 62, "date": "20030810", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 26, "question": "유체 흐름에서 연속방정식이란?", "choices": {"1": "유체의 모든 입자에 뉴톤의 관성의 법칙을 적용시킨 방 정식이다.", "2": "에너지와 일 사이의 관계를 나타낸 방정식이다.", "3": "유체를 연속체라 가정하고 탄성역학의 후크의 법칙을 적 용한 방정식이다.", "4": "질량보존의 법칙을 유체유동에 적용한 방정식이다."}, "answers": [4], "explanation": ""}, {"id": 63, "date": "20030810", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 32, "question": "점성계수의 차원은? ( 단, L : 길이, T : 시간, M : 질량) L2T –1 L-1T -1", "choices": {"1": "7.2", "2": "8.2", "3": "9.2", "4": "10.2 34. 그림과 같이 양단을 고정한 균일단면봉의 단면 m-n에 축 하중 50kN이 작용할 때 양단에서의 반력비 R1/R2은?"}, "answers": [2], "explanation": ""}, {"id": 64, "date": "20030810", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 36, "question": "정상류(steady flow)에 대한 설명으로 옳은 것은?", "choices": {"1": "2.94 knot", "2": "4.06 knot", "3": "4.74 knot", "4": "5.95 knot"}, "answers": [3], "explanation": ""}, {"id": 66, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 42, "question": "선체의 종강도에 관한 설명 중 틀린 항은?", "choices": {"1": "1000 ton · m", "2": "10000 ton · m", "3": "3000 ton · m", "4": "30000 ton · m"}, "answers": [4], "explanation": ""}, {"id": 67, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 44, "question": "빌지 용골(bilge keel)의 기능은?", "choices": {"1": "방현재", "2": "만곡부 용골", "3": "실체늑판", "4": "특설늑골"}, "answers": [2], "explanation": ""}, {"id": 68, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 46, "question": "선측외판 중에서 강력갑판의 현측에 붙는 최상부 외판은?", "choices": {"1": "갑판 보", "2": "갑판 스트링어", "3": "현측후판", "4": "마진판"}, "answers": [3], "explanation": ""}, {"id": 69, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 49, "question": "선박 종강도 계산에 있어서 하중곡선(load curve)은?", "choices": {"1": "선박 중량의 길이방향의 분포상태를 곡선으로 나타낸 것", "2": "선체 부력의 길이방향의 분포상태를 곡선으로 나타낸 것", "3": "선체 길이 방향의 각각의 위치에서 중력과 부력의 차를 곡선으로 나타낸 것", "4": "선체 길이 방향의 각각의 위치에서 전단력의 분포상태를 곡선으로 나타낸 것"}, "answers": [3], "explanation": ""}, {"id": 70, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 50, "question": "선측 스트링거를 옳게 설명한 것은?", "choices": {"1": "선수미 늑골을 보강하는 횡강도 부재이다.", "2": "선측에 붙이는 종통재로서 늑골 상호의 위치를 확보하고 외판의 요철을 방지한다.", "3": "해치 빔(beam) 위에만 설치한다.", "4": "특설 늑골 사이에만 설치한다."}, "answers": [2], "explanation": ""}, {"id": 71, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 51, "question": "일반구조용 압연강재의 기호 S S 400 에서 숫자 400 은?", "choices": {"1": "호깅 상태", "2": "새깅 상태", "3": "래킹 상태", "4": "슬래밍 상태"}, "answers": [3], "explanation": ""}, {"id": 72, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 54, "question": "대형 선박에서 증설격벽에 해당되는 것은?", "choices": {"1": "선수전단 격벽", "2": "선창 격벽", "3": "선미 격벽", "4": "기관실전단 격벽"}, "answers": [2], "explanation": ""}, {"id": 73, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 55, "question": "횡늑골식 구조의 설명으로 부적합한 것은?", "choices": {"1": "구조가 간편하며 건조하기가 쉽다.", "2": "재화(載貨)가 편리하다.", "3": "소형 선박에 적합하다.", "4": "단저구조에 종강도를 유지하는 데 유리하다."}, "answers": [4], "explanation": ""}, {"id": 74, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 56, "question": "다음 중 선체 종강력 부재가 아닌 것은?", "choices": {"1": "파형격벽", "2": "선수미격벽", "3": "수밀격벽", "4": "제수격벽"}, "answers": [3], "explanation": ""}, {"id": 75, "date": "20030810", "subject": 3, "subject_name": "선체구조학", "question_no": 60, "question": "강도가 충분하지 않을 경우 늑골(frame)의 설계방법과 거리 가 먼 것은?", "choices": {"1": "특설늑골을 증설한다.", "2": "늑골의 치수를 증가시킨다.", "3": "늑골간의 간격를 증가시킨다.", "4": "집중하중을 받는 경우 늑골을 적절히 보강해 준다."}, "answers": [3], "explanation": ""}, {"id": 76, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 61, "question": "디젤기관에 사용하는 피스톤링의 고착 원인이 아닌 것은?", "choices": {"1": "실린더 냉각수 순환량이 과다할 때", "2": "링과 링 홈의 간격이 부적당할 때", "3": "링의 장력이 부족하였을 때", "4": "불순물이 많은 연료를 사용하였을 때"}, "answers": [1], "explanation": ""}, {"id": 77, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 62, "question": "최근 조선소 설비의 특징 설명으로 잘못된 것은?", "choices": {"1": "클러치를 떼고 추진기관을 하역펌프 등의 원동기로 사용 하기 위하여", "2": "기관이 자기역전식이 아닌 경우 프로펠러의 회전 방향을 바꾸기 위하여", "3": "프로펠러의 회전속도를 낮추고 직경을 크게 하여 프로펠 러의 효율을 높이기 위하여", "4": "추진축의 직경을 가늘게 할 수 있어 제작비를 낮추고 중 량을 감소시키기 위하여"}, "answers": [2], "explanation": ""}, {"id": 78, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 66, "question": "선체 블록 분할 시 유의사항으로 잘못 설명된 것은?", "choices": {"1": "크레인 능력에 따라 블록의 무게를 제한한다.", "2": "운반 및 반전 작업 시에 변형이 되지 않도록 한다.", "3": "선수미 블록은 평면 블록으로 분할한다.", "4": "선형을 결정하기 쉬운 블록으로 한다."}, "answers": [3], "explanation": ""}, {"id": 79, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 67, "question": "가스터빈을 구성하는 3대 요소가 아닌 것은?", "choices": {"1": "터빈", "2": "발전기", "3": "압축기", "4": "연소실"}, "answers": [2], "explanation": ""}, {"id": 80, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 68, "question": "선체 조립용 기준선으로 사용되지 않는 것은?", "choices": {"1": "버톡 라인(buttock line)", "2": "프레임 라인(frame line)", "3": "워터 라인(water line)", "4": "너클 라인(knuckle line)"}, "answers": [4], "explanation": ""}, {"id": 81, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 69, "question": "2행정과 4행정 디젤기관을 비교한 설명으로 틀린 것은?", "choices": {"1": "2행정 기관은 동일 크기의 4행정 기관에 비하여 출력이 크다.", "2": "4행정 기관은 720도 회전에 흡입, 압축, 팽창, 배기과정 이 완결된다.", "3": "2행정 기관은 4행정 기관에 비하여 토크 변화가 적어 운 전이 원활하다.", "4": "4행정 기관은 2행정 기관에 비하여 시동은 쉬우나 저속 운전이 불안정하다."}, "answers": [4], "explanation": ""}, {"id": 82, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 70, "question": "선박 건조방식 중 상형 건조법에 대한 설명으로 틀린 것은?", "choices": {"1": "코킹 업(cocking up)이 적다.", "2": "검사 및 의장공사가 유리하다.", "3": "탑재 초기에 선거의 잉여 면적을 활용할 수 있다.", "4": "전개면적이 크므로 비교적 다수의 작업 인원이 흡수된 다."}, "answers": [4], "explanation": ""}, {"id": 83, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 71, "question": "디젤기관과 가솔린기관의 특징을 비교한 것 중 틀린 것은?", "choices": {"1": "4.04 m/s", "2": "2.52 m/s", "3": "6.04 m/s", "4": "5.04 m/s"}, "answers": [1], "explanation": ""}, {"id": 84, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 77, "question": "추진기 날개의 공동현상에 의한 침식(erosion)은?", "choices": {"1": "공동현상의 발생 초기에 일어난다.", "2": "공동현상의 소멸 시 일어난다.", "3": "공동현상의 발생 도중에 일어난다.", "4": "공동현상과 침식은 관계가 없다."}, "answers": [2], "explanation": ""}, {"id": 85, "date": "20030810", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 78, "question": "플레임 플레이너(flame planer)의 주요 용도는?", "choices": {"1": "역각도법", "2": "수냉각법", "3": "가열법", "4": "구속법"}, "answers": [3], "explanation": ""}, {"id": 86, "date": "20040808", "subject": 1, "subject_name": "조선공학일반", "question_no": 7, "question": "선박의 하역장치가 아닌 것은?", "choices": {"1": "축동력", "2": "지시동력", "3": "제동동력", "4": "전달동력 10. 길이 45m, 폭 9m, 깊이 8m 인 상자형 선체가 흘수 4 m로 떠 있다. 그림의 A 구획실이 완전 침수 되었다면 그 때의 흘수는?"}, "answers": [3], "explanation": ""}, {"id": 87, "date": "20040808", "subject": 1, "subject_name": "조선공학일반", "question_no": 12, "question": "다음 건현의 약어 중 동기 북대서양 건현의 약어는?", "choices": {"1": "마찰저항", "2": "조파저항", "3": "조와저항", "4": "잉여저항"}, "answers": [3], "explanation": ""}, {"id": 88, "date": "20040808", "subject": 1, "subject_name": "조선공학일반", "question_no": 14, "question": "저속선에서 가장 큰 비중을 차지하는 저항은?", "choices": {"1": "조파저항", "2": "조와저항", "3": "마찰저항", "4": "공기저항"}, "answers": [3], "explanation": ""}, {"id": 89, "date": "20040808", "subject": 1, "subject_name": "조선공학일반", "question_no": 15, "question": "경두선에 대한 설명으로 틀린 것은?", "choices": {"1": "무게 중심이 낮다.", "2": "복원력이 크다.", "3": "동요주기가 짧다.", "4": "승선감이 좋다."}, "answers": [4], "explanation": ""}, {"id": 90, "date": "20040808", "subject": 1, "subject_name": "조선공학일반", "question_no": 16, "question": "스크류 프로펠러가 1회전 하는 동안 전진하는 거리는?", "choices": {"1": "피치(pitch)", "2": "경사(rake)", "3": "스큐 백(skew back)", "4": "슬립(slip)"}, "answers": [1], "explanation": ""}, {"id": 91, "date": "20040808", "subject": 1, "subject_name": "조선공학일반", "question_no": 17, "question": "선박의 속력을 측정하는데 사용되는 기구는?", "choices": {"1": "자이로 컴퍼스(gyro compass)", "2": "압력 로그(pressure log)", "3": "로런(loran)", "4": "음향 측정기(echo sounder)"}, "answers": [2], "explanation": ""}, {"id": 93, "date": "20040808", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 23, "question": "유체 흐름에서 레이놀드(Reynolds)수란?", "choices": {"1": "158", "2": "183", "3": "223", "4": "298"}, "answers": [1], "explanation": ""}, {"id": 94, "date": "20040808", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 31, "question": "다음 중 유량을 측정할 때 사용되는 장치는?", "choices": {"1": "50", "2": "80", "3": "90", "4": "100"}, "answers": [2], "explanation": ""}, {"id": 95, "date": "20040808", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 33, "question": "체적이 5 m3, 무게가 37240 N 인 기름의 비중은?", "choices": {"1": "부력", "2": "배의 무게", "3": "물의 비중량 × 배수 체적", "4": "가로메타센터 높이 × 배의 경사각 39. 그림과 같은 분포하중을 받는 단순보에서 B지점에서의 하중 의 세기 q는 몇 N/m인가?"}, "answers": [1], "explanation": ""}, {"id": 96, "date": "20040808", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 40, "question": "관 속을 유체가 흐를 때 관마찰계수 f 는?", "choices": {"1": "필러(pillar)", "2": "뼈대(stiffener)", "3": "선수재(stem)", "4": "용골(keel)"}, "answers": [1], "explanation": ""}, {"id": 97, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 42, "question": "선체 이중저(double bottom)에 대한 설명으로 틀린 것은?", "choices": {"1": "선저파손 시 상부로의 해수 침입을 막을 수 있다.", "2": "선체 종강도가 증가한다.", "3": "청수탱크, 연료유 탱크 등으로 사용할 수 있다.", "4": "구조가 간단하여 소형선에만 주로 적용된다."}, "answers": [4], "explanation": ""}, {"id": 98, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 43, "question": "선박의 선수부에 위치하는 구조물이 아닌 것은?", "choices": {"1": "중량곡선", "2": "부력곡선", "3": "하중곡선", "4": "전단력곡선"}, "answers": [3], "explanation": ""}, {"id": 99, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 45, "question": "선박의 종강도 계산을 위한 표준파의 조건에서 파고와 파장 의 비는?", "choices": {"1": "1/10", "2": "1/20", "3": "1/30", "4": "1/40"}, "answers": [2], "explanation": ""}, {"id": 100, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 46, "question": "갑판 보(beam)의 치수 결정 요인이 될 수 없는 것은?", "choices": {"1": "보 지점간의 거리", "2": "갑판 하중의 크기", "3": "필러(pillar)의 크기", "4": "보 간격(space)"}, "answers": [3], "explanation": ""}, {"id": 101, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 51, "question": "선체 구조에서 응력집중을 방지하기 위한 대책으로 잘못된 것은?", "choices": {"1": "원형 구멍은 사각형 구멍으로 바꾼다.", "2": "구멍 주위에 보강환을 붙인다.", "3": "구조부재의 단면적의 불연속을 피한다.", "4": "구멍의 위치를 부재의 중립축 근처로 옮긴다."}, "answers": [1], "explanation": ""}, {"id": 102, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 52, "question": "선박 구조형식 중 종식 구조의 장점이 아닌 것은?", "choices": {"1": "종강도가 강하다.", "2": "선체의 중량이 가볍다.", "3": "재화중량이 증가한다.", "4": "특히 선수미부의 구조가 간단하다."}, "answers": [4], "explanation": ""}, {"id": 103, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 53, "question": "다음 중 수밀 횡격벽의 중요한 역할이 아닌 것은?", "choices": {"1": "호깅 상태", "2": "새깅 상태", "3": "비틀림 상태", "4": "래킹 상태"}, "answers": [2], "explanation": ""}, {"id": 104, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 56, "question": "선박 갑판 창구 모서리에 연재(coaming)를 설치하는 가장 큰 이유는?", "choices": {"1": "공작을 쉽게 하기 위하여", "2": "화물창의 통풍을 위하여", "3": "갑판을 보강하여 국부강도를 증가시키기 위하여", "4": "선원의 안전을 위하여"}, "answers": [3], "explanation": ""}, {"id": 105, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 57, "question": "선체 이중저 내에 코퍼댐(cofferdam)을 설치하는 목적은?", "choices": {"1": "추진축이 지나가는 통로를 확보하고 축을 보호하기 위하 여", "2": "연료유 탱크와 윤활유 탱크 사이 및 이들과 청수 탱크의 각 성분이 서로 혼합되는 것을 방지하기 위하여", "3": "화물의 적재량을 증가시키고, 선박의 부심을 낮추어 복 원력을 증대시키기 위하여", "4": "선저부의 국부강도를 증대시키고, 선저 파손 시 해수의 침입을 방지하기 위하여"}, "answers": [2], "explanation": ""}, {"id": 106, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 58, "question": "갑판상에 불워크(bulwark)를 설치하는 목적과 가장 무관한 것은?", "choices": {"1": "폭로된 상갑판으로의 파도의 침범을 막는다.", "2": "갑판위의 통행을 안전하게 한다.", "3": "창구 등의 갑판구를 보호한다.", "4": "화물창내의 화물을 보호한다."}, "answers": [4], "explanation": ""}, {"id": 107, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 59, "question": "빌지 킬(bilge keel)이 부착되는 곳은?", "choices": {"1": "만곡부 외판", "2": "선저외판", "3": "선측외판", "4": "내저판"}, "answers": [1], "explanation": ""}, {"id": 108, "date": "20040808", "subject": 3, "subject_name": "선체구조학", "question_no": 60, "question": "늑골 간격(frame space)이란?", "choices": {"1": "한 늑골의 중심에서 다음 늑골의 중심까지", "2": "한 늑골의 앞면에서 다음 늑골의 배면까지", "3": "한 늑골의 배면에서 다음 늑골의 배면까지", "4": "한 늑골의 배면에서 다음 늑골의 앞면까지"}, "answers": [3], "explanation": ""}, {"id": 109, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 61, "question": "선행의장 방식의 가장 중요한 잇점은?", "choices": {"1": "저속도 회전수", "2": "과속도 회전수", "3": "공진 회전수", "4": "위험 회전수"}, "answers": [1], "explanation": ""}, {"id": 110, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 63, "question": "조선소의 해안이 1변인 경우에 적합한 공장배치 형태는?", "choices": {"1": "I형", "2": "L형", "3": "U형", "4": "T형"}, "answers": [3], "explanation": ""}, {"id": 111, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 66, "question": "조선 재료의 재고량 표시법 중 런닝 스토크란?", "choices": {"1": "6", "2": "7", "3": "8", "4": "9"}, "answers": [4], "explanation": ""}, {"id": 112, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 69, "question": "프로펠러 추진기의 참슬립(real slip)에 대한 설명으로 틀린 것은?", "choices": {"1": "롤러식", "2": "대차식", "3": "볼식", "4": "수지식"}, "answers": [1], "explanation": ""}, {"id": 113, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 71, "question": "용접순서의 일반적인 원칙에 어긋나는 것은?", "choices": {"1": "용접에 의한 수축은 항상 자유단에서 발생하도록 한다.", "2": "판용접일 경우에는 가로 이음새(butt)를 먼저 용접한다.", "3": "수축량이 적은 것부터 큰 순서로 용접한다.", "4": "맞대기 용접과 필릿용접이 교차할 때에는 맞대기 용접을 먼저 한다."}, "answers": [3], "explanation": ""}, {"id": 114, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 72, "question": "내업공장의 기계 배치에 대한 설명으로 틀린 것은?", "choices": {"1": "I.H.P(도시마력)", "2": "B.H.P(제동마력)", "3": "D.H.P(전달마력)", "4": "E.H.P(유효마력)"}, "answers": [4], "explanation": ""}, {"id": 115, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 74, "question": "가공별로 분류한 마킹 작업의 종류에 속하지 않는 것은?", "choices": {"1": "다듬질 마킹", "2": "사진 마킹", "3": "윤곽잡기 마킹", "4": "블록 마킹"}, "answers": [2], "explanation": ""}, {"id": 116, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 75, "question": "내연기관의 기준 사이클이 아닌 것은?", "choices": {"1": "오토 사이클", "2": "디젤 사이클", "3": "사바테 사이클", "4": "랭킨 사이클"}, "answers": [4], "explanation": ""}, {"id": 117, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 76, "question": "가변 피치 프로펠러의 특징이 아닌 것은?", "choices": {"1": "공기의 점성계수를 낮게하여 연료분사가 용이하게 하려 고", "2": "연소실내의 잔류가스를 잘 배출하여 충전효율을 높이려 고", "3": "공기 온도를 높여 연료의 착화를 용이하게 하기 위하여", "4": "각 실린더마다 고른 출력을 얻기 위하여"}, "answers": [1], "explanation": ""}, {"id": 119, "date": "20040808", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 80, "question": "선형결정짓기를 위한 기준선으로 부적합한 것은?", "choices": {"1": "종단면선(buttock line)", "2": "선체 중심선(center line)", "3": "흘수선(draft line)", "4": "늑골선(frame line)"}, "answers": [3], "explanation": ""}, {"id": 120, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 1, "question": "다음 ( ) 안에 들어갈 알맞은 말로 짝지어진 것은?", "choices": {"1": "Rolling", "2": "Yawing", "3": "Pitching", "4": "Surging"}, "answers": [1], "explanation": ""}, {"id": 121, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 5, "question": "프로펠러가 고속으로 회전하여 어느 한계를 넘으면 날개 뒷 면의 압력이 낮아져 물이 날개에 따라 흐르지 못하고 날개면 에 수증기나 거품이 발생하는 현상으로 이들이 터지면서 날 개가 손상되기도 하고 진동과 소음 발생의 원인이 되기도 하 는 것은?", "choices": {"1": "의장수", "2": "배의 항로", "3": "총톤수", "4": "승선인원"}, "answers": [3], "explanation": ""}, {"id": 122, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 7, "question": "다음 중 국명과 선급협회 약칭이 틀리게 짝지어진 것은?", "choices": {"1": "0.283", "2": "0.417", "3": "8.083", "4": "16.417"}, "answers": [4], "explanation": ""}, {"id": 123, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 9, "question": "센터미터(cm)당 배수톤수를 설명한 것으로 가장 옳은 것은?", "choices": {"1": "선박의 만재흘수선에서 1cm 의 흘수변화를 주기 위한 화 물중량의 변화량", "2": "선박의 만재흘수선에서 1cm 의 흘수변화를 주기 위한 배 수량의 변화량", "3": "선박의 어떤 수선면에서 1cm 의 흘수변화를 주기 위한 화물중량의 변화량", "4": "선박의 어떤 수선면에서 1cm 의 흘수변화를 주기 위한 배수량의 변화량"}, "answers": [3], "explanation": ""}, {"id": 124, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 10, "question": "선박의 기본 3대 특성이 아닌 것은?", "choices": {"1": "부양성", "2": "복원성", "3": "이동성", "4": "적재성"}, "answers": [2], "explanation": ""}, {"id": 125, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 11, "question": "다음 중 닻과 체인을 연결할 때 체인이 꼬이는 것을 막기 위하여 사용되는 것은?", "choices": {"1": "엔드링크(End link)", "2": "확대링크(Enlarged link)", "3": "보통링크(Common link)", "4": "스위볼링크(Swivel link)"}, "answers": [4], "explanation": ""}, {"id": 126, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 12, "question": "다음 중 건현에 대한 설명으로 옳은 것은?", "choices": {"1": "18초", "2": "28초", "3": "48초", "4": "60초"}, "answers": [4], "explanation": ""}, {"id": 127, "date": "20090510", "subject": 1, "subject_name": "조선공학일반", "question_no": 17, "question": "다음 중 일반배치도에 나타나지 않는 것은?", "choices": {"1": "비틀림모멘트에 비례한다.", "2": "전단 탄성계수에 반비례한다.", "3": "극단면 2차 모멘트에 비례한다.", "4": "축 지름의 네제곱에 반비례한다."}, "answers": [1], "explanation": ""}, {"id": 128, "date": "20090510", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 23, "question": "지름 d인 원형 단면의 회전반지름은?", "choices": {"1": "6", "2": "5", "3": "4", "4": "3"}, "answers": [3], "explanation": ""}, {"id": 129, "date": "20090510", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 26, "question": "2축 평면 응력상태에서 σ = σ 일 때 이 응력상태에 대한 x y Mohr 원의 반지름은?", "choices": {"1": "0", "2": "1/2 σ x", "3": "σ", "4": "2σ x x 27. 그림과 같은 평면 응력상태에서 최대 전단응력(τ )과 최대 max 수직응력(σ )은 각각 몇 MPa 인가? max"}, "answers": [1], "explanation": ""}, {"id": 130, "date": "20090510", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 28, "question": "보가 하중을 받고 있을 때 보에 발생하는 전단응력에 대한 설명 중 틀린 것은?", "choices": {"1": "항력을 작게 하여 빠른 속도를 주기 위하여", "2": "타격되는 면적을 넓혀 멀리 날아가게 하기 위하여", "3": "골프공에 회전을 쉽게 하여 조정성을 높이기 위하여", "4": "잔디 위에서 저항을 주어 구르지 않도록 하기 위하여"}, "answers": [2], "explanation": ""}, {"id": 131, "date": "20090510", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 32, "question": "다음 중 점성유동과 관계되는 무차원 수는?", "choices": {"1": "마하(Mach)수", "2": "프루드(Froude)수", "3": "오일러(Euler)수", "4": "레이놀드(Reynolds)수 33. 그림과 같이 고정날개에 비중이 2인 액체의 분류(Jet)가 50m/s로 노즐로부터 나오고 있다. 분류의 직경이 5cm 라면 이 날개를 고정시키는데 필요한 힘 Fx는 약 몇 N 인가?"}, "answers": [4], "explanation": ""}, {"id": 132, "date": "20090510", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 36, "question": "차원이 같은 물리량으로 짝지어진 것은?", "choices": {"1": "1.3", "2": "0.13", "3": "0.013", "4": "0.0013"}, "answers": [2], "explanation": ""}, {"id": 133, "date": "20090510", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 38, "question": "다음 중 정상류에 대한 설명으로 옳은 것은?", "choices": {"1": "선수부", "2": "선루부", "3": "선미부", "4": "선체 전후의 L/4 위치"}, "answers": [4], "explanation": ""}, {"id": 134, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 43, "question": "선체 구조도 중 외판전개도를 통해 알 수 없는 것은?", "choices": {"1": "외판의 두께와 접합 방법", "2": "갑판부재의 배치 및 구조", "3": "선외개구부(船外開口部)의 위치 및 치수", "4": "격벽이나 각종 종통재의 외판결함"}, "answers": [2], "explanation": ""}, {"id": 135, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 44, "question": "다음 중 표준 횡늑골의 표준 간격을 정하는 식은? (단, L은 선체의 길이이다.)", "choices": {"1": "2L + 450", "2": "2L + 550", "3": "2L – 450", "4": "2L – 550"}, "answers": [1], "explanation": ""}, {"id": 136, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 45, "question": "판 구조물의 응력집중(Stressconcentration)에 관한 설명으 로 틀린 것은?", "choices": {"1": "일반적으로 응력이 걸린 구조물에 어떤 불연속점에서 국 부적인 응력집중이 일어난다.", "2": "사각형 구멍인 경우 응력집중계수는 그 구멍의 크기와 그 모퉁이의 반경에 지배된다.", "3": "구조물 내에 구멍이 있으면 그 구멍 주위에 응력 집중이 일어난다.", "4": "구조물 내의 구멍에 대한 응력집중계수는 부재의 폭에 대한 구멍 지름의 비가 증가함에 따라 증가하고, 구멍의 모서리가 날카로울수록 커진다."}, "answers": [4], "explanation": ""}, {"id": 137, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 46, "question": "강선(鋼船)에서 선박의 나비(breadth)에 대한 설명으로 옳은 것은?", "choices": {"1": "상갑판의 위치에서 우현 선측외판의 바깥면과 좌현 선측 외판의 바깥면 사이의 거리", "2": "상갑판의 위치에서 한쪽 현 선측외판의 바깥면과 다른 쪽 현 선측외판의 내면 사이의 거리", "3": "선체의 최광부에서 우현 선측외판의 중심면과 좌현 선측 외판의 중심면 사이의 거리", "4": "선체의 최광부에서 우현 선측외판의 내면과 좌현 선측외 판의 내면 사이의 거리"}, "answers": [4], "explanation": ""}, {"id": 138, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 47, "question": "다음 중 타심재와 키판을 연결하는 역할을 하는 리더의 구 조 부재는?", "choices": {"1": "호퍼 탱크(Hopper tank)", "2": "톱 사이드 탱크(Top side tank)", "3": "사이드 윙 탱크(Side wing tank)", "4": "이중저 탱크(Double bottom tank)"}, "answers": [1], "explanation": ""}, {"id": 139, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 49, "question": "다음 중 선체의 횡강도 부재에 속하지 않는 것은?", "choices": {"1": "σ = M/Z", "2": "σ = Z/M", "3": "σ = M · Z", "4": "σ = M2 · Z"}, "answers": [4], "explanation": ""}, {"id": 140, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 51, "question": "방현재(Fender)를 설치하는 주된 목적은?", "choices": {"1": "슬래밍에 의한 선수부의 충격을 완화시키기 위하여", "2": "선측후판과 더불어 중요한 종강도를 높이기 위하여", "3": "계류시 안벽과의 접촉에 의한 충격완화 및 마찰충격으로 부터 보호하기 위하여", "4": "만재흘수선의 기준이 되는 상갑판선을 표시하기 위하여 52. 수밀격벽의 강도가 선저부로 갈수록 강해야 하는 주된 이유 로 옳은 것은?"}, "answers": [3], "explanation": ""}, {"id": 141, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 53, "question": "다음 중 국부강도를 증가시키기 위한 것이 아닌 것은?", "choices": {"1": "선루의 신축 연결", "2": "만곡부 용골(Bilge keel)", "3": "보강보(Panting beam)", "4": "창구 코밍(Hatch coaming)"}, "answers": [2], "explanation": ""}, {"id": 142, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 54, "question": "다음 중 강력갑판으로 간주할 수 없는 것은? (단, L은 선체 의 길이이다.)", "choices": {"1": "12000", "2": "37500", "3": "120000", "4": "384000"}, "answers": [2], "explanation": ""}, {"id": 143, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 56, "question": "다음 중 2중저(Double bottom) 구조를 구성하는 부재가 아 닌 것은?", "choices": {"1": "특설늑골(Web frame)", "2": "실체늑판(Solid floor)", "3": "중심선거더(Center girder)", "4": "내저판(Inner bottom plating)"}, "answers": [1], "explanation": ""}, {"id": 144, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 57, "question": "다음 중 연료유 탱크와 윤활유 탱크 사이 및 이들과 청수 탱크 사이에 유밀을 위한 구획을 무엇이라 하는가?", "choices": {"1": "코퍼댐(Cofferdam)", "2": "화염판(Rlame plate)", "3": "대빙방현재(Ice fender)", "4": "독립형탱크(Indeoendent tank)"}, "answers": [1], "explanation": ""}, {"id": 145, "date": "20090510", "subject": 3, "subject_name": "선체구조학", "question_no": 58, "question": "다음 중 선수 및 선미부에서 모두 사용되는 부재가 아닌 것 은?", "choices": {"1": "수밀격벽", "2": "충돌격벽", "3": "파형격벽", "4": "제수격벽"}, "answers": [3], "explanation": ""}, {"id": 146, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 61, "question": "진수 계산시 초기 시동력을 구하는 식으로 옳은 것은? (단, W : 충진수중량, μ : 마찰계수, θ : 활주대 밑의 고정대 평 균경사각이다.)", "choices": {"1": "W cosθ(tanθ - μ)", "2": "W sinθ(tanθ - μ)", "3": "W tanθ(sinθ - μ)", "4": "W tanθ(cosθ - μ)"}, "answers": [1], "explanation": ""}, {"id": 147, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 62, "question": "강판의 가스절단 작업시 활용되는 변형방지법이 아닌 것은?", "choices": {"1": "구속법", "2": "수냉각법", "3": "선상가열법", "4": "브리지(Bridge)법"}, "answers": [3], "explanation": ""}, {"id": 148, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 63, "question": "다음 중 건조 선거에서 주로 사용되는 문형 크레인은?", "choices": {"1": "지브 크레인(Jib crane)", "2": "타워 크레인(Tower crane)", "3": "골리앗 크레인(Goliath crane)", "4": "로커모티브 크레인(Locomotive crane)"}, "answers": [3], "explanation": ""}, {"id": 149, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 64, "question": "다음 중 공장배치시 고려사항으로 틀린 것은?", "choices": {"1": "중량물의 운반경로는 최소화한다.", "2": "부재는 일직선의 흐름을 피하고 상호 교차되는 것이 바 람직하다.", "3": "완충지역(Buffer area)을 설치하여 공정간의 능력 균형을 도모한다.", "4": "장래의 방침에 따라 변화에 대응할 수 있는 여지를 남겨 둔다."}, "answers": [2], "explanation": ""}, {"id": 150, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 65, "question": "가공 공사에서 강판의 변형이 제거된 바로 다음의 일반적인 공정은?", "choices": {"1": "굽힘", "2": "마킹", "3": "절단", "4": "펀칭"}, "answers": [2], "explanation": ""}, {"id": 151, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 66, "question": "지상 조립을 완료한 블록의 탑재 후 행해져야 할 공사는?", "choices": {"1": "선형 결정짓기", "2": "블록의 보강", "3": "선행 발판 가설", "4": "선행의장 및 도장"}, "answers": [1], "explanation": ""}, {"id": 152, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 67, "question": "다음과 같이 용접방향과 용착방향이 반대인 용착법은?", "choices": {"1": "전진법", "2": "대칭법", "3": "비석법", "4": "후퇴법"}, "answers": [4], "explanation": ""}, {"id": 153, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 68, "question": "선대 공사 중에 이루어져야 할 작업이 아닌 것은?", "choices": {"1": "흘수표검사", "2": "수밀시험", "3": "탱크 내부검사", "4": "경사시험"}, "answers": [4], "explanation": ""}, {"id": 154, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 69, "question": "선대공사에서 블록결합도에 기재할 필요가 없는 것은?", "choices": {"1": "도장재료", "2": "용접기호", "3": "절단여유의 유무", "4": "스트롱 백의 종류 및 사용법"}, "answers": [1], "explanation": ""}, {"id": 155, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 71, "question": "가변피치 프로펠러(C.P.P)에 대한 설명으로 틀린 것은?", "choices": {"1": "프로펠러 날개의 각도를 조정하여 피치를 조정할 수 있 다.", "2": "후진할 경우에도 프로펠러의 회전방향을 전진할 때와 동 일하다.", "3": "주기관을 정속도로 유지하면서 출력을 조정할 수 있어 기관운전에 이점이 있다.", "4": "타(Rudder)를 별도로 장치할 필요가 없어 선박의 조정 성능이 우수하다."}, "answers": [4], "explanation": ""}, {"id": 156, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 72, "question": "가스터빈의 주요 구성 부분이 아닌 것은?", "choices": {"1": "50", "2": "100", "3": "200", "4": "300"}, "answers": [4], "explanation": ""}, {"id": 157, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 75, "question": "4사이클 기관과 비교할 때 2사이클 기관의 장점이 아닌 것 은?", "choices": {"1": "축의 부식방지", "2": "선미부의 수밀", "3": "프로펠러의 추력 전달", "4": "선미관 내면과의 마찰감소"}, "answers": [2], "explanation": ""}, {"id": 158, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 77, "question": "다음 중 고속 디젤기관의 기본 사이클로서 열공급이 정적 및 정압의 두 부분에서 이루어지므로 정적-정압사이클이라 고도 하는 사이클은?", "choices": {"1": "오토(Otto) 사이클", "2": "디젤(Diesel) 사이클", "3": "사바테(Sabathe) 사이클", "4": "브레이튼(Brayton) 사이클"}, "answers": [3], "explanation": ""}, {"id": 159, "date": "20090510", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 79, "question": "다음 중 디젤기관에서 과급기(Super-charger)의 역할로 틀 린 것은?", "choices": {"1": "출력을 증가시킬 수 있다.", "2": "연료 공급을 적게할 수 있다.", "3": "흡입공기의 압력을 높일 수 있다.", "4": "실린더에 공기 흡입량을 증가시킬 수 있다."}, "answers": [2], "explanation": ""}, {"id": 161, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 1, "question": "항해시 부력에 의해서만 지지되는 선박은?", "choices": {"1": "활주형선(planning boat)", "2": "수중익선(hydrofoil boat)", "3": "호버 크레프트(hover craft)", "4": "배수량형선(displacement ship)"}, "answers": [4], "explanation": ""}, {"id": 162, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 2, "question": "다음 중 실선의 전저항을 알기 위해 실시하는 모형선 시험을 실선으로 확장 시킬 수 있는 어떤 저항계수를 알기 위한 것 인가?", "choices": {"1": "형상저항계수", "2": "조와저항계수", "3": "잉여저항계수", "4": "공기저항계수"}, "answers": [3], "explanation": ""}, {"id": 164, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 5, "question": "다음 중 본전곡선(Bonjean curve)을 작성하기 위하여 반드시 알아야 되는 것은?", "choices": {"1": "공기저항", "2": "조파저항", "3": "조와저항", "4": "형상저항"}, "answers": [2], "explanation": ""}, {"id": 165, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 8, "question": "스톡리스 앵커(stockless anchor)의 장점으로 틀린 것은?", "choices": {"1": "닻의 취급이 간편하다.", "2": "플루크에 의한 파지력이 비교적 강하다.", "3": "투묘 후 스토크에 의한 닻줄이 꼬일 염려가 없다.", "4": "수심이 얕은 때에 플루크(fluke)에 의하여 선저가 손상을 입을 염려가 없다."}, "answers": [2], "explanation": ""}, {"id": 166, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 9, "question": "시마진(Sea Margin)이란 무엇인가?", "choices": {"1": "Surging", "2": "Yawing", "3": "Pitching", "4": "Rolling"}, "answers": [2], "explanation": ""}, {"id": 167, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 11, "question": "다음 중 선박의 계선·계류장치가 아닌 것은?", "choices": {"1": "2.1", "2": "3.0", "3": "4.1", "4": "8.3"}, "answers": [4], "explanation": ""}, {"id": 168, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 13, "question": "밸러스트(Ballast)의 주된 사용 목적은?", "choices": {"1": "공선시복원성조정", "2": "재화중량의 조정", "3": "추진성능 조정", "4": "선체저항의 조정"}, "answers": [1], "explanation": ""}, {"id": 169, "date": "20140302", "subject": 1, "subject_name": "조선공학일반", "question_no": 14, "question": "선박의 주요치수만으로 옳게 나열한 것은?", "choices": {"1": "수선장(LWL)", "2": "전장(LOA)", "3": "수선간장(LPP)", "4": "건현장(L) f"}, "answers": [2], "explanation": ""}, {"id": 170, "date": "20140302", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 23, "question": "관 속의 흐름에서 레이놀즈수가 1200인 경우 마찰계수의 값 은 약 얼마인가?", "choices": {"1": "실선과 모형선의 속도", "2": "실선과 모형선의 프루드수", "3": "실선과 모형선의 레일놀즈수", "4": "실선과 모형선의 프루드수와 레일놀즈수"}, "answers": [4], "explanation": ""}, {"id": 171, "date": "20140302", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 27, "question": "원관을 흐르는 유체의 층류와 난류유동에 대한 설명으로 틀 린 것은?", "choices": {"1": "층류전단응력이 난류전단응력보다 크다.", "2": "전단응력은 파이프의 중심으로부터 거리에 비례한다.", "3": "원관 윤동에서 레이놀즈수가 2100 이하이면 층류운동이 다.", "4": "원관 윤동에서 레이놀즈수가 4100 이하이면 난류운동이"}, "answers": [1], "explanation": ""}, {"id": 172, "date": "20140302", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 29, "question": "다음 중 교란되지 않은 유체의 정압을 측정할 때 사용되는 장치는?", "choices": {"1": "5", "2": "15", "3": "25", "4": "35"}, "answers": [1], "explanation": ""}, {"id": 173, "date": "20140302", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 33, "question": "후크의 법칙에 대한 설명 중 틀린 것은?", "choices": {"1": "전단탄성계수와 전단변형률은 서로 반비례한다.", "2": "축방향 응력과 축방향 변형률은 서로 반비례한다.", "3": "축방향 응력과 세로탄성계수는 서로 비례한다.", "4": "전단응력과 전단탄성계수는 서로 비례한다."}, "answers": [2], "explanation": ""}, {"id": 174, "date": "20140302", "subject": 2, "subject_name": "조선유체역학 및 재료역학", "question_no": 39, "question": "보의 탄성곡선의 곡률반경 ρ를 표시할 때 옳은 것은? (단, M : 굽힘모멘트, E : 탄성계수, I = 단면 2차모멘트)", "choices": {"1": "8/9", "2": "8/9π", "3": "16/9", "4": "32/9π"}, "answers": [3], "explanation": ""}, {"id": 175, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 41, "question": "선루에 대한 설명으로 옳은 것은?", "choices": {"1": "길이의 1/4 이상 걸쳐있는 상부구조물이다.", "2": "길이의 1/5 이상 걸쳐있는 상부구조물이다.", "3": "외판에서 선폭의 1/25 이내에 측벽을 가진 상부구조물이 다.", "4": "외판에서 선폭의 1/20 이내에 측벽을 가진 상부구조물이 다."}, "answers": [3], "explanation": ""}, {"id": 176, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 42, "question": "갑판의 캠버(Camber)를 두는 목적으로 옳은 것은?", "choices": {"1": "사람의 보행이 편하다.", "2": "갑판화물 적재에 편하다.", "3": "갑판보(Deck beam)의 시공이 간편하다.", "4": "갑판의 강도가 좋아지며 배수에 편리하다."}, "answers": [4], "explanation": ""}, {"id": 177, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 43, "question": "특설늑골(web frame)에 대한 설명으로 옳은 것은?", "choices": {"1": "단면계수가 크면 종굽힘응력이 커진다.", "2": "중립축의 위치에서 굽힘응력이 최대가 된다.", "3": "단면의 면적중심이 하방으로 치우져 있으면 단며하부의 응력이 크게 된다.", "4": "중립축이 단면의 중앙에 있으면 중립축 상부 및 하부의 응력의 절대값은 같다."}, "answers": [3], "explanation": ""}, {"id": 178, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 45, "question": "선체 종강도의 계산 순서로 옳은 것은?", "choices": {"1": "파형격벽", "2": "수밀격벽", "3": "요철격벽", "4": "비수밀격벽"}, "answers": [2], "explanation": ""}, {"id": 179, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 48, "question": "선체 내부에 격벽을 설치하는 목적이 아닌 것은?", "choices": {"1": "화물을 성질별로 분류하여 적재한다.", "2": "노천시의 파도를 막아 누수를 방지한다.", "3": "화재 발생시 방화벽의 기능을 하도록 한다.", "4": "수밀 구획을 만들어 침수 구역을 한정시킨다."}, "answers": [2], "explanation": ""}, {"id": 180, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 49, "question": "다음 중 비틀림 강도에 직접 기여치 않는 부재는?", "choices": {"1": "늑골", "2": "갑판", "3": "거더(girder)", "4": "외판"}, "answers": [3], "explanation": ""}, {"id": 181, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 50, "question": "다음 중 종강력재(longitudinal strength member)가 아닌 것 은?", "choices": {"1": "공작이 간단하다.", "2": "종강력이 유리하다.", "3": "선체중량이 작아진다.", "4": "액체 화물적재에 적합하다."}, "answers": [4], "explanation": ""}, {"id": 182, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 53, "question": "선체 격벽 중 반드시 수밀이어야 하는 것은?", "choices": {"1": "기관실 후단 격벽", "2": "중심선 격벽", "3": "스크린 격벽", "4": "석탄고 격벽"}, "answers": [1], "explanation": ""}, {"id": 183, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 54, "question": "창구연재(hatch coaming)를 붙이는 목적은?", "choices": {"1": "선창의 통풍을 위하여", "2": "갑판을 보강하기 위하여", "3": "공작을 용이하게 하기 위하여", "4": "하역작업을 용이하게 하기 위하여"}, "answers": [2], "explanation": ""}, {"id": 184, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 56, "question": "다음 중 선미와 선수구조에 모두 사용되는 부재는?", "choices": {"1": "심늑판(deep floor)", "2": "힐피스(heel piece)", "3": "브레스트 훅(breast hook)", "4": "패션 플레이트(fashion plate)"}, "answers": [1], "explanation": ""}, {"id": 185, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 57, "question": "선체에 작용하는 전단응력에 대한 설명으로 틀린 것은?", "choices": {"1": "전단응력이 큰 선박은 굽힘응력도 크다.", "2": "최대전단응력은 선박의 깊이에 비례한다.", "3": "최대전단응력은 외판의 두께에 반비례한다.", "4": "선수미 각각에서부터 선체길이의 약 1/4의 위치에서 최 대값을 가진다."}, "answers": [2], "explanation": ""}, {"id": 186, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 58, "question": "상갑판이 현측후판(Shear strake)과 접하는 판은?", "choices": {"1": "Deck beam", "2": "Deck stringer", "3": "Gunnel-L형재", "4": "Side deck"}, "answers": [2], "explanation": ""}, {"id": 187, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 59, "question": "연판(margin plate)을 붙이는 곳은?", "choices": {"1": "갑판과 외판의 연결부위", "2": "이중저와 필러의 연결부위", "3": "선저만곡부와 이중저 연결부위", "4": "용골과 중심선거더의 연결부위"}, "answers": [3], "explanation": ""}, {"id": 188, "date": "20140302", "subject": 3, "subject_name": "선체구조학", "question_no": 60, "question": "다음 중 외판 명칭의 설명이 잘못된 것은?", "choices": {"1": "sheer strake : 강력갑판하의 현측 최상부 외판", "2": "bilge strake : 선저 외판중 만곡부에 있는 외판", "3": "side plate : propeller post의 boss를 싸고 있는 외판", "4": "bottom plate : 평판 용골에 연결되는 외판으로 만곡부 상단까지의 외판"}, "answers": [3], "explanation": ""}, {"id": 189, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 61, "question": "해안선이 1변이며 가장 적은 면적으로 배치할 경우 일반적 으로 적합한 기본 공장 배치 형태는?", "choices": {"1": "I자형", "2": "T자형", "3": "L자형", "4": "U자형"}, "answers": [4], "explanation": ""}, {"id": 190, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 62, "question": "선체 내업(가공)공사 공정을 순서대로 옳게 나열한 것은?", "choices": {"1": "절단 → 벤딩 → 마킹 → 변형 제거", "2": "절단 → 변형 제거 → 마킹 → 벤딩", "3": "변형 제거 → 마킹 → 절단 → 벤딩", "4": "마킹 → 변형 제거 → 벤딩 → 절단"}, "answers": [3], "explanation": ""}, {"id": 191, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 63, "question": "선행의장을 옳게 설명한 것은?", "choices": {"1": "선수부분에서 이루어지는 의장작업이다.", "2": "블록 조립과정에서 이루어지는 의장작업이다.", "3": "전기, 기관, 실내의장작업을 통칭하는 의장작업이다.", "4": "탑재공정 이전에 지상에서 이루어지는 의장작업이다."}, "answers": [2], "explanation": ""}, {"id": 192, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 65, "question": "블록 건조 방식의 장점이 아닌 것은?", "choices": {"1": "고소작업의 위험이 감소된다.", "2": "독 또는 선대작업기간을 단축할 수 있다.", "3": "공정과 공작기술의 관리 감독이 용이하다.", "4": "선체건조시 필요한 강재량을 줄일 수 있다."}, "answers": [4], "explanation": ""}, {"id": 193, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 66, "question": "경사선대에서 선박을 진수할 경우 진수계산 항목이 아닌 것 은?", "choices": {"1": "층식건조방식", "2": "세미텐덤건조방식", "3": "다점식건조방식", "4": "피라밋식건조방식"}, "answers": [4], "explanation": ""}, {"id": 194, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 69, "question": "선체조립 작업시 용접에 의한 변형을 교정하는 방법이 아닌 것은?", "choices": {"1": "선상가열법", "2": "가우징 작업에 의한 방법", "3": "가열 후 해머링하는 방법", "4": "가열 후 압력을 가하고 수냉하는 법"}, "answers": [2], "explanation": ""}, {"id": 195, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 70, "question": "가스절단시 절단 변형의 방지 대책으로 틀린 것은?", "choices": {"1": "피절단재를 고정한다.", "2": "수냉에 의하여 열을 제거한다.", "3": "열의 영향을 적게 받도록 지그재그로 절단한다.", "4": "절단부와 대칭인 판끝을 미리 가열하여 열의 평형을 유 지한다."}, "answers": [3], "explanation": ""}, {"id": 196, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 71, "question": "다음 중 상선에 가장 적합한 프로펠러는?", "choices": {"1": "제트 프로펠러", "2": "패들 프로펠러", "3": "스크류 프로펠러", "4": "보이드-슈나이더 프로펠러"}, "answers": [3], "explanation": ""}, {"id": 197, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 72, "question": "다음 중 디젤기관의 연소실을 형성하는 부품이 아닌 것은?", "choices": {"1": "피스톤 로드", "2": "실린더 라이너", "3": "피스톤 헤드", "4": "실린더 헤드"}, "answers": [1], "explanation": ""}, {"id": 198, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 73, "question": "선체를 관통하는 곳에 설치되는 유윤활식 선미관의 역할은?", "choices": {"1": "진동방지와 전기절연", "2": "해수 공급량을 적당하게 유지", "3": "선미관의 패킹 및 선체강도 보강", "4": "해수 침입 방지와 기름누설 방지"}, "answers": [4], "explanation": ""}, {"id": 199, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 75, "question": "프로펠러에 관한 용어를 설명한 것으로 틀린 것은?", "choices": {"1": "투영면적비란 투영면적을 전원면적으로 나눈 값이다.", "2": "전개면적이란 전개면적을 전원면적으로 나눈 값이다.", "3": "전개면적에는 보수나 날개와 날개사이의 틈 부분은 포함 되지 않는다.", "4": "피치비란 프로펠러 직경을 피치로 나눈 값이다."}, "answers": [4], "explanation": ""}, {"id": 200, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 76, "question": "가스터빈이 다른 내연기관에 비교하여 갖는 장점이 아닌 것 은?", "choices": {"1": "시동시 소리가 작고 시동이 편하다.", "2": "기관이 작고 구조가 간단하여 가볍다.", "3": "유지비가 싸고 윤활유의 소비가 적다.", "4": "중질증류유(heavy distilled fuel)를 사용할 수 있다."}, "answers": [1], "explanation": ""}, {"id": 201, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 77, "question": "디젤기관의 점화 방식은?", "choices": {"1": "전기점화", "2": "불꽃에 의한 점화", "3": "공기압축에 의한 점화", "4": "실린더와 피스톤의 마찰열에 의한 점화"}, "answers": [3], "explanation": ""}, {"id": 202, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 78, "question": "감속장치의 감속비는 무엇의 비인가?", "choices": {"1": "차이가 없다.", "2": "2행정 기관이 4행정 기관에 비하여 출력이 2배 크다.", "3": "4행정 기관이 2행정 기관에 비하여 출력이 2배 크다.", "4": "2행정 기관이 4행정 기관에 비하여 출력이 4배 크다."}, "answers": [1], "explanation": ""}, {"id": 203, "date": "20140302", "subject": 4, "subject_name": "선박건조학 및 선박동력장치", "question_no": 80, "question": "추력 베어링의 주된 역할은?", "choices": {"1": "축의 중심유지", "2": "축의 진동을 방지", "3": "클러치의 진동방지", "4": "프로펠러의 추력을 선체에 전달"}, "answers": [4], "explanation": ""}]
+[
+  {
+    "id": 1,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 1,
+    "question": "선수선저 형상을 구상선수로 하는 주된 이유는?",
+    "choices": {
+      "1": "조정성능 증대",
+      "2": "선수부 강도 증대",
+      "3": "조파저항 성능 개선",
+      "4": "점성저항 성능 개선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 2,
+    "question": "선도에서 수선면의 진형상은 어느 도면에 나타나는가?",
+    "choices": {
+      "1": "정면도",
+      "2": "반폭도",
+      "3": "측면도",
+      "4": "공사용 정면선도"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 3,
+    "question": "다음 괄호 속에 들어갈 알맞은 말은?",
+    "choices": {
+      "1": "레이놀드수, 마찰저항계수",
+      "2": "레이놀드수, 잉여저항계수",
+      "3": "프루드수, 마찰저항계수",
+      "4": "프루드수, 잉여저항계수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 4,
+    "question": "상갑판 또는 선저에 걸리는 굽힘허용응력이 170 N/mm2, 세 로굽힘모멘트가 255000 t-m 인 선박의 선체 중앙단면의 단 면계수는?",
+    "choices": {
+      "1": "1.5 m3",
+      "2": "14.7 m3",
+      "3": "15.7 m3",
+      "4": "2.0 m3"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 5,
+    "question": "내연기관선의 추진효율을 옳게 나타낸 식은? (단, EHP : 유 효마력, THP : 추력마력, DHP : 전달마력, BHP : 제동마력)",
+    "choices": {
+      "1": "EHP/THP",
+      "2": "EHP/DHP",
+      "3": "THP/BHP",
+      "4": "EHP/BHP"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 6,
+    "question": "만재 입항시에 복원성이 나쁜 이유가 아닌 것은?",
+    "choices": {
+      "1": "출항시 가득 찼던 연료가 항해 중 소모로 자유표면의 효 과가 있다.",
+      "2": "선저 탱크의 기름소모로 인해 중심이 상승한다.",
+      "3": "산적화물선의 경우 횡요에 의해 화물이 한 쪽으로 쏠린 다.",
+      "4": "항해 중 밸러스트 탱크에 해수를 채우므로 배수량이 증가 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 7,
+    "question": "메타센터 높이(GM)를 계산하는 옳은 식은? (단, KB : 기선으 로부터 부심까지의 연직높이, KG : 기선으로부터 무게중심까 지의 연직높이, BM:메타센터 반지름)",
+    "choices": {
+      "1": "GM = KB - BM – KG",
+      "2": "GM = KB + BM - KG",
+      "3": "GM = KB - BM + KG",
+      "4": "GM = KB + BM + KG"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 8,
+    "question": "선박의 타각 범위를 바르게 나타낸 것은?",
+    "choices": {
+      "1": "좌, 우현 35°",
+      "2": "좌, 우현 30°",
+      "3": "좌현 30°, 우현 35°",
+      "4": "좌현 35°, 우현 30°"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 9,
+    "question": "선박설계에 있어서 설계자가 결정해야 할 선박 특성은?",
+    "choices": {
+      "1": "재화중량",
+      "2": "형상계수",
+      "3": "항해구역",
+      "4": "항해속력"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 10,
+    "question": "선박으로부터의 해상 오염 방지를 위한 국제 협약은?",
+    "choices": {
+      "1": "SOLAS",
+      "2": "MARPOL",
+      "3": "ILLC",
+      "4": "KR"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 11,
+    "question": "선박이 선체의 수직 중심선축을 중심으로 주기적인 회전왕 복 운동을 하는 것은?",
+    "choices": {
+      "1": "롤링(rolling)",
+      "2": "히빙(heaving)",
+      "3": "서징(surging)",
+      "4": "요잉(yawing)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 12,
+    "question": "배의 선형계수 중 방형 계수(C ) 0.75, 중앙횡단면계수(C ) B M 0.98일 때, 주형계수(C )는? P",
+    "choices": {
+      "1": "0.735",
+      "2": "0.765",
+      "3": "1.30",
+      "4": "1.73"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 13,
+    "question": "만재배수 톤수에서 경하배수 톤수를 뺀 값은?",
+    "choices": {
+      "1": "총 톤수",
+      "2": "순 톤수",
+      "3": "기준 배수 톤수",
+      "4": "재화 톤수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 14,
+    "question": "선박의 경사시험을 하는 목적은 다음 중 무엇을 구하기 위 해서인가?",
+    "choices": {
+      "1": "부면심 위치",
+      "2": "부심 위치",
+      "3": "중심 위치",
+      "4": "경심 위치"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 15,
+    "question": "배가 정박하고 있을 때 통선 등에서 본선에 오르내리기 위 해 현측에 설치되는 경사 사다리는?",
+    "choices": {
+      "1": "부두 사다리",
+      "2": "현측 사다리",
+      "3": "도선 사용 사다리",
+      "4": "불워크 사다리"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 16,
+    "question": "배수량 100 ton 의 배에서 1 ton 의 중량물을 가로방향으로 4 m 이동시켰을 때 길이 2 m 의 진자끝이 0.2 m 이동하였 다. 이 때 메타센터 높이 GM은?",
+    "choices": {
+      "1": "0.2 m",
+      "2": "0.3 m",
+      "3": "0.4 m",
+      "4": "0.6 m"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 17,
+    "question": "선박의 저항에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "마찰저항은 속도가 느릴수록 크다.",
+      "2": "잉여저항은 조파저항과 조와저항 등의 합이다.",
+      "3": "조파저항은 속도가 빠를수록 작다.",
+      "4": "조와저항은 공기저항이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 18,
+    "question": "선박기관의 연속최대출력에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "보통 MCR로 약기한다.",
+      "2": "주기관의 설계 조건상 24시간 이상의 연속 운전에서 낼 수 있는 안전 최대출력을 뜻한다.",
+      "3": "2시간 동안 연속적으로 운전 가능한 과부하 출력을 말한 다.",
+      "4": "축계설계, 프로펠러의 강도 계산에 쓰이는 기준 마력이 다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20020526",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 20,
+    "question": "다음 중에서 경두선을 잘못 설명한 것은?",
+    "choices": {
+      "1": "무게 중심이 낮은 선박을 말한다.",
+      "2": "GM의 값이 커서 복원력이 매우 크다.",
+      "3": "복원력이 크기 때문에 승선감이 매우 좋다.",
+      "4": "작업선이나 어선의 경우에 경두선이 많다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 22,
+    "question": "안지름이 180cm, 두께 15mm인 원통형 보일러 용기 안의 압력이 1 MPa일 때, 이 용기에 발생하는 최대 응력은 몇 MPa 인가?",
+    "choices": {
+      "1": "30",
+      "2": "60",
+      "3": "300",
+      "4": "600"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 23,
+    "question": "이상기체에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "기체의 비중량은 보일-샬의 법칙에서 구한다.",
+      "2": "기체의 비중량은 압력에 비례하고 절대온도에 반비례한 다.",
+      "3": "기체상수의 값은 가스의 종류에 따라 다르며 각 가스의 분자량과 반비례하는 관계가 있다. m3이다.",
+      "4": "모든 가스 1mole이 차지하는 체적은 20.4"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 24,
+    "question": "곡면에 작용하는 힘의 수평 분력은?",
+    "choices": {
+      "1": "곡면의 수직 상방의 액체의 무게",
+      "2": "그의 면심에서 압력에 면적을 곱한 것",
+      "3": "곡면을 수직면에 투영한 면적에 작용하는 힘",
+      "4": "곡면에 의해서 지지된 액체의 무게"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 25,
+    "question": "코일스프링에 60 N의 힘을 작용시켰더니 2.7cm 줄었다. 이 때 스프링에 저장된 탄성에너지는 몇 N.cm인가?",
+    "choices": {
+      "1": "162",
+      "2": "81",
+      "3": "73",
+      "4": "92"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 26,
+    "question": "평판 위를 흐르는 유체 유동에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "유속의 법선방향 구배는 거의 0 이다.",
+      "2": "유속의 접선성분은 0 이다.",
+      "3": "유속의 법선성분은 0 이다.",
+      "4": "압력 구배는 거의 0 이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 27,
+    "question": "운동량의 단위는?",
+    "choices": {
+      "1": "kgf.sec2/m",
+      "2": "kgf.m/sec",
+      "3": "kgf.sec",
+      "4": "kgf"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 29,
+    "question": "바다 속을 운항하는 잠수함이 28 kgf/cm2 의 절대압력을 받고 있다. 이 때의 깊이는? (단, 이 때의 대기압은 1.0332 kgf/cm2이다.)",
+    "choices": {
+      "1": "38.00 m",
+      "2": "35.27 m",
+      "3": "24.32 m",
+      "4": "26.31 m"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 30,
+    "question": "배가 물 위를 10 m/sec 로 지나간다. 배 뒤의 프로펠러를 지난 후의 물의 후류속도가 8 m/sec 이고, 프로펠러의 지 름이 0.8 m 이면, 추력은 몇 kgf 인가?",
+    "choices": {
+      "1": "5742 kgf",
+      "2": "5642 kgf",
+      "3": "5542 kgf",
+      "4": "5442 kgf"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 31,
+    "question": "수평 원관의 층류유동에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "속도 분포는 2차원 포물선으로 된다.",
+      "2": "벽면에서의 속도는 평균속도의 반이다.",
+      "3": "최대속도는 평균속도의 2배이다.",
+      "4": "원관의 중심에서 최대속도가 된다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 34,
+    "question": "앙각이 4도인 어떤 날개에 작용하는 양력이 100 N 이다. 이 날개의 앙각을 2도로 바꾸면 양력은?",
+    "choices": {
+      "1": "50 N",
+      "2": "100 N",
+      "3": "75 N",
+      "4": "25 N"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 36,
+    "question": "안지름 0.1 m 인 수평 원관 내를 평균유속 5 m/sec 로 물 이 흐르고 있다. 길이 10 m 사이에서 나타나는 손실수두 는? (단, 관마찰계수는 0.013이다.)",
+    "choices": {
+      "1": "1.43 m",
+      "2": "1.78 m",
+      "3": "3.32 m",
+      "4": "1.66 m"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 37,
+    "question": "단면의 주축에 관한 설명 중 옳은 것은?",
+    "choices": {
+      "1": "주축에서는 단면 2차 모멘트가 0 이다.",
+      "2": "주축에서는 단면 상승 모멘트가 0 이다.",
+      "3": "주축에서는 극단면 2차 모멘트가 0 이다.",
+      "4": "주축에서는 단면 상승 모멘트가 최대이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 38,
+    "question": "지름 4cm, 길이 1m인 연강의 한 끝을 고정하고 다른 끝에 588 N.m의 비틀림 모멘트가 작용할 때 이 봉에 생기는 최 대 전단응력은 몇 MPa인가?",
+    "choices": {
+      "1": "36.82",
+      "2": "46.82",
+      "3": "56.28",
+      "4": "66.28"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20020526",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 39,
+    "question": "벤츄리 미터에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "유속을 직접 측정하는 계기이다.",
+      "2": "압력차를 측정하여 유량을 계산한다.",
+      "3": "수평관로에만 사용할 수 있다.",
+      "4": "베르누이의 정리와는 무관하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 41,
+    "question": "선체 선수선저부의 보강구조는?",
+    "choices": {
+      "1": "팬팅구조",
+      "2": "덕트 킬",
+      "3": "혼합식 구조",
+      "4": "이중저 구조"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 42,
+    "question": "다음 갑판 중 기능상 그 성질이 다른 것은?",
+    "choices": {
+      "1": "건현갑판",
+      "2": "상갑판",
+      "3": "격벽갑판",
+      "4": "대갑판"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 43,
+    "question": "선박에서 새깅과 호깅상태의 응력을 담당하는 부재가 아닌 것은?",
+    "choices": {
+      "1": "용골",
+      "2": "중심선 거더",
+      "3": "늑판",
+      "4": "상갑판"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 44,
+    "question": "살물 운반선(bulk carrier)에서 갑판하의 선측 탱크(side tank)를 경사지게 설치하는 가장 큰 이유는?",
+    "choices": {
+      "1": "화물의 이동 공간을 적게하여 복원성을 높이기 위함이 다.",
+      "2": "종강도를 크게 하여 굽힘모멘트에 대처하기 위함이다",
+      "3": "발라스트용으로 사용할 때 중심을 좀 더 낮추기 위함이 다.",
+      "4": "화물의 하역을 용이하게 하기 위함이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 46,
+    "question": "선체가 새깅 상태(sagging condition)에 있을 때 최대압축 응력이 발생하는 부분은?",
+    "choices": {
+      "1": "갑판",
+      "2": "선저외판",
+      "3": "선측외판",
+      "4": "횡격벽판"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 47,
+    "question": "선수 형상에서 구상 선수를 채용하는 일반적 이유는?",
+    "choices": {
+      "1": "외형을 좋게 하기 위하여",
+      "2": "충돌시에 대비하여",
+      "3": "조파 저항을 줄이기 위하여",
+      "4": "선체 용적을 증가시키기 위하여"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 48,
+    "question": "선체에서 집중하중이 걸리는 부분에 대한 보강법이 아닌 것 은?",
+    "choices": {
+      "1": "마스트와 같이 큰 모멘트가 작용하는 곳은 사방에 큰 브 래킷을 설치한다.",
+      "2": "집중하중이 걸리는 갑판의 넓은 부위에 이중판을 대어 견고히 한다.",
+      "3": "집중하중 직하의 횡격벽은 집중하중에 의한 변형이 생기 므로 가능한 필러나 갑판 빔으로 대치한다.",
+      "4": "갑판에서 휨 변형이 생기기 쉬운 곳의 하부에는 필러를 설치한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 49,
+    "question": "기관실내 기계류를 지지하기 위하여 받침기초를 설치할 경 우 강도상으로 고려해야 할 사항이 아닌 것은?",
+    "choices": {
+      "1": "응력이 집중되지 않도록 한다.",
+      "2": "하중이 선체구조부재에 넓게 분포되지 않도록 한다.",
+      "3": "선체구조 부재에서 얻을 수 있는 지지효과를 활용한다.",
+      "4": "받침기초에 굽힘모멘트에 의한 선체응력이 전달되지 않 도록 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 50,
+    "question": "종식 구조양식을 주로 채용하는 선박은?",
+    "choices": {
+      "1": "여객선",
+      "2": "화물선",
+      "3": "유조선",
+      "4": "화객선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 51,
+    "question": "횡식구조 선박에서 횡강도 담당부재가 아닌 것은?",
+    "choices": {
+      "1": "보",
+      "2": "늑골",
+      "3": "늑판",
+      "4": "중심선 내용골"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 52,
+    "question": "창내 늑골(hold frame)만으로 횡강도가 충분하지 못하다고 생각되는 개소의 보강을 위하여 설치하는 것은?",
+    "choices": {
+      "1": "특설늑골(web frame)",
+      "2": "실체늑판(solid floor)",
+      "3": "조립늑판(open floor)",
+      "4": "중심선 거더(center girder)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 53,
+    "question": "선체부재 중 단면계수의 계산에 포함되지 않은 것은?",
+    "choices": {
+      "1": "평판용골",
+      "2": "현측후판",
+      "3": "갑판거더",
+      "4": "갑판특설보"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 55,
+    "question": "연료유 탱크와 윤활유 탱크 사이 및 이들과 청수탱크 사이 에 설치하는 것은?",
+    "choices": {
+      "1": "디프 탱크",
+      "2": "라이더 판",
+      "3": "대판",
+      "4": "코퍼댐"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 56,
+    "question": "타(rudder)의 설치 시 타 트렁크(rudder trunk) 또는 갑판 관통부를 통한 해수의 침입을 막기 위해 패킹상자를 붙이는 데 이것의 명칭은?",
+    "choices": {
+      "1": "스테딩 박스(steading box)",
+      "2": "러더 스토퍼(rudder stopper)",
+      "3": "스터핑 박스(stuffing box)",
+      "4": "점핑 스토퍼(jumping stopper)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 57,
+    "question": "선박의 횡요(rolling)시에 갑판은 바닥구조에 대하여 옆으로 움직이려 하고, 한쪽 외판은 반대쪽에 대해서 연직으로 움 직이려 하는 횡변형 현상은?",
+    "choices": {
+      "1": "랙킹(racking)",
+      "2": "팬팅(panting)",
+      "3": "슬래밍(slamming)",
+      "4": "해머링(hammering)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 58,
+    "question": "기둥(pillar)의 좌굴(buckling) 원인이 아닌 것은?",
+    "choices": {
+      "1": "진동 등 기타의 원인으로 축방향으로 비대칭의 힘이 작 용할 때",
+      "2": "하중이 기둥 축선에 일치하지 않을 때",
+      "3": "축방향으로 인장하중이 과도하게 작용할 때",
+      "4": "재질이 불균일할 때"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 59,
+    "question": "갑판의 설계시 고려하는 상갑판 위의 최대하중은?",
+    "choices": {
+      "1": "0.720 ton/m2",
+      "2": "1.100 ton/m2",
+      "3": "1.530 ton/m2",
+      "4": "1.568 ton/m2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20020526",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 60,
+    "question": "선체구조에 고장력강을 사용하는 주요 목적은?",
+    "choices": {
+      "1": "강도를 높이고 선체중량의 경감을 위하여",
+      "2": "용접성을 향상시키기 위하여",
+      "3": "선각공수의 절감을 위하여",
+      "4": "응력집중 현상을 방지하기 위하여"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 61,
+    "question": "공기표준 내연기관 사이클에서 공급 열량, 초압 및 초온과 압축비가 같을 때, 각 이론 열효율의 순서가 높은 것부터 옳게 나열된 것은? (단, 오토 사이클의 이론 열효율 : η , tho 디이젤 사이클의 이론 열효율 : η , 사바데 사이클의 이론 thd 열효율 : η ) ths",
+    "choices": {
+      "1": "η ＞ η ＞ η",
+      "2": "η ＞ η ＞ η ths thd tho tho ths thd",
+      "3": "η ＞ η ＞ η",
+      "4": "η ＞ η ＞ η tho thd ths ths tho thd"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 63,
+    "question": "선박 건조의 공작관리도표를 작성하는 데 있어서 가장 중요 한 것은?",
+    "choices": {
+      "1": "생산성",
+      "2": "관리성",
+      "3": "기술성",
+      "4": "경제성"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 64,
+    "question": "프로펠러의 캐비테이션 원인이 아닌 것은?",
+    "choices": {
+      "1": "형상이 불량할 때",
+      "2": "날개 끝이 얇을 때",
+      "3": "회전속도가 임계치 이상일 때",
+      "4": "수면 가까이서 회전할 때"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 65,
+    "question": "경사선대에서 선박을 진수할 경우 진수계산 항목이 아닌 것 은?",
+    "choices": {
+      "1": "선미부양까지의 활주거리",
+      "2": "포핏에 작용하는 압력",
+      "3": "진수 후의 흘수",
+      "4": "자유부양 후의 선박 속도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 66,
+    "question": "필렛 용접이음에서 틈새가 3 ∼ 4 mm 정도로 발생했다. 이 경우 보정 방법으로 옳은 것은?",
+    "choices": {
+      "1": "라이너 삽입 용접",
+      "2": "뒷면 댐쇠 사용 용접",
+      "3": "푹 150 ∼ 200 mm 취환",
+      "4": "다리길이(각장)를 증가시켜 용접"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 67,
+    "question": "열간가공은 강재를 가열하여 해머 등으로 외력을 가하여 가 공을 하는 방법이다. 이 때 가능한 피해야 하는 가열 온도 의 범위는?",
+    "choices": {
+      "1": "950 ℃ 이상",
+      "2": "850 ∼ 900 ℃",
+      "3": "250 ∼ 450 ℃",
+      "4": "250 ℃ 미만"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 68,
+    "question": "직접 분사식 디젤 기관의 설명 중 틀린 것은?",
+    "choices": {
+      "1": "비교적 폭발압력이 낮다.",
+      "2": "연소실 표면적이 가장 작다.",
+      "3": "구조가 간단하다. kg/cm2",
+      "4": "분사압력은 200 이상이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 69,
+    "question": "선체 건조 작업시 스트롱 백(strong back)이란?",
+    "choices": {
+      "1": "용접시 루트부의 과용융으로 인한 용락을 방지하기 위해 이음부 뒤편에 대는 백킹판",
+      "2": "용접시 변형을 방지하거나 이음부 판재의 상대위치를 정 확히 하기 위해 사용하는 판",
+      "3": "고소 작업시에 작업이 가능하도록 임시로 붙이는 발판",
+      "4": "용접의 시작부와 끝부분에 결함이 남는 것을 방지하기 위해 판 시작부 및 끝부에 부착하는 작은 판"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 70,
+    "question": "건조 선대(dry dock)의 활용도를 높이는 방법으로 먼저 건 조되는 선박의 건조와 병행하여 다음 건조될 선박의 선미부 를 선대에서 같이 건조하는 건조법은?",
+    "choices": {
+      "1": "횡이동법",
+      "2": "압출식 건조법",
+      "3": "쎄미탄뎀법",
+      "4": "2중 건조법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 72,
+    "question": "다음 중 가공공사에 속하지 않는 작업은?",
+    "choices": {
+      "1": "마킹",
+      "2": "절단",
+      "3": "굽힘",
+      "4": "선행의장"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 73,
+    "question": "가스터빈 기관의 효율을 높이기 위한 것이 아닌 것은?",
+    "choices": {
+      "1": "중간 냉각기",
+      "2": "재열기",
+      "3": "과급기",
+      "4": "재생기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 74,
+    "question": "보슈식 연료분사 펌프에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "토출밸브에는 감압 피스톤이 달려 있다.",
+      "2": "플런저와 배럴의 간극은 플런저 지름의 0.3/1,000 ~ 0.4/1,000배이다.",
+      "3": "보슈식 연료분사 펌프는 플런저 크기로 구분하며 종류는 4가지 뿐이다.",
+      "4": "플런저 재료는 특수 공구강, 크롬강 등을 사용한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 75,
+    "question": "선박건조의 일반적인 공정순서는?",
+    "choices": {
+      "1": "현도공사→ 가공공사→ 탑재공사→ 조립공사→ 진수공사",
+      "2": "현도공사→ 가공공사→ 선대공사→ 조립공사→ 진수공사",
+      "3": "현도공사→ 조립공사→ 가공공사→ 진수공사→ 탑재공사",
+      "4": "현도공사→ 가공공사→ 조립공사→ 선대공사→ 진수공사"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 76,
+    "question": "플라이 휠(fly wheel)의 작용으로 가장 적절한 것은?",
+    "choices": {
+      "1": "엔진의 회전을 빠르게",
+      "2": "엔진의 회전을 원활히",
+      "3": "캠 축의 회전을 빠르게",
+      "4": "감속기 설치를 위해"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 77,
+    "question": "디젤 기관의 노킹(knocking) 방지법으로 옳은 것은?",
+    "choices": {
+      "1": "회전을 빠르게 한다.",
+      "2": "압축비를 높인다.",
+      "3": "흡입온도를 낯춘다.",
+      "4": "발화점이 높은 연료를 사용한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 78,
+    "question": "4행정 기관과 비교한 2행정 기관의 특징 설명으로 잘못된 것은?",
+    "choices": {
+      "1": "실린더 부피가 같은 경우 1.2~1.5배의 출력을 얻을 수 있다.",
+      "2": "배기작용이 충분하고 고속기관에 적합하다.",
+      "3": "같은 출력의 4행정 기관보다 부피와 무게가 작다.",
+      "4": "저속 회전이 불안정하고, 저속시 회전력이 낮다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 79,
+    "question": "과급(過給) 디젤 기관의 이점이라고 볼 수 없는 것은?",
+    "choices": {
+      "1": "기관출력을 50 % 정도 증가시킬 수 있다.",
+      "2": "기관 설치면적이 커져서 안정도가 있다.",
+      "3": "마력당의 중량을 30~40 % 감소시킨다.",
+      "4": "연소가 잘 된다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20020526",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 80,
+    "question": "선체 블록을 분할할 경우 고려하는 사항이 아닌 것은?",
+    "choices": {
+      "1": "크레인의 능력",
+      "2": "지상조립의 공작 및 회전 조건",
+      "3": "탑재 시기의 결정",
+      "4": "선대 공작상의 여건"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 1,
+    "question": "컨테이너선은 어느 종류의 선박에 속하는가?",
+    "choices": {
+      "1": "여객선",
+      "2": "어선",
+      "3": "화물선",
+      "4": "유조선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 2,
+    "question": "선형(船型)의 종류 중 소형 화물선에서 선미 부분에 화물적재 공간을 늘려 선미 트림(trim)으로 해 주기 위해 선미부의 상 갑판을 약간 높혀 낮은 선미루로 한 것은?",
+    "choices": {
+      "1": "저선미루선",
+      "2": "복갑판선",
+      "3": "저선수루선",
+      "4": "삼도형선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 3,
+    "question": "선박의 프로펠러 효율과 관계가 없는 것은?",
+    "choices": {
+      "1": "날개 면적",
+      "2": "프로펠러 직경",
+      "3": "피치(pitch)",
+      "4": "엔진의 종류"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 4,
+    "question": "선박의 닻줄을 감아올리는 장치는?",
+    "choices": {
+      "1": "페어 리더(fair leader)",
+      "2": "윈드라스(windlass)",
+      "3": "볼라드(bollard)",
+      "4": "와핑 엔드(warping end)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 5,
+    "question": "선박으로서 갖추어야 할 기본적인 3가지 특성이 아닌 것은?",
+    "choices": {
+      "1": "부양성",
+      "2": "적재성",
+      "3": "이동성",
+      "4": "예인성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 6,
+    "question": "여객 정원이 20 명이고, 화물 수송을 함께 하는 선박은?",
+    "choices": {
+      "1": "여객선",
+      "2": "화객선",
+      "3": "화물선",
+      "4": "모선"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 7,
+    "question": "군함의 크기를 나타내는 데 사용되는 톤수는?",
+    "choices": {
+      "1": "재화중량톤수",
+      "2": "배수톤수",
+      "3": "순톤수",
+      "4": "총톤수"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 8,
+    "question": "하기만재 배수량이 8000 ton 이고, 형폭이 20 m, 선측의 유 효 높이가 10 m, 하기만재흘수선 상부의 투영면적이 1500 m2인 선박의 의장수는?",
+    "choices": {
+      "1": "884",
+      "2": "760",
+      "3": "950",
+      "4": "942"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 9,
+    "question": "프루드(Froude)의 선박 저항 분류 방식에서 잉여저항은?",
+    "choices": {
+      "1": "조파저항 ＋ 마찰저항",
+      "2": "조파저항 ＋ 조와저항",
+      "3": "마찰저항 ＋ 공기저항",
+      "4": "조파저항 ＋ 공기저항"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 10,
+    "question": "선체와 프로펠러의 종합적인 추진 성능을 알기위한 시험은?",
+    "choices": {
+      "1": "풍동시험",
+      "2": "자항시험",
+      "3": "마찰시험",
+      "4": "경사시험"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 11,
+    "question": "선박이 조난한 경우 해상에 투하하여 이 곳에 탑승하거나 붙잡고 구조를 기다리는 목적에 사용되며, 신호장치, 의약 품, 비상식량 등이 비치된 자항능력이 없는 구명설비는?",
+    "choices": {
+      "1": "구조정",
+      "2": "구명정",
+      "3": "구명부환",
+      "4": "구명뗏목"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 13,
+    "question": "선박의 저항 종류 중 통상적으로 선박의 속도가 증가할수록 급격히 증가하는 저항은?",
+    "choices": {
+      "1": "조파저항",
+      "2": "마찰저항",
+      "3": "공기저항",
+      "4": "형상저항"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 14,
+    "question": "스톡리스(stockless) 앵커의 장점이 아닌 것은?",
+    "choices": {
+      "1": "취급이 간단하다.",
+      "2": "투묘한 후 스톡에 의한 닻줄이 꼬일 염려가 없다.",
+      "3": "대형 앵커의 제작이 용이하다.",
+      "4": "플루크에 의한 파지력이 강하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 15,
+    "question": "길이가 130 m, 폭이 16.5 m, 평균흘수가 8.5 m, 해수에서 의 배수중량이 15000 ton 인 선박의 방형계수(C )는? (단, B 해수의 비중은 1.025 이다.)",
+    "choices": {
+      "1": "0.803",
+      "2": "0.692",
+      "3": "0.747",
+      "4": "0.826"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 16,
+    "question": "하천을 운항하던 선박이 바다로 진입하면?",
+    "choices": {
+      "1": "흘수가 증가한다.",
+      "2": "흘수가 감소한다.",
+      "3": "흘수가 변화하지 않는다.",
+      "4": "흘수가 증가할 수도 감소할 수도 있다. m2인"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 17,
+    "question": "수선면적(Aw)이 1200 선박의 갑판 중앙에 67.65 톤의 화물을 적재하였을 때 흘수 증가량은? (단, 해수의 비중은 1.025 이다.)",
+    "choices": {
+      "1": "4.0 cm",
+      "2": "4.5 cm",
+      "3": "5.0 cm",
+      "4": "5.5 cm"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 18,
+    "question": "선박의 톤수와 관련된 다음의 관계식 중 옳은 것은?",
+    "choices": {
+      "1": "재화중량 + 경하 배수량 = 만재 배수량",
+      "2": "재화중량 - 경하 배수량 = 만재 배수량",
+      "3": "경하 배수량 - 순톤수 = 만재 배수량",
+      "4": "재화중량 + 순톤수 = 만재 배수량"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 19,
+    "question": "선박의 복원력에 관한 설명으로 잘못된 것은?",
+    "choices": {
+      "1": "선박의 무게 중심이 낮을수록 복원력은 크다.",
+      "2": "선박의 폭이 증가하면 복원력은 감소한다.",
+      "3": "일반적으로 세깅상태에서는 복원력이 감소한다.",
+      "4": "탱크내의 자유수는 복원력을 감소시킨다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20030810",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 20,
+    "question": "선박이 하천, 운하 등 수심이 얕은 곳을 지나갈 때 저항이 증가하는데 이것을 무엇이라 하는가?",
+    "choices": {
+      "1": "조와저항 증가 현상",
+      "2": "와류 현상",
+      "3": "천수영향",
+      "4": "거칠기 영향"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 22,
+    "question": "베르누이 방정식 에서 은 어 떤 수두이며, 단위는 무엇인가?",
+    "choices": {
+      "1": "위치수두, m/s",
+      "2": "속도수두, m",
+      "3": "위치수두, m",
+      "4": "속도수두, m/s"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 23,
+    "question": "단면이 정사각형인 보에 4200N.m의 굽힘모멘트가 가해지고 있다. 보의 허용 굽힘응력을 100MPa라고 할 때 단면에서 한 변의 치수는 몇 cm인가?",
+    "choices": {
+      "1": "6.32",
+      "2": "8.32",
+      "3": "10.32",
+      "4": "12.32"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 26,
+    "question": "유체 흐름에서 연속방정식이란?",
+    "choices": {
+      "1": "유체의 모든 입자에 뉴톤의 관성의 법칙을 적용시킨 방 정식이다.",
+      "2": "에너지와 일 사이의 관계를 나타낸 방정식이다.",
+      "3": "유체를 연속체라 가정하고 탄성역학의 후크의 법칙을 적 용한 방정식이다.",
+      "4": "질량보존의 법칙을 유체유동에 적용한 방정식이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 29,
+    "question": "지름 1 cm 인 원관 속에 0 ℃ 의 물이 흐르고 있다. 물의 평균속도가 2 m / s 이면 레이놀드(Reyonlds)수는? (단, 0 cm2/s ℃ 물의 동점성계수(γ)는 0.0131 이다.)",
+    "choices": {
+      "1": "15267",
+      "2": "16378",
+      "3": "13045",
+      "4": "17489"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 30,
+    "question": "내압 3MPa, 안지름 100cm의 보일러 원통의 판두께는 몇 mm인가? (단, 재료의 허용응력을 90MPa이고, 이음효율은 70%이다)",
+    "choices": {
+      "1": "8",
+      "2": "16",
+      "3": "24",
+      "4": "32"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 31,
+    "question": "보에서 정역학적 평형조건만으로 지점반력을 구할 수 있는 보를 정정보라고 한다. 다음 중 정정보가 아닌 것은?",
+    "choices": {
+      "1": "단순보",
+      "2": "돌출보",
+      "3": "외팔보",
+      "4": "연속보"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 33,
+    "question": "한 변의 길이가 6cm인 정사각형 단면의 단면계수와 같은 원형단면 축을 만들려면 지름을 몇 cm로 해야 하는가?",
+    "choices": {
+      "1": "7.2",
+      "2": "8.2",
+      "3": "9.2",
+      "4": "10.2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 35,
+    "question": "내경 5cm, 길이 3m 인 곧은 관에서의 유체가 층류유동을 하고, 압력강하가 0.98 N/cm2 이라면 관벽에서의 전단응력 은? N/m2 N/m2",
+    "choices": {
+      "1": "99.67",
+      "2": "80.07",
+      "3": "60.47 N/m2",
+      "4": "40.83 N/m2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 36,
+    "question": "정상류(steady flow)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "유동의 특성이 시간에 따라 주기적으로 변하는 흐름",
+      "2": "비점성, 비압축성 유체의 흐름",
+      "3": "유동의 특성이 시간에 따라 변하지 않는 흐름",
+      "4": "전 유체 영역에 걸쳐 층류만 존재하는 흐름"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 37,
+    "question": "길이 100m, 속도 15knot인 선박에 대하여, 길이 10 m인 모형선을 제작하여 수조시험하는 경우, 모형선의 대응속도 는?",
+    "choices": {
+      "1": "2.94 knot",
+      "2": "4.06 knot",
+      "3": "4.74 knot",
+      "4": "5.95 knot"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20030810",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 38,
+    "question": "다음 중 유체 정력학으로 다룰 수 없는 경우는?",
+    "choices": {
+      "1": "댐에 들어있는 물이 가지는 힘의 계산",
+      "2": "대기중의 압력변화 계산",
+      "3": "등가속도의 운동을 받고 있는 유체 거동",
+      "4": "정수중에 정박해 있는 선박의 외력계산"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 41,
+    "question": "선체의 길이가 L일 때 선수격벽은 선수로부터 얼마 정도 떨 어진 곳에 설치하는가?",
+    "choices": {
+      "1": "(1/10)L 근처",
+      "2": "(1/30)L 근처",
+      "3": "(1/40)L 근처",
+      "4": "(1/20)L 근처"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 42,
+    "question": "선체의 종강도에 관한 설명 중 틀린 항은?",
+    "choices": {
+      "1": "선박의 폭(breadth)이 넓으면 종강도에 유리하다.",
+      "2": "선박의 깊이(depth)가 깊으면 종강도에 유리하다.",
+      "3": "선박의 흘수(draft)가 얕으면 종강도에 유리하다.",
+      "4": "선박의 길이가 길면 종강도에 유리하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 43,
+    "question": "만재배수량이 3000 ton, 길이가 100 m, 깊이가 10 m, 상 수 C 가 30 인 선박의 최대 세로굽힘모멘트의 근사값은?",
+    "choices": {
+      "1": "1000 ton · m",
+      "2": "10000 ton · m",
+      "3": "3000 ton · m",
+      "4": "30000 ton · m"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 44,
+    "question": "빌지 용골(bilge keel)의 기능은?",
+    "choices": {
+      "1": "종강도 기여",
+      "2": "횡요 감소",
+      "3": "흘수 증대",
+      "4": "저항 감소"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 45,
+    "question": "선박 계류 시 다른 물체와의 충돌로부터 선측외판을 보호하 기 위하여 설치되는 부재는?",
+    "choices": {
+      "1": "방현재",
+      "2": "만곡부 용골",
+      "3": "실체늑판",
+      "4": "특설늑골"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 46,
+    "question": "선측외판 중에서 강력갑판의 현측에 붙는 최상부 외판은?",
+    "choices": {
+      "1": "갑판 보",
+      "2": "갑판 스트링어",
+      "3": "현측후판",
+      "4": "마진판"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 48,
+    "question": "선수탱크(fore peak tank)내에 들어 있는 물의 자유표면의 영향을 방지하기 위하여 설치하는 것은?",
+    "choices": {
+      "1": "제수격벽",
+      "2": "수밀격벽",
+      "3": "브레스트 훅",
+      "4": "팬팅 스트링거"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 49,
+    "question": "선박 종강도 계산에 있어서 하중곡선(load curve)은?",
+    "choices": {
+      "1": "선박 중량의 길이방향의 분포상태를 곡선으로 나타낸 것",
+      "2": "선체 부력의 길이방향의 분포상태를 곡선으로 나타낸 것",
+      "3": "선체 길이 방향의 각각의 위치에서 중력과 부력의 차를 곡선으로 나타낸 것",
+      "4": "선체 길이 방향의 각각의 위치에서 전단력의 분포상태를 곡선으로 나타낸 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 50,
+    "question": "선측 스트링거를 옳게 설명한 것은?",
+    "choices": {
+      "1": "선수미 늑골을 보강하는 횡강도 부재이다.",
+      "2": "선측에 붙이는 종통재로서 늑골 상호의 위치를 확보하고 외판의 요철을 방지한다.",
+      "3": "해치 빔(beam) 위에만 설치한다.",
+      "4": "특설 늑골 사이에만 설치한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 51,
+    "question": "일반구조용 압연강재의 기호 S S 400 에서 숫자 400 은?",
+    "choices": {
+      "1": "연신율",
+      "2": "샤르피 충격값",
+      "3": "최저인장강도",
+      "4": "열팽창계수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 52,
+    "question": "선저 외판의 두께를 결정하는 데 그다지 영향을 주지 않는 것은?",
+    "choices": {
+      "1": "선박의 길이",
+      "2": "선박의 폭",
+      "3": "늑골 간격",
+      "4": "만재흘수"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 53,
+    "question": "적도(赤道) 구역을 항해하는 선박에 나타나는 온도효과에 기 인하는 응력의 분포는 어느 상태와 비슷한가?",
+    "choices": {
+      "1": "호깅 상태",
+      "2": "새깅 상태",
+      "3": "래킹 상태",
+      "4": "슬래밍 상태"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 54,
+    "question": "대형 선박에서 증설격벽에 해당되는 것은?",
+    "choices": {
+      "1": "선수전단 격벽",
+      "2": "선창 격벽",
+      "3": "선미 격벽",
+      "4": "기관실전단 격벽"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 55,
+    "question": "횡늑골식 구조의 설명으로 부적합한 것은?",
+    "choices": {
+      "1": "구조가 간편하며 건조하기가 쉽다.",
+      "2": "재화(載貨)가 편리하다.",
+      "3": "소형 선박에 적합하다.",
+      "4": "단저구조에 종강도를 유지하는 데 유리하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 56,
+    "question": "다음 중 선체 종강력 부재가 아닌 것은?",
+    "choices": {
+      "1": "중심선 내저판",
+      "2": "마진판",
+      "3": "늑판",
+      "4": "만곡부 외판"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 57,
+    "question": "별도의 보강재(stiffener) 없이 강판을 굴곡시켜 보강재를 생 략한 격벽은?",
+    "choices": {
+      "1": "파형격벽",
+      "2": "선수미격벽",
+      "3": "수밀격벽",
+      "4": "제수격벽"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 59,
+    "question": "선박의 어떤 단면에서의 굽힘모멘트가 3 kN · m 이고, 단 cm3이면 면계수가 100 이 단면에서의 굽힘응력은? N/cm2 N/cm2",
+    "choices": {
+      "1": "30",
+      "2": "300 kN/cm2 kN/cm2",
+      "3": "3",
+      "4": "30"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20030810",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 60,
+    "question": "강도가 충분하지 않을 경우 늑골(frame)의 설계방법과 거리 가 먼 것은?",
+    "choices": {
+      "1": "특설늑골을 증설한다.",
+      "2": "늑골의 치수를 증가시킨다.",
+      "3": "늑골간의 간격를 증가시킨다.",
+      "4": "집중하중을 받는 경우 늑골을 적절히 보강해 준다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 61,
+    "question": "디젤기관에 사용하는 피스톤링의 고착 원인이 아닌 것은?",
+    "choices": {
+      "1": "실린더 냉각수 순환량이 과다할 때",
+      "2": "링과 링 홈의 간격이 부적당할 때",
+      "3": "링의 장력이 부족하였을 때",
+      "4": "불순물이 많은 연료를 사용하였을 때"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 62,
+    "question": "최근 조선소 설비의 특징 설명으로 잘못된 것은?",
+    "choices": {
+      "1": "가공 및 소조립 공장은 대부분 옥내로 하여 우천 시에도 작업을 가능하게 한다.",
+      "2": "컴퓨터의 도입으로 원척 현도장의 활용도가 높다.",
+      "3": "선박의 대형화에 맞추어 건조 독(dry dock) 방식을 많이 채택한다.",
+      "4": "선행의장을 고려한 설비를 갖춘다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 63,
+    "question": "선체의 세로진수 시 선미 부양이 막 일어났을 때 선체에 작 용하는 힘의 상태는?",
+    "choices": {
+      "1": "새깅",
+      "2": "호깅",
+      "3": "롤링",
+      "4": "힐링"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 64,
+    "question": "디젤기관을 추진기관으로 사용하는 선박에서 감속/역전장치 를 두는 이유가 아닌 것은?",
+    "choices": {
+      "1": "클러치를 떼고 추진기관을 하역펌프 등의 원동기로 사용 하기 위하여",
+      "2": "기관이 자기역전식이 아닌 경우 프로펠러의 회전 방향을 바꾸기 위하여",
+      "3": "프로펠러의 회전속도를 낮추고 직경을 크게 하여 프로펠 러의 효율을 높이기 위하여",
+      "4": "추진축의 직경을 가늘게 할 수 있어 제작비를 낮추고 중 량을 감소시키기 위하여"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 66,
+    "question": "선체 블록 분할 시 유의사항으로 잘못 설명된 것은?",
+    "choices": {
+      "1": "크레인 능력에 따라 블록의 무게를 제한한다.",
+      "2": "운반 및 반전 작업 시에 변형이 되지 않도록 한다.",
+      "3": "선수미 블록은 평면 블록으로 분할한다.",
+      "4": "선형을 결정하기 쉬운 블록으로 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 67,
+    "question": "가스터빈을 구성하는 3대 요소가 아닌 것은?",
+    "choices": {
+      "1": "터빈",
+      "2": "발전기",
+      "3": "압축기",
+      "4": "연소실"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 68,
+    "question": "선체 조립용 기준선으로 사용되지 않는 것은?",
+    "choices": {
+      "1": "버톡 라인(buttock line)",
+      "2": "프레임 라인(frame line)",
+      "3": "워터 라인(water line)",
+      "4": "너클 라인(knuckle line)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 69,
+    "question": "2행정과 4행정 디젤기관을 비교한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "2행정 기관은 동일 크기의 4행정 기관에 비하여 출력이 크다.",
+      "2": "4행정 기관은 720도 회전에 흡입, 압축, 팽창, 배기과정 이 완결된다.",
+      "3": "2행정 기관은 4행정 기관에 비하여 토크 변화가 적어 운 전이 원활하다.",
+      "4": "4행정 기관은 2행정 기관에 비하여 시동은 쉬우나 저속 운전이 불안정하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 70,
+    "question": "선박 건조방식 중 상형 건조법에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "코킹 업(cocking up)이 적다.",
+      "2": "검사 및 의장공사가 유리하다.",
+      "3": "탑재 초기에 선거의 잉여 면적을 활용할 수 있다.",
+      "4": "전개면적이 크므로 비교적 다수의 작업 인원이 흡수된 다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 71,
+    "question": "디젤기관과 가솔린기관의 특징을 비교한 것 중 틀린 것은?",
+    "choices": {
+      "1": "디젤기관은 가솔린기관에 비하여 압축비가 낮다.",
+      "2": "가솔린기관은 디젤기관에 비하여 연료소비율이 높고 열 효율이 낮다.",
+      "3": "디젤기관은 가솔린기관에 비하여 구조를 견고하게 할 필 요가 있다.",
+      "4": "디젤기관의 연료는 경유 또는 중유를 사용한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 72,
+    "question": "조립할 피용접물을 일정한 형상으로 유지하는 본용접의 준 비 공정은?",
+    "choices": {
+      "1": "가용접",
+      "2": "필릿(fillet)용접",
+      "3": "맞대기 용접",
+      "4": "슬릿용접"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 73,
+    "question": "4사이클 디젤 기관에서 행정이 420 mm, 매분 폭발회수가 180 회일 때 피스턴의 평균속도는?",
+    "choices": {
+      "1": "4.04 m/s",
+      "2": "2.52 m/s",
+      "3": "6.04 m/s",
+      "4": "5.04 m/s"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 74,
+    "question": "피치가 0.8 m 이고, 매분 회전수가 300 rpm 일 때 프로펠 러의 속력은 약 몇 노트(knot)인가?",
+    "choices": {
+      "1": "6.8 knot",
+      "2": "7.8 knot",
+      "3": "8.5 knot",
+      "4": "10.5 knot"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 75,
+    "question": "선박에 설비된 추진장치로서 가변피치 프로펠러의 장점이 아닌 것은?",
+    "choices": {
+      "1": "주기를 역전할 필요가 없다.",
+      "2": "일정 토크 운전이 가능하다.",
+      "3": "추진 효율이 좋다.",
+      "4": "회전수를 임의로 택할 수가 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 76,
+    "question": "윤활유나 중유 등 비교적 점도가 큰 유체를 이송하는데 가 장 적합한 펌프는?",
+    "choices": {
+      "1": "기어 펌프",
+      "2": "로브 펌프",
+      "3": "스크류 펌프",
+      "4": "원심 펌프"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 77,
+    "question": "추진기 날개의 공동현상에 의한 침식(erosion)은?",
+    "choices": {
+      "1": "공동현상의 발생 초기에 일어난다.",
+      "2": "공동현상의 소멸 시 일어난다.",
+      "3": "공동현상의 발생 도중에 일어난다.",
+      "4": "공동현상과 침식은 관계가 없다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 78,
+    "question": "플레임 플레이너(flame planer)의 주요 용도는?",
+    "choices": {
+      "1": "강판을 둥글게 말거나 곡가공",
+      "2": "용접개소의 변형의 교정",
+      "3": "강판의 직선 절단 및 용접 개선",
+      "4": "강판에 다수의 구멍을 동시에 뚫기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 79,
+    "question": "선박건조에 있어, 조립장과 탑재 선대 사이에 대블록을 만 드는 중간 공정을 두는 탑재 방법은?",
+    "choices": {
+      "1": "세미 탄댐법",
+      "2": "프리 이렉션법",
+      "3": "분할 탑재법",
+      "4": "층식 탑재법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "date": "20030810",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 80,
+    "question": "강판의 가스절단 작업 시 활용되는 변형방지법으로 부적당 한 것은?",
+    "choices": {
+      "1": "역각도법",
+      "2": "수냉각법",
+      "3": "가열법",
+      "4": "구속법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 1,
+    "question": "전부흘수 380cm, 후부흘수 345cm 인 배가 중량물 이동으로 전부흘수는 360cm, 후부흘수는 450cm 로 변화하였다. 새로 운 흘수선에 대한 트림은?",
+    "choices": {
+      "1": "90cm 선미트림",
+      "2": "90cm 선수트림",
+      "3": "20cm 선수트림",
+      "4": "105cm 선미트림"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 2,
+    "question": "앵커 체인(anchor chain)은 수 개의 섀클(shackle)이 연결되 어 이루어진다. 이 때 한 섀클의 구성에 포함되지 않는 것은?",
+    "choices": {
+      "1": "엔드 링크(end link)",
+      "2": "스위블 링크(swivel link)",
+      "3": "확대 링크(enlarged link)",
+      "4": "보통 링크(common link)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 3,
+    "question": "수선하의 횡단면적을 길이 방향으로 적분하거나 수선면적을 깊이 방향으로 적분하여 얻을 수 있는 것은?",
+    "choices": {
+      "1": "배수용적",
+      "2": "배수량",
+      "3": "톤수",
+      "4": "경하중량"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 4,
+    "question": "어떤 배를 5m/sec 의 속력으로 예인하였을 때 예인줄 저항 이 1500 kgf 이었다면 그 속력에서의 유효마력은?",
+    "choices": {
+      "1": "100 PS",
+      "2": "200 PS",
+      "3": "300 PS",
+      "4": "400 PS"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 5,
+    "question": "산적화물선에서 화물이 한쪽으로 쏠리는 현상을 없애기 위하 여 만든 탱크는?",
+    "choices": {
+      "1": "톱 사이드 탱크",
+      "2": "발라스트 탱크",
+      "3": "연료유 탱크",
+      "4": "청수 탱크"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 6,
+    "question": "선박을 정박시킬 때 선수로부터 투하하여 선박이 바람과 조 류에 의하여 표류하는 것을 방지하기 위한 의장품은?",
+    "choices": {
+      "1": "볼러드",
+      "2": "페어 리드",
+      "3": "닻",
+      "4": "비트"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 7,
+    "question": "선박의 하역장치가 아닌 것은?",
+    "choices": {
+      "1": "카고 슬링",
+      "2": "윈치",
+      "3": "윈드라스",
+      "4": "대릭 붐"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 8,
+    "question": "선속의 증가와 함께 날개에 가해지는 부양력에 의하여 선체 가 수면으로 부터 떠올라 고속으로 항주할 수 있는 선박은?",
+    "choices": {
+      "1": "도선",
+      "2": "수중익선",
+      "3": "수중작업선",
+      "4": "호버 크래크트"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 9,
+    "question": "내연기관에서 기관 바로 밖의 크랭크축 끝에서 계측한 동력 은?",
+    "choices": {
+      "1": "축동력",
+      "2": "지시동력",
+      "3": "제동동력",
+      "4": "전달동력"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 12,
+    "question": "다음 건현의 약어 중 동기 북대서양 건현의 약어는?",
+    "choices": {
+      "1": "S",
+      "2": "W",
+      "3": "WNA",
+      "4": "LWNA"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 13,
+    "question": "선박에서 발생되는 저항 중 선체표면의 급격한 형상변화 때 문에 발생되는 소용돌이로 인한 저항은?",
+    "choices": {
+      "1": "마찰저항",
+      "2": "조파저항",
+      "3": "조와저항",
+      "4": "잉여저항"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 14,
+    "question": "저속선에서 가장 큰 비중을 차지하는 저항은?",
+    "choices": {
+      "1": "조파저항",
+      "2": "조와저항",
+      "3": "마찰저항",
+      "4": "공기저항"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 15,
+    "question": "경두선에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "무게 중심이 낮다.",
+      "2": "복원력이 크다.",
+      "3": "동요주기가 짧다.",
+      "4": "승선감이 좋다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 16,
+    "question": "스크류 프로펠러가 1회전 하는 동안 전진하는 거리는?",
+    "choices": {
+      "1": "피치(pitch)",
+      "2": "경사(rake)",
+      "3": "스큐 백(skew back)",
+      "4": "슬립(slip)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 17,
+    "question": "선박의 속력을 측정하는데 사용되는 기구는?",
+    "choices": {
+      "1": "자이로 컴퍼스(gyro compass)",
+      "2": "압력 로그(pressure log)",
+      "3": "로런(loran)",
+      "4": "음향 측정기(echo sounder)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 19,
+    "question": "자항력이 없는 부선(barge)을 끌거나 내항에서 대형 선박을 끄는데 사용되는 선박은?",
+    "choices": {
+      "1": "도선(ferry boat)",
+      "2": "예인선(tug boat)",
+      "3": "모터 보트(motor boat)",
+      "4": "순시선(patrol craft)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20040808",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 20,
+    "question": "선박의 수선면 및 횡단면 형상의 곡선을 2차 포물선의 일부 라고 가정하고 면적을 구하는 근사계산법칙은?",
+    "choices": {
+      "1": "사다리꼴 법칙",
+      "2": "심프슨 제 2법칙",
+      "3": "웨들 법칙",
+      "4": "심프슨 제 1법칙"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 23,
+    "question": "유체 흐름에서 레이놀드(Reynolds)수란?",
+    "choices": {
+      "1": "관성력/점성력",
+      "2": "관성력/압력",
+      "3": "관성력/중력",
+      "4": "관성력/탄성력"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 24,
+    "question": "재료의 기계적 성질을 나타내는 것 중에는 탄성한도, 변형 률, 극한강도 등이 있다. 이러한 성질들을 알기 위한 재료시 험으로 가장 적합한 것은?",
+    "choices": {
+      "1": "압축시험",
+      "2": "인장시험",
+      "3": "피로시험",
+      "4": "충격시험"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 25,
+    "question": "바깥지름 5 ㎝, 안지름 2㎝, 길이 3m의 중공기둥의 세장비 는 약 얼마인가?",
+    "choices": {
+      "1": "158",
+      "2": "183",
+      "3": "223",
+      "4": "298"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 26,
+    "question": "선체 표면에 작용하는 마찰력을 무차원화한 계수가 마찰계 수이다. 축척비 1:100 의 모형선에 적용하는 마찰계수는 실 선에 적용하는 마찰계수에 비하여 어떠한가?",
+    "choices": {
+      "1": "적다.",
+      "2": "크다.",
+      "3": "똑 같다.",
+      "4": "비슷하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 28,
+    "question": "어떤 액체가 지름 200mm 인 수평원관 속을 흐르고 있다. 관벽에서 전단응력이 150 Pa 이고, 관의 길이가 30m 일 때 압력강하(ΔP)는?",
+    "choices": {
+      "1": "750 kPa",
+      "2": "80 kPa",
+      "3": "90 kPa",
+      "4": "100 kPa"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 29,
+    "question": "단면의 크기가 같고 재질이 같은 그림 (a), (b) 두 외팔보의 자유단에 최대 처짐량이 같게 되려면 집중하중의 크기 P 는 2 P 1 에 몇 배 인가?",
+    "choices": {
+      "1": "3",
+      "2": "9",
+      "3": "18",
+      "4": "27"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 30,
+    "question": "유동하는 물의 속도가 10 m/s 이다. 이때 전수두가 15 m라 면 수력구배선의 높이는?",
+    "choices": {
+      "1": "9.0 m",
+      "2": "9.2 m",
+      "3": "9.6 m",
+      "4": "9.9 m"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 31,
+    "question": "다음 중 유량을 측정할 때 사용되는 장치는?",
+    "choices": {
+      "1": "다이나모미터(dynamometer)",
+      "2": "벤츄리미터(venturimeter)",
+      "3": "열선 아네모미터(hot-wire anemometer)",
+      "4": "피에조미터(piezometer)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 32,
+    "question": "단면 30 ㎝2인 균일 원형 단면봉에 인장하중 300 kN이 작 용하고 있다. 임의의 서로 직교하는 두 경사면 위에 작용하 는 수직응력들의 합은 몇 MPa인가?",
+    "choices": {
+      "1": "50",
+      "2": "80",
+      "3": "90",
+      "4": "100"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 33,
+    "question": "체적이 5 m3, 무게가 37240 N 인 기름의 비중은?",
+    "choices": {
+      "1": "0.76",
+      "2": "0.78",
+      "3": "0.8",
+      "4": "0.85"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 34,
+    "question": "어떤 물체의 공기중에서의 무게는 490 N 이고, 물속에서의 무게는 98 N 이었다. 이 물체의 체적은?",
+    "choices": {
+      "1": "0.06 m3",
+      "2": "0.04 m3",
+      "3": "0.05 m3",
+      "4": "0.01 m3"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 35,
+    "question": "길이 10 m, 단면적 10 ㎝2의 철강봉을 50 kN으로 인장하여 0.25 ㎝ 늘어났다. 이 재료의 탄성계수 E는 몇 GPa인가?",
+    "choices": {
+      "1": "210",
+      "2": "200",
+      "3": "215",
+      "4": "220"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 37,
+    "question": "원형 단면보에 같은 전단력이 작용할 때 원형 단면보의 지 름을 3배로 하면 최대 전단응력은 몇 배나 되는가?",
+    "choices": {
+      "1": "9",
+      "2": "3",
+      "3": "1/3",
+      "4": "1/9"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 38,
+    "question": "배가 물 위에 떠있을 때 이 배의 배수량과 관계가 없는 것 은?",
+    "choices": {
+      "1": "부력",
+      "2": "배의 무게",
+      "3": "물의 비중량 × 배수 체적",
+      "4": "가로메타센터 높이 × 배의 경사각"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "date": "20040808",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 40,
+    "question": "관 속을 유체가 흐를 때 관마찰계수 f 는?",
+    "choices": {
+      "1": "레이놀드수와 상대조도와의 함수가 된다.",
+      "2": "마하수와 코시수의 함수가 된다.",
+      "3": "상대조도와 오일러수의 함수가 된다.",
+      "4": "언제나 레이놀드수만의 함수가 된다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 41,
+    "question": "선체구조양식은 선체구조 부재 중 어떤 부재의 배치 방식에 따라 결정되는가?",
+    "choices": {
+      "1": "필러(pillar)",
+      "2": "뼈대(stiffener)",
+      "3": "선수재(stem)",
+      "4": "용골(keel)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 42,
+    "question": "선체 이중저(double bottom)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "선저파손 시 상부로의 해수 침입을 막을 수 있다.",
+      "2": "선체 종강도가 증가한다.",
+      "3": "청수탱크, 연료유 탱크 등으로 사용할 수 있다.",
+      "4": "구조가 간단하여 소형선에만 주로 적용된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 43,
+    "question": "선박의 선수부에 위치하는 구조물이 아닌 것은?",
+    "choices": {
+      "1": "체인 로커(chain locker)",
+      "2": "벨 마우스(bell mouth)",
+      "3": "축 지주(shaft strut)",
+      "4": "호저 파이프(hawser pipe)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 44,
+    "question": "선박의 길이 방향으로 선체중량 분포상태를 곡선으로 나타 낸 것은?",
+    "choices": {
+      "1": "중량곡선",
+      "2": "부력곡선",
+      "3": "하중곡선",
+      "4": "전단력곡선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 45,
+    "question": "선박의 종강도 계산을 위한 표준파의 조건에서 파고와 파장 의 비는?",
+    "choices": {
+      "1": "1/10",
+      "2": "1/20",
+      "3": "1/30",
+      "4": "1/40"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 46,
+    "question": "갑판 보(beam)의 치수 결정 요인이 될 수 없는 것은?",
+    "choices": {
+      "1": "보 지점간의 거리",
+      "2": "갑판 하중의 크기",
+      "3": "필러(pillar)의 크기",
+      "4": "보 간격(space)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 47,
+    "question": "강력갑판 아래에 있는 갑판으로 선체 종강도의 구성부재가 되는 갑판은?",
+    "choices": {
+      "1": "유효갑판",
+      "2": "유보갑판",
+      "3": "선루갑판",
+      "4": "건현갑판"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 48,
+    "question": "갑판 위에 기중기와 윈드라스(windlass) 등 갑판기기가 설치 되는 곳은 국부 집중하중에 대한 보강이 필요하다. 다음 중 집중하중에 대한 보강방법과 거리가 먼 것은?",
+    "choices": {
+      "1": "기기 주위에 코밍을 설치한다.",
+      "2": "기기설치 갑판하에 필러를 설치한다.",
+      "3": "기기설치 부근 갑판에 겹판을 붙인다.",
+      "4": "기기설치 부근 갑판의 부재치수를 증가시킨다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 49,
+    "question": "화물선에서 화물의 적재나 하역을 위하여 설치하는 갑판개 구(開口)는?",
+    "choices": {
+      "1": "해치(hatch)",
+      "2": "코밍(coaming)",
+      "3": "캠버(camber)",
+      "4": "갑판 거더(deck girder)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 50,
+    "question": "평판용골(plate keel)의 판 두께는 주위의 선저 외판두께와 비교하여 어떻게 설정하는가?",
+    "choices": {
+      "1": "같은 두께로 설정한다.",
+      "2": "더 얇게 설정한다.",
+      "3": "더 두껍게 설정한다.",
+      "4": "선수미부에서는 더 두껍게 하고, 중앙부는 같은 두께로 설정한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 51,
+    "question": "선체 구조에서 응력집중을 방지하기 위한 대책으로 잘못된 것은?",
+    "choices": {
+      "1": "원형 구멍은 사각형 구멍으로 바꾼다.",
+      "2": "구멍 주위에 보강환을 붙인다.",
+      "3": "구조부재의 단면적의 불연속을 피한다.",
+      "4": "구멍의 위치를 부재의 중립축 근처로 옮긴다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 52,
+    "question": "선박 구조형식 중 종식 구조의 장점이 아닌 것은?",
+    "choices": {
+      "1": "종강도가 강하다.",
+      "2": "선체의 중량이 가볍다.",
+      "3": "재화중량이 증가한다.",
+      "4": "특히 선수미부의 구조가 간단하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 53,
+    "question": "다음 중 수밀 횡격벽의 중요한 역할이 아닌 것은?",
+    "choices": {
+      "1": "인접하는 구획의 침수를 방지한다.",
+      "2": "선체의 종강도를 높이고 국부하중을 지지한다.",
+      "3": "화재가 다른 구획으로 번지는 것을 지연시킨다.",
+      "4": "화물의 적재 및 하역에 편리를 도모할 수 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 54,
+    "question": "선체 세로굽힘모멘트에 의한 굽힘응력은 선체횡단면의 중립 축에서 어떤 값인가?",
+    "choices": {
+      "1": "최대값",
+      "2": "최대값의 1/2",
+      "3": "0",
+      "4": "최대값의 1/4"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 55,
+    "question": "파랑의 파정이 선체의 선수미부 양단에 위치하여 갑판에는 압축응력이 선저 중앙부 외판에는 인장응력이 크게 작용하 는 상태는?",
+    "choices": {
+      "1": "호깅 상태",
+      "2": "새깅 상태",
+      "3": "비틀림 상태",
+      "4": "래킹 상태"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 56,
+    "question": "선박 갑판 창구 모서리에 연재(coaming)를 설치하는 가장 큰 이유는?",
+    "choices": {
+      "1": "공작을 쉽게 하기 위하여",
+      "2": "화물창의 통풍을 위하여",
+      "3": "갑판을 보강하여 국부강도를 증가시키기 위하여",
+      "4": "선원의 안전을 위하여"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 57,
+    "question": "선체 이중저 내에 코퍼댐(cofferdam)을 설치하는 목적은?",
+    "choices": {
+      "1": "추진축이 지나가는 통로를 확보하고 축을 보호하기 위하 여",
+      "2": "연료유 탱크와 윤활유 탱크 사이 및 이들과 청수 탱크의 각 성분이 서로 혼합되는 것을 방지하기 위하여",
+      "3": "화물의 적재량을 증가시키고, 선박의 부심을 낮추어 복 원력을 증대시키기 위하여",
+      "4": "선저부의 국부강도를 증대시키고, 선저 파손 시 해수의 침입을 방지하기 위하여"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 58,
+    "question": "갑판상에 불워크(bulwark)를 설치하는 목적과 가장 무관한 것은?",
+    "choices": {
+      "1": "폭로된 상갑판으로의 파도의 침범을 막는다.",
+      "2": "갑판위의 통행을 안전하게 한다.",
+      "3": "창구 등의 갑판구를 보호한다.",
+      "4": "화물창내의 화물을 보호한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 59,
+    "question": "빌지 킬(bilge keel)이 부착되는 곳은?",
+    "choices": {
+      "1": "만곡부 외판",
+      "2": "선저외판",
+      "3": "선측외판",
+      "4": "내저판"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20040808",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 60,
+    "question": "늑골 간격(frame space)이란?",
+    "choices": {
+      "1": "한 늑골의 중심에서 다음 늑골의 중심까지",
+      "2": "한 늑골의 앞면에서 다음 늑골의 배면까지",
+      "3": "한 늑골의 배면에서 다음 늑골의 배면까지",
+      "4": "한 늑골의 배면에서 다음 늑골의 앞면까지"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 61,
+    "question": "선행의장 방식의 가장 중요한 잇점은?",
+    "choices": {
+      "1": "의장공사의 능율화로 건조공기가 단축됨",
+      "2": "의장공사의 품질관리가 용이함",
+      "3": "의장공사의 공기 단축으로 선대회전율이 향상됨",
+      "4": "고소작업의 감축으로 안전사고를 방지함"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 62,
+    "question": "크랭크 축의 비틀림 진동이 축 자체의 고유 자연진동수와 일치하면 공진을 일으켜 진동이 더 커지게 되는데, 이 때의 기관 회전수를 무엇이라 하는가?",
+    "choices": {
+      "1": "저속도 회전수",
+      "2": "과속도 회전수",
+      "3": "공진 회전수",
+      "4": "위험 회전수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 63,
+    "question": "조선소의 해안이 1변인 경우에 적합한 공장배치 형태는?",
+    "choices": {
+      "1": "I형",
+      "2": "L형",
+      "3": "U형",
+      "4": "T형"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 65,
+    "question": "어떤 디젤기관의 기계효율이 80 % 이며, 이때의 지시마력 이 100 PS 였다면 마찰손실 마력은?",
+    "choices": {
+      "1": "30 PS",
+      "2": "20 PS",
+      "3": "10 PS",
+      "4": "5 PS"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 66,
+    "question": "조선 재료의 재고량 표시법 중 런닝 스토크란?",
+    "choices": {
+      "1": "출고되어 사용중인 것과 동일한 재료",
+      "2": "출고가 임박한 재료",
+      "3": "계획이 변경될 때 대응이 불가능한 재료",
+      "4": "계획이 변경될 때 대응이 가능한 재료"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 67,
+    "question": "암(arm) 길이가 0.75 m 인 전기동력계로 디젤기관의 동력 을 측정하였다. 회전수 400 rpm 에서 하중이 30 kgf 일 경 우 제동마력은?",
+    "choices": {
+      "1": "7.88 PS",
+      "2": "8.92 PS",
+      "3": "12.56 PS",
+      "4": "15.72 PS"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 68,
+    "question": "어떤 디젤기관의 간극체적이 40 cc, 행정체적이 200 cc 일 때 이 기관의 압축비는?",
+    "choices": {
+      "1": "6",
+      "2": "7",
+      "3": "8",
+      "4": "9"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 69,
+    "question": "프로펠러 추진기의 참슬립(real slip)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "프로펠러의 속도를 배의 속도로 나눈 값이다.",
+      "2": "참슬립은 겉보기 슬립보다 항상 크다.",
+      "3": "참슬립은 음(-)의 값이 되지 않는다.",
+      "4": "프로펠러의 회전수가 증가하면 참슬립은 증가한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 70,
+    "question": "소규모 조선소에서 진수와 상가에 쓰이는 경사선대 진수대 는?",
+    "choices": {
+      "1": "롤러식",
+      "2": "대차식",
+      "3": "볼식",
+      "4": "수지식"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 71,
+    "question": "용접순서의 일반적인 원칙에 어긋나는 것은?",
+    "choices": {
+      "1": "용접에 의한 수축은 항상 자유단에서 발생하도록 한다.",
+      "2": "판용접일 경우에는 가로 이음새(butt)를 먼저 용접한다.",
+      "3": "수축량이 적은 것부터 큰 순서로 용접한다.",
+      "4": "맞대기 용접과 필릿용접이 교차할 때에는 맞대기 용접을 먼저 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 72,
+    "question": "내업공장의 기계 배치에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "가공 순으로 직선적 배치",
+      "2": "작업면적을 고려하여 배치",
+      "3": "기계의 사용빈도와 가동율을 고려하여 배치",
+      "4": "기계의 점유면적 순으로 지그재그 형태로 배치"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 73,
+    "question": "주기(main engine)와 프로펠러의 연결 시스템에 있어서 축 계의 선수쪽 끝단에서 측정되는 마력은?",
+    "choices": {
+      "1": "I.H.P(도시마력)",
+      "2": "B.H.P(제동마력)",
+      "3": "D.H.P(전달마력)",
+      "4": "E.H.P(유효마력)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 74,
+    "question": "가공별로 분류한 마킹 작업의 종류에 속하지 않는 것은?",
+    "choices": {
+      "1": "다듬질 마킹",
+      "2": "사진 마킹",
+      "3": "윤곽잡기 마킹",
+      "4": "블록 마킹"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 75,
+    "question": "내연기관의 기준 사이클이 아닌 것은?",
+    "choices": {
+      "1": "오토 사이클",
+      "2": "디젤 사이클",
+      "3": "사바테 사이클",
+      "4": "랭킨 사이클"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 76,
+    "question": "가변 피치 프로펠러의 특징이 아닌 것은?",
+    "choices": {
+      "1": "클러치 및 역전장치가 있어야 한다.",
+      "2": "선교에서 원격 조정이 가능하다.",
+      "3": "주기관과 프로펠러 축의 회전 방향은 항상 일정하다.",
+      "4": "주기관으로부터 발전기 운전이 가능하다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 77,
+    "question": "가솔린기관에 비하여 디젤기관은 압축비가 높은데 그 이유 는?",
+    "choices": {
+      "1": "공기의 점성계수를 낮게하여 연료분사가 용이하게 하려 고",
+      "2": "연소실내의 잔류가스를 잘 배출하여 충전효율을 높이려 고",
+      "3": "공기 온도를 높여 연료의 착화를 용이하게 하기 위하여",
+      "4": "각 실린더마다 고른 출력을 얻기 위하여"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 78,
+    "question": "다음 중 디젤기관의 고정부분이 아닌 것은?",
+    "choices": {
+      "1": "피스톤",
+      "2": "실린더",
+      "3": "베드",
+      "4": "프레임"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "date": "20040808",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 80,
+    "question": "선형결정짓기를 위한 기준선으로 부적합한 것은?",
+    "choices": {
+      "1": "종단면선(buttock line)",
+      "2": "선체 중심선(center line)",
+      "3": "흘수선(draft line)",
+      "4": "늑골선(frame line)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 1,
+    "question": "다음 ( ) 안에 들어갈 알맞은 말로 짝지어진 것은?",
+    "choices": {
+      "1": "프루드수, 잉여저항계수",
+      "2": "프루드수, 마찰저항계수",
+      "3": "레이놀드수, 마찰저항계수",
+      "4": "레이놀드수, 잉여저항계수"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 3,
+    "question": "선체의 하면으로부터 압축한 공기를 수면에 강하게 내뿜어서 쿠션을 만들어 그것으로 무게를 받치고 수면과 거의 같은 높 이로 항주하는 형태의 선박은?",
+    "choices": {
+      "1": "도선",
+      "2": "수중익선",
+      "3": "수중작업선",
+      "4": "호버크래프트"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 4,
+    "question": "선박의 운동에서 배의 길이 방향의 축을 중심으로 회전 왕복 운동을 하는 것은?",
+    "choices": {
+      "1": "Rolling",
+      "2": "Yawing",
+      "3": "Pitching",
+      "4": "Surging"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 5,
+    "question": "프로펠러가 고속으로 회전하여 어느 한계를 넘으면 날개 뒷 면의 압력이 낮아져 물이 날개에 따라 흐르지 못하고 날개면 에 수증기나 거품이 발생하는 현상으로 이들이 터지면서 날 개가 손상되기도 하고 진동과 소음 발생의 원인이 되기도 하 는 것은?",
+    "choices": {
+      "1": "반류(Wake)",
+      "2": "슬립비(Slip ratio)",
+      "3": "공동현상(Cavitation)",
+      "4": "추력감소(Thrust deduction)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 6,
+    "question": "구명정(Life boat)의 종류와 크기 및 탑재시킬 척수를 결정하 는데 가장 관계가 먼 것은?",
+    "choices": {
+      "1": "의장수",
+      "2": "배의 항로",
+      "3": "총톤수",
+      "4": "승선인원"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 7,
+    "question": "다음 중 국명과 선급협회 약칭이 틀리게 짝지어진 것은?",
+    "choices": {
+      "1": "한국 – KR",
+      "2": "이탈리아 – RI",
+      "3": "일본 – NK",
+      "4": "중국 – CCR"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 8,
+    "question": "비중 0.5인 균일 물질의 직육면체 통나무가 담수 중에 떠 있 다면 횡메타센터 높이는 약 몇 m 인가? (단, 통나무는 길이 10m, 폭 2m, 높이 1m 이다.)",
+    "choices": {
+      "1": "0.283",
+      "2": "0.417",
+      "3": "8.083",
+      "4": "16.417"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 9,
+    "question": "센터미터(cm)당 배수톤수를 설명한 것으로 가장 옳은 것은?",
+    "choices": {
+      "1": "선박의 만재흘수선에서 1cm 의 흘수변화를 주기 위한 화 물중량의 변화량",
+      "2": "선박의 만재흘수선에서 1cm 의 흘수변화를 주기 위한 배 수량의 변화량",
+      "3": "선박의 어떤 수선면에서 1cm 의 흘수변화를 주기 위한 화물중량의 변화량",
+      "4": "선박의 어떤 수선면에서 1cm 의 흘수변화를 주기 위한 배수량의 변화량"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 10,
+    "question": "선박의 기본 3대 특성이 아닌 것은?",
+    "choices": {
+      "1": "부양성",
+      "2": "복원성",
+      "3": "이동성",
+      "4": "적재성"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 11,
+    "question": "다음 중 닻과 체인을 연결할 때 체인이 꼬이는 것을 막기 위하여 사용되는 것은?",
+    "choices": {
+      "1": "엔드링크(End link)",
+      "2": "확대링크(Enlarged link)",
+      "3": "보통링크(Common link)",
+      "4": "스위볼링크(Swivel link)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 12,
+    "question": "다음 중 건현에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "갑판 beam 상면에서 형흘수까지의 거리",
+      "2": "갑판 beam 상면에서 깊이의 0.55배까지의 거리",
+      "3": "횡단면의 중앙에서 갑판하면으로부터 형흘수까지의 거리",
+      "4": "선박의 중앙횡단면에서 갑판상면으로부터 만재흘수선까 지의 수직거리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 13,
+    "question": "선박의 조타장치는 전속력 항해 중 한쪽 현 35°에서 반대 현 30° 까지 몇 초 이내에 조타할 수 있어야 하는가?",
+    "choices": {
+      "1": "18초",
+      "2": "28초",
+      "3": "48초",
+      "4": "60초"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 219,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 15,
+    "question": "선박이 진행하는 방향과 90°의 방향으로 입사하는 파도를 무엇이라 하는가?",
+    "choices": {
+      "1": "횡파(Beam sea)",
+      "2": "선수파(Head sea)",
+      "3": "선수사파(Bow sea)",
+      "4": "선미파(Following sea)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 220,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 16,
+    "question": "동일 배수량을 유지하면서 배의 길이를 증가시켰을 때 변화 에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "방형계수의 값이 작아진다.",
+      "2": "속도가 빨라지므로 속장비의 값이 커진다.",
+      "3": "동일 해상에서 선체에 작용하는 최대굽힘모멘트가 증가 된다.",
+      "4": "동일 속력에 대한 저항이 적어지므로, 소요마력이 적게 든다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 221,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 17,
+    "question": "다음 중 일반배치도에 나타나지 않는 것은?",
+    "choices": {
+      "1": "외판 치수",
+      "2": "거주구 배치",
+      "3": "탱크 위치 명칭",
+      "4": "계선계류 장치"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 222,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 18,
+    "question": "선박 추진기관의 동력이 프로펠러에 전달되는 과정에서 각 단계별로 정의되는 다음의 동력 중 가장 큰 것은?",
+    "choices": {
+      "1": "축마력",
+      "2": "전달마력",
+      "3": "유효마력",
+      "4": "지시마력"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 223,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 19,
+    "question": "길이 10m, 폭 2m, 깊이 1m의 직육면체 바지(barge)가 흘 수 0.5m의 수평 상태로 떠 있다. 중앙부 길이 2m의 구획이 침수한 후의 흘수는 몇 m 인가?",
+    "choices": {
+      "1": "0.625",
+      "2": "0.620",
+      "3": "0.610",
+      "4": "0.600"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 224,
+    "date": "20090510",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 20,
+    "question": "만재상태 배수량이 150000ton이고, 재화중량이 120000ton 이라면 경하중량은 몇 ton 인가?",
+    "choices": {
+      "1": "15000",
+      "2": "30000",
+      "3": "60000",
+      "4": "270000"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 225,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 21,
+    "question": "단면(폭×높이)이 5cm×10cm, 길이 3m의 외팔보에 균일 분 포하중 ω가 작용하여 50MPa의 최대 굽힘응력이 생겼다면 최대 전단응력은 약 몇 MPa 인가?",
+    "choices": {
+      "1": "0.65",
+      "2": "0.75",
+      "3": "0.83",
+      "4": "0.93"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 226,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 22,
+    "question": "원형 단면축이 비틀림 모멘트를 받을 때 생기는 비틀림각에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "비틀림모멘트에 비례한다.",
+      "2": "전단 탄성계수에 반비례한다.",
+      "3": "극단면 2차 모멘트에 비례한다.",
+      "4": "축 지름의 네제곱에 반비례한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 227,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 26,
+    "question": "2축 평면 응력상태에서 σ = σ 일 때 이 응력상태에 대한 x y Mohr 원의 반지름은?",
+    "choices": {
+      "1": "0",
+      "2": "1/2 σ x",
+      "3": "σ",
+      "4": "2σ x x"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 228,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 28,
+    "question": "보가 하중을 받고 있을 때 보에 발생하는 전단응력에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "단면 2차 모멘트에 반비례한다.",
+      "2": "중립축에서는 전단응력이 발생하지 않는다.",
+      "3": "원형 단면의 보에 발생하는 최대 전단응력은 평균 전단 응력의 4/3 배이다.",
+      "4": "사각형 단면의 보에 발생하는 최대 전단응력은 평균 전 단응력의 3/2 배이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 229,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 29,
+    "question": "안지름 20cm, 두께 0.5cm의 연강제 원통에 압력 2MPa의 가스를 담았다. 축방향 응력(σ)과 원주방향 응력(σ)은 각각 x y 몇 MPa 인가?",
+    "choices": {
+      "1": "σ = 10, σ = 20",
+      "2": "σ = 20, σ = 40 x y x y",
+      "3": "σ = 30, σ = 60",
+      "4": "σ = 40, σ = 80 x y x y"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 230,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 31,
+    "question": "골프공의 표면을 매끈하지 않고 움푹 들어간 형상(Dimple) 을 한 이유로 옳은 것은?",
+    "choices": {
+      "1": "항력을 작게 하여 빠른 속도를 주기 위하여",
+      "2": "타격되는 면적을 넓혀 멀리 날아가게 하기 위하여",
+      "3": "골프공에 회전을 쉽게 하여 조정성을 높이기 위하여",
+      "4": "잔디 위에서 저항을 주어 구르지 않도록 하기 위하여"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 231,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 32,
+    "question": "다음 중 점성유동과 관계되는 무차원 수는?",
+    "choices": {
+      "1": "마하(Mach)수",
+      "2": "프루드(Froude)수",
+      "3": "오일러(Euler)수",
+      "4": "레이놀드(Reynolds)수"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 232,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 36,
+    "question": "차원이 같은 물리량으로 짝지어진 것은?",
+    "choices": {
+      "1": "힘 – 운동량",
+      "2": "일 – 에너지",
+      "3": "충격량 – 압력",
+      "4": "동력 – 응력"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 233,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 37,
+    "question": "기름의 동점성계수가 1.5 Stokes이고, 비중량이 0.00085 kgf/cm3 이라면 이 기름의 점성계수는 약 몇 kgf·s/m2 인 가?",
+    "choices": {
+      "1": "1.3",
+      "2": "0.13",
+      "3": "0.013",
+      "4": "0.0013"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 234,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 38,
+    "question": "다음 중 정상류에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "모든 점에서 유체의 상태가 시간에 따라 불규칙하게 변 한다.",
+      "2": "일정한 간격의 점에서 유체의 상태가 시간에 따라 일정 한 변화를 한다.",
+      "3": "모든 점에서 유체의 상태가 시간에 따라 일정한 비율로 변한다.",
+      "4": "모든 점에서 유체의 상태가 시간에 따라 변하지 않는다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 235,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 39,
+    "question": "공기 중에서의 물체 무게는 490N이고, 물속에서의 무게는 98N이었다면 이 물체의 체적은 몇 m3 인가? (단, 물의 밀 kg/m3 도는 1000 이다.)",
+    "choices": {
+      "1": "0.01",
+      "2": "0.04",
+      "3": "0.05",
+      "4": "0.06"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 236,
+    "date": "20090510",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 40,
+    "question": "50cm 깊이로 채우전 물통이 엘리베이터에 실려 있다. 엘리 2m/s2 베이터가 위로 의 가속도로 가속 중일 때 물통 바닥 에 작용하는 수압은 약 몇 kPa 인가? (단, 물의 밀도는 1000 kg/m3 이다.)",
+    "choices": {
+      "1": "3.9",
+      "2": "4.8",
+      "3": "5.9",
+      "4": "7.0"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 237,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 41,
+    "question": "선체가 횡방향에서 파랑을 받거나 롤링(Rolling)을 할 때 좌 우 선측의 흘수차가 생겨 한쪽 현이 큰 압력을 받아 선체 변형이 일어나는 현상을 무엇이라 하는가?",
+    "choices": {
+      "1": "팬팅(Panting)",
+      "2": "슬래밍(Slamming)",
+      "3": "래킹(Racking)",
+      "4": "트위스팅(Twisting)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 238,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 42,
+    "question": "선체의 중앙부에 최대굽힘모멘트가 걸릴 때 일반적으로 최 대전단력이 작용하는 위치는? (단, L은 선체의 길이이다.)",
+    "choices": {
+      "1": "선수부",
+      "2": "선루부",
+      "3": "선미부",
+      "4": "선체 전후의 L/4 위치"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 239,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 43,
+    "question": "선체 구조도 중 외판전개도를 통해 알 수 없는 것은?",
+    "choices": {
+      "1": "외판의 두께와 접합 방법",
+      "2": "갑판부재의 배치 및 구조",
+      "3": "선외개구부(船外開口部)의 위치 및 치수",
+      "4": "격벽이나 각종 종통재의 외판결함"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 240,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 44,
+    "question": "다음 중 표준 횡늑골의 표준 간격을 정하는 식은? (단, L은 선체의 길이이다.)",
+    "choices": {
+      "1": "2L + 450",
+      "2": "2L + 550",
+      "3": "2L – 450",
+      "4": "2L – 550"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 241,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 45,
+    "question": "판 구조물의 응력집중(Stressconcentration)에 관한 설명으 로 틀린 것은?",
+    "choices": {
+      "1": "일반적으로 응력이 걸린 구조물에 어떤 불연속점에서 국 부적인 응력집중이 일어난다.",
+      "2": "사각형 구멍인 경우 응력집중계수는 그 구멍의 크기와 그 모퉁이의 반경에 지배된다.",
+      "3": "구조물 내에 구멍이 있으면 그 구멍 주위에 응력 집중이 일어난다.",
+      "4": "구조물 내의 구멍에 대한 응력집중계수는 부재의 폭에 대한 구멍 지름의 비가 증가함에 따라 증가하고, 구멍의 모서리가 날카로울수록 커진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 242,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 46,
+    "question": "강선(鋼船)에서 선박의 나비(breadth)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "상갑판의 위치에서 우현 선측외판의 바깥면과 좌현 선측 외판의 바깥면 사이의 거리",
+      "2": "상갑판의 위치에서 한쪽 현 선측외판의 바깥면과 다른 쪽 현 선측외판의 내면 사이의 거리",
+      "3": "선체의 최광부에서 우현 선측외판의 중심면과 좌현 선측 외판의 중심면 사이의 거리",
+      "4": "선체의 최광부에서 우현 선측외판의 내면과 좌현 선측외 판의 내면 사이의 거리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 243,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 47,
+    "question": "다음 중 타심재와 키판을 연결하는 역할을 하는 리더의 구 조 부재는?",
+    "choices": {
+      "1": "러더 암(Rudder arm)",
+      "2": "최하 거전(Heel gudgeon)",
+      "3": "러더 핀틀(Rudder pintle)",
+      "4": "로킹 핀틀(Locking pintle)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 244,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 48,
+    "question": "산적화물선에서 짐이 허물어지는 일을 없애기 위하여 화물 창의 어깨부분을 경사판으로 막고 그 구석을 탱크로 이용하 는데 이 탱크를 무엇이라 하는가?",
+    "choices": {
+      "1": "호퍼 탱크(Hopper tank)",
+      "2": "톱 사이드 탱크(Top side tank)",
+      "3": "사이드 윙 탱크(Side wing tank)",
+      "4": "이중저 탱크(Double bottom tank)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 245,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 49,
+    "question": "다음 중 선체의 횡강도 부재에 속하지 않는 것은?",
+    "choices": {
+      "1": "늑판",
+      "2": "창내늑골",
+      "3": "갑판",
+      "4": "중심선거더"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 246,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 50,
+    "question": "선체 부재에 가해지는 굽힘응력(σ)과 굽힘모멘트(M) 사이의 관계식으로 옳은 것은? (단, Z는 단면계수이다.)",
+    "choices": {
+      "1": "σ = M/Z",
+      "2": "σ = Z/M",
+      "3": "σ = M · Z",
+      "4": "σ = M2 · Z"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 247,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 51,
+    "question": "방현재(Fender)를 설치하는 주된 목적은?",
+    "choices": {
+      "1": "슬래밍에 의한 선수부의 충격을 완화시키기 위하여",
+      "2": "선측후판과 더불어 중요한 종강도를 높이기 위하여",
+      "3": "계류시 안벽과의 접촉에 의한 충격완화 및 마찰충격으로 부터 보호하기 위하여",
+      "4": "만재흘수선의 기준이 되는 상갑판선을 표시하기 위하여"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 248,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 53,
+    "question": "다음 중 국부강도를 증가시키기 위한 것이 아닌 것은?",
+    "choices": {
+      "1": "선루의 신축 연결",
+      "2": "만곡부 용골(Bilge keel)",
+      "3": "보강보(Panting beam)",
+      "4": "창구 코밍(Hatch coaming)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 249,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 54,
+    "question": "다음 중 강력갑판으로 간주할 수 없는 것은? (단, L은 선체 의 길이이다.)",
+    "choices": {
+      "1": "상갑판",
+      "2": "선수로 갑판",
+      "3": "저선미루 갑판",
+      "4": "0.15L 이상의 선교류 갑판"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 250,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 55,
+    "question": "길이가 100m인 중형화물선의 만재배수량이 12000ton 일 때 최대굽힘모멘트는 몇 ton·m 인가? (단, 호깅상태에서의 상수값 C는 32 이다.)",
+    "choices": {
+      "1": "12000",
+      "2": "37500",
+      "3": "120000",
+      "4": "384000"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 251,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 56,
+    "question": "다음 중 2중저(Double bottom) 구조를 구성하는 부재가 아 닌 것은?",
+    "choices": {
+      "1": "특설늑골(Web frame)",
+      "2": "실체늑판(Solid floor)",
+      "3": "중심선거더(Center girder)",
+      "4": "내저판(Inner bottom plating)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 252,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 57,
+    "question": "다음 중 연료유 탱크와 윤활유 탱크 사이 및 이들과 청수 탱크 사이에 유밀을 위한 구획을 무엇이라 하는가?",
+    "choices": {
+      "1": "코퍼댐(Cofferdam)",
+      "2": "화염판(Rlame plate)",
+      "3": "대빙방현재(Ice fender)",
+      "4": "독립형탱크(Indeoendent tank)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 253,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 58,
+    "question": "다음 중 선수 및 선미부에서 모두 사용되는 부재가 아닌 것 은?",
+    "choices": {
+      "1": "리브(Rib)",
+      "2": "제수판(Wash plate)",
+      "3": "패션판(Fashion plate)",
+      "4": "팬팅비임(Panting beam)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 254,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 59,
+    "question": "강판 선수재에 설치되는 수평리브의 간격은 몇 mm 이하로 하여야 하는가?",
+    "choices": {
+      "1": "450",
+      "2": "550",
+      "3": "1000",
+      "4": "1200"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 255,
+    "date": "20090510",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 60,
+    "question": "격벽판을 가로 또는 세로 방향으로 연속적으로 굴곡시켜 강 도를 보강한 형태의 격벽으로, 별도의 보강재를 설치하지 않아도 강도효과를 갖는 격벽은?",
+    "choices": {
+      "1": "수밀격벽",
+      "2": "충돌격벽",
+      "3": "파형격벽",
+      "4": "제수격벽"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 256,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 61,
+    "question": "진수 계산시 초기 시동력을 구하는 식으로 옳은 것은? (단, W : 충진수중량, μ : 마찰계수, θ : 활주대 밑의 고정대 평 균경사각이다.)",
+    "choices": {
+      "1": "W cosθ(tanθ - μ)",
+      "2": "W sinθ(tanθ - μ)",
+      "3": "W tanθ(sinθ - μ)",
+      "4": "W tanθ(cosθ - μ)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 257,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 62,
+    "question": "강판의 가스절단 작업시 활용되는 변형방지법이 아닌 것은?",
+    "choices": {
+      "1": "구속법",
+      "2": "수냉각법",
+      "3": "선상가열법",
+      "4": "브리지(Bridge)법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 258,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 63,
+    "question": "다음 중 건조 선거에서 주로 사용되는 문형 크레인은?",
+    "choices": {
+      "1": "지브 크레인(Jib crane)",
+      "2": "타워 크레인(Tower crane)",
+      "3": "골리앗 크레인(Goliath crane)",
+      "4": "로커모티브 크레인(Locomotive crane)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 259,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 64,
+    "question": "다음 중 공장배치시 고려사항으로 틀린 것은?",
+    "choices": {
+      "1": "중량물의 운반경로는 최소화한다.",
+      "2": "부재는 일직선의 흐름을 피하고 상호 교차되는 것이 바 람직하다.",
+      "3": "완충지역(Buffer area)을 설치하여 공정간의 능력 균형을 도모한다.",
+      "4": "장래의 방침에 따라 변화에 대응할 수 있는 여지를 남겨 둔다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 260,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 65,
+    "question": "가공 공사에서 강판의 변형이 제거된 바로 다음의 일반적인 공정은?",
+    "choices": {
+      "1": "굽힘",
+      "2": "마킹",
+      "3": "절단",
+      "4": "펀칭"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 261,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 66,
+    "question": "지상 조립을 완료한 블록의 탑재 후 행해져야 할 공사는?",
+    "choices": {
+      "1": "선형 결정짓기",
+      "2": "블록의 보강",
+      "3": "선행 발판 가설",
+      "4": "선행의장 및 도장"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 262,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 67,
+    "question": "다음과 같이 용접방향과 용착방향이 반대인 용착법은?",
+    "choices": {
+      "1": "전진법",
+      "2": "대칭법",
+      "3": "비석법",
+      "4": "후퇴법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 263,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 68,
+    "question": "선대 공사 중에 이루어져야 할 작업이 아닌 것은?",
+    "choices": {
+      "1": "흘수표검사",
+      "2": "수밀시험",
+      "3": "탱크 내부검사",
+      "4": "경사시험"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 264,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 69,
+    "question": "선대공사에서 블록결합도에 기재할 필요가 없는 것은?",
+    "choices": {
+      "1": "도장재료",
+      "2": "용접기호",
+      "3": "절단여유의 유무",
+      "4": "스트롱 백의 종류 및 사용법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 265,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 71,
+    "question": "가변피치 프로펠러(C.P.P)에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "프로펠러 날개의 각도를 조정하여 피치를 조정할 수 있 다.",
+      "2": "후진할 경우에도 프로펠러의 회전방향을 전진할 때와 동 일하다.",
+      "3": "주기관을 정속도로 유지하면서 출력을 조정할 수 있어 기관운전에 이점이 있다.",
+      "4": "타(Rudder)를 별도로 장치할 필요가 없어 선박의 조정 성능이 우수하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 266,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 72,
+    "question": "가스터빈의 주요 구성 부분이 아닌 것은?",
+    "choices": {
+      "1": "터빈",
+      "2": "압축기",
+      "3": "연소기",
+      "4": "응축기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 267,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 73,
+    "question": "두 축을 연결하는 축 이음 요소로 사용되는 마찰 클러치의 형식이 아닌 것은?",
+    "choices": {
+      "1": "원판식",
+      "2": "원추식",
+      "3": "원주식",
+      "4": "원심식"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 268,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 74,
+    "question": "프로펠러를 정반 위에 수평으로 놓고 날개를 18° 회전시키 면서 피치 계측기로 측정한 시작점과 끝점의 깊이 차이가 10cm 일 경우 이 프로펠러의 피치는 몇 cm 인가? (단, 프 로펠러는 균일 피치 프로펠러이다.)",
+    "choices": {
+      "1": "50",
+      "2": "100",
+      "3": "200",
+      "4": "300"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 269,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 75,
+    "question": "4사이클 기관과 비교할 때 2사이클 기관의 장점이 아닌 것 은?",
+    "choices": {
+      "1": "토크 변화가 적고, 운전이 원활하다.",
+      "2": "환기 작용이 완전하여 고속기관에 적합하다.",
+      "3": "마력당 부피가 작고, 플라이월이 작아도 된다.",
+      "4": "구조가 간단하고, 마력당 기관의 중량이 작다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 270,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 76,
+    "question": "선미관에 설치되는 리그넘바이트(Lignumvitae)의 역할이 아 닌 것은?",
+    "choices": {
+      "1": "축의 부식방지",
+      "2": "선미부의 수밀",
+      "3": "프로펠러의 추력 전달",
+      "4": "선미관 내면과의 마찰감소"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 271,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 77,
+    "question": "다음 중 고속 디젤기관의 기본 사이클로서 열공급이 정적 및 정압의 두 부분에서 이루어지므로 정적-정압사이클이라 고도 하는 사이클은?",
+    "choices": {
+      "1": "오토(Otto) 사이클",
+      "2": "디젤(Diesel) 사이클",
+      "3": "사바테(Sabathe) 사이클",
+      "4": "브레이튼(Brayton) 사이클"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 272,
+    "date": "20090510",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 79,
+    "question": "다음 중 디젤기관에서 과급기(Super-charger)의 역할로 틀 린 것은?",
+    "choices": {
+      "1": "출력을 증가시킬 수 있다.",
+      "2": "연료 공급을 적게할 수 있다.",
+      "3": "흡입공기의 압력을 높일 수 있다.",
+      "4": "실린더에 공기 흡입량을 증가시킬 수 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 1,
+    "question": "항해시 부력에 의해서만 지지되는 선박은?",
+    "choices": {
+      "1": "활주형선(planning boat)",
+      "2": "수중익선(hydrofoil boat)",
+      "3": "호버 크레프트(hover craft)",
+      "4": "배수량형선(displacement ship)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 2,
+    "question": "다음 중 실선의 전저항을 알기 위해 실시하는 모형선 시험을 실선으로 확장 시킬 수 있는 어떤 저항계수를 알기 위한 것 인가?",
+    "choices": {
+      "1": "형상저항계수",
+      "2": "조와저항계수",
+      "3": "잉여저항계수",
+      "4": "공기저항계수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 3,
+    "question": "선박의 분류 중 상선에 해당되지 않는 것은?",
+    "choices": {
+      "1": "어로지도선",
+      "2": "유조선",
+      "3": "가스운반선",
+      "4": "일반화물선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 5,
+    "question": "다음 중 본전곡선(Bonjean curve)을 작성하기 위하여 반드시 알아야 되는 것은?",
+    "choices": {
+      "1": "스테이션의 간격",
+      "2": "각 홀수선에서의 횡단면적",
+      "3": "각 홀수선에서의 수선면적",
+      "4": "세로좌표(ordinate)의 길이"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 6,
+    "question": "심프슨(Simposon)의 제1법칙에서 심프슨 승수를 옳게 나열 한 것은?",
+    "choices": {
+      "1": "1, 4, 4, 2, 4 . . . 4, 4, 1",
+      "2": "1, 2, 4, 4, 2, 4, . . . 2, 1",
+      "3": "1, 2, 4, 2, 4 . . . 2, 1",
+      "4": "1, 4, 2, 4 . . . 2, 4, 1"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 278,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 7,
+    "question": "휴즈에 의한 저항 분류에 따라 점성저항을 이루고 있는 저항 은 평판의 마찰저항과 어떤 저항인가?",
+    "choices": {
+      "1": "공기저항",
+      "2": "조파저항",
+      "3": "조와저항",
+      "4": "형상저항"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 279,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 8,
+    "question": "스톡리스 앵커(stockless anchor)의 장점으로 틀린 것은?",
+    "choices": {
+      "1": "닻의 취급이 간편하다.",
+      "2": "플루크에 의한 파지력이 비교적 강하다.",
+      "3": "투묘 후 스토크에 의한 닻줄이 꼬일 염려가 없다.",
+      "4": "수심이 얕은 때에 플루크(fluke)에 의하여 선저가 손상을 입을 염려가 없다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 280,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 9,
+    "question": "시마진(Sea Margin)이란 무엇인가?",
+    "choices": {
+      "1": "여분으로 싣는 연료",
+      "2": "추진기관에 주는 여유마력",
+      "3": "항해목적지까지의 잔여거리",
+      "4": "선박운항에서 얻는 예상 외의 이윤"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 281,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 10,
+    "question": "선박의 운동에서 배의 길이 방향의 축을 중심으로 회전 왕 복 운동을 하는 것은?",
+    "choices": {
+      "1": "Surging",
+      "2": "Yawing",
+      "3": "Pitching",
+      "4": "Rolling"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 282,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 11,
+    "question": "다음 중 선박의 계선·계류장치가 아닌 것은?",
+    "choices": {
+      "1": "앵커(anchor)",
+      "2": "볼라드(bollard)",
+      "3": "페어리더(fairleader)",
+      "4": "데릭 붐(derrick boom)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 283,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 12,
+    "question": "선박의 길이 256m, 속력 13m/s 인 컨테이너선의 1/40 모 형선의 대응속도는 약 몇 m/s 인가?",
+    "choices": {
+      "1": "2.1",
+      "2": "3.0",
+      "3": "4.1",
+      "4": "8.3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 284,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 13,
+    "question": "밸러스트(Ballast)의 주된 사용 목적은?",
+    "choices": {
+      "1": "공선시복원성조정",
+      "2": "재화중량의 조정",
+      "3": "추진성능 조정",
+      "4": "선체저항의 조정"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 285,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 14,
+    "question": "선박의 주요치수만으로 옳게 나열한 것은?",
+    "choices": {
+      "1": "길이(L), 폭(B), 깊이(D), 건현(f)",
+      "2": "길이(L), 폭(B), 깊이(D), 흘수(d)",
+      "3": "길이(L), 폭(B), 깊이(D), 트림(t)",
+      "4": "길이(L), 폭(B), 깊이(D), 톤수(ton)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 286,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 15,
+    "question": "선박의 흘수에 대하여 1cm 침하톤수가 20ton 이라면 이 흘 수에 대한 수선면적은 약 몇 m2 인가? (단, 해수의 비중량 ton/m3 은 1.025 이다.)",
+    "choices": {
+      "1": "1922.2",
+      "2": "1933.3",
+      "3": "1951.2",
+      "4": "1955.5"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 287,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 16,
+    "question": "앵커체인의 련(shackle)과 련(shackle)사이에 연결되는 부품 의 종류가 아닌 것은?",
+    "choices": {
+      "1": "Joining shackle",
+      "2": "Kenter shackle",
+      "3": "Common link",
+      "4": "Enlarged link"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 288,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 17,
+    "question": "선박 길이방향의 횡단면적 분포상태를 나타내며 값이 작을 수록 중앙부에 배수용적이 집중해 있음을 나타내고 1에 가 까울수록 전후부에 고르게 분포해 있음을 나타내는 선형계 수는?",
+    "choices": {
+      "1": "방형계수",
+      "2": "수직주형계수",
+      "3": "주형계수",
+      "4": "중앙횡단면계수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 289,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 18,
+    "question": "선급에서 배의 길이를 표시하거나 선박계산 등에 사용되는 길이는?",
+    "choices": {
+      "1": "수선장(LWL)",
+      "2": "전장(LOA)",
+      "3": "수선간장(LPP)",
+      "4": "건현장(L) f"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 290,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 19,
+    "question": "선수흘수 380cm, 선미흘수 345cm인 배가 중량물 이동으로 선수흘수는 360cm, 선미흘수는 450cm로 변화하였다면 새 로운 흘수선에 대한 트림은?",
+    "choices": {
+      "1": "90cm 선미트림",
+      "2": "90cm 선수트림",
+      "3": "20cm 선수트림",
+      "4": "105cm 선미트림"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 291,
+    "date": "20140302",
+    "subject": 1,
+    "subject_name": "조선공학일반",
+    "question_no": 20,
+    "question": "선박이 진행하는 방향과 90°의 방향으로 입사하는 파도를 무엇이라 하는가?",
+    "choices": {
+      "1": "횡파(Beam sea)",
+      "2": "선수파(Head sea)",
+      "3": "선수사파(Bow sea)",
+      "4": "선미파(Following sea)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 292,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 21,
+    "question": "직경 40cm 의 관속에 0.628 m3/s의 유량으로 유체가 흐르 고 있다면 이 유체의 평균속도는 약 몇 m/s 인가?",
+    "choices": {
+      "1": "0.5",
+      "2": "1.25",
+      "3": "4",
+      "4": "5"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 293,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 22,
+    "question": "물리 법칙이 F(a, V, v, L) = 0 같은 식으로 주어졌다면 무 차원수의 함수로 표시할 때 무치원 군은 몇 개 인가? (단, a : 선가속도, V : 선속도, v : 동점계수, L : 길이이다.)",
+    "choices": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 294,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 23,
+    "question": "관 속의 흐름에서 레이놀즈수가 1200인 경우 마찰계수의 값 은 약 얼마인가?",
+    "choices": {
+      "1": "0.016",
+      "2": "0.031",
+      "3": "0.043",
+      "4": "0.053"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 295,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 25,
+    "question": "상온에서 액체의 비중이 1.5 일 때 이 액체의 밀도는 약 몇 kgf·s2/m4 인가?",
+    "choices": {
+      "1": "135",
+      "2": "147",
+      "3": "153",
+      "4": "174"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 296,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 26,
+    "question": "배가 물 위에서 항주할 때 발생하는 파도에 의한 항력을 조 사하기 위해 모형선 시험을 할 때 실선과 모형선과의 역학 적 상사관계가 성립하기 위해 같아야 하는 것은?",
+    "choices": {
+      "1": "실선과 모형선의 속도",
+      "2": "실선과 모형선의 프루드수",
+      "3": "실선과 모형선의 레일놀즈수",
+      "4": "실선과 모형선의 프루드수와 레일놀즈수"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 297,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 27,
+    "question": "원관을 흐르는 유체의 층류와 난류유동에 대한 설명으로 틀 린 것은?",
+    "choices": {
+      "1": "층류전단응력이 난류전단응력보다 크다.",
+      "2": "전단응력은 파이프의 중심으로부터 거리에 비례한다.",
+      "3": "원관 윤동에서 레이놀즈수가 2100 이하이면 층류운동이 다.",
+      "4": "원관 윤동에서 레이놀즈수가 4100 이하이면 난류운동이"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 298,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 29,
+    "question": "다음 중 교란되지 않은 유체의 정압을 측정할 때 사용되는 장치는?",
+    "choices": {
+      "1": "피에조미터(Piezometer)",
+      "2": "벤츄리미터(Venturi meter)",
+      "3": "다이나모미터(Dynamometer)",
+      "4": "열선 아네모미터(hor-wire anemometer)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 299,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 30,
+    "question": "수심이 1.2m인 수조의 바닥에 한변이 0.8m인 정사각형 덮 개에 작용하는 수압에 의한 힘은 약 몇 kN 인가? (단, 물의 밀도는 1000 kg/m3 이다.)",
+    "choices": {
+      "1": "5.0",
+      "2": "7.5",
+      "3": "10.5",
+      "4": "15.0"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 300,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 31,
+    "question": "2축 응력상태에서 σ= 30 MPa, σ= -20 MPa 일 때 최대 x y 전단응력은 몇 MPa 인가?",
+    "choices": {
+      "1": "5",
+      "2": "15",
+      "3": "25",
+      "4": "35"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 301,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 33,
+    "question": "후크의 법칙에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "전단탄성계수와 전단변형률은 서로 반비례한다.",
+      "2": "축방향 응력과 축방향 변형률은 서로 반비례한다.",
+      "3": "축방향 응력과 세로탄성계수는 서로 비례한다.",
+      "4": "전단응력과 전단탄성계수는 서로 비례한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 302,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 34,
+    "question": "같은 인장하중을 받는 환봉에서 지름의 비가 1:2라고 하면 발생되는 응력의 비는?",
+    "choices": {
+      "1": "1:2",
+      "2": "2:1",
+      "3": "1:4",
+      "4": "4:1"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 303,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 36,
+    "question": "바깥지름 10cm, 안지름 8cm의 속빈 원형 단면의 단면 2차 cm4과 cm3 모멘트(I)와 단면계수(Z)는 각각 몇 인가?",
+    "choices": {
+      "1": "I = 58.0, Z = 116",
+      "2": "I = 116, Z = 68.1",
+      "3": "I = 290, Z = 58.0",
+      "4": "I = 290, Z = 68.1"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 304,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 37,
+    "question": "길이 1m의 연강봉이 100MPa 의 인장응력을 받고 있을 때 신장량은? (단, 연강봉의 탄성계수 E = 200 GPa 이다.)",
+    "choices": {
+      "1": "0.025mm",
+      "2": "0.05mm",
+      "3": "0.025cm",
+      "4": "0.05cm"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 305,
+    "date": "20140302",
+    "subject": 2,
+    "subject_name": "조선유체역학 및 재료역학",
+    "question_no": 38,
+    "question": "한 변의 길이가 4cm의 정사각형 단면을 가진 길이 1m인 외팔보의 자유단에 집중하중을 작용시켰더니 5mm의 처짐이 생겼다. 이 보에 발생하는 최대 굽힘 응력은 몇 MPa인가? (단, 탄성계수 E = 210 GPa 이다.)",
+    "choices": {
+      "1": "33",
+      "2": "43",
+      "3": "53",
+      "4": "63"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 306,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 41,
+    "question": "선루에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "길이의 1/4 이상 걸쳐있는 상부구조물이다.",
+      "2": "길이의 1/5 이상 걸쳐있는 상부구조물이다.",
+      "3": "외판에서 선폭의 1/25 이내에 측벽을 가진 상부구조물이 다.",
+      "4": "외판에서 선폭의 1/20 이내에 측벽을 가진 상부구조물이 다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 307,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 42,
+    "question": "갑판의 캠버(Camber)를 두는 목적으로 옳은 것은?",
+    "choices": {
+      "1": "사람의 보행이 편하다.",
+      "2": "갑판화물 적재에 편하다.",
+      "3": "갑판보(Deck beam)의 시공이 간편하다.",
+      "4": "갑판의 강도가 좋아지며 배수에 편리하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 308,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 43,
+    "question": "특설늑골(web frame)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "특수한 재료로 만든 늑골이다.",
+      "2": "단일한 부재로 만든 늑골이다.",
+      "3": "특설보와 결합하여 선체의 횡강도를 증가시킨다.",
+      "4": "특수한 구조로 종강력을 보강해 주기 위한 늑골이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 309,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 44,
+    "question": "동일한 단면 2차모멘트를 갖는 선박이 일정한 종굽힘모멘트 를 받고 있을 때의 설명으로 옳은 것은?",
+    "choices": {
+      "1": "단면계수가 크면 종굽힘응력이 커진다.",
+      "2": "중립축의 위치에서 굽힘응력이 최대가 된다.",
+      "3": "단면의 면적중심이 하방으로 치우져 있으면 단며하부의 응력이 크게 된다.",
+      "4": "중립축이 단면의 중앙에 있으면 중립축 상부 및 하부의 응력의 절대값은 같다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 310,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 45,
+    "question": "선체 종강도의 계산 순서로 옳은 것은?",
+    "choices": {
+      "1": "부력곡선 → 중량곡선 → 전단력곡선 → 하중곡선 → 굽 힘모멘트곡선",
+      "2": "중량곡선 → 부력곡선 → 하중곡선 → 전단력곡선 → 굽 힘모멘트곡선",
+      "3": "하중곡선 → 중량곡선 → 부력곡선 → 전단력곡선 → 굽 힘모멘트곡선",
+      "4": "전단력곡선 → 중량곡선 → 부력곡선 → 하중곡선 → 굽 힘모멘트곡선"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 311,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 46,
+    "question": "원유운반선에서 화물창의 길이가 길어짐에 따라 유체의 유 동에 의한 압력(슬로싱)에 의해 손상이 일어나기 가장 쉬운 부재는?",
+    "choices": {
+      "1": "선측외판",
+      "2": "선저외판",
+      "3": "이중저구조의 내저판",
+      "4": "격벽 상부 및 인접 상갑판"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 312,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 48,
+    "question": "선체 내부에 격벽을 설치하는 목적이 아닌 것은?",
+    "choices": {
+      "1": "화물을 성질별로 분류하여 적재한다.",
+      "2": "노천시의 파도를 막아 누수를 방지한다.",
+      "3": "화재 발생시 방화벽의 기능을 하도록 한다.",
+      "4": "수밀 구획을 만들어 침수 구역을 한정시킨다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 313,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 49,
+    "question": "다음 중 비틀림 강도에 직접 기여치 않는 부재는?",
+    "choices": {
+      "1": "늑골",
+      "2": "갑판",
+      "3": "거더(girder)",
+      "4": "외판"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 314,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 50,
+    "question": "다음 중 종강력재(longitudinal strength member)가 아닌 것 은?",
+    "choices": {
+      "1": "갑판(deck)",
+      "2": "용골(Keel)",
+      "3": "만곡부외판(Bilge strake)",
+      "4": "횡격벽(transverse bulkhead)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 315,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 51,
+    "question": "선체에 종식 늑골구조를 사용할 때 횡식 늑골구조와 비교한 장점이 아닌 것은?",
+    "choices": {
+      "1": "공작이 간단하다.",
+      "2": "종강력이 유리하다.",
+      "3": "선체중량이 작아진다.",
+      "4": "액체 화물적재에 적합하다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 316,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 53,
+    "question": "선체 격벽 중 반드시 수밀이어야 하는 것은?",
+    "choices": {
+      "1": "기관실 후단 격벽",
+      "2": "중심선 격벽",
+      "3": "스크린 격벽",
+      "4": "석탄고 격벽"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 317,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 54,
+    "question": "창구연재(hatch coaming)를 붙이는 목적은?",
+    "choices": {
+      "1": "선창의 통풍을 위하여",
+      "2": "갑판을 보강하기 위하여",
+      "3": "공작을 용이하게 하기 위하여",
+      "4": "하역작업을 용이하게 하기 위하여"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 318,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 56,
+    "question": "다음 중 선미와 선수구조에 모두 사용되는 부재는?",
+    "choices": {
+      "1": "심늑판(deep floor)",
+      "2": "힐피스(heel piece)",
+      "3": "브레스트 훅(breast hook)",
+      "4": "패션 플레이트(fashion plate)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 319,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 57,
+    "question": "선체에 작용하는 전단응력에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "전단응력이 큰 선박은 굽힘응력도 크다.",
+      "2": "최대전단응력은 선박의 깊이에 비례한다.",
+      "3": "최대전단응력은 외판의 두께에 반비례한다.",
+      "4": "선수미 각각에서부터 선체길이의 약 1/4의 위치에서 최 대값을 가진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 320,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 58,
+    "question": "상갑판이 현측후판(Shear strake)과 접하는 판은?",
+    "choices": {
+      "1": "Deck beam",
+      "2": "Deck stringer",
+      "3": "Gunnel-L형재",
+      "4": "Side deck"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 321,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 59,
+    "question": "연판(margin plate)을 붙이는 곳은?",
+    "choices": {
+      "1": "갑판과 외판의 연결부위",
+      "2": "이중저와 필러의 연결부위",
+      "3": "선저만곡부와 이중저 연결부위",
+      "4": "용골과 중심선거더의 연결부위"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 322,
+    "date": "20140302",
+    "subject": 3,
+    "subject_name": "선체구조학",
+    "question_no": 60,
+    "question": "다음 중 외판 명칭의 설명이 잘못된 것은?",
+    "choices": {
+      "1": "sheer strake : 강력갑판하의 현측 최상부 외판",
+      "2": "bilge strake : 선저 외판중 만곡부에 있는 외판",
+      "3": "side plate : propeller post의 boss를 싸고 있는 외판",
+      "4": "bottom plate : 평판 용골에 연결되는 외판으로 만곡부 상단까지의 외판"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 323,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 61,
+    "question": "해안선이 1변이며 가장 적은 면적으로 배치할 경우 일반적 으로 적합한 기본 공장 배치 형태는?",
+    "choices": {
+      "1": "I자형",
+      "2": "T자형",
+      "3": "L자형",
+      "4": "U자형"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 324,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 62,
+    "question": "선체 내업(가공)공사 공정을 순서대로 옳게 나열한 것은?",
+    "choices": {
+      "1": "절단 → 벤딩 → 마킹 → 변형 제거",
+      "2": "절단 → 변형 제거 → 마킹 → 벤딩",
+      "3": "변형 제거 → 마킹 → 절단 → 벤딩",
+      "4": "마킹 → 변형 제거 → 벤딩 → 절단"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 325,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 63,
+    "question": "선행의장을 옳게 설명한 것은?",
+    "choices": {
+      "1": "선수부분에서 이루어지는 의장작업이다.",
+      "2": "블록 조립과정에서 이루어지는 의장작업이다.",
+      "3": "전기, 기관, 실내의장작업을 통칭하는 의장작업이다.",
+      "4": "탑재공정 이전에 지상에서 이루어지는 의장작업이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 326,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 65,
+    "question": "블록 건조 방식의 장점이 아닌 것은?",
+    "choices": {
+      "1": "고소작업의 위험이 감소된다.",
+      "2": "독 또는 선대작업기간을 단축할 수 있다.",
+      "3": "공정과 공작기술의 관리 감독이 용이하다.",
+      "4": "선체건조시 필요한 강재량을 줄일 수 있다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 327,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 66,
+    "question": "경사선대에서 선박을 진수할 경우 진수계산 항목이 아닌 것 은?",
+    "choices": {
+      "1": "진수 후의 흘수",
+      "2": "포핏에 작용하는 압력",
+      "3": "선미부양까지의 활주거리",
+      "4": "자유부양 후의 선박 속도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 328,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 67,
+    "question": "절단선을 판에 마킹한 후 판을 절단하게 되면 절단선이 없 어지므로 절단의 정확성을 판단할 수 없다. 이 때 일정 간 격을 두고 절단선과 평행하게 마킹하는 선은?",
+    "choices": {
+      "1": "차월선",
+      "2": "기준선",
+      "3": "맞춤선",
+      "4": "프레임선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 329,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 68,
+    "question": "선박 건조시 건조독의 활용을 높이기 위해 다른 선박의 선 수 또는 선미 블록을 건조하여 진수시 부상시켜 이동하여 건조하는 방식은?",
+    "choices": {
+      "1": "층식건조방식",
+      "2": "세미텐덤건조방식",
+      "3": "다점식건조방식",
+      "4": "피라밋식건조방식"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 330,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 69,
+    "question": "선체조립 작업시 용접에 의한 변형을 교정하는 방법이 아닌 것은?",
+    "choices": {
+      "1": "선상가열법",
+      "2": "가우징 작업에 의한 방법",
+      "3": "가열 후 해머링하는 방법",
+      "4": "가열 후 압력을 가하고 수냉하는 법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 331,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 70,
+    "question": "가스절단시 절단 변형의 방지 대책으로 틀린 것은?",
+    "choices": {
+      "1": "피절단재를 고정한다.",
+      "2": "수냉에 의하여 열을 제거한다.",
+      "3": "열의 영향을 적게 받도록 지그재그로 절단한다.",
+      "4": "절단부와 대칭인 판끝을 미리 가열하여 열의 평형을 유 지한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 332,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 71,
+    "question": "다음 중 상선에 가장 적합한 프로펠러는?",
+    "choices": {
+      "1": "제트 프로펠러",
+      "2": "패들 프로펠러",
+      "3": "스크류 프로펠러",
+      "4": "보이드-슈나이더 프로펠러"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 333,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 72,
+    "question": "다음 중 디젤기관의 연소실을 형성하는 부품이 아닌 것은?",
+    "choices": {
+      "1": "피스톤 로드",
+      "2": "실린더 라이너",
+      "3": "피스톤 헤드",
+      "4": "실린더 헤드"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 334,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 73,
+    "question": "선체를 관통하는 곳에 설치되는 유윤활식 선미관의 역할은?",
+    "choices": {
+      "1": "진동방지와 전기절연",
+      "2": "해수 공급량을 적당하게 유지",
+      "3": "선미관의 패킹 및 선체강도 보강",
+      "4": "해수 침입 방지와 기름누설 방지"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 335,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 74,
+    "question": "중고속 디젤기관을 추진기관으로 사용하는 선박에서 감속 역전장치를 두는 이유가 아닌 것은?",
+    "choices": {
+      "1": "클러치를 떼고 추진기관을 하역펌프 등의 원동기로 사용 하기 위하여",
+      "2": "추진축의 직경을 가늘게 할 수 있어 제작비를 낮추고 중 량을 감소시키기 위하여",
+      "3": "프로펠러의 회전속도를 낮추고 직경을 크게 하여 프로펠 러의 효율을 높이기 위하여",
+      "4": "기관이 자기역전식이 아닌 경우 프로펠러의 회전방향을 바꾸기 위하여"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 336,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 75,
+    "question": "프로펠러에 관한 용어를 설명한 것으로 틀린 것은?",
+    "choices": {
+      "1": "투영면적비란 투영면적을 전원면적으로 나눈 값이다.",
+      "2": "전개면적이란 전개면적을 전원면적으로 나눈 값이다.",
+      "3": "전개면적에는 보수나 날개와 날개사이의 틈 부분은 포함 되지 않는다.",
+      "4": "피치비란 프로펠러 직경을 피치로 나눈 값이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 337,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 76,
+    "question": "가스터빈이 다른 내연기관에 비교하여 갖는 장점이 아닌 것 은?",
+    "choices": {
+      "1": "시동시 소리가 작고 시동이 편하다.",
+      "2": "기관이 작고 구조가 간단하여 가볍다.",
+      "3": "유지비가 싸고 윤활유의 소비가 적다.",
+      "4": "중질증류유(heavy distilled fuel)를 사용할 수 있다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 338,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 77,
+    "question": "디젤기관의 점화 방식은?",
+    "choices": {
+      "1": "전기점화",
+      "2": "불꽃에 의한 점화",
+      "3": "공기압축에 의한 점화",
+      "4": "실린더와 피스톤의 마찰열에 의한 점화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 339,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 78,
+    "question": "감속장치의 감속비는 무엇의 비인가?",
+    "choices": {
+      "1": "휠 잇수와 피니언의 잇수비",
+      "2": "휠 모듈과 피니언의 모듈비",
+      "3": "휠 피치원과 피니어의 잇수비",
+      "4": "휠 피치원과 피니언의 모듈비"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 340,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 79,
+    "question": "2행정 디젤기관과 4행정 디젤가괸의 이론적 출력 차이를 옳 게 설명한 것은? (단, 모든 조건은 동일하다.)",
+    "choices": {
+      "1": "차이가 없다.",
+      "2": "2행정 기관이 4행정 기관에 비하여 출력이 2배 크다.",
+      "3": "4행정 기관이 2행정 기관에 비하여 출력이 2배 크다.",
+      "4": "2행정 기관이 4행정 기관에 비하여 출력이 4배 크다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 341,
+    "date": "20140302",
+    "subject": 4,
+    "subject_name": "선박건조학 및 선박동력장치",
+    "question_no": 80,
+    "question": "추력 베어링의 주된 역할은?",
+    "choices": {
+      "1": "축의 중심유지",
+      "2": "축의 진동을 방지",
+      "3": "클러치의 진동방지",
+      "4": "프로펠러의 추력을 선체에 전달"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  }
+]

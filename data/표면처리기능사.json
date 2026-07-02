@@ -1,1 +1,3926 @@
-[{"id": 1, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 1, "question": "다음 시험법 중 탄소강의 탄소함유량을 측정하기 위한 가장 간단한 방법은?", "choices": {"1": "피로시험", "2": "불꽃시험", "3": "크리프시험", "4": "방사선 투과시험"}, "answers": [2], "explanation": ""}, {"id": 2, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 2, "question": "백선철을 900∼1,000℃로 가열하여 탈탄시켜 만든 주철은?", "choices": {"1": "서멧(cermet)", "2": "두랄루민(duralumin)", "3": "고속도강(high speed steel)", "4": "인바invar)"}, "answers": [2], "explanation": ""}, {"id": 3, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 4, "question": "다음 중 항온열처리방법으로 옳은 것은?", "choices": {"1": "노말라이징", "2": "오스탬퍼링", "3": "폴링", "4": "뜨임"}, "answers": [2], "explanation": ""}, {"id": 4, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 5, "question": "금속적 성질과 비금속적 성질을 같이 나타내는 것을 무엇이 라 하는가?", "choices": {"1": "아금속(metalloid)", "2": "중금속(heavy metal)", "3": "연성금속(ductility metal)", "4": "경금속(light metal)"}, "answers": [1], "explanation": ""}, {"id": 5, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 6, "question": "금속의 결정격자구조가 아닌 것은?", "choices": {"1": "FCC", "2": "COB", "3": "BCC", "4": "HCP"}, "answers": [2], "explanation": ""}, {"id": 6, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 7, "question": "반자성체에 속하는 금속은?", "choices": {"1": "동소체", "2": "결정입체", "3": "천아금속", "4": "변태입자"}, "answers": [3], "explanation": ""}, {"id": 7, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 9, "question": "방사선 투과 검사의 안전성 확보를 위한 장치기구로 볼 수 없는 것은?", "choices": {"1": "포켓도시메타", "2": "필름뱃지", "3": "서베이미터", "4": "투과도계"}, "answers": [4], "explanation": ""}, {"id": 8, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 10, "question": "염욕 열처리에서 가장 저온도용 염욕제는?", "choices": {"1": "KCl", "2": "Na CO 2 3", "3": "BaCl", "4": "NaNO 2 2"}, "answers": [4], "explanation": ""}, {"id": 9, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 12, "question": "두랄루민의 주요 성분 원소로 옳은 것은?", "choices": {"1": "황색 → 녹색", "2": "황색 → 청색", "3": "황색 → 적색", "4": "황색 → 백색"}, "answers": [1], "explanation": ""}, {"id": 10, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 14, "question": "도금 첨가제에 속하지 않는 것은?", "choices": {"1": "이형제", "2": "광택제", "3": "평활제", "4": "피트 방지제"}, "answers": [1], "explanation": ""}, {"id": 11, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 15, "question": "다음 중 금도금용 양극판으로 잘 사용되지 않는 것은?", "choices": {"1": "스테인리스강판", "2": "백금판", "3": "흑연판", "4": "순금판"}, "answers": [4], "explanation": ""}, {"id": 13, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 17, "question": "산성아연 도금시 구름낌의 원인으로 볼 수 없는 것은?", "choices": {"1": "전해 탈지", "2": "알칼리 담금 탈지", "3": "에멀션 탈지", "4": "용제 탈지"}, "answers": [4], "explanation": ""}, {"id": 14, "date": "20060716", "subject": 1, "subject_name": "금속재료일반", "question_no": 19, "question": "염화아연욕의 특징으로 옳은 것은?", "choices": {"1": "탄소강 : 약 2,100∼2,700(m/min)", "2": "전류 효율이 나빠 도금 속도가 느리다.", "3": "가스 발생이 많아 배기장치가 필요하다.", "4": "주물 등에 직접 도금이 잘 된다. 20. 광택연마를 하기 위해서 재질에 따른 적당한 버프 표면 속 도를 나타낸 것이다. 연마 속도가 틀린 것은?"}, "answers": [4], "explanation": ""}, {"id": 15, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 24, "question": "산의 취급과정에서 잘못된 상황이 발생되었을 때의 응급 조 치 방안으로 틀린 것은?", "choices": {"1": "피부 접촉 : 빨리 다량의 물로 씻는다.", "2": "의류 부착 : 다량의 산이 묻었을 경우 중조수로 세탁한 다.", "3": "눈에 투입 : 즉시 물로 충분히 닦는다.", "4": "구강 음용 : 다량의 물을 마신다."}, "answers": [4], "explanation": ""}, {"id": 16, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 25, "question": "흑색 크롬 도금액의 주 성분은?", "choices": {"1": "무수크롬산", "2": "수산화나트륨", "3": "산화망간", "4": "질산니켈"}, "answers": [1], "explanation": ""}, {"id": 17, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 26, "question": "버프 접착제로서의 아교에 대한 설명으로 틀린 것은?", "choices": {"1": "부패하기 쉽다.", "2": "시멘트에 비해 표면 탄성이 크다.", "3": "150mesh 이상의 에머리에 적합하다.", "4": "아교는 시멘트보다 접착력이 강하다."}, "answers": [4], "explanation": ""}, {"id": 18, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 27, "question": "도금액의 불순물에 의한 도금 불량이 아닌 것은?", "choices": {"1": "아연분말 처리", "2": "활성탄 처리 여과", "3": "정밀 여과", "4": "과산화수소 처리"}, "answers": [1], "explanation": ""}, {"id": 19, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 29, "question": "파이프류의 연마에 가장 적당한 연마기는?", "choices": {"1": "세터레스(centerless) 연마기", "2": "전동 연마기", "3": "로터리(rotary)형 자동 연마기", "4": "가변속 연마기"}, "answers": [1], "explanation": ""}, {"id": 20, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 30, "question": "다음 중 시안화구리 도금액의 액조성 성분이 아닌 것은?", "choices": {"1": "도금속도가 빨라진다.", "2": "양극 용해를 방해한다.", "3": "음극전규 효율이 저하한다.", "4": "액의 전도도가 감소한다."}, "answers": [2], "explanation": ""}, {"id": 21, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 33, "question": "다음 중 이온화 경향이 가장 큰 금속은?", "choices": {"1": "나트륨", "2": "구리", "3": "니켈", "4": "아연"}, "answers": [1], "explanation": ""}, {"id": 22, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 34, "question": "전해질의 두 용액이 접촉할 때 일어나는 전위차는?", "choices": {"1": "전극전위", "2": "액계전위", "3": "반파전위", "4": "한계전위"}, "answers": [2], "explanation": ""}, {"id": 23, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 35, "question": "전해질이 음이온과 양이온으로 분리되는 것을 무엇이라 하 는가?", "choices": {"1": "이온", "2": "수소", "3": "금속", "4": "전압"}, "answers": [1], "explanation": ""}, {"id": 24, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 38, "question": "전기를 통하지 않는 비전해질 물질로만 구성된 것은?", "choices": {"1": "1", "2": "3", "3": "7", "4": "10"}, "answers": [3], "explanation": ""}, {"id": 25, "date": "20060716", "subject": 2, "subject_name": "전기도금", "question_no": 40, "question": "비열의 정의로 옳은 것은?", "choices": {"1": "어떤 물질 1g을 1℃올리는데 필요한 열량", "2": "어떤 물질 10g을 1℃올리는데 필요한 열량", "3": "어떤 물질 100g을 1℃올리는데 필요한 열량", "4": "어떤 물질 1kg을 10℃올리는데 필요한 열량"}, "answers": [1], "explanation": ""}, {"id": 26, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 42, "question": "양극산화법 중 착색방법에 의한 구분이 아닌 것은?", "choices": {"1": "염색법", "2": "전해발색법", "3": "전해착색법", "4": "전기분해법"}, "answers": [4], "explanation": ""}, {"id": 27, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 43, "question": "이황화탄소의 화학식은?", "choices": {"1": "탈지", "2": "에칭", "3": "감수성 부여처리", "4": "활성화처리"}, "answers": [4], "explanation": ""}, {"id": 28, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 45, "question": "철강 표면에 인산염 피막 처리를 하는 목적으로 틀린 것은?", "choices": {"1": "소재금속의 방식용", "2": "도장하지 처리용", "3": "소성 가공용", "4": "열처리용"}, "answers": [4], "explanation": ""}, {"id": 29, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 46, "question": "도금 공장의 폐수 처리방법으로 옳은 것은?", "choices": {"1": "인산철 피막", "2": "인산아연칼슘 피막", "3": "인산망간 피막", "4": "인산아연 피막"}, "answers": [1], "explanation": ""}, {"id": 30, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 50, "question": "플라스틱상에 전도성을 주기 위한 도금과 프린트 배선기관 의 드로우 효율 도금에 많이 사용되는 것은?", "choices": {"1": "무전해 니켈도금", "2": "무전해 구리도금", "3": "무전해 크롬도금", "4": "무전해 주석도금"}, "answers": [2], "explanation": ""}, {"id": 32, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 53, "question": "구리의 화학도금에 사용되는 것들 중 잘못 짝지어진 것은?", "choices": {"1": "PH완충제 : 포르말린", "2": "안정제 : 티오요소", "3": "착화제 : 로셀영", "4": "도금촉진제 : EDTA"}, "answers": [1], "explanation": ""}, {"id": 33, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 54, "question": "화성 처리와 관계 없는 것은?", "choices": {"1": "용융아연도금", "2": "용융주석도금", "3": "용융알루미늄도금", "4": "용융납도금"}, "answers": [1], "explanation": ""}, {"id": 34, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 56, "question": "양극산화 전처리 공정에서 알칼리세정 계면활성화로 적합한 것은?", "choices": {"1": "폴리 프로필렌", "2": "이온 활성제", "3": "비이온 활성제", "4": "염화비닐"}, "answers": [3], "explanation": ""}, {"id": 35, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 57, "question": "철강에 크롬을 확산 침투시키는 방법은?", "choices": {"1": "400", "2": "600", "3": "800", "4": "1000"}, "answers": [1], "explanation": ""}, {"id": 36, "date": "20060716", "subject": 3, "subject_name": "특수도금", "question_no": 60, "question": "인산염 피막의 종류가 아닌 것은?", "choices": {"1": "인산 망간계", "2": "인산 칼슘계", "3": "인산 철계", "4": "인산 칼륨계"}, "answers": [4], "explanation": ""}, {"id": 37, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 1, "question": "두랄루민의 알루미늄에 어떤 금속원소를 첨가한 합금인가?", "choices": {"1": "철 - 주석 - 규소", "2": "구리 - 마그네슘 - 망간", "3": "은 - 아연 - 니켈", "4": "납 - 니켈 - 마그네슘"}, "answers": [2], "explanation": ""}, {"id": 38, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 2, "question": "다음 중 Al-Si계 합금에 관한 설명으로 틀린 것은?", "choices": {"1": "4개", "2": "6개", "3": "8개", "4": "12개"}, "answers": [2], "explanation": ""}, {"id": 39, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 5, "question": "다음 중 과냉(Super cooling)에 대한 설명으로 옳은 것은?", "choices": {"1": "실내 온도에서 용융 상태인 금속이다.", "2": "과열된 고체금속을 냉각할 때 과냉이라고 한다.", "3": "응고점보다 낮은 온도에서 응고가 시작되는 현상이다.", "4": "금속이 응고점보다 높은 온도에서 냉각될 때 고체가 형성 되는 현상이다."}, "answers": [3], "explanation": ""}, {"id": 40, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 6, "question": "다음 중 충격시험의 목적이 아닌 것은?", "choices": {"1": "공정 2원 합금", "2": "금속간 화합물", "3": "침입형 고용체", "4": "전율가용 고용체"}, "answers": [4], "explanation": ""}, {"id": 41, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 8, "question": "고온에서 사용되는 내열강 재료의 구비조건에 대한 설명으로 가장 관계가 먼 내용은?", "choices": {"1": "기계적 성질이 우수해야 한다.", "2": "화학적으로 안정되어 있어야 한다.", "3": "열팽창에 대한 변형이 커야 한다.", "4": "조직이 안정되어 있어야 한다."}, "answers": [3], "explanation": ""}, {"id": 42, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 9, "question": "다음 중 담금질에 따른 용적변화가 가장 큰 것은?", "choices": {"1": "오스테나이트(austenite)", "2": "마텐자이트(martensite)", "3": "펄라이트(pearlite)", "4": "소르바이트(sorbite)"}, "answers": [2], "explanation": ""}, {"id": 43, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 10, "question": "다음 중 베어링합금의 구비조건으로 틀린 것은?", "choices": {"1": "마찰계수가 커야 한다.", "2": "경도 및 내압력이 커야 한다.", "3": "소착에 대한 저항력이 커야 한다.", "4": "주소성 및 절삭형이 좋아야 한다."}, "answers": [1], "explanation": ""}, {"id": 44, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 11, "question": "다음 금속재료 중 비중이 가장 낮은 것은?", "choices": {"1": "210", "2": "723", "3": "768", "4": "910"}, "answers": [2], "explanation": ""}, {"id": 45, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 13, "question": "다음 중 폐수와 그에 따른 처리 방법이 올바르게 연결된 것 은?", "choices": {"1": "버프연마", "2": "배럴연마", "3": "벨트연마", "4": "전해연마"}, "answers": [1], "explanation": ""}, {"id": 46, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 15, "question": "도금액 제조시에 보조약품의 역할이 아닌 것은?", "choices": {"1": "니켈의 농도가 부족할 때", "2": "전처리가 불량할 때", "3": "붕산의 농도가 부족할 때", "4": "전류밀도가 낮을 때"}, "answers": [4], "explanation": ""}, {"id": 47, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 17, "question": "1 쿨롱(Coulomb)에 대한 설명으로 옳은 것은?", "choices": {"1": "0.1A의 전류를 1초동안 통과시킨 전기량", "2": "1A의 전류를 1초동안 통과시킨 전기량", "3": "10A의 전류를 1초동안 통과시킨 전기량", "4": "100A의 전류를 1초동안 통과시킨 전기량"}, "answers": [2], "explanation": ""}, {"id": 48, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 18, "question": "다음 중 도금 두께의 계산과 관련이 가장 먼 것은?", "choices": {"1": "화학당량", "2": "온도", "3": "시간", "4": "전류"}, "answers": [2], "explanation": ""}, {"id": 49, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 19, "question": "다음 중 구리도금할 때 황산의 주요 역할로 옳은 것은?", "choices": {"1": "결정을 조대화시킨다.", "2": "전착성을 떨어뜨린다.", "3": "도금액의 전도도를 향상시킨다.", "4": "높은 전압에서 전류밀도를 얻는다."}, "answers": [3], "explanation": ""}, {"id": 50, "date": "20070715", "subject": 1, "subject_name": "금속재료일반", "question_no": 20, "question": "다음 중 예비탈지로만 사용되는 탈지법은?", "choices": {"1": "용제 탈지", "2": "알칼리 탈지", "3": "전해 탈지", "4": "에멀션 탈지"}, "answers": [1], "explanation": ""}, {"id": 51, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 21, "question": "다음 중 징케이트욕에서 ZnO과 NaOH의 가장 이상적인 조 성(g/L)은?", "choices": {"1": "ZnO : NaOH = 10 : 100", "2": "ZnO : NaOH = 10 : 150", "3": "ZnO : NaOH = 1 : 200", "4": "ZnO : NaOH = 1 : 250"}, "answers": [1], "explanation": ""}, {"id": 52, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 22, "question": "전기 아연 도금 중 염화아연욕의 특징을 설명한 것으로 틀 린 것은?", "choices": {"1": "액의 전도성이 좋아 욕전압이 높다.", "2": "주물 등에 직접도금이 잘 된다.", "3": "광택 및 균일 전착성이 우수하다.", "4": "수소취성이 거의 생긱지 않는다."}, "answers": [1], "explanation": ""}, {"id": 53, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 23, "question": "다음 중 도금액을 관리하기 위한 방법에 속하지 않는 것은?", "choices": {"1": "헐셀 시험법", "2": "화학 분석법", "3": "자기력 시험법", "4": "하링셀 시험법"}, "answers": [3], "explanation": ""}, {"id": 54, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 24, "question": "다음 물질 중 산화제가 아닌 것은?", "choices": {"1": "변색방지 처리", "2": "인산염 처리", "3": "산화출림 처리", "4": "스트라이크 구리도금"}, "answers": [3], "explanation": ""}, {"id": 55, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 27, "question": "니켈욕 중의 붕산의 역할과 관계가 없는 것은?", "choices": {"1": "빨리 떨어진 물건을 치워 버린다.", "2": "메인 스위치 전원을 차단한다.", "3": "2.15", "4": "4.85 29. 도금작업 중 부스바 위에 물건이 떨어져 양근, 음극이 합선 이 되었다. 다음 중 가정 먼저 처리해야 할 조치는?"}, "answers": [4], "explanation": ""}, {"id": 56, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 31, "question": "내식성 시험의 한 방법으로 질산구리, 염화체2철, 염화암모 늄 등으로 페이스트를 부착하여 내식성을 평가하는 시험은?", "choices": {"1": "염수 분무 시험", "2": "EC 시험", "3": "코로드 코오트 시험", "4": "페록실 시험"}, "answers": [3], "explanation": ""}, {"id": 57, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 32, "question": "다음의 전해질 용액 중 전리도가 가장 약한 것은?", "choices": {"1": "강전해질", "2": "중간전해질", "3": "약전해질", "4": "비전해질"}, "answers": [3], "explanation": ""}, {"id": 58, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 34, "question": "ph값이 2의 차이가 있다는 것은 실제 수소이온농도 [H+]에 있어서는 몇 배의 차이가 있다는 것인가?", "choices": {"1": "1배", "2": "10배", "3": "100배", "4": "1000배"}, "answers": [3], "explanation": ""}, {"id": 59, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 35, "question": "전지 중에서 1차 전지가 아닌 것은?", "choices": {"1": "니켈-카드뮴전지", "2": "수은전지", "3": "이산화망간전지", "4": "리튬전지"}, "answers": [1], "explanation": ""}, {"id": 60, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 36, "question": "다음 중 염기(鹽基)가 아닌 것은?", "choices": {"1": "KOH", "2": "NaOH", "3": "Na 2 SO 4", "4": "Ba(OH) 2"}, "answers": [3], "explanation": ""}, {"id": 61, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 37, "question": "도금 작업에서 단위 면적에 흐르는 전류의 세기를 무엇이라 고 하는가?", "choices": {"1": "전류 밀도", "2": "전류 효율", "3": "분극 현상", "4": "분해 전압"}, "answers": [1], "explanation": ""}, {"id": 62, "date": "20070715", "subject": 2, "subject_name": "전기도금", "question_no": 38, "question": "다음 중 이온화 경향이 가장 작은 금속은 무엇인가?", "choices": {"1": "Fe", "2": "Pb", "3": "Hg", "4": "Na"}, "answers": [3], "explanation": ""}, {"id": 63, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 41, "question": "다음 중 양극 산화피막 처리용액으로 적당하지 않은 것은?", "choices": {"1": "황산", "2": "수산(옥살산)", "3": "크롬산", "4": "염산"}, "answers": [4], "explanation": ""}, {"id": 64, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 42, "question": "플라스틱 면의 밀착성 및 갈고리 현상과 가장 관련이 깊은 도금 공정은?", "choices": {"1": "에칭", "2": "탈지", "3": "표면조정", "4": "감수성 부여"}, "answers": [1], "explanation": ""}, {"id": 65, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 43, "question": "다음 중 두꺼운 도금을 가장 쉽게 얻을 수 있는 방법은?", "choices": {"1": "2A", "2": "4A", "3": "6A", "4": "8A"}, "answers": [3], "explanation": ""}, {"id": 66, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 45, "question": "다음 중 무전해 니켈 도금에 환원제로 많이 사용되는 것은?", "choices": {"1": "양극산화", "2": "금속용사", "3": "화성처리", "4": "금속침투"}, "answers": [1], "explanation": ""}, {"id": 67, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 49, "question": "인산염피막의 내식성 시험 방법으로 가장 올바른 것은?", "choices": {"1": "전해시험법", "2": "형광 X선시험법", "3": "중량측정법", "4": "염수분무시험"}, "answers": [4], "explanation": ""}, {"id": 68, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 50, "question": "다음 중 약품 취급시 주의사항으로 틀린 것은?", "choices": {"1": "큰 병마개를 열때는 얼굴에 벼의 주둥이가 향하지 않도 록 한다.", "2": "독극물이 들어있던 빈 병이나 빈 캔은 지정된 장소에 둔 다.", "3": "불필요한 약품은 아무 곳에서나 바로 폐기한다.", "4": "약품취급 후 손, 발, 얼굴을 흐르는 물로 닦는다."}, "answers": [3], "explanation": ""}, {"id": 69, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 51, "question": "다음 중 무전해 산성 니켈도금액에 사용되는 금속염은?", "choices": {"1": "봉공처리", "2": "착색처리", "3": "후처리", "4": "크로메이트처리"}, "answers": [4], "explanation": ""}, {"id": 70, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 55, "question": "다음 중 화학적 기상 도금의 특징이 아닌 것은?", "choices": {"1": "처리온도가 일반적으로 높다.", "2": "주로 두꺼운 피막제조에 이용된다.", "3": "밀착성이 매우 우수하다.", "4": "복잡한 형태로 균일하게 도금할 수 있다."}, "answers": [2], "explanation": ""}, {"id": 71, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 56, "question": "연마할 때 나오는 먼지는 어떻게 처리하는 것이 가장 좋은 가?", "choices": {"1": "27.5㎛", "2": "34.1㎛", "3": "43.3㎛", "4": "45.7㎛"}, "answers": [3], "explanation": ""}, {"id": 72, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 58, "question": "도금의 안전일반에 관한 설명으로 틀린 것은?", "choices": {"1": "템퍼칼라", "2": "알칼리착색법", "3": "피막화성법", "4": "와이핑에펙트법"}, "answers": [4], "explanation": ""}, {"id": 73, "date": "20070715", "subject": 3, "subject_name": "특수도금", "question_no": 60, "question": "선을 연속적으로 도금하는 방법으로서 용융체 속에 급냉시 켜 단번에 강인한 조직을 얻는 작업은?", "choices": {"1": "갈바나이징", "2": "센지미어", "3": "패턴팅", "4": "챠콜 와이프"}, "answers": [3], "explanation": ""}, {"id": 74, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 1, "question": "다음 중 조일육방격자의 결정구조로 옳은 것은?", "choices": {"1": "인바", "2": "Y 합금", "3": "두랄루인", "4": "하이드로날륨"}, "answers": [4], "explanation": ""}, {"id": 75, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 6, "question": "다음 중 스프링강에 대한 설명으로 틀린 것은?", "choices": {"1": "문쯔메탈", "2": "갈딩메탈", "3": "모넬메탈", "4": "콘스탄탄"}, "answers": [4], "explanation": ""}, {"id": 76, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 8, "question": "다음 중 형상 기억 합금에 관한 설명으로 틀린 것은?", "choices": {"1": "열탄성형 마텐자이트가 형상 기억 효과를 일으킨다.", "2": "형상 기억 효과를 나타내는 합금은 반드시 마텐자이트 변 태를 한다.", "3": "마텐자이트 변태를 하는 합금은 모두 형상 기억 효과를 나타낸다.", "4": "원하는 형태로 변형시킨 후에 원래 모상의 온도로 가열하 면 원래의 형태로 되돌아간다."}, "answers": [3], "explanation": ""}, {"id": 77, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 12, "question": "다음 중 담금질에 의해 나타난 조직 중에서 경도와 강도가 가장 높은 것은?", "choices": {"1": "오스테나이트", "2": "소르바이트", "3": "트루스타이트", "4": "마텐자이트"}, "answers": [4], "explanation": ""}, {"id": 78, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 13, "question": "페록실 시험(Ferroxyl test)에 사용되지 않는 약품은?", "choices": {"1": "탈지", "2": "중화처리", "3": "탈청", "4": "활성화 처리"}, "answers": [4], "explanation": ""}, {"id": 79, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 15, "question": "도금액 중의 유기불순물은 보통 어떤 방법으로 제거하는가?", "choices": {"1": "냉각처리", "2": "약품처리", "3": "약전해처리", "4": "활성탄 처리후 여과"}, "answers": [4], "explanation": ""}, {"id": 80, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 16, "question": "다음 중 헐셀시험에 대한 설명이 틀린 것은?", "choices": {"1": "헐셀시험에서 음극은 황동판, 철판을 사용하며 두께 0.5mm 정도가 적당하다.", "2": "헐셀시험의 중요한 장점은 도금층의 현상과 도금액 사고 의 예측이다.", "3": "음극시험편 크기는 100mm×63mm가 적당하며 도금후 연마해서 재사용할수록 좋다.", "4": "양극과 음극거리의 간격에 따라 적정 전류밀도에 의한 도금상태를 조사한다."}, "answers": [3], "explanation": ""}, {"id": 81, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 17, "question": "다음 중 약품 보관 방법에 대한 설명으로 틀린 것은?", "choices": {"1": "사용 후에는 반드시 마개를 닫아 보관한다.", "2": "산과 알칼리는 같이 놓아두어서는 안된다.", "3": "불산은 반드시 유리병에 보관하여야 한다.", "4": "액체 약품은 될 수 있는대로 선반 위에 놓아두어서는 안 된다."}, "answers": [3], "explanation": ""}, {"id": 82, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 18, "question": "도금공정에서 매 공정의 중간에 시행하는 매우 중요한 작업 은?", "choices": {"1": "탈지", "2": "탈청", "3": "산세", "4": "수세 19. 염산을 사용한 산세작업시 생기는 반응식에서 ( )안에 알맞 은 화학식은?"}, "answers": [4], "explanation": ""}, {"id": 83, "date": "20080713", "subject": 1, "subject_name": "금속재료일반", "question_no": 20, "question": "광택 니켈 도금에서 와트액(watts bath)의 성분이 아닌 것 은?", "choices": {"1": "황산니켈", "2": "에틸알콜", "3": "염화니켈", "4": "붕산"}, "answers": [2], "explanation": ""}, {"id": 84, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 21, "question": "도금층의 내식성을 평가하는 방법이 아닌 것은?", "choices": {"1": "광택도 시험", "2": "페록실 시험", "3": "염수분무 시험", "4": "캐스 시험"}, "answers": [1], "explanation": ""}, {"id": 85, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 22, "question": "아연도금에서 시안욕과 비교한 징케이트욕의 설명으로 틀린 것은?", "choices": {"1": "거친 도금이 되기 쉽다.", "2": "광택범위가 넓다.", "3": "액의 안정성이 높다.", "4": "액의 관리가 용이하다."}, "answers": [2], "explanation": ""}, {"id": 86, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 23, "question": "과잉의 산세로 인해 철이 용해하여 생긴 흑색 분말은?", "choices": {"1": "0.1M", "2": "1M", "3": "0.5M", "4": "2M"}, "answers": [3], "explanation": ""}, {"id": 87, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 25, "question": "다음 중 걸이(rack)가 갖추어야 할 조건을 설명한 것으로 틀 린 것은?", "choices": {"1": "도금의 두께가 균일하게 되도록 설계하여야 한다.", "2": "심함 공기교반에도 견딜 수 있도록 견고하여야 한다.", "3": "전류를 흘릴 때, 걸이가 과도하게 뜨거워지거나 녹아 떨 어지지 않아야 한다.", "4": "걸이의 고리는 제품을 고정하는 역할을 하는 것으로 전 기 전도율이 좋이 않아야 한다."}, "answers": [4], "explanation": ""}, {"id": 88, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 26, "question": "다음 중 도금액의 계면활성제에 대한 설명으로 옳은 것은?", "choices": {"1": "유리를 물에 적실 때 계면활성제를 넣으면 유리에 물이 잘 묻지 않는다.", "2": "계면활성제는 금속의 틈 사이로 물이 들어가는 것을 방 지한다.", "3": "물이 반발하는 힘, 즉 표면장력은 계면활성제가 첨가되 면 낮아진다.", "4": "금속표면의 오염제거를 신속히 하기 위해서는 계면활성 제를 첨가하지 않는다."}, "answers": [3], "explanation": ""}, {"id": 89, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 27, "question": "스테인리스강의 전해연마에 가장 많이 쓰이는 액성분으로 옳은 것은?", "choices": {"1": "인산, 황산, 글리세린, 크롬산", "2": "과염소산, 무수아세트산", "3": "인산, 옥살산, 젤라틴", "4": "인산, 염산"}, "answers": [1], "explanation": ""}, {"id": 90, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 28, "question": "도금액 조제에 사용되는 약품 중 주성분의 역할이 아닌 것 은?", "choices": {"1": "양극용해를 좋게 한다.", "2": "음극에서는 금속이 석출된다.", "3": "양극에서는 금속이온을 공급한다.", "4": "도금액 중에서 금속이온을 공급한다."}, "answers": [1], "explanation": ""}, {"id": 91, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 29, "question": "공업용 크롬도금에서 도금 전에 역전해 처리를 하는 가장 큰 이유는?", "choices": {"1": "광택 향상을 위해서", "2": "밀착성 향상을 위해서", "3": "균일 산화성 향상을 위해서", "4": "균일 침탄성 향상을 위해서"}, "answers": [2], "explanation": ""}, {"id": 92, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 30, "question": "SRHS(self regulating high speed) 도금액의 주성분이 아닌 것은?", "choices": {"1": "피트", "2": "표면 거칠음", "3": "광택 불균일", "4": "밀착 불량"}, "answers": [3], "explanation": ""}, {"id": 93, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 33, "question": "다음 중 다이엘 전지에 대한 설명으로 옳은 것은?", "choices": {"1": "아연판은 (+)극이다.", "2": "(-)극에서 수소기체가 발생한다,", "3": "아연판에서 산화반응이 일어난다.", "4": "전자는 구리판에서 아연판으로 이동한다."}, "answers": [3], "explanation": ""}, {"id": 94, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 34, "question": "전기분해를 이용한 응용 분야가 아닌 것은?", "choices": {"1": "용융도금", "2": "용융염의 전해", "3": "전기도금", "4": "금속의 전해정련"}, "answers": [1], "explanation": ""}, {"id": 95, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 35, "question": "음극전극으로 사용했을 때 수소 과전압이 가장 작은 것은?", "choices": {"1": "표준 용액", "2": "혼합 용액", "3": "완충 용액", "4": "전해질 용액"}, "answers": [1], "explanation": ""}, {"id": 96, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 38, "question": "금속의 이온화 경향을 대한 설명으로 틀린 것은?", "choices": {"1": "금속이 전자를 잃기 쉬운 경향의 순서이다.", "2": "이온화 경향은 전기 음성도와 일치하는 순서를 지닌다.", "3": "이온화 경향이 클수록 귀한(noble) 금속 즉, 귀금속이라 한다.", "4": "이온화 경향의 큰 순서는 K >Ca >Na >Al 순이다."}, "answers": [3], "explanation": ""}, {"id": 97, "date": "20080713", "subject": 2, "subject_name": "전기도금", "question_no": 39, "question": "다음 중 아보가드로의 수로 옳은 것은?", "choices": {"1": "포면의 광택도를 향상시키기 위하여", "2": "코팅 밀착성을 향상시키기 위하여", "3": "표면 경화성을 향상시키기 위하여", "4": "표면의 내식성을 향상시키기 위하여"}, "answers": [1], "explanation": ""}, {"id": 98, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 44, "question": "다음 중 내식성 시험방법이 아닌 것은?", "choices": {"1": "황산", "2": "암모니아", "3": "과산화수소", "4": "알칼리토류 금속"}, "answers": [4], "explanation": ""}, {"id": 99, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 47, "question": "알루미늄 양극 산화시 염색하려는 산화피막의 조건이 아닌 것은?", "choices": {"1": "피막자체의 색깔이 적합해야 한다.", "2": "피막의 기공이 적고, 흡착력이 적어야 한다.", "3": "짙은 색조를 얻으려면 특히 피막의 두께가 두꺼워야 한 다.", "4": "피막표면에 굵힌 자국이나 피트 같은 흠이 없어야 한다."}, "answers": [2], "explanation": ""}, {"id": 100, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 48, "question": "다음 중 양극 산화처리법에 해당되지 않는 것은?", "choices": {"1": "본데라이징(Bonderizing)", "2": "아노다이징(Anodizing)", "3": "보로나이징(boronizing)", "4": "템퍼칼라(Temper Color)"}, "answers": [2], "explanation": ""}, {"id": 101, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 50, "question": "다음 중 플라스틱 도금의 전처리 약품과 관계없는 것은?", "choices": {"1": "케로신", "2": "아질산염", "3": "질산염", "4": "염산염"}, "answers": [1], "explanation": ""}, {"id": 102, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 52, "question": "다음 중 인산염 피막의 처리방법이 아닌 것은?", "choices": {"1": "도금의 광택을 향상시키기 위하여", "2": "합금층의 발달을 저지시키기 위하여", "3": "유동성을 향상시키기 위하여", "4": "용융점을 저하시키기 위하여"}, "answers": [3], "explanation": ""}, {"id": 103, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 59, "question": "플라스틱 성형품의 정면처리가 잘 되었는지 시험하는 방법 은?", "choices": {"1": "진한 질산에 넣어서 표면에 균열이 생겼는지 확인한다.", "2": "순수한 아세트산에 1∼2분 침지한 뒤 균열과 백화현상이 나타났는지 확인한다.", "3": "유용성 염료를 칠해서 3분이 지난 뒤 착색이 되었는지 확인한다.", "4": "염화나트륨 수용액에 침지하여 표면에 흰 결정이 생겼는 지 확인한다."}, "answers": [2], "explanation": ""}, {"id": 104, "date": "20080713", "subject": 3, "subject_name": "특수도금", "question_no": 60, "question": "다음 중 인산염 처리욕의 조성 중 공통으로 적용되는 것은?", "choices": {"1": "H PO", "2": "NaCO 3 4 3", "3": "MgO, MnO", "4": "FeCO , H O 3 2"}, "answers": [1], "explanation": ""}, {"id": 105, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 1, "question": "다음 중 재결정 온도가 가장 낮은 금속은?", "choices": {"1": "제진합금", "2": "방진합금", "3": "비정질합금", "4": "형상기억합금"}, "answers": [4], "explanation": ""}, {"id": 106, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 3, "question": "잔류 오스테나이트를 마텐자이트로 변화시키는 열처리 방법 은?", "choices": {"1": "20", "2": "36", "3": "64", "4": "80"}, "answers": [4], "explanation": ""}, {"id": 107, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 5, "question": "면심입방격자의 배위수는 몇 개인가?", "choices": {"1": "용접", "2": "절삭가공", "3": "소성가공", "4": "분말 야금"}, "answers": [2], "explanation": ""}, {"id": 108, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 8, "question": "다음 중 저용융점 합금의(fusible alloy) 원소로 사용되는 것 이 아닌 것은?", "choices": {"1": "W", "2": "Bi", "3": "Sn", "4": "In"}, "answers": [1], "explanation": ""}, {"id": 109, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 9, "question": "다음 중 체심입방격자의 표시로 옳은 것은?", "choices": {"1": "LCC", "2": "BCC", "3": "COH", "4": "FCC"}, "answers": [2], "explanation": ""}, {"id": 110, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 10, "question": "냉간가공과 열간가공을 구별하는 기준이 되는 것은?", "choices": {"1": "10", "2": "20", "3": "30", "4": "50"}, "answers": [3], "explanation": ""}, {"id": 111, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 13, "question": "다음 중 영화아연욕의 특징으로 옳은 것은?", "choices": {"1": "주물 등에 직접 도금이 잘 된다.", "2": "도금액 중에서 수소취성이 많이 생긴다.", "3": "액의 전도성이 낮아 욕전압이 높다.", "4": "시안화합물을 사용하므로 시안 폐수가 생긴다."}, "answers": [1], "explanation": ""}, {"id": 112, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 14, "question": "다음 중 알칼리탈지에 있어 금속을 부식시키는 ph 값이 가 장 큰 것은?", "choices": {"1": "광택제를 보충한다.", "2": "양극전류밀도를 높인다.", "3": "염산으로 ph를 조정한다.", "4": "억제제(inhibitor)를 더 첨가한다."}, "answers": [2], "explanation": ""}, {"id": 113, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 17, "question": "다음 중 광택니켈도금에서 제1차 광택제의 주된 역할로 가 장 적당한 것은?", "choices": {"1": "피트를 방지한다.", "2": "광택을 향상시킨다.", "3": "표면의 ph 농도를 조절한다.", "4": "내부 응력의 증가를 감소시킨다."}, "answers": [4], "explanation": ""}, {"id": 114, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 18, "question": "다음 중 이온화 경향이 가장 큰 금속은?", "choices": {"1": "HCl의", "2": "HCl의", "3": "BaCl 의 [Cl-]=0.01M", "4": "BaCl 의 [Ba2+]=0.01M 2 2"}, "answers": [2], "explanation": ""}, {"id": 115, "date": "20090927", "subject": 1, "subject_name": "금속재료일반", "question_no": 20, "question": "다음 중 용제탈지제가 갖추어야 하는 요건과 가장 거리가 먼 것은?", "choices": {"1": "정도가 낮을 것", "2": "불연성이며, 인화성이 없을 것", "3": "도금 재료를 침식, 부식시키지 않을 것", "4": "유성(油性)에 대한 용해능력이 작을 것"}, "answers": [4], "explanation": ""}, {"id": 116, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 22, "question": "다음 중 피로인산구리 도금액의 ph 범위로 가장 적절한 것 은?", "choices": {"1": "1∼2", "2": "3∼4", "3": "5∼6", "4": "8∼9"}, "answers": [4], "explanation": ""}, {"id": 117, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 23, "question": "다음 중 핀홀(pin hole)에 대한 방지대책으로 적절하지 않은 것은?", "choices": {"1": "전류밀도", "2": "전류효율", "3": "분해전압", "4": "전기화학당량비"}, "answers": [1], "explanation": ""}, {"id": 118, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 25, "question": "다음 중 전처리 때 생긴 얇은 산화파악을 제거하여 표면을 활성 상태로 만들어 주는 역할을 하는 것은?", "choices": {"1": "광택탈지", "2": "전해탈청", "3": "알칼리탈청", "4": "산담금"}, "answers": [4], "explanation": ""}, {"id": 119, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 26, "question": "도금 피막을 알아보는 시험방법으로 진한 염산에 침식되어 녹색이 되었다면 이는 어떤 도금으로 되어있는 것인가?", "choices": {"1": "금도금", "2": "아연도금", "3": "크롬도금", "4": "니켈도금"}, "answers": [3], "explanation": ""}, {"id": 120, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 27, "question": "다음 중 크롬도금액을 만들 때 무수크롬산과 촉매로 쓰이는 것은?", "choices": {"1": "황산", "2": "붕산", "3": "마그네슘", "4": "니켈"}, "answers": [1], "explanation": ""}, {"id": 122, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 30, "question": "전기도금 중 알칼리 금 도금시 금의 보급원으로 가장 적절 한 것은?", "choices": {"1": "3", "2": "6", "3": "9", "4": "12"}, "answers": [1], "explanation": ""}, {"id": 123, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 32, "question": "시안화구리도금에서 도금액의 성분 중 다음 설명에 해당하 는 것은?", "choices": {"1": "탄산나트륨", "2": "티오시안화칼륨", "3": "시안화나트륨", "4": "수산화나트륨"}, "answers": [1], "explanation": ""}, {"id": 124, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 33, "question": "다음 금속의 쌍을 황산에 담그거나 전지를 만들 때 외부 전 류가 화살표 방향으로 흐르게 되는 것은?", "choices": {"1": "Zn→Ag", "2": "Cu→Fe", "3": "Fe→Ag", "4": "Zn→Cu"}, "answers": [2], "explanation": ""}, {"id": 125, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 34, "question": "전해질이 음이온과 양이온으로 분리되는 것을 무엇이라 하 는가?", "choices": {"1": "1", "2": "5", "3": "10", "4": "20"}, "answers": [3], "explanation": ""}, {"id": 126, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 36, "question": "다음 중 패러데이의 법칙에 관한 설명으로 옳은 것은?", "choices": {"1": "전극에 석출하는 물질의 양은 용액을 통과하는 전기량에 비례한다.", "2": "전극에 석출하는 물질의 양은 용액을 통과하는 전류에 반비례한다.", "3": "전극에 석출하는 물질의 양은 용액을 통과하는 저항에 비례한다.", "4": "전극에 석출하는 물질의 양은 용액을 통과하는 전압에 반비례한다."}, "answers": [1], "explanation": ""}, {"id": 127, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 37, "question": "다음 중 환원 반응을 나타내는 것은?", "choices": {"1": "산소와 결합한다.", "2": "전자를 얻는다.", "3": "수소를 잃는다.", "4": "산화수가 증가한다."}, "answers": [2], "explanation": ""}, {"id": 128, "date": "20090927", "subject": 2, "subject_name": "전기도금", "question_no": 38, "question": "니켈(Ni)도금의 경우 음극전류효율(E )과 양극전류효율(E )의 c a 관계를 올바르게 나타낸 것은?", "choices": {"1": "E >E", "2": "E a c a c", "3": "E =E", "4": "E <√E c a c a"}, "answers": [1], "explanation": ""}, {"id": 129, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 41, "question": "알루미늄 합금을 알칼리계의 처리액에 전처리할 경우 합금 성분에 의해 스머트(smut)가 발생하는데 이러한 스머트의 제거 방법으로 가장 적절한 것은?", "choices": {"1": "15%", "2": "16%", "3": "18%", "4": "20%"}, "answers": [1], "explanation": ""}, {"id": 130, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 44, "question": "다음 중 경도에 따른 양극산화피막의 분류에 있어 경질피막 에 해당하는 것은?", "choices": {"1": "비커스 경도(Hv) 350∼450", "2": "비커스 경도(Hv) 250∼350", "3": "비커스 경도(Hv) 150∼250", "4": "비커스 경도(Hv) 150 이하"}, "answers": [1], "explanation": ""}, {"id": 131, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 45, "question": "다음 중 양극산화법에서 많이 사용되는 알루미늄의 재료로 가장 적절한 것은?", "choices": {"1": "압연괴로 50.0%의 알루미늄", "2": "압연관재로 75.9%의 알루미늄", "3": "압연봉재로 85.0%의 알루미늄", "4": "압연판재로 99.8%의 알루미늄"}, "answers": [4], "explanation": ""}, {"id": 132, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 46, "question": "다음 중 크롬 폐수 처리에서 3가 크롬의 침전반응에 사용되 는 약품은?", "choices": {"1": "MgO 3", "2": "NaOCl", "3": "NaOH", "4": "H 2 SO 4"}, "answers": [3], "explanation": ""}, {"id": 133, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 48, "question": "버프 연마제 중 산화크롬이 주원료이며, 광택연만제로 가장 많이 사용되는 것은?", "choices": {"1": "센지미어(Sendzimir)법", "2": "차콜와이프(charcoal wipe)법", "3": "갈바닐링(galvannealing)법", "4": "스팽글(spangle)법"}, "answers": [4], "explanation": ""}, {"id": 134, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 50, "question": "다음 중 약품에 의한 사고 발생시 응급처치로 적절하지 않 은 것은?", "choices": {"1": "수산화칼슘을 마셨을 때에는 물을 많이 마신다.", "2": "황산구리가 피부에 묻었을 때에는 물로 충분히 씻는다.", "3": "암모니아를 마셨을 때에는 레몬 주스나 우유 등을 마신 다.", "4": "수산화나트륨이 피부에 묻었을 때에는 탄산수소나트륨용 액으로 씻어 낸다."}, "answers": [4], "explanation": ""}, {"id": 135, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 51, "question": "다음 중 버프연마에 있어 목적하는 평활도에 따라 공정을 3 단계로 구분할 때 올바른 것은?", "choices": {"1": "거친연마 → 중간연마 → 광택연마", "2": "자유연마 → 배럴연마 → 표면연마", "3": "미세연마 → 조도연마 → 전해연마", "4": "전해연마 → 배럴연마 → 광택연마"}, "answers": [1], "explanation": ""}, {"id": 136, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 52, "question": "다음 중 화성처리에 관한 설명으로 옳은 것은?", "choices": {"1": "화성처리는 양극 산화처리 방법의 일종이다.", "2": "화학적으로 금속 표면에 방식피막을 형성하는 것이다.", "3": "도료 도장으로 금속표면에 방식보호와 취성을 주는 것이 다.", "4": "화성처리는 물리·기계적으로 금속 내부에 피막을 형성하 는 것이다."}, "answers": [2], "explanation": ""}, {"id": 137, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 53, "question": "무전해 구리 도금액의 조성 중 성분과 그 역할이 잘못 연결 된 것은?", "choices": {"1": "롯셀명: 촉진제", "2": "포르말린: 환원제", "3": "탄산나트륨: ph완충제", "4": "수산화나트륨: ph조정제"}, "answers": [1], "explanation": ""}, {"id": 138, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 54, "question": "다음 중 플라스틱상의 도금에서 표면 감수성 처리와 가장 관계가 깊은 것은?", "choices": {"1": "NaHSO3", "2": "BaCl 2", "3": "SnCl", "4": "K CrO 2 2 4"}, "answers": [3], "explanation": ""}, {"id": 139, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 55, "question": "다음 중 금속 용사법에서 용사층의 밀착성을 좋게 하기 위 한 전처리법으로 적당하지 않은 것은?", "choices": {"1": "조각법", "2": "광택연마법", "3": "숏블라스트", "4": "샌드블라스트"}, "answers": [2], "explanation": ""}, {"id": 140, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 58, "question": "다음 중 피막이 지니는 자기(磁器)적 성질을 이용하기 위한 목적으로 실시되는 것은?", "choices": {"1": "5.29", "2": "10.57", "3": "15.86", "4": "21.14"}, "answers": [4], "explanation": ""}, {"id": 141, "date": "20090927", "subject": 3, "subject_name": "특수도금", "question_no": 60, "question": "다음 중 금속 표면에 알루미늄을 침투시키는 방법은?", "choices": {"1": "크로마이징(chromizing)", "2": "칼로라이징(calorizing)", "3": "세라다이징(sheradizing)", "4": "실리코나이징(siliconizing)"}, "answers": [2], "explanation": ""}]
+[
+  {
+    "id": 1,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "다음 시험법 중 탄소강의 탄소함유량을 측정하기 위한 가장 간단한 방법은?",
+    "choices": {
+      "1": "피로시험",
+      "2": "불꽃시험",
+      "3": "크리프시험",
+      "4": "방사선 투과시험"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "백선철을 900∼1,000℃로 가열하여 탈탄시켜 만든 주철은?",
+    "choices": {
+      "1": "칠드 주철",
+      "2": "백심가단 주철",
+      "3": "편상흑연 주철",
+      "4": "합금 주철"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "티타늄탄화물(TiC)과 Ni 또는 Co등을 조합한 재료를 만드는 데 응용하며, 세라믹과 금속을 결합하고 액상 소결하여 만들 어진 절삭공구로 사용하는 고 경도 재료는?",
+    "choices": {
+      "1": "서멧(cermet)",
+      "2": "두랄루민(duralumin)",
+      "3": "고속도강(high speed steel)",
+      "4": "인바invar)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "다음 중 항온열처리방법으로 옳은 것은?",
+    "choices": {
+      "1": "노말라이징",
+      "2": "오스탬퍼링",
+      "3": "폴링",
+      "4": "뜨임"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "금속적 성질과 비금속적 성질을 같이 나타내는 것을 무엇이 라 하는가?",
+    "choices": {
+      "1": "아금속(metalloid)",
+      "2": "중금속(heavy metal)",
+      "3": "연성금속(ductility metal)",
+      "4": "경금속(light metal)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "금속의 결정격자구조가 아닌 것은?",
+    "choices": {
+      "1": "FCC",
+      "2": "COB",
+      "3": "BCC",
+      "4": "HCP"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "반자성체에 속하는 금속은?",
+    "choices": {
+      "1": "Co",
+      "2": "Fe",
+      "3": "Au",
+      "4": "Ni"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "하나의 원소가 온도에 따라 두가지 이상의 결정 구조를 가지 는 경우 각각의 상을 무엇이라 하는가?",
+    "choices": {
+      "1": "동소체",
+      "2": "결정입체",
+      "3": "천아금속",
+      "4": "변태입자"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "방사선 투과 검사의 안전성 확보를 위한 장치기구로 볼 수 없는 것은?",
+    "choices": {
+      "1": "포켓도시메타",
+      "2": "필름뱃지",
+      "3": "서베이미터",
+      "4": "투과도계"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "염욕 열처리에서 가장 저온도용 염욕제는?",
+    "choices": {
+      "1": "KCl",
+      "2": "Na CO 2 3",
+      "3": "BaCl",
+      "4": "NaNO 2 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "두랄루민의 주요 성분 원소로 옳은 것은?",
+    "choices": {
+      "1": "Al - Cu - Mg - Mn 계 합금",
+      "2": "Zn - Pb - Mg - Mn 계 합금",
+      "3": "Al - Zn - Cr - Mn 계 합금",
+      "4": "Zn - Fe - Cr - Mn 계 합금"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "금(Au) 도금에서 금속착 화합물인 시안화은칼륨으로 조절되 는 최후의 색 조건으로 옳은 것은?",
+    "choices": {
+      "1": "황색 → 녹색",
+      "2": "황색 → 청색",
+      "3": "황색 → 적색",
+      "4": "황색 → 백색"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "도금 첨가제에 속하지 않는 것은?",
+    "choices": {
+      "1": "이형제",
+      "2": "광택제",
+      "3": "평활제",
+      "4": "피트 방지제"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "다음 중 금도금용 양극판으로 잘 사용되지 않는 것은?",
+    "choices": {
+      "1": "스테인리스강판",
+      "2": "백금판",
+      "3": "흑연판",
+      "4": "순금판"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 17,
+    "question": "산성아연 도금시 구름낌의 원인으로 볼 수 없는 것은?",
+    "choices": {
+      "1": "전류가 너무 높을 경우",
+      "2": "염화아면의 농도가 낮을 경우",
+      "3": "온도가 낮을 경우",
+      "4": "철분이 혼입 되었을 경우"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 18,
+    "question": "알칼리 용액에서 탈지할 물품을 양극 또는 음극으로 연결하 여 예비 탈지나 중간 탈지에서 제거되지 않은 오염물을 최 종적으로 제거하는 완성탈지 방법은?",
+    "choices": {
+      "1": "전해 탈지",
+      "2": "알칼리 담금 탈지",
+      "3": "에멀션 탈지",
+      "4": "용제 탈지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "date": "20060716",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 19,
+    "question": "염화아연욕의 특징으로 옳은 것은?",
+    "choices": {
+      "1": "시안화합물을 사용하므로 시안 폐수가 생긴다.",
+      "2": "전류 효율이 나빠 도금 속도가 느리다.",
+      "3": "가스 발생이 많아 배기장치가 필요하다.",
+      "4": "주물 등에 직접 도금이 잘 된다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 21,
+    "question": "랙크의 가지에 도금 물품을 걸거나 빼내려고 할 때의 주의 사항으로 틀린 것은?",
+    "choices": {
+      "1": "유효면이 아닌 곳에 접점을 만든다.",
+      "2": "가지와 도금 물품의 접점면은 클수록 좋다.",
+      "3": "도금액이 많아 물의 보충을 않아야 한다.",
+      "4": "공기가 잘 빠져 나가도록 해야 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 22,
+    "question": "금도금에 비해서 비교적 값이 싸기 때문에 그 응용면이 넓 고 장식품이나, 식기 및 의료기구, 화학공업설비, 전기용품, 전기정정 등에 많이 활용되고 있는 도금은?",
+    "choices": {
+      "1": "팔라듐도금",
+      "2": "로듐도금",
+      "3": "백금도금",
+      "4": "은도금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 23,
+    "question": "전기화학적인 시험법으로 패러데이의 법칙을 이용하여 도금 피막을 용해하는데 필요한 시간에서 도금두께를 구하는 방 식의 시험법은?",
+    "choices": {
+      "1": "전해 시험법",
+      "2": "적하 시험법",
+      "3": "분류 시험법",
+      "4": "CASS 시험법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 24,
+    "question": "산의 취급과정에서 잘못된 상황이 발생되었을 때의 응급 조 치 방안으로 틀린 것은?",
+    "choices": {
+      "1": "피부 접촉 : 빨리 다량의 물로 씻는다.",
+      "2": "의류 부착 : 다량의 산이 묻었을 경우 중조수로 세탁한 다.",
+      "3": "눈에 투입 : 즉시 물로 충분히 닦는다.",
+      "4": "구강 음용 : 다량의 물을 마신다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 25,
+    "question": "흑색 크롬 도금액의 주 성분은?",
+    "choices": {
+      "1": "무수크롬산",
+      "2": "수산화나트륨",
+      "3": "산화망간",
+      "4": "질산니켈"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 26,
+    "question": "버프 접착제로서의 아교에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "부패하기 쉽다.",
+      "2": "시멘트에 비해 표면 탄성이 크다.",
+      "3": "150mesh 이상의 에머리에 적합하다.",
+      "4": "아교는 시멘트보다 접착력이 강하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 27,
+    "question": "도금액의 불순물에 의한 도금 불량이 아닌 것은?",
+    "choices": {
+      "1": "조밀한 도금연",
+      "2": "피트가 많은 도금연",
+      "3": "밀착이 불량한 도금연",
+      "4": "광택이 불량한 도금연"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 28,
+    "question": "아연 도금액 중 구리, 납, 철 등의 금속 불순물이 들어 있을 때 제거방법으로 옳은 것은?",
+    "choices": {
+      "1": "아연분말 처리",
+      "2": "활성탄 처리 여과",
+      "3": "정밀 여과",
+      "4": "과산화수소 처리"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 29,
+    "question": "파이프류의 연마에 가장 적당한 연마기는?",
+    "choices": {
+      "1": "세터레스(centerless) 연마기",
+      "2": "전동 연마기",
+      "3": "로터리(rotary)형 자동 연마기",
+      "4": "가변속 연마기"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 30,
+    "question": "다음 중 시안화구리 도금액의 액조성 성분이 아닌 것은?",
+    "choices": {
+      "1": "수산화나트륨",
+      "2": "황산구리",
+      "3": "시안화칼륨",
+      "4": "시안화소다"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 31,
+    "question": "바이스에 도금제품을 물리고 전후로 90° 접어 꺽는 굴곡 시 험은 어떤 성질을 알기 위한 시험인가?",
+    "choices": {
+      "1": "도금두께",
+      "2": "내식성",
+      "3": "경도",
+      "4": "밀착성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 32,
+    "question": "시안화 구리도금에서 Na CO 가 증가할 때 도금액에 미치는 2 3 영향으로 틀린 것은?",
+    "choices": {
+      "1": "도금속도가 빨라진다.",
+      "2": "양극 용해를 방해한다.",
+      "3": "음극전규 효율이 저하한다.",
+      "4": "액의 전도도가 감소한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 33,
+    "question": "다음 중 이온화 경향이 가장 큰 금속은?",
+    "choices": {
+      "1": "나트륨",
+      "2": "구리",
+      "3": "니켈",
+      "4": "아연"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 34,
+    "question": "전해질의 두 용액이 접촉할 때 일어나는 전위차는?",
+    "choices": {
+      "1": "전극전위",
+      "2": "액계전위",
+      "3": "반파전위",
+      "4": "한계전위"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 35,
+    "question": "전해질이 음이온과 양이온으로 분리되는 것을 무엇이라 하 는가?",
+    "choices": {
+      "1": "전리",
+      "2": "전착",
+      "3": "포화",
+      "4": "확산"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 36,
+    "question": "20cm×20cm크기의 판을 도금하는데 50A의 전류가 흘렀다 면 전류밀도는? (단, 양면 도금으로 하고, 두께는 무시한다.)",
+    "choices": {
+      "1": "4.25 A/dm2",
+      "2": "6.25 A/dm2",
+      "3": "8.5 A/dm2",
+      "4": "12.5 A/dm2"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 37,
+    "question": "전기 도금의 도금액은 전해질 용액을 사용한다. 전해질 용 액은 무엇의 이동에 의해 전기가 흐르는가?",
+    "choices": {
+      "1": "이온",
+      "2": "수소",
+      "3": "금속",
+      "4": "전압"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 38,
+    "question": "전기를 통하지 않는 비전해질 물질로만 구성된 것은?",
+    "choices": {
+      "1": "염화나트륨, 붕산",
+      "2": "황산, 아세트산",
+      "3": "설탕, 알콜",
+      "4": "염산, 수산화나트륨 1.0×10-50mol/L일"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 39,
+    "question": "수용액 중에서 수소이온농도가 때 ph는 얼마인가?",
+    "choices": {
+      "1": "1",
+      "2": "3",
+      "3": "7",
+      "4": "10"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "date": "20060716",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 40,
+    "question": "비열의 정의로 옳은 것은?",
+    "choices": {
+      "1": "어떤 물질 1g을 1℃올리는데 필요한 열량",
+      "2": "어떤 물질 10g을 1℃올리는데 필요한 열량",
+      "3": "어떤 물질 100g을 1℃올리는데 필요한 열량",
+      "4": "어떤 물질 1kg을 10℃올리는데 필요한 열량"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 42,
+    "question": "양극산화법 중 착색방법에 의한 구분이 아닌 것은?",
+    "choices": {
+      "1": "염색법",
+      "2": "전해발색법",
+      "3": "전해착색법",
+      "4": "전기분해법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 43,
+    "question": "이황화탄소의 화학식은?",
+    "choices": {
+      "1": "SO 2",
+      "2": "SHO",
+      "3": "H 2 S",
+      "4": "CS 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 44,
+    "question": "플라스틱 표면에 미소한 요철을 형성시켜서 갈고리 효과를 주어 도금의 밀착성을 향상시키는 동시에 플라스틱의 친수 성도 부여하는 공정은?",
+    "choices": {
+      "1": "탈지",
+      "2": "에칭",
+      "3": "감수성 부여처리",
+      "4": "활성화처리"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 45,
+    "question": "철강 표면에 인산염 피막 처리를 하는 목적으로 틀린 것은?",
+    "choices": {
+      "1": "소재금속의 방식용",
+      "2": "도장하지 처리용",
+      "3": "소성 가공용",
+      "4": "열처리용"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 46,
+    "question": "도금 공장의 폐수 처리방법으로 옳은 것은?",
+    "choices": {
+      "1": "알칼리 폐수 - 중화 처리",
+      "2": "크롬산 폐수 - 산화 처리",
+      "3": "시안화물 폐수 - 환원 처리",
+      "4": "폐수 중의 중금속 - 용해 처리"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 47,
+    "question": "감수성 처리와 활성화 처리의 두 공정을 한 공정으로 대치 한 것을 무엇이라 하는가?",
+    "choices": {
+      "1": "캐탈리스팅",
+      "2": "코팅",
+      "3": "라이닝",
+      "4": "스패터링"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 48,
+    "question": "알루미늄 양극산화피막에 염료처리를 한 후 봉공처리를 할 때 봉공처리 속도를 빠르게 하고 염료가 우러나오는 것을 방지하는데 가장 효과적인 방법은?",
+    "choices": {
+      "1": "고압수증기 처리",
+      "2": "비동수 처리",
+      "3": "중크롬산 처리",
+      "4": "아세트산니켈-코발트 처리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 49,
+    "question": "인산염 피막 처리 가운데 철강, 아연, 알루미늄 소재에 모두 적용할 수 있는 방법은?",
+    "choices": {
+      "1": "인산철 피막",
+      "2": "인산아연칼슘 피막",
+      "3": "인산망간 피막",
+      "4": "인산아연 피막"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 50,
+    "question": "플라스틱상에 전도성을 주기 위한 도금과 프린트 배선기관 의 드로우 효율 도금에 많이 사용되는 것은?",
+    "choices": {
+      "1": "무전해 니켈도금",
+      "2": "무전해 구리도금",
+      "3": "무전해 크롬도금",
+      "4": "무전해 주석도금"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 53,
+    "question": "구리의 화학도금에 사용되는 것들 중 잘못 짝지어진 것은?",
+    "choices": {
+      "1": "PH완충제 : 포르말린",
+      "2": "안정제 : 티오요소",
+      "3": "착화제 : 로셀영",
+      "4": "도금촉진제 : EDTA"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 54,
+    "question": "화성 처리와 관계 없는 것은?",
+    "choices": {
+      "1": "칼로라이징(Calorizing)",
+      "2": "파커라이징(Parkerizing)",
+      "3": "본데라이징(Bonderizing)",
+      "4": "크로에이트 처리(Chromate Coating)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 55,
+    "question": "화학장치용 관류, 저장탱크, 교반기, 혼합장치 등에 많이 사 용되고 있는 용융도금은?",
+    "choices": {
+      "1": "용융아연도금",
+      "2": "용융주석도금",
+      "3": "용융알루미늄도금",
+      "4": "용융납도금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 56,
+    "question": "양극산화 전처리 공정에서 알칼리세정 계면활성화로 적합한 것은?",
+    "choices": {
+      "1": "폴리 프로필렌",
+      "2": "이온 활성제",
+      "3": "비이온 활성제",
+      "4": "염화비닐"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 57,
+    "question": "철강에 크롬을 확산 침투시키는 방법은?",
+    "choices": {
+      "1": "크로마이징",
+      "2": "실리코나이징",
+      "3": "브로나이징",
+      "4": "세라다이징"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 58,
+    "question": "연마용 모터의 회전수가 2,000rpm이고 버프의 지름이 30cm일 때 버프의 표면속도(주속도)는?",
+    "choices": {
+      "1": "1,250 m/min",
+      "2": "1,570 m/min",
+      "3": "1,884 m/min",
+      "4": "2,000 m/min"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 59,
+    "question": "화학 니켈도금에서 황산니켈의 조성은 20g/L가 알맞다고 한 다. 50L 도금조에 80%가 되도록 황산니켈용액을 넣을 때 필요한 황산니켈의 양은 몇 g인가?",
+    "choices": {
+      "1": "400",
+      "2": "600",
+      "3": "800",
+      "4": "1000"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "date": "20060716",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 60,
+    "question": "인산염 피막의 종류가 아닌 것은?",
+    "choices": {
+      "1": "인산 망간계",
+      "2": "인산 칼슘계",
+      "3": "인산 철계",
+      "4": "인산 칼륨계"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "두랄루민의 알루미늄에 어떤 금속원소를 첨가한 합금인가?",
+    "choices": {
+      "1": "철 - 주석 - 규소",
+      "2": "구리 - 마그네슘 - 망간",
+      "3": "은 - 아연 - 니켈",
+      "4": "납 - 니켈 - 마그네슘"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "다음 중 Al-Si계 합금에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "개량처리를 하게 되면 용탕과 모래 수분과의 반응으로 수 소를 흡수하여 기포가 발생된다.",
+      "2": "용융점이 높고 유동성이 좋지 않아 넓고 복잡한 모래형 주물에 이용된다.",
+      "3": "Si 함유량이 증가할수록 열팽창계수가 낮아진다.",
+      "4": "실용합금으로는 10∼13%의 Si가 함유된 실루민이 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "구상흑연주철에서 그 바탕조직이 펄라이트이면서 구상흑연의 주위를 유리된 페라이트가 감싸고 있는 조직을 무엇이라 하 는가?",
+    "choices": {
+      "1": "오스테나이트(austenite)조직",
+      "2": "시멘타이트(cementitie)조직",
+      "3": "레데뷰라이트(ledeburite)조직",
+      "4": "불스 아이(bull' eye)조직"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "한 개의 원자 주위에 있는 최근접 원자의 수를 배위수라 한 다. 다음 중 체심입방격자(BCC)로 옳은 것은?",
+    "choices": {
+      "1": "4개",
+      "2": "6개",
+      "3": "8개",
+      "4": "12개"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "다음 중 과냉(Super cooling)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "실내 온도에서 용융 상태인 금속이다.",
+      "2": "과열된 고체금속을 냉각할 때 과냉이라고 한다.",
+      "3": "응고점보다 낮은 온도에서 응고가 시작되는 현상이다.",
+      "4": "금속이 응고점보다 높은 온도에서 냉각될 때 고체가 형성 되는 현상이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "다음 중 충격시험의 목적이 아닌 것은?",
+    "choices": {
+      "1": "재료의 충격저항을 알기 위하여",
+      "2": "인성(toughness)을 알기 위하여",
+      "3": "취성(brittleness)을 알기 위하여",
+      "4": "경도(hardness)를 알기 위하여"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "두 가지 이상의 금속 원소가 간단한 원자비로 결합되어 성분 금속과는 다른 성질을 갖는 물질을 무엇이라 하는가?",
+    "choices": {
+      "1": "공정 2원 합금",
+      "2": "금속간 화합물",
+      "3": "침입형 고용체",
+      "4": "전율가용 고용체"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "고온에서 사용되는 내열강 재료의 구비조건에 대한 설명으로 가장 관계가 먼 내용은?",
+    "choices": {
+      "1": "기계적 성질이 우수해야 한다.",
+      "2": "화학적으로 안정되어 있어야 한다.",
+      "3": "열팽창에 대한 변형이 커야 한다.",
+      "4": "조직이 안정되어 있어야 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "다음 중 담금질에 따른 용적변화가 가장 큰 것은?",
+    "choices": {
+      "1": "오스테나이트(austenite)",
+      "2": "마텐자이트(martensite)",
+      "3": "펄라이트(pearlite)",
+      "4": "소르바이트(sorbite)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "다음 중 베어링합금의 구비조건으로 틀린 것은?",
+    "choices": {
+      "1": "마찰계수가 커야 한다.",
+      "2": "경도 및 내압력이 커야 한다.",
+      "3": "소착에 대한 저항력이 커야 한다.",
+      "4": "주소성 및 절삭형이 좋아야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 11,
+    "question": "다음 금속재료 중 비중이 가장 낮은 것은?",
+    "choices": {
+      "1": "아연",
+      "2": "마그네슘",
+      "3": "크롬",
+      "4": "알류미늄"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "순철의 자기변태점이라 하며, A 2 변태점이라고도 하는 온도 는 약 몇 ℃인가?",
+    "choices": {
+      "1": "210",
+      "2": "723",
+      "3": "768",
+      "4": "910"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "다음 중 폐수와 그에 따른 처리 방법이 올바르게 연결된 것 은?",
+    "choices": {
+      "1": "시안화물 폐수 - 산화처리",
+      "2": "크롬산 폐수 - 침전처리",
+      "3": "산 및 알칼리 폐수 - 환원처리",
+      "4": "각종 폐수 중의 중금속 - 중화처리"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "가공할 물품과 함께 강구, 침 등의 매체와 물 및 콤파운드 를 통속에 넣고 이들을 회전시키거나 흔들어 주어 연마하는 방법은?",
+    "choices": {
+      "1": "버프연마",
+      "2": "배럴연마",
+      "3": "벨트연마",
+      "4": "전해연마"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "도금액 제조시에 보조약품의 역할이 아닌 것은?",
+    "choices": {
+      "1": "도금액의 ph를 유지한다.",
+      "2": "양극의 용해를 좋게 한다.",
+      "3": "도금액의 불순물을 제거한다.",
+      "4": "도금면에 발생한 수소를 이용하여 피트를 만든다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 16,
+    "question": "광택니켈도금에서 도금액에 의한 피트 발생 결함의 원인이 아닌 것은?",
+    "choices": {
+      "1": "니켈의 농도가 부족할 때",
+      "2": "전처리가 불량할 때",
+      "3": "붕산의 농도가 부족할 때",
+      "4": "전류밀도가 낮을 때"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 17,
+    "question": "1 쿨롱(Coulomb)에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "0.1A의 전류를 1초동안 통과시킨 전기량",
+      "2": "1A의 전류를 1초동안 통과시킨 전기량",
+      "3": "10A의 전류를 1초동안 통과시킨 전기량",
+      "4": "100A의 전류를 1초동안 통과시킨 전기량"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 18,
+    "question": "다음 중 도금 두께의 계산과 관련이 가장 먼 것은?",
+    "choices": {
+      "1": "화학당량",
+      "2": "온도",
+      "3": "시간",
+      "4": "전류"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 19,
+    "question": "다음 중 구리도금할 때 황산의 주요 역할로 옳은 것은?",
+    "choices": {
+      "1": "결정을 조대화시킨다.",
+      "2": "전착성을 떨어뜨린다.",
+      "3": "도금액의 전도도를 향상시킨다.",
+      "4": "높은 전압에서 전류밀도를 얻는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "date": "20070715",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 20,
+    "question": "다음 중 예비탈지로만 사용되는 탈지법은?",
+    "choices": {
+      "1": "용제 탈지",
+      "2": "알칼리 탈지",
+      "3": "전해 탈지",
+      "4": "에멀션 탈지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 21,
+    "question": "다음 중 징케이트욕에서 ZnO과 NaOH의 가장 이상적인 조 성(g/L)은?",
+    "choices": {
+      "1": "ZnO : NaOH = 10 : 100",
+      "2": "ZnO : NaOH = 10 : 150",
+      "3": "ZnO : NaOH = 1 : 200",
+      "4": "ZnO : NaOH = 1 : 250"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 22,
+    "question": "전기 아연 도금 중 염화아연욕의 특징을 설명한 것으로 틀 린 것은?",
+    "choices": {
+      "1": "액의 전도성이 좋아 욕전압이 높다.",
+      "2": "주물 등에 직접도금이 잘 된다.",
+      "3": "광택 및 균일 전착성이 우수하다.",
+      "4": "수소취성이 거의 생긱지 않는다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 23,
+    "question": "다음 중 도금액을 관리하기 위한 방법에 속하지 않는 것은?",
+    "choices": {
+      "1": "헐셀 시험법",
+      "2": "화학 분석법",
+      "3": "자기력 시험법",
+      "4": "하링셀 시험법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 24,
+    "question": "다음 물질 중 산화제가 아닌 것은?",
+    "choices": {
+      "1": "H O",
+      "2": "HNO 2 2 3",
+      "3": "H S",
+      "4": "K Cr O 2 2 2 7"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 25,
+    "question": "강전해질 0.1M-HCl과 0.01M-BaCl 이 가지는 4개의 이온 2 농도가 틀리게 표현된 것은? [H+] [Cl-]",
+    "choices": {
+      "1": "HCl의 = 0.1M",
+      "2": "HCl의 = 0.1M",
+      "3": "BaCl 의 [Ba2+] = 0.01M",
+      "4": "BaCl 의 [Cl-] = 0.01M 2 2"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 26,
+    "question": "리드 프레임 제조를 위해 동박에 은 도금한 후 반드시 필요 한 공정은?",
+    "choices": {
+      "1": "변색방지 처리",
+      "2": "인산염 처리",
+      "3": "산화출림 처리",
+      "4": "스트라이크 구리도금"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 27,
+    "question": "니켈욕 중의 붕산의 역할과 관계가 없는 것은?",
+    "choices": {
+      "1": "균일 전착성을 돕는다.",
+      "2": "ph를 일정하게 유지시킨다.",
+      "3": "광택범위를 확대하고 도금층의 평할성을 돕는다.",
+      "4": "내부응력을 증가시키는 역할을 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 28,
+    "question": "크롬의 이론석출량은 전류 효율이 100%라고 할 때 1Ah에 대해 0.323g이다. 전류효율이 15%라고 하면, 1Ah에 대하여 실제 석출되는 크롬의 양은 약 몇 g인가?",
+    "choices": {
+      "1": "0.0485",
+      "2": "0.2425",
+      "3": "2.15",
+      "4": "4.85"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 30,
+    "question": "도금 피막의 경도를 정량적으로 측정하고자 할 때 사용되는 경도계로 옳은 것은?",
+    "choices": {
+      "1": "마이크로비커스경도계",
+      "2": "로크웰경도계",
+      "3": "브리넬경도계",
+      "4": "쇼어경도계"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 31,
+    "question": "내식성 시험의 한 방법으로 질산구리, 염화체2철, 염화암모 늄 등으로 페이스트를 부착하여 내식성을 평가하는 시험은?",
+    "choices": {
+      "1": "염수 분무 시험",
+      "2": "EC 시험",
+      "3": "코로드 코오트 시험",
+      "4": "페록실 시험"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 32,
+    "question": "다음의 전해질 용액 중 전리도가 가장 약한 것은?",
+    "choices": {
+      "1": "HCl",
+      "2": "HBr",
+      "3": "HCN",
+      "4": "CH COOH 3"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 33,
+    "question": "NaCl, KOH, (NH ) SO 와 같이 수용액 속에서 거의 전부기 4 2 4 전리하는 물질을 무엇이라 하는가?",
+    "choices": {
+      "1": "강전해질",
+      "2": "중간전해질",
+      "3": "약전해질",
+      "4": "비전해질"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 34,
+    "question": "ph값이 2의 차이가 있다는 것은 실제 수소이온농도 [H+]에 있어서는 몇 배의 차이가 있다는 것인가?",
+    "choices": {
+      "1": "1배",
+      "2": "10배",
+      "3": "100배",
+      "4": "1000배"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 35,
+    "question": "전지 중에서 1차 전지가 아닌 것은?",
+    "choices": {
+      "1": "니켈-카드뮴전지",
+      "2": "수은전지",
+      "3": "이산화망간전지",
+      "4": "리튬전지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 36,
+    "question": "다음 중 염기(鹽基)가 아닌 것은?",
+    "choices": {
+      "1": "KOH",
+      "2": "NaOH",
+      "3": "Na 2 SO 4",
+      "4": "Ba(OH) 2"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 37,
+    "question": "도금 작업에서 단위 면적에 흐르는 전류의 세기를 무엇이라 고 하는가?",
+    "choices": {
+      "1": "전류 밀도",
+      "2": "전류 효율",
+      "3": "분극 현상",
+      "4": "분해 전압"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "date": "20070715",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 38,
+    "question": "다음 중 이온화 경향이 가장 작은 금속은 무엇인가?",
+    "choices": {
+      "1": "Fe",
+      "2": "Pb",
+      "3": "Hg",
+      "4": "Na"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 41,
+    "question": "다음 중 양극 산화피막 처리용액으로 적당하지 않은 것은?",
+    "choices": {
+      "1": "황산",
+      "2": "수산(옥살산)",
+      "3": "크롬산",
+      "4": "염산"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 42,
+    "question": "플라스틱 면의 밀착성 및 갈고리 현상과 가장 관련이 깊은 도금 공정은?",
+    "choices": {
+      "1": "에칭",
+      "2": "탈지",
+      "3": "표면조정",
+      "4": "감수성 부여"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 43,
+    "question": "다음 중 두꺼운 도금을 가장 쉽게 얻을 수 있는 방법은?",
+    "choices": {
+      "1": "경질 크롬",
+      "2": "아연 도금",
+      "3": "용융 도금",
+      "4": "니켈 도금 2A/dm2이"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 44,
+    "question": "알루미늄 양극산화법 중 황산법에서 전류밀도가 2dm2인 고 한면의 단면적이 얇은 판 양면을 양극산화할 때 의 전류 세기는? (단, 판의 두께는 무시한다.)",
+    "choices": {
+      "1": "2A",
+      "2": "4A",
+      "3": "6A",
+      "4": "8A"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 45,
+    "question": "다음 중 무전해 니켈 도금에 환원제로 많이 사용되는 것은?",
+    "choices": {
+      "1": "차아인산나트륨",
+      "2": "포르말린",
+      "3": "수산화나트륨",
+      "4": "탄산나트륨"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 46,
+    "question": "인산염 피막처리 중 반응을 빨리하기 위하여 촉진제로 구리 이온을 함유한 액에서 처리하는 것을 무엇이라 하는가?",
+    "choices": {
+      "1": "파커라이징",
+      "2": "본데라이징",
+      "3": "크로메이트처리",
+      "4": "음극산화처리"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 47,
+    "question": "금속 표면에 화학적으로 산화막이나 무기명의 얇은 피막을 만드는 것은?",
+    "choices": {
+      "1": "양극산화",
+      "2": "금속용사",
+      "3": "화성처리",
+      "4": "금속침투"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 49,
+    "question": "인산염피막의 내식성 시험 방법으로 가장 올바른 것은?",
+    "choices": {
+      "1": "전해시험법",
+      "2": "형광 X선시험법",
+      "3": "중량측정법",
+      "4": "염수분무시험"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 50,
+    "question": "다음 중 약품 취급시 주의사항으로 틀린 것은?",
+    "choices": {
+      "1": "큰 병마개를 열때는 얼굴에 벼의 주둥이가 향하지 않도 록 한다.",
+      "2": "독극물이 들어있던 빈 병이나 빈 캔은 지정된 장소에 둔 다.",
+      "3": "불필요한 약품은 아무 곳에서나 바로 폐기한다.",
+      "4": "약품취급 후 손, 발, 얼굴을 흐르는 물로 닦는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 51,
+    "question": "다음 중 무전해 산성 니켈도금액에 사용되는 금속염은?",
+    "choices": {
+      "1": "황산동",
+      "2": "시안화금",
+      "3": "염화파라듐",
+      "4": "황산니켈"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 52,
+    "question": "ABS수지상의 도금에서 엑셀레이터(Accelerator)처리를 하는 목적으로 가장 적당한 것은?",
+    "choices": {
+      "1": "표면을 화학적으로 요철과 친수성을 만들기 위하여",
+      "2": "주석(Sn)이온을 제거하고 팔라듐(Pd)을 활성화 하기 위 하여",
+      "3": "표면의 크롬(Cr)분을 제거하기 위하여",
+      "4": "주석(Sn)과 팔라듐(Pd)화합물을 흡착시키기 위하여"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 53,
+    "question": "고온에서 금속 표면에 다른 금속을 확산, 침투시켜서 내식 성을 향상시키는 금속침투 방법이 아닌 것은?",
+    "choices": {
+      "1": "크로마이징(Chromizing)",
+      "2": "실리코나이징(Siliconizing)",
+      "3": "쉐라다이징(Sheradizing)",
+      "4": "파카라이징(Parkerizing)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 54,
+    "question": "화성처리 후 피막의 방칭성을 향상시키기 위하여 처리하는 것은?",
+    "choices": {
+      "1": "봉공처리",
+      "2": "착색처리",
+      "3": "후처리",
+      "4": "크로메이트처리"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 55,
+    "question": "다음 중 화학적 기상 도금의 특징이 아닌 것은?",
+    "choices": {
+      "1": "처리온도가 일반적으로 높다.",
+      "2": "주로 두꺼운 피막제조에 이용된다.",
+      "3": "밀착성이 매우 우수하다.",
+      "4": "복잡한 형태로 균일하게 도금할 수 있다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 56,
+    "question": "연마할 때 나오는 먼지는 어떻게 처리하는 것이 가장 좋은 가?",
+    "choices": {
+      "1": "선풍기를 통하여 밖으로 그냥 배출한다.",
+      "2": "건강에 별 이상이 없으므로 그대로 둔다.",
+      "3": "사이클론 등을 사용하여 제거한다.",
+      "4": "저절로 밖으로 배출되므로 창문을 열어두기만 하면 된 다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 57,
+    "question": "양극산화법에 의해 1dm2의 양극알루미늄에 Al O 가 2 3 12.57mg 생성되었을 때의 피막 두께는 약 얼마인가? (단, 피막의 밀도는 2.9g/cm3이다.)",
+    "choices": {
+      "1": "27.5㎛",
+      "2": "34.1㎛",
+      "3": "43.3㎛",
+      "4": "45.7㎛"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 58,
+    "question": "도금의 안전일반에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "작업장 내 설비의 배치는 자유로이 움직일 수 있는 넓이 가 필요하다.",
+      "2": "바닥의 장비는 미끄럼과 부식이 심하므로 일반적으로 목 재깔개가 이용된다.",
+      "3": "불량한 작업환경은 작업능률을 저하시켜, 작업자의 피로 를 증가시켜 간접재해의 원인이 된다.",
+      "4": "통로는 작업공정에 의한 소재가 흐르는 동선과 가급적 교차하도록 배치한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 59,
+    "question": "표면을 잘 연마한 철제품을 모래에 묻혀서 400℃ 내외로 가 열한 후 기름이나 수중에서 급냉하여 철표면에 미려한 청색 막을 생기게 하는 방법은?",
+    "choices": {
+      "1": "템퍼칼라",
+      "2": "알칼리착색법",
+      "3": "피막화성법",
+      "4": "와이핑에펙트법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "date": "20070715",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 60,
+    "question": "선을 연속적으로 도금하는 방법으로서 용융체 속에 급냉시 켜 단번에 강인한 조직을 얻는 작업은?",
+    "choices": {
+      "1": "갈바나이징",
+      "2": "센지미어",
+      "3": "패턴팅",
+      "4": "챠콜 와이프"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "다음 중 조일육방격자의 결정구조로 옳은 것은?",
+    "choices": {
+      "1": "FCC",
+      "2": "BCC",
+      "3": "FOB",
+      "4": "HCP"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "고체 상태에서 하나의 원소가 온도에 따라 두 가지 이상의 결정 구조를 가지는 경우 각각의 상을 무엇이라고 하는가?",
+    "choices": {
+      "1": "동소체",
+      "2": "결정입체",
+      "3": "천이금속",
+      "4": "변태입자"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "로크웰 경도시험시 C스케일을 사용할 때 경도값을 구하는 식 은 HRC=100-500h이다. 압입 자국의 깊이가 0.1mm일 때의 경도값은 얼마인가?",
+    "choices": {
+      "1": "30",
+      "2": "40",
+      "3": "50",
+      "4": "60"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "용융금속이 응고할 때 작은 결정을 만드는 핵이 생기고 이 핵을 중심으로 금속이 나뭇가지 모양으로 발달하는 것을 무 엇이라 하는가?",
+    "choices": {
+      "1": "입상정",
+      "2": "수지상정",
+      "3": "주상정",
+      "4": "결정립"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "0.2%C이하, 35∼36%Ni, 약 0.4%Mn이 함유된 Fe 합금인 합 금으로 200℃ 이하에서의 선팽창 계수가 현저히 작으며, 줄 자, 표준다, 시계추에 주로 사용되는 합금강은?",
+    "choices": {
+      "1": "인바",
+      "2": "Y 합금",
+      "3": "두랄루인",
+      "4": "하이드로날륨"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "다음 중 스프링강에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "탄소함량에 따라 0.65∼0.85%C의 판 스프링과 0.85∼ 1.05%C의 코일 스프링으로 나눌수 있다.",
+      "2": "스프링강은 탄성 한도가 높고 충격 및 피로에 대한 저항 이 커야 한다.",
+      "3": "경도는 HB 340 이상이며, 열처리된 조직은 소르바이트 조직이다.",
+      "4": "담금질 온도는 1100∼1200℃에서 수냉이 적당하다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "60%Cu+40%Zn으로 구성된 합금으로 조직은 α+β이며, 인장 강도는 높으나 전연성이 비교적 낮고, 열교환기, 열간단조풍, 볼트, 너트 등에 사용되는 것은?",
+    "choices": {
+      "1": "문쯔메탈",
+      "2": "갈딩메탈",
+      "3": "모넬메탈",
+      "4": "콘스탄탄"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "다음 중 형상 기억 합금에 관한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "열탄성형 마텐자이트가 형상 기억 효과를 일으킨다.",
+      "2": "형상 기억 효과를 나타내는 합금은 반드시 마텐자이트 변 태를 한다.",
+      "3": "마텐자이트 변태를 하는 합금은 모두 형상 기억 효과를 나타낸다.",
+      "4": "원하는 형태로 변형시킨 후에 원래 모상의 온도로 가열하 면 원래의 형태로 되돌아간다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "상온에서 비중이 약 2.7이며, 용융점이 약 660℃ 정도인 금 속으로 기계부품, 항공기, 건축, 차량 등에 사용되는 것은?",
+    "choices": {
+      "1": "Fe",
+      "2": "Ni",
+      "3": "Mg",
+      "4": "Al"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 11,
+    "question": "재표표면상에 일정한 높이로부터 낙하시킨 추가 반발하여 튀어 오르는 높이로부터 경도값을 구하는 경도기는?",
+    "choices": {
+      "1": "쇼어경도기",
+      "2": "로크웰경도기",
+      "3": "비커즈경도기",
+      "4": "브리넬경도기"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 12,
+    "question": "다음 중 담금질에 의해 나타난 조직 중에서 경도와 강도가 가장 높은 것은?",
+    "choices": {
+      "1": "오스테나이트",
+      "2": "소르바이트",
+      "3": "트루스타이트",
+      "4": "마텐자이트"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "페록실 시험(Ferroxyl test)에 사용되지 않는 약품은?",
+    "choices": {
+      "1": "페록시안칼륨",
+      "2": "염화나트륨",
+      "3": "염화암모늄",
+      "4": "질산"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "전기도금 직전에 소재의 표면을 도금액의 ph에 맞추는 처리 를 무엇이라 하는가?",
+    "choices": {
+      "1": "탈지",
+      "2": "중화처리",
+      "3": "탈청",
+      "4": "활성화 처리"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "도금액 중의 유기불순물은 보통 어떤 방법으로 제거하는가?",
+    "choices": {
+      "1": "냉각처리",
+      "2": "약품처리",
+      "3": "약전해처리",
+      "4": "활성탄 처리후 여과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 16,
+    "question": "다음 중 헐셀시험에 대한 설명이 틀린 것은?",
+    "choices": {
+      "1": "헐셀시험에서 음극은 황동판, 철판을 사용하며 두께 0.5mm 정도가 적당하다.",
+      "2": "헐셀시험의 중요한 장점은 도금층의 현상과 도금액 사고 의 예측이다.",
+      "3": "음극시험편 크기는 100mm×63mm가 적당하며 도금후 연마해서 재사용할수록 좋다.",
+      "4": "양극과 음극거리의 간격에 따라 적정 전류밀도에 의한 도금상태를 조사한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 17,
+    "question": "다음 중 약품 보관 방법에 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "사용 후에는 반드시 마개를 닫아 보관한다.",
+      "2": "산과 알칼리는 같이 놓아두어서는 안된다.",
+      "3": "불산은 반드시 유리병에 보관하여야 한다.",
+      "4": "액체 약품은 될 수 있는대로 선반 위에 놓아두어서는 안 된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 18,
+    "question": "도금공정에서 매 공정의 중간에 시행하는 매우 중요한 작업 은?",
+    "choices": {
+      "1": "탈지",
+      "2": "탈청",
+      "3": "산세",
+      "4": "수세"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "date": "20080713",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 20,
+    "question": "광택 니켈 도금에서 와트액(watts bath)의 성분이 아닌 것 은?",
+    "choices": {
+      "1": "황산니켈",
+      "2": "에틸알콜",
+      "3": "염화니켈",
+      "4": "붕산"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 21,
+    "question": "도금층의 내식성을 평가하는 방법이 아닌 것은?",
+    "choices": {
+      "1": "광택도 시험",
+      "2": "페록실 시험",
+      "3": "염수분무 시험",
+      "4": "캐스 시험"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 22,
+    "question": "아연도금에서 시안욕과 비교한 징케이트욕의 설명으로 틀린 것은?",
+    "choices": {
+      "1": "거친 도금이 되기 쉽다.",
+      "2": "광택범위가 넓다.",
+      "3": "액의 안정성이 높다.",
+      "4": "액의 관리가 용이하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 23,
+    "question": "과잉의 산세로 인해 철이 용해하여 생긴 흑색 분말은?",
+    "choices": {
+      "1": "슬래그(Slag)",
+      "2": "러스트(Rust)",
+      "3": "스머트(Smut)",
+      "4": "스팽글(Spangle)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 24,
+    "question": "수산화나트륨(NaOH) 수용액 1L 속에 수산화나트륨이 40g 녹아 있으면 물농도는 얼마인가? (단, 수산화나트륨 분자량 은 40이다.)",
+    "choices": {
+      "1": "0.1M",
+      "2": "1M",
+      "3": "0.5M",
+      "4": "2M"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 25,
+    "question": "다음 중 걸이(rack)가 갖추어야 할 조건을 설명한 것으로 틀 린 것은?",
+    "choices": {
+      "1": "도금의 두께가 균일하게 되도록 설계하여야 한다.",
+      "2": "심함 공기교반에도 견딜 수 있도록 견고하여야 한다.",
+      "3": "전류를 흘릴 때, 걸이가 과도하게 뜨거워지거나 녹아 떨 어지지 않아야 한다.",
+      "4": "걸이의 고리는 제품을 고정하는 역할을 하는 것으로 전 기 전도율이 좋이 않아야 한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 26,
+    "question": "다음 중 도금액의 계면활성제에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "유리를 물에 적실 때 계면활성제를 넣으면 유리에 물이 잘 묻지 않는다.",
+      "2": "계면활성제는 금속의 틈 사이로 물이 들어가는 것을 방 지한다.",
+      "3": "물이 반발하는 힘, 즉 표면장력은 계면활성제가 첨가되 면 낮아진다.",
+      "4": "금속표면의 오염제거를 신속히 하기 위해서는 계면활성 제를 첨가하지 않는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 27,
+    "question": "스테인리스강의 전해연마에 가장 많이 쓰이는 액성분으로 옳은 것은?",
+    "choices": {
+      "1": "인산, 황산, 글리세린, 크롬산",
+      "2": "과염소산, 무수아세트산",
+      "3": "인산, 옥살산, 젤라틴",
+      "4": "인산, 염산"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 28,
+    "question": "도금액 조제에 사용되는 약품 중 주성분의 역할이 아닌 것 은?",
+    "choices": {
+      "1": "양극용해를 좋게 한다.",
+      "2": "음극에서는 금속이 석출된다.",
+      "3": "양극에서는 금속이온을 공급한다.",
+      "4": "도금액 중에서 금속이온을 공급한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 29,
+    "question": "공업용 크롬도금에서 도금 전에 역전해 처리를 하는 가장 큰 이유는?",
+    "choices": {
+      "1": "광택 향상을 위해서",
+      "2": "밀착성 향상을 위해서",
+      "3": "균일 산화성 향상을 위해서",
+      "4": "균일 침탄성 향상을 위해서"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 30,
+    "question": "SRHS(self regulating high speed) 도금액의 주성분이 아닌 것은?",
+    "choices": {
+      "1": "무수 크롬산",
+      "2": "황산 스트론튬",
+      "3": "아세트산 바륨",
+      "4": "규플루오르화 칼륨"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 31,
+    "question": "도금액의 조성이 시안화은칼륨, 시안화칼륨, 탄산칼륨이며 광택제로 이황화탄소를 사옹하여 각종 장식품, 전자기기 부 품 등에 사용하는 도금은?",
+    "choices": {
+      "1": "은도금",
+      "2": "구리도금",
+      "3": "니켈도금",
+      "4": "로듐도금"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 32,
+    "question": "용액이 오염되거나 양극 슬라임이 용액 중에 있다가 도금시 달라붙어 생긴 결함은?",
+    "choices": {
+      "1": "피트",
+      "2": "표면 거칠음",
+      "3": "광택 불균일",
+      "4": "밀착 불량"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 33,
+    "question": "다음 중 다이엘 전지에 대한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "아연판은 (+)극이다.",
+      "2": "(-)극에서 수소기체가 발생한다,",
+      "3": "아연판에서 산화반응이 일어난다.",
+      "4": "전자는 구리판에서 아연판으로 이동한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 34,
+    "question": "전기분해를 이용한 응용 분야가 아닌 것은?",
+    "choices": {
+      "1": "용융도금",
+      "2": "용융염의 전해",
+      "3": "전기도금",
+      "4": "금속의 전해정련"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 35,
+    "question": "음극전극으로 사용했을 때 수소 과전압이 가장 작은 것은?",
+    "choices": {
+      "1": "백금",
+      "2": "니켈",
+      "3": "구리",
+      "4": "아연"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 36,
+    "question": "약산과 그 염의 용액, 또는 약염기와 그 염의 용액은 산이 나 염기를 조금 넣어도 ph가 변하지 않고 본래의 수소이온 농도를 유지하려고 하는데, 이러한 용액을 무엇이라고 하는 가?",
+    "choices": {
+      "1": "표준 용액",
+      "2": "혼합 용액",
+      "3": "완충 용액",
+      "4": "전해질 용액"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 38,
+    "question": "금속의 이온화 경향을 대한 설명으로 틀린 것은?",
+    "choices": {
+      "1": "금속이 전자를 잃기 쉬운 경향의 순서이다.",
+      "2": "이온화 경향은 전기 음성도와 일치하는 순서를 지닌다.",
+      "3": "이온화 경향이 클수록 귀한(noble) 금속 즉, 귀금속이라 한다.",
+      "4": "이온화 경향의 큰 순서는 K >Ca >Na >Al 순이다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 39,
+    "question": "다음 중 아보가드로의 수로 옳은 것은?",
+    "choices": {
+      "1": "6.023×1023",
+      "2": "6.023×10-23",
+      "3": "3.75×1023",
+      "4": "3.75×10-23"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "date": "20080713",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 40,
+    "question": "1쿨롱의 전기량에 의해 화학변화를 일으킨 물질의 양을 그 물질의 무엇이라 하는가?",
+    "choices": {
+      "1": "원자당량",
+      "2": "전기당량",
+      "3": "이온당량",
+      "4": "전기화학당량"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 41,
+    "question": "TCE(Trichloroethylene)탈지 작업시에 유의해야 할 사항으로 틀린 것은?",
+    "choices": {
+      "1": "고온 상태에서 물이 들어가지 않도록 한다.",
+      "2": "배기 설비가 잘 된 곳에서 작업을 한다.",
+      "3": "마스크를 착용하면 연속작업도 가능하다.",
+      "4": "눈이나 피부에 접촉되지 않도록 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 42,
+    "question": "탄소강, 합금강 및 철계 소결 부품에 알루미늄을 침투시키 는 처리법은?",
+    "choices": {
+      "1": "세러다이징",
+      "2": "칼로라이징",
+      "3": "실리코나이징",
+      "4": "크로마이징"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 43,
+    "question": "금속 용사로 코팅을 할 때 표면을 적당히 요철을 만들어 주 는 이유는?",
+    "choices": {
+      "1": "포면의 광택도를 향상시키기 위하여",
+      "2": "코팅 밀착성을 향상시키기 위하여",
+      "3": "표면 경화성을 향상시키기 위하여",
+      "4": "표면의 내식성을 향상시키기 위하여"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 44,
+    "question": "다음 중 내식성 시험방법이 아닌 것은?",
+    "choices": {
+      "1": "유공도시험",
+      "2": "코로드코오트시험",
+      "3": "염수분무시험",
+      "4": "스파이럴응력시험"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 45,
+    "question": "염소산염, 과염소산염, 과망간산염과 공존하면 위험한 약품 은?",
+    "choices": {
+      "1": "황산",
+      "2": "암모니아",
+      "3": "과산화수소",
+      "4": "알칼리토류 금속"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 47,
+    "question": "알루미늄 양극 산화시 염색하려는 산화피막의 조건이 아닌 것은?",
+    "choices": {
+      "1": "피막자체의 색깔이 적합해야 한다.",
+      "2": "피막의 기공이 적고, 흡착력이 적어야 한다.",
+      "3": "짙은 색조를 얻으려면 특히 피막의 두께가 두꺼워야 한 다.",
+      "4": "피막표면에 굵힌 자국이나 피트 같은 흠이 없어야 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 48,
+    "question": "다음 중 양극 산화처리법에 해당되지 않는 것은?",
+    "choices": {
+      "1": "황산법",
+      "2": "염산법",
+      "3": "수산법",
+      "4": "크롬산법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 49,
+    "question": "파커라이징(Parkerizing)용액 속에 구리 이온이나 질산염 등 을 첨가하여 화성피막처리 시간을 단축시틴 방법을 무엇이 라고 하는가?",
+    "choices": {
+      "1": "본데라이징(Bonderizing)",
+      "2": "아노다이징(Anodizing)",
+      "3": "보로나이징(boronizing)",
+      "4": "템퍼칼라(Temper Color)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 50,
+    "question": "다음 중 플라스틱 도금의 전처리 약품과 관계없는 것은?",
+    "choices": {
+      "1": "PbSO",
+      "2": "SnCl 4 2",
+      "3": "CrO , H SO",
+      "4": "PdCl , AgNO 3 2 4 2 3"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 51,
+    "question": "인산염처리시 피막형성을 촉진시키기 위해서 아연 또는 망 간 인산염 및 인산 외에 특수 첨가제를 넣는데 이에 적합하 지 않은 것은?",
+    "choices": {
+      "1": "케로신",
+      "2": "아질산염",
+      "3": "질산염",
+      "4": "염산염"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 52,
+    "question": "다음 중 인산염 피막의 처리방법이 아닌 것은?",
+    "choices": {
+      "1": "스프레이법",
+      "2": "침지법",
+      "3": "용융법",
+      "4": "브러싱법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 53,
+    "question": "통상적인 폐수처리로 침강분리된 도금오니의 제거처리 순서 로 옳은 것은?",
+    "choices": {
+      "1": "농축 → 탈수 → 건조 → 소각",
+      "2": "탈수 → 농축 → 건조 → 소각",
+      "3": "농축 → 건조 → 소각 → 탈수",
+      "4": "건조 → 탈수 → 농축 → 소각"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 54,
+    "question": "무전해 구리도금에서 도금액의 성분에 따른 그 역할이 옳게 짝지어진 것은?",
+    "choices": {
+      "1": "수산화나트륨 - 환원제",
+      "2": "에틸렌글리콜 - 촉진제",
+      "3": "티오요소 - 안정제",
+      "4": "탄산나트륨 - 계면활성제"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 55,
+    "question": "용융아연 도금욕의 조성시 알루미늄을 첨가하는 목적이 아 닌 것은?",
+    "choices": {
+      "1": "도금의 광택을 향상시키기 위하여",
+      "2": "합금층의 발달을 저지시키기 위하여",
+      "3": "유동성을 향상시키기 위하여",
+      "4": "용융점을 저하시키기 위하여"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 57,
+    "question": "무전해니켈 도금액의 ph를 측정하니 ph 값이 4이었다. 도금 액의 수소이온농도[H+]는 몇 M인가?",
+    "choices": {
+      "1": "0.1",
+      "2": "0.01",
+      "3": "0.001",
+      "4": "0.0001"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 58,
+    "question": "10×5cm의 얇은판 8개의 양면을 한꺼번에 도금하는데 60A 를 흘렸을 때 전류밀도는 몇A/dm2인가? (단, 두께는 무시한 다.)",
+    "choices": {
+      "1": "3.5",
+      "2": "5.5",
+      "3": "7.5",
+      "4": "12.5"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 59,
+    "question": "플라스틱 성형품의 정면처리가 잘 되었는지 시험하는 방법 은?",
+    "choices": {
+      "1": "진한 질산에 넣어서 표면에 균열이 생겼는지 확인한다.",
+      "2": "순수한 아세트산에 1∼2분 침지한 뒤 균열과 백화현상이 나타났는지 확인한다.",
+      "3": "유용성 염료를 칠해서 3분이 지난 뒤 착색이 되었는지 확인한다.",
+      "4": "염화나트륨 수용액에 침지하여 표면에 흰 결정이 생겼는 지 확인한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "date": "20080713",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 60,
+    "question": "다음 중 인산염 처리욕의 조성 중 공통으로 적용되는 것은?",
+    "choices": {
+      "1": "H PO",
+      "2": "NaCO 3 4 3",
+      "3": "MgO, MnO",
+      "4": "FeCO , H O 3 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 1,
+    "question": "다음 중 재결정 온도가 가장 낮은 금속은?",
+    "choices": {
+      "1": "Al",
+      "2": "Cu",
+      "3": "Ni",
+      "4": "Zn"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 2,
+    "question": "실온까지 온도를 내려서 다른 형상으로 변형시켰다가 다시 온도를 상승시키면 어느 일정한 온도이상에서 다시 원래의 형상으로 변화하는 합금은",
+    "choices": {
+      "1": "제진합금",
+      "2": "방진합금",
+      "3": "비정질합금",
+      "4": "형상기억합금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 3,
+    "question": "잔류 오스테나이트를 마텐자이트로 변화시키는 열처리 방법 은?",
+    "choices": {
+      "1": "연속냉각 변태 처리",
+      "2": "등온 변태 처리",
+      "3": "항온 변태 처리",
+      "4": "심랭 처리"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 4,
+    "question": "지름이 10mm인 인장시험편을 시험하여 파단 후 지름이 8mm가 되었다면 단면 수축률은 몇 %인가?",
+    "choices": {
+      "1": "20",
+      "2": "36",
+      "3": "64",
+      "4": "80"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 5,
+    "question": "면심입방격자의 배위수는 몇 개인가?",
+    "choices": {
+      "1": "8",
+      "2": "12",
+      "3": "16",
+      "4": "24"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 6,
+    "question": "피아노 선재, 레일 등을 제조할 때 사용되는 최경강으로 이 재료의 탄소함량으로 옳은 것은?",
+    "choices": {
+      "1": "0.13∼0.20%C",
+      "2": "0.30∼0.40%C",
+      "3": "0.50∼0.70%C",
+      "4": "1.50∼2.0%C"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 7,
+    "question": "금속재료에 외부의 힘을 가하여 원하는 형태로 변형시킴과 동시에 재료의 기계적 성질을 개선하는 가공법을 무엇이라 하는가?",
+    "choices": {
+      "1": "용접",
+      "2": "절삭가공",
+      "3": "소성가공",
+      "4": "분말 야금"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 8,
+    "question": "다음 중 저용융점 합금의(fusible alloy) 원소로 사용되는 것 이 아닌 것은?",
+    "choices": {
+      "1": "W",
+      "2": "Bi",
+      "3": "Sn",
+      "4": "In"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 9,
+    "question": "다음 중 체심입방격자의 표시로 옳은 것은?",
+    "choices": {
+      "1": "LCC",
+      "2": "BCC",
+      "3": "COH",
+      "4": "FCC"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 10,
+    "question": "냉간가공과 열간가공을 구별하는 기준이 되는 것은?",
+    "choices": {
+      "1": "변태점",
+      "2": "탄성한도",
+      "3": "재결성 온도",
+      "4": "마무리 온도"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 11,
+    "question": "청동의 기계적 성질 중 경도는 구리에 주석이 몇 % 함유되 었을 때 가장 높게 나타나는가?",
+    "choices": {
+      "1": "10",
+      "2": "20",
+      "3": "30",
+      "4": "50"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 13,
+    "question": "다음 중 영화아연욕의 특징으로 옳은 것은?",
+    "choices": {
+      "1": "주물 등에 직접 도금이 잘 된다.",
+      "2": "도금액 중에서 수소취성이 많이 생긴다.",
+      "3": "액의 전도성이 낮아 욕전압이 높다.",
+      "4": "시안화합물을 사용하므로 시안 폐수가 생긴다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 14,
+    "question": "다음 중 알칼리탈지에 있어 금속을 부식시키는 ph 값이 가 장 큰 것은?",
+    "choices": {
+      "1": "아연",
+      "2": "철강",
+      "3": "주석",
+      "4": "황동"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 15,
+    "question": "황산구리 도금액에서 양극에 함인동판을 사용하는 이유로 가장 적절한 것은?",
+    "choices": {
+      "1": "양극판의 소모가 적기 때문에",
+      "2": "도금의 밀착성을 향상시키기 위하여",
+      "3": "도금액의 전기전도도를 향상시키기 위하여",
+      "4": "양극판에서 구리분말이 발생하는 현상을 줄이기 위하여"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 16,
+    "question": "와트액을 분석한 결과 염화니켈의 농도가 부족하였을 때 취 해야 할 조치로 가장 적절한 것은?",
+    "choices": {
+      "1": "광택제를 보충한다.",
+      "2": "양극전류밀도를 높인다.",
+      "3": "염산으로 ph를 조정한다.",
+      "4": "억제제(inhibitor)를 더 첨가한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 181,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 17,
+    "question": "다음 중 광택니켈도금에서 제1차 광택제의 주된 역할로 가 장 적당한 것은?",
+    "choices": {
+      "1": "피트를 방지한다.",
+      "2": "광택을 향상시킨다.",
+      "3": "표면의 ph 농도를 조절한다.",
+      "4": "내부 응력의 증가를 감소시킨다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 182,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 18,
+    "question": "다음 중 이온화 경향이 가장 큰 금속은?",
+    "choices": {
+      "1": "Ni",
+      "2": "Zn",
+      "3": "Cu",
+      "4": "Fe"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 183,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 19,
+    "question": "강전해질 0.1M-HCl과 0.01M-BaCl 이 가지는 4개의 이온 2 농도가 틀리게 표현된 것은? [H+]=0.1M [Cl-]=0.1M",
+    "choices": {
+      "1": "HCl의",
+      "2": "HCl의",
+      "3": "BaCl 의 [Cl-]=0.01M",
+      "4": "BaCl 의 [Ba2+]=0.01M 2 2"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 184,
+    "date": "20090927",
+    "subject": 1,
+    "subject_name": "금속재료일반",
+    "question_no": 20,
+    "question": "다음 중 용제탈지제가 갖추어야 하는 요건과 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "정도가 낮을 것",
+      "2": "불연성이며, 인화성이 없을 것",
+      "3": "도금 재료를 침식, 부식시키지 않을 것",
+      "4": "유성(油性)에 대한 용해능력이 작을 것"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 185,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 22,
+    "question": "다음 중 피로인산구리 도금액의 ph 범위로 가장 적절한 것 은?",
+    "choices": {
+      "1": "1∼2",
+      "2": "3∼4",
+      "3": "5∼6",
+      "4": "8∼9"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 186,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 23,
+    "question": "다음 중 핀홀(pin hole)에 대한 방지대책으로 적절하지 않은 것은?",
+    "choices": {
+      "1": "ph 값을 5.5이상으로 조정한다.",
+      "2": "약간 낮은 전류밀도로 작업한다.",
+      "3": "전처리 작업을 조건에 맞추어 철저히 한다.",
+      "4": "도금액의 교반을 좀 더 강하고 고르게 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 187,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 24,
+    "question": "전기화학반응에 이용된 전기량과 전기량계로부터 구한 전체 통과전기량의 비를 무엇이라고 하는가?",
+    "choices": {
+      "1": "전류밀도",
+      "2": "전류효율",
+      "3": "분해전압",
+      "4": "전기화학당량비"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 188,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 25,
+    "question": "다음 중 전처리 때 생긴 얇은 산화파악을 제거하여 표면을 활성 상태로 만들어 주는 역할을 하는 것은?",
+    "choices": {
+      "1": "광택탈지",
+      "2": "전해탈청",
+      "3": "알칼리탈청",
+      "4": "산담금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 189,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 26,
+    "question": "도금 피막을 알아보는 시험방법으로 진한 염산에 침식되어 녹색이 되었다면 이는 어떤 도금으로 되어있는 것인가?",
+    "choices": {
+      "1": "금도금",
+      "2": "아연도금",
+      "3": "크롬도금",
+      "4": "니켈도금"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 190,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 27,
+    "question": "다음 중 크롬도금액을 만들 때 무수크롬산과 촉매로 쓰이는 것은?",
+    "choices": {
+      "1": "황산",
+      "2": "붕산",
+      "3": "마그네슘",
+      "4": "니켈"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 191,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 30,
+    "question": "전기도금 중 알칼리 금 도금시 금의 보급원으로 가장 적절 한 것은?",
+    "choices": {
+      "1": "시안화금칼륨",
+      "2": "황산금",
+      "3": "염화금",
+      "4": "수산화금"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 192,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 31,
+    "question": "비중이 1.84인 황산(H SO ) 11g을 부피로 환산하면 약 몇 2 4 mL가 되는가?",
+    "choices": {
+      "1": "3",
+      "2": "6",
+      "3": "9",
+      "4": "12"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 193,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 32,
+    "question": "시안화구리도금에서 도금액의 성분 중 다음 설명에 해당하 는 것은?",
+    "choices": {
+      "1": "탄산나트륨",
+      "2": "티오시안화칼륨",
+      "3": "시안화나트륨",
+      "4": "수산화나트륨"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 194,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 33,
+    "question": "다음 금속의 쌍을 황산에 담그거나 전지를 만들 때 외부 전 류가 화살표 방향으로 흐르게 되는 것은?",
+    "choices": {
+      "1": "Zn→Ag",
+      "2": "Cu→Fe",
+      "3": "Fe→Ag",
+      "4": "Zn→Cu"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 195,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 34,
+    "question": "전해질이 음이온과 양이온으로 분리되는 것을 무엇이라 하 는가?",
+    "choices": {
+      "1": "포화",
+      "2": "전착",
+      "3": "전리",
+      "4": "확산"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 196,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 35,
+    "question": "10×10cm의 판을 도금하는데 20A의 전류가 흐른다면 이 때의 전류밀도(A/dm2)는? (단, 판의 두께는 무시한다.)",
+    "choices": {
+      "1": "1",
+      "2": "5",
+      "3": "10",
+      "4": "20"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 197,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 36,
+    "question": "다음 중 패러데이의 법칙에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "전극에 석출하는 물질의 양은 용액을 통과하는 전기량에 비례한다.",
+      "2": "전극에 석출하는 물질의 양은 용액을 통과하는 전류에 반비례한다.",
+      "3": "전극에 석출하는 물질의 양은 용액을 통과하는 저항에 비례한다.",
+      "4": "전극에 석출하는 물질의 양은 용액을 통과하는 전압에 반비례한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 198,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 37,
+    "question": "다음 중 환원 반응을 나타내는 것은?",
+    "choices": {
+      "1": "산소와 결합한다.",
+      "2": "전자를 얻는다.",
+      "3": "수소를 잃는다.",
+      "4": "산화수가 증가한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 199,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 38,
+    "question": "니켈(Ni)도금의 경우 음극전류효율(E )과 양극전류효율(E )의 c a 관계를 올바르게 나타낸 것은?",
+    "choices": {
+      "1": "E >E",
+      "2": "E a c a c",
+      "3": "E =E",
+      "4": "E <√E c a c a"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 200,
+    "date": "20090927",
+    "subject": 2,
+    "subject_name": "전기도금",
+    "question_no": 40,
+    "question": "아연이 산성 용액에서 용해되는 반응 중 음극에서 일어나는 반응으로 옳은 것은?",
+    "choices": {
+      "1": "2H++2e-→H",
+      "2": "Zn→Zn2++2e- 2",
+      "3": "O +4H++4e-→2H O",
+      "4": "2OH-+2e-→H O+1/2O 2 2 2 2"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 201,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 41,
+    "question": "알루미늄 합금을 알칼리계의 처리액에 전처리할 경우 합금 성분에 의해 스머트(smut)가 발생하는데 이러한 스머트의 제거 방법으로 가장 적절한 것은?",
+    "choices": {
+      "1": "HNO 3 에 침지한다.",
+      "2": "H 3 PO 4 에 침지한다.",
+      "3": "HCl에 침지한다.",
+      "4": "NaOH에 침지한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 202,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 42,
+    "question": "화학 니켈 도금액에서 황산니철의 조성은 20g/L가 적당하다 고 한다. 50L의 도금조에 80%가 되도록 도금액을 만들고자 할 때 필요한 황산니켈의 양은 몇 g인가?",
+    "choices": {
+      "1": "400",
+      "2": "600",
+      "3": "800",
+      "4": "1000"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 203,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 43,
+    "question": "유해 환경에서 사용하는 방독마스크는 산소농도가 몇 %이 상인 장소에 착용하여야 하는가?",
+    "choices": {
+      "1": "15%",
+      "2": "16%",
+      "3": "18%",
+      "4": "20%"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 204,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 44,
+    "question": "다음 중 경도에 따른 양극산화피막의 분류에 있어 경질피막 에 해당하는 것은?",
+    "choices": {
+      "1": "비커스 경도(Hv) 350∼450",
+      "2": "비커스 경도(Hv) 250∼350",
+      "3": "비커스 경도(Hv) 150∼250",
+      "4": "비커스 경도(Hv) 150 이하"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 205,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 45,
+    "question": "다음 중 양극산화법에서 많이 사용되는 알루미늄의 재료로 가장 적절한 것은?",
+    "choices": {
+      "1": "압연괴로 50.0%의 알루미늄",
+      "2": "압연관재로 75.9%의 알루미늄",
+      "3": "압연봉재로 85.0%의 알루미늄",
+      "4": "압연판재로 99.8%의 알루미늄"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 206,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 46,
+    "question": "다음 중 크롬 폐수 처리에서 3가 크롬의 침전반응에 사용되 는 약품은?",
+    "choices": {
+      "1": "MgO 3",
+      "2": "NaOCl",
+      "3": "NaOH",
+      "4": "H 2 SO 4"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 207,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 48,
+    "question": "버프 연마제 중 산화크롬이 주원료이며, 광택연만제로 가장 많이 사용되는 것은?",
+    "choices": {
+      "1": "크로커스(crocus)",
+      "2": "백봉(lime)",
+      "3": "적봉(rouge)",
+      "4": "청봉(green rouge)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 208,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 49,
+    "question": "냉간압연강대의 연속도금법이며 용융도금의 문제점인 산세 와 플러스 작업을 행하지 않는 용융도금방법은?",
+    "choices": {
+      "1": "센지미어(Sendzimir)법",
+      "2": "차콜와이프(charcoal wipe)법",
+      "3": "갈바닐링(galvannealing)법",
+      "4": "스팽글(spangle)법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 209,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 50,
+    "question": "다음 중 약품에 의한 사고 발생시 응급처치로 적절하지 않 은 것은?",
+    "choices": {
+      "1": "수산화칼슘을 마셨을 때에는 물을 많이 마신다.",
+      "2": "황산구리가 피부에 묻었을 때에는 물로 충분히 씻는다.",
+      "3": "암모니아를 마셨을 때에는 레몬 주스나 우유 등을 마신 다.",
+      "4": "수산화나트륨이 피부에 묻었을 때에는 탄산수소나트륨용 액으로 씻어 낸다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 210,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 51,
+    "question": "다음 중 버프연마에 있어 목적하는 평활도에 따라 공정을 3 단계로 구분할 때 올바른 것은?",
+    "choices": {
+      "1": "거친연마 → 중간연마 → 광택연마",
+      "2": "자유연마 → 배럴연마 → 표면연마",
+      "3": "미세연마 → 조도연마 → 전해연마",
+      "4": "전해연마 → 배럴연마 → 광택연마"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 211,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 52,
+    "question": "다음 중 화성처리에 관한 설명으로 옳은 것은?",
+    "choices": {
+      "1": "화성처리는 양극 산화처리 방법의 일종이다.",
+      "2": "화학적으로 금속 표면에 방식피막을 형성하는 것이다.",
+      "3": "도료 도장으로 금속표면에 방식보호와 취성을 주는 것이 다.",
+      "4": "화성처리는 물리·기계적으로 금속 내부에 피막을 형성하 는 것이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 212,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 53,
+    "question": "무전해 구리 도금액의 조성 중 성분과 그 역할이 잘못 연결 된 것은?",
+    "choices": {
+      "1": "롯셀명: 촉진제",
+      "2": "포르말린: 환원제",
+      "3": "탄산나트륨: ph완충제",
+      "4": "수산화나트륨: ph조정제"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 213,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 54,
+    "question": "다음 중 플라스틱상의 도금에서 표면 감수성 처리와 가장 관계가 깊은 것은?",
+    "choices": {
+      "1": "NaHSO3",
+      "2": "BaCl 2",
+      "3": "SnCl",
+      "4": "K CrO 2 2 4"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 214,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 55,
+    "question": "다음 중 금속 용사법에서 용사층의 밀착성을 좋게 하기 위 한 전처리법으로 적당하지 않은 것은?",
+    "choices": {
+      "1": "조각법",
+      "2": "광택연마법",
+      "3": "숏블라스트",
+      "4": "샌드블라스트"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 215,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 57,
+    "question": "아연계 인산염 피막처리액의 액관리에 유용한 산비(AR, Acid Ratio)를 구하는 식으로 옳은 것은?",
+    "choices": {
+      "1": "전산도×유리산도",
+      "2": "전산도÷유리산도",
+      "3": "전산도+유리산도",
+      "4": "전산도-유리산도"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 216,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 58,
+    "question": "다음 중 피막이 지니는 자기(磁器)적 성질을 이용하기 위한 목적으로 실시되는 것은?",
+    "choices": {
+      "1": "무전해 구리 도금",
+      "2": "무전해 금 도금",
+      "3": "무전해 수은 도금",
+      "4": "무전해 코발트 도금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 217,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 59,
+    "question": "면적 1dm2의 양극 알루미늄에 1A·min의 전기량을 통과시킬 때 생성되는 피막의 중량은 약 몇 mg인가? (단, 알루미늄과 산소의 원자력은 각각 27, 16이며, Faraday 상수는 96500, 전류 효율은 100%이다.)",
+    "choices": {
+      "1": "5.29",
+      "2": "10.57",
+      "3": "15.86",
+      "4": "21.14"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  },
+  {
+    "id": 218,
+    "date": "20090927",
+    "subject": 3,
+    "subject_name": "특수도금",
+    "question_no": 60,
+    "question": "다음 중 금속 표면에 알루미늄을 침투시키는 방법은?",
+    "choices": {
+      "1": "크로마이징(chromizing)",
+      "2": "칼로라이징(calorizing)",
+      "3": "세라다이징(sheradizing)",
+      "4": "실리코나이징(siliconizing)"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": ""
+  }
+]
