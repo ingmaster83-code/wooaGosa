@@ -43,7 +43,8 @@ SITES_BAR = """<div class="our-sites-bar">
     <a href="https://wooaocr.wooahouse.com/" target="_blank" rel="noopener">🔍 WooaOCR</a>
     <a href="https://wooasheet.wooahouse.com/" target="_blank" rel="noopener">📊 WooaSheet</a>
     <a href="https://wooaseo.wooahouse.com/" target="_blank" rel="noopener">🔎 WooaSEO</a>
-    <a href="https://wooagosa.wooahouse.com/" class="active">📝 WooaGosa</a>
+    <a href="https://wooagosa.wooahouse.com/" class="active">📝 WooaGosa<span class="ws-nav-badge ws-badge-update">UPDATE</span></a>
+    <a href="https://wooaform.wooahouse.com/" target="_blank" rel="noopener">📋 WooaForm<span class="ws-nav-badge ws-badge-new">NEW</span></a>
   </div>
   </div>
 </div>"""
