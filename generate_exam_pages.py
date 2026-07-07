@@ -1783,7 +1783,7 @@ def links_html(exam_type):
     return f'''      <div class="exam-schedule-box">
         <span class="sch-label">📅 시험 일정 · 접수</span>
         <div class="exam-link-btns">
-        <a href="https://gosapass.kr/" target="_blank" rel="noopener" class="exam-link-btn">시험일정·접수 바로가기 ↗</a>
+        <a href="https://wooagosapass.wooahouse.com/" target="_blank" rel="noopener" class="exam-link-btn">시험일정·접수 바로가기 ↗</a>
         </div>
       </div>'''
 
