@@ -1,1 +1,3908 @@
-[{"id": 1, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "한국 고대 낙랑문화의 특징이 아닌 것은?", "choices": {"1": "귀족문화", "2": "소박한 미술 성격", "3": "토착적 요소 결여", "4": "중국문화의 한반도 전래"}, "answers": [2], "explanation": ""}, {"id": 2, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 2, "question": "삼국시대 장신구사에 대한 설명 중 틀린 것은?", "choices": {"1": "신라 금관에는 곡옥과 영락이 달려 있다.", "2": "백제시대 장신구는 간결하고 아담한 미가 있다.", "3": "고구려 시대의 것으로 뛰어난 금관이 현존한다.", "4": "누금세공은 신라 이식에 잘 나타나 있다."}, "answers": [3], "explanation": ""}, {"id": 3, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 3, "question": "다음 내용은 어느시대 금속 공예의 특징인가?", "choices": {"1": "고구려", "2": "신라", "3": "고려", "4": "조선"}, "answers": [3], "explanation": ""}, {"id": 4, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 4, "question": "전통장신구의 일종으로서 유소(流蘇)가 쓰이는 것은?", "choices": {"1": "비녀", "2": "장도", "3": "노리개", "4": "첩지"}, "answers": [3], "explanation": ""}, {"id": 5, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 5, "question": "신미술 운동으로 양식적 특색은 자연물의 유기적 형태로부터 모티브를 찾아 비대칭적이고 생동적이며 곡선적인 것은?", "choices": {"1": "아르누보", "2": "아르데코", "3": "로코코", "4": "신조형주의 운동"}, "answers": [1], "explanation": ""}, {"id": 6, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 6, "question": "주조작업시 왁스 모델의 두께로 가장 알맞는 것은?", "choices": {"1": "0.3mm보다 얇지 않도록 한다.", "2": "0.7mm보다 얇지 않도록 한다.", "3": "1.0mm보다 얇지 않도록 한다.", "4": "1.2mm보다 얇지 않도록 한다."}, "answers": [2], "explanation": ""}, {"id": 7, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 7, "question": "다음중 십장생에 들지 않는 것은?", "choices": {"1": "산", "2": "거북", "3": "학", "4": "기린"}, "answers": [4], "explanation": ""}, {"id": 8, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 8, "question": "다음 중 디자인의 내용이 서로 적합하게 관련되지 않는 것 은?", "choices": {"1": "공업디자인 - 산업디자인", "2": "그래픽디자인 - 시각디자인", "3": "복식디자인 - 패션디자인", "4": "인테리어디자인 - 건축설계 및 가구디자인"}, "answers": [4], "explanation": ""}, {"id": 9, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 9, "question": "양산에 의한 공예품 성격에 관한 내용 중 잘못된 것은?", "choices": {"1": "대중 생활내의 사용이 그 주체가 되는 것", "2": "대량생산이 요구되는 것", "3": "누구나 살수 있지만 가격은 싸지 않는 것", "4": "누구나 쉽게 사용할 수 있는 것"}, "answers": [3], "explanation": ""}, {"id": 10, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 10, "question": "다음 중 형태의 변화조건과 가장 거리가 먼 것은?", "choices": {"1": "명암에 따라 달라진다.", "2": "원근에 따라 달라진다.", "3": "눈의 높이에 따라 달라진다.", "4": "보는 방향에 따라 달라진다."}, "answers": [1], "explanation": ""}, {"id": 11, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 11, "question": "디자인의 원리는 통일, 변화, 조화, 대비, 균형 등이다. 통일 을 강조하기 위한 수단에 속하지 않는 것은?", "choices": {"1": "집중", "2": "단순", "3": "종속", "4": "대비"}, "answers": [4], "explanation": ""}, {"id": 12, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 12, "question": "기하학적 곡선이외의 어려운 곡선을 그릴 때 주로 사용되는 도구는?", "choices": {"1": "운형자", "2": "분도기", "3": "형판", "4": "제도기"}, "answers": [1], "explanation": ""}, {"id": 13, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "다음 척도에 관한 내용이 올바른 것은?", "choices": {"1": "축척 : 2/1", "2": "배척 : 1/5", "3": "현척 : N.S", "4": "실척 : 1/1"}, "answers": [4], "explanation": ""}, {"id": 14, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 14, "question": "다음 각 부분의 도면 명칭이 번호순으로 바르게 배열된 것 은?", "choices": {"1": "평면도, 정면도, 우측면도, 배면도", "2": "정면도, 배면도, 좌측면도, 저면도", "3": "저면도, 배면도, 좌측면도, 정면도", "4": "평면도, 배면도, 우측면도, 정면도"}, "answers": [4], "explanation": ""}, {"id": 15, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 15, "question": "대상물에서 서로 직각으로 만나는 세 모서리를 좌표축으로 하여 투상도를 그리며, 입체의 형상을 한 투상도를 한개의 투상면에 그릴 수 있는 투상법은?", "choices": {"1": "정투상법", "2": "축측투상법", "3": "표고투상법", "4": "투시투상법"}, "answers": [2], "explanation": ""}, {"id": 16, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 16, "question": "2개 이상의 입체가 교차할 때 그 투상은?", "choices": {"1": "상관도", "2": "전개도", "3": "정투상도", "4": "사투상도"}, "answers": [1], "explanation": ""}, {"id": 17, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "투시도의 용어가 바르게 짝지어진 것은?", "choices": {"1": "H.L - 기선", "2": "C.V - 시중심", "3": "S.P - 화면", "4": "P.P - 입점"}, "answers": [2], "explanation": ""}, {"id": 18, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 18, "question": "전자파 중 우리 눈으로 지각할 수 있는 파장의 범위는?", "choices": {"1": "380 ∼ 780 nm", "2": "400∼ 850 nm", "3": "1200∼1500 nm", "4": "320∼ 90 nm"}, "answers": [1], "explanation": ""}, {"id": 19, "date": "20020721", "subject": 1, "subject_name": "임의 구분", "question_no": 20, "question": "면적에 따른 색의 대비효과에 관한 설명 중 맞는 것은?(단, 동일 색일 경우)", "choices": {"1": "면적이 작은 것이 밝게 보인다.", "2": "면적이 큰 것이나 작은 것 모두 같다.", "3": "색 대비 효과는 일어나지 않는다.", "4": "면적이 큰 것이 밝고 선명하며 면적이 작은 것이 어둡고 흐리게 보인다."}, "answers": [4], "explanation": ""}, {"id": 20, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 21, "question": "같은 위치에 있으면서 더 가깝게 보이는 색을 진출색이라 하는데 다음 중 진출효과가 가장 적은 색은?", "choices": {"1": "빨강", "2": "노랑", "3": "남색", "4": "주황"}, "answers": [3], "explanation": ""}, {"id": 21, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 22, "question": "배색을 할 때의 유의할 점이 아닌 것은?", "choices": {"1": "사용하는 목적에 적합하도록 할 것", "2": "배색을 가급적 밝게 할 것", "3": "사용되는 재질과 형체를 고려하여 조화되도록 할 것", "4": "밝은 배색인지 어두운 배색인지를 미리 계획할 것"}, "answers": [2], "explanation": ""}, {"id": 22, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 23, "question": "다이아몬드 유사품 중 천연 내포물을 가지고 있는 것은?", "choices": {"1": "Zircon", "2": "YAG", "3": "CZ", "4": "G.G.G"}, "answers": [1], "explanation": ""}, {"id": 23, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 24, "question": "상부면의 곡면형태는 원석의 형태에 따라 높낮이 조절이 가 능하며, 하부면은 지면과 수평을 이루는 것으로서 가장 일 반적으로 사용되는 형태는?", "choices": {"1": "평 캐보션", "2": "오목 캐보션", "3": "이중 캐보션", "4": "단순 캐보션"}, "answers": [4], "explanation": ""}, {"id": 24, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 25, "question": "지르콘을 브릴리언트로 연마할 때 이상적인 크라운면의 각 도는?", "choices": {"1": "35°", "2": "37°", "3": "40°", "4": "43°"}, "answers": [3], "explanation": ""}, {"id": 25, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 26, "question": "가닛의 연마에 관한 내용 중 틀린 것은?", "choices": {"1": "데만토이드 가닛은 브릴리언트컷 보다 에메랄드컷이 산 란도가 높다.", "2": "반투명은 캐보션으로 연마한다.", "3": "연마시 열을 주지 않도록 유의한다.", "4": "파세팅에는 주석회전판을 쓰는 것이 좋다."}, "answers": [1], "explanation": ""}, {"id": 26, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 27, "question": "난발 난물림의 특징이 아닌 것은?", "choices": {"1": "보석이 빠지지 않도록 지탱해 준다.", "2": "투명한 보석의 경우 빛의 반사 효과가 있다.", "3": "형태에 약간의 제약이 따른다.", "4": "다이아몬드 등 고급보석이나 섬세한 디자인에 사용된다."}, "answers": [3], "explanation": ""}, {"id": 27, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 29, "question": "다음 중 분석을 건식법으로 하는 것이 가장 타당한 경우는?", "choices": {"1": "품위가 낮은 금만 있을 때", "2": "품위가 낮은 은만 있을 때", "3": "품위가 낮은 금, 동이 있을 때", "4": "품위가 낮은 금, 은이 있을 때"}, "answers": [2], "explanation": ""}, {"id": 28, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 30, "question": "진주와 양식 진주의 식별법 중 가장 확실한 방법으로 물체 의 내부조직을 투과하여 생성과정 및 조직상태를 검증할 수 있는 것은?", "choices": {"1": "X - 선 형광법", "2": "X - 선 산란법", "3": "앤도 스코프 방법", "4": "X - 방사선 사진법"}, "answers": [4], "explanation": ""}, {"id": 29, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 31, "question": "보석광상에 대한 가장 적절한 설명은?", "choices": {"1": "한 종류의 보석만이 포함되어도 된다.", "2": "한종 또는 수종의 유용보석이 경제적으로 채굴가치가 있 어야 한다.", "3": "경제적으로 가치가 없는 보석이라도 여러종류가 포함되 어야 한다.", "4": "모든 광물로 구성된 암석이다."}, "answers": [2], "explanation": ""}, {"id": 30, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 32, "question": "세개의 결정축은 서로 직각으로 만나며 이들의 평행인 단위 정(單位晶)의 가로, 세로, 높이의 길이가 같은 결정계는?", "choices": {"1": "단사정계(單斜晶系)", "2": "정방정계(正方晶系)", "3": "삼사정계(三斜晶系)", "4": "등축정계(等軸晶系)"}, "answers": [4], "explanation": ""}, {"id": 31, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 33, "question": "다음 중 육방정계의 결정구조를 가진 보석은?", "choices": {"1": "가닛", "2": "스피넬", "3": "사파이어", "4": "다이아몬드"}, "answers": [3], "explanation": ""}, {"id": 32, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 34, "question": "흑진주가 검게 보이는 이유로 타당한 것은?", "choices": {"1": "흑색소, 빛간섭", "2": "적색소, 빛반사", "3": "녹색소, 빛흡수", "4": "자색소, 빛분산"}, "answers": [1], "explanation": ""}, {"id": 33, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 35, "question": "보석 중에서 다이아몬드의 브릴리언시가 높은 이유에 관한 설명이 잘못된 것은?", "choices": {"1": "산란도가 높아 빛의 분산률이 높으므로", "2": "굴절률이 높고 임계각이 적으므로", "3": "투명도가 높으므로", "4": "경도가 높아 최상의 폴리싱이 가능하므로"}, "answers": [1], "explanation": ""}, {"id": 34, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 36, "question": "단조용 재료의 가열온도 측정 방법으로 가장 적당한 것은?", "choices": {"1": "재료에 온도계를 대고 알아본다.", "2": "가열된 색을 보고 측정한다.", "3": "연소된 열량으로 측정한다.", "4": "가열시간으로 측정한다."}, "answers": [2], "explanation": ""}, {"id": 35, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 38, "question": "전성을 이용한 금속의 가공법은?", "choices": {"1": "주금", "2": "조금", "3": "단금", "4": "투금"}, "answers": [3], "explanation": ""}, {"id": 36, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 39, "question": "다음 백금의 특성 중 잘못된 것은?", "choices": {"1": "유황 금속염류에 침식된다.", "2": "용융점이 1733.5℃이다.", "3": "금보다 비교적 가공성이 좋다.", "4": "쉽게 산화되지 않는다."}, "answers": [3], "explanation": ""}, {"id": 37, "date": "20020721", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 40, "question": "다음 칠보공예에 관한 설명 중 잘못된 것은?", "choices": {"1": "분유칠보 : 불투명 유약을 구운 후 투명색을 발라 900℃ 이상에서 굽는다.", "2": "흐림칠보 : 투명유약을 곱게 갈아서 물에 헹구지 않고 사용한다.", "3": "투태칠보 : 색유리를 칠보유약과 혼합하여 굽는다.", "4": "성태칠보 : 0.1mm 정도의 얇은 동판을 이용한다."}, "answers": [3], "explanation": ""}, {"id": 38, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 41, "question": "은땜(silver solder)의 구성 성분은?", "choices": {"1": "은 + 구리 + 아연", "2": "은 + 주석 + 아연", "3": "은 + 납 + 구리", "4": "은 + 니켈 + 납"}, "answers": [1], "explanation": ""}, {"id": 39, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "은(Ag)을 녹이는 왕수의 혼합비(질산:염산)는?", "choices": {"1": "1:1", "2": "3:1", "3": "1:2", "4": "1:3"}, "answers": [2], "explanation": ""}, {"id": 40, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "땜은 제작시 은의 성분이 많고 적음에 따라 나타나는 일반 적인 성질 중 잘못된 것은?", "choices": {"1": "은의 함량이 많으면 융점이 높고 내식성이 강해진다.", "2": "은의 함량이 많으면 가공성이 좋아진다.", "3": "은의 함량이 적으면 융점이 낮아 유동성이 좋아진다.", "4": "은의 함량이 많으면 경도가 좋아진다."}, "answers": [4], "explanation": ""}, {"id": 41, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 44, "question": "측정공구가 아닌 것은?", "choices": {"1": "마이크로미터", "2": "버니어 캘리퍼스", "3": "강철자", "4": "실톱"}, "answers": [4], "explanation": ""}, {"id": 42, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 45, "question": "신관 난물림(fuse setting)에 관한 설명 중 맞는 것은?", "choices": {"1": "몸체에 난집구멍을 뚫었을때 생긴 얇은 경사면 테두리가 이중테 같이 보석을 감싸는 방법", "2": "사용되는 연마형은 캐보션형이 가장 많으나 간혹 패시트 형이 사용되기도 한다.", "3": "신관난물림 방법은 난집이 수평이 된 상태에서 세팅할 수 있다.", "4": "파이프 형태의 난집에 보석을 앉히고 테두리를 눌러 보 석을 감싸 난물림 하는 방법"}, "answers": [4], "explanation": ""}, {"id": 43, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "구리가 합금된 정은(92.5% 은)이나, 82%의 은에서 부분적 으로 가열하였다가, 식으면서 주름을 만들게 되는 기법의 명칭은?", "choices": {"1": "낱알기법", "2": "망상조직기법", "3": "목금기법", "4": "입사기법"}, "answers": [2], "explanation": ""}, {"id": 44, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 48, "question": "금 60%, 동 40%로 합금을 한다면 일반적으로 어떤 방법이 가장 바람직한가?", "choices": {"1": "두 금속다 촉매제를 사용하면 된다.", "2": "동을 먼저 용해한 다음 금을 천천히 용해한다.", "3": "금과 동은 동족이기 때문에 같이 용해해도 된다.", "4": "금을 먼저 용해한 다음 동을 촉매제를 써서 용해된 금속 에 넣는다."}, "answers": [4], "explanation": ""}, {"id": 45, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 49, "question": "다음 합금에 관한 기술 중 잘못된 것은?", "choices": {"1": "합금을 만들 때는 융점이 높은 금속을 먼저 용해한다.", "2": "합금시 친화력이 크면 화합물을 만들고 약하면 고용체가 된다.", "3": "비중과 융점의 차이가 작은 것끼리 서로 합금하여 차례 로 조성한다.", "4": "모합금을 만들 때 합금 할 모든 금속을 한번에 같이 용 해 합금한다."}, "answers": [4], "explanation": ""}, {"id": 46, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 50, "question": "다음 중 면 상감할 때 잘 사용되지 않는 정은?", "choices": {"1": "평정", "2": "골정", "3": "방울정", "4": "반원정"}, "answers": [4], "explanation": ""}, {"id": 47, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "다음 중 자유단조의 기본작업과 관련이 없는 것은?", "choices": {"1": "굽히기", "2": "늘리기", "3": "갈기", "4": "단짓기"}, "answers": [3], "explanation": ""}, {"id": 48, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "다음 중 은땜을 하는 과정이 잘못된 것은?", "choices": {"1": "붕사의 수용액을 사용한다.", "2": "땜은을 가는 조각으로 잘라서 사용하는 것이 좋다.", "3": "땜할 장소는 깨끗이 해야 하므로 닦아 놓는 것이 좋다.", "4": "접합 부분은 땜은이 들어갈 수 있도록 조금 벌려놓는 것 이 좋다."}, "answers": [4], "explanation": ""}, {"id": 49, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "가스토치(blow - pipe torch)를 사용하여 용접할 때 역화 (back fire)현상이 일어나는 경우는?", "choices": {"1": "토치 내부가 막혀서 고압의 산소가 밖으로 배출되지 못 할 때", "2": "벤튜리와 노즐 끝과의 사이가 막혔을 때", "3": "토치가 너무 달구어졌을 때", "4": "팁이 막히거나 팁의 과열, 사용가스의 압력이 부적당할 때"}, "answers": [4], "explanation": ""}, {"id": 50, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "정밀주조 기법에서 고무를 경화시키는데 고무몰드 두께가 12mm일 경우 가장 적합한 가열 조건은?", "choices": {"1": "154℃로 30분", "2": "135℃로 25분", "3": "120℃로 20분", "4": "114℃로 15분"}, "answers": [1], "explanation": ""}, {"id": 51, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 56, "question": "정밀주조 작업에서 원형모델의 크기는 모든 제작공정이 끝 난 완제품과 비교 했을 때 어떠한 비율로 제작하는 것이 가 장 적합한가?", "choices": {"1": "약 5% 크게", "2": "약 10% 크게", "3": "약 15% 크게", "4": "약 20% 크게"}, "answers": [2], "explanation": ""}, {"id": 52, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "샌드페이퍼 스틱의 사용법에 속하지 않는 것은?", "choices": {"1": "직진법", "2": "사진법", "3": "좌우회전법", "4": "횡진법"}, "answers": [3], "explanation": ""}, {"id": 53, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 58, "question": "연마의 마지막 단계로 표면의 광택제를 제거시키고 섬세한 광택을 내는데 사용되는 것은?", "choices": {"1": "모브러시", "2": "고무버프", "3": "울버프", "4": "프란넬버프"}, "answers": [3], "explanation": ""}, {"id": 54, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "산소병을 취급할 때의 주의 사항 중 잘못된 것은?", "choices": {"1": "산소병을 운반할 때는 밸브를 반드시 잠궈야 한다.", "2": "산소병은 뉘어 놓는 것이 좋다.", "3": "산소의 누설을 조사할 때는 비눗물을 사용한다.", "4": "직사광선에 방치하거나 고온장소에서 작업하지 말아야 한다."}, "answers": [2], "explanation": ""}, {"id": 55, "date": "20020721", "subject": 3, "subject_name": "임의 구분", "question_no": 60, "question": "일반안전에 관한 사항 중 틀린 것은?", "choices": {"1": "하인리히의 재해방지 기본원리는 도미노 이론이다.", "2": "화재는 자연재해에 속한다.", "3": "방사능의 표지는 노랑 바탕에 빨강색이다.", "4": "가스 누설검사는 비눗물을 이용한다."}, "answers": [2], "explanation": ""}, {"id": 56, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "선사시대 신체 장식의 의미가 가장 적은 것은?", "choices": {"1": "다른 종족과 구별하기 위한 수단", "2": "부의 과시나 힘을 상징하는 신분의 상징", "3": "아름다움을 추구하는 본능적 의미", "4": "제식행사등의 의식을 위한 의미"}, "answers": [3], "explanation": ""}, {"id": 57, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 2, "question": "신라시대에 발달된 귀걸이의 제작에 널리 사용되었던 대표적 인 제작 기법은?", "choices": {"1": "누금", "2": "투각", "3": "양감", "4": "상감"}, "answers": [1], "explanation": ""}, {"id": 58, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 3, "question": "고려시대의 금속공예에 영향을 미친 나라가 아닌 것은?", "choices": {"1": "송", "2": "원", "3": "당", "4": "낙랑"}, "answers": [4], "explanation": ""}, {"id": 59, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 4, "question": "다음 중 조선시대 반지가 아닌 것은?", "choices": {"1": "감입비취반지", "2": "박쥐문양반지", "3": "국화문양반지", "4": "매화문양반지"}, "answers": [1], "explanation": ""}, {"id": 60, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 5, "question": "20C 예술의 특성으로 가장 거리가 먼 것은?", "choices": {"1": "정밀하고 자유로운 선", "2": "주관적 색채", "3": "입체파", "4": "기하학적 구성"}, "answers": [1], "explanation": ""}, {"id": 61, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 6, "question": "아트 앤드 크라프트(arts and crafts)에 대한 설명이 잘못된 것은?", "choices": {"1": "현대공예의 사조로 윌리암 모리스에 의해 시작 되었다.", "2": "기계를 이용한 생산에 적극적이다.", "3": "산업혁명 이후 19C에 영국에서 시작되었다.", "4": "예술과 기술의 결합으로 수공예에 영향을 주었다."}, "answers": [2], "explanation": ""}, {"id": 62, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 7, "question": "전통적 공예에서 소수계층을 위한 생활용품은?", "choices": {"1": "대중공예", "2": "산업공예", "3": "민속공예", "4": "귀족공예"}, "answers": [4], "explanation": ""}, {"id": 63, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 8, "question": "대상물과 동일화할 수 있는 범위까지 디자인의 특질을 갖도 록 간소화시키는 것은?", "choices": {"1": "구체화", "2": "시각화", "3": "양식화", "4": "구상화"}, "answers": [3], "explanation": ""}, {"id": 64, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 9, "question": "반지 디자인에 있어서 중요한 요소가 아닌 것은?", "choices": {"1": "형태", "2": "재질감", "3": "반사광", "4": "색채"}, "answers": [3], "explanation": ""}, {"id": 65, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 12, "question": "3가지 이상의 다른 보석을 사용하여 화려하게 꾸민 반지는?", "choices": {"1": "칵테일 반지", "2": "트윈반지", "3": "핑키반지", "4": "기념반지"}, "answers": [1], "explanation": ""}, {"id": 66, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "물품이 보이는 부분의 형상을 표시하는 선은?", "choices": {"1": "은선", "2": "실선", "3": "파선", "4": "중심선"}, "answers": [2], "explanation": ""}, {"id": 67, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 15, "question": "투시도법에서 시중심(CV)이란?", "choices": {"1": "물체를 보는 사람눈의 위치", "2": "화면과 지면이 만나는 선", "3": "지표면에서 수직으로 세운면", "4": "시점의 화면상의 위치"}, "answers": [4], "explanation": ""}, {"id": 68, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 16, "question": "다음 색 중 무채색에 속하는 색은?", "choices": {"1": "빨강", "2": "검정", "3": "주황", "4": "보라"}, "answers": [2], "explanation": ""}, {"id": 69, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "먼셀(Munsell)색체계에서 일반적으로 사용되는 색상환은?", "choices": {"1": "12색상", "2": "15색상", "3": "20색상", "4": "24색상"}, "answers": [3], "explanation": ""}, {"id": 70, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 18, "question": "먼셀기호 \"5Y 9/14\"의 올바른 설명은?", "choices": {"1": "명도가 5이다.", "2": "채도가 9이다.", "3": "색상이 14이다.", "4": "노랑색이다."}, "answers": [4], "explanation": ""}, {"id": 71, "date": "20030720", "subject": 1, "subject_name": "임의 구분", "question_no": 19, "question": "눈 주위에 있는 세포 중 무채색만을 지각할 수 있는 것은?", "choices": {"1": "간상체", "2": "추상체", "3": "수정체", "4": "홍채"}, "answers": [1], "explanation": ""}, {"id": 72, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 21, "question": "명도에 의한 배색 조화의 설명 중 가장 올바른 것은?", "choices": {"1": "고명도끼리의 배색 - 밝고 맑은 느낌", "2": "중명도끼리의 배색 - 어둡고 무거우나 수수함", "3": "저명도끼리의 배색 - 온화하고 순수함", "4": "명도차가 큰 배색 - 서늘하고 가라앉는 느낌"}, "answers": [1], "explanation": ""}, {"id": 73, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 22, "question": "색채 조화의 공통되는 원리에 관한 설명이 잘못된 것은?", "choices": {"1": "비 모호성의 원리는 두 색 이상의 배색이 명료하여야 한 다.", "2": "동류의 원리는 가까운 색채끼리의 배색이다.", "3": "대비의 원리는 상태와 속성이 서로 모호한 점을 가지고 반대적이어야 한다.", "4": "유사의 원리는 서로 공통되는 상태와 속성이 있어야 한 다."}, "answers": [3], "explanation": ""}, {"id": 74, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 23, "question": "보석의 특수한 광학효과와 보석명이 바르게 연결된 것은?", "choices": {"1": "성채효과 : 캐츠아이, 타이거아이", "2": "변채효과 : 오팔", "3": "유색효과 : 알렉산드라이트", "4": "아둘라레센스효과 : 월장석"}, "answers": [4], "explanation": ""}, {"id": 75, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 24, "question": "다음 중 지르콘의 연마 형태로 가장 적합한 것은?", "choices": {"1": "혼합형", "2": "에메럴드형", "3": "라운드 브릴리언트형", "4": "캐보션형"}, "answers": [3], "explanation": ""}, {"id": 76, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 25, "question": "보석연마의 한 형태인 큐벳(Cuvette)에 관한 설명 중 올바른 것은?", "choices": {"1": "중앙부분을 타원형으로 음각연마", "2": "거들 가장자리보다 위에서 양각조각", "3": "음각에 카메오의 디자인을 붙인 셰비의 변형", "4": "거들 가장자리보다 아래이며 음각조각"}, "answers": [3], "explanation": ""}, {"id": 77, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 26, "question": "다음 중 귀금속을 감별하기 위한 장비나 화학약품이 아닌 것은?", "choices": {"1": "질산과 왕수", "2": "붕사", "3": "시금봉", "4": "시금석"}, "answers": [2], "explanation": ""}, {"id": 78, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 27, "question": "금광석이나 사금에 수은(Hg)을 넣고 아말감을 만들어 증류 시켜 채취하는 방법은?", "choices": {"1": "청화법", "2": "도태법", "3": "혼용법", "4": "왕수법"}, "answers": [3], "explanation": ""}, {"id": 79, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 28, "question": "은의 적당한 곳에 질산을 한 방울 떨어뜨렸을 때의 반응으 로 올바른 것은?", "choices": {"1": "정은은 회색으로 변한다.", "2": "은도금 제품은 암청색으로 변한다.", "3": "니켈은은 밝은 회색으로 변한다.", "4": "순은은 검정색으로 변한다."}, "answers": [1], "explanation": ""}, {"id": 80, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 29, "question": "루비나 사파이어를 인조석과 식별할 때 가장 중요한 사항 은?", "choices": {"1": "경도", "2": "클리뷔지", "3": "투명도", "4": "인클루젼"}, "answers": [4], "explanation": ""}, {"id": 81, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 30, "question": "단사정계이며, 굴절률 1.655∼1.909, 비중 3.95 이며, 러시 아, 호주, 경남 울주 등지에서 산출되는 보석은?", "choices": {"1": "자수정", "2": "말라카이트", "3": "제이드", "4": "가닛"}, "answers": [2], "explanation": ""}, {"id": 82, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 31, "question": "다음 중 유기물 보석이 아닌 것은?", "choices": {"1": "베릴", "2": "퍼얼", "3": "코럴", "4": "앰버"}, "answers": [1], "explanation": ""}, {"id": 83, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 32, "question": "보석의 연마형태 중 캐보션(cabochon)의 종류가 아닌 것 은?", "choices": {"1": "역 캐보션(reverse cabochon)", "2": "렌틸 캐보션(lentil cabochon)", "3": "조각 캐보션(carved cabochon)", "4": "이중 캐보션(double cabochon)"}, "answers": [3], "explanation": ""}, {"id": 84, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 33, "question": "낮과 밤의 색(色)이 다르게 보이는 보석(寶石)은?", "choices": {"1": "오팔(Opal)", "2": "수정(Quartz)", "3": "알렉산드라이트(Alexandrite)", "4": "다이아몬드(Diamond)"}, "answers": [3], "explanation": ""}, {"id": 85, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 34, "question": "투어멀린(Tourmaline)은 몇월의 탄생석인가?", "choices": {"1": "12월", "2": "10월", "3": "8월", "4": "6월"}, "answers": [2], "explanation": ""}, {"id": 86, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 35, "question": "표준 라운드 브릴리언트의 패싯명칭이 아닌 것은?", "choices": {"1": "베젤(bezel)", "2": "로워 거들(lower girdle)", "3": "스타(star)", "4": "피트(pit)"}, "answers": [4], "explanation": ""}, {"id": 87, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 36, "question": "다음 중 구리(copper)의 특성으로 틀린 것은?", "choices": {"1": "비중은 8.96 이다.", "2": "열과 전기의 전도율이 은보다 좋다.", "3": "용융점은 1,083℃이다.", "4": "내식성과 전연성이 좋다."}, "answers": [2], "explanation": ""}, {"id": 88, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 37, "question": "다음 중 경금속(輕金屬)이 아닌 것은?", "choices": {"1": "마그네슘", "2": "베릴륨", "3": "알루미늄", "4": "니켈"}, "answers": [4], "explanation": ""}, {"id": 89, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 38, "question": "은(Ag)의 물리적 성질을 설명한 것 중 잘못된 것은?", "choices": {"1": "원자번호 : 47", "2": "면심입방격자", "3": "비중 : 8.49", "4": "용융점 : 960.5℃"}, "answers": [3], "explanation": ""}, {"id": 90, "date": "20030720", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 39, "question": "다음 중 귀금속(貴金屬)이 아닌 금속은?", "choices": {"1": "금(Au)", "2": "팔라듐(Pd)", "3": "니켈(Ni)", "4": "로듐(Rh)"}, "answers": [3], "explanation": ""}, {"id": 91, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 41, "question": "알콜에 잘 녹지 않고 가열하면 백색다공성의 물질로 땜을 접합부에 신속히 침투시키는 용제는?", "choices": {"1": "붕사", "2": "소다", "3": "아연", "4": "산화크롬"}, "answers": [1], "explanation": ""}, {"id": 92, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "금속용해시에 쓰이는 용제의 역할에 대한 설명 중 맞는 것 은?", "choices": {"1": "피막형성, 산화방지 및 온도보전", "2": "온도상승, 산화촉진 및 피막형성", "3": "피막제거, 산화저하 및 온도저하", "4": "피막보존, 산화촉진 및 온도상승"}, "answers": [1], "explanation": ""}, {"id": 93, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "땜이 끝난 일감을 붕사막과 산화막을 벗겨내기 위해 황산액 에 넣을 때 사용되는 핀셋의 재질로 알맞는 것은?", "choices": {"1": "구리", "2": "신주", "3": "전기동", "4": "스텐레스"}, "answers": [4], "explanation": ""}, {"id": 94, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 44, "question": "다음 중 물체의 길이, 지름, 두께, 깊이를 측정하는 기구는?", "choices": {"1": "마이크로 미터(Micro meter)", "2": "와이어 게이지(Wire gage)", "3": "서피스 게이지(Surface gage)", "4": "버니어 캘리퍼스(Vernier calipers)"}, "answers": [4], "explanation": ""}, {"id": 95, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 45, "question": "귀금속가공에서 많이 쓰이는 실톱날(No.0.2)의 경우 날의 두께(mm), 날의 높이(mm), 날의 갯수를 옳게 적은 것은?", "choices": {"1": "0.20, 0.40, 26개", "2": "0.26, 0.52, 21개", "3": "0.34, 0.71, 17개", "4": "0.44, 0.96, 12개"}, "answers": [2], "explanation": ""}, {"id": 96, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 46, "question": "금긋기 작업을 할 때 주의사항 중 틀린 것은?", "choices": {"1": "선을 한번에 선명하게 긋는다.", "2": "바늘끝이 직선자에서 떨어지지 않도록 한다.", "3": "선의 굵기는 굵을수록 좋다.", "4": "선이 여러개 생기지 않도록 한다."}, "answers": [3], "explanation": ""}, {"id": 97, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "금속의 열풀림(Annealing) 중 항온냉각에 대한 설명으로 올 바른 것은?", "choices": {"1": "열풀림한 금속을 공기 중에서 냉각시키는 방법", "2": "열풀림한 금속을 기름에 넣어 냉각시키는 방법", "3": "열풀림한 금속을 찬물에 넣어 냉각시키는 방법", "4": "열풀림한 금속을 가열로 안에서 천천히 냉각시키는 방법"}, "answers": [4], "explanation": ""}, {"id": 98, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 48, "question": "현 중량이 18.75㎏인 K18을 K14의 합금으로 만들기 위해서 는 몇g의 합금(Alloy)이 필요한가?", "choices": {"1": "5.26g", "2": "5.36g", "3": "5.48g", "4": "5.52g"}, "answers": [2], "explanation": ""}, {"id": 99, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 49, "question": "다음 중 합금의 공통된 성질은?", "choices": {"1": "강도와 경도를 감소시킨다.", "2": "주조성, 내열 및 내산성이 낮아진다.", "3": "용융점이 높아지고, 전기 저항이 낮아진다.", "4": "색이 아름다워지고, 단일금속보다 대체로 우수한 성질이"}, "answers": [4], "explanation": ""}, {"id": 100, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 50, "question": "다음 중 단조(forging)기법이 아닌 것은?", "choices": {"1": "노멀리징(normalizing)", "2": "벤딩(bending)", "3": "업세팅(up-setting)", "4": "세팅다운(setting down)"}, "answers": [1], "explanation": ""}, {"id": 101, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "면상감 작업과정 설명 중 잘못된 것은?", "choices": {"1": "형태의 윤곽을 면상감으로 파낸다.", "2": "면의 중간 중간에 길을 내주듯이 선을 파준다.", "3": "중앙의 면을 차례차례 모두 밀어낸다.", "4": "바닥면의 전체에 흠집을 가로 세로로 내준다."}, "answers": [1], "explanation": ""}, {"id": 102, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "산소는 공기속에 21% 존재한다. 비중은 1.105로 공기보다 약간 무겁다. 액체 산소의 색깔은?", "choices": {"1": "연노랑", "2": "연적색", "3": "연주황", "4": "연청색"}, "answers": [4], "explanation": ""}, {"id": 103, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "덴탈와이어(Dental Wire)의 설명 중 올바른 것은?", "choices": {"1": "땜납을 말하며 원소기호는 Pb이다.", "2": "땜납을 말하며 금, 은, 납이 있다.", "3": "연선이며 일감을 잡아매어 마무리하는 선이다.", "4": "높은 고열에서 잘 견디며, 유연성이 좋은 땜용 철사이다."}, "answers": [4], "explanation": ""}, {"id": 104, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "매몰재 파우더의 양은 플라스크 용적(容積)의 몇 배가 적당 한가?", "choices": {"1": "1.5배", "2": "2배", "3": "2.5배", "4": "3배"}, "answers": [1], "explanation": ""}, {"id": 105, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 55, "question": "다음 일반적인 주조용 왁스의 특성 중 틀린 것은?", "choices": {"1": "수축과 팽창이 원활하다.", "2": "주형과 잘 분리될 수 있다.", "3": "60℃정도에서 저온도 조작이 가능하다.", "4": "69∼80℃정도의 낮은 용해 온도이다."}, "answers": [1], "explanation": ""}, {"id": 106, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 56, "question": "정밀주조작업에서 왁스(wax) 물줄기 붙이기를 할 때, 다음 중 가장 적합하지 않은 것은?", "choices": {"1": "물줄기를 정교한 일감에 붙일 때는 가급적 잘 움직일 수 있도록 일부분만 붙여준다.", "2": "일감과 물줄기를 붙일 때는 예각이 생기지 않도록 한다.", "3": "물줄기는 디자인이 단순한 곳에 붙이는 것이 좋다.", "4": "주형접시는 미리 저울에 달아 기록해 두고, 물줄기는 일 감보다 고무받침(Rubber Base)에 먼저 붙여준다."}, "answers": [1], "explanation": ""}, {"id": 107, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "감별하고자 하는 은의 적당한 곳을 줄로 약간 갈아서 이 때 생기는 가루에 질산을 한 방울 떨어 뜨리면 은도금 제품이 나 니켈은(nikel silver)은 어떤 색으로 변하는가?", "choices": {"1": "회색", "2": "백색", "3": "녹색", "4": "황색"}, "answers": [3], "explanation": ""}, {"id": 108, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 58, "question": "장신구 제품을 초음파 세척할 때 물의 온도는 몇도가 적당 한가?", "choices": {"1": "약 30 ∼ 40℃", "2": "약 40 ∼ 50℃", "3": "약 60 ∼ 70℃", "4": "약 90 ∼ 100℃"}, "answers": [3], "explanation": ""}, {"id": 109, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "귀금속가공에 수반되는 안전에 관한 사항 중 잘못된 것은?", "choices": {"1": "희석 황산을 만들 때 물10:황산1의 비율로 한다.", "2": "보밍 작업시 밀폐된 공간에서 작업을 하지 않는다.", "3": "귀금속가공 작업시 산소 용기의 압력은 보통 10기압으로 한다.", "4": "원심주조 작업시 뚜껑을 잘 닫은 후 팔을 회전시킨다."}, "answers": [3], "explanation": ""}, {"id": 110, "date": "20030720", "subject": 3, "subject_name": "임의 구분", "question_no": 60, "question": "작업장의 위험요소와 작업자 사이에 위치하여 작업자를 보 호하는 장치로 가장 적합한 것은?", "choices": {"1": "환기(ventilation)", "2": "여과(filteration)", "3": "방벽(barriers)", "4": "대체물(substitutes)"}, "answers": [3], "explanation": ""}, {"id": 111, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "구석기 시대 장신구의 재료가 아닌 것은?", "choices": {"1": "돌", "2": "골각", "3": "패각", "4": "금"}, "answers": [4], "explanation": ""}, {"id": 112, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 2, "question": "금속공예의 특징 중 이 시대에 제작된 귀걸이는 순금제가 없 고 청동에 도금한 것 뿐인데 세환식에 간단한 삼각뿔 모양의 장식이 달린 것 만이 알려져 있다. 어느 시대를 말하는가?", "choices": {"1": "고구려", "2": "신라", "3": "백제", "4": "고려"}, "answers": [1], "explanation": ""}, {"id": 113, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 3, "question": "과대에 늘어뜨리는 장식물은?", "choices": {"1": "복두", "2": "사모", "3": "노리개", "4": "요패"}, "answers": [4], "explanation": ""}, {"id": 114, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 4, "question": "조선시대의 공예미와 가장 거리가 먼 것은?", "choices": {"1": "평민적인 멋", "2": "귀족적이고 간결한 멋", "3": "소박하고 온화한 멋", "4": "생활도구에 집착한 멋"}, "answers": [2], "explanation": ""}, {"id": 115, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 5, "question": "다음 내용은 어느 시대의 금속공예 특징인가?", "choices": {"1": "초기크리스트교", "2": "비잔틴", "3": "로마네스크", "4": "고딕"}, "answers": [3], "explanation": ""}, {"id": 116, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 6, "question": "신미술 운동으로 양식적 특색은 자연물의 유기적 형태로부터 모티브를 찾아 비대칭적이고 생동적이며 곡선적인 것은?", "choices": {"1": "아르누보", "2": "아르데코", "3": "로코코", "4": "신조형주의 운동"}, "answers": [1], "explanation": ""}, {"id": 117, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 7, "question": "미국에서 가장 유명한 아르누보 양식의 유리, 금속, 보석디자 이너이며, 스테인드글라스 창문과 보석 조명기구를 제작하였 다. 1900년에는 티파니 스튜디오를 개설하였다. 관계 있는 것은?", "choices": {"1": "구스타프 클림트(Gustav Klmit)", "2": "오호바그너(Otto Wagner)", "3": "루이스컴포트 티파니(Louis Comfort Tiffany)", "4": "사무엘 빙(Samuel Bing)"}, "answers": [3], "explanation": ""}, {"id": 118, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 8, "question": "동양에서 발달한 표현장식 기법으로 금속의 표면을 파내어 다른 금속을 끼워 넣는 기법은?", "choices": {"1": "조금(彫金)", "2": "상감", "3": "낱알기법", "4": "부식"}, "answers": [2], "explanation": ""}, {"id": 119, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 9, "question": "다음 중 디자인의 조건에 해당되지 않는 것은?", "choices": {"1": "합목적성", "2": "심미성", "3": "경제성", "4": "모방성"}, "answers": [4], "explanation": ""}, {"id": 120, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 12, "question": "둘 이상의 요소 또는 부분의 상호 관련성에 의해 아름답게 되는 상태는?", "choices": {"1": "조화", "2": "균형", "3": "대비", "4": "통일"}, "answers": [1], "explanation": ""}, {"id": 121, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "시각화하는 과정에서 렌더링의 목적은?", "choices": {"1": "기획, 구성하는 데 필요", "2": "제작전에 스타일 검토와 디자인 결정의 참고자료", "3": "재료에 대한 연구", "4": "제작기법에 관한 연구"}, "answers": [2], "explanation": ""}, {"id": 122, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 14, "question": "다음 척도에 관한 내용이 올바른 것은?", "choices": {"1": "축척 : 2/1", "2": "배척 : 1/5", "3": "현척 : N.S", "4": "실척 : 1/1"}, "answers": [4], "explanation": ""}, {"id": 123, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 15, "question": "일반적인 제도에 쓰이는 투상법으로 입체를 평행한 시선으 로 평면에 투상시키는 방법은?", "choices": {"1": "정투상", "2": "사투상", "3": "투시투상", "4": "곡면투상"}, "answers": [1], "explanation": ""}, {"id": 124, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 16, "question": "다음 설명 중 잘못된 것은?", "choices": {"1": "3점 투시도에 의한 입방체 표현 방법은 건축, 공예디자 인, 쥬얼리 디자인 등에서 사용되고 있다.", "2": "가로수 같이 하나의 소점 밖에 갖지 않는 경우의 투시를 1점 투시 혹은 성각 투시라고 한다.", "3": "투시도법은 주로 소실점의 수에 의해 1점, 2점, 3점 투 시의 3종으로 분류된다.", "4": "3개의 소점에 의해 그려지는 투시도를 3점투시 혹은 조 감도법이라고 한다."}, "answers": [2], "explanation": ""}, {"id": 125, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "파랑색에 흰색을 섞으면 파랑색은 어떻게 변하는가?", "choices": {"1": "명도는 낮아지고 채도는 높아진다.", "2": "명도는 높아지고 채도는 낮아진다.", "3": "명도는 높아지고 채도도 높아진다.", "4": "명도는 낮아지고 채도도 낮아진다."}, "answers": [2], "explanation": ""}, {"id": 126, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 18, "question": "중간 혼합에 대한 설명 중 틀린 것은?", "choices": {"1": "병치혼합, 회전혼합이 있다.", "2": "병치혼합은 점묘법과 같으며, 직물에서도 느낄 수 있다.", "3": "두 색을 적절히 혼합한 것을 말한다.", "4": "회전혼합은 물체색이 반사하는 반사광이 혼합되는 것이 다."}, "answers": [3], "explanation": ""}, {"id": 127, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 19, "question": "면적에 따른 색의 대비효과에 관한 설명 중 맞는 것은? (단, 동일 색일 경우)", "choices": {"1": "면적이 작은 것이 밝게 보인다.", "2": "면적이 큰 것이나 작은 것 모두 같다.", "3": "색 대비 효과는 일어나지 않는다.", "4": "면적이 큰 것이 밝고 선명하며, 면적이 작은 것이 어둡 고 흐리게 보인다."}, "answers": [4], "explanation": ""}, {"id": 128, "date": "20040718", "subject": 1, "subject_name": "임의 구분", "question_no": 20, "question": "다음 색 중 고귀, 엄숙, 신앙심을 연상시키는 색은?", "choices": {"1": "녹색", "2": "빨강", "3": "보라", "4": "검정"}, "answers": [3], "explanation": ""}, {"id": 129, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 21, "question": "색의 감정적 효과에서 중량감에 가장 큰 영향을 미치는 것 은?", "choices": {"1": "채도", "2": "명도", "3": "색상", "4": "대비"}, "answers": [2], "explanation": ""}, {"id": 130, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 22, "question": "배색을 할 때의 유의할 점이 아닌 것은?", "choices": {"1": "사용하는 목적에 적합하도록 할 것", "2": "배색을 가급적 밝게 할 것", "3": "사용되는 재질과 형체를 고려하여 조화되도록 할 것", "4": "밝은 배색인지 어두운 배색인지를 미리 계획할 것"}, "answers": [2], "explanation": ""}, {"id": 131, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 23, "question": "광물에 대한 설명으로 해당되지 않는 것은?", "choices": {"1": "무기질", "2": "유기질", "3": "천연산", "4": "일정한 결정구조"}, "answers": [2], "explanation": ""}, {"id": 132, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 25, "question": "집시(gipsy)세팅작업의 또다른 명칭으로서 맞는 것은?", "choices": {"1": "퓨즈세팅(fuse setting)", "2": "채널세팅(channel setting)", "3": "베벨세팅(beveled setting)", "4": "다이아몬드세팅(diamond setting)"}, "answers": [3], "explanation": ""}, {"id": 133, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 27, "question": "다음 중 채널 셋팅에 관한 설명 중 올바른 것은?", "choices": {"1": "보석의 거들면은 광을 내지 않은 것이 좋다.", "2": "보석의 테이블 면과 레일의 상부면의 높이를 같게 하는 것이 좋다.", "3": "보석의 거들 두께가 되도록 얇은 것이 좋다.", "4": "보석의 테이블 면이 넓고 크라운 각도가 큰 것이 좋다."}, "answers": [2], "explanation": ""}, {"id": 134, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 28, "question": "다음 중 순도 85%의 은제품에 표시할 천분율 단위로 올바 른 각인은?", "choices": {"1": "85%", "2": "SIL85", "3": "850", "4": "85.0"}, "answers": [3], "explanation": ""}, {"id": 135, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 29, "question": "22K 금 합금 중 순금의 함량은 몇 % 인가?", "choices": {"1": "91.7", "2": "83.4", "3": "95.2", "4": "87.5"}, "answers": [1], "explanation": ""}, {"id": 136, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 30, "question": "루비나 사파이어를 인조석과 식별할 때 가장 중요한 사항 은?", "choices": {"1": "경도", "2": "클리뷔지", "3": "투명도", "4": "인클루젼"}, "answers": [4], "explanation": ""}, {"id": 137, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 31, "question": "다음 중 유기물(有機物)보석에 해당되는 것은?", "choices": {"1": "수정", "2": "다이아몬드", "3": "터키석", "4": "호박"}, "answers": [4], "explanation": ""}, {"id": 138, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 32, "question": "다음 보석 중 유기물 보석이 아닌 것은?", "choices": {"1": "앰버", "2": "제트", "3": "가닛", "4": "진주"}, "answers": [3], "explanation": ""}, {"id": 139, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 33, "question": "패셋 컷으로 연마 했을 때 가장 효과가 적은 것은?", "choices": {"1": "다이아몬드", "2": "에메랄드", "3": "호안석", "4": "아쿠아마린"}, "answers": [3], "explanation": ""}, {"id": 140, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 34, "question": "합성스피넬의 특성에 대한 설명 중 잘못된 것은?", "choices": {"1": "광학성 : SR. 강한 ADR", "2": "굴절율 : 1.627", "3": "비중 : 3.64(+0.02, -0.12)", "4": "조흔 : 백색"}, "answers": [2], "explanation": ""}, {"id": 141, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 35, "question": "보석의 브릴리언시(휘광)를 결정하는 가장 중요한 요소는?", "choices": {"1": "비율", "2": "굴절률", "3": "면의 연마", "4": "크기"}, "answers": [2], "explanation": ""}, {"id": 142, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 36, "question": "실용황동 중 7:3황동에 7~30%의 니켈을 합금한 것으로 은 (Ag)이 전혀 포함되지 않았으나 색깔, 성질은 은과 거의 흡 사하고, 부식저항이 크며, 식기, 가정용구, 악기 등에 많이 사용되는 금속은?", "choices": {"1": "톰백(tombac)", "2": "망간브론즈(manganese bronze)", "3": "저먼실버(German silver)", "4": "니켈브론즈(nickel bronze)"}, "answers": [3], "explanation": ""}, {"id": 143, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 37, "question": "조밀육방격자에 속하지 않는 금속은?", "choices": {"1": "카드뮴", "2": "마그네슘", "3": "아연", "4": "알루미늄"}, "answers": [4], "explanation": ""}, {"id": 144, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 38, "question": "백금은 4등급으로 분류되어 A등급은 물리적, B등급은 화학 적, C등급은 화학공업, D등급은 전기접점 등에 사용된다. 이와 같이 분류되는 기준은?", "choices": {"1": "연성", "2": "전성", "3": "비중", "4": "품위"}, "answers": [4], "explanation": ""}, {"id": 145, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 39, "question": "다음 금속 중 상온 상태에서 가장 빠른 색의 변화를 일으키 는 금속은?", "choices": {"1": "24K", "2": "은", "3": "백금", "4": "18K"}, "answers": [2], "explanation": ""}, {"id": 146, "date": "20040718", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 40, "question": "비금속으로 짝지어진 것은?", "choices": {"1": "산소, 수소 등", "2": "규소, 플루오르 등", "3": "구리, 납, 수은 등", "4": "철, 구리, 알루미늄 등"}, "answers": [1], "explanation": ""}, {"id": 147, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 41, "question": "귀금속 장신구류를 전해연마할 때 사용되는 전해액으로 적 당한 것은?", "choices": {"1": "탄산나트륨(Na CO )", "2": "질산(HNO ) 2 3 3", "3": "청산가리(NaCN)", "4": "염산(HCl)"}, "answers": [3], "explanation": ""}, {"id": 148, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "귀금속 분석시 건식법에 해당하는 것은?", "choices": {"1": "질산분석법", "2": "왕수법", "3": "황산분석법", "4": "용융법"}, "answers": [4], "explanation": ""}, {"id": 149, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "대개 염가인 물건에 이용되는 얇은 금 도금으로 보통 두께 가 0.15μ 이하의 것은?", "choices": {"1": "금장(金張)", "2": "순금 도금", "3": "금 합금 도금", "4": "플래시 금도금"}, "answers": [4], "explanation": ""}, {"id": 150, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 44, "question": "다음 중 마름질 작업에 주로 속하지 않는 것은?", "choices": {"1": "망치 사용법", "2": "금긋개 사용법", "3": "펀치, 컴퍼스 사용법", "4": "직선, 곡선가위 사용법"}, "answers": [1], "explanation": ""}, {"id": 151, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 45, "question": "다이스 작업시 절삭도중에 나사가 뜯기는 원인과 관계 없는 것은?", "choices": {"1": "다이스가 마모되어 절삭할 수 없을 때", "2": "소재의 지름이 너무 클 때", "3": "절삭제를 쓰지 않았을 때", "4": "역회전 시키며 계속 절삭할 때"}, "answers": [4], "explanation": ""}, {"id": 152, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 46, "question": "줄눈의 상목과 하목이 비스듬히 깎여 다듬질 면이 곱고 절 삭 방향이 똑바르게 정리되는 줄질 방법은?", "choices": {"1": "직진법", "2": "사진법", "3": "병진법", "4": "횡진법"}, "answers": [1], "explanation": ""}, {"id": 153, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "가스용접시 토치불꽃 중에서 산화작용이 일어나지 않으며 금속표면에 침탄작용을 일으키는 백심(白心)의 불꽃은?", "choices": {"1": "매연", "2": "탄화불꽃", "3": "중성불꽃", "4": "산화불꽃"}, "answers": [2], "explanation": ""}, {"id": 154, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 49, "question": "백동(german silver)의 합금조성 비율이 옳은 것은?", "choices": {"1": "구리(45∼63%),아연(14∼35%),니켈(5∼35%)", "2": "구리(45∼63%),은(25∼35%),니켈(15∼35%)", "3": "구리(45∼63%),주석(15∼35%),니켈(5∼35%)", "4": "구리(45∼63%),아연(25∼35%),알루미늄(15∼35%)"}, "answers": [1], "explanation": ""}, {"id": 155, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 50, "question": "다음 중 돋아 올리기 기법이 아닌 것은?", "choices": {"1": "네덜란드식 올리기(dutch raising)", "2": "꺽어 올리기(angle raising)", "3": "크림핑(crimping)하여 올리기", "4": "거친다듬질(polishing)"}, "answers": [4], "explanation": ""}, {"id": 156, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "선상감 시, 상감된 선이 빠져나가지 않게 홈의 벽 밑면부분 (공간)의 단면을 어떠한 꼴로 만들어야 효과적인가?", "choices": {"1": "마름모형", "2": "직사각형", "3": "사다리꼴형", "4": "다이아몬드형"}, "answers": [3], "explanation": ""}, {"id": 157, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "산소용기(실린더)의 자체 무게는 약 70㎏이다. 이 때 충전되 는 산소의 무게는?", "choices": {"1": "8.4㎏", "2": "7.4㎏", "3": "6.4㎏", "4": "5.4㎏"}, "answers": [1], "explanation": ""}, {"id": 158, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "순은 제품이나 칠보기법에 사용되는 땜 중 가장 이상적인 것은?", "choices": {"1": "70% 은땜", "2": "80% 은땜", "3": "90% 은땜", "4": "제물땜"}, "answers": [4], "explanation": ""}, {"id": 159, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "정밀주조(Lost Wax Casting) 작업 과정 중, 고무주형을 전 기경화기에 넣어 경화시킬 때의 적합한 경화온도는?", "choices": {"1": "124℃", "2": "134℃", "3": "144℃", "4": "154℃"}, "answers": [4], "explanation": ""}, {"id": 160, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 55, "question": "주조반지에 대한 설명 중 잘못된 것은?", "choices": {"1": "대량으로 생산할 수 있다.", "2": "세공으로 제작된 반지에 비해 더욱 견고하다.", "3": "자유로운 형태로 제작할 수 있다.", "4": "생산비가 세공으로 제작된 반지에 비해 저렴하다."}, "answers": [2], "explanation": ""}, {"id": 161, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 56, "question": "정밀주조 작업에서 쇳물의 흐름이 좋은 일감의 이상적인 부 착각도는?", "choices": {"1": "15°", "2": "20°", "3": "30°", "4": "45°"}, "answers": [4], "explanation": ""}, {"id": 162, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "매몰시 매몰재 파우더와 물의 일반적인 배합비율은?", "choices": {"1": "100 : 80", "2": "100 : 60", "3": "100 : 40", "4": "100 : 20"}, "answers": [3], "explanation": ""}, {"id": 163, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 58, "question": "각종 연마재 및 광택재료를 순서별, 단계적으로 사용하여 연마하는 방법으로 매체(Media)를 이용하는 것이 특징인 것 은?", "choices": {"1": "전해연마", "2": "바렐연마", "3": "버프연마", "4": "스트리핑"}, "answers": [2], "explanation": ""}, {"id": 164, "date": "20040718", "subject": 3, "subject_name": "임의 구분", "question_no": 60, "question": "제품 표면의 산화 피막을 제거하기 위하여 묽은 황산을 만 들 경우 올바른 희석 방법은?", "choices": {"1": "상온의 물에 황산을 붓는다.", "2": "상온의 황산에 물을 붓는다.", "3": "황산과 물을 번갈아 붓는다.", "4": "차거운 황산에 물을 붓는다."}, "answers": [1], "explanation": ""}, {"id": 165, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 1, "question": "삼국시대 황금공예문화의 꽃인 신라금관의 출(出)자형 디자인 또는 뿔장식, 새의 깃털, 불꽃모양, 날개장식 등에 영향을 끼 친 것은?", "choices": {"1": "인도 - 갠지스 문명", "2": "중국 - 황하 문명", "3": "남방 - 태평양의 섬 문명", "4": "스키타이 - 습지, 유목 문명"}, "answers": [4], "explanation": ""}, {"id": 166, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 3, "question": "문·스펜서(Moon·Spencer)에 의해 발표된 색채조화론의 가장 큰 의의는?", "choices": {"1": "인간의 감성적 부분까지 연구", "2": "과학적 기초의 정량적인 이론", "3": "색표시의 완전한 방법을 수립", "4": "실용성 있는 순도 관계로 등분"}, "answers": [2], "explanation": ""}, {"id": 167, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 4, "question": "금속 표면에 문양을 파고 아말감을 바른 뒤 가열하여 수은은 태워 증발시키고, 문양 이외의 부분을 숫돌로 갈아내어 입사 하는 기법은?", "choices": {"1": "고육입사", "2": "소입사", "3": "눈금입사", "4": "흑금입사"}, "answers": [2], "explanation": ""}, {"id": 168, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 5, "question": "다음은 색에 대한 설명이다. 잘못된 것은?", "choices": {"1": "유리병속의 액체나 얼음 덩어리 처럼 3차원 공간의 투명 한 부피를 느끼는 색을 공간색이라 한다.", "2": "붉은 포도주, 검정색 안경 등 그 물체가 가지고 있는 것 처럼 보여지는 색을 물체색이라 한다.", "3": "물체색 중에서도 물체의 표면에서 반사하는 빛이 나타나 는 색을 투명면색으로 분류한다.", "4": "비누거품이나 전복껍질 등에서 무지개 같은 색이 나타나 는 것은 빛의 간섭에 의하여 나타나는 색으로 간섭색이라 한다."}, "answers": [3], "explanation": ""}, {"id": 169, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 6, "question": "면에 대한 설명 중 맞는 것은?", "choices": {"1": "면은 선의 궤적에 의하여 생긴다.", "2": "평면적인 형을 보통 형태(form)라 한다.", "3": "면과의 합성 또는 절단에 의한 면은 없다.", "4": "면의 유기적 형태는 주로 직선적으로 경직한 시각적 특성 이 있다."}, "answers": [1], "explanation": ""}, {"id": 170, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 8, "question": "다음 중 물체의 보이지 않는 부분을 표시하는 선은?", "choices": {"1": "은선", "2": "일점쇄선", "3": "실선", "4": "가는 실선"}, "answers": [1], "explanation": ""}, {"id": 171, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 9, "question": "A4 용지의 규격은?", "choices": {"1": "148 x 210 mm", "2": "210 x 297 mm", "3": "297 x 420 mm", "4": "420 x 594 mm"}, "answers": [2], "explanation": ""}, {"id": 172, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 10, "question": "다음 금제 장신구 중 낙랑시대의 것은?", "choices": {"1": "금제 교구", "2": "금령총 황금보관", "3": "금관총 황금보관", "4": "투각용봉문 금동관형"}, "answers": [1], "explanation": ""}, {"id": 173, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 11, "question": "19세기 말 프랑스 인상파의 영향을 받아 주로 독일과 오스 트리아를 무대로 일어난 반(反)아카데미 미술 운동의 방향 은?", "choices": {"1": "바우하우스", "2": "미술공예운동", "3": "세세션", "4": "문예부흥운동"}, "answers": [3], "explanation": ""}, {"id": 174, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 12, "question": "다음 중 정오각형을 기본으로 하는 다면체는?", "choices": {"1": "정사면체", "2": "정팔면체", "3": "정십이면체", "4": "정이십면체"}, "answers": [3], "explanation": ""}, {"id": 175, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 13, "question": "점묘파 화가인 쇠라와 시냑 등이 사용한 혼합법은?", "choices": {"1": "감법혼합", "2": "병치혼합", "3": "회전혼합", "4": "가법혼합"}, "answers": [2], "explanation": ""}, {"id": 176, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 14, "question": "다음 중 공예(민예)미의 본질과 가장 거리가 먼 것은?", "choices": {"1": "실용성", "2": "공유성", "3": "희소성", "4": "다량성"}, "answers": [3], "explanation": ""}, {"id": 177, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 15, "question": "무채색 끼리의 대비 현상은?", "choices": {"1": "명도대비", "2": "색상대비", "3": "채도대비", "4": "보색대비"}, "answers": [1], "explanation": ""}, {"id": 178, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 16, "question": "다음 중 복면투상(double plane projection)에 해당되는 것 은?", "choices": {"1": "중심투상(central pro.)", "2": "사투상(oblique pro.)", "3": "투시투상(perspective pro.)", "4": "정투상(orthogonal pro.)"}, "answers": [4], "explanation": ""}, {"id": 179, "date": "20050717", "subject": 1, "subject_name": "임의 구분", "question_no": 17, "question": "다음 내용은 어느 시대 금속 공예의 특징인가?", "choices": {"1": "고구려", "2": "신라", "3": "고려", "4": "조선"}, "answers": [3], "explanation": ""}, {"id": 181, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 21, "question": "우리 눈의 세부기관 중 무채색 또는 중성색, 즉 검정, 흰색, 회색만을 지각할 수 있는 것은?", "choices": {"1": "추상체", "2": "간상체", "3": "수정체", "4": "홍채"}, "answers": [2], "explanation": ""}, {"id": 182, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 22, "question": "다음 중 우연의 효과를 이용한 것이 아닌 것은?", "choices": {"1": "불기", "2": "떨구기", "3": "번지기", "4": "찍기"}, "answers": [4], "explanation": ""}, {"id": 183, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 23, "question": "다음 중 2색성이 나타나는 보석은?", "choices": {"1": "사방정계", "2": "정방정계", "3": "등축정계", "4": "비결정계"}, "answers": [2], "explanation": ""}, {"id": 184, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 24, "question": "단순하고 심플한 캐보션 보석에 가장 적합한 난집 형태는?", "choices": {"1": "이중테 난집", "2": "멜레 난집", "3": "파이프 난집", "4": "조각 난집"}, "answers": [1], "explanation": ""}, {"id": 185, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 26, "question": "다음 특수효과 중 빛의 반사에 의해 나타나는 현상이 아닌 것은?", "choices": {"1": "성채효과", "2": "샤토안시효과", "3": "아벤츄레센스효과", "4": "변색효과"}, "answers": [4], "explanation": ""}, {"id": 186, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 27, "question": "칼세도니의 변종에 속하지 않는 것은?", "choices": {"1": "카닐리언", "2": "사드", "3": "아게이트", "4": "스모키"}, "answers": [4], "explanation": ""}, {"id": 187, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 28, "question": "다음 중 유기물 보석으로만 모아진 것은?", "choices": {"1": "호박, 산호, 진주", "2": "다이아몬드, 터키석, 수정", "3": "진주, 호박, 수정", "4": "호박, 산호, 사파이어"}, "answers": [1], "explanation": ""}, {"id": 188, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 29, "question": "인탈리오(intalio), 셰비(chevee), 큐벳(cuvette) 등은 다음 중 어느 기법인가?", "choices": {"1": "귀금속판 돋아올리기", "2": "귀금속 구슬모아 용접하기", "3": "보석구슬 구멍뚫기", "4": "보석표면 조각하기"}, "answers": [4], "explanation": ""}, {"id": 189, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 30, "question": "다음 중 75%의 순금이 포함된 합금은?", "choices": {"1": "24k", "2": "22k", "3": "18k", "4": "14k"}, "answers": [3], "explanation": ""}, {"id": 190, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 31, "question": "시금석(Testing Stone)에 의한 감별에서, 18K 이하일 때와 이상일 때 사용하는 화공약품은?", "choices": {"1": "18K 이하 왕수, 18K 이상 질산", "2": "18K 이하 질산, 18K 이상 왕수", "3": "18K 이하 질산, 18K 이상 황산", "4": "18K 이하 왕수, 18K 이상 황산"}, "answers": [2], "explanation": ""}, {"id": 191, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 32, "question": "금의 정제 방법 중 광석을 미세한 가루로 만들어 물을 혼합 시켜서 진흙상태로 만든 후, 수은을 첨가하여 금을 채취하 는 방법은?", "choices": {"1": "아말감법", "2": "염화법", "3": "시안화법", "4": "왕수법"}, "answers": [1], "explanation": ""}, {"id": 192, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 33, "question": "광물 보석이 외부의 충격으로 일정한 방향성 없이 깨어지는 것은?", "choices": {"1": "벽개", "2": "분리", "3": "단구", "4": "인성"}, "answers": [3], "explanation": ""}, {"id": 193, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 34, "question": "형의 모든 면이 거들 가장자리와 평행하는 사각형으로 구성 되어 있는 것이 특징이며, 각 면이 보통계단의 단계와 비슷 한 줄 또는 층으로 배열되어 있는 컷의 명칭은?", "choices": {"1": "스텝 컷", "2": "혼합 컷", "3": "브릴리언트 컷", "4": "올드마인 컷"}, "answers": [1], "explanation": ""}, {"id": 194, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 35, "question": "다이아몬드의 잘 연마된 면에서 나는 광택과 같은 것으로 평평하게 연마한 다이아몬드 표면에 닿은 광선의 약 30%가 반사하는 정도의 광택 명칭은?", "choices": {"1": "금속성 광택", "2": "유리광택", "3": "수지광택", "4": "금강광택"}, "answers": [4], "explanation": ""}, {"id": 195, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 36, "question": "카스트너법에 의해 만들어 지며 결정구조는 입방정계 구조, 식염형 구조로 무색이며 융점 563.7, 비점 1496, 비중 1.857의 약품은?", "choices": {"1": "질산", "2": "염산", "3": "시안화나트륨", "4": "황산"}, "answers": [3], "explanation": ""}, {"id": 196, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 37, "question": "금속의 열처리 과정에서 담금질한 금속에 질긴 인성을 부여 하는 것은?", "choices": {"1": "Quenching", "2": "Tempering", "3": "Forging", "4": "Stretching"}, "answers": [2], "explanation": ""}, {"id": 197, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 38, "question": "가스 용기의 색과 가연성 가스인 것끼리 바르게 연결된 것 은?", "choices": {"1": "수소-회색", "2": "아세틸렌-청색", "3": "암모니아-백색", "4": "아르곤-갈색"}, "answers": [3], "explanation": ""}, {"id": 198, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 39, "question": "다음 중 귀금속가공의 사용되는 펀치의 종류가 아닌 것은?", "choices": {"1": "금긋기선상에 찍는 펀치(Rule point punch)", "2": "센터 펀치(Center punch)", "3": "자동 펀치(Auto marking punch)", "4": "선단펀치(Shealing cutter edge punch)"}, "answers": [4], "explanation": ""}, {"id": 199, "date": "20050717", "subject": 2, "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및", "question_no": 40, "question": "나사를 만들때 다이스 작업에서 절삭도중에 나사가 뜯기는 경우가 아닌 것은?", "choices": {"1": "다이스가 마모되어 절삭할 수 없을 때", "2": "소재의 지름이 작을 때", "3": "다이스날이 빠져 있을 때", "4": "역회전 시키지 않고 계속 절삭할 때"}, "answers": [2], "explanation": ""}, {"id": 200, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 41, "question": "접합하려는 두 금속의 부재 즉,모재의 접합부를 국부적으로 가열, 용융시키고 이것에 제 3의 금속을 첨가해서 접합되는 용접 방법은?", "choices": {"1": "압접", "2": "융접", "3": "납땜", "4": "가열맞춤"}, "answers": [2], "explanation": ""}, {"id": 201, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 42, "question": "다음 중 전성과 연성이 좋은 면심입방격자에 속하는 금속 은?", "choices": {"1": "금, 은, 구리", "2": "크롬, 몰리브덴", "3": "백금, 아연", "4": "카드늄, 코발트"}, "answers": [1], "explanation": ""}, {"id": 202, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 43, "question": "평균 근로자수가 200명인 직장에서 8명의 재해자가 발생했 다. 천인율은?", "choices": {"1": "40", "2": "16", "3": "4", "4": "1.6"}, "answers": [1], "explanation": ""}, {"id": 203, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 44, "question": "다음 중 비철금속에 속하지 않는 것은?", "choices": {"1": "구리, 납", "2": "금, 은", "3": "청동, 알루미늄", "4": "강철, 연철"}, "answers": [4], "explanation": ""}, {"id": 204, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 46, "question": "가스토치(blow - pipe torch)를 사용하여 용접할 때 역화 (back fire)현상이 일어나는 경우는?", "choices": {"1": "토치 내부가 막혀서 고압의 산소가 밖으로 배출되지 못 할 때", "2": "벤튜리와 노즐 끝과의 사이가 막혔을 때", "3": "토치가 너무 달구어졌을 때", "4": "팁이 막히거나 팁의 과열, 사용가스의 압력이 부적당 할 때"}, "answers": [4], "explanation": ""}, {"id": 205, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 47, "question": "감탕재료인 모델링 콤파운드를 설명한 것 중 틀린 것은?", "choices": {"1": "송진과 토분을 같은 비율로 섞은 것이다.", "2": "일감을 붙여서 미지근할때 작업을 한다.", "3": "용융온도는 100∼150℃이다.", "4": "가공은 100℃ 미만으로 한다."}, "answers": [2], "explanation": ""}, {"id": 206, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 48, "question": "적색 금을 검게 착색하여 오금을 만들 때 사용하는 가장 적 합한 약품은?", "choices": {"1": "유산동", "2": "산화동", "3": "질산동", "4": "염화금"}, "answers": [1], "explanation": ""}, {"id": 207, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 49, "question": "정밀주조작업에서 wax 물줄기 붙이기를 할 때 알맞은 방법 은?", "choices": {"1": "물줄기의 방향은 수직으로 모아지는 것이 좋다.", "2": "물줄기의 방향은 사방으로 분산되어지는 것이 좋다.", "3": "일감의 형태가 얇은 판일 경우 한 군데만 물줄기를 붙여 주는 것이 좋다.", "4": "일감을 매몰을 할 때 기포가 모이지 않도록 우묵한 부분 이 아래를 향해야 한다."}, "answers": [1], "explanation": ""}, {"id": 208, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 50, "question": "칠보작업시 유약의 분산 방지용 접착제로 사용하는 것은?", "choices": {"1": "밥풀", "2": "풀", "3": "CMC", "4": "CBC"}, "answers": [3], "explanation": ""}, {"id": 209, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 51, "question": "줄 눈금의 크기 표시 중 옳은 것은?", "choices": {"1": "1㎝에 대한 눈금의 수", "2": "1mm에 대한 눈금의 수", "3": "1인치에 대한 눈금의 수", "4": "줄의 폭에 대한 눈금의 수"}, "answers": [3], "explanation": ""}, {"id": 210, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 52, "question": "다음 중 합금이 아닌 것은?", "choices": {"1": "톰백", "2": "7.3 황동", "3": "6.4 황동", "4": "이리듐"}, "answers": [4], "explanation": ""}, {"id": 211, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 53, "question": "구리 95% + 아연 5%의 합금으로서 순동같이 연하고 주조 가 용이하며 화폐, 메달 등을 만드는 금속은?", "choices": {"1": "Deoxidized copper", "2": "Gilding metal", "3": "Electrolytic copper", "4": "Cartridge brass"}, "answers": [2], "explanation": ""}, {"id": 212, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 54, "question": "용접이음 기법의 일반적인 특징에 관한 설명 중 틀린 것은?", "choices": {"1": "재료가 절약된다.", "2": "작업 공정수가 증가된다.", "3": "제품의 성능과 수명이 향상된다.", "4": "이음효율이 높다."}, "answers": [2], "explanation": ""}, {"id": 213, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 55, "question": "다음 중 자유단조의 기본작업과 관련이 없는 것은?", "choices": {"1": "굽히기", "2": "늘리기", "3": "갈기", "4": "단짓기"}, "answers": [3], "explanation": ""}, {"id": 214, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 56, "question": "정밀주조 작업에서 원형모델의 크기는 모든 제작공정이 끝 난 완제품과 비교 했을 때 어떠한 비율로 제작하는 것이 가 장 적합한가?", "choices": {"1": "약 5% 크게", "2": "약 10% 크게", "3": "약 15% 크게", "4": "약 20% 크게"}, "answers": [2], "explanation": ""}, {"id": 215, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 57, "question": "비금속 재료에 광쇠질을 함으로써 얻을 수 있는 효과가 아 닌 것은?", "choices": {"1": "경도가 높아진다.", "2": "상처나 흠이 없어진다.", "3": "광택이 난다.", "4": "전성이 좋아진다."}, "answers": [4], "explanation": ""}, {"id": 216, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 58, "question": "다음 중 금 합금의 목적에 해당되지 않는 것은?", "choices": {"1": "연성이 좋아진다.", "2": "경도를 증가시킨다.", "3": "색상이 아름다워진다.", "4": "광택이 좋아진다."}, "answers": [1], "explanation": ""}, {"id": 217, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 59, "question": "금, 은 보다 가공이 비교적 어려운 고융점의 귀금속으로 내 열성 및 고저항에 우수하고, 공기 중에서 가열할 때 강한 불꽃으로 증발되는 수가 있으며, 가공성이 좋은 귀금속이다. 다이아몬드나 진주처럼 백색의 보석과 잘 어울리는 이 귀금 속은?", "choices": {"1": "백색금", "2": "은", "3": "백동", "4": "백금"}, "answers": [4], "explanation": ""}, {"id": 218, "date": "20050717", "subject": 3, "subject_name": "임의 구분", "question_no": 60, "question": "산처리를 위한 물과 황산의 혼합방법으로 옳은 것은?", "choices": {"1": "황산 원액에 물을 천천히 섞는다.", "2": "황산 원액을 끓인 후 물을 섞는다.", "3": "물에 황산 원액을 천천히 섞는다.", "4": "섞는 순서에 관계없이 천천히 섞는다."}, "answers": [3], "explanation": ""}]
+[
+  {
+    "id": 1,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "한국 고대 낙랑문화의 특징이 아닌 것은?",
+    "choices": {
+      "1": "귀족문화",
+      "2": "소박한 미술 성격",
+      "3": "토착적 요소 결여",
+      "4": "중국문화의 한반도 전래"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "소박한 미술 성격은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 2,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "삼국시대 장신구사에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "신라 금관에는 곡옥과 영락이 달려 있다.",
+      "2": "백제시대 장신구는 간결하고 아담한 미가 있다.",
+      "3": "고구려 시대의 것으로 뛰어난 금관이 현존한다.",
+      "4": "누금세공은 신라 이식에 잘 나타나 있다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "고구려 시대의 것으로 뛰어난 금관이 현존한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 3,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "다음 내용은 어느시대 금속 공예의 특징인가?",
+    "choices": {
+      "1": "고구려",
+      "2": "신라",
+      "3": "고려",
+      "4": "조선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '고려'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 4,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "전통장신구의 일종으로서 유소(流蘇)가 쓰이는 것은?",
+    "choices": {
+      "1": "비녀",
+      "2": "장도",
+      "3": "노리개",
+      "4": "첩지"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '노리개'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 5,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "신미술 운동으로 양식적 특색은 자연물의 유기적 형태로부터 모티브를 찾아 비대칭적이고 생동적이며 곡선적인 것은?",
+    "choices": {
+      "1": "아르누보",
+      "2": "아르데코",
+      "3": "로코코",
+      "4": "신조형주의 운동"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '아르누보'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 6,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "주조작업시 왁스 모델의 두께로 가장 알맞는 것은?",
+    "choices": {
+      "1": "0.3mm보다 얇지 않도록 한다.",
+      "2": "0.7mm보다 얇지 않도록 한다.",
+      "3": "1.0mm보다 얇지 않도록 한다.",
+      "4": "1.2mm보다 얇지 않도록 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '0.7mm보다 얇지 않도록 한다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 7,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "다음중 십장생에 들지 않는 것은?",
+    "choices": {
+      "1": "산",
+      "2": "거북",
+      "3": "학",
+      "4": "기린"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '기린'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 8,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "다음 중 디자인의 내용이 서로 적합하게 관련되지 않는 것 은?",
+    "choices": {
+      "1": "공업디자인 - 산업디자인",
+      "2": "그래픽디자인 - 시각디자인",
+      "3": "복식디자인 - 패션디자인",
+      "4": "인테리어디자인 - 건축설계 및 가구디자인"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '인테리어디자인 - 건축설계 및 가구디자인'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 9,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "양산에 의한 공예품 성격에 관한 내용 중 잘못된 것은?",
+    "choices": {
+      "1": "대중 생활내의 사용이 그 주체가 되는 것",
+      "2": "대량생산이 요구되는 것",
+      "3": "누구나 살수 있지만 가격은 싸지 않는 것",
+      "4": "누구나 쉽게 사용할 수 있는 것"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "누구나 살수 있지만 가격은 싸지 않는 것은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 10,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "다음 중 형태의 변화조건과 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "명암에 따라 달라진다.",
+      "2": "원근에 따라 달라진다.",
+      "3": "눈의 높이에 따라 달라진다.",
+      "4": "보는 방향에 따라 달라진다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '명암에 따라 달라진다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 11,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "디자인의 원리는 통일, 변화, 조화, 대비, 균형 등이다. 통일 을 강조하기 위한 수단에 속하지 않는 것은?",
+    "choices": {
+      "1": "집중",
+      "2": "단순",
+      "3": "종속",
+      "4": "대비"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '대비'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 12,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "기하학적 곡선이외의 어려운 곡선을 그릴 때 주로 사용되는 도구는?",
+    "choices": {
+      "1": "운형자",
+      "2": "분도기",
+      "3": "형판",
+      "4": "제도기"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '운형자'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 13,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "다음 척도에 관한 내용이 올바른 것은?",
+    "choices": {
+      "1": "축척 : 2/1",
+      "2": "배척 : 1/5",
+      "3": "현척 : N.S",
+      "4": "실척 : 1/1"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '실척 : 1/1'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 14,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "다음 각 부분의 도면 명칭이 번호순으로 바르게 배열된 것 은?",
+    "choices": {
+      "1": "평면도, 정면도, 우측면도, 배면도",
+      "2": "정면도, 배면도, 좌측면도, 저면도",
+      "3": "저면도, 배면도, 좌측면도, 정면도",
+      "4": "평면도, 배면도, 우측면도, 정면도"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '평면도, 배면도, 우측면도, 정면도'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 15,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "대상물에서 서로 직각으로 만나는 세 모서리를 좌표축으로 하여 투상도를 그리며, 입체의 형상을 한 투상도를 한개의 투상면에 그릴 수 있는 투상법은?",
+    "choices": {
+      "1": "정투상법",
+      "2": "축측투상법",
+      "3": "표고투상법",
+      "4": "투시투상법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '축측투상법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 16,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "2개 이상의 입체가 교차할 때 그 투상은?",
+    "choices": {
+      "1": "상관도",
+      "2": "전개도",
+      "3": "정투상도",
+      "4": "사투상도"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '상관도'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 17,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "투시도의 용어가 바르게 짝지어진 것은?",
+    "choices": {
+      "1": "H.L - 기선",
+      "2": "C.V - 시중심",
+      "3": "S.P - 화면",
+      "4": "P.P - 입점"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 'C.V - 시중심'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 18,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "전자파 중 우리 눈으로 지각할 수 있는 파장의 범위는?",
+    "choices": {
+      "1": "380 ∼ 780 nm",
+      "2": "400∼ 850 nm",
+      "3": "1200∼1500 nm",
+      "4": "320∼ 90 nm"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '380 ∼ 780 nm'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 19,
+    "date": "20020721",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "면적에 따른 색의 대비효과에 관한 설명 중 맞는 것은?(단, 동일 색일 경우)",
+    "choices": {
+      "1": "면적이 작은 것이 밝게 보인다.",
+      "2": "면적이 큰 것이나 작은 것 모두 같다.",
+      "3": "색 대비 효과는 일어나지 않는다.",
+      "4": "면적이 큰 것이 밝고 선명하며 면적이 작은 것이 어둡고 흐리게 보인다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '면적이 큰 것이 밝고 선명하며 면적이 작은 것이 어둡고 흐리게 보인다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 20,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 21,
+    "question": "같은 위치에 있으면서 더 가깝게 보이는 색을 진출색이라 하는데 다음 중 진출효과가 가장 적은 색은?",
+    "choices": {
+      "1": "빨강",
+      "2": "노랑",
+      "3": "남색",
+      "4": "주황"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '남색'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 21,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 22,
+    "question": "배색을 할 때의 유의할 점이 아닌 것은?",
+    "choices": {
+      "1": "사용하는 목적에 적합하도록 할 것",
+      "2": "배색을 가급적 밝게 할 것",
+      "3": "사용되는 재질과 형체를 고려하여 조화되도록 할 것",
+      "4": "밝은 배색인지 어두운 배색인지를 미리 계획할 것"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "배색을 가급적 밝게 할 것은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 22,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 23,
+    "question": "다이아몬드 유사품 중 천연 내포물을 가지고 있는 것은?",
+    "choices": {
+      "1": "Zircon",
+      "2": "YAG",
+      "3": "CZ",
+      "4": "G.G.G"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 'Zircon'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 23,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 24,
+    "question": "상부면의 곡면형태는 원석의 형태에 따라 높낮이 조절이 가 능하며, 하부면은 지면과 수평을 이루는 것으로서 가장 일 반적으로 사용되는 형태는?",
+    "choices": {
+      "1": "평 캐보션",
+      "2": "오목 캐보션",
+      "3": "이중 캐보션",
+      "4": "단순 캐보션"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '단순 캐보션'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 24,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 25,
+    "question": "지르콘을 브릴리언트로 연마할 때 이상적인 크라운면의 각 도는?",
+    "choices": {
+      "1": "35°",
+      "2": "37°",
+      "3": "40°",
+      "4": "43°"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '40°'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 25,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 26,
+    "question": "가닛의 연마에 관한 내용 중 틀린 것은?",
+    "choices": {
+      "1": "데만토이드 가닛은 브릴리언트컷 보다 에메랄드컷이 산 란도가 높다.",
+      "2": "반투명은 캐보션으로 연마한다.",
+      "3": "연마시 열을 주지 않도록 유의한다.",
+      "4": "파세팅에는 주석회전판을 쓰는 것이 좋다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "데만토이드 가닛은 브릴리언트컷 보다 에메랄드컷이 산 란도가 높다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 26,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 27,
+    "question": "난발 난물림의 특징이 아닌 것은?",
+    "choices": {
+      "1": "보석이 빠지지 않도록 지탱해 준다.",
+      "2": "투명한 보석의 경우 빛의 반사 효과가 있다.",
+      "3": "형태에 약간의 제약이 따른다.",
+      "4": "다이아몬드 등 고급보석이나 섬세한 디자인에 사용된다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "형태에 약간의 제약이 따른다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 27,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 29,
+    "question": "다음 중 분석을 건식법으로 하는 것이 가장 타당한 경우는?",
+    "choices": {
+      "1": "품위가 낮은 금만 있을 때",
+      "2": "품위가 낮은 은만 있을 때",
+      "3": "품위가 낮은 금, 동이 있을 때",
+      "4": "품위가 낮은 금, 은이 있을 때"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '품위가 낮은 은만 있을 때'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 28,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 30,
+    "question": "진주와 양식 진주의 식별법 중 가장 확실한 방법으로 물체 의 내부조직을 투과하여 생성과정 및 조직상태를 검증할 수 있는 것은?",
+    "choices": {
+      "1": "X - 선 형광법",
+      "2": "X - 선 산란법",
+      "3": "앤도 스코프 방법",
+      "4": "X - 방사선 사진법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 'X - 방사선 사진법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 29,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 31,
+    "question": "보석광상에 대한 가장 적절한 설명은?",
+    "choices": {
+      "1": "한 종류의 보석만이 포함되어도 된다.",
+      "2": "한종 또는 수종의 유용보석이 경제적으로 채굴가치가 있 어야 한다.",
+      "3": "경제적으로 가치가 없는 보석이라도 여러종류가 포함되 어야 한다.",
+      "4": "모든 광물로 구성된 암석이다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '한종 또는 수종의 유용보석이 경제적으로 채굴가치가 있 어야 한다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 30,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 32,
+    "question": "세개의 결정축은 서로 직각으로 만나며 이들의 평행인 단위 정(單位晶)의 가로, 세로, 높이의 길이가 같은 결정계는?",
+    "choices": {
+      "1": "단사정계(單斜晶系)",
+      "2": "정방정계(正方晶系)",
+      "3": "삼사정계(三斜晶系)",
+      "4": "등축정계(等軸晶系)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '등축정계(等軸晶系)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 31,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 33,
+    "question": "다음 중 육방정계의 결정구조를 가진 보석은?",
+    "choices": {
+      "1": "가닛",
+      "2": "스피넬",
+      "3": "사파이어",
+      "4": "다이아몬드"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '사파이어'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 32,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 34,
+    "question": "흑진주가 검게 보이는 이유로 타당한 것은?",
+    "choices": {
+      "1": "흑색소, 빛간섭",
+      "2": "적색소, 빛반사",
+      "3": "녹색소, 빛흡수",
+      "4": "자색소, 빛분산"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '흑색소, 빛간섭'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 33,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 35,
+    "question": "보석 중에서 다이아몬드의 브릴리언시가 높은 이유에 관한 설명이 잘못된 것은?",
+    "choices": {
+      "1": "산란도가 높아 빛의 분산률이 높으므로",
+      "2": "굴절률이 높고 임계각이 적으므로",
+      "3": "투명도가 높으므로",
+      "4": "경도가 높아 최상의 폴리싱이 가능하므로"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "산란도가 높아 빛의 분산률이 높으므로은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 34,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 36,
+    "question": "단조용 재료의 가열온도 측정 방법으로 가장 적당한 것은?",
+    "choices": {
+      "1": "재료에 온도계를 대고 알아본다.",
+      "2": "가열된 색을 보고 측정한다.",
+      "3": "연소된 열량으로 측정한다.",
+      "4": "가열시간으로 측정한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '가열된 색을 보고 측정한다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 35,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 38,
+    "question": "전성을 이용한 금속의 가공법은?",
+    "choices": {
+      "1": "주금",
+      "2": "조금",
+      "3": "단금",
+      "4": "투금"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '단금'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 36,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 39,
+    "question": "다음 백금의 특성 중 잘못된 것은?",
+    "choices": {
+      "1": "유황 금속염류에 침식된다.",
+      "2": "용융점이 1733.5℃이다.",
+      "3": "금보다 비교적 가공성이 좋다.",
+      "4": "쉽게 산화되지 않는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "금보다 비교적 가공성이 좋다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 37,
+    "date": "20020721",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 40,
+    "question": "다음 칠보공예에 관한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "분유칠보 : 불투명 유약을 구운 후 투명색을 발라 900℃ 이상에서 굽는다.",
+      "2": "흐림칠보 : 투명유약을 곱게 갈아서 물에 헹구지 않고 사용한다.",
+      "3": "투태칠보 : 색유리를 칠보유약과 혼합하여 굽는다.",
+      "4": "성태칠보 : 0.1mm 정도의 얇은 동판을 이용한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "투태칠보 : 색유리를 칠보유약과 혼합하여 굽는다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 38,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 41,
+    "question": "은땜(silver solder)의 구성 성분은?",
+    "choices": {
+      "1": "은 + 구리 + 아연",
+      "2": "은 + 주석 + 아연",
+      "3": "은 + 납 + 구리",
+      "4": "은 + 니켈 + 납"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '은 + 구리 + 아연'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 39,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "은(Ag)을 녹이는 왕수의 혼합비(질산:염산)는?",
+    "choices": {
+      "1": "1:1",
+      "2": "3:1",
+      "3": "1:2",
+      "4": "1:3"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '3:1'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 40,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "땜은 제작시 은의 성분이 많고 적음에 따라 나타나는 일반 적인 성질 중 잘못된 것은?",
+    "choices": {
+      "1": "은의 함량이 많으면 융점이 높고 내식성이 강해진다.",
+      "2": "은의 함량이 많으면 가공성이 좋아진다.",
+      "3": "은의 함량이 적으면 융점이 낮아 유동성이 좋아진다.",
+      "4": "은의 함량이 많으면 경도가 좋아진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "은의 함량이 많으면 경도가 좋아진다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 41,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "측정공구가 아닌 것은?",
+    "choices": {
+      "1": "마이크로미터",
+      "2": "버니어 캘리퍼스",
+      "3": "강철자",
+      "4": "실톱"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "실톱은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 42,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "신관 난물림(fuse setting)에 관한 설명 중 맞는 것은?",
+    "choices": {
+      "1": "몸체에 난집구멍을 뚫었을때 생긴 얇은 경사면 테두리가 이중테 같이 보석을 감싸는 방법",
+      "2": "사용되는 연마형은 캐보션형이 가장 많으나 간혹 패시트 형이 사용되기도 한다.",
+      "3": "신관난물림 방법은 난집이 수평이 된 상태에서 세팅할 수 있다.",
+      "4": "파이프 형태의 난집에 보석을 앉히고 테두리를 눌러 보 석을 감싸 난물림 하는 방법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '파이프 형태의 난집에 보석을 앉히고 테두리를 눌러 보 석을 감싸 난물림 하는 방법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 43,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "구리가 합금된 정은(92.5% 은)이나, 82%의 은에서 부분적 으로 가열하였다가, 식으면서 주름을 만들게 되는 기법의 명칭은?",
+    "choices": {
+      "1": "낱알기법",
+      "2": "망상조직기법",
+      "3": "목금기법",
+      "4": "입사기법"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '망상조직기법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 44,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "금 60%, 동 40%로 합금을 한다면 일반적으로 어떤 방법이 가장 바람직한가?",
+    "choices": {
+      "1": "두 금속다 촉매제를 사용하면 된다.",
+      "2": "동을 먼저 용해한 다음 금을 천천히 용해한다.",
+      "3": "금과 동은 동족이기 때문에 같이 용해해도 된다.",
+      "4": "금을 먼저 용해한 다음 동을 촉매제를 써서 용해된 금속 에 넣는다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '금을 먼저 용해한 다음 동을 촉매제를 써서 용해된 금속 에 넣는다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 45,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "다음 합금에 관한 기술 중 잘못된 것은?",
+    "choices": {
+      "1": "합금을 만들 때는 융점이 높은 금속을 먼저 용해한다.",
+      "2": "합금시 친화력이 크면 화합물을 만들고 약하면 고용체가 된다.",
+      "3": "비중과 융점의 차이가 작은 것끼리 서로 합금하여 차례 로 조성한다.",
+      "4": "모합금을 만들 때 합금 할 모든 금속을 한번에 같이 용 해 합금한다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "모합금을 만들 때 합금 할 모든 금속을 한번에 같이 용 해 합금한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 46,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "다음 중 면 상감할 때 잘 사용되지 않는 정은?",
+    "choices": {
+      "1": "평정",
+      "2": "골정",
+      "3": "방울정",
+      "4": "반원정"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '반원정'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 47,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "다음 중 자유단조의 기본작업과 관련이 없는 것은?",
+    "choices": {
+      "1": "굽히기",
+      "2": "늘리기",
+      "3": "갈기",
+      "4": "단짓기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '갈기'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 48,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "다음 중 은땜을 하는 과정이 잘못된 것은?",
+    "choices": {
+      "1": "붕사의 수용액을 사용한다.",
+      "2": "땜은을 가는 조각으로 잘라서 사용하는 것이 좋다.",
+      "3": "땜할 장소는 깨끗이 해야 하므로 닦아 놓는 것이 좋다.",
+      "4": "접합 부분은 땜은이 들어갈 수 있도록 조금 벌려놓는 것 이 좋다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "접합 부분은 땜은이 들어갈 수 있도록 조금 벌려놓는 것 이 좋다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 49,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "가스토치(blow - pipe torch)를 사용하여 용접할 때 역화 (back fire)현상이 일어나는 경우는?",
+    "choices": {
+      "1": "토치 내부가 막혀서 고압의 산소가 밖으로 배출되지 못 할 때",
+      "2": "벤튜리와 노즐 끝과의 사이가 막혔을 때",
+      "3": "토치가 너무 달구어졌을 때",
+      "4": "팁이 막히거나 팁의 과열, 사용가스의 압력이 부적당할 때"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '팁이 막히거나 팁의 과열, 사용가스의 압력이 부적당할 때'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 50,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "정밀주조 기법에서 고무를 경화시키는데 고무몰드 두께가 12mm일 경우 가장 적합한 가열 조건은?",
+    "choices": {
+      "1": "154℃로 30분",
+      "2": "135℃로 25분",
+      "3": "120℃로 20분",
+      "4": "114℃로 15분"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '154℃로 30분'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 51,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "정밀주조 작업에서 원형모델의 크기는 모든 제작공정이 끝 난 완제품과 비교 했을 때 어떠한 비율로 제작하는 것이 가 장 적합한가?",
+    "choices": {
+      "1": "약 5% 크게",
+      "2": "약 10% 크게",
+      "3": "약 15% 크게",
+      "4": "약 20% 크게"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '약 10% 크게'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 52,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "샌드페이퍼 스틱의 사용법에 속하지 않는 것은?",
+    "choices": {
+      "1": "직진법",
+      "2": "사진법",
+      "3": "좌우회전법",
+      "4": "횡진법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '좌우회전법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 53,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "연마의 마지막 단계로 표면의 광택제를 제거시키고 섬세한 광택을 내는데 사용되는 것은?",
+    "choices": {
+      "1": "모브러시",
+      "2": "고무버프",
+      "3": "울버프",
+      "4": "프란넬버프"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '울버프'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 54,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "산소병을 취급할 때의 주의 사항 중 잘못된 것은?",
+    "choices": {
+      "1": "산소병을 운반할 때는 밸브를 반드시 잠궈야 한다.",
+      "2": "산소병은 뉘어 놓는 것이 좋다.",
+      "3": "산소의 누설을 조사할 때는 비눗물을 사용한다.",
+      "4": "직사광선에 방치하거나 고온장소에서 작업하지 말아야 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "산소병은 뉘어 놓는 것이 좋다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 55,
+    "date": "20020721",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "일반안전에 관한 사항 중 틀린 것은?",
+    "choices": {
+      "1": "하인리히의 재해방지 기본원리는 도미노 이론이다.",
+      "2": "화재는 자연재해에 속한다.",
+      "3": "방사능의 표지는 노랑 바탕에 빨강색이다.",
+      "4": "가스 누설검사는 비눗물을 이용한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "화재는 자연재해에 속한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 56,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "선사시대 신체 장식의 의미가 가장 적은 것은?",
+    "choices": {
+      "1": "다른 종족과 구별하기 위한 수단",
+      "2": "부의 과시나 힘을 상징하는 신분의 상징",
+      "3": "아름다움을 추구하는 본능적 의미",
+      "4": "제식행사등의 의식을 위한 의미"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '아름다움을 추구하는 본능적 의미'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 57,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "신라시대에 발달된 귀걸이의 제작에 널리 사용되었던 대표적 인 제작 기법은?",
+    "choices": {
+      "1": "누금",
+      "2": "투각",
+      "3": "양감",
+      "4": "상감"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '누금'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 58,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "고려시대의 금속공예에 영향을 미친 나라가 아닌 것은?",
+    "choices": {
+      "1": "송",
+      "2": "원",
+      "3": "당",
+      "4": "낙랑"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "낙랑은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 59,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "다음 중 조선시대 반지가 아닌 것은?",
+    "choices": {
+      "1": "감입비취반지",
+      "2": "박쥐문양반지",
+      "3": "국화문양반지",
+      "4": "매화문양반지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "감입비취반지은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 60,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "20C 예술의 특성으로 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "정밀하고 자유로운 선",
+      "2": "주관적 색채",
+      "3": "입체파",
+      "4": "기하학적 구성"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '정밀하고 자유로운 선'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 61,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "아트 앤드 크라프트(arts and crafts)에 대한 설명이 잘못된 것은?",
+    "choices": {
+      "1": "현대공예의 사조로 윌리암 모리스에 의해 시작 되었다.",
+      "2": "기계를 이용한 생산에 적극적이다.",
+      "3": "산업혁명 이후 19C에 영국에서 시작되었다.",
+      "4": "예술과 기술의 결합으로 수공예에 영향을 주었다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "기계를 이용한 생산에 적극적이다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 62,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "전통적 공예에서 소수계층을 위한 생활용품은?",
+    "choices": {
+      "1": "대중공예",
+      "2": "산업공예",
+      "3": "민속공예",
+      "4": "귀족공예"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '귀족공예'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 63,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "대상물과 동일화할 수 있는 범위까지 디자인의 특질을 갖도 록 간소화시키는 것은?",
+    "choices": {
+      "1": "구체화",
+      "2": "시각화",
+      "3": "양식화",
+      "4": "구상화"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '양식화'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 64,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "반지 디자인에 있어서 중요한 요소가 아닌 것은?",
+    "choices": {
+      "1": "형태",
+      "2": "재질감",
+      "3": "반사광",
+      "4": "색채"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "반사광은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 65,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "3가지 이상의 다른 보석을 사용하여 화려하게 꾸민 반지는?",
+    "choices": {
+      "1": "칵테일 반지",
+      "2": "트윈반지",
+      "3": "핑키반지",
+      "4": "기념반지"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '칵테일 반지'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 66,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "물품이 보이는 부분의 형상을 표시하는 선은?",
+    "choices": {
+      "1": "은선",
+      "2": "실선",
+      "3": "파선",
+      "4": "중심선"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '실선'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 67,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "투시도법에서 시중심(CV)이란?",
+    "choices": {
+      "1": "물체를 보는 사람눈의 위치",
+      "2": "화면과 지면이 만나는 선",
+      "3": "지표면에서 수직으로 세운면",
+      "4": "시점의 화면상의 위치"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '시점의 화면상의 위치'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 68,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "다음 색 중 무채색에 속하는 색은?",
+    "choices": {
+      "1": "빨강",
+      "2": "검정",
+      "3": "주황",
+      "4": "보라"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '검정'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 69,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "먼셀(Munsell)색체계에서 일반적으로 사용되는 색상환은?",
+    "choices": {
+      "1": "12색상",
+      "2": "15색상",
+      "3": "20색상",
+      "4": "24색상"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '20색상'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 70,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "먼셀기호 \"5Y 9/14\"의 올바른 설명은?",
+    "choices": {
+      "1": "명도가 5이다.",
+      "2": "채도가 9이다.",
+      "3": "색상이 14이다.",
+      "4": "노랑색이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '노랑색이다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 71,
+    "date": "20030720",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 19,
+    "question": "눈 주위에 있는 세포 중 무채색만을 지각할 수 있는 것은?",
+    "choices": {
+      "1": "간상체",
+      "2": "추상체",
+      "3": "수정체",
+      "4": "홍채"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '간상체'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 72,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 21,
+    "question": "명도에 의한 배색 조화의 설명 중 가장 올바른 것은?",
+    "choices": {
+      "1": "고명도끼리의 배색 - 밝고 맑은 느낌",
+      "2": "중명도끼리의 배색 - 어둡고 무거우나 수수함",
+      "3": "저명도끼리의 배색 - 온화하고 순수함",
+      "4": "명도차가 큰 배색 - 서늘하고 가라앉는 느낌"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '고명도끼리의 배색 - 밝고 맑은 느낌'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 73,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 22,
+    "question": "색채 조화의 공통되는 원리에 관한 설명이 잘못된 것은?",
+    "choices": {
+      "1": "비 모호성의 원리는 두 색 이상의 배색이 명료하여야 한 다.",
+      "2": "동류의 원리는 가까운 색채끼리의 배색이다.",
+      "3": "대비의 원리는 상태와 속성이 서로 모호한 점을 가지고 반대적이어야 한다.",
+      "4": "유사의 원리는 서로 공통되는 상태와 속성이 있어야 한 다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "대비의 원리는 상태와 속성이 서로 모호한 점을 가지고 반대적이어야 한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 74,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 23,
+    "question": "보석의 특수한 광학효과와 보석명이 바르게 연결된 것은?",
+    "choices": {
+      "1": "성채효과 : 캐츠아이, 타이거아이",
+      "2": "변채효과 : 오팔",
+      "3": "유색효과 : 알렉산드라이트",
+      "4": "아둘라레센스효과 : 월장석"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '아둘라레센스효과 : 월장석'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 75,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 24,
+    "question": "다음 중 지르콘의 연마 형태로 가장 적합한 것은?",
+    "choices": {
+      "1": "혼합형",
+      "2": "에메럴드형",
+      "3": "라운드 브릴리언트형",
+      "4": "캐보션형"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '라운드 브릴리언트형'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 76,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 25,
+    "question": "보석연마의 한 형태인 큐벳(Cuvette)에 관한 설명 중 올바른 것은?",
+    "choices": {
+      "1": "중앙부분을 타원형으로 음각연마",
+      "2": "거들 가장자리보다 위에서 양각조각",
+      "3": "음각에 카메오의 디자인을 붙인 셰비의 변형",
+      "4": "거들 가장자리보다 아래이며 음각조각"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '음각에 카메오의 디자인을 붙인 셰비의 변형'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 77,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 26,
+    "question": "다음 중 귀금속을 감별하기 위한 장비나 화학약품이 아닌 것은?",
+    "choices": {
+      "1": "질산과 왕수",
+      "2": "붕사",
+      "3": "시금봉",
+      "4": "시금석"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "붕사은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 78,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 27,
+    "question": "금광석이나 사금에 수은(Hg)을 넣고 아말감을 만들어 증류 시켜 채취하는 방법은?",
+    "choices": {
+      "1": "청화법",
+      "2": "도태법",
+      "3": "혼용법",
+      "4": "왕수법"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '혼용법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 79,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 28,
+    "question": "은의 적당한 곳에 질산을 한 방울 떨어뜨렸을 때의 반응으 로 올바른 것은?",
+    "choices": {
+      "1": "정은은 회색으로 변한다.",
+      "2": "은도금 제품은 암청색으로 변한다.",
+      "3": "니켈은은 밝은 회색으로 변한다.",
+      "4": "순은은 검정색으로 변한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '정은은 회색으로 변한다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 80,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 29,
+    "question": "루비나 사파이어를 인조석과 식별할 때 가장 중요한 사항 은?",
+    "choices": {
+      "1": "경도",
+      "2": "클리뷔지",
+      "3": "투명도",
+      "4": "인클루젼"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '인클루젼'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 81,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 30,
+    "question": "단사정계이며, 굴절률 1.655∼1.909, 비중 3.95 이며, 러시 아, 호주, 경남 울주 등지에서 산출되는 보석은?",
+    "choices": {
+      "1": "자수정",
+      "2": "말라카이트",
+      "3": "제이드",
+      "4": "가닛"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '말라카이트'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 82,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 31,
+    "question": "다음 중 유기물 보석이 아닌 것은?",
+    "choices": {
+      "1": "베릴",
+      "2": "퍼얼",
+      "3": "코럴",
+      "4": "앰버"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "베릴은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 83,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 32,
+    "question": "보석의 연마형태 중 캐보션(cabochon)의 종류가 아닌 것 은?",
+    "choices": {
+      "1": "역 캐보션(reverse cabochon)",
+      "2": "렌틸 캐보션(lentil cabochon)",
+      "3": "조각 캐보션(carved cabochon)",
+      "4": "이중 캐보션(double cabochon)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "조각 캐보션(carved cabochon)은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 84,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 33,
+    "question": "낮과 밤의 색(色)이 다르게 보이는 보석(寶石)은?",
+    "choices": {
+      "1": "오팔(Opal)",
+      "2": "수정(Quartz)",
+      "3": "알렉산드라이트(Alexandrite)",
+      "4": "다이아몬드(Diamond)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '알렉산드라이트(Alexandrite)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 85,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 34,
+    "question": "투어멀린(Tourmaline)은 몇월의 탄생석인가?",
+    "choices": {
+      "1": "12월",
+      "2": "10월",
+      "3": "8월",
+      "4": "6월"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '10월'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 86,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 35,
+    "question": "표준 라운드 브릴리언트의 패싯명칭이 아닌 것은?",
+    "choices": {
+      "1": "베젤(bezel)",
+      "2": "로워 거들(lower girdle)",
+      "3": "스타(star)",
+      "4": "피트(pit)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "피트(pit)은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 87,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 36,
+    "question": "다음 중 구리(copper)의 특성으로 틀린 것은?",
+    "choices": {
+      "1": "비중은 8.96 이다.",
+      "2": "열과 전기의 전도율이 은보다 좋다.",
+      "3": "용융점은 1,083℃이다.",
+      "4": "내식성과 전연성이 좋다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "열과 전기의 전도율이 은보다 좋다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 88,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 37,
+    "question": "다음 중 경금속(輕金屬)이 아닌 것은?",
+    "choices": {
+      "1": "마그네슘",
+      "2": "베릴륨",
+      "3": "알루미늄",
+      "4": "니켈"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "니켈은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 89,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 38,
+    "question": "은(Ag)의 물리적 성질을 설명한 것 중 잘못된 것은?",
+    "choices": {
+      "1": "원자번호 : 47",
+      "2": "면심입방격자",
+      "3": "비중 : 8.49",
+      "4": "용융점 : 960.5℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "비중 : 8.49은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 90,
+    "date": "20030720",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 39,
+    "question": "다음 중 귀금속(貴金屬)이 아닌 금속은?",
+    "choices": {
+      "1": "금(Au)",
+      "2": "팔라듐(Pd)",
+      "3": "니켈(Ni)",
+      "4": "로듐(Rh)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '니켈(Ni)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 91,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 41,
+    "question": "알콜에 잘 녹지 않고 가열하면 백색다공성의 물질로 땜을 접합부에 신속히 침투시키는 용제는?",
+    "choices": {
+      "1": "붕사",
+      "2": "소다",
+      "3": "아연",
+      "4": "산화크롬"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '붕사'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 92,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "금속용해시에 쓰이는 용제의 역할에 대한 설명 중 맞는 것 은?",
+    "choices": {
+      "1": "피막형성, 산화방지 및 온도보전",
+      "2": "온도상승, 산화촉진 및 피막형성",
+      "3": "피막제거, 산화저하 및 온도저하",
+      "4": "피막보존, 산화촉진 및 온도상승"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '피막형성, 산화방지 및 온도보전'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 93,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "땜이 끝난 일감을 붕사막과 산화막을 벗겨내기 위해 황산액 에 넣을 때 사용되는 핀셋의 재질로 알맞는 것은?",
+    "choices": {
+      "1": "구리",
+      "2": "신주",
+      "3": "전기동",
+      "4": "스텐레스"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '스텐레스'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 94,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "다음 중 물체의 길이, 지름, 두께, 깊이를 측정하는 기구는?",
+    "choices": {
+      "1": "마이크로 미터(Micro meter)",
+      "2": "와이어 게이지(Wire gage)",
+      "3": "서피스 게이지(Surface gage)",
+      "4": "버니어 캘리퍼스(Vernier calipers)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '버니어 캘리퍼스(Vernier calipers)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 95,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "귀금속가공에서 많이 쓰이는 실톱날(No.0.2)의 경우 날의 두께(mm), 날의 높이(mm), 날의 갯수를 옳게 적은 것은?",
+    "choices": {
+      "1": "0.20, 0.40, 26개",
+      "2": "0.26, 0.52, 21개",
+      "3": "0.34, 0.71, 17개",
+      "4": "0.44, 0.96, 12개"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '0.26, 0.52, 21개'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 96,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "금긋기 작업을 할 때 주의사항 중 틀린 것은?",
+    "choices": {
+      "1": "선을 한번에 선명하게 긋는다.",
+      "2": "바늘끝이 직선자에서 떨어지지 않도록 한다.",
+      "3": "선의 굵기는 굵을수록 좋다.",
+      "4": "선이 여러개 생기지 않도록 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "선의 굵기는 굵을수록 좋다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 97,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "금속의 열풀림(Annealing) 중 항온냉각에 대한 설명으로 올 바른 것은?",
+    "choices": {
+      "1": "열풀림한 금속을 공기 중에서 냉각시키는 방법",
+      "2": "열풀림한 금속을 기름에 넣어 냉각시키는 방법",
+      "3": "열풀림한 금속을 찬물에 넣어 냉각시키는 방법",
+      "4": "열풀림한 금속을 가열로 안에서 천천히 냉각시키는 방법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '열풀림한 금속을 가열로 안에서 천천히 냉각시키는 방법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 98,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "현 중량이 18.75㎏인 K18을 K14의 합금으로 만들기 위해서 는 몇g의 합금(Alloy)이 필요한가?",
+    "choices": {
+      "1": "5.26g",
+      "2": "5.36g",
+      "3": "5.48g",
+      "4": "5.52g"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '5.36g'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 99,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "다음 중 합금의 공통된 성질은?",
+    "choices": {
+      "1": "강도와 경도를 감소시킨다.",
+      "2": "주조성, 내열 및 내산성이 낮아진다.",
+      "3": "용융점이 높아지고, 전기 저항이 낮아진다.",
+      "4": "색이 아름다워지고, 단일금속보다 대체로 우수한 성질이"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '색이 아름다워지고, 단일금속보다 대체로 우수한 성질이'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 100,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "다음 중 단조(forging)기법이 아닌 것은?",
+    "choices": {
+      "1": "노멀리징(normalizing)",
+      "2": "벤딩(bending)",
+      "3": "업세팅(up-setting)",
+      "4": "세팅다운(setting down)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "노멀리징(normalizing)은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 101,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "면상감 작업과정 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "형태의 윤곽을 면상감으로 파낸다.",
+      "2": "면의 중간 중간에 길을 내주듯이 선을 파준다.",
+      "3": "중앙의 면을 차례차례 모두 밀어낸다.",
+      "4": "바닥면의 전체에 흠집을 가로 세로로 내준다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "형태의 윤곽을 면상감으로 파낸다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 102,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "산소는 공기속에 21% 존재한다. 비중은 1.105로 공기보다 약간 무겁다. 액체 산소의 색깔은?",
+    "choices": {
+      "1": "연노랑",
+      "2": "연적색",
+      "3": "연주황",
+      "4": "연청색"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '연청색'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 103,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "덴탈와이어(Dental Wire)의 설명 중 올바른 것은?",
+    "choices": {
+      "1": "땜납을 말하며 원소기호는 Pb이다.",
+      "2": "땜납을 말하며 금, 은, 납이 있다.",
+      "3": "연선이며 일감을 잡아매어 마무리하는 선이다.",
+      "4": "높은 고열에서 잘 견디며, 유연성이 좋은 땜용 철사이다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '높은 고열에서 잘 견디며, 유연성이 좋은 땜용 철사이다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 104,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "매몰재 파우더의 양은 플라스크 용적(容積)의 몇 배가 적당 한가?",
+    "choices": {
+      "1": "1.5배",
+      "2": "2배",
+      "3": "2.5배",
+      "4": "3배"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '1.5배'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 105,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "다음 일반적인 주조용 왁스의 특성 중 틀린 것은?",
+    "choices": {
+      "1": "수축과 팽창이 원활하다.",
+      "2": "주형과 잘 분리될 수 있다.",
+      "3": "60℃정도에서 저온도 조작이 가능하다.",
+      "4": "69∼80℃정도의 낮은 용해 온도이다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "수축과 팽창이 원활하다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 106,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "정밀주조작업에서 왁스(wax) 물줄기 붙이기를 할 때, 다음 중 가장 적합하지 않은 것은?",
+    "choices": {
+      "1": "물줄기를 정교한 일감에 붙일 때는 가급적 잘 움직일 수 있도록 일부분만 붙여준다.",
+      "2": "일감과 물줄기를 붙일 때는 예각이 생기지 않도록 한다.",
+      "3": "물줄기는 디자인이 단순한 곳에 붙이는 것이 좋다.",
+      "4": "주형접시는 미리 저울에 달아 기록해 두고, 물줄기는 일 감보다 고무받침(Rubber Base)에 먼저 붙여준다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "물줄기를 정교한 일감에 붙일 때는 가급적 잘 움직일 수 있도록 일부분만 붙여준다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 107,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "감별하고자 하는 은의 적당한 곳을 줄로 약간 갈아서 이 때 생기는 가루에 질산을 한 방울 떨어 뜨리면 은도금 제품이 나 니켈은(nikel silver)은 어떤 색으로 변하는가?",
+    "choices": {
+      "1": "회색",
+      "2": "백색",
+      "3": "녹색",
+      "4": "황색"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '녹색'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 108,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "장신구 제품을 초음파 세척할 때 물의 온도는 몇도가 적당 한가?",
+    "choices": {
+      "1": "약 30 ∼ 40℃",
+      "2": "약 40 ∼ 50℃",
+      "3": "약 60 ∼ 70℃",
+      "4": "약 90 ∼ 100℃"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '약 60 ∼ 70℃'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 109,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "귀금속가공에 수반되는 안전에 관한 사항 중 잘못된 것은?",
+    "choices": {
+      "1": "희석 황산을 만들 때 물10:황산1의 비율로 한다.",
+      "2": "보밍 작업시 밀폐된 공간에서 작업을 하지 않는다.",
+      "3": "귀금속가공 작업시 산소 용기의 압력은 보통 10기압으로 한다.",
+      "4": "원심주조 작업시 뚜껑을 잘 닫은 후 팔을 회전시킨다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "귀금속가공 작업시 산소 용기의 압력은 보통 10기압으로 한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 110,
+    "date": "20030720",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "작업장의 위험요소와 작업자 사이에 위치하여 작업자를 보 호하는 장치로 가장 적합한 것은?",
+    "choices": {
+      "1": "환기(ventilation)",
+      "2": "여과(filteration)",
+      "3": "방벽(barriers)",
+      "4": "대체물(substitutes)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '방벽(barriers)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 111,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "구석기 시대 장신구의 재료가 아닌 것은?",
+    "choices": {
+      "1": "돌",
+      "2": "골각",
+      "3": "패각",
+      "4": "금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "금은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 112,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 2,
+    "question": "금속공예의 특징 중 이 시대에 제작된 귀걸이는 순금제가 없 고 청동에 도금한 것 뿐인데 세환식에 간단한 삼각뿔 모양의 장식이 달린 것 만이 알려져 있다. 어느 시대를 말하는가?",
+    "choices": {
+      "1": "고구려",
+      "2": "신라",
+      "3": "백제",
+      "4": "고려"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '고구려'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 113,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "과대에 늘어뜨리는 장식물은?",
+    "choices": {
+      "1": "복두",
+      "2": "사모",
+      "3": "노리개",
+      "4": "요패"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '요패'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 114,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "조선시대의 공예미와 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "평민적인 멋",
+      "2": "귀족적이고 간결한 멋",
+      "3": "소박하고 온화한 멋",
+      "4": "생활도구에 집착한 멋"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '귀족적이고 간결한 멋'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 115,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "다음 내용은 어느 시대의 금속공예 특징인가?",
+    "choices": {
+      "1": "초기크리스트교",
+      "2": "비잔틴",
+      "3": "로마네스크",
+      "4": "고딕"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '로마네스크'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 116,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "신미술 운동으로 양식적 특색은 자연물의 유기적 형태로부터 모티브를 찾아 비대칭적이고 생동적이며 곡선적인 것은?",
+    "choices": {
+      "1": "아르누보",
+      "2": "아르데코",
+      "3": "로코코",
+      "4": "신조형주의 운동"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '아르누보'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 117,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 7,
+    "question": "미국에서 가장 유명한 아르누보 양식의 유리, 금속, 보석디자 이너이며, 스테인드글라스 창문과 보석 조명기구를 제작하였 다. 1900년에는 티파니 스튜디오를 개설하였다. 관계 있는 것은?",
+    "choices": {
+      "1": "구스타프 클림트(Gustav Klmit)",
+      "2": "오호바그너(Otto Wagner)",
+      "3": "루이스컴포트 티파니(Louis Comfort Tiffany)",
+      "4": "사무엘 빙(Samuel Bing)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '루이스컴포트 티파니(Louis Comfort Tiffany)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 118,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "동양에서 발달한 표현장식 기법으로 금속의 표면을 파내어 다른 금속을 끼워 넣는 기법은?",
+    "choices": {
+      "1": "조금(彫金)",
+      "2": "상감",
+      "3": "낱알기법",
+      "4": "부식"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '상감'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 119,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "다음 중 디자인의 조건에 해당되지 않는 것은?",
+    "choices": {
+      "1": "합목적성",
+      "2": "심미성",
+      "3": "경제성",
+      "4": "모방성"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '모방성'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 120,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "둘 이상의 요소 또는 부분의 상호 관련성에 의해 아름답게 되는 상태는?",
+    "choices": {
+      "1": "조화",
+      "2": "균형",
+      "3": "대비",
+      "4": "통일"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '조화'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 121,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "시각화하는 과정에서 렌더링의 목적은?",
+    "choices": {
+      "1": "기획, 구성하는 데 필요",
+      "2": "제작전에 스타일 검토와 디자인 결정의 참고자료",
+      "3": "재료에 대한 연구",
+      "4": "제작기법에 관한 연구"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '제작전에 스타일 검토와 디자인 결정의 참고자료'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 122,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "다음 척도에 관한 내용이 올바른 것은?",
+    "choices": {
+      "1": "축척 : 2/1",
+      "2": "배척 : 1/5",
+      "3": "현척 : N.S",
+      "4": "실척 : 1/1"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '실척 : 1/1'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 123,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "일반적인 제도에 쓰이는 투상법으로 입체를 평행한 시선으 로 평면에 투상시키는 방법은?",
+    "choices": {
+      "1": "정투상",
+      "2": "사투상",
+      "3": "투시투상",
+      "4": "곡면투상"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '정투상'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 124,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "다음 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "3점 투시도에 의한 입방체 표현 방법은 건축, 공예디자 인, 쥬얼리 디자인 등에서 사용되고 있다.",
+      "2": "가로수 같이 하나의 소점 밖에 갖지 않는 경우의 투시를 1점 투시 혹은 성각 투시라고 한다.",
+      "3": "투시도법은 주로 소실점의 수에 의해 1점, 2점, 3점 투 시의 3종으로 분류된다.",
+      "4": "3개의 소점에 의해 그려지는 투시도를 3점투시 혹은 조 감도법이라고 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "가로수 같이 하나의 소점 밖에 갖지 않는 경우의 투시를 1점 투시 혹은 성각 투시라고 한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 125,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "파랑색에 흰색을 섞으면 파랑색은 어떻게 변하는가?",
+    "choices": {
+      "1": "명도는 낮아지고 채도는 높아진다.",
+      "2": "명도는 높아지고 채도는 낮아진다.",
+      "3": "명도는 높아지고 채도도 높아진다.",
+      "4": "명도는 낮아지고 채도도 낮아진다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '명도는 높아지고 채도는 낮아진다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 126,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 18,
+    "question": "중간 혼합에 대한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "병치혼합, 회전혼합이 있다.",
+      "2": "병치혼합은 점묘법과 같으며, 직물에서도 느낄 수 있다.",
+      "3": "두 색을 적절히 혼합한 것을 말한다.",
+      "4": "회전혼합은 물체색이 반사하는 반사광이 혼합되는 것이 다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "두 색을 적절히 혼합한 것을 말한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 127,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 19,
+    "question": "면적에 따른 색의 대비효과에 관한 설명 중 맞는 것은? (단, 동일 색일 경우)",
+    "choices": {
+      "1": "면적이 작은 것이 밝게 보인다.",
+      "2": "면적이 큰 것이나 작은 것 모두 같다.",
+      "3": "색 대비 효과는 일어나지 않는다.",
+      "4": "면적이 큰 것이 밝고 선명하며, 면적이 작은 것이 어둡 고 흐리게 보인다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '면적이 큰 것이 밝고 선명하며, 면적이 작은 것이 어둡 고 흐리게 보인다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 128,
+    "date": "20040718",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 20,
+    "question": "다음 색 중 고귀, 엄숙, 신앙심을 연상시키는 색은?",
+    "choices": {
+      "1": "녹색",
+      "2": "빨강",
+      "3": "보라",
+      "4": "검정"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '보라'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 129,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 21,
+    "question": "색의 감정적 효과에서 중량감에 가장 큰 영향을 미치는 것 은?",
+    "choices": {
+      "1": "채도",
+      "2": "명도",
+      "3": "색상",
+      "4": "대비"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '명도'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 130,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 22,
+    "question": "배색을 할 때의 유의할 점이 아닌 것은?",
+    "choices": {
+      "1": "사용하는 목적에 적합하도록 할 것",
+      "2": "배색을 가급적 밝게 할 것",
+      "3": "사용되는 재질과 형체를 고려하여 조화되도록 할 것",
+      "4": "밝은 배색인지 어두운 배색인지를 미리 계획할 것"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "배색을 가급적 밝게 할 것은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 131,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 23,
+    "question": "광물에 대한 설명으로 해당되지 않는 것은?",
+    "choices": {
+      "1": "무기질",
+      "2": "유기질",
+      "3": "천연산",
+      "4": "일정한 결정구조"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '유기질'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 132,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 25,
+    "question": "집시(gipsy)세팅작업의 또다른 명칭으로서 맞는 것은?",
+    "choices": {
+      "1": "퓨즈세팅(fuse setting)",
+      "2": "채널세팅(channel setting)",
+      "3": "베벨세팅(beveled setting)",
+      "4": "다이아몬드세팅(diamond setting)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '베벨세팅(beveled setting)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 133,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 27,
+    "question": "다음 중 채널 셋팅에 관한 설명 중 올바른 것은?",
+    "choices": {
+      "1": "보석의 거들면은 광을 내지 않은 것이 좋다.",
+      "2": "보석의 테이블 면과 레일의 상부면의 높이를 같게 하는 것이 좋다.",
+      "3": "보석의 거들 두께가 되도록 얇은 것이 좋다.",
+      "4": "보석의 테이블 면이 넓고 크라운 각도가 큰 것이 좋다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '보석의 테이블 면과 레일의 상부면의 높이를 같게 하는 것이 좋다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 134,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 28,
+    "question": "다음 중 순도 85%의 은제품에 표시할 천분율 단위로 올바 른 각인은?",
+    "choices": {
+      "1": "85%",
+      "2": "SIL85",
+      "3": "850",
+      "4": "85.0"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '850'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 135,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 29,
+    "question": "22K 금 합금 중 순금의 함량은 몇 % 인가?",
+    "choices": {
+      "1": "91.7",
+      "2": "83.4",
+      "3": "95.2",
+      "4": "87.5"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '91.7'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 136,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 30,
+    "question": "루비나 사파이어를 인조석과 식별할 때 가장 중요한 사항 은?",
+    "choices": {
+      "1": "경도",
+      "2": "클리뷔지",
+      "3": "투명도",
+      "4": "인클루젼"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '인클루젼'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 137,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 31,
+    "question": "다음 중 유기물(有機物)보석에 해당되는 것은?",
+    "choices": {
+      "1": "수정",
+      "2": "다이아몬드",
+      "3": "터키석",
+      "4": "호박"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '호박'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 138,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 32,
+    "question": "다음 보석 중 유기물 보석이 아닌 것은?",
+    "choices": {
+      "1": "앰버",
+      "2": "제트",
+      "3": "가닛",
+      "4": "진주"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "가닛은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 139,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 33,
+    "question": "패셋 컷으로 연마 했을 때 가장 효과가 적은 것은?",
+    "choices": {
+      "1": "다이아몬드",
+      "2": "에메랄드",
+      "3": "호안석",
+      "4": "아쿠아마린"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '호안석'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 140,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 34,
+    "question": "합성스피넬의 특성에 대한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "광학성 : SR. 강한 ADR",
+      "2": "굴절율 : 1.627",
+      "3": "비중 : 3.64(+0.02, -0.12)",
+      "4": "조흔 : 백색"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "굴절율 : 1.627은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 141,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 35,
+    "question": "보석의 브릴리언시(휘광)를 결정하는 가장 중요한 요소는?",
+    "choices": {
+      "1": "비율",
+      "2": "굴절률",
+      "3": "면의 연마",
+      "4": "크기"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '굴절률'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 142,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 36,
+    "question": "실용황동 중 7:3황동에 7~30%의 니켈을 합금한 것으로 은 (Ag)이 전혀 포함되지 않았으나 색깔, 성질은 은과 거의 흡 사하고, 부식저항이 크며, 식기, 가정용구, 악기 등에 많이 사용되는 금속은?",
+    "choices": {
+      "1": "톰백(tombac)",
+      "2": "망간브론즈(manganese bronze)",
+      "3": "저먼실버(German silver)",
+      "4": "니켈브론즈(nickel bronze)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '저먼실버(German silver)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 143,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 37,
+    "question": "조밀육방격자에 속하지 않는 금속은?",
+    "choices": {
+      "1": "카드뮴",
+      "2": "마그네슘",
+      "3": "아연",
+      "4": "알루미늄"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '알루미늄'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 144,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 38,
+    "question": "백금은 4등급으로 분류되어 A등급은 물리적, B등급은 화학 적, C등급은 화학공업, D등급은 전기접점 등에 사용된다. 이와 같이 분류되는 기준은?",
+    "choices": {
+      "1": "연성",
+      "2": "전성",
+      "3": "비중",
+      "4": "품위"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '품위'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 145,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 39,
+    "question": "다음 금속 중 상온 상태에서 가장 빠른 색의 변화를 일으키 는 금속은?",
+    "choices": {
+      "1": "24K",
+      "2": "은",
+      "3": "백금",
+      "4": "18K"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '은'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 146,
+    "date": "20040718",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 40,
+    "question": "비금속으로 짝지어진 것은?",
+    "choices": {
+      "1": "산소, 수소 등",
+      "2": "규소, 플루오르 등",
+      "3": "구리, 납, 수은 등",
+      "4": "철, 구리, 알루미늄 등"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '산소, 수소 등'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 147,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 41,
+    "question": "귀금속 장신구류를 전해연마할 때 사용되는 전해액으로 적 당한 것은?",
+    "choices": {
+      "1": "탄산나트륨(Na CO )",
+      "2": "질산(HNO ) 2 3 3",
+      "3": "청산가리(NaCN)",
+      "4": "염산(HCl)"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '청산가리(NaCN)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 148,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "귀금속 분석시 건식법에 해당하는 것은?",
+    "choices": {
+      "1": "질산분석법",
+      "2": "왕수법",
+      "3": "황산분석법",
+      "4": "용융법"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '용융법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 149,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "대개 염가인 물건에 이용되는 얇은 금 도금으로 보통 두께 가 0.15μ 이하의 것은?",
+    "choices": {
+      "1": "금장(金張)",
+      "2": "순금 도금",
+      "3": "금 합금 도금",
+      "4": "플래시 금도금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '플래시 금도금'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 150,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "다음 중 마름질 작업에 주로 속하지 않는 것은?",
+    "choices": {
+      "1": "망치 사용법",
+      "2": "금긋개 사용법",
+      "3": "펀치, 컴퍼스 사용법",
+      "4": "직선, 곡선가위 사용법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '망치 사용법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 151,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 45,
+    "question": "다이스 작업시 절삭도중에 나사가 뜯기는 원인과 관계 없는 것은?",
+    "choices": {
+      "1": "다이스가 마모되어 절삭할 수 없을 때",
+      "2": "소재의 지름이 너무 클 때",
+      "3": "절삭제를 쓰지 않았을 때",
+      "4": "역회전 시키며 계속 절삭할 때"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '역회전 시키며 계속 절삭할 때'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 152,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "줄눈의 상목과 하목이 비스듬히 깎여 다듬질 면이 곱고 절 삭 방향이 똑바르게 정리되는 줄질 방법은?",
+    "choices": {
+      "1": "직진법",
+      "2": "사진법",
+      "3": "병진법",
+      "4": "횡진법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '직진법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 153,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "가스용접시 토치불꽃 중에서 산화작용이 일어나지 않으며 금속표면에 침탄작용을 일으키는 백심(白心)의 불꽃은?",
+    "choices": {
+      "1": "매연",
+      "2": "탄화불꽃",
+      "3": "중성불꽃",
+      "4": "산화불꽃"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '탄화불꽃'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 154,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "백동(german silver)의 합금조성 비율이 옳은 것은?",
+    "choices": {
+      "1": "구리(45∼63%),아연(14∼35%),니켈(5∼35%)",
+      "2": "구리(45∼63%),은(25∼35%),니켈(15∼35%)",
+      "3": "구리(45∼63%),주석(15∼35%),니켈(5∼35%)",
+      "4": "구리(45∼63%),아연(25∼35%),알루미늄(15∼35%)"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '구리(45∼63%),아연(14∼35%),니켈(5∼35%)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 155,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "다음 중 돋아 올리기 기법이 아닌 것은?",
+    "choices": {
+      "1": "네덜란드식 올리기(dutch raising)",
+      "2": "꺽어 올리기(angle raising)",
+      "3": "크림핑(crimping)하여 올리기",
+      "4": "거친다듬질(polishing)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "거친다듬질(polishing)은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 156,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "선상감 시, 상감된 선이 빠져나가지 않게 홈의 벽 밑면부분 (공간)의 단면을 어떠한 꼴로 만들어야 효과적인가?",
+    "choices": {
+      "1": "마름모형",
+      "2": "직사각형",
+      "3": "사다리꼴형",
+      "4": "다이아몬드형"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '사다리꼴형'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 157,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "산소용기(실린더)의 자체 무게는 약 70㎏이다. 이 때 충전되 는 산소의 무게는?",
+    "choices": {
+      "1": "8.4㎏",
+      "2": "7.4㎏",
+      "3": "6.4㎏",
+      "4": "5.4㎏"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '8.4㎏'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 158,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "순은 제품이나 칠보기법에 사용되는 땜 중 가장 이상적인 것은?",
+    "choices": {
+      "1": "70% 은땜",
+      "2": "80% 은땜",
+      "3": "90% 은땜",
+      "4": "제물땜"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '제물땜'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 159,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "정밀주조(Lost Wax Casting) 작업 과정 중, 고무주형을 전 기경화기에 넣어 경화시킬 때의 적합한 경화온도는?",
+    "choices": {
+      "1": "124℃",
+      "2": "134℃",
+      "3": "144℃",
+      "4": "154℃"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '154℃'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 160,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "주조반지에 대한 설명 중 잘못된 것은?",
+    "choices": {
+      "1": "대량으로 생산할 수 있다.",
+      "2": "세공으로 제작된 반지에 비해 더욱 견고하다.",
+      "3": "자유로운 형태로 제작할 수 있다.",
+      "4": "생산비가 세공으로 제작된 반지에 비해 저렴하다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "세공으로 제작된 반지에 비해 더욱 견고하다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 161,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "정밀주조 작업에서 쇳물의 흐름이 좋은 일감의 이상적인 부 착각도는?",
+    "choices": {
+      "1": "15°",
+      "2": "20°",
+      "3": "30°",
+      "4": "45°"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '45°'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 162,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "매몰시 매몰재 파우더와 물의 일반적인 배합비율은?",
+    "choices": {
+      "1": "100 : 80",
+      "2": "100 : 60",
+      "3": "100 : 40",
+      "4": "100 : 20"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '100 : 40'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 163,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "각종 연마재 및 광택재료를 순서별, 단계적으로 사용하여 연마하는 방법으로 매체(Media)를 이용하는 것이 특징인 것 은?",
+    "choices": {
+      "1": "전해연마",
+      "2": "바렐연마",
+      "3": "버프연마",
+      "4": "스트리핑"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '바렐연마'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 164,
+    "date": "20040718",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "제품 표면의 산화 피막을 제거하기 위하여 묽은 황산을 만 들 경우 올바른 희석 방법은?",
+    "choices": {
+      "1": "상온의 물에 황산을 붓는다.",
+      "2": "상온의 황산에 물을 붓는다.",
+      "3": "황산과 물을 번갈아 붓는다.",
+      "4": "차거운 황산에 물을 붓는다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '상온의 물에 황산을 붓는다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 165,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 1,
+    "question": "삼국시대 황금공예문화의 꽃인 신라금관의 출(出)자형 디자인 또는 뿔장식, 새의 깃털, 불꽃모양, 날개장식 등에 영향을 끼 친 것은?",
+    "choices": {
+      "1": "인도 - 갠지스 문명",
+      "2": "중국 - 황하 문명",
+      "3": "남방 - 태평양의 섬 문명",
+      "4": "스키타이 - 습지, 유목 문명"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '스키타이 - 습지, 유목 문명'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 166,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 3,
+    "question": "문·스펜서(Moon·Spencer)에 의해 발표된 색채조화론의 가장 큰 의의는?",
+    "choices": {
+      "1": "인간의 감성적 부분까지 연구",
+      "2": "과학적 기초의 정량적인 이론",
+      "3": "색표시의 완전한 방법을 수립",
+      "4": "실용성 있는 순도 관계로 등분"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '과학적 기초의 정량적인 이론'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 167,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 4,
+    "question": "금속 표면에 문양을 파고 아말감을 바른 뒤 가열하여 수은은 태워 증발시키고, 문양 이외의 부분을 숫돌로 갈아내어 입사 하는 기법은?",
+    "choices": {
+      "1": "고육입사",
+      "2": "소입사",
+      "3": "눈금입사",
+      "4": "흑금입사"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '소입사'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 168,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 5,
+    "question": "다음은 색에 대한 설명이다. 잘못된 것은?",
+    "choices": {
+      "1": "유리병속의 액체나 얼음 덩어리 처럼 3차원 공간의 투명 한 부피를 느끼는 색을 공간색이라 한다.",
+      "2": "붉은 포도주, 검정색 안경 등 그 물체가 가지고 있는 것 처럼 보여지는 색을 물체색이라 한다.",
+      "3": "물체색 중에서도 물체의 표면에서 반사하는 빛이 나타나 는 색을 투명면색으로 분류한다.",
+      "4": "비누거품이나 전복껍질 등에서 무지개 같은 색이 나타나 는 것은 빛의 간섭에 의하여 나타나는 색으로 간섭색이라 한다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "물체색 중에서도 물체의 표면에서 반사하는 빛이 나타나 는 색을 투명면색으로 분류한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 169,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 6,
+    "question": "면에 대한 설명 중 맞는 것은?",
+    "choices": {
+      "1": "면은 선의 궤적에 의하여 생긴다.",
+      "2": "평면적인 형을 보통 형태(form)라 한다.",
+      "3": "면과의 합성 또는 절단에 의한 면은 없다.",
+      "4": "면의 유기적 형태는 주로 직선적으로 경직한 시각적 특성 이 있다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '면은 선의 궤적에 의하여 생긴다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 170,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 8,
+    "question": "다음 중 물체의 보이지 않는 부분을 표시하는 선은?",
+    "choices": {
+      "1": "은선",
+      "2": "일점쇄선",
+      "3": "실선",
+      "4": "가는 실선"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '은선'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 171,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 9,
+    "question": "A4 용지의 규격은?",
+    "choices": {
+      "1": "148 x 210 mm",
+      "2": "210 x 297 mm",
+      "3": "297 x 420 mm",
+      "4": "420 x 594 mm"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '210 x 297 mm'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 172,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 10,
+    "question": "다음 금제 장신구 중 낙랑시대의 것은?",
+    "choices": {
+      "1": "금제 교구",
+      "2": "금령총 황금보관",
+      "3": "금관총 황금보관",
+      "4": "투각용봉문 금동관형"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '금제 교구'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 173,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 11,
+    "question": "19세기 말 프랑스 인상파의 영향을 받아 주로 독일과 오스 트리아를 무대로 일어난 반(反)아카데미 미술 운동의 방향 은?",
+    "choices": {
+      "1": "바우하우스",
+      "2": "미술공예운동",
+      "3": "세세션",
+      "4": "문예부흥운동"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '세세션'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 174,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 12,
+    "question": "다음 중 정오각형을 기본으로 하는 다면체는?",
+    "choices": {
+      "1": "정사면체",
+      "2": "정팔면체",
+      "3": "정십이면체",
+      "4": "정이십면체"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '정십이면체'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 175,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 13,
+    "question": "점묘파 화가인 쇠라와 시냑 등이 사용한 혼합법은?",
+    "choices": {
+      "1": "감법혼합",
+      "2": "병치혼합",
+      "3": "회전혼합",
+      "4": "가법혼합"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '병치혼합'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 176,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 14,
+    "question": "다음 중 공예(민예)미의 본질과 가장 거리가 먼 것은?",
+    "choices": {
+      "1": "실용성",
+      "2": "공유성",
+      "3": "희소성",
+      "4": "다량성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '희소성'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 177,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 15,
+    "question": "무채색 끼리의 대비 현상은?",
+    "choices": {
+      "1": "명도대비",
+      "2": "색상대비",
+      "3": "채도대비",
+      "4": "보색대비"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '명도대비'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 178,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 16,
+    "question": "다음 중 복면투상(double plane projection)에 해당되는 것 은?",
+    "choices": {
+      "1": "중심투상(central pro.)",
+      "2": "사투상(oblique pro.)",
+      "3": "투시투상(perspective pro.)",
+      "4": "정투상(orthogonal pro.)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '정투상(orthogonal pro.)'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 179,
+    "date": "20050717",
+    "subject": 1,
+    "subject_name": "임의 구분",
+    "question_no": 17,
+    "question": "다음 내용은 어느 시대 금속 공예의 특징인가?",
+    "choices": {
+      "1": "고구려",
+      "2": "신라",
+      "3": "고려",
+      "4": "조선"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '고려'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 181,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 21,
+    "question": "우리 눈의 세부기관 중 무채색 또는 중성색, 즉 검정, 흰색, 회색만을 지각할 수 있는 것은?",
+    "choices": {
+      "1": "추상체",
+      "2": "간상체",
+      "3": "수정체",
+      "4": "홍채"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '간상체'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 182,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 22,
+    "question": "다음 중 우연의 효과를 이용한 것이 아닌 것은?",
+    "choices": {
+      "1": "불기",
+      "2": "떨구기",
+      "3": "번지기",
+      "4": "찍기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "찍기은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 183,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 23,
+    "question": "다음 중 2색성이 나타나는 보석은?",
+    "choices": {
+      "1": "사방정계",
+      "2": "정방정계",
+      "3": "등축정계",
+      "4": "비결정계"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '정방정계'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 184,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 24,
+    "question": "단순하고 심플한 캐보션 보석에 가장 적합한 난집 형태는?",
+    "choices": {
+      "1": "이중테 난집",
+      "2": "멜레 난집",
+      "3": "파이프 난집",
+      "4": "조각 난집"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '이중테 난집'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 185,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 26,
+    "question": "다음 특수효과 중 빛의 반사에 의해 나타나는 현상이 아닌 것은?",
+    "choices": {
+      "1": "성채효과",
+      "2": "샤토안시효과",
+      "3": "아벤츄레센스효과",
+      "4": "변색효과"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "변색효과은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 186,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 27,
+    "question": "칼세도니의 변종에 속하지 않는 것은?",
+    "choices": {
+      "1": "카닐리언",
+      "2": "사드",
+      "3": "아게이트",
+      "4": "스모키"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '스모키'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 187,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 28,
+    "question": "다음 중 유기물 보석으로만 모아진 것은?",
+    "choices": {
+      "1": "호박, 산호, 진주",
+      "2": "다이아몬드, 터키석, 수정",
+      "3": "진주, 호박, 수정",
+      "4": "호박, 산호, 사파이어"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '호박, 산호, 진주'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 188,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 29,
+    "question": "인탈리오(intalio), 셰비(chevee), 큐벳(cuvette) 등은 다음 중 어느 기법인가?",
+    "choices": {
+      "1": "귀금속판 돋아올리기",
+      "2": "귀금속 구슬모아 용접하기",
+      "3": "보석구슬 구멍뚫기",
+      "4": "보석표면 조각하기"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '보석표면 조각하기'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 189,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 30,
+    "question": "다음 중 75%의 순금이 포함된 합금은?",
+    "choices": {
+      "1": "24k",
+      "2": "22k",
+      "3": "18k",
+      "4": "14k"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '18k'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 190,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 31,
+    "question": "시금석(Testing Stone)에 의한 감별에서, 18K 이하일 때와 이상일 때 사용하는 화공약품은?",
+    "choices": {
+      "1": "18K 이하 왕수, 18K 이상 질산",
+      "2": "18K 이하 질산, 18K 이상 왕수",
+      "3": "18K 이하 질산, 18K 이상 황산",
+      "4": "18K 이하 왕수, 18K 이상 황산"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '18K 이하 질산, 18K 이상 왕수'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 191,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 32,
+    "question": "금의 정제 방법 중 광석을 미세한 가루로 만들어 물을 혼합 시켜서 진흙상태로 만든 후, 수은을 첨가하여 금을 채취하 는 방법은?",
+    "choices": {
+      "1": "아말감법",
+      "2": "염화법",
+      "3": "시안화법",
+      "4": "왕수법"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '아말감법'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 192,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 33,
+    "question": "광물 보석이 외부의 충격으로 일정한 방향성 없이 깨어지는 것은?",
+    "choices": {
+      "1": "벽개",
+      "2": "분리",
+      "3": "단구",
+      "4": "인성"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '단구'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 193,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 34,
+    "question": "형의 모든 면이 거들 가장자리와 평행하는 사각형으로 구성 되어 있는 것이 특징이며, 각 면이 보통계단의 단계와 비슷 한 줄 또는 층으로 배열되어 있는 컷의 명칭은?",
+    "choices": {
+      "1": "스텝 컷",
+      "2": "혼합 컷",
+      "3": "브릴리언트 컷",
+      "4": "올드마인 컷"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '스텝 컷'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 194,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 35,
+    "question": "다이아몬드의 잘 연마된 면에서 나는 광택과 같은 것으로 평평하게 연마한 다이아몬드 표면에 닿은 광선의 약 30%가 반사하는 정도의 광택 명칭은?",
+    "choices": {
+      "1": "금속성 광택",
+      "2": "유리광택",
+      "3": "수지광택",
+      "4": "금강광택"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '금강광택'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 195,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 36,
+    "question": "카스트너법에 의해 만들어 지며 결정구조는 입방정계 구조, 식염형 구조로 무색이며 융점 563.7, 비점 1496, 비중 1.857의 약품은?",
+    "choices": {
+      "1": "질산",
+      "2": "염산",
+      "3": "시안화나트륨",
+      "4": "황산"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '시안화나트륨'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 196,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 37,
+    "question": "금속의 열처리 과정에서 담금질한 금속에 질긴 인성을 부여 하는 것은?",
+    "choices": {
+      "1": "Quenching",
+      "2": "Tempering",
+      "3": "Forging",
+      "4": "Stretching"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 'Tempering'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 197,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 38,
+    "question": "가스 용기의 색과 가연성 가스인 것끼리 바르게 연결된 것 은?",
+    "choices": {
+      "1": "수소-회색",
+      "2": "아세틸렌-청색",
+      "3": "암모니아-백색",
+      "4": "아르곤-갈색"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '암모니아-백색'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 198,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 39,
+    "question": "다음 중 귀금속가공의 사용되는 펀치의 종류가 아닌 것은?",
+    "choices": {
+      "1": "금긋기선상에 찍는 펀치(Rule point punch)",
+      "2": "센터 펀치(Center punch)",
+      "3": "자동 펀치(Auto marking punch)",
+      "4": "선단펀치(Shealing cutter edge punch)"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "선단펀치(Shealing cutter edge punch)은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 199,
+    "date": "20050717",
+    "subject": 2,
+    "subject_name": "임의 구분 의 내부조직을 투과하여 생성과정 및",
+    "question_no": 40,
+    "question": "나사를 만들때 다이스 작업에서 절삭도중에 나사가 뜯기는 경우가 아닌 것은?",
+    "choices": {
+      "1": "다이스가 마모되어 절삭할 수 없을 때",
+      "2": "소재의 지름이 작을 때",
+      "3": "다이스날이 빠져 있을 때",
+      "4": "역회전 시키지 않고 계속 절삭할 때"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "소재의 지름이 작을 때은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 200,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 41,
+    "question": "접합하려는 두 금속의 부재 즉,모재의 접합부를 국부적으로 가열, 용융시키고 이것에 제 3의 금속을 첨가해서 접합되는 용접 방법은?",
+    "choices": {
+      "1": "압접",
+      "2": "융접",
+      "3": "납땜",
+      "4": "가열맞춤"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '융접'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 201,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 42,
+    "question": "다음 중 전성과 연성이 좋은 면심입방격자에 속하는 금속 은?",
+    "choices": {
+      "1": "금, 은, 구리",
+      "2": "크롬, 몰리브덴",
+      "3": "백금, 아연",
+      "4": "카드늄, 코발트"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '금, 은, 구리'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 202,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 43,
+    "question": "평균 근로자수가 200명인 직장에서 8명의 재해자가 발생했 다. 천인율은?",
+    "choices": {
+      "1": "40",
+      "2": "16",
+      "3": "4",
+      "4": "1.6"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '40'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 203,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 44,
+    "question": "다음 중 비철금속에 속하지 않는 것은?",
+    "choices": {
+      "1": "구리, 납",
+      "2": "금, 은",
+      "3": "청동, 알루미늄",
+      "4": "강철, 연철"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '강철, 연철'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 204,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 46,
+    "question": "가스토치(blow - pipe torch)를 사용하여 용접할 때 역화 (back fire)현상이 일어나는 경우는?",
+    "choices": {
+      "1": "토치 내부가 막혀서 고압의 산소가 밖으로 배출되지 못 할 때",
+      "2": "벤튜리와 노즐 끝과의 사이가 막혔을 때",
+      "3": "토치가 너무 달구어졌을 때",
+      "4": "팁이 막히거나 팁의 과열, 사용가스의 압력이 부적당 할 때"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '팁이 막히거나 팁의 과열, 사용가스의 압력이 부적당 할 때'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 205,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 47,
+    "question": "감탕재료인 모델링 콤파운드를 설명한 것 중 틀린 것은?",
+    "choices": {
+      "1": "송진과 토분을 같은 비율로 섞은 것이다.",
+      "2": "일감을 붙여서 미지근할때 작업을 한다.",
+      "3": "용융온도는 100∼150℃이다.",
+      "4": "가공은 100℃ 미만으로 한다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "일감을 붙여서 미지근할때 작업을 한다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 206,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 48,
+    "question": "적색 금을 검게 착색하여 오금을 만들 때 사용하는 가장 적 합한 약품은?",
+    "choices": {
+      "1": "유산동",
+      "2": "산화동",
+      "3": "질산동",
+      "4": "염화금"
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '유산동'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 207,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 49,
+    "question": "정밀주조작업에서 wax 물줄기 붙이기를 할 때 알맞은 방법 은?",
+    "choices": {
+      "1": "물줄기의 방향은 수직으로 모아지는 것이 좋다.",
+      "2": "물줄기의 방향은 사방으로 분산되어지는 것이 좋다.",
+      "3": "일감의 형태가 얇은 판일 경우 한 군데만 물줄기를 붙여 주는 것이 좋다.",
+      "4": "일감을 매몰을 할 때 기포가 모이지 않도록 우묵한 부분 이 아래를 향해야 한다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '물줄기의 방향은 수직으로 모아지는 것이 좋다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 208,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 50,
+    "question": "칠보작업시 유약의 분산 방지용 접착제로 사용하는 것은?",
+    "choices": {
+      "1": "밥풀",
+      "2": "풀",
+      "3": "CMC",
+      "4": "CBC"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 'CMC'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 209,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 51,
+    "question": "줄 눈금의 크기 표시 중 옳은 것은?",
+    "choices": {
+      "1": "1㎝에 대한 눈금의 수",
+      "2": "1mm에 대한 눈금의 수",
+      "3": "1인치에 대한 눈금의 수",
+      "4": "줄의 폭에 대한 눈금의 수"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '1인치에 대한 눈금의 수'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 210,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 52,
+    "question": "다음 중 합금이 아닌 것은?",
+    "choices": {
+      "1": "톰백",
+      "2": "7.3 황동",
+      "3": "6.4 황동",
+      "4": "이리듐"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "이리듐은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 211,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 53,
+    "question": "구리 95% + 아연 5%의 합금으로서 순동같이 연하고 주조 가 용이하며 화폐, 메달 등을 만드는 금속은?",
+    "choices": {
+      "1": "Deoxidized copper",
+      "2": "Gilding metal",
+      "3": "Electrolytic copper",
+      "4": "Cartridge brass"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 'Gilding metal'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 212,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 54,
+    "question": "용접이음 기법의 일반적인 특징에 관한 설명 중 틀린 것은?",
+    "choices": {
+      "1": "재료가 절약된다.",
+      "2": "작업 공정수가 증가된다.",
+      "3": "제품의 성능과 수명이 향상된다.",
+      "4": "이음효율이 높다."
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "작업 공정수가 증가된다.은(는) 잘못된 설명이거나 해당 항목에 속하지 않는다. 나머지 항목들은 올바른 내용이므로 각각의 개념을 정확히 이해해야 한다."
+  },
+  {
+    "id": 213,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 55,
+    "question": "다음 중 자유단조의 기본작업과 관련이 없는 것은?",
+    "choices": {
+      "1": "굽히기",
+      "2": "늘리기",
+      "3": "갈기",
+      "4": "단짓기"
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '갈기'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 214,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 56,
+    "question": "정밀주조 작업에서 원형모델의 크기는 모든 제작공정이 끝 난 완제품과 비교 했을 때 어떠한 비율로 제작하는 것이 가 장 적합한가?",
+    "choices": {
+      "1": "약 5% 크게",
+      "2": "약 10% 크게",
+      "3": "약 15% 크게",
+      "4": "약 20% 크게"
+    },
+    "answers": [
+      2
+    ],
+    "explanation": "정답은 '약 10% 크게'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 215,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 57,
+    "question": "비금속 재료에 광쇠질을 함으로써 얻을 수 있는 효과가 아 닌 것은?",
+    "choices": {
+      "1": "경도가 높아진다.",
+      "2": "상처나 흠이 없어진다.",
+      "3": "광택이 난다.",
+      "4": "전성이 좋아진다."
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '전성이 좋아진다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 216,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 58,
+    "question": "다음 중 금 합금의 목적에 해당되지 않는 것은?",
+    "choices": {
+      "1": "연성이 좋아진다.",
+      "2": "경도를 증가시킨다.",
+      "3": "색상이 아름다워진다.",
+      "4": "광택이 좋아진다."
+    },
+    "answers": [
+      1
+    ],
+    "explanation": "정답은 '연성이 좋아진다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 217,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 59,
+    "question": "금, 은 보다 가공이 비교적 어려운 고융점의 귀금속으로 내 열성 및 고저항에 우수하고, 공기 중에서 가열할 때 강한 불꽃으로 증발되는 수가 있으며, 가공성이 좋은 귀금속이다. 다이아몬드나 진주처럼 백색의 보석과 잘 어울리는 이 귀금 속은?",
+    "choices": {
+      "1": "백색금",
+      "2": "은",
+      "3": "백동",
+      "4": "백금"
+    },
+    "answers": [
+      4
+    ],
+    "explanation": "정답은 '백금'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  },
+  {
+    "id": 218,
+    "date": "20050717",
+    "subject": 3,
+    "subject_name": "임의 구분",
+    "question_no": 60,
+    "question": "산처리를 위한 물과 황산의 혼합방법으로 옳은 것은?",
+    "choices": {
+      "1": "황산 원액에 물을 천천히 섞는다.",
+      "2": "황산 원액을 끓인 후 물을 섞는다.",
+      "3": "물에 황산 원액을 천천히 섞는다.",
+      "4": "섞는 순서에 관계없이 천천히 섞는다."
+    },
+    "answers": [
+      3
+    ],
+    "explanation": "정답은 '물에 황산 원액을 천천히 섞는다.'이다. 관련 개념과 내용을 정확히 이해하고 암기해야 한다."
+  }
+]
