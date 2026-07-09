@@ -14,8 +14,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "리눅스 특징: 멀티유저, 멀티태스킹, 포터블, 계층적 파일 시스템, 파이프·리다이렉션 지원. '단일 사용자 시스템'은 틀린 설명이다."
+    ]
   },
   {
     "id": 2,
@@ -32,8 +31,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "GNU(GNU's Not Unix): 자유 소프트웨어 운동의 일환으로 리처드 스톨만이 창시한 프로젝트."
+    ]
   },
   {
     "id": 3,
@@ -50,8 +48,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "자유 소프트웨어(FSF): 사용·복사·수정·배포의 자유를 보장. '비영리 단체에서만 사용 가능'은 틀린 설명이다."
+    ]
   },
   {
     "id": 4,
@@ -68,8 +65,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "GPL(General Public License): 수정 배포 시 소스 공개 의무. LGPL은 라이브러리 형태의 GPL."
+    ]
   },
   {
     "id": 5,
@@ -86,8 +82,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "레드햇 계열: CentOS, Fedora, RHEL. 데비안 계열: Ubuntu, Mint. 슬랙웨어 계열: Slackware."
+    ]
   },
   {
     "id": 6,
@@ -104,8 +99,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "[Ctrl]+[Z]: SIGTSTP(번호 20) 시그널 전송 - 프로세스 일시 정지(suspend)."
+    ]
   },
   {
     "id": 7,
@@ -122,8 +116,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "프로세스(Process): 실행 중인 프로그램. 데몬(Daemon)도 프로세스의 일종. '프로그램 자체'는 프로세스가 아니다."
+    ]
   },
   {
     "id": 8,
@@ -140,8 +133,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ntsysv: 텍스트 기반 유틸리티로 서비스 자동 실행 설정. chkconfig와 동일한 기능."
+    ]
   },
   {
     "id": 9,
@@ -158,8 +150,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GNU 프로젝트: 유닉스와 호환 가능한 자유 소프트웨어 시스템 개발 목적."
+    ]
   },
   {
     "id": 10,
@@ -176,8 +167,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "커널(Kernel): 운영체제의 핵심 부분. 프로세스 관리, 메모리 관리, 디바이스 드라이버 관리."
+    ]
   },
   {
     "id": 11,
@@ -194,8 +184,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LibreOffice Calc: 스프레드시트 프로그램. Writer(워드), Impress(프레젠테이션), Draw(그래픽)."
+    ]
   },
   {
     "id": 12,
@@ -212,8 +201,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "grub.conf의 default=0: 첫 번째(0번째) 항목이 기본 부팅 선택. '첫 번째 운영체제가 기본'은 옳은 설명이다."
+    ]
   },
   {
     "id": 13,
@@ -230,8 +218,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/motd: 로그인 후 메시지(Message Of The Day). /etc/issue: 로그인 전 콘솔 메시지. '로그인 전 표시'는 /etc/issue이다."
+    ]
   },
   {
     "id": 14,
@@ -248,8 +235,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "OSI 7계층: 물리(1), 데이터링크(2), 네트워크(3), 전송(4), 세션(5), 표현(6), 응용(7)."
+    ]
   },
   {
     "id": 15,
@@ -266,8 +252,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "세션 계층(5계층): 연결 설정·유지·해제, 동기화. 표현 계층(6계층): 데이터 형식 변환, 암호화."
+    ]
   },
   {
     "id": 16,
@@ -284,8 +269,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "UDP(User Datagram Protocol): 비연결형, 비신뢰성, 빠른 전송. DNS, DHCP, TFTP에서 사용."
+    ]
   },
   {
     "id": 17,
@@ -302,8 +286,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "서브넷마스크: /24 = 255.255.255.0, /16 = 255.255.0.0, /8 = 255.0.0.0."
+    ]
   },
   {
     "id": 18,
@@ -320,8 +303,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/resolv.conf: DNS 서버 주소(nameserver)를 설정하는 파일."
+    ]
   },
   {
     "id": 19,
@@ -338,8 +320,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "게이트웨이 확인 명령: route, netstat -r, ip route. 'ifconfig'로는 게이트웨이 확인 불가."
+    ]
   },
   {
     "id": 20,
@@ -356,8 +337,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "usermod -L: 계정 잠금(lock). userdel: 계정 삭제. '잠금 시 /etc/passwd 삭제'는 틀린 설명."
+    ]
   },
   {
     "id": 21,
@@ -374,8 +354,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "rpm -i: 설치. rpm -U: 업그레이드. FTP 경로 설치: rpm -i ftp://192.168.0.1/pub/..."
+    ]
   },
   {
     "id": 22,
@@ -392,8 +371,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "HDD 추가 순서: 인식 확인(dmesg) → 파티션(fdisk) → 포맷(mkfs) → 마운트(mount) → fstab 등록."
+    ]
   },
   {
     "id": 23,
@@ -410,8 +388,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "rpm --rebuilddb: 손상된 RPM 데이터베이스를 재구성하는 명령."
+    ]
   },
   {
     "id": 24,
@@ -428,8 +405,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "root 계정 관리: 직접 root 로그인 금지, sudo 사용 권장, /etc/securetty에서 접근 제어. 'root 패스워드 주기적 공유'는 잘못된 방침이다."
+    ]
   },
   {
     "id": 25,
@@ -446,8 +422,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "chage -E 2020-12-31 posein: 계정 만기일을 2020년 12월 31일로 설정."
+    ]
   },
   {
     "id": 26,
@@ -464,8 +439,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "chage: 패스워드 에이징(aging) 정책 관리 명령. -l 옵션으로 현재 설정 확인."
+    ]
   },
   {
     "id": 27,
@@ -482,8 +456,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "fdisk: 대화형 파티션 도구. 'e' 명령으로 확장 파티션 생성. '자동 저장'은 틀린 설명이다."
+    ]
   },
   {
     "id": 28,
@@ -500,8 +473,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "스왑 파일 생성: dd(파일 생성) → mkswap(스왑 초기화) → swapon(활성화) → /etc/fstab 등록."
+    ]
   },
   {
     "id": 29,
@@ -518,8 +490,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "매월 1일 오전 3시 30분: 30 3 1 * * [명령어]."
+    ]
   },
   {
     "id": 30,
@@ -536,8 +507,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "renice: 실행 중인 프로세스의 nice(우선순위) 값 변경. 'root만 nice 값 낮출 수 있다'는 틀린 설명."
+    ]
   },
   {
     "id": 31,
@@ -554,8 +524,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "소스 설치 단계: ./configure → make → make install. 'make clean'은 중간 파일 정리 명령."
+    ]
   },
   {
     "id": 32,
@@ -572,8 +541,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "depmod: 커널 모듈 간 의존성을 검사하여 modules.dep 파일 생성."
+    ]
   },
   {
     "id": 33,
@@ -590,8 +558,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/modprobe.conf: 부팅 시 모듈 자동 적재 설정 파일. (CentOS 6 이전)"
+    ]
   },
   {
     "id": 34,
@@ -608,8 +575,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "모듈 관련 명령어: insmod(로드), rmmod(제거), lsmod(목록), modprobe(의존성 포함 로드)."
+    ]
   },
   {
     "id": 35,
@@ -626,8 +592,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "lpr -#2: 2장 인쇄. '-n' 또는 '-#'으로 인쇄 매수 지정."
+    ]
   },
   {
     "id": 36,
@@ -644,8 +609,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GNU 프로젝트: 유닉스 호환 자유 소프트웨어 시스템 개발이 목적."
+    ]
   },
   {
     "id": 37,
@@ -662,8 +626,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "su -: 환경변수까지 root로 전환. su: 현재 환경변수 유지하며 전환. 'su는 환경변수도 변경'은 틀린 설명."
+    ]
   },
   {
     "id": 38,
@@ -680,8 +643,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/shadow 파일: 사용자명, 암호화된 패스워드, 마지막 변경일, 최소·최대 유효기간 등. '패스워드 초기화 여부'는 없는 필드이다."
+    ]
   },
   {
     "id": 39,
@@ -698,8 +660,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "id: 현재 사용자의 UID, GID, 그룹 정보 출력. 'whoami'는 사용자명만 출력."
+    ]
   },
   {
     "id": 40,
@@ -716,8 +677,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "find 명령어: 조건에 맞는 파일 탐색. -name, -type, -perm, -mtime 등 옵션 사용."
+    ]
   },
   {
     "id": 41,
@@ -734,8 +694,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "mount -t iso9660 -o loop file.iso /mnt: ISO 파일을 루프백 장치로 마운트."
+    ]
   },
   {
     "id": 42,
@@ -752,8 +711,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/fstab 6번째 필드: fsck 순서(0=검사 안함, 1=루트 파일시스템, 2=이후)."
+    ]
   },
   {
     "id": 43,
@@ -770,8 +728,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ps STAT=Z: 좀비(Zombie) 프로세스. 실행은 종료됐지만 부모가 wait() 미호출."
+    ]
   },
   {
     "id": 44,
@@ -788,8 +745,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "mke2fs -j /dev/sdb1: -j 옵션으로 ext3(저널링) 파일시스템 생성."
+    ]
   },
   {
     "id": 45,
@@ -806,8 +762,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "커널 컴파일: make mrproper → make [menuconfig/xconfig] → make → make modules_install → make install."
+    ]
   },
   {
     "id": 46,
@@ -824,8 +779,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "IPP(Internet Printing Protocol): TCP 631번 포트 사용."
+    ]
   },
   {
     "id": 47,
@@ -842,8 +796,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sshd_config 설정 파일: AllowUsers, DenyUsers, PermitRootLogin 등으로 접근 제어. '보안 강화를 위해 22번 포트 강제'는 틀린 설명."
+    ]
   },
   {
     "id": 48,
@@ -860,8 +813,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "last -F: 로그인 및 로그아웃 시간을 전체 형식으로 출력하는 옵션."
+    ]
   },
   {
     "id": 49,
@@ -878,8 +830,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "wall (write all): 현재 로그인한 모든 사용자의 터미널로 메시지 전송."
+    ]
   },
   {
     "id": 50,
@@ -896,8 +847,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "SSH: 22번 포트, 공개키 암호화 사용, 안전한 원격 접속. 'Telnet보다 낮은 보안'은 틀린 설명."
+    ]
   },
   {
     "id": 51,
@@ -914,8 +864,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/proc/sys/fs/file-max: 커널에서 최대로 사용 가능한 파일 수 설정."
+    ]
   },
   {
     "id": 52,
@@ -932,8 +881,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ssh -l ihd 192.168.10.100: 지정 사용자로 SSH 접속. ssh ihd@192.168.10.100 과 동일."
+    ]
   },
   {
     "id": 53,
@@ -950,8 +898,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "inetd: 수퍼 데몬(Super Daemon)으로 여러 서비스를 하나의 데몬으로 관리."
+    ]
   },
   {
     "id": 54,
@@ -968,8 +915,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "xinetd: inetd를 대체하는 보안 강화 수퍼 데몬. TCP Wrappers 기능 내장."
+    ]
   },
   {
     "id": 55,
@@ -986,8 +932,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Apache 2.x: MPM(다중 처리 모듈) 지원, DSO(동적 공유 객체) 지원. '단일 프로세스 모델만 지원'은 틀린 설명."
+    ]
   },
   {
     "id": 56,
@@ -1004,8 +949,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "HTTP 200 OK: 요청 성공. 301=영구 이동, 302=임시 이동, 404=없음, 500=서버 오류."
+    ]
   },
   {
     "id": 57,
@@ -1022,8 +966,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/httpd/conf/httpd.conf의 Alias 또는 ScriptAlias 설정 오류 시 파일 정보 노출 가능."
+    ]
   },
   {
     "id": 58,
@@ -1040,8 +983,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ServerAdmin: 웹 서버 관리자 이메일 주소를 설정하는 아파치 설정 항목."
+    ]
   },
   {
     "id": 59,
@@ -1058,8 +1000,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "AddType application/x-httpd-php .php: PHP 파일을 PHP 인터프리터로 처리하도록 httpd.conf에 설정."
+    ]
   },
   {
     "id": 60,
@@ -1076,8 +1017,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "LDAP c(country) 속성: 국가 이름 나타내는 키워드. cn=Common Name, o=Organization."
+    ]
   },
   {
     "id": 61,
@@ -1094,8 +1034,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ypbind: NIS 클라이언트 데몬. NIS 서버에 바인딩하여 사용자 인증 정보를 가져옴."
+    ]
   },
   {
     "id": 62,
@@ -1112,8 +1051,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NIS와 관련 없는 서비스: DNS. NIS와 함께 사용하는 서비스는 NFS, Samba 등이다."
+    ]
   },
   {
     "id": 63,
@@ -1130,8 +1068,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/yp.conf: NIS 클라이언트에서 NIS 서버 도메인과 주소를 설정하는 파일."
+    ]
   },
   {
     "id": 64,
@@ -1148,8 +1085,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "smbclient: Windows 공유 폴더에 접근하는 리눅스 클라이언트 명령. mount -t cifs로도 가능."
+    ]
   },
   {
     "id": 65,
@@ -1166,8 +1102,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "pdbedit -L: 등록된 삼바 사용자 목록 확인 명령."
+    ]
   },
   {
     "id": 66,
@@ -1184,8 +1119,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "mount -t nfs server:/share /mnt: NFS 서버의 공유 디렉터리를 마운트하는 명령."
+    ]
   },
   {
     "id": 67,
@@ -1202,8 +1136,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/vsftpd/ftpusers: FTP 접근을 차단할 사용자 목록 파일. root 등 특권 계정 포함."
+    ]
   },
   {
     "id": 68,
@@ -1220,8 +1153,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Dovecot: 리눅스에서 POP3 및 IMAP 서비스를 제공하는 메일 서버 프로그램."
+    ]
   },
   {
     "id": 69,
@@ -1238,8 +1170,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "MUA(Mail User Agent): 사용자가 메일을 작성·읽는 프로그램. (thunderbird, evolution 등)"
+    ]
   },
   {
     "id": 70,
@@ -1256,8 +1187,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "mailq: 전송 대기 중인 메일 큐 상태를 확인하는 명령. sendmail -bp과 동일."
+    ]
   },
   {
     "id": 71,
@@ -1274,8 +1204,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/mail/local-host-names: sendmail에서 처리할 도메인 등록 파일."
+    ]
   },
   {
     "id": 72,
@@ -1292,8 +1221,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "GnuPG(GPG): 이메일 암호화 및 전자서명 관련 GNU 구현체 도구."
+    ]
   },
   {
     "id": 73,
@@ -1310,8 +1238,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "DNS 마스터 서버: 존 파일을 직접 관리. 슬레이브 서버: 마스터에서 존 정보 복제. '슬레이브가 직접 존 파일 수정'은 틀린 설명."
+    ]
   },
   {
     "id": 74,
@@ -1328,8 +1255,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "named-checkconf: named.conf 파일의 문법적 오류를 검사하는 명령."
+    ]
   },
   {
     "id": 75,
@@ -1346,8 +1272,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "SOA 레코드 IN SOA ns1.ihd.or.kr. root.ihd.or.kr. (...): 존 파일의 시작 레코드."
+    ]
   },
   {
     "id": 76,
@@ -1364,8 +1289,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "named.conf의 allow-query: 네임 서버에 질의할 수 있는 호스트를 지정하는 옵션."
+    ]
   },
   {
     "id": 77,
@@ -1382,8 +1306,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "192.168.5.13의 역방향 PTR: 13.5.168.192.in-addr.arpa."
+    ]
   },
   {
     "id": 78,
@@ -1400,8 +1323,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "컨테이너 가상화(Container Virtualization): 하나의 커널을 공유하며 격리된 환경 제공. Docker가 대표적."
+    ]
   },
   {
     "id": 79,
@@ -1418,8 +1340,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "KVM(Kernel-based Virtual Machine): 전가상화(Full Virtualization) 및 반가상화(Para Virtualization) 모두 지원."
+    ]
   },
   {
     "id": 80,
@@ -1436,8 +1357,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/proc/cpuinfo: CPU 정보 확인 파일. vmx(Intel) 또는 svm(AMD) 플래그로 가상화 지원 여부 확인."
+    ]
   },
   {
     "id": 81,
@@ -1454,8 +1374,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "virsh shutdown VM1: KVM 가상 머신 종료 명령. virsh 명령으로 가상 머신 관리."
+    ]
   },
   {
     "id": 82,
@@ -1472,8 +1391,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "xinetd 기능: TCP Wrapper, 접근 제어, 로깅, 연결 수 제한. '부팅 시 자동 시작 기본 설정'은 xinetd 자체 기능이 아니다."
+    ]
   },
   {
     "id": 83,
@@ -1490,8 +1408,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Squid: 리눅스에서 주로 사용하는 프록시(캐시) 서버 프로그램."
+    ]
   },
   {
     "id": 84,
@@ -1508,8 +1425,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "dhcpd.conf의 option routers: 게이트웨이 주소를 할당하는 DHCP 설정 항목."
+    ]
   },
   {
     "id": 85,
@@ -1526,8 +1442,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "VNC(Virtual Network Computing): 5900번 포트 사용. 원격 데스크톱 프로토콜."
+    ]
   },
   {
     "id": 86,
@@ -1544,8 +1459,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ntpdate: NTP 서버를 이용해 시간을 동기화하는 명령. ntpq -p로 NTP 서버 상태 확인."
+    ]
   },
   {
     "id": 87,
@@ -1562,8 +1476,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SYN Flooding: 대량의 SYN 패킷 전송으로 서버의 연결 큐를 소진시키는 DoS 공격."
+    ]
   },
   {
     "id": 88,
@@ -1580,8 +1493,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Ping of Death: 규격 이상의 큰 ICMP Echo Request 패킷으로 시스템을 충돌시키는 공격."
+    ]
   },
   {
     "id": 89,
@@ -1598,8 +1510,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "상태 검사 방화벽(Stateful Inspection Firewall): 패킷 상태(연결 상태)를 추적하여 필터링."
+    ]
   },
   {
     "id": 90,
@@ -1616,8 +1527,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "iptables -A INPUT -p tcp --dport 22 -m state --state NEW -m recent --update --seconds 60 --hitcount 15 -j DROP: SSH 무차별 대입 방어."
+    ]
   },
   {
     "id": 91,
@@ -1634,8 +1544,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "TCP 3-way handshake: SYN → SYN/ACK → ACK 순서로 연결 수립."
+    ]
   },
   {
     "id": 92,
@@ -1652,8 +1561,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID 0(Striping): 데이터를 분산 저장, 빠른 속도, 고장 시 복구 불가."
+    ]
   },
   {
     "id": 93,
@@ -1670,8 +1578,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "RAID 1(Mirroring): 동일 데이터를 두 드라이브에 복사, 높은 안정성, 용량 50% 손실."
+    ]
   },
   {
     "id": 94,
@@ -1688,8 +1595,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "RAID 5: 최소 3개 드라이브, 패리티 분산 저장. 1개 드라이브 고장 허용."
+    ]
   },
   {
     "id": 95,
@@ -1706,8 +1612,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "RAID 6: 최소 4개 드라이브, 패리티 2개 분산 저장. 2개 드라이브 동시 고장 허용."
+    ]
   },
   {
     "id": 96,
@@ -1724,8 +1629,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "데비안 계열: Ubuntu, Mint, Kali. 페도라(Fedora)는 레드햇 계열이다."
+    ]
   },
   {
     "id": 97,
@@ -1742,8 +1646,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/usr/local: 시스템 관리자가 로컬로 설치한 소프트웨어가 위치하는 디렉터리."
+    ]
   },
   {
     "id": 98,
@@ -1760,8 +1663,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/group: 그룹 정보 파일. 그룹명:패스워드:GID:멤버 형식."
+    ]
   },
   {
     "id": 99,
@@ -1778,8 +1680,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "리눅스 커널: Linus Torvalds가 1991년 개발. GNU 프로젝트 도구와 결합하여 GNU/Linux 완성."
+    ]
   },
   {
     "id": 100,
@@ -1796,8 +1697,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "find 명령: -name 파일명, -type f(파일)/d(디렉터리), -perm 권한, -user 소유자."
+    ]
   },
   {
     "id": 101,
@@ -1814,8 +1714,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "표준 오류 리다이렉션: 2>/dev/null. 표준 출력+오류 모두: &>/dev/null."
+    ]
   },
   {
     "id": 102,
@@ -1832,8 +1731,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "bash 셸 변수: 대소문자 구분. 환경변수는 export로 선언. $HOME, $PATH 등."
+    ]
   },
   {
     "id": 103,
@@ -1850,8 +1748,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "[Ctrl]+[Z]: 포어그라운드 프로세스를 중지(suspend)하여 백그라운드로 전환. bg로 백그라운드 실행."
+    ]
   },
   {
     "id": 104,
@@ -1868,8 +1765,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SIGKILL(번호 9): 강제 종료. 프로세스가 무시 불가. kill -9 PID로 강제 종료."
+    ]
   },
   {
     "id": 105,
@@ -1886,8 +1782,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "chkconfig --level 2345 telnet on: 런레벨 2,3,4,5에서 텔넷 서비스 자동 시작 설정."
+    ]
   },
   {
     "id": 106,
@@ -1904,8 +1799,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "응용 계층 프로토콜: HTTP(80), FTP(21), SSH(22), SMTP(25), DNS(53), POP3(110), IMAP(143)."
+    ]
   },
   {
     "id": 107,
@@ -1922,8 +1816,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "MTU(Maximum Transmission Unit): 네트워크 인터페이스에서 전송 가능한 최대 패킷 크기."
+    ]
   },
   {
     "id": 108,
@@ -1940,8 +1833,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "서브넷 192.168.1.0/25: 호스트 범위 .1~.126, 사용 가능 126개. /25=128개-네트워크-브로드캐스트."
+    ]
   },
   {
     "id": 109,
@@ -1958,8 +1850,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "netstat LISTEN: 서비스 대기 중. ESTABLISHED: 연결 중. TIME_WAIT: 연결 종료 대기. 'CLOSE_WAIT=연결 수립 대기'는 틀린 설명."
+    ]
   },
   {
     "id": 110,
@@ -1976,8 +1867,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "root 계정 관리: 직접 로그인 제한(/etc/securetty), su 사용 제한, sudo 사용. '원격 접속 허용'은 잘못된 정책이다."
+    ]
   },
   {
     "id": 111,
@@ -1994,8 +1884,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "kill: 프로세스에 시그널 전송. kill PID(SIGTERM=15), kill -9 PID(SIGKILL), kill -l(시그널 목록)."
+    ]
   },
   {
     "id": 112,
@@ -2012,8 +1901,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ls -al: 숨김 파일 포함 모든 파일의 상세 정보 출력."
+    ]
   },
   {
     "id": 113,
@@ -2030,8 +1918,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "chmod 숫자표기: r=4, w=2, x=1. chmod 755: 소유자rwx(7), 그룹r-x(5), 기타r-x(5)."
+    ]
   },
   {
     "id": 114,
@@ -2048,8 +1935,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "passwd -l user: 패스워드 잠금(lock). passwd -u user: 잠금 해제. passwd -d user: 패스워드 삭제."
+    ]
   },
   {
     "id": 115,
@@ -2066,8 +1952,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "useradd -d /home/ihd -m ihd: 홈 디렉터리 /home/ihd 지정하여 사용자 생성."
+    ]
   },
   {
     "id": 116,
@@ -2084,8 +1969,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "fdisk -l: 모든 디스크의 파티션 테이블 정보 확인."
+    ]
   },
   {
     "id": 117,
@@ -2102,8 +1986,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "mount -t iso9660 -o loop: CD ISO 이미지를 루프백 장치로 마운트."
+    ]
   },
   {
     "id": 118,
@@ -2120,8 +2003,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/proc/interrupts: 인터럽트 정보. /proc/cpuinfo: CPU 정보. '/proc/swaps'는 스왑 사용 정보이다."
+    ]
   },
   {
     "id": 119,
@@ -2138,8 +2020,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ps aux 결과 해석: USER PID %CPU %MEM VSZ RSS TTY STAT START TIME COMMAND."
+    ]
   },
   {
     "id": 120,
@@ -2156,8 +2037,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "pstree: 프로세스를 트리 구조로 출력. ps: 일반 목록 출력. 'pstree -p'는 PID 포함 출력."
+    ]
   },
   {
     "id": 121,
@@ -2174,8 +2054,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "pstree: 프로세스 상태를 트리 구조로 출력하는 명령어."
+    ]
   },
   {
     "id": 122,
@@ -2192,8 +2071,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "nice: 새 프로세스의 우선순위 설정. renice: 실행 중인 프로세스의 우선순위 변경."
+    ]
   },
   {
     "id": 123,
@@ -2210,8 +2088,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "RPM 패키지 형식: 이름-버전-릴리즈.아키텍처.rpm. 'noarch'는 아키텍처 독립 패키지이다."
+    ]
   },
   {
     "id": 124,
@@ -2228,8 +2105,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "POSIX(Portable Operating System Interface): 유닉스 계열 OS의 이식성을 위한 IEEE 표준."
+    ]
   },
   {
     "id": 125,
@@ -2246,8 +2122,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "소스 설치 단계: ./configure(환경 검사) → make(컴파일) → make install(설치) 순서."
+    ]
   },
   {
     "id": 126,
@@ -2264,8 +2139,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "tar.gz 파일 해제: tar -xzvf. tar.bz2 해제: tar -xjvf. '*.gz는 gunzip'이 맞지만 tar -xzvf도 가능."
+    ]
   },
   {
     "id": 127,
@@ -2282,8 +2156,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "커널 모듈 위치: /lib/modules/$(uname -r)/. 커널 버전별 디렉터리에 위치."
+    ]
   },
   {
     "id": 128,
@@ -2300,8 +2173,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "modprobe -r: 지정 모듈과 의존성 있는 관련 모듈도 함께 제거."
+    ]
   },
   {
     "id": 129,
@@ -2318,8 +2190,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/fstab 파일 형식: 장치명 마운트포인트 파일시스템유형 옵션 dump pass."
+    ]
   },
   {
     "id": 130,
@@ -2336,8 +2207,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "커널 컴파일 순서: make mrproper → make config/menuconfig → make → make modules_install → make install."
+    ]
   },
   {
     "id": 131,
@@ -2354,8 +2224,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "swapon -s: 현재 활성화된 스왑 영역 목록 확인. cat /proc/swaps도 동일."
+    ]
   },
   {
     "id": 132,
@@ -2372,8 +2241,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "XSane: X 윈도 기반의 그래픽 스캐너 도구. SANE 기반의 GUI 프론트엔드."
+    ]
   },
   {
     "id": 133,
@@ -2390,8 +2258,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "lpc: CUPS 프린터를 대화형으로 제어하는 명령어. status, enable, disable 등 서브 명령 사용."
+    ]
   },
   {
     "id": 134,
@@ -2408,8 +2275,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "IPP(Internet Printing Protocol): HTTP 기반으로 프린터에 접근하는 프로토콜."
+    ]
   },
   {
     "id": 135,
@@ -2426,8 +2292,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/rsyslog.conf: 로그 환경 설정 파일. facility.priority /var/log/파일명 형식으로 설정. '로그 파일 자동 삭제 기능'은 없는 설명이다."
+    ]
   },
   {
     "id": 136,
@@ -2444,8 +2309,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "명령어-파일 관계: last→/var/log/wtmp, lastb→/var/log/btmp, lastlog→/var/log/lastlog."
+    ]
   },
   {
     "id": 137,
@@ -2462,8 +2326,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/var/log/messages: 일반 시스템 로그(가장 중요). /var/log/secure: 보안 관련 인증 로그."
+    ]
   },
   {
     "id": 138,
@@ -2480,8 +2343,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "net.ipv4.tcp_syncookies: SYN Flooding 방어를 위한 TCP SYN Cookie 활성화 커널 파라미터."
+    ]
   },
   {
     "id": 139,
@@ -2498,8 +2360,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "리눅스 보안 정책: 최소 권한, 주기적 감사, 불필요 서비스 비활성화. '모든 사용자에게 sudo 권한 부여'는 잘못된 정책."
+    ]
   },
   {
     "id": 140,
@@ -2516,8 +2377,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "setenforce 0: SELinux를 Permissive 모드로 전환(비활성화와 다름). setenforce 1: Enforcing 모드."
+    ]
   },
   {
     "id": 141,
@@ -2534,8 +2394,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "rsync -avz src/ dest/: 두 디렉터리를 동기화(-a=아카이브, -v=상세출력, -z=압축)."
+    ]
   },
   {
     "id": 142,
@@ -2552,8 +2411,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "셸 스크립트 실행 권한: chmod +x script.sh. bash script.sh로도 권한 없이 실행 가능."
+    ]
   },
   {
     "id": 143,
@@ -2570,8 +2428,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "apachectl -v 또는 httpd -v: 웹 서버 버전 확인 명령."
+    ]
   },
   {
     "id": 144,
@@ -2588,8 +2445,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "HTTP 403 Forbidden: 서버가 요청을 이해했지만 권한이 없어 거부."
+    ]
   },
   {
     "id": 145,
@@ -2606,8 +2462,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "아파치 httpd.conf의 UserDir: 사용자 개인 홈 디렉터리 이름 설정 항목. public_html → www 변경."
+    ]
   },
   {
     "id": 146,
@@ -2624,8 +2479,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "htpasswd -c /etc/httpd/.htpasswd user: 아파치 사용자 인증 파일 처음 생성."
+    ]
   },
   {
     "id": 147,
@@ -2642,8 +2496,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "mysql_install_db: MySQL 설치 후 기본 데이터베이스를 초기화·생성하는 명령."
+    ]
   },
   {
     "id": 148,
@@ -2660,8 +2513,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "NIS(사용자 인증) + NFS(홈 디렉터리 공유): 네트워크 기반 사용자 인증과 홈 디렉터리 공유의 조합."
+    ]
   },
   {
     "id": 149,
@@ -2678,8 +2530,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NIS 데몬: ypserv(서버), ypbind(클라이언트), yppasswdd(패스워드 변경). 'named(DNS 데몬)'는 NIS와 관련 없다."
+    ]
   },
   {
     "id": 150,
@@ -2696,8 +2547,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NIS 맵 파일 위치: /var/yp/도메인명/ 디렉터리에 저장."
+    ]
   },
   {
     "id": 151,
@@ -2714,8 +2564,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "passwd.byname, passwd.byuid: NIS에서 사용자 정보를 저장하는 맵 파일."
+    ]
   },
   {
     "id": 152,
@@ -2732,8 +2581,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "smb.conf의 valid users = ihd1 ihd2: 지정된 사용자만 접근 허용."
+    ]
   },
   {
     "id": 153,
@@ -2750,8 +2598,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "testparm: smb.conf 파일의 설정 오류를 점검하는 삼바 도구."
+    ]
   },
   {
     "id": 154,
@@ -2768,8 +2615,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS /etc/exports: /data 192.168.0.*(rw,sync,no_root_squash) 형식으로 설정."
+    ]
   },
   {
     "id": 155,
@@ -2786,8 +2632,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "FTP 포트: 제어 연결 21번(TCP), 데이터 연결 20번(Active 모드) 또는 임의 포트(Passive 모드)."
+    ]
   },
   {
     "id": 156,
@@ -2804,8 +2649,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "anonymous FTP: 계정 없이 접속하는 FTP. vsftpd.conf에서 anonymous_enable=YES 설정."
+    ]
   },
   {
     "id": 157,
@@ -2822,8 +2666,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sendmail: 리눅스에서 가장 많이 사용되는 MTA(Mail Transfer Agent)."
+    ]
   },
   {
     "id": 158,
@@ -2840,8 +2683,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "newaliases: /etc/aliases 수정 후 실행하는 명령. 별칭 데이터베이스를 재구성."
+    ]
   },
   {
     "id": 159,
@@ -2858,8 +2700,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/mail/access: sendmail에서 특정 도메인·IP의 메일 수신을 허용/거부하는 파일."
+    ]
   },
   {
     "id": 160,
@@ -2876,8 +2717,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "REJECT vs DISCARD: REJECT는 거부 메시지 발송, DISCARD는 조용히 폐기."
+    ]
   },
   {
     "id": 161,
@@ -2894,8 +2734,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf의 recursion yes/no: 재귀 질의 허용 여부. 외부 DNS는 no 권장."
+    ]
   },
   {
     "id": 162,
@@ -2912,8 +2751,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "와일드카드 DNS: *.ihd.or.kr IN A 1.2.3.4로 모든 서브도메인에 동일 IP 할당."
+    ]
   },
   {
     "id": 163,
@@ -2930,8 +2768,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SOA 레코드: 존 파일의 시작. NS 레코드: 네임 서버 지정. MX 레코드: 메일 서버 지정."
+    ]
   },
   {
     "id": 164,
@@ -2948,8 +2785,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "allow-query: DNS 서버에 질의할 수 있는 호스트를 지정하는 named.conf 옵션."
+    ]
   },
   {
     "id": 165,
@@ -2966,8 +2802,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "가상 호스팅(Virtual Hosting): 하나의 IP에 여러 도메인을 운영. 비용 효율적."
+    ]
   },
   {
     "id": 166,
@@ -2984,8 +2819,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "리눅스 서버 가상화: KVM, Xen, VirtualBox, VMware. Docker는 컨테이너 가상화이다."
+    ]
   },
   {
     "id": 167,
@@ -3002,8 +2836,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "libvirtd: KVM 가상화를 관리하는 데몬. virsh 명령으로 제어."
+    ]
   },
   {
     "id": 168,
@@ -3020,8 +2853,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "하이퍼바이저(Hypervisor): 가상 머신을 생성·실행·관리하는 소프트웨어 계층."
+    ]
   },
   {
     "id": 169,
@@ -3038,8 +2870,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Xen: 반가상화(Para-Virtualization) 기술 기반의 오픈소스 하이퍼바이저."
+    ]
   },
   {
     "id": 170,
@@ -3056,8 +2887,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/xinetd.d/telnet의 disable = no: 텔넷 서비스 활성화 설정."
+    ]
   },
   {
     "id": 171,
@@ -3074,8 +2904,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "dhcpd.conf의 hardware ethernet: 특정 MAC 주소에 고정 IP를 할당하는 설정."
+    ]
   },
   {
     "id": 172,
@@ -3092,8 +2921,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "vncpasswd: VNC 서버에서 사용할 패스워드를 설정하는 명령."
+    ]
   },
   {
     "id": 173,
@@ -3110,8 +2938,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Teardrop 공격: IP Fragment 오프셋을 조작하여 시스템 재조합 버그를 유발하는 DoS 공격."
+    ]
   },
   {
     "id": 174,
@@ -3128,8 +2955,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Land 공격: 출발지와 목적지 IP가 동일한 패킷으로 시스템을 혼란시키는 공격."
+    ]
   },
   {
     "id": 175,
@@ -3146,8 +2972,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "상태 기반 방화벽(Stateful Inspection): 연결 상태를 추적하여 패킷 허용/거부 결정."
+    ]
   },
   {
     "id": 176,
@@ -3164,8 +2989,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "운영체제의 목적: 자원 관리, 사용자 인터페이스 제공. '데이터 영구 보존'은 OS의 직접 목적이 아니다."
+    ]
   },
   {
     "id": 177,
@@ -3182,8 +3006,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "가상화 소프트웨어: VMware, VirtualBox, KVM, Xen 등."
+    ]
   },
   {
     "id": 178,
@@ -3200,8 +3023,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "모바일 리눅스: Android, Tizen, MeeGo. 'iOS'는 Apple의 Unix 기반 OS로 리눅스가 아니다."
+    ]
   },
   {
     "id": 179,
@@ -3218,8 +3040,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GNU 라이선스: GPL, LGPL, AGPL 등이 있다. MIT, BSD는 GNU 라이선스가 아니다."
+    ]
   },
   {
     "id": 180,
@@ -3236,8 +3057,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "아시아눅스: 한국, 중국, 일본이 공동 개발한 아시아 리눅스. 한국(Hansoft)은 미참여했다."
+    ]
   },
   {
     "id": 181,
@@ -3254,8 +3074,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID 0+1: RAID 0 위에 RAID 1. 성능과 안정성 모두 확보. 최소 4개 드라이브."
+    ]
   },
   {
     "id": 182,
@@ -3272,8 +3091,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc: 시스템 설정 파일이 위치하는 디렉터리."
+    ]
   },
   {
     "id": 183,
@@ -3290,8 +3108,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ReiserFS: 작은 파일 처리에 최적화된 리눅스 저널링 파일 시스템."
+    ]
   },
   {
     "id": 184,
@@ -3308,8 +3125,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Linus Torvalds: 1991년 리눅스 커널을 개발한 핀란드 출신 프로그래머."
+    ]
   },
   {
     "id": 185,
@@ -3326,8 +3142,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "X.Org Foundation: X 윈도 시스템의 참조 구현체를 개발하는 비영리 재단."
+    ]
   },
   {
     "id": 186,
@@ -3344,8 +3159,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "셸 스크립트 산술 연산: $(( )), let, expr 사용. echo $((3+5)) = 8."
+    ]
   },
   {
     "id": 187,
@@ -3362,8 +3176,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "bash 환경변수: PS1(프롬프트), PATH(실행 파일 경로), HOME(홈 디렉터리)."
+    ]
   },
   {
     "id": 188,
@@ -3380,8 +3193,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "데몬 실행 방법: standalone(독립 실행), xinetd/inetd(수퍼 데몬 관리). '셸 스크립트로만 실행'은 틀린 설명."
+    ]
   },
   {
     "id": 189,
@@ -3398,8 +3210,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "chkconfig httpd on: 런레벨 3,4,5에서 httpd 자동 실행 설정."
+    ]
   },
   {
     "id": 190,
@@ -3416,8 +3227,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "OSI 6계층(표현 계층): 데이터 형식 변환, 암호화, 압축. JPEG, MP3가 표현 계층 관련 형식."
+    ]
   },
   {
     "id": 191,
@@ -3434,8 +3244,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "L4 스위치: OSI 4계층(전송 계층) 기반으로 로드 밸런싱, 트래픽 분산."
+    ]
   },
   {
     "id": 192,
@@ -3452,8 +3261,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "CIDR(Classless Inter-Domain Routing): IP 주소 클래스 없이 서브넷 마스크로 구분하는 방식."
+    ]
   },
   {
     "id": 193,
@@ -3470,8 +3278,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "nslookup www.ihd.or.kr: 도메인에 대한 IP 주소 조회. -type=MX로 메일 서버 확인."
+    ]
   },
   {
     "id": 194,
@@ -3488,8 +3295,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "users: 현재 로그인한 사용자 이름만 출력. who, w는 상세 정보 출력. 'finger'는 사용자 정보 출력."
+    ]
   },
   {
     "id": 195,
@@ -3506,8 +3312,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "사용자 계정 관리: UID는 고유해야 함. 'UID 중복 허용'은 틀린 설명."
+    ]
   },
   {
     "id": 196,
@@ -3524,8 +3329,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "id: 현재 사용자의 UID, GID, 그룹 모두 출력. whoami는 사용자명만."
+    ]
   },
   {
     "id": 197,
@@ -3542,8 +3346,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "su - root 또는 su -: 환경변수까지 root로 전환. su root는 환경변수 유지."
+    ]
   },
   {
     "id": 198,
@@ -3560,8 +3363,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "$HOME/.ssh/id_rsa: 개인키 파일로 권한이 600 이하여야 함(소유자만 읽기·쓰기)."
+    ]
   },
   {
     "id": 199,
@@ -3578,8 +3380,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "chmod 755 파일: -rwxr-xr-x 권한으로 변경. 소유자=rwx(7), 그룹=r-x(5), 기타=r-x(5)."
+    ]
   },
   {
     "id": 200,
@@ -3596,8 +3397,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ls -ali: -a(숨김파일 포함), -l(상세정보), -i(inode 번호 표시)."
+    ]
   },
   {
     "id": 201,
@@ -3614,8 +3414,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "find . -type f: 현재 디렉터리에서 일반 파일만 검색."
+    ]
   },
   {
     "id": 202,
@@ -3632,8 +3431,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "vi에서 [Ctrl]+[Z]: 셸 화면으로 전환(suspend). 다시 돌아오려면 fg 명령 사용."
+    ]
   },
   {
     "id": 203,
@@ -3650,8 +3448,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "service httpd status: 웹 서버 데몬 상태 확인. systemctl status httpd도 동일."
+    ]
   },
   {
     "id": 204,
@@ -3668,8 +3465,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "pkill tailf: tailf가 포함된 프로세스 강제 종료. kill $(pgrep tailf)도 동일."
+    ]
   },
   {
     "id": 205,
@@ -3686,8 +3482,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "echo $((3*4)): 정수 산술 연산. 결과: 12."
+    ]
   },
   {
     "id": 206,
@@ -3704,8 +3499,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "jobs -l: 백그라운드 작업 목록과 PID 함께 출력. -p 옵션으로 PID만 출력."
+    ]
   },
   {
     "id": 207,
@@ -3722,8 +3516,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "rpm -ivh vsftpd-2.2.2-11.el6.i686.rpm: 현재 경로의 RPM 패키지 설치."
+    ]
   },
   {
     "id": 208,
@@ -3740,8 +3533,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "yum -y install telnet: 확인 없이 telnet 패키지 바로 설치."
+    ]
   },
   {
     "id": 209,
@@ -3758,8 +3550,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "tar -tvf archive.tar: tar 묶음 파일의 내용을 확인(-t=목록보기, -v=상세, -f=파일지정)."
+    ]
   },
   {
     "id": 210,
@@ -3776,8 +3567,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "압축 해제: gzip은 gunzip 또는 gzip -d, bzip2는 bunzip2 또는 bzip2 -d. 'zip -d'는 틀린 명령."
+    ]
   },
   {
     "id": 211,
@@ -3794,8 +3584,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "커널 컴파일: 새로운 드라이버 추가, 불필요 기능 제거로 최적화 가능. '반드시 필요'는 아님."
+    ]
   },
   {
     "id": 212,
@@ -3812,8 +3601,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "make bzImage: 압축된 커널 이미지 생성. make zImage는 비압축."
+    ]
   },
   {
     "id": 213,
@@ -3830,8 +3618,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "make mrproper: 커널 소스를 완전히 초기화. make clean보다 강력하게 정리."
+    ]
   },
   {
     "id": 214,
@@ -3848,8 +3635,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "SysV init: /etc/inittab으로 런레벨 관리. systemd: unit 파일로 서비스 관리."
+    ]
   },
   {
     "id": 215,
@@ -3866,8 +3652,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "dmesg | grep sda: 새 디스크 인식 여부 확인. fdisk -l도 사용 가능."
+    ]
   },
   {
     "id": 216,
@@ -3884,8 +3669,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/fstab: 부팅 시 자동 마운트 설정 파일."
+    ]
   },
   {
     "id": 217,
@@ -3902,8 +3686,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "runlevel: 현재 및 이전 런레벨 확인 명령. who -r도 동일."
+    ]
   },
   {
     "id": 218,
@@ -3920,8 +3703,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "lpr -#2 /etc/passwd: 2장 인쇄. '-#' 또는 '-n' 옵션으로 매수 지정."
+    ]
   },
   {
     "id": 219,
@@ -3938,8 +3720,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "XSane: GUI 기반 이미지 스캐너 도구. SANE의 그래픽 프론트엔드."
+    ]
   },
   {
     "id": 220,
@@ -3956,8 +3737,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "logrotate: 로그 파일을 주기적으로 압축·백업·삭제하는 도구. /etc/logrotate.conf 설정."
+    ]
   },
   {
     "id": 221,
@@ -3974,8 +3754,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ihd 사용자 로그인 정보: last ihd, lastlog -u ihd. 'cat /var/log/secure | grep ihd'는 직접 확인 방법이다."
+    ]
   },
   {
     "id": 222,
@@ -3992,8 +3771,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "lastb: /var/log/btmp에서 로그인 실패 기록만 확인하는 명령."
+    ]
   },
   {
     "id": 223,
@@ -4010,8 +3788,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "인증키 기반 SSH 접속: ssh-keygen(키 생성), ssh-copy-id(공개키 복사), ssh 접속. '패스워드 입력 없이 접속'이 목적이다."
+    ]
   },
   {
     "id": 224,
@@ -4028,8 +3805,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Nessus: 네트워크 취약점 스캐너. nmap: 포트 스캐너. tripwire: 파일 무결성 점검."
+    ]
   },
   {
     "id": 225,
@@ -4046,8 +3822,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "SELinux 모드: Enforcing(정책 적용), Permissive(로그만), Disabled(비활성화). '학습 모드'는 없는 모드이다."
+    ]
   },
   {
     "id": 226,
@@ -4064,8 +3839,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "매일 오전 2시 백업: 0 2 * * * /backup/script.sh 형식의 crontab 설정."
+    ]
   },
   {
     "id": 227,
@@ -4082,8 +3856,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "dump: ext2/ext3/ext4 파일시스템의 증분 백업 도구. restore로 복원."
+    ]
   },
   {
     "id": 228,
@@ -4100,8 +3873,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "DSO(Dynamic Shared Object): 모듈을 동적으로 로드하는 방식. apxs로 모듈 빌드."
+    ]
   },
   {
     "id": 229,
@@ -4118,8 +3890,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "아파치 설정: DocumentRoot는 웹 문서 루트 디렉터리. ServerName은 서버 호스트명."
+    ]
   },
   {
     "id": 230,
@@ -4136,8 +3907,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "dhcpd.conf의 hardware ethernet + fixed-address: 특정 MAC 주소에 고정 IP 할당."
+    ]
   },
   {
     "id": 231,
@@ -4154,8 +3924,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "RARP(Reverse ARP): MAC 주소로 IP 주소를 알아내는 프로토콜. BOOTP/DHCP로 대체됨."
+    ]
   },
   {
     "id": 232,
@@ -4172,8 +3941,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "LDAP 속성: cn(Common Name), o(Organization), ou(Organizational Unit), dc(Domain Component). 'dn은 구분자이지 속성이 아니다'는 틀린 설명."
+    ]
   },
   {
     "id": 233,
@@ -4190,8 +3958,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/ftpusers 또는 /etc/proftpd/proftpd.conf의 <Anonymous> 블록으로 익명 접속 제어."
+    ]
   },
   {
     "id": 234,
@@ -4208,8 +3975,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/fstab NFS 설정: server:/share /mnt/nfs nfs defaults 0 0."
+    ]
   },
   {
     "id": 235,
@@ -4226,8 +3992,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "MySQL 소스 컴파일: ./configure --prefix=/usr/local/mysql 후 make, make install."
+    ]
   },
   {
     "id": 236,
@@ -4244,8 +4009,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Squid 프록시: 캐시 기능, 접근 제어(ACL). 'FTP 프록시만 지원'은 틀린 설명."
+    ]
   },
   {
     "id": 237,
@@ -4262,8 +4026,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "KVM: CPU 가상화 지원 필요(vmx/svm). '하드웨어 지원 불필요'는 틀린 설명."
+    ]
   },
   {
     "id": 238,
@@ -4280,8 +4043,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/mail/access 파일: ACCEPT(허용), RELAY(릴레이 허용), REJECT(거부), DISCARD(폐기) 정책."
+    ]
   },
   {
     "id": 239,
@@ -4298,8 +4060,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "php.ini의 allow_url_fopen: 원격 파일 포함(RFI)과 관련된 설정. on 시 원격 URL 파일 접근 허용."
+    ]
   },
   {
     "id": 240,
@@ -4316,8 +4077,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "smb.conf의 security = share: 인증 없이 삼바 서버에 접근하는 설정(보안 취약)."
+    ]
   },
   {
     "id": 241,
@@ -4334,8 +4094,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS exports 옵션 no_root_squash: 클라이언트의 root를 서버의 root로 그대로 사용."
+    ]
   },
   {
     "id": 242,
@@ -4352,8 +4111,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sendmail.cf의 Dj 매크로: 발신 도메인 강제 지정. DjMail Hub = 메일 허브 지정."
+    ]
   },
   {
     "id": 243,
@@ -4370,8 +4128,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "htpasswd: 아파치 인증 파일을 생성·관리하는 명령어."
+    ]
   },
   {
     "id": 244,
@@ -4388,8 +4145,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "smbclient -L 192.168.12.22: Windows 시스템의 삼바 공유 폴더 목록 확인."
+    ]
   },
   {
     "id": 245,
@@ -4406,8 +4162,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "newaliases: /etc/aliases 변경 후 실행. sendmail -bi와 동일."
+    ]
   },
   {
     "id": 246,
@@ -4424,8 +4179,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf의 forwarders: DNS 질의를 다른 DNS 서버로 전달하는 설정."
+    ]
   },
   {
     "id": 247,
@@ -4442,8 +4196,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "캐싱(Caching) DNS 서버: 조회 결과를 일정 기간(TTL) 저장하여 같은 요청에 빠르게 응답."
+    ]
   },
   {
     "id": 248,
@@ -4460,8 +4213,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "프록시 서버: 클라이언트와 서버 사이에서 요청을 중계하는 서버. 캐싱, 필터링, 익명화 기능."
+    ]
   },
   {
     "id": 249,
@@ -4478,8 +4230,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "xinetd.conf의 only_from: 접근을 허용할 호스트 지정. 'per_source'는 IP당 최대 인스턴스 수이다."
+    ]
   },
   {
     "id": 250,
@@ -4496,8 +4247,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Xen: 하이퍼바이저 기반 가상화. Dom0는 관리 도메인, DomU는 게스트 도메인."
+    ]
   },
   {
     "id": 251,
@@ -4514,8 +4264,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sendmail aliases: 메일 별칭으로 하나의 주소로 여러 계정에 전달. newaliases로 적용. '실시간 적용'은 틀린 설명."
+    ]
   },
   {
     "id": 252,
@@ -4532,8 +4281,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NoSQL: 비관계형 데이터베이스. 스케일 아웃 용이, 대용량 처리에 적합. '스키마 필수'는 틀린 설명."
+    ]
   },
   {
     "id": 253,
@@ -4550,8 +4298,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/sysconfig/network: NIS 도메인명을 부팅 시 적용하는 설정 파일."
+    ]
   },
   {
     "id": 254,
@@ -4568,8 +4315,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "vsftpd.conf의 max_per_ip: 하나의 IP 주소당 허용할 최대 접속 수."
+    ]
   },
   {
     "id": 255,
@@ -4586,8 +4332,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "MDA(Mail Delivery Agent): 메일함에서 메일을 가져오거나 전달을 대행하는 프로그램."
+    ]
   },
   {
     "id": 256,
@@ -4604,8 +4349,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "sendmail.cf의 Dj: 발신 도메인 강제 지정 매크로."
+    ]
   },
   {
     "id": 257,
@@ -4622,8 +4366,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "DNS 레코드 타입: A(IPv4), AAAA(IPv6), MX(메일), NS(네임서버), CNAME(별칭), PTR(역방향)."
+    ]
   },
   {
     "id": 258,
@@ -4640,8 +4383,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "xinetd.conf의 log_on_success와 log_on_failure를 통해 상세 로그를 /var/log/xinetd.log에 저장."
+    ]
   },
   {
     "id": 259,
@@ -4658,8 +4400,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Nmap: 포트 스캐닝 및 네트워크 탐색 도구. '-sS'는 SYN 스캔, '-O'는 OS 감지."
+    ]
   },
   {
     "id": 260,
@@ -4676,8 +4417,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "iptables 3가지 기본 체인: INPUT(수신), OUTPUT(송신), FORWARD(통과). 'PREROUTING'은 nat 테이블 체인."
+    ]
   },
   {
     "id": 261,
@@ -4694,8 +4434,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "TCP Wrapper의 /etc/hosts.deny: badman.com 도메인의 침입 차단. sshd: badman.com 형식."
+    ]
   },
   {
     "id": 262,
@@ -4712,8 +4451,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "iptables -A INPUT -p tcp --dport 22 -j DROP: SSH(22번 포트) 수신 패킷 모두 차단."
+    ]
   },
   {
     "id": 263,
@@ -4730,8 +4468,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "운영체제 동향: 클라우드, 가상화, 모바일화. '메인프레임 회귀'는 잘못된 동향이다."
+    ]
   },
   {
     "id": 264,
@@ -4748,8 +4485,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Ubuntu: 데비안 기반의 리눅스. 사용자 친화적 인터페이스로 데스크톱 환경에 많이 사용."
+    ]
   },
   {
     "id": 265,
@@ -4766,8 +4502,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GPL 특징: 수정 배포 시 소스 공개 의무, 저작권 표시 유지, 동일 라이선스 적용. '비공개 소스 가능'은 틀린 설명."
+    ]
   },
   {
     "id": 266,
@@ -4784,8 +4519,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "임베디드 리눅스: 라우터, 스마트TV, 의료기기 등 임베디드 시스템에 사용."
+    ]
   },
   {
     "id": 267,
@@ -4802,8 +4536,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "리눅스 배포판: Fedora(레드햇 기반), Ubuntu(데비안 기반), SUSE(독립). 'CentOS는 데비안 계열'은 틀린 설명."
+    ]
   },
   {
     "id": 268,
@@ -4820,8 +4553,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "RAID-5 사용 가능 용량: 4개×10GB에서 패리티 1개 용량 제외 = 30GB."
+    ]
   },
   {
     "id": 269,
@@ -4838,8 +4570,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ext4 파일시스템의 매직 넘버(Magic Number): 0xEF53."
+    ]
   },
   {
     "id": 270,
@@ -4856,8 +4587,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "디스플레이 매니저: 그래픽 로그인 화면 제공. GDM(GNOME), KDM(KDE), XDM(X). '런레벨과 무관'은 틀린 설명."
+    ]
   },
   {
     "id": 271,
@@ -4874,8 +4604,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "evince: PDF, PostScript, DVI 문서 뷰어. MS Word(.docx) 형식은 기본적으로 지원하지 않는다."
+    ]
   },
   {
     "id": 272,
@@ -4892,8 +4621,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "C 셸(csh): Bill Joy(빌 조이)가 개발. bash: Brian Fox 개발. sh: Stephen Bourne 개발."
+    ]
   },
   {
     "id": 273,
@@ -4910,8 +4638,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "expr: 정수 산술·비교·논리 연산을 수행하는 명령. echo $(( ))가 더 일반적."
+    ]
   },
   {
     "id": 274,
@@ -4928,8 +4655,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "[Ctrl]+[C]: SIGINT(번호 2) 전송. 실행 중인 프로세스 종료."
+    ]
   },
   {
     "id": 275,
@@ -4946,8 +4672,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "환경변수 선언: export VAR=value. 현재 셸과 하위 프로세스에 적용."
+    ]
   },
   {
     "id": 276,
@@ -4964,8 +4689,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "전송 계층(4계층) 프로토콜: TCP, UDP. IP는 3계층, HTTP는 7계층이다."
+    ]
   },
   {
     "id": 277,
@@ -4982,8 +4706,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Bootloader: 운영체제 커널을 메모리에 로드하는 프로그램. GRUB이 리눅스에서 사용."
+    ]
   },
   {
     "id": 278,
@@ -5000,8 +4723,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/28 서브넷: 256-240=16개 주소, 사용 가능 IP = 14개(네트워크, 브로드캐스트 제외)."
+    ]
   },
   {
     "id": 279,
@@ -5018,8 +4740,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/resolv.conf: DNS 서버 주소를 설정하는 파일."
+    ]
   },
   {
     "id": 280,
@@ -5036,8 +4757,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "route: 라우팅 테이블 확인 명령. route -n으로 숫자 표시."
+    ]
   },
   {
     "id": 281,
@@ -5054,8 +4774,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/login.defs: UID_MIN, GID_MIN 등 계정 생성 기본값을 설정하는 파일."
+    ]
   },
   {
     "id": 282,
@@ -5072,8 +4791,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "chage -E 2023-12-31 ihduser: 계정 만기일을 연말로 설정하는 명령."
+    ]
   },
   {
     "id": 283,
@@ -5090,8 +4808,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "groupmod -n ihd kait: kait 그룹 이름을 ihd로 변경."
+    ]
   },
   {
     "id": 284,
@@ -5108,8 +4825,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "cat /etc/group: 그룹 파일 내용 출력. 그룹명:패스워드:GID:멤버 형식."
+    ]
   },
   {
     "id": 285,
@@ -5126,8 +4842,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ls -l 결과: -rwxr-xr-x = 소유자rwx(7), 그룹r-x(5), 기타r-x(5). 첫 문자 '-'는 일반 파일."
+    ]
   },
   {
     "id": 286,
@@ -5144,8 +4859,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "edquota -u ihduser: ihduser의 디스크 사용량 제한 설정. -g 옵션은 그룹 쿼터."
+    ]
   },
   {
     "id": 287,
@@ -5162,8 +4876,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "chmod a+x: 모든 사용자에게 실행 권한 추가. u=소유자, g=그룹, o=기타, a=모두."
+    ]
   },
   {
     "id": 288,
@@ -5180,8 +4893,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "매 시간 정각 자동 실행: 0 * * * * [명령어]."
+    ]
   },
   {
     "id": 289,
@@ -5198,8 +4910,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "nice 값 범위: -20(최고 우선순위)부터 19(최저 우선순위)까지. 일반 사용자는 0~19만 설정 가능."
+    ]
   },
   {
     "id": 290,
@@ -5216,8 +4927,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "pkill -u ihduser: ihduser의 모든 프로세스 강제 종료."
+    ]
   },
   {
     "id": 291,
@@ -5234,8 +4944,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "bg: 현재 정지된 작업을 백그라운드에서 실행 재개. fg로 포어그라운드 전환."
+    ]
   },
   {
     "id": 292,
@@ -5252,8 +4961,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "fg 2: 작업번호 2번 프로세스를 포어그라운드로 전환."
+    ]
   },
   {
     "id": 293,
@@ -5270,8 +4978,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "yum search mail: 'mail' 문자열이 포함된 패키지 검색."
+    ]
   },
   {
     "id": 294,
@@ -5288,8 +4995,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Makefile: 소스 코드 빌드 규칙이 정의된 파일. make 명령으로 실행."
+    ]
   },
   {
     "id": 295,
@@ -5306,8 +5012,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "tar -xzvf 파일.tar.gz: tar.gz 파일을 현재 디렉터리에 압축 해제."
+    ]
   },
   {
     "id": 296,
@@ -5324,8 +5029,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/usr/src/kernels/: 커널 소스 파일을 다운로드하고 저장하는 디렉터리."
+    ]
   },
   {
     "id": 297,
@@ -5342,8 +5046,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "make mrproper: 모든 설정과 이전 컴파일 결과를 완전히 제거하는 가장 강력한 초기화 명령."
+    ]
   },
   {
     "id": 298,
@@ -5360,8 +5063,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "make xconfig: Qt 기반 GUI 환경에서 커널 컴파일 옵션 설정 도구."
+    ]
   },
   {
     "id": 299,
@@ -5378,8 +5080,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ELF(Executable and Linkable Format): 리눅스에서 사용하는 실행 파일 형식."
+    ]
   },
   {
     "id": 300,
@@ -5396,8 +5097,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "fdisk에서 타입 변경: t 명령으로 파티션 타입 변경. 82=Swap, 83=Linux, 8e=LVM."
+    ]
   },
   {
     "id": 301,
@@ -5414,8 +5114,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "lpr -#2 /etc/fstab: /etc/fstab 파일을 2장 인쇄."
+    ]
   },
   {
     "id": 302,
@@ -5432,8 +5131,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "System V 계열 프린터 명령: lp(인쇄), lpstat(상태), cancel(취소). lpr, lpq, lprm은 BSD 계열이다."
+    ]
   },
   {
     "id": 303,
@@ -5450,8 +5148,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "fdisk: 대화형 파티션 분할 도구. parted는 비대화형."
+    ]
   },
   {
     "id": 304,
@@ -5468,8 +5165,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "주변 장치-프로그램: 스캐너=SANE/XSane, 프린터=CUPS, 사운드=ALSA/OSS, 비디오=V4L."
+    ]
   },
   {
     "id": 305,
@@ -5486,8 +5182,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "rsyslog.conf 형식: facility.level /var/log/파일명. auth.info = 인증 정보 수준 로그."
+    ]
   },
   {
     "id": 306,
@@ -5504,8 +5199,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "logrotate 설정: /etc/logrotate.conf 또는 /etc/logrotate.d/에 파일별 설정."
+    ]
   },
   {
     "id": 307,
@@ -5522,8 +5216,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "last -s: 특정 시간 이후 로그인 정보. lastlog -b 3: 최근 3일 이내 로그인 정보."
+    ]
   },
   {
     "id": 308,
@@ -5540,8 +5233,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ASCII 로그 파일: /var/log/messages, /var/log/secure. wtmp, btmp는 바이너리 형식."
+    ]
   },
   {
     "id": 309,
@@ -5558,8 +5250,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "John the Ripper: 단순한 패스워드를 사용하는 계정을 찾는 패스워드 크래킹 도구."
+    ]
   },
   {
     "id": 310,
@@ -5576,8 +5267,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "grub-md5-crypt 또는 grub> md5crypt: GRUB에서 MD5 암호화된 패스워드 생성."
+    ]
   },
   {
     "id": 311,
@@ -5594,8 +5284,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "setenforce 1: SELinux를 Enforcing 모드로 활성화. getenforce로 현재 상태 확인."
+    ]
   },
   {
     "id": 312,
@@ -5612,8 +5301,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "백업 대상 디렉터리: /etc(설정), /home(사용자 데이터), /var(로그, 데이터베이스)."
+    ]
   },
   {
     "id": 313,
@@ -5630,8 +5318,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "restore -i -f 백업파일: dump로 백업된 파일에서 대화형으로 일부만 복원."
+    ]
   },
   {
     "id": 314,
@@ -5648,8 +5335,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "rsync -avz /source/ 192.168.1.1:/dest/: 원격 시스템으로 디렉터리 동기화."
+    ]
   },
   {
     "id": 315,
@@ -5666,8 +5352,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Nginx: 고성능 웹 서버 및 리버스 프록시. 이벤트 기반 구조로 높은 동시 접속 처리."
+    ]
   },
   {
     "id": 316,
@@ -5684,8 +5369,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "HTTP 404 Not Found: 요청한 리소스를 서버에서 찾을 수 없음."
+    ]
   },
   {
     "id": 317,
@@ -5702,8 +5386,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "아파치 소스 설치 옵션: --prefix=/usr/local/apache2로 설치 디렉터리 지정."
+    ]
   },
   {
     "id": 318,
@@ -5720,8 +5403,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "아파치 가상 호스트: /etc/httpd/conf.d/vhosts.conf에 VirtualHost 블록으로 설정."
+    ]
   },
   {
     "id": 319,
@@ -5738,8 +5420,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "LDAP(Lightweight Directory Access Protocol): 디렉터리 서비스 프로토콜. 389번 포트(LDAP), 636번(LDAPS). '계층적 구조'는 맞는 설명이다."
+    ]
   },
   {
     "id": 320,
@@ -5756,8 +5437,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NIS 클라이언트 설정: /etc/yp.conf에 NIS 서버 정보 입력."
+    ]
   },
   {
     "id": 321,
@@ -5774,8 +5454,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NFS 서버 옵션: ro(읽기전용), rw(읽기쓰기), sync(동기화), no_root_squash(root 권한 유지)."
+    ]
   },
   {
     "id": 322,
@@ -5792,8 +5471,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ypcat: NIS 맵 파일 내용 확인. ypwhich: 연결된 NIS 서버 확인. ypmatch: 특정 항목 검색."
+    ]
   },
   {
     "id": 323,
@@ -5810,8 +5488,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NIS 인증 가능 서비스: login, ssh, ftp. 'https'는 NIS와 직접 관련 없다."
+    ]
   },
   {
     "id": 324,
@@ -5828,8 +5505,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "smb.conf의 write list = @ihd: ihd 그룹 사용자에게 쓰기 권한 부여."
+    ]
   },
   {
     "id": 325,
@@ -5846,8 +5522,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/exports의 root_squash: 클라이언트의 root를 서버의 nobody로 매핑(기본값)."
+    ]
   },
   {
     "id": 326,
@@ -5864,8 +5539,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "vsftpd.conf의 anonymous_enable=YES: 익명 FTP 접속 허용."
+    ]
   },
   {
     "id": 327,
@@ -5882,8 +5556,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "MTA(Mail Transfer Agent): sendmail, postfix, exim, qmail. '메일 전송 에이전트'이다."
+    ]
   },
   {
     "id": 328,
@@ -5900,8 +5573,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Postfix: sendmail 대체용 오픈소스 MTA. 모듈형 구조로 보안·성능 우수."
+    ]
   },
   {
     "id": 329,
@@ -5918,8 +5590,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "newaliases: /etc/aliases 변경 사항 적용. postalias(Postfix)도 동일 기능."
+    ]
   },
   {
     "id": 330,
@@ -5936,8 +5607,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "named.conf: type master(마스터), type slave(슬레이브), type hint(루트 힌트) 설정."
+    ]
   },
   {
     "id": 331,
@@ -5954,8 +5624,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "named.conf 주석 형식: // (C++ 스타일), /* */ (C 스타일), # (셸 스타일) 모두 사용 가능."
+    ]
   },
   {
     "id": 332,
@@ -5972,8 +5641,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "named.conf의 zone 블록: zone 이름, 타입, 파일 경로 지정."
+    ]
   },
   {
     "id": 333,
@@ -5990,8 +5658,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "PTR 레코드: 역방향 질의용. IP 주소로 도메인 이름을 찾는 데 사용."
+    ]
   },
   {
     "id": 334,
@@ -6008,8 +5675,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "named-checkzone 도메인명 존파일: 특정 존 파일의 문법 오류 점검."
+    ]
   },
   {
     "id": 335,
@@ -6026,8 +5692,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "VirtualBox 가상 머신 파일: .vdi(가상 디스크 이미지)가 생성됨."
+    ]
   },
   {
     "id": 336,
@@ -6044,8 +5709,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "KVM이 반가상화를 지원하지 않는 하드웨어: KVM은 완전 가상화이나 virtio로 반가상화 효과. 특정 하드웨어는 지원 안 할 수 있다."
+    ]
   },
   {
     "id": 337,
@@ -6062,8 +5726,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Xen: Dom0과 DomU로 구성. Dom0이 하드웨어를 직접 제어. 'KVM과 동일한 구조'는 틀린 설명."
+    ]
   },
   {
     "id": 338,
@@ -6080,8 +5743,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "하이퍼바이저 통합 관리 플랫폼: libvirt, OpenStack, oVirt. 'VirtualBox는 단독 하이퍼바이저'이다."
+    ]
   },
   {
     "id": 339,
@@ -6098,8 +5760,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "virsh: libvirt API를 통해 KVM/Xen 가상 머신을 관리하는 CLI 도구."
+    ]
   },
   {
     "id": 340,
@@ -6116,8 +5777,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "xinetd.conf의 max_connections: 최대 동시 연결 수. instances: 동시에 실행할 최대 인스턴스 수."
+    ]
   },
   {
     "id": 341,
@@ -6134,8 +5794,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "dhcpd.conf의 range: 동적 IP 할당 범위. range 192.168.1.100 192.168.1.200."
+    ]
   },
   {
     "id": 342,
@@ -6152,8 +5811,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "squid.conf의 http_port: Squid 프록시가 수신할 포트 번호. 기본값 3128."
+    ]
   },
   {
     "id": 343,
@@ -6170,8 +5828,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "메모리 누수(Memory Leak): malloc()으로 메모리 할당 후 free()를 호출하지 않는 경우 발생."
+    ]
   },
   {
     "id": 344,
@@ -6188,8 +5845,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LOIC(Low Orbit Ion Cannon): 간단한 DDoS 공격 도구. UDP/TCP/HTTP 플러딩 가능."
+    ]
   },
   {
     "id": 345,
@@ -6206,8 +5862,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "VPN(Virtual Private Network): 공중망에서 암호화 터널링으로 사설망처럼 안전하게 연결."
+    ]
   },
   {
     "id": 346,
@@ -6224,8 +5879,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "iptables nat 테이블 체인: PREROUTING, OUTPUT, POSTROUTING. 'INPUT'은 nat 테이블에 없다."
+    ]
   },
   {
     "id": 347,
@@ -6242,8 +5896,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "iptables-save: 현재 iptables 설정을 파일로 저장. iptables-restore로 복원."
+    ]
   },
   {
     "id": 348,
@@ -6260,8 +5913,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "네트워크 Address Translation(NAT): 사설 IP를 공인 IP로 변환. IP 부족 문제 해결."
+    ]
   },
   {
     "id": 349,
@@ -6278,8 +5930,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Fedora: 레드햇에서 후원하는 최신 기술을 테스트하는 커뮤니티 배포판."
+    ]
   },
   {
     "id": 350,
@@ -6296,8 +5947,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "LVM(Logical Volume Manager): 물리적 볼륨(PV) → 볼륨 그룹(VG) → 논리 볼륨(LV) 구조."
+    ]
   },
   {
     "id": 351,
@@ -6314,8 +5964,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "리눅스 특징: 멀티유저, 멀티태스킹, 이식성(포터블). '독점 소프트웨어'는 리눅스의 특징이 아니다."
+    ]
   },
   {
     "id": 352,
@@ -6332,8 +5981,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "운영체제 특징: 사용자에게 편의성 제공, 시스템 자원 효율적 관리. '하드웨어 교체 불필요'는 틀린 설명."
+    ]
   },
   {
     "id": 353,
@@ -6350,8 +5998,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "X 클라이언트 원격 사용: DISPLAY 환경변수, xhost, xauth. 'Telnet 사용'은 X 클라이언트와 관련 없다."
+    ]
   },
   {
     "id": 354,
@@ -6368,8 +6015,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "셸 스크립트 실행: bash script.sh, sh script.sh, ./script.sh(실행 권한 필요), source script.sh. '모두 동일한 결과'는 틀린 설명."
+    ]
   },
   {
     "id": 355,
@@ -6386,8 +6032,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "GRUB에서 단일 사용자 모드 부팅: 커널 부팅 옵션에 single 또는 1을 추가하여 싱글 모드로 진입."
+    ]
   },
   {
     "id": 356,
@@ -6404,8 +6049,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "httpd 실행 방법: service httpd start, apachectl start, /usr/sbin/httpd. '현재 터미널에 직접 포어그라운드 실행'은 일반적이지 않다."
+    ]
   },
   {
     "id": 357,
@@ -6422,8 +6066,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID-6: 최소 4개 드라이브, 패리티 2개로 2개 드라이브 동시 고장 허용."
+    ]
   },
   {
     "id": 358,
@@ -6440,8 +6083,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "저널링(Journaling): 파일시스템 변경 사항을 저널에 기록하여 비정상 종료 시 복구. '속도 저하 없음'은 틀린 설명."
+    ]
   },
   {
     "id": 359,
@@ -6458,8 +6100,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "LVM 구성요소: PV(물리 볼륨), VG(볼륨 그룹), LV(논리 볼륨). VG의 기본 단위는 PE(Physical Extent)이다."
+    ]
   },
   {
     "id": 360,
@@ -6476,8 +6117,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "셸(Shell) 특징: 명령어 해석기, 스크립트 실행, 환경변수 관리. '커널의 일부'는 틀린 설명."
+    ]
   },
   {
     "id": 361,
@@ -6494,8 +6134,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "grep -v: 패턴이 포함되지 않은 줄 출력. -n: 줄 번호 표시. -i: 대소문자 무시."
+    ]
   },
   {
     "id": 362,
@@ -6512,8 +6151,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GID(Group ID): 그룹의 숫자 식별자. /etc/group에서 그룹 정보 관리."
+    ]
   },
   {
     "id": 363,
@@ -6530,8 +6168,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "스타(Star) 토폴로지: 허브/스위치를 중심으로 연결. 중앙 장애 시 전체 영향."
+    ]
   },
   {
     "id": 364,
@@ -6548,8 +6185,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "IPv6: 128비트 주소 체계, 16진수 콜론(:) 구분. 'IPv4보다 짧은 주소'는 틀린 설명."
+    ]
   },
   {
     "id": 365,
@@ -6566,8 +6202,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "표현 계층(6계층): 데이터 형식 변환, 암호화, 압축. ASCII, JPEG, MPEG이 관련 형식."
+    ]
   },
   {
     "id": 366,
@@ -6584,8 +6219,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "IP 주소 확인: ip addr show, ifconfig. 'route'는 라우팅 테이블 확인이다."
+    ]
   },
   {
     "id": 367,
@@ -6602,8 +6236,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "파일 권한 rw-r--r-- = 644. 디렉터리 권한 rwxr-xr-x = 755가 일반적."
+    ]
   },
   {
     "id": 368,
@@ -6620,8 +6253,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "top 명령 실행 중: k(kill), r(renice), q(종료), h(도움말). 'z=컬러 전환'은 맞는 설명이다."
+    ]
   },
   {
     "id": 369,
@@ -6638,8 +6270,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "소스 컴파일: ./configure → make → make install 순서."
+    ]
   },
   {
     "id": 370,
@@ -6656,8 +6287,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/group: 그룹명:패스워드(x):GID:멤버 형식. '두 번째 필드가 패스워드'는 맞는 설명."
+    ]
   },
   {
     "id": 371,
@@ -6674,8 +6304,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "find / -perm /4000: SUID가 설정된 파일 탐색. /6000은 SUID+SGID."
+    ]
   },
   {
     "id": 372,
@@ -6692,8 +6321,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "cp, mv, rm: 파일 복사, 이동/이름변경, 삭제 명령어."
+    ]
   },
   {
     "id": 373,
@@ -6710,8 +6338,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "셸 변수 출력: echo $변수명 또는 echo ${변수명}."
+    ]
   },
   {
     "id": 374,
@@ -6728,8 +6355,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "which: 명령어의 전체 경로 출력. whereis: 바이너리, 소스, 매뉴얼 페이지 경로 출력."
+    ]
   },
   {
     "id": 375,
@@ -6746,8 +6372,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "매주 일요일 오전 3시 실행: 0 3 * * 0 [명령어]. 0=일요일, 1-6=월-토."
+    ]
   },
   {
     "id": 376,
@@ -6764,8 +6389,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "killall httpd: httpd 이름의 모든 프로세스에 시그널 전송."
+    ]
   },
   {
     "id": 377,
@@ -6782,8 +6406,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "yum install vsftpd: vsftpd 패키지 설치 명령."
+    ]
   },
   {
     "id": 378,
@@ -6800,8 +6423,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "yum install sendmail: sendmail 패키지 설치. yum search로 먼저 검색 가능."
+    ]
   },
   {
     "id": 379,
@@ -6818,8 +6440,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "tar + 압축 옵션: -z(gzip), -j(bzip2), -J(xz). 'tar -xzf archive.tar.bz2'는 틀린 조합."
+    ]
   },
   {
     "id": 380,
@@ -6836,8 +6457,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "root 사용자: UID=0, GID=0. 패스워드 없이도 su로 전환 가능한 것은 보안 문제가 있다."
+    ]
   },
   {
     "id": 381,
@@ -6854,8 +6474,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ln -s: 심볼릭 링크 생성. ln(하드 링크)와 달리 원본 파일 삭제 시 링크 깨짐."
+    ]
   },
   {
     "id": 382,
@@ -6872,8 +6491,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "병렬 포트 장치 파일: /dev/lp0, /dev/lp1 등. 'USB 프린터'는 /dev/usb/lp0이다."
+    ]
   },
   {
     "id": 383,
@@ -6890,8 +6508,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "lpr -#2 /etc/passwd: /etc/passwd 파일 2장 인쇄."
+    ]
   },
   {
     "id": 384,
@@ -6908,8 +6525,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "커널 컴파일 마지막 단계: make install. 부트로더 설정 자동 업데이트."
+    ]
   },
   {
     "id": 385,
@@ -6926,8 +6542,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "netstat -an: 모든 연결 및 리스닝 포트를 숫자로 표시."
+    ]
   },
   {
     "id": 386,
@@ -6944,8 +6559,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "modprobe -r --remove 모듈명: 모듈과 의존성 모듈 함께 제거."
+    ]
   },
   {
     "id": 387,
@@ -6962,8 +6576,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "CUPS 웹 인터페이스: http://localhost:631 접속. 프린터 관리 가능."
+    ]
   },
   {
     "id": 388,
@@ -6980,8 +6593,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "make help: 커널 컴파일 관련 도움말 확인."
+    ]
   },
   {
     "id": 389,
@@ -6998,8 +6610,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "modules.dep 위치: /lib/modules/2.6.32-696.el6.i686/modules.dep."
+    ]
   },
   {
     "id": 390,
@@ -7016,8 +6627,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "lsmod: 현재 커널에 로드된 모듈 목록 출력."
+    ]
   },
   {
     "id": 391,
@@ -7034,8 +6644,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "rsync 특징: 변경된 파일만 전송(증분 전송), 원격 동기화 지원. '전체 파일 항상 전송'은 틀린 설명."
+    ]
   },
   {
     "id": 392,
@@ -7052,8 +6661,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "dd: 블록 단위로 데이터 복사. if=입력, of=출력, bs=블록크기, count=블록수."
+    ]
   },
   {
     "id": 393,
@@ -7070,8 +6678,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "initrd(초기 RAM 디스크): 부팅 시 임시 루트 파일시스템으로 사용하는 이미지."
+    ]
   },
   {
     "id": 394,
@@ -7088,8 +6695,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "PAM(Pluggable Authentication Modules): auth(인증), account(계정), password(패스워드), session(세션)."
+    ]
   },
   {
     "id": 395,
@@ -7106,8 +6712,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "last -1 reboot: 가장 최근 재부팅 1개만 출력."
+    ]
   },
   {
     "id": 396,
@@ -7124,8 +6729,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sudo: root 권한이 필요한 명령을 일반 사용자가 실행 가능. /etc/sudoers 파일 설정. 'sudo는 패스워드 없이 항상 사용'은 틀린 설명."
+    ]
   },
   {
     "id": 397,
@@ -7142,8 +6746,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/inittab: SysV 초기화 파일. 런레벨과 기본 실행 레벨 정의. systemd에서는 사용 안 함."
+    ]
   },
   {
     "id": 398,
@@ -7160,8 +6763,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "명령어-파일: userdel=/etc/passwd·/etc/shadow, groupadd=/etc/group, crontab=/var/spool/cron."
+    ]
   },
   {
     "id": 399,
@@ -7178,8 +6780,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "스왑 공간: 물리 메모리 부족 시 사용하는 하드디스크 일부 영역. 가상 메모리 구현."
+    ]
   },
   {
     "id": 400,
@@ -7196,8 +6797,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "HTTP 403 Forbidden: 서버가 요청을 이해했으나 권한이 없어 거부하는 상태 코드."
+    ]
   },
   {
     "id": 401,
@@ -7214,8 +6814,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LDAP의 sn(surname): 성(Last name). cn=Common Name, givenName=이름."
+    ]
   },
   {
     "id": 402,
@@ -7232,8 +6831,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/sysconfig/network의 NISDOMAIN: 부팅 시 NIS 도메인명 설정."
+    ]
   },
   {
     "id": 403,
@@ -7250,8 +6848,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "삼바(Samba): Windows와 리눅스 파일/프린터 공유. SMB/CIFS 프로토콜 사용. 'NFS 기반'은 틀린 설명."
+    ]
   },
   {
     "id": 404,
@@ -7268,8 +6865,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Firefox: Mozilla 재단이 개발한 오픈소스 웹 브라우저. Chromium은 Google 기반."
+    ]
   },
   {
     "id": 405,
@@ -7286,8 +6882,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "PHP 5.3 이상 권장 태그: <?php ... ?>. <? ?>는 짧은 태그로 기본 비활성화."
+    ]
   },
   {
     "id": 406,
@@ -7304,8 +6899,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "MTA 프로그램: sendmail, postfix, qmail, exim. 'Procmail'은 MDA(Mail Delivery Agent)이다."
+    ]
   },
   {
     "id": 407,
@@ -7322,8 +6916,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "newaliases: /etc/aliases의 정보를 읽어 aliases.db를 업데이트하는 명령."
+    ]
   },
   {
     "id": 408,
@@ -7340,8 +6933,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "named.conf에서 zone 파일 위치: /var/named/ 디렉터리. '설정 오류 시 자동 복구'는 없는 기능이다."
+    ]
   },
   {
     "id": 409,
@@ -7358,8 +6950,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "SOA 레코드 필드: serial(직렬번호), refresh(갱신주기), retry(재시도), expire(만료), minimum(최소 TTL)."
+    ]
   },
   {
     "id": 410,
@@ -7376,8 +6967,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "PTR 레코드: 역방향 존 파일에서만 사용. IP → 도메인명 변환."
+    ]
   },
   {
     "id": 411,
@@ -7394,8 +6984,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "운영체제 가상화: VM별로 완전한 OS 실행. 컨테이너와 달리 커널을 별도로 사용."
+    ]
   },
   {
     "id": 412,
@@ -7412,8 +7001,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "컨테이너 가상화: Docker, LXC. 호스트 커널을 공유하여 가볍고 빠름."
+    ]
   },
   {
     "id": 413,
@@ -7430,8 +7018,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "네트워크 기반 인증: NIS, LDAP, Kerberos. 'FTP'는 파일 전송 프로토콜로 인증 서비스가 아니다."
+    ]
   },
   {
     "id": 414,
@@ -7448,8 +7035,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Squid: 인터넷 프록시 캐싱 서버. HTTP, FTP, HTTPS 프록시 지원."
+    ]
   },
   {
     "id": 415,
@@ -7466,8 +7052,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "hosts.allow 형식: 서비스명: 허용_호스트. ALL: 모든 서비스에 적용."
+    ]
   },
   {
     "id": 416,
@@ -7484,8 +7069,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "TCP Wrapper를 이용한 접근제어: /etc/hosts.allow와 /etc/hosts.deny 파일 수정."
+    ]
   },
   {
     "id": 417,
@@ -7502,8 +7086,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS /etc/exports 옵션: rw(읽기쓰기), ro(읽기전용), sync, no_root_squash, root_squash."
+    ]
   },
   {
     "id": 418,
@@ -7520,8 +7103,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "sendmail.mc → sendmail.cf 변환: m4 sendmail.mc > sendmail.cf 명령 사용."
+    ]
   },
   {
     "id": 419,
@@ -7538,8 +7120,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Squid ACL: acl로 접근 규칙 정의, http_access로 허용/거부 설정."
+    ]
   },
   {
     "id": 420,
@@ -7556,8 +7137,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "가상화 기능: 서버 통합, 자원 효율화, 테스트 환경 구축. '물리적 하드웨어 완전 대체'는 틀린 설명."
+    ]
   },
   {
     "id": 421,
@@ -7574,8 +7154,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "vsftpd.conf의 local_enable=YES: 로컬 사용자 FTP 접속 허용."
+    ]
   },
   {
     "id": 422,
@@ -7592,8 +7171,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named-checkzone 도메인명 파일: 존 파일의 문법 오류 검사."
+    ]
   },
   {
     "id": 423,
@@ -7610,8 +7188,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "xinetd.conf의 instances = 50: 최대 50개 인스턴스(프로세스) 생성 제한."
+    ]
   },
   {
     "id": 424,
@@ -7628,8 +7205,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "VNC 해상도 변경: ~/.vnc/xstartup 파일에서 해상도 옵션 변경."
+    ]
   },
   {
     "id": 425,
@@ -7646,8 +7222,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NTP(Network Time Protocol): UDP 123번 포트 사용. stratum 계층 구조. '직접 연결 시스템 필요'는 틀린 설명."
+    ]
   },
   {
     "id": 426,
@@ -7664,8 +7239,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "아파치 오류: AH00558(ServerName 미설정). /etc/httpd/conf/httpd.conf에서 ServerName 설정."
+    ]
   },
   {
     "id": 427,
@@ -7682,8 +7256,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SOA 레코드의 시리얼 번호: 존 파일 변경 시마다 증가. 슬레이브 서버가 업데이트 여부 확인에 사용."
+    ]
   },
   {
     "id": 428,
@@ -7700,8 +7273,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "apxs: 아파치 확장 모듈을 동적 공유 객체(DSO)로 빌드하는 도구."
+    ]
   },
   {
     "id": 429,
@@ -7718,8 +7290,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "md5sum 또는 sha256sum: 다운로드된 파일의 무결성 검증."
+    ]
   },
   {
     "id": 430,
@@ -7736,8 +7307,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SSH 포트 공격 방어 도구: fail2ban, DenyHosts, iptables. 'Tripwire'는 파일 무결성 점검 도구이다."
+    ]
   },
   {
     "id": 431,
@@ -7754,8 +7324,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "MITM(Man-in-the-Middle) 공격: 통신 중간에서 데이터를 가로채고 변조하는 공격."
+    ]
   },
   {
     "id": 432,
@@ -7772,8 +7341,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "iptables -t mangle: 패킷 데이터(TOS, TTL)를 변경하는 특수 테이블."
+    ]
   },
   {
     "id": 433,
@@ -7790,8 +7358,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "DDoS 도구: LOIC, HOIC, Slowloris. nmap은 포트 스캐너로 DDoS 도구가 아니다."
+    ]
   },
   {
     "id": 434,
@@ -7808,8 +7375,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "DRDoS(Distributed Reflection DoS): 반사 서버를 이용해 피해자에게 대량 트래픽을 보내는 공격."
+    ]
   },
   {
     "id": 435,
@@ -7826,8 +7392,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "LGPL(Lesser GPL): 라이브러리로 사용 시 소스 공개 불필요. 2차 저작물 비공개 가능."
+    ]
   },
   {
     "id": 436,
@@ -7844,8 +7409,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "LVM(Logical Volume Manager): 디스크 공간을 유연하게 관리. 기존 기술보다 공간 효율적."
+    ]
   },
   {
     "id": 437,
@@ -7862,8 +7426,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "레드햇 계열 배포판: CentOS, Fedora, RHEL. Ubuntu는 데비안 계열이다."
+    ]
   },
   {
     "id": 438,
@@ -7880,8 +7443,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "모놀리식 커널(Monolithic Kernel): 모든 커널 서비스가 하나의 커널 공간에서 실행."
+    ]
   },
   {
     "id": 439,
@@ -7898,8 +7460,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Beowulf 클러스터: 고성능 병렬 계산을 위한 리눅스 기반 클러스터 시스템."
+    ]
   },
   {
     "id": 440,
@@ -7916,8 +7477,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "데몬(Daemon): 백그라운드에서 실행되는 서비스 프로세스. 'd'로 끝나는 경우가 많음."
+    ]
   },
   {
     "id": 441,
@@ -7934,8 +7494,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "파이프(|): 첫 번째 명령의 출력을 두 번째 명령의 입력으로 연결."
+    ]
   },
   {
     "id": 442,
@@ -7952,8 +7511,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "X 윈도 구성: X 서버(디스플레이 관리), X 클라이언트(응용 프로그램). 'X 클라이언트가 화면 담당'은 틀린 설명."
+    ]
   },
   {
     "id": 443,
@@ -7970,8 +7528,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/rc.d/rc.local: 시스템 부팅 마지막에 실행되는 스크립트 파일. 자동 실행 명령 추가에 사용."
+    ]
   },
   {
     "id": 444,
@@ -7988,8 +7545,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "bash 조건문: if [ 조건 ]; then ... elif ... else ... fi 구조."
+    ]
   },
   {
     "id": 445,
@@ -8006,8 +7562,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GRUB2: /boot/grub2/grub.cfg가 설정 파일. grub2-mkconfig로 생성."
+    ]
   },
   {
     "id": 446,
@@ -8024,8 +7579,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "리눅스: 모놀리식 커널 구조. 마이크로커널이 아니다."
+    ]
   },
   {
     "id": 447,
@@ -8042,8 +7596,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "시그널(Signal): 프로세스 간 비동기적 통신 방법. kill -l로 시그널 목록 확인."
+    ]
   },
   {
     "id": 448,
@@ -8060,8 +7613,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "OSI 계층 데이터 단위: 물리=비트, 데이터링크=프레임, 네트워크=패킷, 전송=세그먼트."
+    ]
   },
   {
     "id": 449,
@@ -8078,8 +7630,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "게이트웨이 확인: route, ip route, netstat -r. 'ping'은 게이트웨이 확인 명령이 아니다."
+    ]
   },
   {
     "id": 450,
@@ -8096,8 +7647,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/25 서브넷마스크: 255.255.255.128. 128개 주소 중 사용 가능 126개."
+    ]
   },
   {
     "id": 451,
@@ -8114,8 +7664,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "IANA(Internet Assigned Numbers Authority): IP 주소, 포트 번호, 도메인 최상위 관리 기관."
+    ]
   },
   {
     "id": 452,
@@ -8132,8 +7681,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "fork(): 현재 프로세스를 복제하여 자식 프로세스 생성. exec()로 다른 프로그램 실행."
+    ]
   },
   {
     "id": 453,
@@ -8150,8 +7698,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "pwconv: /etc/passwd와 /etc/shadow 파일을 동기화하는 명령. 섀도 패스워드 활성화."
+    ]
   },
   {
     "id": 454,
@@ -8168,8 +7715,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "셸 제어구조: for, while, until, if, case 등으로 흐름 제어."
+    ]
   },
   {
     "id": 455,
@@ -8186,8 +7732,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "우선순위 변경: nice(새 프로세스), renice(실행 중 프로세스). 'ps'는 우선순위 변경 명령이 아니다."
+    ]
   },
   {
     "id": 456,
@@ -8204,8 +7749,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "월·수·금 오후 4시 30분: 30 16 * * 1,3,5 [스크립트]. 0=일,1=월,2=화,3=수,4=목,5=금,6=토."
+    ]
   },
   {
     "id": 457,
@@ -8222,8 +7766,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/login.defs의 UID_MIN: useradd 시 기본으로 할당되는 최소 UID 값 설정."
+    ]
   },
   {
     "id": 458,
@@ -8240,8 +7783,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "수동 마운트: mount /dev/sdb1 /mnt. umount로 언마운트."
+    ]
   },
   {
     "id": 459,
@@ -8258,8 +7800,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "touch -t: 파일의 타임스탬프(접근·수정 시간)를 지정한 시간으로 변경."
+    ]
   },
   {
     "id": 460,
@@ -8276,8 +7817,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "find / -perm -4000 -type f: SUID가 설정된 모든 파일 탐색."
+    ]
   },
   {
     "id": 461,
@@ -8294,8 +7834,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "file: 파일의 유형을 분석하는 명령. 바이너리, 텍스트, 이미지 등 확인."
+    ]
   },
   {
     "id": 462,
@@ -8312,8 +7851,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "yum remove telnet-server: yum을 이용해 telnet-server 패키지 제거."
+    ]
   },
   {
     "id": 463,
@@ -8330,8 +7868,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "rpm -e httpd: RPM으로 httpd 패키지 제거. -e 옵션은 erase."
+    ]
   },
   {
     "id": 464,
@@ -8348,8 +7885,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "jobs: 백그라운드 또는 정지된 프로세스 목록 확인 명령."
+    ]
   },
   {
     "id": 465,
@@ -8366,8 +7902,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "프로세스 이름 기반 명령: pkill, killall. 'kill'은 PID 기반이다."
+    ]
   },
   {
     "id": 466,
@@ -8384,8 +7919,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "stat: 파일의 inode 정보(크기, 권한, atime, mtime, ctime)를 상세히 출력."
+    ]
   },
   {
     "id": 467,
@@ -8402,8 +7936,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "quotacheck: 파일 시스템을 검사하여 quota 기록 파일(aquota.user, aquota.group) 생성."
+    ]
   },
   {
     "id": 468,
@@ -8420,8 +7953,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "df -h: 파일시스템 디스크 사용량을 사람이 읽기 쉬운 형식으로 출력."
+    ]
   },
   {
     "id": 469,
@@ -8438,8 +7970,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "root 사용자 관리: 직접 원격 로그인 차단, sudo 사용, 로그인 감사. 'root 패스워드 모든 직원 공유'는 잘못된 정책."
+    ]
   },
   {
     "id": 470,
@@ -8456,8 +7987,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "리눅스 커널: 모놀리식 구조이지만 모듈 동적 로드 가능. '마이크로커널'은 틀린 설명."
+    ]
   },
   {
     "id": 471,
@@ -8474,8 +8004,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "lpr 파일명: 기본 프린터로 파일 출력. lp도 동일 기능."
+    ]
   },
   {
     "id": 472,
@@ -8492,8 +8021,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "lprm: BSD 계열 인쇄 취소 명령. cancel은 System V/CUPS 계열. 'lpstat -r'은 프린터 상태 확인이다."
+    ]
   },
   {
     "id": 473,
@@ -8510,8 +8038,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "lp: System V 계열 인쇄 명령. lpr은 BSD 계열."
+    ]
   },
   {
     "id": 474,
@@ -8528,8 +8055,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "modules.dep: 모듈 간 의존성 정보가 기록된 파일. depmod로 생성."
+    ]
   },
   {
     "id": 475,
@@ -8546,8 +8072,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "리눅스 인쇄 시스템: CUPS(Common Unix Printing System)가 현재 표준. LPR/LPD는 구식."
+    ]
   },
   {
     "id": 476,
@@ -8564,8 +8089,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "모듈(Module): 커널 기능을 확장하는 동적 로드 가능 코드. '모듈은 커널 재부팅 없이 로드/언로드 가능'은 맞는 설명이다."
+    ]
   },
   {
     "id": 477,
@@ -8582,8 +8106,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "HDD 추가 과정: 인식→파티션(fdisk)→포맷(mkfs)→마운트(mount). 'lvm'은 선택적 단계이다."
+    ]
   },
   {
     "id": 478,
@@ -8600,8 +8123,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "사운드 카드: ALSA 또는 OSS 프레임워크. /dev/sound 또는 /dev/dsp. '단일 응용 프로그램만 접근'은 틀린 설명."
+    ]
   },
   {
     "id": 479,
@@ -8618,8 +8140,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "scanadf: 자동 문서 공급기(ADF) 지원 스캐너에서 여러 페이지를 자동으로 스캔."
+    ]
   },
   {
     "id": 480,
@@ -8636,8 +8157,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "rsyslog.conf의 auth.* 설정: 인증 관련 모든 수준 로그를 지정 터미널로 전송."
+    ]
   },
   {
     "id": 481,
@@ -8654,8 +8174,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "at: 지정 시간에 한 번만 명령 실행. crontab은 주기적 실행."
+    ]
   },
   {
     "id": 482,
@@ -8672,8 +8191,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "tar --listed-incremental: 증분 백업(incremental backup) 옵션."
+    ]
   },
   {
     "id": 483,
@@ -8690,8 +8208,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ping: ICMP Echo 요청으로 네트워크 연결 확인. -c 옵션으로 횟수 지정."
+    ]
   },
   {
     "id": 484,
@@ -8708,8 +8225,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Amanda(Advanced Maryland Automatic Network Disk Archiver): 네트워크 기반 오픈소스 백업 도구."
+    ]
   },
   {
     "id": 485,
@@ -8726,8 +8242,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Snort: 네트워크 침입 탐지 및 방지 시스템(IDS/IPS). 시그니처 기반 탐지."
+    ]
   },
   {
     "id": 486,
@@ -8744,8 +8259,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "vi로 편집 가능한 로그: /var/log/messages(텍스트). wtmp, btmp는 바이너리이므로 vi 불가."
+    ]
   },
   {
     "id": 487,
@@ -8762,8 +8276,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "백업 대상: /etc(설정), /home(사용자 데이터), /var/www(웹 데이터), /var/lib(DB)."
+    ]
   },
   {
     "id": 488,
@@ -8780,8 +8293,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "dhcpd.conf의 log-facility: DHCP 로그를 전달할 syslog facility 지정."
+    ]
   },
   {
     "id": 489,
@@ -8798,8 +8310,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "smb.conf의 valid users = ihduser1 ihduser2: 특정 사용자만 공유 디렉터리 접근 허용."
+    ]
   },
   {
     "id": 490,
@@ -8816,8 +8327,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LDAP 구성: DIT(Directory Information Tree), DN(Distinguished Name), DC(Domain Component)."
+    ]
   },
   {
     "id": 491,
@@ -8834,8 +8344,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "squid.conf의 acl mynet src 192.168.1.0/24 + http_access allow mynet: 특정 대역만 허용."
+    ]
   },
   {
     "id": 492,
@@ -8852,8 +8361,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "virt-top: 터미널 환경에서 KVM 가상 머신의 CPU, 메모리 자원을 모니터링하는 명령."
+    ]
   },
   {
     "id": 493,
@@ -8870,8 +8378,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "HTTP PUT 메소드: 지정한 URL에 파일 업로드. GET(조회), POST(제출), DELETE(삭제)."
+    ]
   },
   {
     "id": 494,
@@ -8888,8 +8395,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/vsftpd/vsftpd.conf의 local_root: 로컬 사용자의 홈 디렉터리 대체 경로 설정."
+    ]
   },
   {
     "id": 495,
@@ -8906,8 +8412,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "httpd.conf의 AddType application/x-httpd-php .php .php3: PHP 확장자 처리 설정."
+    ]
   },
   {
     "id": 496,
@@ -8924,8 +8429,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NIS 서버 필수 데몬: ypserv, yppasswdd, ypxfrd. 'rpcbind(portmap)'도 필요. 'named'는 불필요."
+    ]
   },
   {
     "id": 497,
@@ -8942,8 +8446,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NIS 클라이언트 /etc/yp.conf: domain 도메인명 server 서버IP 형식으로 설정."
+    ]
   },
   {
     "id": 498,
@@ -8960,8 +8463,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "showmount -e NFS서버: NFS 서버의 익스포트 목록 확인 명령."
+    ]
   },
   {
     "id": 499,
@@ -8978,8 +8480,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/mail/.forward 파일: 사용자의 메일을 다른 메일 주소로 전달하는 설정."
+    ]
   },
   {
     "id": 500,
@@ -8996,8 +8497,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NFS /etc/exports: /share 192.168.1.0/24(rw,sync,no_root_squash) 형식으로 설정."
+    ]
   },
   {
     "id": 501,
@@ -9014,8 +8514,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "sendmail의 makemap hash로 업데이트 필요한 파일: /etc/mail/access, /etc/mail/virtusertable."
+    ]
   },
   {
     "id": 502,
@@ -9032,8 +8531,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "DNS 역방향(Reverse) 존 파일이 없으면: PTR 질의(IP→도메인) 실패. 정방향 질의는 정상."
+    ]
   },
   {
     "id": 503,
@@ -9050,8 +8548,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf의 listen-on 또는 listen-on-v6: DNS 서버가 수신할 인터페이스/IP 지정."
+    ]
   },
   {
     "id": 504,
@@ -9068,8 +8565,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "가상화 효과: 자원 효율화, 비용 절감, 가용성 향상, 빠른 프로비저닝."
+    ]
   },
   {
     "id": 505,
@@ -9086,8 +8582,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "KVM 서비스 시작(CentOS 6): service libvirtd start. libvirt 패키지 설치 필요."
+    ]
   },
   {
     "id": 506,
@@ -9104,8 +8599,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "독립 실행 서비스: httpd(웹서버), vsftpd(FTP서버) 등. xinetd는 수퍼 데몬으로 관리되는 서비스."
+    ]
   },
   {
     "id": 507,
@@ -9122,8 +8616,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/vsftpd/ftpusers: 이 파일에 등록된 사용자는 FTP 접속 차단."
+    ]
   },
   {
     "id": 508,
@@ -9140,8 +8633,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "vsftpd.conf의 chroot_local_user=YES: 로컬 사용자를 홈 디렉터리에 가두는(chroot) 설정."
+    ]
   },
   {
     "id": 509,
@@ -9158,8 +8650,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Dovecot: IMAP 및 POP3 서버 프로그램. Courier-IMAP도 동일 역할."
+    ]
   },
   {
     "id": 510,
@@ -9176,8 +8667,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SMTP(Simple Mail Transfer Protocol): 메일 전송 프로토콜. TCP 25번 포트 사용."
+    ]
   },
   {
     "id": 511,
@@ -9194,8 +8684,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "bash 함수 정의: function 이름() { 내용; } 또는 이름() { 내용; }."
+    ]
   },
   {
     "id": 512,
@@ -9212,8 +8701,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "DNS 존 파일 위치: /var/named/ 디렉터리. named.conf에서 file 옵션으로 지정."
+    ]
   },
   {
     "id": 513,
@@ -9230,8 +8718,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "KVM 반가상화(virtio): 네트워크(virtio-net), 스토리지(virtio-blk/scsi) 드라이버 지원."
+    ]
   },
   {
     "id": 514,
@@ -9248,8 +8735,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "VirtualBox 디스크 이미지: VDI(자체), VMDK(VMware), VHD(Hyper-V). QCOW2는 QEMU/KVM 형식이다."
+    ]
   },
   {
     "id": 515,
@@ -9266,8 +8752,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "xinetd 적합 서비스: 접속 빈도가 낮고, 응답 지연이 허용되는 서비스. FTP보다 telnet에 적합."
+    ]
   },
   {
     "id": 516,
@@ -9284,8 +8769,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "vncpasswd: VNC 서버 패스워드 설정 명령."
+    ]
   },
   {
     "id": 517,
@@ -9302,8 +8786,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ntpdate ntp.서버주소: NTP 서버에서 시간 동기화. 수동 시간 동기화."
+    ]
   },
   {
     "id": 518,
@@ -9320,8 +8803,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "init: 모든 프로세스의 부모 프로세스(PID=1). 런레벨 변경, 시스템 초기화 담당."
+    ]
   },
   {
     "id": 519,
@@ -9338,8 +8820,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "UDP Flooding: 대량의 UDP 패킷으로 대역폭을 소진시키는 DoS 공격."
+    ]
   },
   {
     "id": 520,
@@ -9356,8 +8837,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "스위칭 재밍(MAC Flooding): 스위치의 MAC 테이블을 가득 채워 허브처럼 브로드캐스팅하게 만드는 공격."
+    ]
   },
   {
     "id": 521,
@@ -9374,8 +8854,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "DoS 공격 분류: 대역폭 소모(Bandwidth Attack), 자원 소모(Resource Exhaustion). '패스워드 크래킹'은 DoS 분류가 아니다."
+    ]
   },
   {
     "id": 522,
@@ -9392,8 +8871,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "리눅스 배포판 역사: Slackware(1993) → Red Hat(1994) → Debian(1993년 시작) → Ubuntu(2004)."
+    ]
   },
   {
     "id": 523,
@@ -9410,8 +8888,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SUSE Linux: 독일의 Novell에서 개발한 기업용 리눅스 배포판."
+    ]
   },
   {
     "id": 524,
@@ -9428,8 +8905,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "BSD 라이선스: 소스 공개 의무 없음. 상업적 사용 및 소스 비공개 가능."
+    ]
   },
   {
     "id": 525,
@@ -9446,8 +8922,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "클라우드 컴퓨팅: 인터넷을 통해 IT 자원을 서비스로 제공하는 기술."
+    ]
   },
   {
     "id": 526,
@@ -9464,8 +8939,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "마이크로커널(Microkernel): 최소한의 기능만 커널에 포함. 나머지는 사용자 공간에서 실행."
+    ]
   },
   {
     "id": 527,
@@ -9482,8 +8956,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID-6 with 6 drv: 사용 가능 용량 = (전체 - 패리티2개) = 4개 드라이브. 4/6=66.7%."
+    ]
   },
   {
     "id": 528,
@@ -9500,8 +8973,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "시그널 키 조합: Ctrl+C=SIGINT(2), Ctrl+Z=SIGTSTP(20), Ctrl+\\=SIGQUIT(3). 'Ctrl+D는 시그널이 아니라 EOF'이다."
+    ]
   },
   {
     "id": 529,
@@ -9518,8 +8990,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ssh-keygen: SSH 키 쌍 생성. ssh-copy-id: 공개키를 원격 서버에 복사."
+    ]
   },
   {
     "id": 530,
@@ -9536,8 +9007,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "X 포워딩(X Forwarding): ssh -X로 원격지 X 클라이언트를 로컬에 표시. DISPLAY 환경변수 자동 설정."
+    ]
   },
   {
     "id": 531,
@@ -9554,8 +9024,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SetUID 파일 위치: /bin, /usr/bin, /usr/sbin 등에 있는 특수 실행 파일."
+    ]
   },
   {
     "id": 532,
@@ -9572,8 +9041,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID: 여러 디스크를 하나처럼 사용하여 성능 향상 또는 데이터 보호."
+    ]
   },
   {
     "id": 533,
@@ -9590,8 +9058,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "history 5 또는 history | tail -5: 최근 5개 명령어 출력."
+    ]
   },
   {
     "id": 534,
@@ -9608,8 +9075,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "X 관련 프로그램: xterm(터미널), xclock(시계), xeyes(눈알). GNOME/KDE는 데스크톱 환경이다."
+    ]
   },
   {
     "id": 535,
@@ -9626,8 +9092,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/sysconfig/network-scripts/ifcfg-eth0 주요 항목: DEVICE, BOOTPROTO, IPADDR, NETMASK, GATEWAY, ONBOOT."
+    ]
   },
   {
     "id": 536,
@@ -9644,8 +9109,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ifconfig eth0 192.168.1.100 netmask 255.255.255.0: 수동 IP 설정. 재부팅 시 초기화됨."
+    ]
   },
   {
     "id": 537,
@@ -9662,8 +9126,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "도메인 계층구조: root(.) → TLD(.com,.kr) → SLD(example) → 서브도메인(www). '플랫(Flat) 구조'는 틀린 설명."
+    ]
   },
   {
     "id": 538,
@@ -9680,8 +9143,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "OSI 7계층: 물리(1)~응용(7). '데이터링크 계층에서 IP 주소 사용'은 틀린 설명."
+    ]
   },
   {
     "id": 539,
@@ -9698,8 +9160,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "crontab 파일 위치: /var/spool/cron/ihduser (사용자별로 저장)."
+    ]
   },
   {
     "id": 540,
@@ -9716,8 +9177,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "nohup 명령: 터미널 종료 후에도 명령이 계속 실행되도록 SIGHUP 시그널 무시."
+    ]
   },
   {
     "id": 541,
@@ -9734,8 +9194,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "rpm -ql 패키지명: 패키지가 설치하는 파일 및 디렉터리 목록 확인."
+    ]
   },
   {
     "id": 542,
@@ -9752,8 +9211,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ls -l 결과에서 3번째 필드=소유자, 4번째 필드=소유 그룹, 5번째=파일 크기."
+    ]
   },
   {
     "id": 543,
@@ -9770,8 +9228,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "1주일에 3회: 월·수·금 또는 화·목·토 등으로 설정. 0 0 * * 1,3,5 [명령어]."
+    ]
   },
   {
     "id": 544,
@@ -9788,8 +9245,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ls -la 결과: 첫 문자 '-'=일반파일, 'd'=디렉터리, 'l'=심볼릭링크."
+    ]
   },
   {
     "id": 545,
@@ -9806,8 +9262,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/shadow: 패스워드 해시 알고리즘 정보. $6$=SHA-512, $5$=SHA-256, $1$=MD5."
+    ]
   },
   {
     "id": 546,
@@ -9824,8 +9279,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "chown ihduser:kait 파일: 소유자와 소유 그룹 동시 변경."
+    ]
   },
   {
     "id": 547,
@@ -9842,8 +9296,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "sed -n '11,20p' lin.txt: 11번째 행부터 20번째 행까지 출력."
+    ]
   },
   {
     "id": 548,
@@ -9860,8 +9313,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "yum search telnet-server → yum install telnet-server 순서로 패키지 검색 후 설치."
+    ]
   },
   {
     "id": 549,
@@ -9878,8 +9330,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "소스 컴파일 설치 과정: tar로 압축 해제 → ./configure → make → make install."
+    ]
   },
   {
     "id": 550,
@@ -9896,8 +9347,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "pkill -u ihduser: ihduser 사용자의 모든 프로세스 강제 종료."
+    ]
   },
   {
     "id": 551,
@@ -9914,8 +9364,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "데비안 패키지 관리: apt, apt-get, dpkg. 'rpm'은 레드햇 계열 패키지 도구이다."
+    ]
   },
   {
     "id": 552,
@@ -9932,8 +9381,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "압축 효율(좋은 순): xz > bzip2 > gzip > compress."
+    ]
   },
   {
     "id": 553,
@@ -9950,8 +9398,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/fstab에 usrquota,grpquota 옵션 추가: 사용자·그룹 쿼터 활성화."
+    ]
   },
   {
     "id": 554,
@@ -9968,8 +9415,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "df -h: 파일시스템별 디스크 사용량 확인. du는 특정 디렉터리 사용량 확인."
+    ]
   },
   {
     "id": 555,
@@ -9986,8 +9432,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/exports 파일 형식: /공유경로 호스트(옵션)."
+    ]
   },
   {
     "id": 556,
@@ -10004,8 +9449,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "chage -d 0 ihduser: 다음 로그인 시 반드시 패스워드 변경하도록 설정."
+    ]
   },
   {
     "id": 557,
@@ -10022,8 +9466,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "modprobe -r 모듈명: 지정 모듈과 의존성 모듈 함께 제거."
+    ]
   },
   {
     "id": 558,
@@ -10040,8 +9483,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "modinfo: 모듈의 상세 정보(파일경로, 버전, 파라미터 등) 출력."
+    ]
   },
   {
     "id": 559,
@@ -10058,8 +9500,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "eth0 설정: BOOTPROTO=none 또는 static이면 고정 IP. ONBOOT=yes면 부팅 시 자동 활성화."
+    ]
   },
   {
     "id": 560,
@@ -10076,8 +9517,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "IPP 포트: TCP 631번. 웹 기반 CUPS 관리 인터페이스도 631번 사용."
+    ]
   },
   {
     "id": 561,
@@ -10094,8 +9534,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "system-config-printer: CentOS 6에서 X 윈도 기반 프린터 설정 도구."
+    ]
   },
   {
     "id": 562,
@@ -10112,8 +9551,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "파일 내용 출력: cat(전체), head(앞부분), tail(뒷부분), more/less(페이지 단위)."
+    ]
   },
   {
     "id": 563,
@@ -10130,8 +9568,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "리눅스 인쇄 시스템: CUPS(현재 표준), LPD(구식 BSD), LPRng(개선된 LPD)."
+    ]
   },
   {
     "id": 564,
@@ -10148,8 +9585,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "make xconfig: Qt 기반 X 윈도 GUI 커널 컴파일 설정 도구."
+    ]
   },
   {
     "id": 565,
@@ -10166,8 +9602,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "시스템 백업: 정기적 증분 백업, 원격지 저장, 복원 테스트 필수. '전체 백업만 수행'은 비효율적이다."
+    ]
   },
   {
     "id": 566,
@@ -10184,8 +9619,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "tar --newer 날짜 -cvf backup.tar /경로: 지정 날짜 이후 변경된 파일만 백업."
+    ]
   },
   {
     "id": 567,
@@ -10202,8 +9636,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/var/log/wtmp: 로그인/로그아웃 기록(바이너리). last 명령으로 확인."
+    ]
   },
   {
     "id": 568,
@@ -10220,8 +9653,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sysctl -w net.ipv4.tcp_keepalive_time=10800: TCP 연결 상태를 3시간(10800초) 유지."
+    ]
   },
   {
     "id": 569,
@@ -10238,8 +9670,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "logrotate는 기본 매일 실행. 2일 전 이후 로그 관련 설정 확인은 /etc/logrotate.conf를 봐야 한다."
+    ]
   },
   {
     "id": 570,
@@ -10256,8 +9687,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "logrotate 기능: 주기적 회전, 압축, 삭제, 메일 전송. '실시간 로그 모니터링'은 logrotate 기능이 아니다."
+    ]
   },
   {
     "id": 571,
@@ -10274,8 +9704,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "chattr 기호: +(속성 추가), -(속성 제거), =(속성 설정). '*'는 chattr에서 사용하지 않는 기호이다."
+    ]
   },
   {
     "id": 572,
@@ -10292,8 +9721,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Tripwire: 파일 무결성 점검 도구. 기준 데이터베이스와 비교하여 변경 탐지."
+    ]
   },
   {
     "id": 573,
@@ -10310,8 +9738,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Amanda: 오픈소스 네트워크 백업 유틸리티. 테이프·디스크 백업 지원."
+    ]
   },
   {
     "id": 574,
@@ -10328,8 +9755,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Red Hat Directory Server: 레드햇에서 개발한 LDAP 서버 프로그램."
+    ]
   },
   {
     "id": 575,
@@ -10346,8 +9772,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS 클라이언트 /etc/fstab: server:/share /mnt/nfs nfs defaults 0 0."
+    ]
   },
   {
     "id": 576,
@@ -10364,8 +9789,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "HTTP 메소드: GET(조회), POST(생성/제출), PUT(수정/업로드), DELETE(삭제)."
+    ]
   },
   {
     "id": 577,
@@ -10382,8 +9806,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NIS 맵 파일 위치: /var/yp/도메인명/ 디렉터리."
+    ]
   },
   {
     "id": 578,
@@ -10400,8 +9823,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "root_squash: NFS 클라이언트의 root를 서버의 nobody(nfsnobody)로 매핑하여 보안 강화."
+    ]
   },
   {
     "id": 579,
@@ -10418,8 +9840,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "vsftpd.conf의 anon_upload_enable=YES: 익명 사용자 업로드 허용."
+    ]
   },
   {
     "id": 580,
@@ -10436,8 +9857,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "sendmail 관련: ㉠=MTA(메일 전송), ㉡=MDA(메일 배달)."
+    ]
   },
   {
     "id": 581,
@@ -10454,8 +9874,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "sendmail.cf의 Dj 매크로: 발신 도메인 강제 지정. DjIhd.or.kr."
+    ]
   },
   {
     "id": 582,
@@ -10472,8 +9891,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/mail/virtusertable: 가상 주소를 실제 사용자로 매핑하는 파일."
+    ]
   },
   {
     "id": 583,
@@ -10490,8 +9908,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SOA 레코드: zone 이름 IN SOA 네임서버 관리자이메일(점으로 @대체) (시리얼번호 리프레시 재시도 만료 TTL)."
+    ]
   },
   {
     "id": 584,
@@ -10508,8 +9925,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "하드웨어 가상화(Full Virtualization): Guest OS를 수정 없이 실행. VT-x, AMD-V 기술 필요."
+    ]
   },
   {
     "id": 585,
@@ -10526,8 +9942,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "하이퍼바이저 통합 관리 플랫폼: libvirt, OpenStack, oVirt. 'Xen Cloud Platform(XCP)'도 포함."
+    ]
   },
   {
     "id": 586,
@@ -10544,8 +9959,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "컨테이너 가상화: Docker, LXC. 커널을 공유하여 오버헤드 최소화."
+    ]
   },
   {
     "id": 587,
@@ -10562,8 +9976,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "역방향 존 파일 경로: IP를 역순으로 나열. 192.168.12.0 네트워크 → 12.168.192.in-addr.arpa."
+    ]
   },
   {
     "id": 588,
@@ -10580,8 +9993,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "커널 모듈로 제공되는 가상화: KVM. 재부팅 없이도 modprobe kvm으로 로드 가능하지만 완전한 서비스를 위해서는 재부팅 권장."
+    ]
   },
   {
     "id": 589,
@@ -10598,8 +10010,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "아파치 httpd.conf의 Listen: 서버가 수신할 포트 번호 설정. 기본값 80."
+    ]
   },
   {
     "id": 590,
@@ -10616,8 +10027,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "named.conf의 allow-transfer: 존 전송(zone transfer)을 허용할 슬레이브 서버 IP 지정."
+    ]
   },
   {
     "id": 591,
@@ -10634,8 +10044,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NIS 서버 맵 파일: passwd.byname, passwd.byuid (사용자 정보)."
+    ]
   },
   {
     "id": 592,
@@ -10652,8 +10061,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "smbclient -L: Windows 공유 폴더 목록 확인. -N은 패스워드 없이 접근."
+    ]
   },
   {
     "id": 593,
@@ -10670,8 +10078,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/security/access.conf: PAM 기반 사용자 접근 제어 파일. - : ALL EXCEPT 형식."
+    ]
   },
   {
     "id": 594,
@@ -10688,8 +10095,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "MTA 프로그램: sendmail, postfix, qmail, exim. 'fetchmail'은 MRA(Mail Retrieval Agent)이다."
+    ]
   },
   {
     "id": 595,
@@ -10706,8 +10112,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sendmail의 /etc/mail/local-host-names: 여러 도메인의 메일을 받기 위한 도메인 목록."
+    ]
   },
   {
     "id": 596,
@@ -10724,8 +10129,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ypinit -m: NIS 서버(Master)를 초기화하는 명령."
+    ]
   },
   {
     "id": 597,
@@ -10742,8 +10146,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "존 파일의 @: 현재 도메인을 나타내는 심볼. $ORIGIN으로 설정된 도메인."
+    ]
   },
   {
     "id": 598,
@@ -10760,8 +10163,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "캐싱 전용 DNS 서버: 존 파일 없이 다른 DNS 서버에서 결과를 캐시하여 응답."
+    ]
   },
   {
     "id": 599,
@@ -10778,8 +10180,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "squid.conf의 http_port 3128: Squid 기본 포트 번호."
+    ]
   },
   {
     "id": 600,
@@ -10796,8 +10197,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "dhcpd.conf의 option routers: 게이트웨이(라우터) 주소 지정."
+    ]
   },
   {
     "id": 601,
@@ -10814,8 +10214,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "VNC 해상도 설정: ~/.vnc/xstartup에서 geometry 옵션으로 지정."
+    ]
   },
   {
     "id": 602,
@@ -10832,8 +10231,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "systemd 관련: systemctl start/stop/restart/status 서비스명으로 서비스 제어."
+    ]
   },
   {
     "id": 603,
@@ -10850,8 +10248,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "iptables -j LOG: 매칭 패킷을 syslog에 기록. /var/log/messages에서 확인."
+    ]
   },
   {
     "id": 604,
@@ -10868,8 +10265,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/hosts.deny: 특정 호스트의 서비스 접근을 차단. sshd: 호스트명/IP 형식."
+    ]
   },
   {
     "id": 605,
@@ -10886,8 +10282,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "iptables -P INPUT DROP: INPUT 체인의 기본 정책을 DROP으로 설정."
+    ]
   },
   {
     "id": 606,
@@ -10904,8 +10299,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "IP Spoofing: 패킷의 출발지 IP를 위조하여 다른 시스템으로 위장하는 공격."
+    ]
   },
   {
     "id": 607,
@@ -10922,8 +10316,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "SYN Flooding: socket() → connect()(SYN 전송)를 반복하여 서버의 연결 큐 소진."
+    ]
   },
   {
     "id": 608,
@@ -10940,8 +10333,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "AGPL(Affero GPL): 네트워크로 제공하는 소프트웨어에도 소스 공개 의무 적용. 다른 GPL과 다른 조항."
+    ]
   },
   {
     "id": 609,
@@ -10958,8 +10350,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "웹 서버 클러스터링: L4 스위치 + 여러 웹 서버 조합으로 부하 분산 및 고가용성 확보."
+    ]
   },
   {
     "id": 610,
@@ -10976,8 +10367,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Gentoo Linux: 소스 기반 패키지 관리(Portage). 사용자가 직접 컴파일하여 최적화."
+    ]
   },
   {
     "id": 611,
@@ -10994,8 +10384,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "하이퍼바이저 타입 1(Bare-metal): 하드웨어 위에 직접 설치. Xen, VMware ESXi."
+    ]
   },
   {
     "id": 612,
@@ -11012,8 +10401,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "IaaS(Infrastructure as a Service): 가상화된 컴퓨팅 자원(서버, 스토리지, 네트워크)을 제공."
+    ]
   },
   {
     "id": 613,
@@ -11030,8 +10418,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "LVM 구성 순서: pvcreate(PV 생성) → vgcreate(VG 생성) → lvcreate(LV 생성) → mkfs(포맷) → mount."
+    ]
   },
   {
     "id": 614,
@@ -11048,8 +10435,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "grub.conf의 default=1: 두 번째 항목(0부터 시작)이 기본 부팅 OS."
+    ]
   },
   {
     "id": 615,
@@ -11066,8 +10452,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SIGRTMAX: 실시간 시그널 중 가장 큰 번호. 일반적으로 64번이 최대 시그널 번호."
+    ]
   },
   {
     "id": 616,
@@ -11084,8 +10469,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "bash 산술 확장 $((expression)): 정수 산술 연산 결과 출력."
+    ]
   },
   {
     "id": 617,
@@ -11102,8 +10486,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "GNOME 3 윈도 매니저: Mutter. GNOME 2는 Metacity. KDE는 KWin."
+    ]
   },
   {
     "id": 618,
@@ -11120,8 +10503,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "[Ctrl]+[Z]: 포어그라운드 프로세스를 suspend하여 백그라운드로 전환. bg 명령으로 재개."
+    ]
   },
   {
     "id": 619,
@@ -11138,8 +10520,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "명령1 && 명령2: 명령1이 성공(exit code 0)하면 명령2 실행."
+    ]
   },
   {
     "id": 620,
@@ -11156,8 +10537,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "DISPLAY 환경변수: X 클라이언트가 연결할 X 서버 지정. export DISPLAY=host:0.0."
+    ]
   },
   {
     "id": 621,
@@ -11174,8 +10554,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "telinit 1 또는 init 1: 단일 사용자 모드로 전환."
+    ]
   },
   {
     "id": 622,
@@ -11192,8 +10571,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Ping of Death 대응: ICMP 프로토콜 차단 또는 비정상적 큰 ICMP 패킷 필터링."
+    ]
   },
   {
     "id": 623,
@@ -11210,8 +10588,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "TCP: 연결 지향, 신뢰성 있는 전송. UDP: 비연결형, 비신뢰성. 'UDP가 더 빠름'은 맞는 설명이다."
+    ]
   },
   {
     "id": 624,
@@ -11228,8 +10605,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "FTP 서비스 명령어: get(다운로드), put(업로드), ls(목록). 'chmod'는 FTP에서 직접 사용하지 않는다."
+    ]
   },
   {
     "id": 625,
@@ -11246,8 +10622,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "PAM(Pluggable Authentication Modules): 인증 모듈 플러그인 구조로 다양한 인증 방식 지원."
+    ]
   },
   {
     "id": 626,
@@ -11264,8 +10639,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "umask 022: 파일 기본 권한 666에서 022 제거 = 644. 디렉터리 777에서 022 제거 = 755."
+    ]
   },
   {
     "id": 627,
@@ -11282,8 +10656,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/shadow 필드 순서: 사용자명:패스워드해시:마지막변경:최소기간:최대기간:경고:비활성:만기일:예약."
+    ]
   },
   {
     "id": 628,
@@ -11300,8 +10673,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "./configure --help: 소스 컴파일 옵션 도움말 확인."
+    ]
   },
   {
     "id": 629,
@@ -11318,8 +10690,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "월·수·금 오전 4시 1분: 1 4 * * 1,3,5 [명령어]."
+    ]
   },
   {
     "id": 630,
@@ -11336,8 +10707,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "touch -t 202301010000 lin.txt: lin.txt의 타임스탬프를 2023년 1월 1일로 변경."
+    ]
   },
   {
     "id": 631,
@@ -11354,8 +10724,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/crontab: 시스템 전체 crontab 파일. 사용자 crontab은 /var/spool/cron/에 위치."
+    ]
   },
   {
     "id": 632,
@@ -11372,8 +10741,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "usermod -l lin joon: joon 사용자 이름을 lin으로 변경."
+    ]
   },
   {
     "id": 633,
@@ -11390,8 +10758,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SUID가 설정된 일반 파일: /bin/passwd, /usr/bin/sudo 등. '디렉터리에 SUID는 일반적이지 않다'."
+    ]
   },
   {
     "id": 634,
@@ -11408,8 +10775,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "스왑 파일 생성: dd if=/dev/zero of=/swapfile bs=1M count=512 → mkswap /swapfile → swapon /swapfile."
+    ]
   },
   {
     "id": 635,
@@ -11426,8 +10792,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ulimit -a: 현재 사용자의 모든 자원 제한(파일, 프로세스, 메모리 등) 확인."
+    ]
   },
   {
     "id": 636,
@@ -11444,8 +10809,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "오프라인 패키지 관리: rpm. 온라인 패키지 관리: yum, dnf, apt. 'rpm은 온라인 패키지 관리가 거리가 멀다'."
+    ]
   },
   {
     "id": 637,
@@ -11462,8 +10826,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "NI 값 범위: -20(최고 우선순위)~19(최저 우선순위). 일반 사용자는 0~19만 설정 가능."
+    ]
   },
   {
     "id": 638,
@@ -11480,8 +10843,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "yum search telnet: 'telnet' 문자열이 포함된 패키지 전부 검색."
+    ]
   },
   {
     "id": 639,
@@ -11498,8 +10860,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/hosts: IP 주소와 호스트명 매핑. DNS 조회 전 먼저 참조."
+    ]
   },
   {
     "id": 640,
@@ -11516,8 +10877,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "kill -l: 시그널 목록과 번호 확인 명령."
+    ]
   },
   {
     "id": 641,
@@ -11534,8 +10894,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "du -sh /home/ihduser: ihduser의 홈 디렉터리 총 사용량 확인. -s=요약, -h=사람이 읽기 쉬운 형식."
+    ]
   },
   {
     "id": 642,
@@ -11552,8 +10911,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "로그인 사용자 확인: who, w, users, finger. 'ps'는 프로세스 목록으로 로그인 사용자 확인이 아니다."
+    ]
   },
   {
     "id": 643,
@@ -11570,8 +10928,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "gpasswd -A admin_user groupname: 그룹 관리자 지정 명령."
+    ]
   },
   {
     "id": 644,
@@ -11588,8 +10945,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/fstab 등록 형식: /dev/sdb1 /mnt/data ext4 defaults 0 2."
+    ]
   },
   {
     "id": 645,
@@ -11606,8 +10962,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "lp -d lp -n 2 lin.txt: lp라는 프린터에 2장 출력."
+    ]
   },
   {
     "id": 646,
@@ -11624,8 +10979,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "VLAN(Virtual LAN): 물리적 네트워크를 논리적으로 분리하는 기술."
+    ]
   },
   {
     "id": 647,
@@ -11642,8 +10996,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "커널 모듈 디렉터리: /lib/modules/커널버전/."
+    ]
   },
   {
     "id": 648,
@@ -11660,8 +11013,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/aliases 파일 형식: 별칭: 실제사용자 또는 이메일."
+    ]
   },
   {
     "id": 649,
@@ -11678,8 +11030,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ext4 파일시스템: 저널링 지원, 최대 1EB 볼륨, 16TB 파일 크기 지원."
+    ]
   },
   {
     "id": 650,
@@ -11696,8 +11047,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "System V 계열 프린터 명령: lp(인쇄), lpstat(상태), cancel(취소). lpr은 BSD 계열 명령이다."
+    ]
   },
   {
     "id": 651,
@@ -11714,8 +11064,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "depmod -a: 모든 커널 모듈의 의존성 정보를 갱신하여 modules.dep 파일 재생성."
+    ]
   },
   {
     "id": 652,
@@ -11732,8 +11081,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "make menuconfig: 텍스트 기반 ncurses GUI 커널 컴파일 설정 도구."
+    ]
   },
   {
     "id": 653,
@@ -11750,8 +11098,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "crontab -e: 현재 사용자의 crontab 편집. -l: 목록보기, -r: 삭제."
+    ]
   },
   {
     "id": 654,
@@ -11768,8 +11115,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SSH 키 인증 설정: ssh-keygen → ~/.ssh/authorized_keys에 공개키 추가 → ssh 접속."
+    ]
   },
   {
     "id": 655,
@@ -11786,8 +11132,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "cpio: 아카이브 백업 명령. -o(출력/생성), -i(입력/복원), -p(복사)."
+    ]
   },
   {
     "id": 656,
@@ -11804,8 +11149,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "SELinux 설정: /etc/selinux/config 파일에서 SELINUX=enforcing/permissive/disabled 설정. '런레벨 변경으로 비활성화'는 틀린 방법."
+    ]
   },
   {
     "id": 657,
@@ -11822,8 +11166,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "sshd_config의 Port: SSH 서버 포트 번호 변경. PermitRootLogin: root 접속 허용 여부."
+    ]
   },
   {
     "id": 658,
@@ -11840,8 +11183,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "logrotate 설정: create 0755 system admin = 새 로그 파일을 권한 0755, 소유자 system, 그룹 admin으로 생성."
+    ]
   },
   {
     "id": 659,
@@ -11858,8 +11200,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "inotify: 파일 시스템 이벤트(생성, 삭제, 변경)를 실시간으로 모니터링하는 리눅스 기능."
+    ]
   },
   {
     "id": 660,
@@ -11876,8 +11217,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "rsyslog.conf의 *.emerg /log/emerg.log: 모든 시설의 emerg 수준 로그를 파일에 기록."
+    ]
   },
   {
     "id": 661,
@@ -11894,8 +11234,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/var/log/messages: rsyslog의 기본 로그 저장 위치."
+    ]
   },
   {
     "id": 662,
@@ -11912,8 +11251,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "named.conf의 allow-recursion: 재귀 질의를 허용할 호스트 지정."
+    ]
   },
   {
     "id": 663,
@@ -11930,8 +11268,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LDAP의 cn(Common Name): 이름과 성의 조합. displayName도 사용 가능."
+    ]
   },
   {
     "id": 664,
@@ -11948,8 +11285,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS /etc/exports: /nfsdata 192.168.5.0/24(rw,sync) 형식으로 특정 대역만 허용."
+    ]
   },
   {
     "id": 665,
@@ -11966,8 +11302,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Postfix 주요 설정 파일: /etc/postfix/main.cf(기본 설정), master.cf(서비스 설정)."
+    ]
   },
   {
     "id": 666,
@@ -11984,8 +11319,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "아파치 httpd -M: 로드된 모듈 목록 확인. -l은 정적 컴파일 모듈만 표시."
+    ]
   },
   {
     "id": 667,
@@ -12002,8 +11336,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "아파치 MPM(다중 처리 모듈): prefork(안정적), worker(멀티스레드), event(비동기). 'worker는 멀티스레드 기반'이 맞는 설명."
+    ]
   },
   {
     "id": 668,
@@ -12020,8 +11353,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "NIS와 관련 없는 것: Kerberos(독립 인증), DNS(도메인 서비스). NIS는 사용자·그룹 정보 공유에 사용."
+    ]
   },
   {
     "id": 669,
@@ -12038,8 +11370,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "smb.conf 설정 파일: /etc/samba/smb.conf. [global] 섹션과 공유 정의 섹션으로 구성."
+    ]
   },
   {
     "id": 670,
@@ -12056,8 +11387,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "smb.conf의 valid users = ihduser kaituser: 지정된 사용자만 공유 접근 허용."
+    ]
   },
   {
     "id": 671,
@@ -12074,8 +11404,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Procmail: 수신 메일을 규칙에 따라 분류·필터링·전달하는 MDA 프로그램."
+    ]
   },
   {
     "id": 672,
@@ -12092,8 +11421,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "smbpasswd -a 사용자명: 삼바 사용자 정보 파일에 새 사용자 추가."
+    ]
   },
   {
     "id": 673,
@@ -12110,8 +11438,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf의 zone ihd.or.kr: type master; file /var/named/ihd.zone 형식 설정."
+    ]
   },
   {
     "id": 674,
@@ -12128,8 +11455,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NS 레코드: IN NS 네임서버이름.; 형식. 네임서버 지정."
+    ]
   },
   {
     "id": 675,
@@ -12146,8 +11472,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "zone 파일 지정: named.conf에서 zone 블록 안의 file 옵션으로 존 파일 경로 지정."
+    ]
   },
   {
     "id": 676,
@@ -12164,8 +11489,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "가상화 효과: 물리 서버 수 감소로 전력·냉각비용 절감, 공간 효율화."
+    ]
   },
   {
     "id": 677,
@@ -12182,8 +11506,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Xen 데몬 시작: service xend start. DomU 가상 머신 생성은 xm create 명령 사용."
+    ]
   },
   {
     "id": 678,
@@ -12200,8 +11523,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "squid.conf의 cache_dir: 캐시 저장 디렉터리와 크기 설정."
+    ]
   },
   {
     "id": 679,
@@ -12218,8 +11540,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "dhcpd.conf의 option domain-name-servers: DNS 서버 주소 할당."
+    ]
   },
   {
     "id": 680,
@@ -12236,8 +11557,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "아파치 httpd.conf의 UserDir: 사용자 홈 디렉터리 웹 서비스 경로 설정. 기본값 public_html."
+    ]
   },
   {
     "id": 681,
@@ -12254,8 +11574,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NoSQL 데이터베이스: MongoDB, Redis, Cassandra. MySQL, PostgreSQL은 관계형(SQL) DB이다."
+    ]
   },
   {
     "id": 682,
@@ -12272,8 +11591,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "rpcbind(portmap): NFS 등 RPC 서비스를 사용하기 위해 필요한 데몬. CentOS 6에서 사용."
+    ]
   },
   {
     "id": 683,
@@ -12290,8 +11608,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "showmount -e NFS서버: NFS 서버에 익스포트된 공유 디렉터리 목록 확인."
+    ]
   },
   {
     "id": 684,
@@ -12308,8 +11625,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "vsftpd.conf의 tcp_wrappers=YES: TCP Wrapper(/etc/hosts.allow, hosts.deny)를 통한 접근 제어 활성화."
+    ]
   },
   {
     "id": 685,
@@ -12326,8 +11642,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NIS 도메인 설정: domainname 명령 또는 /etc/sysconfig/network에 NISDOMAIN 설정."
+    ]
   },
   {
     "id": 686,
@@ -12344,8 +11659,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/pam.d/: PAM 설정 파일 디렉터리. 서비스별 인증 설정 파일 위치."
+    ]
   },
   {
     "id": 687,
@@ -12362,8 +11676,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/xinetd.d/telnet: xinetd로 관리되는 텔넷 서비스 설정 파일."
+    ]
   },
   {
     "id": 688,
@@ -12380,8 +11693,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "BIND(named): DNS 서버 구현체. named 패키지 설치 후 named.conf 설정."
+    ]
   },
   {
     "id": 689,
@@ -12398,8 +11710,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Docker: 컨테이너 기반 가상화 기술. 애플리케이션과 환경을 이미지로 패키징."
+    ]
   },
   {
     "id": 690,
@@ -12416,8 +11727,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "fail2ban: 로그 파일을 분석하여 반복 실패 IP를 차단하는 보안 도구."
+    ]
   },
   {
     "id": 691,
@@ -12434,8 +11744,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "iptables -D INPUT 2: INPUT 체인의 두 번째 규칙 삭제."
+    ]
   },
   {
     "id": 692,
@@ -12452,8 +11761,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "at -l 또는 atq: 예약된 at 작업 목록 확인. atrm으로 취소."
+    ]
   },
   {
     "id": 693,
@@ -12470,8 +11778,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ARP Spoofing: 가짜 ARP 응답으로 MAC 테이블을 오염시켜 트래픽을 가로채는 공격."
+    ]
   },
   {
     "id": 694,
@@ -12488,8 +11795,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Slow Loris: HTTP 요청을 천천히 전송하여 웹 서버의 연결 수를 소진시키는 DoS 공격."
+    ]
   },
   {
     "id": 695,
@@ -12506,8 +11812,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "클라우드 컴퓨팅: 인터넷으로 IT 자원 제공. '클라우드는 반드시 퍼블릭'은 틀린 설명."
+    ]
   },
   {
     "id": 696,
@@ -12524,8 +11829,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "멀티태스킹(Multitasking): 여러 프로세스를 동시에 실행하는 기능. 리눅스의 기본 특성."
+    ]
   },
   {
     "id": 697,
@@ -12542,8 +11846,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "GPL v2 vs v3: v3는 특허 조항, 티보이제이션 방지 추가. '라이선스 변경 없음'은 틀린 설명."
+    ]
   },
   {
     "id": 698,
@@ -12560,8 +11863,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "리눅스 특징: 유닉스 호환, 오픈소스, 멀티유저, 멀티태스킹. '상업적 사용 불가'는 틀린 설명."
+    ]
   },
   {
     "id": 699,
@@ -12578,8 +11880,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "데비안 계열: Ubuntu, Kali, Raspbian. CentOS는 레드햇 계열이다."
+    ]
   },
   {
     "id": 700,
@@ -12596,8 +11897,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SIGTERM(15): 정상 종료 요청. SIGKILL(9): 강제 종료. 'SIGTERM은 무시 가능'은 맞는 설명이다."
+    ]
   },
   {
     "id": 701,
@@ -12614,8 +11914,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ntsysv: 텍스트 기반의 서비스 자동 실행 설정 유틸리티. chkconfig와 동일한 기능."
+    ]
   },
   {
     "id": 702,
@@ -12632,8 +11931,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "프로세스 정의: 실행 중인 프로그램의 인스턴스. '프로그램 소스 코드 자체'는 프로세스가 아니다."
+    ]
   },
   {
     "id": 703,
@@ -12650,8 +11948,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "X 윈도: X 서버가 디스플레이를 담당하고, X 클라이언트가 응용 프로그램 실행. '반대 개념'이 흔한 오답이다."
+    ]
   },
   {
     "id": 704,
@@ -12668,8 +11965,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "bash 조건문 비교 연산자: -eq(같음), -ne(다름), -gt(크다), -lt(작다), -ge(크거나같음)."
+    ]
   },
   {
     "id": 705,
@@ -12686,8 +11982,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "커널 업데이트: yum update kernel 또는 소스 컴파일. 재부팅 후 새 커널 적용."
+    ]
   },
   {
     "id": 706,
@@ -12704,8 +11999,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/motd: 로그인 후 메시지. /etc/issue: 로그인 전 메시지. '로그인 전 표시 파일'은 /etc/issue이다."
+    ]
   },
   {
     "id": 707,
@@ -12722,8 +12016,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "inode: 파일의 메타데이터(크기, 권한, 소유자, 블록 위치) 저장. 파일명은 디렉터리 엔트리에 저장."
+    ]
   },
   {
     "id": 708,
@@ -12740,8 +12033,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "셸 특징: 명령어 해석, 스크립트 실행, 환경변수 관리, 파이프·리다이렉션. '운영체제 커널과 동일'은 틀린 설명."
+    ]
   },
   {
     "id": 709,
@@ -12758,8 +12050,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "점보 프레임(Jumbo Frame): MTU를 9000바이트 이상으로 설정하여 대용량 데이터 전송 효율화. '기본 MTU와 동일'은 틀린 설명."
+    ]
   },
   {
     "id": 710,
@@ -12776,8 +12067,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "TCP: 연결 지향, 신뢰성, 순서 보장. UDP: 비연결형, 빠른 전송, 순서 미보장. 'UDP가 더 신뢰성 높다'는 틀린 설명."
+    ]
   },
   {
     "id": 711,
@@ -12794,8 +12084,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "IPv6: 128비트 주소를 콜론(:)으로 구분. 예: 2001:0db8:85a3:0000:0000:8a2e:0370:7334."
+    ]
   },
   {
     "id": 712,
@@ -12812,8 +12101,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ICMP: ping과 traceroute에서 사용. 방화벽에서 ICMP를 차단하여 불필요한 네트워크 부하 감소."
+    ]
   },
   {
     "id": 713,
@@ -12830,8 +12118,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "netstat: 네트워크 연결 상태, 라우팅 테이블, 통계 확인 명령."
+    ]
   },
   {
     "id": 714,
@@ -12848,8 +12135,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/proc/PID/exe: 해당 PID의 프로세스를 실행한 파일의 심볼릭 링크."
+    ]
   },
   {
     "id": 715,
@@ -12866,8 +12152,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "10분 주기 실행: */10 * * * * [명령어]. */로 주기 설정."
+    ]
   },
   {
     "id": 716,
@@ -12884,8 +12169,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "grep '^a' lin.txt: a로 시작하는 줄 검색. ^는 줄 시작을 나타내는 정규식."
+    ]
   },
   {
     "id": 717,
@@ -12902,8 +12186,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "파일 권한 변경: chmod, 소유자 변경: chown, 그룹 변경: chgrp. 'usermod'는 사용자 계정 수정이다."
+    ]
   },
   {
     "id": 718,
@@ -12920,8 +12203,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "배시 스크립트 실행: bash 또는 sh로 실행 시 파일에 실행 권한 불필요."
+    ]
   },
   {
     "id": 719,
@@ -12938,8 +12220,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "tar -tvf 또는 tar tf: 묶인 파일 내용 확인(압축 해제 없이)."
+    ]
   },
   {
     "id": 720,
@@ -12956,8 +12237,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/ntp.conf: NTP 서버 설정 파일. server 항목으로 NTP 서버 지정."
+    ]
   },
   {
     "id": 721,
@@ -12974,8 +12254,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ln -s /etc/xinetd.d x: /etc/xinetd.d를 현재 디렉터리에 x라는 이름의 심볼릭 링크로 생성."
+    ]
   },
   {
     "id": 722,
@@ -12992,8 +12271,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "chage -E 2020-12-31 ihduser: 계정 만기일 설정."
+    ]
   },
   {
     "id": 723,
@@ -13010,8 +12288,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "grep ':0:' /etc/passwd: UID=0인 사용자(root 권한) 찾기. awk -F: '$3==0' /etc/passwd 도 사용."
+    ]
   },
   {
     "id": 724,
@@ -13028,8 +12305,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "./configure 실행 후 생성 파일: Makefile. 이 파일로 make 명령 실행."
+    ]
   },
   {
     "id": 725,
@@ -13046,8 +12322,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "yum remove telnet-server: 패키지 제거. yum erase도 동일."
+    ]
   },
   {
     "id": 726,
@@ -13064,8 +12339,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "edquota -u ihduser: ihduser의 디스크 쿼터 설정."
+    ]
   },
   {
     "id": 727,
@@ -13082,8 +12356,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "프로세스 우선순위 변경: nice(신규), renice(실행 중). 'jobs'는 백그라운드 작업 목록이다."
+    ]
   },
   {
     "id": 728,
@@ -13100,8 +12373,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/group 형식: 그룹명:패스워드(x):GID:멤버1,멤버2. 예: admin:x:1000:user1,user2."
+    ]
   },
   {
     "id": 729,
@@ -13118,8 +12390,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/skel: 새 사용자 계정 생성 시 홈 디렉터리에 복사될 기본 파일들의 위치."
+    ]
   },
   {
     "id": 730,
@@ -13136,8 +12407,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/lib/modules/커널버전/: 커널 모듈 파일이 저장되는 디렉터리."
+    ]
   },
   {
     "id": 731,
@@ -13154,8 +12424,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "bash 문자열 조작: ${var%suffix}(접미사 제거), ${var#prefix}(접두사 제거)."
+    ]
   },
   {
     "id": 732,
@@ -13172,8 +12441,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "BSD 계열 프린터: lpr, lpq, lprm. System V 계열: lp, lpstat, cancel. 나머지와 다른 계열 식별."
+    ]
   },
   {
     "id": 733,
@@ -13190,8 +12458,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ext4 파일시스템: 저널링, 최대 파일 16TB, 볼륨 1EB. ext3의 후속 버전."
+    ]
   },
   {
     "id": 734,
@@ -13208,8 +12475,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NFS(Network File System): 네트워크를 통해 원격 파일시스템 공유. RPC 기반."
+    ]
   },
   {
     "id": 735,
@@ -13226,8 +12492,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "lpr 파일명 또는 lp 파일명: 기본 프린터로 인쇄 요청."
+    ]
   },
   {
     "id": 736,
@@ -13244,8 +12509,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "make modules_install: 커널 모듈을 /lib/modules/커널버전/에 설치하는 단계."
+    ]
   },
   {
     "id": 737,
@@ -13262,8 +12526,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "모듈 관련 명령: insmod(로드), rmmod(제거), lsmod(목록), modprobe(의존성 포함 로드)."
+    ]
   },
   {
     "id": 738,
@@ -13280,8 +12543,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "GRUB 패스워드 설정: grub-md5-crypt로 해시 생성 후 grub.conf에 password 항목 추가."
+    ]
   },
   {
     "id": 739,
@@ -13298,8 +12560,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "SSH 특징: 공개키 암호화, 포트 22, 안전한 원격 접속. '패스워드 평문 전송'은 Telnet의 특성이다."
+    ]
   },
   {
     "id": 740,
@@ -13316,8 +12577,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "cpio -it: 백업된 아카이브 파일의 내용만 확인(-i=복원모드, -t=목록표시)."
+    ]
   },
   {
     "id": 741,
@@ -13334,8 +12594,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ASCII 로그 파일: /var/log/messages, /var/log/secure. 'wtmp는 바이너리 형식'이다."
+    ]
   },
   {
     "id": 742,
@@ -13352,8 +12611,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/var/log/wtmp: 바이너리 형식으로 저장. last 명령으로 확인. 'vi로 직접 편집 불가'."
+    ]
   },
   {
     "id": 743,
@@ -13370,8 +12628,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "GRUB 패스워드: grub-md5-crypt로 암호화된 패스워드 생성 후 grub.conf에 적용."
+    ]
   },
   {
     "id": 744,
@@ -13388,8 +12645,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "AIDE(Advanced Intrusion Detection Environment): 파일 무결성 점검 도구. Tripwire와 유사."
+    ]
   },
   {
     "id": 745,
@@ -13406,8 +12662,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "restore: dump로 백업된 파일에서 대화형으로 복구하는 명령."
+    ]
   },
   {
     "id": 746,
@@ -13424,8 +12679,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "cp: 증분 백업 지원 안 함. tar, rsync, dump, cpio는 증분 백업 지원."
+    ]
   },
   {
     "id": 747,
@@ -13442,8 +12696,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "아파치 mod_userdir 모듈: 사용자 개인 홈페이지 허용 모듈. LoadModule userdir_module 설정."
+    ]
   },
   {
     "id": 748,
@@ -13460,8 +12713,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "named.conf의 acl 블록: 여러 호스트를 하나의 명칭으로 그룹화."
+    ]
   },
   {
     "id": 749,
@@ -13478,8 +12730,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "smb.conf의 hosts allow = 192.168.1.: 특정 네트워크 대역 접근 허용."
+    ]
   },
   {
     "id": 750,
@@ -13496,8 +12747,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "HTTP DELETE 메소드: 지정한 리소스 삭제 요청."
+    ]
   },
   {
     "id": 751,
@@ -13514,8 +12764,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "htpasswd -c /etc/httpd/.htpasswd user: 아파치 인증 파일 생성(처음 시 -c 옵션)."
+    ]
   },
   {
     "id": 752,
@@ -13532,8 +12781,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "인증 관련 서비스: NIS, LDAP, Kerberos, PAM. 'NFS'는 파일 공유 서비스이다."
+    ]
   },
   {
     "id": 753,
@@ -13550,8 +12798,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "LDAP의 givenName: 이름(First name)을 나타내는 속성 키워드."
+    ]
   },
   {
     "id": 754,
@@ -13568,8 +12815,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NIS 서버 필수 데몬: ypserv, yppasswdd, rpcbind. 'sshd'는 NIS와 관련 없다."
+    ]
   },
   {
     "id": 755,
@@ -13586,8 +12832,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NFS exports의 all_squash: 모든 사용자를 nobody로 매핑하는 옵션."
+    ]
   },
   {
     "id": 756,
@@ -13604,8 +12849,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "showmount -e server: NFS 서버의 익스포트 목록 확인."
+    ]
   },
   {
     "id": 757,
@@ -13622,8 +12866,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "메일 프로그램 분류: MTA(sendmail, postfix), MDA(procmail), MUA(thunderbird, evolution). 종류가 다른 것 찾기."
+    ]
   },
   {
     "id": 758,
@@ -13640,8 +12883,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "sendmail.cf의 Dj: 발신 도메인 강제 지정 매크로. DjIhd.or.kr."
+    ]
   },
   {
     "id": 759,
@@ -13658,8 +12900,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "존재 여부 확인: test -f 파일(파일 존재), test -d 디렉터리(디렉터리 존재)."
+    ]
   },
   {
     "id": 760,
@@ -13676,8 +12917,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf의 directory: zone 파일이 위치하는 기본 디렉터리 지정 옵션."
+    ]
   },
   {
     "id": 761,
@@ -13694,8 +12934,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "named.conf의 forwarders: DNS 질의를 다른 DNS 서버로 전달하는 설정."
+    ]
   },
   {
     "id": 762,
@@ -13712,8 +12951,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "컨테이너 가상화: 호스트 커널 공유, 낮은 오버헤드. Docker, LXC가 대표적."
+    ]
   },
   {
     "id": 763,
@@ -13730,8 +12968,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/hosts.deny의 in.telnetd: telnetd: 192.168.5.13 형식으로 특정 호스트 차단."
+    ]
   },
   {
     "id": 764,
@@ -13748,8 +12985,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "xinetd.conf의 log_type: 로그를 syslog 또는 파일로 기록하는 설정."
+    ]
   },
   {
     "id": 765,
@@ -13766,8 +13002,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Xen: 반가상화(Para-Virtualization) 기반 가상 머신 생성에 주로 사용."
+    ]
   },
   {
     "id": 766,
@@ -13784,8 +13019,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/mail/access: sendmail에서 특정 도메인·IP의 메일 처리 정책 파일."
+    ]
   },
   {
     "id": 767,
@@ -13802,8 +13036,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "showmount -e 192.168.5.13: 특정 NFS 서버의 익스포트 목록 확인."
+    ]
   },
   {
     "id": 768,
@@ -13820,8 +13053,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "vsftpd.conf의 anonymous_enable=YES: 익명(anonymous) 사용자 FTP 접근 허용."
+    ]
   },
   {
     "id": 769,
@@ -13838,8 +13070,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SMTP: 메일 서버 간 메일 전송 프로토콜. TCP 25번(일반), 587(Submission), 465(SMTPS)."
+    ]
   },
   {
     "id": 770,
@@ -13856,8 +13087,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ihduser의 메일 전달: ~/.forward 파일에 전달할 이메일 주소 입력."
+    ]
   },
   {
     "id": 771,
@@ -13874,8 +13104,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/var/named/: named.ca, zone 파일 등 DNS 관련 파일이 위치하는 디렉터리."
+    ]
   },
   {
     "id": 772,
@@ -13892,8 +13121,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "스냅샷(Snapshot): 특정 시점의 시스템 상태를 보존하는 가상화 기능."
+    ]
   },
   {
     "id": 773,
@@ -13910,8 +13138,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "virt-top: KVM 가상 머신의 CPU 자원 모니터링 명령어."
+    ]
   },
   {
     "id": 774,
@@ -13928,8 +13155,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "xinetd의 per_source와 cps 옵션: cps=50 10은 초당 50개 이상 요청 시 10초 접속 차단."
+    ]
   },
   {
     "id": 775,
@@ -13946,8 +13172,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "squid.conf의 http_port 8080: Squid 프록시 서버 포트를 8080으로 변경."
+    ]
   },
   {
     "id": 776,
@@ -13964,8 +13189,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "RFB(Remote FrameBuffer) 프로토콜: VNC에서 사용하는 화면 공유 프로토콜."
+    ]
   },
   {
     "id": 777,
@@ -13982,8 +13206,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "아파치 httpd.conf의 DocumentRoot: 웹 문서의 루트 디렉터리를 지정하는 항목."
+    ]
   },
   {
     "id": 778,
@@ -14000,8 +13223,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "iptables의 mangle 테이블: TOS, TTL 등 패킷 헤더 값 변경에 사용하는 테이블."
+    ]
   },
   {
     "id": 779,
@@ -14018,8 +13240,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "DRDoS(Distributed Reflection DoS): DNS·NTP 등 반사 서버를 이용한 분산 공격."
+    ]
   },
   {
     "id": 780,
@@ -14036,8 +13257,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "iptables의 ACCEPT 타겟: 패킷 허용. DROP: 조용히 폐기. REJECT: 오류 메시지와 함께 거부."
+    ]
   },
   {
     "id": 781,
@@ -14054,8 +13274,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "메모리 오버플로우: malloc()으로 할당된 버퍼를 초과하는 입력으로 발생. 버퍼 오버플로우 공격."
+    ]
   },
   {
     "id": 782,
@@ -14072,8 +13291,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "LGPL(Lesser GPL): 라이브러리 형태로 사용 시 소스 비공개 가능."
+    ]
   },
   {
     "id": 783,
@@ -14090,8 +13308,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "레드햇 계열: RHEL, CentOS, Fedora. 나머지 셋과 다른 배포판 찾기."
+    ]
   },
   {
     "id": 784,
@@ -14108,8 +13325,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "리눅스 기반 운영체제: Android, Tizen, ChromeOS. 'macOS는 BSD Unix 기반으로 리눅스가 아니다'."
+    ]
   },
   {
     "id": 785,
@@ -14126,8 +13342,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "유닉스(UNIX) 개발자: 켄 톰슨(Ken Thompson)과 데니스 리치(Dennis Ritchie), 벨 연구소."
+    ]
   },
   {
     "id": 786,
@@ -14144,8 +13359,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "grub.conf: timeout(자동 선택 대기시간), default(기본 선택 항목), hiddenmenu(메뉴 숨김) 등 설정."
+    ]
   },
   {
     "id": 787,
@@ -14162,8 +13376,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "DISPLAY 환경변수: X 클라이언트가 연결할 X 서버를 지정. export DISPLAY=서버:0.0."
+    ]
   },
   {
     "id": 788,
@@ -14180,8 +13393,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID-5 with 6 drv (1 spare): 실제 사용 = 4개 용량. (6-1스페어-1패리티=4개)."
+    ]
   },
   {
     "id": 789,
@@ -14198,8 +13410,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SIGRTMAX(64): 실시간 시그널 중 최댓값. 시그널 중 번호가 가장 크다."
+    ]
   },
   {
     "id": 790,
@@ -14216,8 +13427,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "IPC(Inter-Process Communication): 프로세스 간 통신. 파이프, 소켓, 공유메모리, 메시지큐 등."
+    ]
   },
   {
     "id": 791,
@@ -14234,8 +13444,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "[Ctrl]+[Z]: 포어그라운드 프로세스를 suspend하여 백그라운드로 전환."
+    ]
   },
   {
     "id": 792,
@@ -14252,8 +13461,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "장치 파일: /dev/sda(SCSI/SATA 디스크), /dev/tty(터미널), /dev/null(블랙홀). 나머지와 다른 유형 찾기."
+    ]
   },
   {
     "id": 793,
@@ -14270,8 +13478,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "!!(이중 느낌표): 바로 직전에 실행한 명령을 재실행."
+    ]
   },
   {
     "id": 794,
@@ -14288,8 +13495,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "255.255.255.240 = /28 서브넷. 16개 주소(14개 사용 가능)."
+    ]
   },
   {
     "id": 795,
@@ -14306,8 +13512,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "netstat ESTABLISHED: 현재 TCP 연결이 수립되어 데이터 통신 중인 상태."
+    ]
   },
   {
     "id": 796,
@@ -14324,8 +13529,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "리눅스 네트워크 장치: eth(이더넷), lo(루프백), wlan(무선), tun(가상). 'lo=192.168.x.x'는 틀린 설명."
+    ]
   },
   {
     "id": 797,
@@ -14342,8 +13546,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "로드 밸런서(L4 스위치): OSI 4계층(전송 계층) 기반으로 트래픽 분산."
+    ]
   },
   {
     "id": 798,
@@ -14360,8 +13563,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "1시간 주기: 0 * * * * 또는 */60 * * * *[명령어]. 정각에 실행이면 0 * * * *."
+    ]
   },
   {
     "id": 799,
@@ -14378,8 +13580,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "rpm -qlp 패키지.rpm: 설치 전 패키지에 포함된 파일 목록 미리 확인."
+    ]
   },
   {
     "id": 800,
@@ -14396,8 +13597,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "renice -5 PID: NI 값을 5만큼 낮춰 우선순위를 높임. 음수일수록 높은 우선순위."
+    ]
   },
   {
     "id": 801,
@@ -14414,8 +13614,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "crontab -r -u lin: root가 lin 사용자의 crontab 전체 제거."
+    ]
   },
   {
     "id": 802,
@@ -14432,8 +13631,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/fstab에 usrquota 또는 grpquota 옵션 추가."
+    ]
   },
   {
     "id": 803,
@@ -14450,8 +13648,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "newgrp 그룹명: 현재 셸에서 주 그룹을 임시로 변경하는 명령."
+    ]
   },
   {
     "id": 804,
@@ -14468,8 +13665,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/ntp.conf: NTP 서버 설정 파일. server, restrict 등 옵션 설정."
+    ]
   },
   {
     "id": 805,
@@ -14486,8 +13682,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "yum search telnet: 'telnet' 문자열이 포함된 패키지 검색."
+    ]
   },
   {
     "id": 806,
@@ -14504,8 +13699,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "kill -l: 시그널 이름과 번호 목록 확인."
+    ]
   },
   {
     "id": 807,
@@ -14522,8 +13716,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "fg 2: 백그라운드 작업번호 2번을 포어그라운드로 전환."
+    ]
   },
   {
     "id": 808,
@@ -14540,8 +13733,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "groupmod -n kait ihd: ihd 그룹명을 kait로 변경."
+    ]
   },
   {
     "id": 809,
@@ -14558,8 +13750,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "sed -n '4,7p' lin.txt: 4번째부터 7번째 줄 출력."
+    ]
   },
   {
     "id": 810,
@@ -14576,8 +13767,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ls -l 결과 해석: 첫 문자 타입, 다음 9자리 권한, 링크수, 소유자, 그룹, 크기, 날짜, 이름."
+    ]
   },
   {
     "id": 811,
@@ -14594,8 +13784,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "make bzImage: 압축된 커널 이미지 생성 단계."
+    ]
   },
   {
     "id": 812,
@@ -14612,8 +13801,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "modprobe -r 또는 rmmod: 모듈 제거. -r 옵션은 의존성 모듈도 함께 제거."
+    ]
   },
   {
     "id": 813,
@@ -14630,8 +13818,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "dmesg | grep sd: 새 디스크 인식 여부 확인. fdisk -l도 동일."
+    ]
   },
   {
     "id": 814,
@@ -14648,8 +13835,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "모듈 설명: 재부팅 없이 로드·언로드 가능. '커널 재컴파일 필요'는 틀린 설명."
+    ]
   },
   {
     "id": 815,
@@ -14666,8 +13852,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/fstab에 부팅 시 자동 마운트 설정이 누락되어 마운트되지 않은 경우. 항목 추가 필요."
+    ]
   },
   {
     "id": 816,
@@ -14684,8 +13869,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "lpstat: 프린트 작업의 상태(Request-ID 포함) 확인 명령."
+    ]
   },
   {
     "id": 817,
@@ -14702,8 +13886,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "scanadf: 자동 문서 공급기(ADF) 지원 스캐너용 스캔 명령."
+    ]
   },
   {
     "id": 818,
@@ -14720,8 +13903,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "CUPS 특징: IPP 기반, 웹 인터페이스(포트 631), 다양한 프린터 드라이버 지원."
+    ]
   },
   {
     "id": 819,
@@ -14738,8 +13920,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "uname -r: 커널 버전 확인. -a: 모든 시스템 정보."
+    ]
   },
   {
     "id": 820,
@@ -14756,8 +13937,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "dump 옵션: 0(전체 백업), 1~9(증분 백업 레벨). '-W'는 백업 대상 파일시스템이 아니다."
+    ]
   },
   {
     "id": 821,
@@ -14774,8 +13954,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "파일시스템 보안: chattr +i(변경 불가), chattr +a(추가만 가능) 속성 설정."
+    ]
   },
   {
     "id": 822,
@@ -14792,8 +13971,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "보안 도구: Nessus(취약점 스캐너), Tripwire(무결성 점검), snort(IDS). 각 도구의 올바른 기능 매핑."
+    ]
   },
   {
     "id": 823,
@@ -14810,8 +13988,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "SSH는 암호화된 통신 제공, Telnet과 달리 패스워드 평문 전송 없음. 'SSH=평문 전송'은 틀린 설명."
+    ]
   },
   {
     "id": 824,
@@ -14828,8 +14005,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/var/log/xferlog: FTP 전송 로그. 날짜, 시간, 호스트, 파일명, 전송 방향 등 기록."
+    ]
   },
   {
     "id": 825,
@@ -14846,8 +14022,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/var/log/wtmp: 로그인/로그아웃 기록(바이너리). last 명령으로 확인."
+    ]
   },
   {
     "id": 826,
@@ -14864,8 +14039,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sudo 설명: /etc/sudoers 파일로 권한 관리. 'sudo는 모든 명령어 실행 가능'은 틀린 설명."
+    ]
   },
   {
     "id": 827,
@@ -14882,8 +14056,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "dmesg: 커널 링 버퍼의 메시지 출력. 부팅 시 하드웨어 인식 로그 확인에 사용."
+    ]
   },
   {
     "id": 828,
@@ -14900,8 +14073,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "scp: SSH 기반 파일 복사 명령. ssh -X로 원격 GUI 프로그램 실행."
+    ]
   },
   {
     "id": 829,
@@ -14918,8 +14090,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "rsync: 변경된 부분만 전송(증분), 원격 동기화 지원. '항상 전체 파일 전송'은 틀린 설명."
+    ]
   },
   {
     "id": 830,
@@ -14936,8 +14107,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "MySQL 5.7: mysql_install_db 또는 mysqld --initialize로 기본 DB 생성."
+    ]
   },
   {
     "id": 831,
@@ -14954,8 +14124,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf 설정 오류: 'blacklist'는 named.conf의 유효한 설정 항목이 아니다."
+    ]
   },
   {
     "id": 832,
@@ -14972,8 +14141,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "named.conf의 recursion: 재귀 질의 허용(yes/no)."
+    ]
   },
   {
     "id": 833,
@@ -14990,8 +14158,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "lighttpd: 고성능 경량 웹 서버. nginx와 유사한 이벤트 기반 아키텍처."
+    ]
   },
   {
     "id": 834,
@@ -15008,8 +14175,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "apachectl configtest 또는 httpd -t: httpd.conf 파일의 문법 오류 점검."
+    ]
   },
   {
     "id": 835,
@@ -15026,8 +14192,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "LDAP: 계층적 트리 구조(DIT). 'LDAP는 평면 구조'는 틀린 설명."
+    ]
   },
   {
     "id": 836,
@@ -15044,8 +14209,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NIS 서버 사용자 정보 파일: passwd.byname, passwd.byuid."
+    ]
   },
   {
     "id": 837,
@@ -15062,8 +14226,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS 마운트: mount -t nfs 192.168.5.13:/data /mnt/nfs."
+    ]
   },
   {
     "id": 838,
@@ -15080,8 +14243,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "메일 프로그램 분류 다른 것 찾기: MTA(postfix, sendmail), MUA(thunderbird), MDA(procmail)."
+    ]
   },
   {
     "id": 839,
@@ -15098,8 +14260,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/sendmail.cf: sendmail 주 설정 파일. m4 매크로로 sendmail.mc에서 생성."
+    ]
   },
   {
     "id": 840,
@@ -15116,8 +14277,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/aliases: 메일 별칭 파일. newaliases 명령으로 데이터베이스 갱신."
+    ]
   },
   {
     "id": 841,
@@ -15134,8 +14294,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "라이브 마이그레이션(Live Migration): 가동 중인 VM을 서비스 중단 없이 다른 호스트로 이동."
+    ]
   },
   {
     "id": 842,
@@ -15152,8 +14311,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "서버 통합(Consolidation): 여러 물리 서버를 가상화로 통합하여 자원 효율화."
+    ]
   },
   {
     "id": 843,
@@ -15170,8 +14328,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "xinetd 텔넷 활성화: /etc/xinetd.d/telnet에서 disable = no 설정."
+    ]
   },
   {
     "id": 844,
@@ -15188,8 +14345,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "TCP Wrapper가 지원 안 되는 서비스: Apache(httpd). 독립 실행 서비스는 자체 접근 제어 사용."
+    ]
   },
   {
     "id": 845,
@@ -15206,8 +14362,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NTP 계층(Stratum): 원자시계=0, GPS 연결 서버=1, 1차 서버에 동기화=2 등."
+    ]
   },
   {
     "id": 846,
@@ -15224,8 +14379,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "아파치 2.4의 Listen 8080: http.conf에서 포트 변경."
+    ]
   },
   {
     "id": 847,
@@ -15242,8 +14396,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LDAP의 cn(Common Name): 이름과 성의 조합. 사람 이름 전체를 나타낸다."
+    ]
   },
   {
     "id": 848,
@@ -15260,8 +14413,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/yp.conf: NIS 클라이언트에서 NIS 서버 및 도메인명 설정 파일."
+    ]
   },
   {
     "id": 849,
@@ -15278,8 +14430,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "삼바 프로토콜: SMB(Server Message Block), CIFS(Common Internet File System)."
+    ]
   },
   {
     "id": 850,
@@ -15296,8 +14447,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "smb.conf의 workgroup = WORKGROUP: Windows 작업 그룹명 설정."
+    ]
   },
   {
     "id": 851,
@@ -15314,8 +14464,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/vsftpd/ftpusers: 이 파일에 등록된 사용자는 FTP 접속 차단(블랙리스트)."
+    ]
   },
   {
     "id": 852,
@@ -15332,8 +14481,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "메일 수신 프로토콜: POP3(110번, 메일 다운로드 후 서버 삭제), IMAP(143번, 서버에 메일 유지)."
+    ]
   },
   {
     "id": 853,
@@ -15350,8 +14498,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "mailq 또는 sendmail -bp: 메일 전송 대기 큐 확인."
+    ]
   },
   {
     "id": 854,
@@ -15368,8 +14515,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/hosts: DNS가 없던 시절 호스트명-IP 매핑에 사용한 파일. DNS 탄생의 계기."
+    ]
   },
   {
     "id": 855,
@@ -15386,8 +14532,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "named.conf의 directory: zone 파일 기본 디렉터리 지정. /var/named/이 기본값."
+    ]
   },
   {
     "id": 856,
@@ -15404,8 +14549,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "PTR 레코드: 역방향 존 파일에서만 사용. IP → 도메인명 변환."
+    ]
   },
   {
     "id": 857,
@@ -15422,8 +14566,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "프록시 서버: 여러 클라이언트의 인터넷 접근을 중계하여 캐싱, 필터링, 보안 기능 제공."
+    ]
   },
   {
     "id": 858,
@@ -15440,8 +14583,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/etc/hosts.deny: 특정 호스트 차단. sshd: 호스트 또는 IP 형식."
+    ]
   },
   {
     "id": 859,
@@ -15458,8 +14600,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "iptables 테이블: filter(기본 패킷 필터링), nat(주소 변환), mangle(패킷 헤더 수정)."
+    ]
   },
   {
     "id": 860,
@@ -15476,8 +14617,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "스니핑(Sniffing): 네트워크에서 패킷을 도청하는 공격. 패시브(수동적) 공격."
+    ]
   },
   {
     "id": 861,
@@ -15494,8 +14634,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "DDoS 도구 분류: LOIC, HOIC, XOIC는 플러딩 도구. Nmap은 스캐너로 DDoS 도구가 아니다."
+    ]
   },
   {
     "id": 862,
@@ -15512,8 +14651,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "iptables 로그: /var/log/messages 또는 /var/log/kern.log에 기록."
+    ]
   },
   {
     "id": 863,
@@ -15530,8 +14668,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/etc/sysconfig/network: 시스템 호스트명, 기본 게이트웨이, 도메인 설정 파일."
+    ]
   },
   {
     "id": 864,
@@ -15548,8 +14685,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "PDU(Protocol Data Unit): 비트(1계층), 프레임(2계층), 패킷(3계층), 세그먼트(4계층)."
+    ]
   },
   {
     "id": 865,
@@ -15566,8 +14702,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "B클래스 사설 IP: 172.16.0.0 ~ 172.31.255.255. A클래스: 10.0.0.0/8, C클래스: 192.168.0.0/16."
+    ]
   },
   {
     "id": 866,
@@ -15584,8 +14719,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "게이트웨이 주소: 네트워크 주소 범위에서 첫 번째 호스트 주소가 관례적으로 사용."
+    ]
   },
   {
     "id": 867,
@@ -15602,8 +14736,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "!al: history에서 'al'로 시작하는 가장 최근 명령 실행. Ctrl+R로 검색도 가능."
+    ]
   },
   {
     "id": 868,
@@ -15620,8 +14753,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "루프백(loopback) 인터페이스: lo, IP=127.0.0.1. 자기 자신에 대한 네트워크 통신."
+    ]
   },
   {
     "id": 869,
@@ -15638,8 +14770,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "SIGRTMAX(64): 리눅스에서 가장 큰 번호의 시그널."
+    ]
   },
   {
     "id": 870,
@@ -15656,8 +14787,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "[Ctrl]+[Z]: 포어그라운드 프로세스를 일시 정지하여 백그라운드로 전환. bg로 재개."
+    ]
   },
   {
     "id": 871,
@@ -15674,8 +14804,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "시그널(Signal): 프로세스 간 비동기 통신 방법."
+    ]
   },
   {
     "id": 872,
@@ -15692,8 +14821,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "RAID-5 with 6 drv: 패리티 1개 용량 손실. 사용 가능 = 5개×10GB = 50GB."
+    ]
   },
   {
     "id": 873,
@@ -15710,8 +14838,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "chkconfig sshd on 또는 systemctl enable sshd: 부팅 시 SSH 자동 실행 설정."
+    ]
   },
   {
     "id": 874,
@@ -15728,8 +14855,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "systemctl set-default graphical.target 또는 runlevel 5로 설정: X 윈도 모드 부팅."
+    ]
   },
   {
     "id": 875,
@@ -15746,8 +14872,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Scientific Linux: 레드햇 기반의 과학 연구용 리눅스 배포판."
+    ]
   },
   {
     "id": 876,
@@ -15764,8 +14889,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Andrew S. Tanenbaum: MINIX 운영체제 개발자. 리눅스 개발의 영감을 준 인물."
+    ]
   },
   {
     "id": 877,
@@ -15782,8 +14906,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "SMP(Symmetric Multi-Processing): 여러 CPU가 하나의 메모리를 공유하는 병렬 처리 기술."
+    ]
   },
   {
     "id": 878,
@@ -15800,8 +14923,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "GPL(v2, v3): 2차 저작물 소스 반드시 공개. 'BSD는 비공개 가능'이다."
+    ]
   },
   {
     "id": 879,
@@ -15818,8 +14940,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "Squid: 고성능 캐싱 프록시 서버. HTTP, FTP, HTTPS 지원."
+    ]
   },
   {
     "id": 880,
@@ -15836,8 +14957,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "CUPS(Common Unix Printing System): 리눅스에서 프린터를 지원하는 인쇄 시스템."
+    ]
   },
   {
     "id": 881,
@@ -15854,8 +14974,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "cpio: 백업(cpio -o)과 복원(cpio -i)이 같은 명령어. dump/restore는 다른 명령어 쌍이다."
+    ]
   },
   {
     "id": 882,
@@ -15872,8 +14991,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "시스템 보안: 불필요 서비스 비활성화, 패치 적용, 접근 제어. '모든 포트를 개방'은 틀린 조치."
+    ]
   },
   {
     "id": 883,
@@ -15890,8 +15008,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "텍스트 로그 파일: /var/log/messages, /var/log/secure. wtmp, btmp는 바이너리."
+    ]
   },
   {
     "id": 884,
@@ -15908,8 +15025,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "tar --listed-incremental 옵션: 증분 백업 시 스냅샷 파일 사용."
+    ]
   },
   {
     "id": 885,
@@ -15926,8 +15042,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "cpio 백업: find /home -print | cpio -ocvB > /backup/home.cpio."
+    ]
   },
   {
     "id": 886,
@@ -15944,8 +15059,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "/var/log/secure: 로그인 시도, 인증 관련 로그 파일."
+    ]
   },
   {
     "id": 887,
@@ -15962,8 +15076,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "syslog priority 심각도 순서: emerg > alert > crit > err > warning > notice > info > debug."
+    ]
   },
   {
     "id": 888,
@@ -15980,8 +15093,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "iptables -A INPUT -p icmp --icmp-type echo-request -j DROP: 외부 ping 응답 거부."
+    ]
   },
   {
     "id": 889,
@@ -15998,8 +15110,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "System V 계열 프린터: lp, lpstat, cancel. 'lpr'은 BSD 계열이다."
+    ]
   },
   {
     "id": 890,
@@ -16016,8 +15127,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "스트라이핑(Striping): RAID 0처럼 데이터를 여러 디스크에 분산 저장하여 성능 향상."
+    ]
   },
   {
     "id": 891,
@@ -16034,8 +15144,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "tcpdump: 네트워크 패킷 캡처 및 분석 명령어."
+    ]
   },
   {
     "id": 892,
@@ -16052,8 +15161,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "CentOS 7 커널 모듈 파일 확장자: .ko(Kernel Object). 이전 버전은 .o."
+    ]
   },
   {
     "id": 893,
@@ -16070,8 +15178,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "LVM 구성 순서: pvcreate → vgcreate → lvcreate → mkfs → mount."
+    ]
   },
   {
     "id": 894,
@@ -16088,8 +15195,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "make menuconfig 후 저장하면 .config 파일 생성. 이후 make로 커널 컴파일."
+    ]
   },
   {
     "id": 895,
@@ -16106,8 +15212,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "커널 컴파일 순서: make mrproper → make menuconfig → make → make modules_install → make install."
+    ]
   },
   {
     "id": 896,
@@ -16124,8 +15229,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "리눅스 커널 종류: 모놀리식 커널(Monolithic Kernel). 마이크로커널이 아니다."
+    ]
   },
   {
     "id": 897,
@@ -16142,8 +15246,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "lvcreate -L 20G -n lv_name vg_name: 20GB 크기의 논리 볼륨 생성."
+    ]
   },
   {
     "id": 898,
@@ -16160,8 +15263,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "tail -f /var/log/messages: 로그 파일 실시간 모니터링."
+    ]
   },
   {
     "id": 899,
@@ -16178,8 +15280,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "wall '메시지': 현재 로그인한 모든 사용자의 터미널로 긴급 메시지 전송."
+    ]
   },
   {
     "id": 900,
@@ -16196,8 +15297,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "crontab -r: 현재 사용자의 crontab 파일 삭제."
+    ]
   },
   {
     "id": 901,
@@ -16214,8 +15314,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "at: 지정한 시간에 한 번만 명령 실행. cron은 주기적 실행."
+    ]
   },
   {
     "id": 902,
@@ -16232,8 +15331,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "killall httpd: httpd 이름의 모든 프로세스 종료."
+    ]
   },
   {
     "id": 903,
@@ -16250,8 +15348,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "ls -la 결과: 첫 문자 d=디렉터리, l=링크, -=일반파일."
+    ]
   },
   {
     "id": 904,
@@ -16268,8 +15365,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "tar -cjvf backup.tar.bz2 backup/: bzip2로 압축하여 backup 디렉터리 묶기."
+    ]
   },
   {
     "id": 905,
@@ -16286,8 +15382,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "root 계정 보안: su -를 통한 전환 권장, 원격 로그인 제한. '모든 사용자에게 root 패스워드 공유'는 틀린 조치."
+    ]
   },
   {
     "id": 906,
@@ -16304,8 +15399,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ls -l 결과: 권한, 링크수, 소유자, 그룹, 파일크기, 날짜, 파일명 순서."
+    ]
   },
   {
     "id": 907,
@@ -16322,8 +15416,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "파일 권한 0644(-rw-r--r--): 소유자 읽기·쓰기, 그룹·기타 읽기만. 쓰기 권한 없으면 파일 수정 불가."
+    ]
   },
   {
     "id": 908,
@@ -16340,8 +15433,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "find / -nouser: 소유자가 없는 파일 탐색. 보안 점검에 사용."
+    ]
   },
   {
     "id": 909,
@@ -16358,8 +15450,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "프로세스 우선순위: 낮은 NI 값 = 높은 우선순위. 'NI=19가 최고 우선순위'는 틀린 설명."
+    ]
   },
   {
     "id": 910,
@@ -16376,8 +15467,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "월·수·금 오후 4시 30분: 30 16 * * 1,3,5 [스크립트]."
+    ]
   },
   {
     "id": 911,
@@ -16394,8 +15484,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "yum search bind: 'bind' 문자열 포함 패키지 검색."
+    ]
   },
   {
     "id": 912,
@@ -16412,8 +15501,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ldd 명령어: 실행 파일이 의존하는 공유 라이브러리 목록 출력."
+    ]
   },
   {
     "id": 913,
@@ -16430,8 +15518,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "awk -F: '{print $1, $3}' /etc/passwd: 필드 구분자 ':'로 1번, 3번 필드 출력."
+    ]
   },
   {
     "id": 914,
@@ -16448,8 +15535,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "CentOS 7 그룹 패스워드 해시 알고리즘: SHA-512($6$)."
+    ]
   },
   {
     "id": 915,
@@ -16466,8 +15552,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "firewall-cmd: CentOS 7의 동적 방화벽 관리 명령. iptables의 대안."
+    ]
   },
   {
     "id": 916,
@@ -16484,8 +15569,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Slow Loris: 소수의 연결로 웹 서버를 압박하는 저속 DoS 공격."
+    ]
   },
   {
     "id": 917,
@@ -16502,8 +15586,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Boink/Bonk 공격: IP Fragment 오버플로우를 이용한 DoS 공격."
+    ]
   },
   {
     "id": 918,
@@ -16520,8 +15603,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "iptables nat 테이블 체인: PREROUTING, OUTPUT, POSTROUTING. 'INPUT'은 nat 테이블에 없다."
+    ]
   },
   {
     "id": 919,
@@ -16538,8 +15620,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "HTTP 403 Forbidden: 접근이 금지된 페이지 요청 시 서버가 반환하는 상태 코드."
+    ]
   },
   {
     "id": 920,
@@ -16556,8 +15637,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "아파치 httpd.conf의 ServerName: 웹 서버의 도메인명 또는 IP 주소 설정 항목."
+    ]
   },
   {
     "id": 921,
@@ -16574,8 +15654,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "passwd: 사용자 패스워드 변경 명령. -l(잠금), -u(해제), -e(즉시 변경 강제)."
+    ]
   },
   {
     "id": 922,
@@ -16592,8 +15671,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "CentOS 7에서 NIS: systemctl start rpcbind로 RPC 서비스 시작 필요."
+    ]
   },
   {
     "id": 923,
@@ -16610,8 +15688,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Nagios: 서버·네트워크 모니터링 도구. 장애 알림 기능 제공."
+    ]
   },
   {
     "id": 924,
@@ -16628,8 +15705,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "libvirtd: KVM 가상 머신 관리 데몬. virsh 명령으로 제어."
+    ]
   },
   {
     "id": 925,
@@ -16646,8 +15722,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "가상화 방식이 다른 것 찾기: KVM(전가상화), Xen(반가상화), Docker(컨테이너)."
+    ]
   },
   {
     "id": 926,
@@ -16664,8 +15739,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "AAAA 레코드: IPv6 주소를 위한 DNS 레코드 타입."
+    ]
   },
   {
     "id": 927,
@@ -16682,8 +15756,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ISC(Internet Systems Consortium): DNS 서버 소프트웨어 BIND를 배포·관리하는 기관."
+    ]
   },
   {
     "id": 928,
@@ -16700,8 +15773,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "newaliases: /etc/aliases 변경 후 데이터베이스 갱신 명령."
+    ]
   },
   {
     "id": 929,
@@ -16718,8 +15790,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "fetchmail: 원격 메일 서버에서 메일을 가져오는 MRA(Mail Retrieval Agent)."
+    ]
   },
   {
     "id": 930,
@@ -16736,8 +15807,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NFS 옵션 sync: 데이터를 즉시 디스크에 기록하는 동기 쓰기 옵션."
+    ]
   },
   {
     "id": 931,
@@ -16754,8 +15824,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ntp.conf의 server: 동기화할 상위 NTP 서버 지정."
+    ]
   },
   {
     "id": 932,
@@ -16772,8 +15841,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "TCP Wrapper 가능 서비스: sshd, vsftpd. 독립 실행 데몬(apache)은 직접 제어."
+    ]
   },
   {
     "id": 933,
@@ -16790,8 +15858,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "도메인 등록 기관(Registrar): 도메인 이름을 판매·관리하는 기관. ICANN 인증 기관."
+    ]
   },
   {
     "id": 934,
@@ -16808,8 +15875,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "존 파일의 NS 레코드: 네임 서버 지정. IN NS ns1.ihd.or.kr. 형식."
+    ]
   },
   {
     "id": 935,
@@ -16826,8 +15892,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "named.conf의 zone에서 마스터 서버 설정: type master; file 파일명."
+    ]
   },
   {
     "id": 936,
@@ -16844,8 +15909,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/aliases: sendmail 메일 별칭 파일."
+    ]
   },
   {
     "id": 937,
@@ -16862,8 +15926,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/mail/virtusertable: 가상 도메인 주소를 실제 사용자로 매핑하는 파일."
+    ]
   },
   {
     "id": 938,
@@ -16880,8 +15943,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "smb.conf의 hosts allow = 192.168.1.: 특정 IP 대역 접근 허용."
+    ]
   },
   {
     "id": 939,
@@ -16898,8 +15960,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NFS exports의 sync: 데이터 쓰기를 즉시 반영하는 동기 옵션."
+    ]
   },
   {
     "id": 940,
@@ -16916,8 +15977,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/var/yp/: NIS 서버의 맵 파일 기본 디렉터리."
+    ]
   },
   {
     "id": 941,
@@ -16934,8 +15994,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "LDAP의 cn(Common Name): 이름과 성의 조합을 나타내는 속성."
+    ]
   },
   {
     "id": 942,
@@ -16952,8 +16011,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "phpinfo() 함수: PHP 설정 정보를 출력하는 테스트 함수."
+    ]
   },
   {
     "id": 943,
@@ -16970,8 +16028,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "아파치 소스 설치: ./configure --prefix=/usr/local/apache2 형식 사용."
+    ]
   },
   {
     "id": 944,
@@ -16988,8 +16045,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "스레드(Thread): 프로세스 내에서 실행되는 경량 실행 단위. 프로세스보다 생성 오버헤드 낮음."
+    ]
   },
   {
     "id": 945,
@@ -17006,8 +16062,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "named.conf의 acl 블록: 호스트 그룹 정의."
+    ]
   },
   {
     "id": 946,
@@ -17024,8 +16079,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "mount -t cifs //192.168.5.13/share /mnt -o username=user: Windows 공유 마운트."
+    ]
   },
   {
     "id": 947,
@@ -17042,8 +16096,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "bash 리다이렉션: >(출력 덮어쓰기), >>(출력 추가), <(입력), <<(히어도큐먼트)."
+    ]
   },
   {
     "id": 948,
@@ -17060,8 +16113,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "오픈소스 라이선스: GPL은 수정 배포 시 소스 공개 의무. '비공개 가능'은 틀린 설명."
+    ]
   },
   {
     "id": 949,
@@ -17078,8 +16130,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "MIT 라이선스: 소스 공개 의무 없음. 상업적 사용, 수정, 배포 모두 허용."
+    ]
   },
   {
     "id": 950,
@@ -17096,8 +16147,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Oracle Linux: Oracle이 RHEL 기반으로 제공하는 엔터프라이즈 리눅스."
+    ]
   },
   {
     "id": 951,
@@ -17114,8 +16164,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "클러스터링(Clustering): 여러 서버를 하나처럼 운영하여 가용성과 성능 향상."
+    ]
   },
   {
     "id": 952,
@@ -17132,8 +16181,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "GRUB에서 root 패스워드 초기화: 커널 인자에 single 추가 → 단일 사용자 모드 진입 → passwd 실행."
+    ]
   },
   {
     "id": 953,
@@ -17150,8 +16198,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "systemctl enable sshd 또는 chkconfig sshd on: 부팅 시 SSH 자동 실행."
+    ]
   },
   {
     "id": 954,
@@ -17168,8 +16215,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "X 포워딩: ssh -X 서버주소로 원격 X 클라이언트 실행. DISPLAY 환경변수 자동 설정."
+    ]
   },
   {
     "id": 955,
@@ -17186,8 +16232,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "bash 산술 연산: $((expression)) 또는 let 명령 사용."
+    ]
   },
   {
     "id": 956,
@@ -17204,8 +16249,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "PID(Process ID): 프로세스에 할당된 고유 숫자 식별자."
+    ]
   },
   {
     "id": 957,
@@ -17222,8 +16266,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SIGRTMAX: 실시간 시그널 중 가장 큰 번호(64). 일반 시그널 중에서는 SIGRTMAX가 최대."
+    ]
   },
   {
     "id": 958,
@@ -17240,8 +16283,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "jobs: 현재 셸에서 실행 중인 백그라운드 작업 목록 확인."
+    ]
   },
   {
     "id": 959,
@@ -17258,8 +16300,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "PDU 순서: 세그먼트(전송) - 패킷(네트워크) - 프레임(데이터링크)."
+    ]
   },
   {
     "id": 960,
@@ -17276,8 +16317,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "IEEE(전기전자공학자협회): 이더넷(802.3), Wi-Fi(802.11) 등 네트워크 표준 제정 기관."
+    ]
   },
   {
     "id": 961,
@@ -17294,8 +16334,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "게이트웨이: 서브넷의 첫 번째 사용 가능한 호스트 주소를 관례적으로 사용."
+    ]
   },
   {
     "id": 962,
@@ -17312,8 +16351,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "ssh-keygen: SSH 키 쌍 생성 명령. 기본적으로 RSA 키 생성."
+    ]
   },
   {
     "id": 963,
@@ -17330,8 +16368,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "who am i 또는 who: 현재 로그인 정보와 SSH 접속 시 원격 호스트 IP 확인."
+    ]
   },
   {
     "id": 964,
@@ -17348,8 +16385,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "bash의 case문: case 변수 in 패턴) 명령;; esac 구조."
+    ]
   },
   {
     "id": 965,
@@ -17366,8 +16402,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "usermod -L ihduser: 계정을 잠금(lock)하여 일시 정지."
+    ]
   },
   {
     "id": 966,
@@ -17384,8 +16419,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "cat /proc/cpuinfo: CPU 정보(모델, 클럭, 코어수 등) 확인."
+    ]
   },
   {
     "id": 967,
@@ -17402,8 +16436,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "gpasswd -A 관리자 그룹: 그룹 관리자 확인은 /etc/gshadow 파일에서 확인 가능."
+    ]
   },
   {
     "id": 968,
@@ -17420,8 +16453,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Set-UID 파일: 실행 시 소유자의 권한으로 실행됨. s 표시는 SetUID+실행권한, S는 SetUID만."
+    ]
   },
   {
     "id": 969,
@@ -17438,8 +16470,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "find / -size +100M: 100MB 이상의 파일 탐색."
+    ]
   },
   {
     "id": 970,
@@ -17456,8 +16487,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "XFS 파일시스템 쿼터: xfs_quota 명령 사용. ext4와 다른 명령어 사용."
+    ]
   },
   {
     "id": 971,
@@ -17474,8 +16504,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "touch 명령: 파일이 없으면 빈 파일 생성, 있으면 타임스탬프 갱신. '파일 내용 변경'은 틀린 설명."
+    ]
   },
   {
     "id": 972,
@@ -17492,8 +16521,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "locate: 미리 구축된 데이터베이스에서 파일 검색(빠름). updatedb로 DB 갱신 필요."
+    ]
   },
   {
     "id": 973,
@@ -17510,8 +16538,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "셸 조건문: [ -f 파일 ]은 파일 존재 확인. [ -z 문자열 ]은 빈 문자열 확인."
+    ]
   },
   {
     "id": 974,
@@ -17528,8 +16555,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "매주 수·금 오전 1시 2분: 2 1 * * 3,5 [스크립트]. 3=수요일, 5=금요일."
+    ]
   },
   {
     "id": 975,
@@ -17546,8 +16572,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "파일 탐색 명령: find, locate. 'grep'은 파일 내용 검색, 'ls'는 목록 출력이다."
+    ]
   },
   {
     "id": 976,
@@ -17564,8 +16589,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "sort -k3 -t: /etc/passwd: 세 번째 필드(UID)를 기준으로 정렬."
+    ]
   },
   {
     "id": 977,
@@ -17582,8 +16606,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "renice -5 513: PID 513 프로세스의 NI 값을 -5로 변경(우선순위 상승). renice -5 -p 513."
+    ]
   },
   {
     "id": 978,
@@ -17600,8 +16623,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "레드햇 계열 패키지: rpm, yum, dnf. 'dpkg'는 데비안 계열 패키지 관리 도구이다."
+    ]
   },
   {
     "id": 979,
@@ -17618,8 +16640,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "rpm -qc httpd: httpd 패키지의 설정 파일 목록 확인."
+    ]
   },
   {
     "id": 980,
@@ -17636,8 +16657,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "tar -rvf text.tar *.c: 기존 tar 파일에 C 소스 파일 추가."
+    ]
   },
   {
     "id": 981,
@@ -17654,8 +16674,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "rmmod 모듈명: 커널에서 모듈 제거. modprobe -r로 의존성 모듈 함께 제거."
+    ]
   },
   {
     "id": 982,
@@ -17672,8 +16691,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "insmod 또는 modprobe 모듈명: 커널에 모듈 로드."
+    ]
   },
   {
     "id": 983,
@@ -17690,8 +16708,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "depmod -a: 커널 모듈 의존성 갱신."
+    ]
   },
   {
     "id": 984,
@@ -17708,8 +16725,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "X 윈도 미설치 환경 커널 컴파일: make menuconfig(ncurses), make config(텍스트)."
+    ]
   },
   {
     "id": 985,
@@ -17726,8 +16742,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "fdisk에서 RAID 파티션 타입: t 명령 → fd(Linux RAID Auto)."
+    ]
   },
   {
     "id": 986,
@@ -17744,8 +16759,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "uname -r 또는 uname -a: 커널 버전 정보 출력."
+    ]
   },
   {
     "id": 987,
@@ -17762,8 +16776,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "mdadm --create /dev/md0 --level=1: RAID-1 장치 생성 명령."
+    ]
   },
   {
     "id": 988,
@@ -17780,8 +16793,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "/proc/mdstat: 소프트웨어 RAID 장치의 현재 상태와 레벨 정보 확인 파일."
+    ]
   },
   {
     "id": 989,
@@ -17798,8 +16810,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "인쇄 명령: lpr(BSD), lp(System V). 양쪽 모두 프린트 작업 요청에 사용."
+    ]
   },
   {
     "id": 990,
@@ -17816,8 +16827,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "syslog 가장 낮은 priority: debug. 가장 많은 기록이 남는 수준."
+    ]
   },
   {
     "id": 991,
@@ -17834,8 +16844,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "텍스트 로그 파일: /var/log/messages. 바이너리: wtmp, btmp."
+    ]
   },
   {
     "id": 992,
@@ -17852,8 +16861,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "ss 명령: netstat를 대체하는 소켓 통계 명령. -t(TCP), -u(UDP), -l(리스닝)."
+    ]
   },
   {
     "id": 993,
@@ -17870,8 +16878,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "net.ipv4.ip_forward=1: IP 포워딩 활성화. 라우터 또는 NAT 설정 시 필요."
+    ]
   },
   {
     "id": 994,
@@ -17888,8 +16895,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "chattr +a /etc/services: 파일에 추가 전용(append-only) 속성 설정. 수정은 불가."
+    ]
   },
   {
     "id": 995,
@@ -17906,8 +16912,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "PortSentry: 포트 스캔을 탐지하고 공격자 IP를 자동 차단하는 보안 도구."
+    ]
   },
   {
     "id": 996,
@@ -17924,8 +16929,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "tar --listed-incremental=snapshot.file: 증분 백업 시 스냅샷 파일 지정 옵션."
+    ]
   },
   {
     "id": 997,
@@ -17942,8 +16946,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "XFS 파일시스템에서 사용 불가 백업: dump는 ext2/3/4 전용. xfs_dump 사용해야 함."
+    ]
   },
   {
     "id": 998,
@@ -17960,8 +16963,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Nginx: 고성능 이벤트 기반 웹 서버. 역방향 프록시, 로드 밸런서 기능도 제공."
+    ]
   },
   {
     "id": 999,
@@ -17978,8 +16980,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "아파치 httpd.conf의 DocumentRoot: 웹 문서 루트 디렉터리. grep DocumentRoot 명령으로 확인."
+    ]
   },
   {
     "id": 1000,
@@ -17996,8 +16997,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "apachectl configtest 또는 httpd -t: 아파치 설정 파일 문법 오류 점검."
+    ]
   },
   {
     "id": 1001,
@@ -18014,8 +17014,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "아파치 mod_userdir: 사용자 개인 홈페이지 기능. UserDir public_html 설정."
+    ]
   },
   {
     "id": 1002,
@@ -18032,8 +17031,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "PHP 7에서 MySQL 연결: PDO_MySQL 또는 mysqli 확장 사용. mysql_ 함수는 deprecated."
+    ]
   },
   {
     "id": 1003,
@@ -18050,8 +17048,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "LDAP vs RDBMS: LDAP는 읽기 최적화, RDBMS는 복잡한 쿼리에 강점. '쓰기에 최적화'는 RDBMS이다."
+    ]
   },
   {
     "id": 1004,
@@ -18068,8 +17065,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "LDAP 속성: cn=Common Name, sn=Surname, givenName=이름, mail=이메일."
+    ]
   },
   {
     "id": 1005,
@@ -18086,8 +17082,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "CentOS 7 NIS: systemctl start rpcbind로 RPC 서비스 먼저 시작."
+    ]
   },
   {
     "id": 1006,
@@ -18104,8 +17099,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "NIS 클라이언트 패키지: ypbind, yp-tools(또는 nis). 두 패키지 설치 필요."
+    ]
   },
   {
     "id": 1007,
@@ -18122,8 +17116,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "NIS 클라이언트 명령어: ypcat, ypmatch, ypwhich. 'ypserv'는 서버 데몬이다."
+    ]
   },
   {
     "id": 1008,
@@ -18140,8 +17133,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "Windows 공유 마운트: mount -t cifs //IP/공유명 /마운트포인트 -o username=사용자."
+    ]
   },
   {
     "id": 1009,
@@ -18158,8 +17150,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "smb.conf의 path = /srv/samba: 공유 디렉터리의 실제 경로를 지정하는 항목."
+    ]
   },
   {
     "id": 1010,
@@ -18176,8 +17167,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "NFS exports의 no_subtree_check: 하위 디렉터리 검사 비활성화로 성능 향상."
+    ]
   },
   {
     "id": 1011,
@@ -18194,8 +17184,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "vsftpd.conf의 local_root: 로컬 사용자 로그인 후 기본 디렉터리 변경."
+    ]
   },
   {
     "id": 1012,
@@ -18212,8 +17201,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "Mutt: 텍스트 기반 이메일 클라이언트(MUA). 터미널에서 메일 읽기·보내기 가능."
+    ]
   },
   {
     "id": 1013,
@@ -18230,8 +17218,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "메일 관련 프로그램과 관계 없는 것: MTA(sendmail, postfix), MDA(procmail), MUA(thunderbird). 나머지와 다른 분류 찾기."
+    ]
   },
   {
     "id": 1014,
@@ -18248,8 +17235,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "/etc/named.conf: DNS 서버 주 설정 파일. zone 블록, options, acl 등 포함."
+    ]
   },
   {
     "id": 1015,
@@ -18266,8 +17252,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "/etc/named.conf: DNS 서버 글로벌 옵션 및 zone 파일 위치 설정."
+    ]
   },
   {
     "id": 1016,
@@ -18284,8 +17269,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "named.conf의 allow-query: 질의를 허용할 호스트 지정 옵션."
+    ]
   },
   {
     "id": 1017,
@@ -18302,8 +17286,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "named.conf 설명: 주석으로 //, /* */, # 모두 사용 가능. '단일 형식만 사용'은 틀린 설명."
+    ]
   },
   {
     "id": 1018,
@@ -18320,8 +17303,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "named.conf의 forwarders { DNS서버IP; }: DNS 질의 전달 설정."
+    ]
   },
   {
     "id": 1019,
@@ -18338,8 +17320,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "PTR 레코드: 역방향 존 파일에서만 사용하는 레코드 타입."
+    ]
   },
   {
     "id": 1020,
@@ -18356,8 +17337,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "와일드카드 MX 레코드: *.domain IN MX 10 mail.domain.으로 설정."
+    ]
   },
   {
     "id": 1021,
@@ -18374,8 +17354,7 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "VirtualBox: Oracle의 오픈소스 데스크톱 가상화 소프트웨어."
+    ]
   },
   {
     "id": 1022,
@@ -18392,8 +17371,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "Dovecot: POP3, IMAP 서비스를 제공하는 오픈소스 메일 서버."
+    ]
   },
   {
     "id": 1023,
@@ -18410,8 +17388,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "virt-top: KVM 가상 머신의 CPU·메모리 자원 모니터링 명령."
+    ]
   },
   {
     "id": 1024,
@@ -18428,8 +17405,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "KVM 기본 디스크 이미지 형식: qcow2(QEMU Copy-On-Write). raw 형식도 지원."
+    ]
   },
   {
     "id": 1025,
@@ -18446,8 +17422,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "named.conf의 recursion no: 재귀 질의 비활성화. 외부 DNS 서버에 권장."
+    ]
   },
   {
     "id": 1026,
@@ -18464,8 +17439,7 @@
     },
     "answers": [
       4
-    ],
-    "explanation": "dhcpd.conf의 hardware ethernet: 특정 MAC 주소에 고정 IP 할당 설정."
+    ]
   },
   {
     "id": 1027,
@@ -18482,8 +17456,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "DHCP 서버: 네트워크에 접속하는 클라이언트에 동적으로 IP를 할당하는 서버."
+    ]
   },
   {
     "id": 1028,
@@ -18500,8 +17473,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "ntpdate NTP서버주소: 원격 NTP 서버와 시간 동기화 명령."
+    ]
   },
   {
     "id": 1029,
@@ -18518,8 +17490,7 @@
     },
     "answers": [
       2
-    ],
-    "explanation": "bash의 while 루프: while [ 조건 ]; do 명령; done 구조."
+    ]
   },
   {
     "id": 1030,
@@ -18536,8 +17507,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "SYN Flooding 소스 코드 패턴: while(1) { socket() → connect(SYN 전송) } 반복."
+    ]
   },
   {
     "id": 1031,
@@ -18554,8 +17524,7 @@
     },
     "answers": [
       3
-    ],
-    "explanation": "iptables 사용법: -A(추가), -D(삭제), -P(기본정책), -L(목록). '-X'는 체인 삭제 옵션이다."
+    ]
   },
   {
     "id": 1032,
@@ -18572,7 +17541,6 @@
     },
     "answers": [
       1
-    ],
-    "explanation": "DenyHosts: SSH 로그인 실패 로그를 분석하여 공격 IP를 자동으로 hosts.deny에 추가하는 보안 도구."
+    ]
   }
 ]
