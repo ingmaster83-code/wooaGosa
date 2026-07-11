@@ -3,3 +3,5 @@ Allow: /
 Disallow: /data/
 
 Sitemap: https://wooagosa.wooahouse.com/sitemap.xml
+
+#DaumWebMasterTool:234129ccfcb9c65557949e2a5f1b41cd887daedcf817ae28207b5b2722ab8183:5OHFs/qHHlfCvAas17iLzw==
