@@ -17,23 +17,6 @@
     ]
   },
   {
-    "id": 2,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 2,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "스와핑(Swapping)",
-      "2": "라이브러리(Library)",
-      "3": "루틴(Routine)",
-      "4": "링크(Link)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 3,
     "date": "20160312",
     "subject": 1,
@@ -136,40 +119,6 @@
     ]
   },
   {
-    "id": 9,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 9,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "fg",
-      "2": "fork",
-      "3": "bg",
-      "4": "exec"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 10,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 10,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "0",
-      "2": "1",
-      "3": "4",
-      "4": "5"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 11,
     "date": "20160312",
     "subject": 1,
@@ -218,23 +167,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 14,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 15,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "RAID-5",
-      "2": "RAID-6",
-      "3": "RAID-7",
-      "4": "RAID-10"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -595,23 +527,6 @@
     ]
   },
   {
-    "id": 36,
-    "date": "20160312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 38,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "(ㄱ) lpq (ㄴ) lpr",
-      "2": "(ㄱ) lpq (ㄴ) lp",
-      "3": "(ㄱ) lpstat (ㄴ) cancel",
-      "4": "(ㄱ) lpstat (ㄴ) lpr"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 37,
     "date": "20160312",
     "subject": 2,
@@ -884,40 +799,6 @@
     ]
   },
   {
-    "id": 53,
-    "date": "20160312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 58,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "(ㄱ) dump (ㄴ) -0f",
-      "2": "(ㄱ) dump (ㄴ) -0u",
-      "3": "(ㄱ) cpio (ㄴ) -ocv",
-      "4": "(ㄱ) cpio (ㄴ) -icv"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 54,
-    "date": "20160312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 60,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "(ㄱ) if (ㄴ) of",
-      "2": "(ㄱ) of (ㄴ) if",
-      "3": "(ㄱ) iflag (ㄴ) oflag",
-      "4": "(ㄱ) oflag (ㄴ) ifag"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 55,
     "date": "20160312",
     "subject": 3,
@@ -1048,23 +929,6 @@
       "2": "ssh",
       "3": "dns",
       "4": "samba"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 63,
-    "date": "20160312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 70,
-    "question": "다음 ( 괄호 ) 안에 들어갈 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/sysconfig/network",
-      "3": "/etc/yp.conf",
-      "4": "/etc/ypserv.conf"
     },
     "answers": [
       3
@@ -1530,23 +1394,6 @@
     ]
   },
   {
-    "id": 91,
-    "date": "20160312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 100,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/rc.d/rc.local",
-      "2": "/etc/sysconfig/iptables",
-      "3": "/var/log/secure",
-      "4": "/usr/sbin/iptables"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 92,
     "date": "20160910",
     "subject": 1,
@@ -1666,23 +1513,6 @@
     ]
   },
   {
-    "id": 99,
-    "date": "20160910",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 9,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ X.org ㉡ XFree86",
-      "2": "㉠ XFree86 ㉡ X.org",
-      "3": "㉠ KDE ㉡ GNOME",
-      "4": "㉠ GNOME ㉡ KDE"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 100,
     "date": "20160910",
     "subject": 1,
@@ -1714,23 +1544,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 102,
-    "date": "20160910",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 12,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ lin ㉡ joon",
-      "2": "㉠ joon ㉡ lin",
-      "3": "㉠ ./test.sh ㉡ lin",
-      "4": "㉠ ./test.sh ㉡ joon"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -1802,23 +1615,6 @@
     ]
   },
   {
-    "id": 107,
-    "date": "20160910",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 17,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ : /etc/protocol ㉡ : /etc/service",
-      "2": "㉠ : /etc/service ㉡ : /etc/protocol",
-      "3": "㉠ : /etc/protocols ㉡ : /etc/services",
-      "4": "㉠ : /etc/services ㉡ : /etc/protocols"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 108,
     "date": "20160910",
     "subject": 1,
@@ -1867,23 +1663,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 111,
-    "date": "20160910",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 22,
-    "question": "다음 ( 괄호 ) 안에 들어갈 알맞은 명령어는?",
-    "choices": {
-      "1": "useradd",
-      "2": "usermod",
-      "3": "groupadd",
-      "4": "groupmod"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -2397,23 +2176,6 @@
     ]
   },
   {
-    "id": 142,
-    "date": "20160910",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 60,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ tar ㉡ dd",
-      "2": "㉠ cpio ㉡ tar",
-      "3": "㉠ dump ㉡ restore",
-      "4": "㉠ rsync ㉡ restore"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 143,
     "date": "20160910",
     "subject": 3,
@@ -2635,23 +2397,6 @@
     ]
   },
   {
-    "id": 156,
-    "date": "20160910",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 76,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ POP3 ㉡ 110",
-      "2": "㉠ IMAP ㉡ 143",
-      "3": "㉠ SMTP ㉡ 25",
-      "4": "㉠ SNMP ㉡ 161"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 157,
     "date": "20160910",
     "subject": 3,
@@ -2856,23 +2601,6 @@
     ]
   },
   {
-    "id": 169,
-    "date": "20160910",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 91,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ /etc/host.allow ㉡ /etc/host.deny",
-      "2": "㉠ /etc/hosts.allow ㉡ /etc/hosts.deny",
-      "3": "㉠ /etc/allow.host ㉡ /etc/deny.host",
-      "4": "㉠ /etc/allow.hosts ㉡ /etc/deny.hosts"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 170,
     "date": "20160910",
     "subject": 3,
@@ -3026,23 +2754,6 @@
     ]
   },
   {
-    "id": 179,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 4,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "yum",
-      "2": "apt-get",
-      "3": "YaST",
-      "4": "rpm"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 180,
     "date": "20170311",
     "subject": 1,
@@ -3111,23 +2822,6 @@
     ]
   },
   {
-    "id": 184,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 9,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "X 메신저",
-      "2": "X 윈도",
-      "3": "X 터미널",
-      "4": "X 프로토콜"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 185,
     "date": "20170311",
     "subject": 1,
@@ -3156,23 +2850,6 @@
       "2": "2",
       "3": "3",
       "4": "${aaa[1+1]}"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 187,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 13,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ pending process ㉡ -0",
-      "2": "㉠ zombie process ㉡ -0",
-      "3": "㉠ pending process ㉡ -9",
-      "4": "㉠ zombie process ㉡ -9"
     },
     "answers": [
       4
@@ -3244,23 +2921,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 192,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 19,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "127.0.0.0",
-      "2": "169.254.0.0",
-      "3": "127.0.0.1",
-      "4": "0.0.0.0"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -3587,23 +3247,6 @@
     ]
   },
   {
-    "id": 212,
-    "date": "20170311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 42,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ modprobe ㉡ lsmod ㉢ rmmod",
-      "2": "㉠ insmod ㉡ listmod ㉢ delmod",
-      "3": "㉠ modprobe ㉡ lsmod ㉢ delmod",
-      "4": "㉠ insmod ㉡ lstmod ㉢ rmmod"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 213,
     "date": "20170311",
     "subject": 2,
@@ -3669,23 +3312,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 217,
-    "date": "20170311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 48,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ lpq ㉡ lprm",
-      "2": "㉠ lp ㉡ cancel",
-      "3": "㉠ lp ㉡ lprm",
-      "4": "㉠ lpq ㉡ lpr"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -4094,23 +3720,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 242,
-    "date": "20170311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 77,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ BIND ㉡ rpcbind ㉢ portmap",
-      "2": "㉠ BIND ㉡ portmap ㉢ rpcbind",
-      "3": "㉠ RPC ㉡ rpcbind ㉢ portmap",
-      "4": "㉠ RPC ㉡ portmap ㉢ rpcbind"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -4658,23 +4267,6 @@
     ]
   },
   {
-    "id": 275,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 14,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 포어그라운드 ㉡ standalone",
-      "2": "㉠ 포어그라운드 ㉡ inetd",
-      "3": "㉠ 백그라운드 ㉡ inetd",
-      "4": "㉠ 백그라운드 ㉡ standalone"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 276,
     "date": "20170909",
     "subject": 1,
@@ -4689,23 +4281,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 277,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 17,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ : 128 ㉡ : /etc/protocols",
-      "2": "㉠ : 1023 ㉡ : /etc/services",
-      "3": "㉠ : 1024 ㉡ : /etc/protocols",
-      "4": "㉠ : 65536 ㉡ : /etc/services"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -4930,23 +4505,6 @@
     ]
   },
   {
-    "id": 291,
-    "date": "20170909",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 34,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "nice",
-      "2": "renice",
-      "3": "kill -s",
-      "4": "pkill -s"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 292,
     "date": "20170909",
     "subject": 2,
@@ -4978,23 +4536,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 294,
-    "date": "20170909",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 37,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "-qc",
-      "2": "-qv",
-      "3": "-V",
-      "4": "-qs"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -5063,23 +4604,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 299,
-    "date": "20170909",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 44,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ moprobe.conf ㉡ modprobe",
-      "2": "㉠ modprobe.conf ㉡ depmod",
-      "3": "㉠ modules.dep ㉡ modprobe",
-      "4": "㉠ modules.dep ㉡ depmod"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -5423,23 +4947,6 @@
     ]
   },
   {
-    "id": 320,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 67,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "X.25",
-      "2": "X.232",
-      "3": "X.500",
-      "4": "X.802"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 321,
     "date": "20170909",
     "subject": 3,
@@ -5587,23 +5094,6 @@
       "2": "makemap hash /etc/aliases </etc/aliases",
       "3": "sendmail -bi",
       "4": "sendmail -bp"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 330,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 80,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/mail/sendmail.m4",
-      "2": "/etc/mail/sendmail.db",
-      "3": "/etc/mail/sendmail.mc",
-      "4": "/etc/mail/sendmail.cf"
     },
     "answers": [
       3
@@ -5797,23 +5287,6 @@
     ]
   },
   {
-    "id": 342,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 94,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/vncservers",
-      "2": "/etc/sysconfig/vncservers",
-      "3": "/etc/vncservers.conf",
-      "4": "/etc/vncconfig"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 343,
     "date": "20170909",
     "subject": 3,
@@ -5927,23 +5400,6 @@
       "2": "타이젠(Tizen)",
       "3": "미고(MeeGo)",
       "4": "바다(Bada) OS"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 350,
-    "date": "20180310",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 3,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ : GPL, ㉡ : LGPL",
-      "2": "㉠ : LGPL, ㉡ : GPL",
-      "3": "㉠ : GPL, ㉡ : MPL",
-      "4": "㉠ : MPL, ㉡ : GPL"
     },
     "answers": [
       1
@@ -6137,23 +5593,6 @@
     ]
   },
   {
-    "id": 362,
-    "date": "20180310",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 16,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 2, ㉡ 125",
-      "2": "㉠ 2, ㉡ 126",
-      "3": "㉠ 4, ㉡ 61",
-      "4": "㉠ 4, ㉡ 62"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 363,
     "date": "20180310",
     "subject": 1,
@@ -6324,23 +5763,6 @@
     ]
   },
   {
-    "id": 373,
-    "date": "20180310",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 29,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령어의 출력 결과로 알맞은 것 은?",
-    "choices": {
-      "1": "/home/ihduser",
-      "2": "/etc",
-      "3": "/",
-      "4": "~/etc"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 374,
     "date": "20180310",
     "subject": 2,
@@ -6369,23 +5791,6 @@
       "2": "* 3,6,9,12 1 1 0 /root/bin/backup.sh",
       "3": "3,6,9,12 * 1 1 0 /root/bin/backup.sh",
       "4": "0 1 3,6,9,12 1 * /root/bin/backup.sh"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 376,
-    "date": "20180310",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 33,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "d",
-      "2": "w",
-      "3": "n",
-      "4": "t"
     },
     "answers": [
       1
@@ -7038,23 +6443,6 @@
     ]
   },
   {
-    "id": 415,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 78,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "/etc/samba/user",
-      "2": "/etc/samba/users",
-      "3": "/etc/samba/smbuser",
-      "4": "/etc/samba/smbusers"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 416,
     "date": "20180310",
     "subject": 3,
@@ -7106,23 +6494,6 @@
     ]
   },
   {
-    "id": 419,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 82,
-    "question": "다음 중 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/aliases",
-      "2": "/etc/mail/access",
-      "3": "/etc/mail/virtusertable",
-      "4": "/etc/mail/local-host-names"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 420,
     "date": "20180310",
     "subject": 3,
@@ -7137,23 +6508,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 421,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 85,
-    "question": "다음 ( 괄호 )안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "acl",
-      "2": "suid",
-      "3": "ags",
-      "4": "proxy"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -7463,23 +6817,6 @@
     ]
   },
   {
-    "id": 440,
-    "date": "20180908",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 6,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ ${#cnt} ㉡ 8",
-      "2": "㉠ “$cnt” ㉡ 8",
-      "3": "㉠ ${#cnt} ㉡ 10",
-      "4": "㉠ “$cnt” ㉡ 10"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 441,
     "date": "20180908",
     "subject": 1,
@@ -7528,23 +6865,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 444,
-    "date": "20180908",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 11,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ RAID-3 ㉡ RAID-4",
-      "2": "㉠ RAID-5 ㉡ RAID-6",
-      "3": "㉠ RAID-7 ㉡ RAID-8",
-      "4": "㉠ RAID-9 ㉡ RAID-10"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -7667,23 +6987,6 @@
     ]
   },
   {
-    "id": 452,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 21,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "011",
-      "2": "022",
-      "3": "644",
-      "4": "755"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 453,
     "date": "20180908",
     "subject": 2,
@@ -7698,23 +7001,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 454,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 23,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ z ㉡ j ㉢ J",
-      "2": "㉠ z ㉡ J ㉢ j",
-      "3": "㉠ J ㉡ j ㉢ z",
-      "4": "㉠ j ㉡ J ㉢ z"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -8157,23 +7443,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 481,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 53,
-    "question": "다음 ( 괄호 ) 안에 사용 가능한 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "tar 명령과 옵션",
-      "2": "cpio 명령과 옵션",
-      "3": "dump 명령과 옵션",
-      "4": "rsync 명령과 옵션"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -8670,23 +7939,6 @@
     ]
   },
   {
-    "id": 511,
-    "date": "20180908",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 88,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ named ㉡ named",
-      "2": "㉠ named ㉡ bind",
-      "3": "㉠ bind ㉡ named",
-      "4": "㉠ bind ㉡ bind"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 512,
     "date": "20180908",
     "subject": 3,
@@ -8970,23 +8222,6 @@
       "2": "[ctrl]+[d]",
       "3": "[ctrl]+[z]",
       "4": "[ctrl]+[\\]"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 529,
-    "date": "20190316",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 9,
-    "question": "다음 ㉠ 및 ㉡에 들어갈 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ set ㉡ unset",
-      "2": "㉠ set ㉡ env",
-      "3": "㉠ env ㉡ set",
-      "4": "㉠ env ㉡ unset"
     },
     "answers": [
       2
@@ -9486,23 +8721,6 @@
     ]
   },
   {
-    "id": 559,
-    "date": "20190316",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 44,
-    "question": "다음 중 ㉠ 및 ㉡에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ modprobe.conf ㉡ modprobe",
-      "2": "㉠ modprobe.conf ㉡ depmod",
-      "3": "㉠ modules.dep ㉡ modprobe",
-      "4": "㉠ modules.dep ㉡ depmod"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 560,
     "date": "20190316",
     "subject": 2,
@@ -9843,23 +9061,6 @@
     ]
   },
   {
-    "id": 580,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 71,
-    "question": "다음 ㉠ 및 ㉡에 들어갈 내용이 알맞게 짝지어진 것은?",
-    "choices": {
-      "1": "㉠ IMAP ㉡ 110",
-      "2": "㉠ IMAP ㉡ 143",
-      "3": "㉠ POP3 ㉡ 110",
-      "4": "㉠ POP3 ㉡ 143"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 581,
     "date": "20190316",
     "subject": 3,
@@ -10013,23 +9214,6 @@
     ]
   },
   {
-    "id": 590,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 83,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/yp.conf",
-      "2": "/etc/ypbind.conf",
-      "3": "/etc/ypserv.conf",
-      "4": "/etc/sysconfig/network"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 591,
     "date": "20190316",
     "subject": 3,
@@ -10115,23 +9299,6 @@
     ]
   },
   {
-    "id": 596,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 89,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "m4",
-      "2": "makemap hash",
-      "3": "newaliases",
-      "4": "sendmail -bi"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 597,
     "date": "20190316",
     "subject": 3,
@@ -10211,23 +9378,6 @@
       "2": "-pixel",
       "3": "-resolution",
       "4": "-geometry"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 602,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 95,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "class",
-      "2": "grade",
-      "3": "layer",
-      "4": "stratum"
     },
     "answers": [
       4
@@ -10452,23 +9602,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 616,
-    "date": "20190921",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 10,
-    "question": "다음 ( 괄호 ) 안에 출력되는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "?",
-      "2": "0",
-      "3": "1",
-      "4": "2"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -10778,23 +9911,6 @@
     ]
   },
   {
-    "id": 635,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 31,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "-q",
-      "2": "-qc",
-      "3": "-qp",
-      "4": "-V"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 636,
     "date": "20190921",
     "subject": 2,
@@ -10843,23 +9959,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 639,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 36,
-    "question": "다음 ( 괄호 ) 안에 들어갈 수 있는 파일명으로 알맞은 것 은?",
-    "choices": {
-      "1": "httpd-2.4.41.tar.bz2",
-      "2": "httpd-2.4.41.tar.Z",
-      "3": "php-5.6.40.tar.xz",
-      "4": "mysql-boost-5.7.27.tar.gz"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -11084,23 +10183,6 @@
     ]
   },
   {
-    "id": 653,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 52,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ : 공개키 ㉡ : 비밀키 ㉢ : 복호화",
-      "2": "㉠ : 비밀키 ㉡ : 개인키 ㉢ : 복호화",
-      "3": "㉠ : 공개키 ㉡ : 개인키 ㉢ : 리스토어",
-      "4": "㉠ : 비밀키 ㉡ : 특수키 ㉢ : 리스토어"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 654,
     "date": "20190921",
     "subject": 2,
@@ -11288,23 +10370,6 @@
     ]
   },
   {
-    "id": 665,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 65,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 401, ㉡ 403",
-      "2": "㉠ 401, ㉡ 404",
-      "3": "㉠ 403, ㉡ 404",
-      "4": "㉠ 404, ㉡ 403"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 666,
     "date": "20190921",
     "subject": 3,
@@ -11350,23 +10415,6 @@
       "2": "X.500",
       "3": "RPC",
       "4": "Sun Microsystems"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 669,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 70,
-    "question": "다음 ( 괄호 ) 안에 들어갈 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/yp.conf",
-      "3": "/etc/ypserv.conf",
-      "4": "/etc/sysconfig/network"
     },
     "answers": [
       2
@@ -11628,23 +10676,6 @@
     ]
   },
   {
-    "id": 685,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 89,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ POP3, ㉡ IMAP",
-      "2": "㉠ IMAP, ㉡ POP3",
-      "3": "㉠ SMTP, ㉡ POP3",
-      "4": "㉠ POP3, ㉡ SMTP"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 686,
     "date": "20190921",
     "subject": 3,
@@ -11744,23 +10775,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 692,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 98,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ NAT, ㉡ PREROUTING",
-      "2": "㉠ NAT, ㉡ POSTROUTING",
-      "3": "㉠ Filter, ㉡ PREROUTING",
-      "4": "㉠ Filter, ㉡ POSTROUTING"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -11948,23 +10962,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 704,
-    "date": "20200613",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 11,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ i-node, ㉡ fsck",
-      "2": "㉠ journaling, ㉡ fsck",
-      "3": "㉠ i-node, ㉡ chkdsk",
-      "4": "㉠ journaling, ㉡ chkdsk"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -12172,40 +11169,6 @@
     ]
   },
   {
-    "id": 717,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 25,
-    "question": "다음 ( 괄호 ) 안에 들어갈 수 있는 명령으로 틀린 것은?",
-    "choices": {
-      "1": "kill",
-      "2": "pgrep",
-      "3": "pkill",
-      "4": "killall"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 718,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 26,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "-q",
-      "2": "-qc",
-      "3": "-qf",
-      "4": "-qp"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 719,
     "date": "20200613",
     "subject": 2,
@@ -12410,23 +11373,6 @@
     ]
   },
   {
-    "id": 731,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 43,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ modprobe.conf ㉡ modprobe",
-      "2": "㉠ modprobe.conf ㉡ depmod",
-      "3": "㉠ modules.dep ㉡ modprobe",
-      "4": "㉠ modules.dep ㉡ depmod"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 732,
     "date": "20200613",
     "subject": 2,
@@ -12509,23 +11455,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 737,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 50,
-    "question": "다음 ( 괄호 ) 안에 들어갈 모듈 관련 명령어로 알맞은 것 은?",
-    "choices": {
-      "1": "lsmod",
-      "2": "insmod",
-      "3": "rmmod",
-      "4": "modprobe"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -12835,23 +11764,6 @@
     ]
   },
   {
-    "id": 756,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 72,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "smbmount",
-      "2": "smbclient",
-      "3": "smbstatus",
-      "4": "testparm"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 757,
     "date": "20200613",
     "subject": 3,
@@ -12883,23 +11795,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 759,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 75,
-    "question": "다음 ( 괄호 ) 안에 들어갈 수 있는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "m4",
-      "2": "newaliases",
-      "3": "sendmail",
-      "4": "makemap hash"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -12971,23 +11866,6 @@
     ]
   },
   {
-    "id": 764,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 81,
-    "question": "다음 ( 괄호 )안에 들어갈 내용을 알맞은 것은?",
-    "choices": {
-      "1": "㉠ <?php ㉡ ?>",
-      "2": "㉠ <%php ㉡ %>",
-      "3": "㉠ <!php ㉡ !>",
-      "4": "㉠ <&php ㉡ &>"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 765,
     "date": "20200613",
     "subject": 3,
@@ -13002,23 +11880,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 766,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 83,
-    "question": "다음 ( 괄호 ) 안에 들어갈 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/yp.conf",
-      "3": "/etc/ypbind.conf",
-      "4": "/etc/sysconfig/network"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -14110,23 +12971,6 @@
     ]
   },
   {
-    "id": 831,
-    "date": "20201010",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 63,
-    "question": "다음 ( 괄호 ) 안에 들어갈 수 있는 설정 내용으로 틀린 것은?",
-    "choices": {
-      "1": "*.ihd.or.kr",
-      "2": "192.168.12.",
-      "3": "192.168.12.0/255.255.255.0",
-      "4": "192.168.5.0/24"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 832,
     "date": "20201010",
     "subject": 3,
@@ -14736,23 +13580,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 868,
-    "date": "20220312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 8,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "od",
-      "2": "rof",
-      "3": "eof",
-      "4": "done"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -15640,23 +14467,6 @@
     ]
   },
   {
-    "id": 921,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 68,
-    "question": "다음( 괄호 ) 안에 들어갈 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "ypbind",
-      "2": "ypwhich",
-      "3": "ypcat",
-      "4": "nisdomainname"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 922,
     "date": "20220312",
     "subject": 3,
@@ -15895,23 +14705,6 @@
     ]
   },
   {
-    "id": 936,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 87,
-    "question": "다음 (괄호) 안에 들어갈 메일 관련 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/mail/access",
-      "2": "/etc/mail/local-host-names",
-      "3": "/etc/aliases",
-      "4": "/etc/mail/virtusertable"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 937,
     "date": "20220312",
     "subject": 3,
@@ -16082,23 +14875,6 @@
     ]
   },
   {
-    "id": 947,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 1,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 리처드 스톨먼, ㉡ 리누스 토발즈",
-      "2": "㉠ 리처드 스톨먼, ㉡ 켄 톰슨",
-      "3": "㉠ 리누스 토발즈, ㉡ 앤드루 S. 타넨바움",
-      "4": "㉠ 켄 톰슨, ㉡ 데니스 리치"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 948,
     "date": "20230311",
     "subject": 1,
@@ -16215,23 +14991,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 955,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 12,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "0",
-      "2": "1",
-      "3": "10",
-      "4": "-10"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -16371,23 +15130,6 @@
     ]
   },
   {
-    "id": 964,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 21,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "4",
-      "2": "5",
-      "3": "6",
-      "4": "7"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 965,
     "date": "20230311",
     "subject": 2,
@@ -16524,23 +15266,6 @@
     ]
   },
   {
-    "id": 973,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 31,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ NI, ㉡ -19 ~ 20",
-      "2": "㉠ NI, ㉡ -20 ~ 19",
-      "3": "㉠ PRI, ㉡ -19 ~ 20",
-      "4": "㉠ PRI, ㉡ -20 ~ 19"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 974,
     "date": "20230311",
     "subject": 2,
@@ -16555,23 +15280,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 975,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 33,
-    "question": "다음 ( 괄호 ) 안에 들어갈 수 있는 명령어로 틀린 것은?",
-    "choices": {
-      "1": "kill",
-      "2": "killall",
-      "3": "pgrep",
-      "4": "pkill"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -17255,23 +15963,6 @@
     ]
   },
   {
-    "id": 1016,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 81,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ named, ㉡ ISC",
-      "2": "㉠ named, ㉡ BIND",
-      "3": "㉠ ISC, ㉡ BIND",
-      "4": "㉠ BIND, ㉡ ISC"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 1017,
     "date": "20230311",
     "subject": 3,
@@ -17408,23 +16099,6 @@
     ]
   },
   {
-    "id": 1025,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 91,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "libtcp.so",
-      "2": "libwrap.so",
-      "3": "tcpwrap.so",
-      "4": "inetdwrap.so"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 1026,
     "date": "20230311",
     "subject": 3,
@@ -17473,23 +16147,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 1029,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 96,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "SYS_SENT",
-      "2": "SYN_RECV",
-      "3": "TIME_WAIT",
-      "4": "LAST_ACK"
-    },
-    "answers": [
-      2
     ]
   },
   {

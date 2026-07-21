@@ -340,23 +340,6 @@
     ]
   },
   {
-    "id": 21,
-    "date": "20200613",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 24,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ multitasking ㉡ crond",
-      "2": "㉠ multitasking ㉡ standalone",
-      "3": "㉠ daemon ㉡ crond",
-      "4": "㉠ daemon ㉡ standalone"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 22,
     "date": "20200613",
     "subject": 1,
@@ -1292,23 +1275,6 @@
     ]
   },
   {
-    "id": 77,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 7,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "GID",
-      "2": "UUID",
-      "3": "DISKID",
-      "4": "WWWN"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 78,
     "date": "20201010",
     "subject": 1,
@@ -1445,23 +1411,6 @@
     ]
   },
   {
-    "id": 86,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 16,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "-s",
-      "2": "-l",
-      "3": "-L",
-      "4": "/etc/shells"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 87,
     "date": "20201010",
     "subject": 1,
@@ -1547,23 +1496,6 @@
     ]
   },
   {
-    "id": 92,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 22,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ init, ㉡ 0",
-      "2": "㉠ init, ㉡ 1",
-      "3": "㉠ inetd, ㉡ 0",
-      "4": "㉠ inetd, ㉡ 1"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 93,
     "date": "20201010",
     "subject": 1,
@@ -1578,23 +1510,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 94,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 24,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ NI, ㉡ PRI",
-      "2": "㉠ PRI, ㉡ NI",
-      "3": "㉠ inetd, ㉡ exec",
-      "4": "㉠ inetd, ㉡ fork"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -1802,23 +1717,6 @@
     ]
   },
   {
-    "id": 107,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 38,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용을 알맞은 것은?",
-    "choices": {
-      "1": "cvf",
-      "2": "rvf",
-      "3": "xvf",
-      "4": "tvf"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 108,
     "date": "20201010",
     "subject": 1,
@@ -1881,23 +1779,6 @@
       "2": "lp -d lin.txt",
       "3": "lpr -r lin.txt",
       "4": "lpr -d lin.txt"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 112,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 44,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ LPD, ㉡ LPRng",
-      "2": "㉠ LPRng, ㉡ LPD",
-      "3": "㉠ LPRng, ㉡ CUPS",
-      "4": "㉠ CUPS, ㉡ LPRng"
     },
     "answers": [
       3
@@ -2227,23 +2108,6 @@
     ]
   },
   {
-    "id": 132,
-    "date": "20201010",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 65,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "32bit",
-      "2": "48bit",
-      "3": "64bit",
-      "4": "128bit"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 133,
     "date": "20201010",
     "subject": 2,
@@ -2465,23 +2329,6 @@
     ]
   },
   {
-    "id": 146,
-    "date": "20201212",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 1,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 틀린 것은?",
-    "choices": {
-      "1": "㉠ : 0022",
-      "2": "㉡ : -rwxr-xr-x",
-      "3": "㉢ : S",
-      "4": "㉣ : o=rx"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 147,
     "date": "20201212",
     "subject": 1,
@@ -2513,23 +2360,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 149,
-    "date": "20201212",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 4,
-    "question": "다음 중 ( 괄호 )안에 들어갈 옵션으로 알맞은 것은?",
-    "choices": {
-      "1": "-j",
-      "2": "-t",
-      "3": "-c",
-      "4": "-b"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -3009,23 +2839,6 @@
     ]
   },
   {
-    "id": 178,
-    "date": "20201212",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 36,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ deb ㉡ library",
-      "2": "㉠ rpm ㉡ repository",
-      "3": "㉠ rpm ㉡ library",
-      "4": "㉠ deb ㉡ repository"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 179,
     "date": "20201212",
     "subject": 1,
@@ -3122,23 +2935,6 @@
       "2": "443",
       "3": "631",
       "4": "8080"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 185,
-    "date": "20201212",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 44,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "xcam",
-      "2": "scanadf",
-      "3": "scanimage",
-      "4": "sane-find-scanner"
     },
     "answers": [
       3
@@ -3774,23 +3570,6 @@
     ]
   },
   {
-    "id": 223,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 5,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "ACL",
-      "2": "Set-UID",
-      "3": "Set-GID",
-      "4": "Sticky-Bit"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 224,
     "date": "20210313",
     "subject": 1,
@@ -3955,23 +3734,6 @@
       "2": "-l",
       "3": "-s",
       "4": "-u"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 234,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 18,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "[↑]",
-      "2": "[↓]",
-      "3": "[Tab]",
-      "4": "[Ctrl]"
     },
     "answers": [
       3
@@ -4556,23 +4318,6 @@
     ]
   },
   {
-    "id": 269,
-    "date": "20210313",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 59,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ open ㉡ close",
-      "2": "㉠ mkdir ㉡ rmdir",
-      "3": "㉠ get ㉡ put",
-      "4": "㉠ put ㉡ get"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 270,
     "date": "20210313",
     "subject": 2,
@@ -5049,23 +4794,6 @@
     ]
   },
   {
-    "id": 298,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 12,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "make",
-      "2": "cmake",
-      "3": "configure",
-      "4": "dnf"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 299,
     "date": "20210911",
     "subject": 1,
@@ -5236,23 +4964,6 @@
     ]
   },
   {
-    "id": 309,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 25,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "init",
-      "2": "inetd",
-      "3": "xinetd",
-      "4": "standalone"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 310,
     "date": "20210911",
     "subject": 1,
@@ -5318,23 +5029,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 314,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 30,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ init, ㉡ systemd",
-      "2": "㉠ inetd, ㉡ systemd",
-      "3": "㉠ systemd, ㉡ init",
-      "4": "㉠ systemd, ㉡ inetd"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -6205,23 +5899,6 @@
     ]
   },
   {
-    "id": 366,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 8,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "jxvf",
-      "2": "Jxvf",
-      "3": "zxvf",
-      "4": "Zxvf"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 367,
     "date": "20211211",
     "subject": 1,
@@ -6471,23 +6148,6 @@
       "2": "11 10 * * 1-3 /etc/check.sh",
       "3": "10 11 * * 1,3 /etc/check.sh",
       "4": "11 10 * 1,3 /etc/check.sh"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 382,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 26,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "exec",
-      "2": "fork",
-      "3": "inetd",
-      "4": "standalone"
     },
     "answers": [
       3
@@ -6780,23 +6440,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 400,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 47,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ Set-UID ㉡ uuid",
-      "2": "㉠ Set-UID ㉡ blkid",
-      "3": "㉠ UUID ㉡ blkid",
-      "4": "㉠ UUID ㉡ uuid"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -7633,23 +7276,6 @@
     ]
   },
   {
-    "id": 450,
-    "date": "20220611",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 19,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ vi, ㉡ pico",
-      "2": "㉠ vi, ㉡ nano",
-      "3": "㉠ nano, ㉡ pico",
-      "4": "㉠ pico, ㉡ nano"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 451,
     "date": "20220611",
     "subject": 1,
@@ -7797,23 +7423,6 @@
       "2": "jobs -l",
       "3": "ps aux",
       "4": "ps –l"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 460,
-    "date": "20220611",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 30,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ init, ㉡ exec",
-      "2": "㉠ init, ㉡ fork",
-      "3": "㉠ systemd, ㉡ exec",
-      "4": "㉠ systemd, ㉡ fork"
     },
     "answers": [
       4
@@ -8976,23 +8585,6 @@
     ]
   },
   {
-    "id": 529,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 27,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "㉠ standalone, ㉡ foreground",
-      "2": "㉠ standalone, ㉡ background",
-      "3": "㉠ daemon, ㉡ foreground",
-      "4": "㉠ daemon, ㉡ background"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 530,
     "date": "20220903",
     "subject": 1,
@@ -9123,23 +8715,6 @@
       "2": "˜/.bash_history",
       "3": "˜/.bash_profile",
       "4": "˜/.bash_logout"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 538,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 36,
-    "question": "다음 ( 괄호 ) 안에 출력되는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "lin",
-      "2": "USER",
-      "3": "ihduser",
-      "4": "아무것도 출력되지 않는다."
     },
     "answers": [
       3
@@ -9605,23 +9180,6 @@
     ]
   },
   {
-    "id": 566,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 66,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ SMB, ㉡ CIFS",
-      "2": "㉠ SMB, ㉡ NFS",
-      "3": "㉠ CIFS, ㉡ SMB",
-      "4": "㉠ NFS, ㉡ CIFS"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 567,
     "date": "20220903",
     "subject": 2,
@@ -9636,23 +9194,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 568,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 69,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ IEEE, ㉡ ICANN",
-      "2": "㉠ ICANN, ㉡ IEEE",
-      "3": "㉠ ICANN, ㉡ IANA",
-      "4": "㉠ IANA, ㉡ ICANN"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -9962,23 +9503,6 @@
     ]
   },
   {
-    "id": 587,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 10,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ blkid, ㉡ uuid",
-      "2": "㉠ label, ㉡ uuid",
-      "3": "㉠ label, ㉡ blkid",
-      "4": "㉠ uuid, ㉡ blkid"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 588,
     "date": "20230311",
     "subject": 1,
@@ -10112,23 +9636,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 596,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 19,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ init, ㉡ 0",
-      "2": "㉠ init, ㉡ 1",
-      "3": "㉠ systemd, ㉡ 0",
-      "4": "㉠ systemd, ㉡ 1"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -10387,23 +9894,6 @@
     ]
   },
   {
-    "id": 612,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 37,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "rpm",
-      "2": "dpkg",
-      "3": "apt",
-      "4": "pat-get"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 613,
     "date": "20230311",
     "subject": 1,
@@ -10486,23 +9976,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 618,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 44,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ ALSA, ㉡ OSS",
-      "2": "㉠ OSS, ㉡ ALSA",
-      "3": "㉠ SANE, ㉡ XSANE",
-      "4": "㉠ XSANE, ㉡ SANE"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -11050,23 +10523,6 @@
     ]
   },
   {
-    "id": 651,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 2,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "0002",
-      "2": "0022",
-      "3": "0222",
-      "4": "0664"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 652,
     "date": "20230610",
     "subject": 1,
@@ -11081,23 +10537,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 653,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 4,
-    "question": "다음 ( 괄호 ) 안에 들어갈 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "chmod",
-      "2": "chown",
-      "3": "chgrp",
-      "4": "umask"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -11149,23 +10588,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 657,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 9,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ fsck, ㉡ e2fsck",
-      "2": "㉠ e2fsck, ㉡ fsck",
-      "3": "㉠ fsck, ㉡ xfs_repair",
-      "4": "㉠ fsck_repair, ㉡ xfs_repair"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -11299,40 +10721,6 @@
       "2": "히스토리에 저장된 명령어 목록을 출력한다.",
       "3": "가장 마지막에 실행한 명령을 재실행한다.",
       "4": "로그인한 후에 가장 처음 실행한 명령을 재실행한다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 666,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 18,
-    "question": "다음 중 ( 괄호 ) 안에 들어갈 명령의 결과로 알맞은 것은?",
-    "choices": {
-      "1": "아무것도 출력되지 않는다.",
-      "2": "$user",
-      "3": "ihduser",
-      "4": "kaitman"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 667,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 19,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 0, ㉡ fork",
-      "2": "㉠ 0, ㉡ exec",
-      "3": "㉠ 1, ㉡ fork",
-      "4": "㉠ 1, ㉡ exec"
     },
     "answers": [
       3
@@ -11781,23 +11169,6 @@
     ]
   },
   {
-    "id": 694,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 50,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ X 서버, ㉡ X 클라이언트",
-      "2": "㉠ X 클라이언트, ㉡ X 서버",
-      "3": "㉠ X 프로토콜, ㉡ X 서버",
-      "4": "㉠ X 프로토콜, ㉡ X 클라이언트"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 695,
     "date": "20230610",
     "subject": 2,
@@ -12067,23 +11438,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 711,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 68,
-    "question": "다음 ( 괄호 ) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "SSH",
-      "2": "NFS",
-      "3": "PORTMAP",
-      "4": "CIFS"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -12410,23 +11764,6 @@
     ]
   },
   {
-    "id": 731,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 9,
-    "question": "다음 (괄호) 안에 들어갈 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "quota",
-      "2": "mount",
-      "3": "umount",
-      "4": "fdisk"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 732,
     "date": "20230909",
     "subject": 1,
@@ -12458,23 +11795,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 734,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 12,
-    "question": "다음 (괄호) 안에 들어갈 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/passwd",
-      "2": "/etc/shells",
-      "3": "/etc/bashrc",
-      "4": "/etc/profile"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -12512,23 +11832,6 @@
     ]
   },
   {
-    "id": 737,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 16,
-    "question": "다음 (괄호) 안에 들어갈 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "bash_profile",
-      "2": "bash_history",
-      "3": ".bash_profile",
-      "4": ".bash_history"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 738,
     "date": "20230909",
     "subject": 1,
@@ -12546,40 +11849,6 @@
     ]
   },
   {
-    "id": 739,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 18,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "$LANG",
-      "2": "$TERM",
-      "3": "$PS1",
-      "4": "$TMOUT"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 740,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 19,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "exec",
-      "2": "fork",
-      "3": "init",
-      "4": "systemd"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 741,
     "date": "20230909",
     "subject": 1,
@@ -12594,23 +11863,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 742,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 21,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "init",
-      "2": "inetd",
-      "3": "xinetd",
-      "4": "standalone"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -12883,23 +12135,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 759,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 41,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "-qi",
-      "2": "-ql",
-      "3": "-qa",
-      "4": "-qf"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -13226,23 +12461,6 @@
     ]
   },
   {
-    "id": 779,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 66,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ HTML ㉡ URL",
-      "2": "㉠ HTML ㉡ 하이퍼텍스트",
-      "3": "㉠ 하이퍼텍스트 ㉡ HTML",
-      "4": "㉠ 하이퍼텍스트 ㉡ URL"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 780,
     "date": "20230909",
     "subject": 2,
@@ -13424,23 +12642,6 @@
       "2": "OpenStack",
       "3": "Kubernetes",
       "4": "Ansible"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 791,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 1,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "40",
-      "2": "50",
-      "3": "60",
-      "4": "70"
     },
     "answers": [
       3
@@ -13872,40 +13073,6 @@
     ]
   },
   {
-    "id": 817,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 30,
-    "question": "다음 (괄호) 안에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ exec, ㉡ fork",
-      "2": "㉠ fork, ㉡ exec",
-      "3": "㉠ background, ㉡ foreground",
-      "4": "㉠ foreground, ㉡ background"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 818,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 32,
-    "question": "다음 중 (괄호) 안에 들어갈 명령의 결과로 알맞은 것은?",
-    "choices": {
-      "1": "아무것도 출력되지 않는다.",
-      "2": "$user",
-      "3": "ihduser",
-      "4": "kaitman"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 819,
     "date": "20231209",
     "subject": 1,
@@ -13951,23 +13118,6 @@
       "2": "chsh",
       "3": "jobs",
       "4": "shells"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 822,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 36,
-    "question": "다음 (괄호) 안에 들어갈 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/passwd",
-      "2": "/etc/shells",
-      "3": "/etc/bashrc",
-      "4": "/etc/profile"
     },
     "answers": [
       1

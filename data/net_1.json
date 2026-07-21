@@ -1105,23 +1105,6 @@
     ]
   },
   {
-    "id": 66,
-    "date": "20201025",
-    "subject": 1,
-    "subject_name": "TCP/IP",
-    "question_no": 15,
-    "question": "( ) 안에 들어갈 프로토콜은?",
-    "choices": {
-      "1": "FTP",
-      "2": "ICMP",
-      "3": "ARP",
-      "4": "TCP"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 67,
     "date": "20201025",
     "subject": 2,
@@ -10588,23 +10571,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 624,
-    "date": "20251026",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 53,
-    "question": "다음 괄호( )안에 맞는 것을 고르시오.",
-    "choices": {
-      "1": "DoH(DNS over HTTPS)",
-      "2": "DoT(DNS over TLS)",
-      "3": "TLS(Transport Layer Security)",
-      "4": "VPN(Virtual Private Network)"
-    },
-    "answers": [
-      1
     ]
   },
   {

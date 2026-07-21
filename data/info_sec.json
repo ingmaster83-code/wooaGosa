@@ -17,23 +17,6 @@
     ]
   },
   {
-    "id": 2,
-    "date": "20160924",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 2,
-    "question": "괄호 안에 들어갈 말로 옳은 것은?",
-    "choices": {
-      "1": "시스템 관리(system management)",
-      "2": "시스템 호출(system call)",
-      "3": "프로세스 관리(process management)",
-      "4": "스케줄링(scheduling)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 3,
     "date": "20160924",
     "subject": 1,
@@ -1021,23 +1004,6 @@
     ]
   },
   {
-    "id": 61,
-    "date": "20160924",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 70,
-    "question": "다음 중 아래 괄호 부분에 들어갈 내용으로 적합한 것은?",
-    "choices": {
-      "1": "(가) 일방향 해시함수, (나) 대칭키 암호, (다) 공개키 암 호기술",
-      "2": "(가) 일방향 해시함수，(나) 메시지 인증 코드, (다) 전자 서명",
-      "3": "(가) 공개키 암호 (나) 메시지 인증 코드, (다) 대칭키 암 호기술",
-      "4": "(가) 공개키 암호, (나) 대칭키 암호, (다) 전자 서명"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 62,
     "date": "20160924",
     "subject": 4,
@@ -1531,23 +1497,6 @@
     ]
   },
   {
-    "id": 91,
-    "date": "20170325",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 6,
-    "question": "㉠, ㉡에 해당하는 보안도구로 적절한 것은?",
-    "choices": {
-      "1": "㉠ 취약점 점검도구, ㉡ Snort",
-      "2": "㉠ 도칭 도구, ㉡ SNMP",
-      "3": "㉠ 침입 탐지 도구, ㉡ SNMP",
-      "4": "㉠ 무결성 검증 도구, ㉡ Snort"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 92,
     "date": "20170325",
     "subject": 1,
@@ -2024,23 +1973,6 @@
     ]
   },
   {
-    "id": 120,
-    "date": "20170325",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 42,
-    "question": "다음 ㉠, ㉡에 들어갈 단어로 적절 한 것은?",
-    "choices": {
-      "1": "㉠ Trojan, ㉡ Sniffer",
-      "2": "㉠ Trojan, ㉡ Exploit",
-      "3": "㉠ Worm, ㉡ Sniffer",
-      "4": "㉠ Worm, ㉡ Exploit"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 121,
     "date": "20170325",
     "subject": 3,
@@ -2500,23 +2432,6 @@
     ]
   },
   {
-    "id": 148,
-    "date": "20170325",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 73,
-    "question": "다음 지문의 ㉠~㉢에 들어갈 단어로 적절한 것은?",
-    "choices": {
-      "1": "㉠ 접근제어, ㉡ 가용성, ㉢ 인증",
-      "2": "㉠ 접근제어, ㉡ 인증, ㉢ 부인방지",
-      "3": "㉠ 인증, ㉡ 접근제어, ㉢ 가용성",
-      "4": "㉠ 인증, ㉡ 가용성, ㉢ 부인방지"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 149,
     "date": "20170325",
     "subject": 4,
@@ -2650,23 +2565,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 157,
-    "date": "20170325",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 83,
-    "question": "다음 ( )안에 들어갈 내용으로 맞는 것은?",
-    "choices": {
-      "1": "관리적 • 기술적 • 물리적",
-      "2": "위험 분석적",
-      "3": "기밀성 • 무결성 • 가용성",
-      "4": "지속적 • 구조적 • 탄력적"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -3027,23 +2925,6 @@
     ]
   },
   {
-    "id": 179,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 8,
-    "question": "다음 보기 괄호 안에 공통으로 들어갈 적당한 단어는?",
-    "choices": {
-      "1": "유틸리티(Utilities)",
-      "2": "커널(Kernel)",
-      "3": "셀(Shell)",
-      "4": "데몬(Daemon)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 180,
     "date": "20170909",
     "subject": 1,
@@ -3344,23 +3225,6 @@
       "2": "8개 필드로 구성된 헤더와 가변 길이 변수로 이루어진 확장 헤더 필드를 사용한다.",
       "3": "규모 조정이 가능한 라우팅 방법이 가능하고 사용하지 않는 IP에 대해 통제를 할 수 있다.",
       "4": "보안과 인증 확장 헤더를 사용함으로써 인터넷 계증의 보안 기능을 강화한다."
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 198,
-    "date": "20170909",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 29,
-    "question": "다음 보기 괄호 안에 들어갈 가장 적절한 단어는?",
-    "choices": {
-      "1": "터널링",
-      "2": "인증기술",
-      "3": "접근통제기술",
-      "4": "인식기술"
     },
     "answers": [
       1
@@ -4795,23 +4659,6 @@
     ]
   },
   {
-    "id": 283,
-    "date": "20190323",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 27,
-    "question": "다음 빈칸 ㉠에 들어갈 알맞은 용어는?",
-    "choices": {
-      "1": "PLC",
-      "2": "SCADA",
-      "3": "Modbus",
-      "4": "Stuxnet"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 284,
     "date": "20190323",
     "subject": 2,
@@ -5798,23 +5645,6 @@
     ]
   },
   {
-    "id": 342,
-    "date": "20190323",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 95,
-    "question": "빈 칸 ㉠, ㉡에 들어갈 적합한 단어는?",
-    "choices": {
-      "1": "자산 가치, 소비",
-      "2": "소비 가치, 노출",
-      "3": "자산 가치, 노출",
-      "4": "소비 가치, 생산"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 343,
     "date": "20190323",
     "subject": 5,
@@ -6203,23 +6033,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 366,
-    "date": "20190907",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 21,
-    "question": "㉠, ㉡, ㉢에 적합한 내용으로 짝지어진 것은?",
-    "choices": {
-      "1": "8Byte, 2Byte, 1Byte",
-      "2": "8Byte, 4Byte, 2Byte",
-      "3": "6Byte, 4Byte, 2Byte",
-      "4": "6Byte, 2Byte, 1Byte"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -8127,23 +7940,6 @@
     ]
   },
   {
-    "id": 479,
-    "date": "20200530",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 51,
-    "question": "빈칸 ⓐ, ⓑ, ⓒ에 들어갈 상태코드 값으로 알맞은 것은?",
-    "choices": {
-      "1": "ⓐ 200 ⓑ 400 ⓒ 500",
-      "2": "ⓐ 400 ⓑ 300 ⓒ 200",
-      "3": "ⓐ 200 ⓑ 500 ⓒ 300",
-      "4": "ⓐ 300 ⓑ 400 ⓒ 500"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 480,
     "date": "20200530",
     "subject": 3,
@@ -8773,23 +8569,6 @@
     ]
   },
   {
-    "id": 517,
-    "date": "20200530",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 95,
-    "question": "다음 빈칸 ㉠에 들어갈 말로 적절한 것은?",
-    "choices": {
-      "1": "ISMS",
-      "2": "PIMS",
-      "3": "ISMS-P",
-      "4": "GDPR"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 518,
     "date": "20200530",
     "subject": 5,
@@ -9008,23 +8787,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 531,
-    "date": "20200905",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 10,
-    "question": "다음 중 빈칸 ㉠에 들어갈 알맞은 용어는?",
-    "choices": {
-      "1": "클라우드",
-      "2": "저장소",
-      "3": "젠킨스",
-      "4": "빌드"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -9963,23 +9725,6 @@
     ]
   },
   {
-    "id": 587,
-    "date": "20200905",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 77,
-    "question": "다음 지문의 괄호 안에 들어갈 용어를 순서대로 나열한 것 은?",
-    "choices": {
-      "1": "개인키, 개인키",
-      "2": "개인키, 공개키",
-      "3": "공개키, 개인키",
-      "4": "공개키, 공개키"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 588,
     "date": "20200905",
     "subject": 4,
@@ -10813,23 +10558,6 @@
     ]
   },
   {
-    "id": 637,
-    "date": "20210327",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 37,
-    "question": "다음 지문에서 빈칸 ㉠에 해당하는 것은?",
-    "choices": {
-      "1": "Proxy",
-      "2": "Cookie",
-      "3": "Apache",
-      "4": "ActiveX"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 638,
     "date": "20210327",
     "subject": 2,
@@ -10949,23 +10677,6 @@
     ]
   },
   {
-    "id": 645,
-    "date": "20210327",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 46,
-    "question": "다음 빈칸 ㉠에 들어갈 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "Cookie",
-      "2": "Set-Cookie",
-      "3": "Session",
-      "4": "Keep-alive"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 646,
     "date": "20210327",
     "subject": 3,
@@ -11014,23 +10725,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 649,
-    "date": "20210327",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 51,
-    "question": "㉠, ㉡에 들어갈 내용으로 올바르게 짝지어진 것은?",
-    "choices": {
-      "1": "㉠ 21 ㉡ 1024",
-      "2": "㉠ 20 ㉡ 1024",
-      "3": "㉠ 21 ㉡ 2048",
-      "4": "㉠ 20 ㉡ 2048"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -11901,23 +11595,6 @@
     ]
   },
   {
-    "id": 701,
-    "date": "20210904",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 12,
-    "question": "㉠에 들어갈 내용으로 적절한 것은?",
-    "choices": {
-      "1": "해시 암호화 패스워드 파일",
-      "2": "섀도(Shadow) 패스워드 파일",
-      "3": "익명(Anonymity) 패스워드 파일",
-      "4": "PAM(Pluggable Authentication Module) 패스워드 파일"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 702,
     "date": "20210904",
     "subject": 1,
@@ -12054,23 +11731,6 @@
     ]
   },
   {
-    "id": 710,
-    "date": "20210904",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 21,
-    "question": "㉠에 들어갈 용어로 적절한 것은?",
-    "choices": {
-      "1": "Duplex Mode",
-      "2": "MAC 변조",
-      "3": "Promiscuous Mode",
-      "4": "ARP"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 711,
     "date": "20210904",
     "subject": 2,
@@ -12136,23 +11796,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 715,
-    "date": "20210904",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 28,
-    "question": "㉠, ㉡, ㉢, ㉣에 들어갈 내용으로 적절한 것은?",
-    "choices": {
-      "1": "㉠ LAND ㉡ SYN Flooding ㉢ Smurf ㉣ DoS",
-      "2": "㉠ SYN Flooding ㉡ Smurf ㉢ LAND ㉣ Sniffing",
-      "3": "㉠ SYN Flooding ㉡ LAND ㉢ Smurf ㉣ DoS",
-      "4": "㉠ LAND ㉡ Smurf ㉢ SYN Flooding ㉣ Sniffing"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -13428,23 +13071,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 791,
-    "date": "20220313",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 18,
-    "question": "다음 문장의 괄호 안에 해당하는 것은 무엇인가?",
-    "choices": {
-      "1": "버퍼오버플로우",
-      "2": "루팅",
-      "3": "인젝션",
-      "4": "접근 제어"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -14910,23 +14536,6 @@
     ]
   },
   {
-    "id": 878,
-    "date": "20220625",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 25,
-    "question": "다음 문장의 괄호 안에 들어갈 명령어를 순서대로 나열한 것은?",
-    "choices": {
-      "1": "㉠ : show process, ㉡ : show controllers, ㉢ : show flash",
-      "2": "㉠ : show process, ㉡ : show controllers, ㉢ : show memory",
-      "3": "㉠ : show process, ㉡ : show interface, ㉢ : show flash",
-      "4": "㉠ : show process, ㉡ : show interface, ㉢ : show memory"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 879,
     "date": "20220625",
     "subject": 2,
@@ -15060,23 +14669,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 887,
-    "date": "20220625",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 36,
-    "question": "다음 문장의 괄호 안에 들어갈 말은?",
-    "choices": {
-      "1": "Duplex Mode",
-      "2": "MAC",
-      "3": "Promiscuouse Mode",
-      "4": "ARP"
-    },
-    "answers": [
-      3
     ]
   },
   {

@@ -6155,23 +6155,6 @@
     ]
   },
   {
-    "id": 363,
-    "date": "20040307",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 4,
-    "question": "( )안에 알맞는 내용은?",
-    "choices": {
-      "1": "NO",
-      "2": "Cl",
-      "3": "CO",
-      "4": "SO 2"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 364,
     "date": "20040307",
     "subject": 1,
@@ -7580,23 +7563,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 447,
-    "date": "20040523",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 2,
-    "question": "산성강우에 대한 다음 설명중 ( )안에 적당한 말은?",
-    "choices": {
-      "1": "7, CO",
-      "2": "7, NO 2 2",
-      "3": "5.6, CO",
-      "4": "5.6, NO 2 2"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -9028,23 +8994,6 @@
     ]
   },
   {
-    "id": 532,
-    "date": "20040523",
-    "subject": 5,
-    "subject_name": "대기환경관계법규",
-    "question_no": 96,
-    "question": "( )안에 알맞는 내용은?",
-    "choices": {
-      "1": "시,도지사령",
-      "2": "총리령",
-      "3": "환경부령",
-      "4": "대통령령"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 533,
     "date": "20040523",
     "subject": 5,
@@ -9056,23 +9005,6 @@
       "2": "0.03ppm 이하",
       "3": "0.02ppm 이하",
       "4": "0.01ppm 이하"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 534,
-    "date": "20040523",
-    "subject": 5,
-    "subject_name": "대기환경관계법규",
-    "question_no": 99,
-    "question": "( )안에 알맞는 내용은?",
-    "choices": {
-      "1": "7",
-      "2": "10",
-      "3": "15",
-      "4": "30"
     },
     "answers": [
       3
@@ -10453,23 +10385,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 616,
-    "date": "20040905",
-    "subject": 5,
-    "subject_name": "대기환경관계법규",
-    "question_no": 93,
-    "question": "( )안에 알맞는 내용은?",
-    "choices": {
-      "1": "환경부",
-      "2": "대통령",
-      "3": "시도지사",
-      "4": "시장, 군수, 구청장"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -20996,23 +20911,6 @@
     ]
   },
   {
-    "id": 1236,
-    "date": "20060910",
-    "subject": 5,
-    "subject_name": "대기환경관계법규",
-    "question_no": 82,
-    "question": "( ) 안에 알맞은 내용은?",
-    "choices": {
-      "1": "장기종합계획",
-      "2": "중기종합계획",
-      "3": "단기종합계획",
-      "4": "환경종합계획"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 1237,
     "date": "20060910",
     "subject": 5,
@@ -21469,23 +21367,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 1264,
-    "date": "20070304",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 12,
-    "question": "다음 ( )안에 들어갈 말로 알맞은 것은?",
-    "choices": {
-      "1": "SO",
-      "2": "Cl 2",
-      "3": "CO",
-      "4": "NO"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -34715,23 +34596,6 @@
     ]
   },
   {
-    "id": 2043,
-    "date": "20100307",
-    "subject": 3,
-    "subject_name": "대기오염 방지기술",
-    "question_no": 52,
-    "question": "다음은 흡착제에 관한 설명이다. ( )안에 가장 적합한 것은?",
-    "choices": {
-      "1": "Activated carbon",
-      "2": "Synthetic Zeolite",
-      "3": "Silica gel",
-      "4": "Activated Alumina"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 2044,
     "date": "20100307",
     "subject": 3,
@@ -44354,23 +44218,6 @@
     ]
   },
   {
-    "id": 2610,
-    "date": "20120520",
-    "subject": 2,
-    "subject_name": "연소공학",
-    "question_no": 23,
-    "question": "다음은 연료에 관한 설명이다. ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "브라이트 스톡 (Bright Stock)",
-      "2": "베이시스 (Bases)",
-      "3": "비츄멘 (Bitumen)",
-      "4": "브리넬링 (Brinelling)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 2611,
     "date": "20120520",
     "subject": 2,
@@ -48224,23 +48071,6 @@
       "2": "0.4",
       "3": "0.7",
       "4": "1.0"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 2838,
-    "date": "20130310",
-    "subject": 5,
-    "subject_name": "대기환경관계법규",
-    "question_no": 97,
-    "question": "대기환경보전법상 ( )안에 가장 적합한 것은?",
-    "choices": {
-      "1": "등록취소",
-      "2": "조업정지",
-      "3": "이전",
-      "4": "경고"
     },
     "answers": [
       2
@@ -60198,23 +60028,6 @@
     ]
   },
   {
-    "id": 3542,
-    "date": "20160306",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 12,
-    "question": "옥탄가에 관한 설명에서 ( )에 가장 알맞은 것은?",
-    "choices": {
-      "1": "㉠ iso-octane, ㉡ n-octane",
-      "2": "㉠ n-octane, ㉡ iso-octane",
-      "3": "㉠ iso-octane, ㉡ n-heptane",
-      "4": "㉠ n-heptane, ㉡ n-octane"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 3543,
     "date": "20160306",
     "subject": 1,
@@ -61266,23 +61079,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 3605,
-    "date": "20160306",
-    "subject": 5,
-    "subject_name": "대기환경관계법규",
-    "question_no": 81,
-    "question": "대기환경보전법상 ( )에 알맞은 기간은?",
-    "choices": {
-      "1": "3년",
-      "2": "5년",
-      "3": "10년",
-      "4": "20년"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -63119,23 +62915,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 3714,
-    "date": "20161001",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 5,
-    "question": "산성비에 대한 다음 설명 중 ( )안에 가장 적당한 말은?",
-    "choices": {
-      "1": "㉠ 7, ㉡ CO",
-      "2": "㉠ 7, ㉡ NO 2 2",
-      "3": "㉠ 5.6, ㉡ CO",
-      "4": "㉠ 5, ㉡ NO 2 2"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -66182,23 +65961,6 @@
     ]
   },
   {
-    "id": 3894,
-    "date": "20170305",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 7,
-    "question": "냄새에 관한 다음 설명 중 ( )안에 가장 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 최소감지농도(Detection threshold), ㉡ 최소포착농도 (Capture threshold)",
-      "2": "㉠ 최소인지농도(Detection threshold), ㉡ 최소자각농도 (Recognition threshold)",
-      "3": "㉠ 최소인지농도(Recognition threshold), ㉡ 최소포착농 도(Capture threshold)",
-      "4": "㉠ 최소감지농도(Recognition threshold), ㉡ 최소인지농 도(Awareness threshold)"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 3895,
     "date": "20170305",
     "subject": 1,
@@ -67678,23 +67440,6 @@
     ]
   },
   {
-    "id": 3982,
-    "date": "20170507",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 4,
-    "question": "다음 ( )안에 들어갈 말로 알맞은 것은?",
-    "choices": {
-      "1": "㉠ : 자외선, ㉡ : CO",
-      "2": "㉠ : 적외선, ㉡ : CO",
-      "3": "㉠ : 자외선, ㉡ : CO 2",
-      "4": "㉠ : 적외선, ㉡ : CO 2"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 3983,
     "date": "20170507",
     "subject": 1,
@@ -68491,23 +68236,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 4030,
-    "date": "20170507",
-    "subject": 3,
-    "subject_name": "대기오염 방지기술",
-    "question_no": 60,
-    "question": "다음은 흡착제에 관한 설명이다. ( )안에 가장 적합한 것은?",
-    "choices": {
-      "1": "Activated carbon",
-      "2": "Synthetic Zeolite",
-      "3": "Silica gel",
-      "4": "Activated Alumina"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -69579,23 +69307,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 4094,
-    "date": "20170923",
-    "subject": 2,
-    "subject_name": "연소공학",
-    "question_no": 33,
-    "question": "다음 ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "실제공기량으로 연소시킬 때",
-      "2": "공기부족상태에서 연소시킬 때",
-      "3": "연료를 다른 미연성분과 같이 불완전 연소시킬 때",
-      "4": "이론공기량으로 완전연소 시킬 때"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -72163,23 +71874,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 4246,
-    "date": "20180428",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 11,
-    "question": "다음은 입경(직경)에 대한 설명이다. ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "휘렛 직경",
-      "2": "마틴 직경",
-      "3": "공기역학적 직경",
-      "4": "스토크스 직경"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -81040,23 +80734,6 @@
     ]
   },
   {
-    "id": 4768,
-    "date": "20200822",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 7,
-    "question": "다음은 황화합물에 관한 설명 중 ( )안에 가장 알맞은 것은?",
-    "choices": {
-      "1": "H 2 S",
-      "2": "CS 2",
-      "3": "OCS",
-      "4": "(CH 3 ) 2 S"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 4769,
     "date": "20200822",
     "subject": 1,
@@ -81190,23 +80867,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 4777,
-    "date": "20200822",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 17,
-    "question": "다음 ( )안에 가장 적합한 물질은?",
-    "choices": {
-      "1": "벤조피렌",
-      "2": "나프탈렌",
-      "3": "안트라센",
-      "4": "톨루엔"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -84287,23 +83947,6 @@
     ]
   },
   {
-    "id": 4959,
-    "date": "20210307",
-    "subject": 2,
-    "subject_name": "연소공학",
-    "question_no": 21,
-    "question": "옥탄가에 관한 설명이다. ( )안에 들어갈 말로 옳은 것은?",
-    "choices": {
-      "1": "㉠ iso-octane, ㉡ n-butane",
-      "2": "㉠ iso-octane, ㉡ n-heptane",
-      "3": "㉠ iso-propane, ㉡ n-pentane",
-      "4": "㉠ iso-pentane, ㉡ n-butane"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 4960,
     "date": "20210307",
     "subject": 2,
@@ -87174,23 +86817,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 5129,
-    "date": "20210912",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 10,
-    "question": "산성비에 관한 설명 중 ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "㉠ 3.6, ㉡ CO",
-      "2": "㉠ 3.6, ㉡ NO 2 2",
-      "3": "㉠ 5.6, ㉡ CO",
-      "4": "㉠ 5.6, ㉡ NO 2 2"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -90078,23 +89704,6 @@
       "2": "PAN의 지표식물에는 강낭콩, 상추, 시금치 등이 있다.",
       "3": "황산화물의 일종으로 가시광선을 흡수해 가시거리를 단축 시킨다.",
       "4": "사람의 눈에 통증을 일으키며 식물의 잎에 흑반병을 발병 시킨다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 5300,
-    "date": "20220424",
-    "subject": 1,
-    "subject_name": "대기오염 개론",
-    "question_no": 3,
-    "question": "오존의 반응을 나타낸 다음 도식 중 ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "㉠ : F∙, ㉡ : C∙",
-      "2": "㉠ : C∙, ㉡ : F∙",
-      "3": "㉠ : Cl∙, ㉡ : Br∙",
-      "4": "㉠ : F∙, ㉡ : Br∙"
     },
     "answers": [
       3
