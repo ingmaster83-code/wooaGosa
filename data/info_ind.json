@@ -15351,23 +15351,6 @@
     ]
   },
   {
-    "id": 905,
-    "date": "20010923",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 12,
-    "question": "다음 ( )안의 내용에 해당하는 관련 단어는?",
-    "choices": {
-      "1": "Stack",
-      "2": "Queue",
-      "3": "List",
-      "4": "Tree"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 906,
     "date": "20010923",
     "subject": 1,
@@ -16864,23 +16847,6 @@
     ]
   },
   {
-    "id": 994,
-    "date": "20020310",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 13,
-    "question": "다음 문장의 빈칸에 적합한 용어는?",
-    "choices": {
-      "1": "model",
-      "2": "entity",
-      "3": "instance",
-      "4": "relation"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 995,
     "date": "20020310",
     "subject": 1,
@@ -18286,23 +18252,6 @@
       "2": "E-R Diagram에서 사각형은 개체와 개체간의 관계를, 다 이아몬드는 개체의 타입을 표현한다.",
       "3": "계층데이터모델에서는 n:m 관계표현은 불가능하다.",
       "4": "네트워크 데이터모델에서 1:n 관계에 있는 두 개의 레코 드 타입을 각각 오너(owner), 멤버(member)라 하고 이들 간의 관계를 오너-멤버 관계라고 한다."
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 1078,
-    "date": "20020526",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 9,
-    "question": "다음 SQL 문의 형식에서 괄호에 들어갈 단어는?",
-    "choices": {
-      "1": "When",
-      "2": "Where",
-      "3": "What",
-      "4": "How"
     },
     "answers": [
       2
@@ -21386,23 +21335,6 @@
     ]
   },
   {
-    "id": 1260,
-    "date": "20030316",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 14,
-    "question": "다음 문장의 ( ) 안의 내용으로 적절한 것은?",
-    "choices": {
-      "1": "System structure",
-      "2": "Meta-file",
-      "3": "Meta-data",
-      "4": "System architecture"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 1261,
     "date": "20030316",
     "subject": 1,
@@ -22862,23 +22794,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 1347,
-    "date": "20030525",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 11,
-    "question": "다음 영문의 ( ) 안에 적합한 단어는?",
-    "choices": {
-      "1": "stack",
-      "2": "queue",
-      "3": "graph",
-      "4": "tree"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -24443,23 +24358,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 1440,
-    "date": "20030831",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 16,
-    "question": "데이터베이스 설계 순서를 바르게 나열한 것은?(일부 컴퓨 터에서 보기 내용이 보이지 않아서 괄호뒤에 다시 표기하여 둡니다.)",
-    "choices": {
-      "1": "가-나-다-라",
-      "2": "가-다-나-라",
-      "3": "다-나-라-가",
-      "4": "다-라-나-가"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -27455,23 +27353,6 @@
     ]
   },
   {
-    "id": 1617,
-    "date": "20040523",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 19,
-    "question": "다음 ( ) 안의 내용에 해당하는 관련 단어는?",
-    "choices": {
-      "1": "Stack",
-      "2": "Queue",
-      "3": "List",
-      "4": "Tree"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 1618,
     "date": "20040523",
     "subject": 1,
@@ -28574,23 +28455,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 1684,
-    "date": "20040523",
-    "subject": 5,
-    "subject_name": "정보통신개론",
-    "question_no": 92,
-    "question": "다음 중 ( )에 알맞은 내용은 무엇인가?",
-    "choices": {
-      "1": "처리, 전송",
-      "2": "처리, 기억",
-      "3": "전송, 기억",
-      "4": "제어, 통신"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -41038,23 +40902,6 @@
     ]
   },
   {
-    "id": 2417,
-    "date": "20070304",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 8,
-    "question": "다음 문장의 ( )에 적당한 것은?",
-    "choices": {
-      "1": "block",
-      "2": "tuple",
-      "3": "field",
-      "4": "file"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 2418,
     "date": "20070304",
     "subject": 1,
@@ -44115,23 +43962,6 @@
     ]
   },
   {
-    "id": 2598,
-    "date": "20070902",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 11,
-    "question": "다음 ( ) 안의 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "Model",
-      "2": "Entity",
-      "3": "Domain",
-      "4": "Relation"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 2599,
     "date": "20070902",
     "subject": 1,
@@ -44146,23 +43976,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 2600,
-    "date": "20070902",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 13,
-    "question": "다음 ( ) 안의 내용에 적합한 단어는?",
-    "choices": {
-      "1": "Stack",
-      "2": "Queue",
-      "3": "List",
-      "4": "Tree"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -46985,23 +46798,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 2767,
-    "date": "20080511",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 1,
-    "question": "다음 괄호 안 내용으로 공통 적용될 수 있는 가장 적절한 것 은?",
-    "choices": {
-      "1": "database model",
-      "2": "database relation",
-      "3": "database domain",
-      "4": "database schema"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -50082,23 +49878,6 @@
     ]
   },
   {
-    "id": 2949,
-    "date": "20090301",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 8,
-    "question": "개체 무결성 제약 조건에 대한 다음 설명 중 ( )의 내용으로 옳은 것은?",
-    "choices": {
-      "1": "NULL",
-      "2": "TUPLE",
-      "3": "DOMAIN",
-      "4": "FOREIGN KEY"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 2950,
     "date": "20090301",
     "subject": 1,
@@ -51765,23 +51544,6 @@
     ]
   },
   {
-    "id": 3048,
-    "date": "20090510",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 19,
-    "question": "다음 영문의 괄호 안 내용으로 가장 적합한 것은?",
-    "choices": {
-      "1": "Domain",
-      "2": "Class",
-      "3": "Schema",
-      "4": "Cardinality"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 3049,
     "date": "20090510",
     "subject": 1,
@@ -53330,23 +53092,6 @@
     ]
   },
   {
-    "id": 3140,
-    "date": "20090830",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 25,
-    "question": "다음 ( ) 안에 알맞은 것은? (단, NOT은 고려하지 않는다.)",
-    "choices": {
-      "1": "NOR",
-      "2": "OR",
-      "3": "NAND",
-      "4": "AND"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 3141,
     "date": "20090830",
     "subject": 2,
@@ -53480,23 +53225,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 3149,
-    "date": "20090830",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 36,
-    "question": "다음 16진수 연산의 ( )안의 값으로 옳은 것은?",
-    "choices": {
-      "1": "A7E",
-      "2": "FFA",
-      "3": "A55",
-      "4": "AFA"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -53837,23 +53565,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 3170,
-    "date": "20090830",
-    "subject": 3,
-    "subject_name": "시스템분석설계",
-    "question_no": 60,
-    "question": "다음 설명의 괄호 안 내용으로 가장 적절한 것은?",
-    "choices": {
-      "1": "목표 설계",
-      "2": "표준 설계",
-      "3": "패턴 설계",
-      "4": "프로세스 설계"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -56237,23 +55948,6 @@
     ]
   },
   {
-    "id": 3311,
-    "date": "20100509",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 15,
-    "question": "다음 ( ) 에 알맞은 관련 용어는?",
-    "choices": {
-      "1": "Transaction",
-      "2": "Backup",
-      "3": "RDBMS",
-      "4": "DBA"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 3312,
     "date": "20100509",
     "subject": 1,
@@ -57628,23 +57322,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 3393,
-    "date": "20100905",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 5,
-    "question": "다음 영문의 ( ) 내용으로 공통 적용될 수 있는 것은?",
-    "choices": {
-      "1": "Commit",
-      "2": "Integrity",
-      "3": "Rollback",
-      "4": "Backup"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -59161,23 +58838,6 @@
     ]
   },
   {
-    "id": 3483,
-    "date": "20110320",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 4,
-    "question": "다음 ( )에 공통 적용될 단어로 옳은 것은?",
-    "choices": {
-      "1": "Domain",
-      "2": "Cardinality",
-      "3": "Transaction",
-      "4": "Schema"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 3484,
     "date": "20110320",
     "subject": 1,
@@ -59206,23 +58866,6 @@
       "2": "외부 스키마",
       "3": "내부 스키마",
       "4": "관계 스키마"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 3486,
-    "date": "20110320",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 7,
-    "question": "다음 문장의 ( ) 안의 내용으로 적합한 것은?",
-    "choices": {
-      "1": "System structure",
-      "2": "Operation",
-      "3": "Meta-data",
-      "4": "System architecture"
     },
     "answers": [
       3
@@ -60654,23 +60297,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 3571,
-    "date": "20110612",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 3,
-    "question": "다음 ( )에 알맞은 용어는?",
-    "choices": {
-      "1": "Concurrency Control",
-      "2": "Backup",
-      "3": "Normalization",
-      "4": "Transaction"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -62986,23 +62612,6 @@
     ]
   },
   {
-    "id": 3708,
-    "date": "20110821",
-    "subject": 4,
-    "subject_name": "운영체제",
-    "question_no": 63,
-    "question": "다음 문장의 ( )안에 가장 적합한 기법은?",
-    "choices": {
-      "1": "SJF",
-      "2": "HRN",
-      "3": "SRT",
-      "4": "RR"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 3709,
     "date": "20110821",
     "subject": 4,
@@ -63578,23 +63187,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 3743,
-    "date": "20120304",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 2,
-    "question": "해싱에 대한 다음 설명의 ( ) 안 내용으로 옳은 것은?",
-    "choices": {
-      "1": "collision",
-      "2": "slot",
-      "3": "bucket",
-      "4": "key"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -65043,23 +64635,6 @@
     ]
   },
   {
-    "id": 3829,
-    "date": "20120520",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 5,
-    "question": "다음 문장의 ( )에 적당한 것은?",
-    "choices": {
-      "1": "block",
-      "2": "tuple",
-      "3": "field",
-      "4": "file"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 3830,
     "date": "20120520",
     "subject": 1,
@@ -65173,23 +64748,6 @@
       "2": "6",
       "3": "10",
       "4": "24"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 3837,
-    "date": "20120520",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 13,
-    "question": "스택에서의 삽입 알고리즘으로 빈칸에 들어갈 내용은?",
-    "choices": {
-      "1": "STACK[TOP] = new node",
-      "2": "STACK[TOP + 1 ] = new node",
-      "3": "TOP = N",
-      "4": "TOP = TOP + 1"
     },
     "answers": [
       4
@@ -66692,23 +66250,6 @@
     ]
   },
   {
-    "id": 3926,
-    "date": "20120826",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 20,
-    "question": "다음 설명의 괄호 안 내용으로 옳은 것은?",
-    "choices": {
-      "1": "기본키",
-      "2": "복합키",
-      "3": "후보키",
-      "4": "외래키"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 3927,
     "date": "20120826",
     "subject": 2,
@@ -68100,23 +67641,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 4009,
-    "date": "20130310",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 9,
-    "question": "다음 영문의 ( )에 가장 적합한 것은?",
-    "choices": {
-      "1": "Sorting",
-      "2": "Stacking",
-      "3": "Merging",
-      "4": "Queueing"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -69596,23 +69120,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 4097,
-    "date": "20130602",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 5,
-    "question": "다음 영문의 ( ) 안에 적합한 단어는?",
-    "choices": {
-      "1": "stack",
-      "2": "queue",
-      "3": "graph",
-      "4": "tree"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -72880,23 +72387,6 @@
     ]
   },
   {
-    "id": 4290,
-    "date": "20140302",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 35,
-    "question": "다음 ( ) 안에 가장 알맞은 내용은?",
-    "choices": {
-      "1": "레지스터",
-      "2": "누산기",
-      "3": "플립플롭",
-      "4": "디코더"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 4291,
     "date": "20140302",
     "subject": 2,
@@ -73231,23 +72721,6 @@
       "2": "실린더 인덱스 구역 – 처리해야 할 레코드가 어느 실린 더에 기록되어 있는지를 판별할 수 있는 자료를 갖고 있 다.",
       "3": "마스터 인덱스 구역 – 실린더 오버플로우 구역에 다시 오버플로우가 발생할 경우를 대비하여 만들어 놓은 공간 이다.",
       "4": "기본 데이터 구역 – 실제 데이터 레코드가 기록된 구역 이다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 4311,
-    "date": "20140302",
-    "subject": 3,
-    "subject_name": "시스템분석설계",
-    "question_no": 59,
-    "question": "모듈화의 특징으로 옳은 내용 모두를 나열한 것은?(일부 컴 퓨터에서 괄호뒤의 특수문자가 보이지 않아서 괄호뒤에 다 시 표기 하여 둡니다.)",
-    "choices": {
-      "1": "(ㄱ), (ㄹ)",
-      "2": "(ㄱ), (ㄴ), (ㄷ)",
-      "3": "(ㄴ), (ㄷ), (ㄹ)",
-      "4": "(ㄱ), (ㄴ), (ㄷ), (ㄹ)"
     },
     "answers": [
       3
@@ -73900,23 +73373,6 @@
     ]
   },
   {
-    "id": 4350,
-    "date": "20140525",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 2,
-    "question": "다음 ( ) 안의 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "model",
-      "2": "entity",
-      "3": "domain",
-      "4": "relation"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 4351,
     "date": "20140525",
     "subject": 1,
@@ -74016,23 +73472,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 4357,
-    "date": "20140525",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 10,
-    "question": "해싱에 대한 다음 설명의 ( ) 안 내용으로 옳은 것은?",
-    "choices": {
-      "1": "collision",
-      "2": "slot",
-      "3": "bucket",
-      "4": "key"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -75665,23 +75104,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 4454,
-    "date": "20140817",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 20,
-    "question": "관계 데이터베이스의 정규화에 대한 설명이다. 괄호의 내 용으로 옳은 것은?",
-    "choices": {
-      "1": "ㄱ : 1NF, ㄴ : 2NF",
-      "2": "ㄱ : 3NF, ㄴ : 2NF",
-      "3": "ㄱ : 2NF, ㄴ : 3NF",
-      "4": "ㄱ : 3NF, ㄴ : 1NF"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -80241,23 +79663,6 @@
     ]
   },
   {
-    "id": 4723,
-    "date": "20150816",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 20,
-    "question": "참조 무결성 제약조건에 관한 다음 설명의 괄호 안 내용으 로 옳은 것은?",
-    "choices": {
-      "1": "기본 키",
-      "2": "복합 키",
-      "3": "후보 키",
-      "4": "외래 키"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 4724,
     "date": "20150816",
     "subject": 2,
@@ -81992,23 +81397,6 @@
     ]
   },
   {
-    "id": 4826,
-    "date": "20160306",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 33,
-    "question": "다음 ( ) 안의 내용으로 옳은 것은?",
-    "choices": {
-      "1": "여수(與數)",
-      "2": "보수(complement)",
-      "3": "2 진수",
-      "4": "8 진수"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 4827,
     "date": "20160306",
     "subject": 2,
@@ -83176,23 +82564,6 @@
       "2": "2NF → 3NF",
       "3": "3NF → BCNF",
       "4": "BCNF → 4NF"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 4896,
-    "date": "20160508",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 11,
-    "question": "다음 ( ) 안의 내용에 적합한 단어는?",
-    "choices": {
-      "1": "Stack",
-      "2": "Queue",
-      "3": "List",
-      "4": "Tree"
     },
     "answers": [
       1
@@ -84542,23 +83913,6 @@
     ]
   },
   {
-    "id": 4976,
-    "date": "20160821",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 2,
-    "question": "EMPLOYEE 테이블의 DEPT_ID 열의 값이 “D1”인 튜플이 2 개, “D2”인 튜플이 3개, “D3”인 튜플이 1개라고 하자. 다음 SQL문 ㉠, ㉡의 실행 결과 튜플 수를 올바르게 나타낸 것은?",
-    "choices": {
-      "1": "㉠ 3, ㉡ 1",
-      "2": "㉠ 3, ㉡ 3",
-      "3": "㉠ 6, ㉡ 1",
-      "4": "㉠ 6, ㉡ 3"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 4977,
     "date": "20160821",
     "subject": 1,
@@ -84692,23 +84046,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 4985,
-    "date": "20160821",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 12,
-    "question": "개체 무결성 제약 조건에 대한 다음 설명 중 ( ) 안의 내용 으로 옳은 것은?",
-    "choices": {
-      "1": "NULL",
-      "2": "TUPLE",
-      "3": "DOMAIN",
-      "4": "ENTITY"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -85001,23 +84338,6 @@
     ]
   },
   {
-    "id": 5003,
-    "date": "20160821",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 35,
-    "question": "다음 ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "제어",
-      "2": "호출",
-      "3": "액티브(active)",
-      "4": "상태(state)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 5004,
     "date": "20160821",
     "subject": 2,
@@ -85117,23 +84437,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 5010,
-    "date": "20160821",
-    "subject": 3,
-    "subject_name": "시스템분석설계",
-    "question_no": 43,
-    "question": "시스템 설계 시 필요한 과정의 순서를 올바르게 나열한 것 은?(일부 핸드폰에서 특수기호가 정상적으로 보이지 않아서 괄호뒤에 다시 표기하여 둡니다.)",
-    "choices": {
-      "1": "㉡→㉤→㉣→㉢→㉠(ㄴ-ㅁ-ㄹ-ㄷ-ㄱ)",
-      "2": "㉢→㉣→㉡→㉤→㉠(ㄷ-ㄹ-ㄴ-ㅁ-ㄱ)",
-      "3": "㉣→㉤→㉡→㉢→㉠(ㄹ-ㅁ-ㄴ-ㄷ-ㄱ)",
-      "4": "㉡→㉤→㉣→㉠→㉢(ㄴ-ㅁ-ㄹ-ㄱ-ㄷ)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -86528,23 +85831,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 5093,
-    "date": "20170305",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 34,
-    "question": "다음 ( )안에 알맞은 것은?(단, NOT은 고려하지 않는다.)",
-    "choices": {
-      "1": "NOR",
-      "2": "OR",
-      "3": "NAND",
-      "4": "AND"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -89415,23 +88701,6 @@
       "2": "DROP",
       "3": "OUT",
       "4": "CLEAR"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 5263,
-    "date": "20170826",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 20,
-    "question": "다음 ( ) 안에 알맞은 용어는?",
-    "choices": {
-      "1": "Transaction",
-      "2": "Backup",
-      "3": "RDBMS",
-      "4": "DBA"
     },
     "answers": [
       2
@@ -92379,23 +91648,6 @@
     ]
   },
   {
-    "id": 5437,
-    "date": "20190303",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 17,
-    "question": "다음의 설명에서 ( )의 내용으로 옳은 것은?",
-    "choices": {
-      "1": "NULL",
-      "2": "TUPLE",
-      "3": "DOMAIN",
-      "4": "ENTITY"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 5438,
     "date": "20190303",
     "subject": 1,
@@ -93804,23 +93056,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 5521,
-    "date": "20190427",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 13,
-    "question": "다음 영문의 ( ) 안에 적합한 단어는?",
-    "choices": {
-      "1": "stack",
-      "2": "queue",
-      "3": "graph",
-      "4": "tree"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -101321,23 +100556,6 @@
     ]
   },
   {
-    "id": 5963,
-    "date": "20200822",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 11,
-    "question": "총 6개의 튜플을 갖는 EMPLOYEE 테이블에서 DEPT_ID 필 드의 값은 “D1”이 2개, “D2”가 3개, “D3”가 1개로 구성되 어 있다. 다음 SQL문 ㉠, ㉡의 실행 결과 튜플 수로 옳은 것은?",
-    "choices": {
-      "1": "㉠ 3, ㉡ 1",
-      "2": "㉠ 3, ㉡ 3",
-      "3": "㉠ 6, ㉡ 1",
-      "4": "㉠ 6, ㉡ 3"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 5964,
     "date": "20200822",
     "subject": 1,
@@ -101417,23 +100635,6 @@
       "2": "외래 키(Foreign Key)",
       "3": "슈퍼 키(Super Key)",
       "4": "대체 키(Alternate Key)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 5969,
-    "date": "20200822",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 18,
-    "question": "다음 ( ) 에 알맞은 용어는?",
-    "choices": {
-      "1": "Concurrency Control",
-      "2": "Backup",
-      "3": "Normalization",
-      "4": "Transaction"
     },
     "answers": [
       2
