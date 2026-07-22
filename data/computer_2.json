@@ -5148,24 +5148,6 @@
     ]
   },
   {
-    "id": 291,
-    "grade": 2,
-    "date": "20200229",
-    "subject": 2,
-    "subject_name": "스프레드시트 일반",
-    "question_no": 34,
-    "question": "다음 중 수식에 따른 실행 결과가 옳은 것은?",
-    "choices": {
-      "1": "=LEFT(MID(\"Sound of Music\", 5, 6), 3) →",
-      "2": "=MID(RIGHT(\"Sound of Music\", 7), 2, 3) →",
-      "3": "=RIGHT(MID(\"Sound of Music\", 3, 7), 3) →",
-      "4": "=MID(LEFT(\"Sound of Music\", 7), 2, 3) →"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 292,
     "grade": 2,
     "date": "20200229",

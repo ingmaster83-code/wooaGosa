@@ -31671,23 +31671,6 @@
     ]
   },
   {
-    "id": 1867,
-    "date": "20130414",
-    "subject": 4,
-    "subject_name": "기계,전기기초이론",
-    "question_no": 53,
-    "question": "NAND 게이트 3개로 구성된 논리회로의 출력값 E는?",
-    "choices": {
-      "1": "A·B + C·D",
-      "2": "(A+B) · (C+D)",
-      "3": "(A·B)‘ + (C·D)’",
-      "4": "A·B·C·D"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 1868,
     "date": "20130414",
     "subject": 4,
