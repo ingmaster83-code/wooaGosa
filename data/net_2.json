@@ -221,23 +221,6 @@
     ]
   },
   {
-    "id": 14,
-    "date": "20230521",
-    "subject": 1,
-    "subject_name": "TCP/IP",
-    "question_no": 14,
-    "question": "아래에서 설명하는 기술의 명칭은?",
-    "choices": {
-      "1": "WLAN",
-      "2": "HomeRF",
-      "3": "ZigBee",
-      "4": "IrDA"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 15,
     "date": "20230521",
     "subject": 1,
@@ -286,23 +269,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 18,
-    "date": "20230521",
-    "subject": 2,
-    "subject_name": "네트워크 일반 안에 들어가는 용어 중 옳은 것",
-    "question_no": 18,
-    "question": "다음에 설명하는 기술은 무엇인가?",
-    "choices": {
-      "1": "사물인터넷(IoT)",
-      "2": "유비쿼터스(Ubiquitous)",
-      "3": "에지 컴퓨팅(Edge Computing)",
-      "4": "신 클라이언트(Thin client)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -725,23 +691,6 @@
       "2": "RAID 1",
       "3": "RAID 3",
       "4": "RAID 5"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 44,
-    "date": "20230820",
-    "subject": 1,
-    "subject_name": "TCP/IP",
-    "question_no": 1,
-    "question": "다음 설명하는 내용에 가장 적합한 기술을 고르시오.",
-    "choices": {
-      "1": "SSL",
-      "2": "NAT",
-      "3": "VPN",
-      "4": "IDS"
     },
     "answers": [
       2
@@ -1255,23 +1204,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 75,
-    "date": "20230820",
-    "subject": 3,
-    "subject_name": "NOS",
-    "question_no": 35,
-    "question": "다음의 내용이 설명하고 있는 Linux 시스템 디렉터리는?",
-    "choices": {
-      "1": "/home",
-      "2": "/usr",
-      "3": "/var",
-      "4": "/tmp"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3207,23 +3139,6 @@
       "2": "단말장치의 추가와 제거가 쉽다.",
       "3": "하나의 단말장치가 고장나면 전체 통신망에 영향을 줄 수 있다.",
       "4": "각 단말 장치는 중앙 컴퓨터를 통하여 데이터를 교환한 다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 191,
-    "date": "20240519",
-    "subject": 2,
-    "subject_name": "네트워크 일반 안에 들어가는 용어 중 옳은 것",
-    "question_no": 19,
-    "question": "다음에서 설명하는 전송 방식은?",
-    "choices": {
-      "1": "Token Ring",
-      "2": "Token Bus",
-      "3": "CSMA/CD",
-      "4": "Slotted Ring"
     },
     "answers": [
       3
@@ -5468,23 +5383,6 @@
       "2": "단말장치의 추가와 제거가 쉽다.",
       "3": "하나의 단말장치가 고장나면 전체 통신망에 영향을 줄 수 있다.",
       "4": "각 단말 장치는 중앙 컴퓨터를 통하여 데이터를 교환한 다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 324,
-    "date": "20250223",
-    "subject": 2,
-    "subject_name": "네트워크 일반 안에 들어가는 용어 중 옳은 것",
-    "question_no": 21,
-    "question": "다음에서 설명하는 전송 방식은?",
-    "choices": {
-      "1": "Token Ring",
-      "2": "Token Bus",
-      "3": "CSMA/CD",
-      "4": "Slotted Ring"
     },
     "answers": [
       3
@@ -8075,23 +7973,6 @@
     ]
   },
   {
-    "id": 477,
-    "date": "20251102",
-    "subject": 3,
-    "subject_name": "NOS",
-    "question_no": 44,
-    "question": "다음 지문에서 설명하는 명령어로 옳은 것은?",
-    "choices": {
-      "1": "pgrep python",
-      "2": "ps -ef | grep python",
-      "3": "ss -tulpn | grep python",
-      "4": "top -b –n 1"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 478,
     "date": "20251102",
     "subject": 3,
@@ -8296,23 +8177,6 @@
     ]
   },
   {
-    "id": 490,
-    "date": "20260201",
-    "subject": 1,
-    "subject_name": "TCP/IP",
-    "question_no": 9,
-    "question": "아래에서 설명하는 기술의 명칭은?",
-    "choices": {
-      "1": "Bluetooth Low Energy(BLE)",
-      "2": "Z-Wave",
-      "3": "Zigbee",
-      "4": "Wi-Fi HaLow(802.11ah)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 491,
     "date": "20260201",
     "subject": 1,
@@ -8443,23 +8307,6 @@
       "2": "Star",
       "3": "Ring",
       "4": "Mesh"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 499,
-    "date": "20260201",
-    "subject": 2,
-    "subject_name": "네트워크 일반 안에 들어가는 용어 중 옳은 것",
-    "question_no": 20,
-    "question": "OSI 7 Layer 중에서 아래에서 설명하는 계층은?",
-    "choices": {
-      "1": "물리적 계층(Physical Layer)",
-      "2": "데이터 링크 계층(Data Link Layer)",
-      "3": "네트워크 계층(Network Layer)",
-      "4": "트랜스포트 계층(Transport Layer)"
     },
     "answers": [
       2

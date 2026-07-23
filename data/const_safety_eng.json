@@ -38236,23 +38236,6 @@
     ]
   },
   {
-    "id": 2252,
-    "date": "20090830",
-    "subject": 6,
-    "subject_name": "건설안전기술",
-    "question_no": 119,
-    "question": "투하설비 설치와 관련된 아래 표의 ( )에 적합한 것은?",
-    "choices": {
-      "1": "1",
-      "2": "2",
-      "3": "3",
-      "4": "4"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 2253,
     "date": "20090830",
     "subject": 6,
@@ -47145,23 +47128,6 @@
     ]
   },
   {
-    "id": 2776,
-    "date": "20110612",
-    "subject": 5,
-    "subject_name": "건설재료학",
-    "question_no": 98,
-    "question": "다음 설명에 해당하는 유리에 발생하는 작용은?",
-    "choices": {
-      "1": "풍화작용",
-      "2": "크리프작용",
-      "3": "광학작용",
-      "4": "조성성분의 변이작용"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 2777,
     "date": "20110612",
     "subject": 5,
@@ -47717,23 +47683,6 @@
       "2": "안전등급이 A등급인 경우 정밀안전진단은 10년에 1회 이상 실시한다.",
       "3": "안전등급이 B등급인 경우 정밀안전진단은 7년에 1회 이 상 실시한다.",
       "4": "안전등급이 E등급인 경우 정밀안전진단은 5년에 1회 이 상 실시한다."
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 2810,
-    "date": "20111002",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 16,
-    "question": "다음 설명에 해당하는 위험예지훈련은?",
-    "choices": {
-      "1": "TBM(Tool Box Meeting)",
-      "2": "원포인트위험예지훈련",
-      "3": "삼각위험예지훈련",
-      "4": "터치앤콜(Touch and Call)"
     },
     "answers": [
       1
@@ -50066,23 +50015,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 2948,
-    "date": "20120304",
-    "subject": 3,
-    "subject_name": "인간공학 및 시스템안전공학",
-    "question_no": 52,
-    "question": "다음 설명에 해당하는 설비보전방식의 유형은?",
-    "choices": {
-      "1": "개량 보전",
-      "2": "사후 보전",
-      "3": "일상 보전",
-      "4": "보전 예방"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -53517,23 +53449,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 3151,
-    "date": "20120915",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 35,
-    "question": "다음 설명에 해당하는 주의의 특성은?",
-    "choices": {
-      "1": "선택성",
-      "2": "방향성",
-      "3": "변동성",
-      "4": "일점집중"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -58263,23 +58178,6 @@
     ]
   },
   {
-    "id": 3430,
-    "date": "20130602",
-    "subject": 6,
-    "subject_name": "건설안전기술",
-    "question_no": 104,
-    "question": "투하설비 설치와 관련된 아래 표의 ( )에 적합한 것은?",
-    "choices": {
-      "1": "1",
-      "2": "2",
-      "3": "3",
-      "4": "4"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 3431,
     "date": "20130602",
     "subject": 6,
@@ -59589,23 +59487,6 @@
     ]
   },
   {
-    "id": 3508,
-    "date": "20130928",
-    "subject": 4,
-    "subject_name": "건설시공학",
-    "question_no": 76,
-    "question": "다음 설명에 해당하는 공사낙찰자 선정방식은?",
-    "choices": {
-      "1": "부찰제",
-      "2": "최저가 낙찰제",
-      "3": "제한적 최저가 낙찰제",
-      "4": "최적격 낙찰제"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 3509,
     "date": "20130928",
     "subject": 4,
@@ -60708,23 +60589,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 3574,
-    "date": "20140302",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 27,
-    "question": "다음 설명에 해당하는 교육방법은?",
-    "choices": {
-      "1": "MTP(Management Training Program)",
-      "2": "CCS(Civil Communication Section)",
-      "3": "TWI(Training Within Industry)",
-      "4": "ATT(American Telephone &Telegram Co.)"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -64111,23 +63975,6 @@
     ]
   },
   {
-    "id": 3774,
-    "date": "20140920",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 재해의 통계적 원인분석 방법은?",
-    "choices": {
-      "1": "파레토도",
-      "2": "특성요인도",
-      "3": "관리도",
-      "4": "클로즈 분석"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 3775,
     "date": "20140920",
     "subject": 1,
@@ -64264,23 +64111,6 @@
     ]
   },
   {
-    "id": 3783,
-    "date": "20140920",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 21,
-    "question": "다음 설명에 해당하는 안전교육방법은?",
-    "choices": {
-      "1": "TWI(Training Within Industry)",
-      "2": "MTP(Management Training Program)",
-      "3": "CCS(Civil Communication Section)",
-      "4": "ATT(American Telephone &Telegram Co.)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 3784,
     "date": "20140920",
     "subject": 2,
@@ -64329,23 +64159,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 3787,
-    "date": "20140920",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 26,
-    "question": "다음 설명에 해당하는 적응기제는?",
-    "choices": {
-      "1": "보상",
-      "2": "합리화",
-      "3": "승화",
-      "4": "치환"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -64839,23 +64652,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 3817,
-    "date": "20140920",
-    "subject": 3,
-    "subject_name": "인간공학 및 시스템안전공학",
-    "question_no": 59,
-    "question": "다음 설명에 해당하는 설비보전방식의 유형은?",
-    "choices": {
-      "1": "개량 보전",
-      "2": "사후 보전",
-      "3": "일상 보전",
-      "4": "보전 예방"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -67970,23 +67766,6 @@
     ]
   },
   {
-    "id": 4001,
-    "date": "20150531",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 26,
-    "question": "다음 설명에 해당하는 주의의 특성은?",
-    "choices": {
-      "1": "선택성",
-      "2": "방향성",
-      "3": "변동성",
-      "4": "일점집중"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 4002,
     "date": "20150531",
     "subject": 2,
@@ -70520,23 +70299,6 @@
     ]
   },
   {
-    "id": 4151,
-    "date": "20150919",
-    "subject": 4,
-    "subject_name": "건설시공학",
-    "question_no": 72,
-    "question": "다음 설명에 해당하는 공정표의 종류로 옳은 것은?",
-    "choices": {
-      "1": "횡선식 공정표",
-      "2": "CPM",
-      "3": "PDM",
-      "4": "LOB"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 4152,
     "date": "20150919",
     "subject": 4,
@@ -70568,23 +70330,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 4154,
-    "date": "20150919",
-    "subject": 4,
-    "subject_name": "건설시공학",
-    "question_no": 75,
-    "question": "다음 설명에 해당하는 용접결함으로 옳은 것은?",
-    "choices": {
-      "1": "A : 슬래그(slag) 감싸기, B : 피트(pit)",
-      "2": "A : 언더컷(under cut), B : 오버랩(overlap)",
-      "3": "A : 피트(pit), B : 스패터(spatter)",
-      "4": "A : 스패터(spatter), B : 오버랩(overlap)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -75008,23 +74753,6 @@
     ]
   },
   {
-    "id": 4415,
-    "date": "20161001",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 4,
-    "question": "다음에서 설명하는 법칙은 무엇인가?",
-    "choices": {
-      "1": "버드 법칙",
-      "2": "하인리히 법칙",
-      "3": "더글라스 법칙",
-      "4": "자베타키스 법칙"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 4416,
     "date": "20161001",
     "subject": 1,
@@ -75189,23 +74917,6 @@
       "2": "통원상해 건수",
       "3": "응급조치 건수",
       "4": "무상해 사고 건수"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 4426,
-    "date": "20161001",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 17,
-    "question": "무재해운동 추진기법 중 다음에서 설명하는 것은?",
-    "choices": {
-      "1": "TBM(Tool Box Meeting)",
-      "2": "원 포인트 위험에지훈련",
-      "3": "삼각위험 예지훈련",
-      "4": "터치 앤드 콜(Touch and Call)"
     },
     "answers": [
       1
@@ -75736,23 +75447,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 4458,
-    "date": "20161001",
-    "subject": 3,
-    "subject_name": "인간공학 및 시스템안전공학",
-    "question_no": 54,
-    "question": "다음 설명에 해당하는 인간의 오류모형은?",
-    "choices": {
-      "1": "실수(Slip)",
-      "2": "착오(Mistake)",
-      "3": "위반(Violation)",
-      "4": "건망증(Lapse)"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -78918,23 +78612,6 @@
     ]
   },
   {
-    "id": 4645,
-    "date": "20170507",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 20,
-    "question": "재해의 통계적 원인분석 방법 중 다음에서 설명하는 것은?",
-    "choices": {
-      "1": "파레토도(pareto diagram)",
-      "2": "특성 요인도(cause and effect diagram)",
-      "3": "관리도(control diagram)",
-      "4": "크로스도(cross diagram)"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 4646,
     "date": "20170507",
     "subject": 2,
@@ -79323,23 +79000,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 4669,
-    "date": "20170507",
-    "subject": 3,
-    "subject_name": "인간공학 및 시스템안전공학",
-    "question_no": 46,
-    "question": "다음 설명에 해당하는 설비보전방식의 유형은?",
-    "choices": {
-      "1": "개량보전",
-      "2": "보전예방",
-      "3": "사후보전",
-      "4": "일상보전"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -80802,23 +80462,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 4756,
-    "date": "20170923",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 23,
-    "question": "다음 설명에 해당하는 안전교육방법은?",
-    "choices": {
-      "1": "TWI(Training Within Industry)",
-      "2": "CCS(Civil Communication Section)",
-      "3": "MTP(Management Training Program)",
-      "4": "ATT(American Telephone &Telegram Co)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -89951,23 +89594,6 @@
     ]
   },
   {
-    "id": 5295,
-    "date": "20190427",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 14,
-    "question": "다음에서 설명하는 무재해운동 추진기법으로 옳은 것은?",
-    "choices": {
-      "1": "TBM(Tool Box Meeting)",
-      "2": "삼각 위험예지훈련",
-      "3": "자문자답카드 위험예지훈련",
-      "4": "터치 앤드 콜(Touch and Call)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 5296,
     "date": "20190427",
     "subject": 1,
@@ -90880,23 +90506,6 @@
       "2": "부착강도 증진",
       "3": "워커빌리티 증진",
       "4": "내화성 증진"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 5350,
-    "date": "20190427",
-    "subject": 4,
-    "subject_name": "건설시공학",
-    "question_no": 76,
-    "question": "다음 설명에 해당하는 공사낙찰자 선정방식은?",
-    "choices": {
-      "1": "부찰제",
-      "2": "최저가 낙찰제",
-      "3": "제한적 최저가 낙찰제",
-      "4": "최적격 낙찰제"
     },
     "answers": [
       3
@@ -94691,23 +94300,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 5574,
-    "date": "20200606",
-    "subject": 5,
-    "subject_name": "건설재료학",
-    "question_no": 88,
-    "question": "목재의 나뭇결 중 아래의 설명에 해당하는 것은?",
-    "choices": {
-      "1": "무뉘결",
-      "2": "곧은결",
-      "3": "널결",
-      "4": "엇결"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -99505,23 +99097,6 @@
     ]
   },
   {
-    "id": 5857,
-    "date": "20210307",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 38,
-    "question": "다음 설명에 해당하는 안전교육방법은?",
-    "choices": {
-      "1": "TWI(Training Within Industry)",
-      "2": "CCS(Civil Communication Section)",
-      "3": "MTP(Management Training Program)",
-      "4": "ATT(American Telephone &Telegram Co.)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 5858,
     "date": "20210307",
     "subject": 2,
@@ -99842,23 +99417,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 5877,
-    "date": "20210307",
-    "subject": 4,
-    "subject_name": "건설시공학",
-    "question_no": 63,
-    "question": "다음 설명에 해당하는 공정표의 종류로 옳은 것은?",
-    "choices": {
-      "1": "횡선식 공정표",
-      "2": "CPM",
-      "3": "PDM",
-      "4": "LOB"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -100930,23 +100488,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 5941,
-    "date": "20210515",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 18,
-    "question": "다음 설명하는 무재해운동추진기법은?",
-    "choices": {
-      "1": "역할연기(Role Playing)",
-      "2": "TBM(Tool Box Meeting)",
-      "3": "터치 앤 콜(Touch and Call)",
-      "4": "브레인스토밍(Brain Storming)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -104690,23 +104231,6 @@
     ]
   },
   {
-    "id": 6162,
-    "date": "20220305",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 22,
-    "question": "다음에서 설명하는 리더십의 유형은?",
-    "choices": {
-      "1": "과업형 리더십",
-      "2": "이상형 리더십",
-      "3": "타협형 리더십",
-      "4": "무관심형 리더십"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 6163,
     "date": "20220305",
     "subject": 2,
@@ -106373,23 +105897,6 @@
     ]
   },
   {
-    "id": 6261,
-    "date": "20220424",
-    "subject": 1,
-    "subject_name": "산업안전관리론",
-    "question_no": 12,
-    "question": "다음에서 설명하는 위험예지훈련 단계는?",
-    "choices": {
-      "1": "현상파악",
-      "2": "본질추구",
-      "3": "대책수립",
-      "4": "목표설정"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 6262,
     "date": "20220424",
     "subject": 1,
@@ -106713,23 +106220,6 @@
     ]
   },
   {
-    "id": 6281,
-    "date": "20220424",
-    "subject": 2,
-    "subject_name": "산업심리 및 교육",
-    "question_no": 33,
-    "question": "다음에서 설명하는 학습방법은?",
-    "choices": {
-      "1": "롤 플레잉(Role Playing)",
-      "2": "문제법(Problem Method)",
-      "3": "버즈 세션(Buzz Session)",
-      "4": "케이스 메소드(Case Method)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 6282,
     "date": "20220424",
     "subject": 2,
@@ -107033,23 +106523,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 6300,
-    "date": "20220424",
-    "subject": 3,
-    "subject_name": "인간공학 및 시스템안전공학",
-    "question_no": 56,
-    "question": "다음에서 설명하는 용어는?",
-    "choices": {
-      "1": "위험성 결정",
-      "2": "위험성 평가",
-      "3": "위험반도 추정",
-      "4": "유해ㆍ위험요인 파악"
-    },
-    "answers": [
-      2
     ]
   },
   {

@@ -765,23 +765,6 @@
     ]
   },
   {
-    "id": 46,
-    "date": "20200524",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 53,
-    "question": "다음에서 설명하는 기술은?",
-    "choices": {
-      "1": "CERT",
-      "2": "침해사고 대응",
-      "3": "디지털 포렌식",
-      "4": "드라이브 다운 로드"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 47,
     "date": "20200524",
     "subject": 5,
@@ -830,23 +813,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 50,
-    "date": "20200524",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 58,
-    "question": "다음에서 설명하는 암호화 기술은?",
-    "choices": {
-      "1": "RSA",
-      "2": "디지털 서명",
-      "3": "IDEA",
-      "4": "DES"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -1133,23 +1099,6 @@
       "2": "ISO",
       "3": "ANSI",
       "4": "IEEE"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 69,
-    "date": "20201025",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 19,
-    "question": "다음에서 설명하는 오류검사 방식은?",
-    "choices": {
-      "1": "해밍 코드",
-      "2": "블록합 검사",
-      "3": "순환중복 검사",
-      "4": "패리티 검사"
     },
     "answers": [
       4
@@ -2635,23 +2584,6 @@
     ]
   },
   {
-    "id": 157,
-    "date": "20210411",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 52,
-    "question": "다음에서 설명하는 기술은?",
-    "choices": {
-      "1": "SQL injection",
-      "2": "파일 업로드 공격",
-      "3": "파일 다운 로드 공격",
-      "4": "드라이브 다운 로드"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 158,
     "date": "20210411",
     "subject": 5,
@@ -2663,23 +2595,6 @@
       "2": "TCP/IP 패킷의 내용을 변조하여 자신을 위장한다.",
       "3": "스텝 영역에 Strcpy와 같은 함수를 이용해 넘겨받은 인 자를 복사함으로써 스택 포인터가 가리키는 영역을 변조 한다.",
       "4": "클라이언트로 하여금 다른 Java Applet을 실행시키도록 한다."
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 159,
-    "date": "20210411",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 54,
-    "question": "다음에서 설명하는 키 교환 알고리즘은 무엇인가?",
-    "choices": {
-      "1": "Diffie-Hellman",
-      "2": "3-DES",
-      "3": "AES(Rijndael)",
-      "4": "Seed"
     },
     "answers": [
       1
@@ -3111,23 +3026,6 @@
     ]
   },
   {
-    "id": 185,
-    "date": "20211024",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 24,
-    "question": "다음 지문에서 설명하는 기술은 무엇인가?",
-    "choices": {
-      "1": "Digital Living Network Alliance",
-      "2": "Dedicated Short Range Communication",
-      "3": "Smart Grid Networking",
-      "4": "Network Function Virtualization"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 186,
     "date": "20211024",
     "subject": 2,
@@ -3346,23 +3244,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 199,
-    "date": "20211024",
-    "subject": 3,
-    "subject_name": "NOS",
-    "question_no": 41,
-    "question": "다음 설명에 해당하는 프로세스는?",
-    "choices": {
-      "1": "shell",
-      "2": "kernel",
-      "3": "program",
-      "4": "deamon"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -3737,23 +3618,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 222,
-    "date": "20220410",
-    "subject": 1,
-    "subject_name": "TCP/IP",
-    "question_no": 10,
-    "question": "아래 설명하는 내용 중 ( A ) 안에 적합한 것은?",
-    "choices": {
-      "1": "링크 계층",
-      "2": "네트워크 계층",
-      "3": "트랜스포트 계층",
-      "4": "응용 계층"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -4805,40 +4669,6 @@
       "2": "프레임",
       "3": "세그먼트",
       "4": "패킷"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 285,
-    "date": "20221030",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 22,
-    "question": "다음의 설명에 해당되는 것은?",
-    "choices": {
-      "1": "Broadband",
-      "2": "Baseband",
-      "3": "Multiplexing",
-      "4": "Encapsulation"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 286,
-    "date": "20221030",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 23,
-    "question": "다음에서 설명하는 오류검사 방식은?",
-    "choices": {
-      "1": "해밍 코드",
-      "2": "블록합 검사",
-      "3": "순환중복 검사",
-      "4": "패리티 검사"
     },
     "answers": [
       4
@@ -5984,23 +5814,6 @@
     ]
   },
   {
-    "id": 354,
-    "date": "20230409",
-    "subject": 3,
-    "subject_name": "NOS",
-    "question_no": 41,
-    "question": "다음 설명에 해당하는 프로세스는?",
-    "choices": {
-      "1": "shell",
-      "2": "kernel",
-      "3": "program",
-      "4": "deamon"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 355,
     "date": "20230409",
     "subject": 3,
@@ -6131,23 +5944,6 @@
       "2": "SVN",
       "3": "VPN",
       "4": "WDM"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 363,
-    "date": "20230409",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 54,
-    "question": "다음 지문이 설명하는 것은 무엇인가?",
-    "choices": {
-      "1": "PGP(Pretty Good Privacy)",
-      "2": "PPP(Point to Point Protocol)",
-      "3": "AH(Authentication Header)",
-      "4": "IKE(Internet Key Exchange)"
     },
     "answers": [
       1
@@ -6984,40 +6780,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 413,
-    "date": "20231029",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 52,
-    "question": "다음 지문이 설명하는 제도는 무엇인가?",
-    "choices": {
-      "1": "CASP",
-      "2": "K-ISMS",
-      "3": "ISO27001",
-      "4": "BS7799"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 414,
-    "date": "20231029",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 53,
-    "question": "다음에서 설명하는 기술은?",
-    "choices": {
-      "1": "CERT",
-      "2": "침해사고 대응",
-      "3": "디지털 포렌식",
-      "4": "Drive By Download Attack"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -7956,23 +7718,6 @@
     ]
   },
   {
-    "id": 470,
-    "date": "20240421",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 55,
-    "question": "다음에서 설명하는 키 교환 알고리즘은?",
-    "choices": {
-      "1": "Diffie-Hellman",
-      "2": "3-DES",
-      "3": "AES(Rijndael)",
-      "4": "Seed"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 471,
     "date": "20240421",
     "subject": 5,
@@ -8327,23 +8072,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 492,
-    "date": "20241027",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 22,
-    "question": "지문에서 설명하는 셀룰러 무선네트워크 기술은?",
-    "choices": {
-      "1": "셀 섹터링",
-      "2": "셀 나누기",
-      "3": "마이크로셀",
-      "4": "주파수 빌리기"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -9333,23 +9061,6 @@
     ]
   },
   {
-    "id": 551,
-    "date": "20250420",
-    "subject": 3,
-    "subject_name": "NOS",
-    "question_no": 29,
-    "question": "다음 설명에 해당하는 프로세스는?",
-    "choices": {
-      "1": "shell",
-      "2": "kernel",
-      "3": "program",
-      "4": "deamon"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 552,
     "date": "20250420",
     "subject": 3,
@@ -9656,23 +9367,6 @@
     ]
   },
   {
-    "id": 570,
-    "date": "20250420",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 51,
-    "question": "다음 지문이 설명하는 제도는?",
-    "choices": {
-      "1": "CASP",
-      "2": "K-ISMS",
-      "3": "ISO27001",
-      "4": "BS7799"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 571,
     "date": "20250420",
     "subject": 5,
@@ -9772,23 +9466,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 577,
-    "date": "20250420",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 60,
-    "question": "다음은 방화벽의 구성 요소 중 무엇을 설명하는 것인가?",
-    "choices": {
-      "1": "방어선 네트워크 (Perimeter Network)",
-      "2": "베스천 호스트 (Bastion Host)",
-      "3": "스크리닝 라우터 (Screening Router)",
-      "4": "DMZ (Demilitarized Zone)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -10078,23 +9755,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 595,
-    "date": "20251026",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 19,
-    "question": "지문에서 설명하는 셀룰러 무선네트워크 기술은?",
-    "choices": {
-      "1": "셀 섹터링",
-      "2": "셀 나누기",
-      "3": "마이크로셀",
-      "4": "주파수 빌리기"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -10608,23 +10268,6 @@
     ]
   },
   {
-    "id": 627,
-    "date": "20251026",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 57,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "PGP(Pretty Good Privacy)",
-      "2": "PPP(Point to Point Protocol)",
-      "3": "AH(Authentication Header)",
-      "4": "IKE(Internet Key Exchange)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 628,
     "date": "20251026",
     "subject": 5,
@@ -10979,23 +10622,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 649,
-    "date": "20260419",
-    "subject": 2,
-    "subject_name": "네트워크 일반",
-    "question_no": 22,
-    "question": "지문에서 설명하는 셀룰러 무선네트워크 기술은?",
-    "choices": {
-      "1": "셀 섹터링",
-      "2": "셀 나누기",
-      "3": "마이크로셀",
-      "4": "주파수 빌리기"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -11523,40 +11149,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 681,
-    "date": "20260419",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 58,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "NGFW(Next Generation FireWall)",
-      "2": "NFV(Network Function Virtualization)",
-      "3": "SAN(Storage Area Network)",
-      "4": "WAF(Web Application FireWall)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 682,
-    "date": "20260419",
-    "subject": 5,
-    "subject_name": "정보보호개론",
-    "question_no": 59,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "PGP(Pretty Good Privacy)",
-      "2": "PPP(Point to Point Protocol)",
-      "3": "AH(Authentication Header)",
-      "4": "IKE(Internet Key Exchange)"
-    },
-    "answers": [
-      1
     ]
   },
   {

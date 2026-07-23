@@ -255,23 +255,6 @@
     ]
   },
   {
-    "id": 17,
-    "date": "20180819",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 19,
-    "question": "다음 자료를 버블 정렬을 이용하여 오름차순으로 정렬할 경 우 PASS 3의 결과는?",
-    "choices": {
-      "1": "6, 3, 5, 7, 9",
-      "2": "3, 5, 6, 7, 9",
-      "3": "6, 7, 3, 5, 9",
-      "4": "3, 5, 9, 6, 7"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 18,
     "date": "20180819",
     "subject": 1,
@@ -626,23 +609,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 39,
-    "date": "20180819",
-    "subject": 3,
-    "subject_name": "운영체제",
-    "question_no": 45,
-    "question": "다음 표는 고정 분할에서의 기억장치 단편화 (Fragmentation) 현상을 보이고 있다. 외부단편화(External Fragmentation)의 크기는 총 얼마인가? (단, 페이지 크기의 단위는 K를 사용한다.)",
-    "choices": {
-      "1": "480K",
-      "2": "430K",
-      "3": "260K",
-      "4": "170K"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -1598,23 +1564,6 @@
     ]
   },
   {
-    "id": 96,
-    "date": "20190303",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 10,
-    "question": "다음 트리를 후위 순회(Postorder Traversal)한 결과는?",
-    "choices": {
-      "1": "A B D C E F",
-      "2": "D B A E C F",
-      "3": "A B C D E F",
-      "4": "D B E F C A"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 97,
     "date": "20190303",
     "subject": 1,
@@ -1748,23 +1697,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 105,
-    "date": "20190303",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 20,
-    "question": "다음 내용이 설명하고 있는 기술은?",
-    "choices": {
-      "1": "Hadoop",
-      "2": "SQLite",
-      "3": "XSQL",
-      "4": "HMID"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -2992,23 +2924,6 @@
     ]
   },
   {
-    "id": 178,
-    "date": "20190427",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 2,
-    "question": "다음 트리에서 터미널 노드 수는?",
-    "choices": {
-      "1": "2",
-      "2": "3",
-      "3": "4",
-      "4": "8"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 179,
     "date": "20190427",
     "subject": 1,
@@ -3023,23 +2938,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 180,
-    "date": "20190427",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 4,
-    "question": "다음 자료에 대하여 Selection Sorting으로 오름차순 정렬한 경우 PASS 3의 결과는?",
-    "choices": {
-      "1": "3, 4, 7, 9, 8",
-      "2": "3, 4, 8, 9, 7",
-      "3": "3, 8, 4, 9, 7",
-      "4": "3, 4, 7, 8, 9"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -4199,23 +4097,6 @@
     ]
   },
   {
-    "id": 249,
-    "date": "20190427",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 82,
-    "question": "다음 내용이 설명하는 전송 방식은?",
-    "choices": {
-      "1": "비동기식 전송",
-      "2": "동기식 전송",
-      "3": "아날로그 전송",
-      "4": "디지털 전송"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 250,
     "date": "20190427",
     "subject": 5,
@@ -4539,23 +4420,6 @@
     ]
   },
   {
-    "id": 269,
-    "date": "20190804",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "외부 스키마",
-      "2": "내부 스키마",
-      "3": "개념 스키마",
-      "4": "슈퍼 스키마"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 270,
     "date": "20190804",
     "subject": 1,
@@ -4635,23 +4499,6 @@
       "2": "select A from r1, r2 where P;",
       "3": "select r1, r2 from A where P;",
       "4": "select A from r1, r2"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 275,
-    "date": "20190804",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 11,
-    "question": "다음 수식을 후위 표기법(postfix)으로 옳게 표시한 것은?",
-    "choices": {
-      "1": "AB+CDE*++",
-      "2": "AB+C*DE++",
-      "3": "+AB*C+DE+",
-      "4": "+*+ABC+DE"
     },
     "answers": [
       2
@@ -4771,23 +4618,6 @@
       "2": "B, A, D, C",
       "3": "C, A, B, D",
       "4": "D, B, C, A"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 283,
-    "date": "20190804",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 20,
-    "question": "다음 트리의 차수(degree)는?",
-    "choices": {
-      "1": "2",
-      "2": "3",
-      "3": "4",
-      "4": "5"
     },
     "answers": [
       2
@@ -5301,23 +5131,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 314,
-    "date": "20190804",
-    "subject": 3,
-    "subject_name": "운영체제",
-    "question_no": 53,
-    "question": "다음 설명에 해당하는 디렉토리 구조는?",
-    "choices": {
-      "1": "비순환 그래프 디렉토리 시스템",
-      "2": "트리구조 디렉토리 시스템",
-      "3": "1단계 디렉토리 시스템",
-      "4": "2단계 디렉토리 시스템"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -6443,23 +6256,6 @@
     ]
   },
   {
-    "id": 381,
-    "date": "20200606",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 24,
-    "question": "인터페이스 구현 검증도구 중 아래에서 설명하는 것은?",
-    "choices": {
-      "1": "xUnit",
-      "2": "STAF",
-      "3": "FitNesse",
-      "4": "RubyNode"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 382,
     "date": "20200606",
     "subject": 2,
@@ -6471,23 +6267,6 @@
       "2": "Hub&Spoke",
       "3": "Message Bus",
       "4": "Tree"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 383,
-    "date": "20200606",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 26,
-    "question": "다음 트리를 전위 순회(preorder traversal)한 결과는?",
-    "choices": {
-      "1": "+*AB/*CDE",
-      "2": "AB/C*D*E+",
-      "3": "A/B*C*D+E",
-      "4": "+**/ABCDE"
     },
     "answers": [
       4
@@ -6542,23 +6321,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 387,
-    "date": "20200606",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 31,
-    "question": "다음 트리의 차수(degree)와 단말 노드(terminal node)의 수 는?",
-    "choices": {
-      "1": "차수: 4, 단말 노드: 4",
-      "2": "차수: 2, 단말 노드: 4",
-      "3": "차수: 4, 단말 노드: 8",
-      "4": "차수: 2, 단말 노드: 8"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -6797,23 +6559,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 403,
-    "date": "20200606",
-    "subject": 3,
-    "subject_name": "운영체제",
-    "question_no": 51,
-    "question": "트랜잭션의 특성 중 다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "Durability",
-      "2": "Share",
-      "3": "Consistency",
-      "4": "Atomicity"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -7429,23 +7174,6 @@
     ]
   },
   {
-    "id": 441,
-    "date": "20200606",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 92,
-    "question": "다음이 설명하는 용어로 옳은 것은?",
-    "choices": {
-      "1": "하둡(Hadoop)",
-      "2": "비컨(Beacon)",
-      "3": "포스퀘어(Foursquare)",
-      "4": "맴리스터(Memristor)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 442,
     "date": "20200606",
     "subject": 5,
@@ -7576,23 +7304,6 @@
       "2": "분석과 중재기술",
       "3": "설계 및 코딩 기술",
       "4": "관찰 및 모델 작성 기술"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 450,
-    "date": "20200822",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 2,
-    "question": "다음 내용이 설명하는 디자인 패턴은?",
-    "choices": {
-      "1": "Visitor패턴",
-      "2": "Observer패턴",
-      "3": "Factory Method 패턴",
-      "4": "Bridge 패턴"
     },
     "answers": [
       3
@@ -7973,23 +7684,6 @@
     ]
   },
   {
-    "id": 473,
-    "date": "20200822",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 27,
-    "question": "다음 자료에 대하여 선택(Selection) 정렬을 이용하여 오름 차순으로 정렬하고자 한다. 3회전 후의 결과로 옳은 것은?",
-    "choices": {
-      "1": "14, 17, 37, 40, 35",
-      "2": "14, 37, 17, 40, 35",
-      "3": "17, 14, 37, 35, 40",
-      "4": "14, 17, 35, 40, 37"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 474,
     "date": "20200822",
     "subject": 2,
@@ -8001,23 +7695,6 @@
       "2": "체크인(Check-in)",
       "3": "체크아웃(Check-out)",
       "4": "커밋(commit)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 475,
-    "date": "20200822",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 29,
-    "question": "다음 트리를 Preorder 운행법으로 운행할 경우 가장 먼저 탐색되는 것은?",
-    "choices": {
-      "1": "A",
-      "2": "B",
-      "3": "D",
-      "4": "G"
     },
     "answers": [
       1
@@ -8106,23 +7783,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 481,
-    "date": "20200822",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 36,
-    "question": "다음이 설명하는 애플리케이션 통합 테스트 유형은?",
-    "choices": {
-      "1": "하향식 통합 테스트",
-      "2": "상향식 통합 테스트",
-      "3": "회귀 테스트",
-      "4": "빅뱅 테스트"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -8330,23 +7990,6 @@
     ]
   },
   {
-    "id": 494,
-    "date": "20200822",
-    "subject": 3,
-    "subject_name": "운영체제",
-    "question_no": 53,
-    "question": "player 테이블에는 player_name, team_id, height 컬럼이 존재한다. 아래 SQL문에서 문법적 오류가 있는 부분은?",
-    "choices": {
-      "1": "(1)",
-      "2": "(2)",
-      "3": "(3)",
-      "4": "(4)"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 495,
     "date": "20200822",
     "subject": 3,
@@ -8466,23 +8109,6 @@
     ]
   },
   {
-    "id": 502,
-    "date": "20200822",
-    "subject": 4,
-    "subject_name": "소프트웨어 공학 은?",
-    "question_no": 62,
-    "question": "다음 내용이 설명하는 소프트웨어 취약점은?",
-    "choices": {
-      "1": "FTP 바운스 공격",
-      "2": "SQL 삽입",
-      "3": "버퍼 오버플로",
-      "4": "디렉토리 접근 공격"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 503,
     "date": "20200822",
     "subject": 4,
@@ -8582,23 +8208,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 509,
-    "date": "20200822",
-    "subject": 4,
-    "subject_name": "소프트웨어 공학 은?",
-    "question_no": 70,
-    "question": "다음이 설명하는 응집도의 유형은?",
-    "choices": {
-      "1": "기능적 응집도",
-      "2": "우연적 응집도",
-      "3": "논리적 응집도",
-      "4": "절차적 응집도"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -8976,23 +8585,6 @@
     ]
   },
   {
-    "id": 534,
-    "date": "20200822",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 97,
-    "question": "다음 JAVA코드에서 밑줄로 표시된 부분에는 어떤 보안 약 점이 존재하는가? (단, key는 암호화 키를 저장하는 변수이 다.)",
-    "choices": {
-      "1": "무결성 검사 없는 코드 다운로드",
-      "2": "중요 자원에 대한 잘못된 권한 설정",
-      "3": "하드코드된 암호화 키 사용",
-      "4": "적절한 인증없는 중요 기능 허용"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 535,
     "date": "20200822",
     "subject": 5,
@@ -9092,23 +8684,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 541,
-    "date": "20200926",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 5,
-    "question": "다음 내용이 설명하는 객체지향 설계 원칙은?",
-    "choices": {
-      "1": "인터페이스 분리 원칙",
-      "2": "단일 책임 원칙",
-      "3": "개방 폐쇄의 원칙",
-      "4": "리스코프 교체의 원칙"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -9520,23 +9095,6 @@
     ]
   },
   {
-    "id": 566,
-    "date": "20200926",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 31,
-    "question": "다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "외부 스키마",
-      "2": "내부 스키마",
-      "3": "개념 스키마",
-      "4": "슈퍼 스키마"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 567,
     "date": "20200926",
     "subject": 2,
@@ -9633,23 +9191,6 @@
       "2": "폴딩법",
       "3": "기수변환법",
       "4": "숫자분석법"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 573,
-    "date": "20200926",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 39,
-    "question": "다음에서 설명하는 클린 코드 작성 원칙은?",
-    "choices": {
-      "1": "다형성",
-      "2": "단순성",
-      "3": "추상화",
-      "4": "의존성"
     },
     "answers": [
       2
@@ -10268,23 +9809,6 @@
     ]
   },
   {
-    "id": 612,
-    "date": "20200926",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 83,
-    "question": "다음 설명에 해당하는 생명주기 모형으로 가장 옳은 것은?",
-    "choices": {
-      "1": "패키지 모형",
-      "2": "코코모 모형",
-      "3": "폭포수 모형",
-      "4": "관계형 모델"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 613,
     "date": "20200926",
     "subject": 5,
@@ -10299,23 +9823,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 614,
-    "date": "20200926",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 85,
-    "question": "다음 내용이 설명하는 스토리지 시스템은?",
-    "choices": {
-      "1": "DAS",
-      "2": "NAS",
-      "3": "N-SCREEN",
-      "4": "NFC"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -10415,23 +9922,6 @@
       "2": "비대칭 암호기법이라고도 한다.",
       "3": "대표적인 기법은 RSA 기법이 있다.",
       "4": "키 분배가 용이하고, 관리해야 할 키 개수가 적다."
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 621,
-    "date": "20200926",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 93,
-    "question": "다음이 설명하는 다중화 기술은?",
-    "choices": {
-      "1": "Wavelength Division Multiplexing",
-      "2": "Frequency Division Multiplexing",
-      "3": "Code Division Multiplexing",
-      "4": "Time Division Multiplexing"
     },
     "answers": [
       1
@@ -11169,23 +10659,6 @@
     ]
   },
   {
-    "id": 665,
-    "date": "20210307",
-    "subject": 3,
-    "subject_name": "운영체제",
-    "question_no": 42,
-    "question": "다음에서 설명하는 스키마(Schema)는?",
-    "choices": {
-      "1": "개념 스키마",
-      "2": "내부 스키마",
-      "3": "외부 스키마",
-      "4": "내용 스키마"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 666,
     "date": "20210307",
     "subject": 3,
@@ -11866,23 +11339,6 @@
     ]
   },
   {
-    "id": 707,
-    "date": "20210307",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 89,
-    "question": "다음 내용이 설명하는 것은?",
-    "choices": {
-      "1": "OTT",
-      "2": "Baas",
-      "3": "SDDC",
-      "4": "Wi-SUN"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 708,
     "date": "20210307",
     "subject": 5,
@@ -11931,23 +11387,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 711,
-    "date": "20210307",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 93,
-    "question": "다음 내용이 설명하는 소프트웨어 개발 모형은?",
-    "choices": {
-      "1": "프로토타입 모형",
-      "2": "나선형 모형",
-      "3": "폭포수 모형",
-      "4": "RAD 모형"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -12169,23 +11608,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 725,
-    "date": "20210515",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 9,
-    "question": "다음 설명에 해당하는 시스템으로 옳은 것은?",
-    "choices": {
-      "1": "연계 서버",
-      "2": "중계 서버",
-      "3": "송신 시스템",
-      "4": "수신 시스템"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -12509,23 +11931,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 745,
-    "date": "20210515",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 31,
-    "question": "다음 자료를 버블 정렬을 이용하여 오름차순으로 정렬할 경 우 Pass 2의 결과는?",
-    "choices": {
-      "1": "3, 5, 6, 7, 9",
-      "2": "6, 7, 3, 5, 9",
-      "3": "3, 5, 9, 6, 7",
-      "4": "6, 3, 5, 7, 9"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -13277,23 +12682,6 @@
     ]
   },
   {
-    "id": 791,
-    "date": "20210515",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 81,
-    "question": "다음 내용이 설명하는 것은?",
-    "choices": {
-      "1": "SAN",
-      "2": "MBR",
-      "3": "NAC",
-      "4": "NIC"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 792,
     "date": "20210515",
     "subject": 5,
@@ -13308,23 +12696,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 793,
-    "date": "20210515",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 84,
-    "question": "다음 내용이 설명하는 접근 제어 모델은?",
-    "choices": {
-      "1": "Clark-Wilson Integrity Model",
-      "2": "PDCA Model",
-      "3": "Bell-Lapadula Model",
-      "4": "Chinese Wall Model"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -13668,23 +13039,6 @@
     ]
   },
   {
-    "id": 814,
-    "date": "20210814",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 8,
-    "question": "클래스 다이어그램의 요소로 다음 설명에 해당하는 용어는?",
-    "choices": {
-      "1": "Instance",
-      "2": "Operation",
-      "3": "Item",
-      "4": "Hiding"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 815,
     "date": "20210814",
     "subject": 1,
@@ -13883,23 +13237,6 @@
       "2": "시스템에 과다 정보량을 부과하여 과부하 시에도 시스템 이 정상적으로 작동되는지를 테스트한다.",
       "3": "사용자의 이벤트에 시스템이 응답하는 시간,특정 시간 내에 처리하는 업무량, 사용자 요구에 시스템이 반응하 는 속도 등을 테스트한다.",
       "4": "부당하고 불법적인 침입을 시도하여 보안시스템이 불법 적인 침투를 잘 막아내는지 테스트한다."
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 827,
-    "date": "20210814",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 22,
-    "question": "다음 자료를 버블 정렬을 이용하여오름차순으로 정렬할 경 우 PASS 3의 결과는?",
-    "choices": {
-      "1": "6, 3, 5, 7, 9",
-      "2": "3, 5, 6, 7, 9",
-      "3": "6, 7, 3, 5, 9",
-      "4": "3, 5, 9, 6, 7"
     },
     "answers": [
       2
@@ -14892,23 +14229,6 @@
     ]
   },
   {
-    "id": 886,
-    "date": "20210814",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 92,
-    "question": "다음 내용이 설명하는 것은?",
-    "choices": {
-      "1": "Format String",
-      "2": "Ransomware",
-      "3": "Buffer overflow",
-      "4": "Adware"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 887,
     "date": "20210814",
     "subject": 5,
@@ -15127,40 +14447,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 900,
-    "date": "20220305",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 8,
-    "question": "다음의 설명에 해당하는 언어는?",
-    "choices": {
-      "1": "JAVA",
-      "2": "C",
-      "3": "UML",
-      "4": "Python"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 901,
-    "date": "20220305",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 9,
-    "question": "다음 내용이 설명하는 UI설계 도구는?",
-    "choices": {
-      "1": "스토리보드(Storyboard)",
-      "2": "목업(Mockup)",
-      "3": "프로토타입(Prototype)",
-      "4": "유스케이스(Usecase)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -15793,23 +15079,6 @@
     ]
   },
   {
-    "id": 940,
-    "date": "20220305",
-    "subject": 3,
-    "subject_name": "운영체제",
-    "question_no": 54,
-    "question": "다음 SQL문에서 사용된 BETWEEN 연산의 의미와 동일한 것은?",
-    "choices": {
-      "1": "점수 ＞= 90 AND 점수 ＜= 95",
-      "2": "점수 ＞ 90 AND 점수 ＜ 95",
-      "3": "점수 ＞ 90 AND 점수 ＜= 95",
-      "4": "점수 ＞= 90 AND 점수 ＜ 95"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 941,
     "date": "20220305",
     "subject": 3,
@@ -16150,23 +15419,6 @@
     ]
   },
   {
-    "id": 962,
-    "date": "20220305",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 82,
-    "question": "정보시스템과 관련한 다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "고가용성 솔루션(HACMP)",
-      "2": "점대점 연결 방식(Point-to-Point Mode)",
-      "3": "스턱스넷(Stuxnet)",
-      "4": "루팅(Rooting)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 963,
     "date": "20220305",
     "subject": 5,
@@ -16246,23 +15498,6 @@
       "2": "Smurf 공격은 멀티캐스트(Multicast)를 활용하여 공격 대 상이 네트워크의 임의의 시스템에 패킷을 보내게 만드는 공격이다.",
       "3": "SYN Flooding은 존재하지 않는 클라이언트가 서버별로 한정된 접속 가능 공간에 접속한 것처럼 속여 다른 사용 자가 서비스를 이용하지 못하게 하는 것이다.",
       "4": "Land 공격은 패킷 전송 시 출발지 IP주소와 목적지 IP주 소 값을 똑같이 만들어서 공격 대상에게 보내는 공격 방 법이다."
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 968,
-    "date": "20220305",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 90,
-    "question": "다음이 설명하는 IT 기술은?",
-    "choices": {
-      "1": "StackGuard",
-      "2": "Docker",
-      "3": "Cipher Container",
-      "4": "Scytale"
     },
     "answers": [
       2
@@ -16351,23 +15586,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 974,
-    "date": "20220305",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 97,
-    "question": "다음 내용이 설명하는 로그 파일은?",
-    "choices": {
-      "1": "tapping",
-      "2": "xtslog",
-      "3": "linuxer",
-      "4": "wtmp"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -16881,23 +16099,6 @@
     ]
   },
   {
-    "id": 1005,
-    "date": "20220424",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조 로 옳지 않은 것은?",
-    "question_no": 32,
-    "question": "버블 정렬을 이용하여 다음 자료를 오름차순으로 정렬할 경 우 PASS 1의 결과는?",
-    "choices": {
-      "1": "6, 9, 7, 3, 5",
-      "2": "3, 9, 6, 7, 5",
-      "3": "3, 6, 7, 9, 5",
-      "4": "6, 7, 3, 5, 9"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 1006,
     "date": "20220424",
     "subject": 2,
@@ -17340,23 +16541,6 @@
     ]
   },
   {
-    "id": 1036,
-    "date": "20220424",
-    "subject": 4,
-    "subject_name": "소프트웨어 공학 은?",
-    "question_no": 67,
-    "question": "다음에서 설명하는 프로세스 스케줄링은?",
-    "choices": {
-      "1": "FIFO 스케줄링",
-      "2": "RR 스케줄링",
-      "3": "HRN 스케줄링",
-      "4": "MQ 스케줄링"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 1037,
     "date": "20220424",
     "subject": 4,
@@ -17595,23 +16779,6 @@
     ]
   },
   {
-    "id": 1053,
-    "date": "20220424",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 87,
-    "question": "다음 내용이 설명하는 기술로 가장 적절한 것은?",
-    "choices": {
-      "1": "Virtual Local Area Network",
-      "2": "Simple Station Network",
-      "3": "Mesh Network",
-      "4": "Modem Network"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 1054,
     "date": "20220424",
     "subject": 5,
@@ -17643,23 +16810,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 1056,
-    "date": "20220424",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 91,
-    "question": "다음 설명에 해당하는 소프트웨어는?",
-    "choices": {
-      "1": "전역 함수 라이브러리",
-      "2": "소프트웨어 개발 프레임워크",
-      "3": "컨테이너 아키텍처",
-      "4": "어휘 분석기"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -17762,23 +16912,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 1063,
-    "date": "20220424",
-    "subject": 5,
-    "subject_name": "데이터 통신",
-    "question_no": 99,
-    "question": "다음에서 설명하는 IT 기술은?",
-    "choices": {
-      "1": "SDN(Software Defined Networking)",
-      "2": "NFS(Network File System)",
-      "3": "Network Mapper",
-      "4": "AOE Network"
-    },
-    "answers": [
-      1
     ]
   },
   {

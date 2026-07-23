@@ -34,23 +34,6 @@
     ]
   },
   {
-    "id": 3,
-    "date": "20151017",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 3,
-    "question": "다음의 보기에서 설명하는 워드프로세서의 기능은?",
-    "choices": {
-      "1": "화면 구성",
-      "2": "교정 부호",
-      "3": "문단 부호",
-      "4": "문단 모양"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 4,
     "date": "20151017",
     "subject": 1,
@@ -782,23 +765,6 @@
     ]
   },
   {
-    "id": 48,
-    "date": "20151017",
-    "subject": 3,
-    "subject_name": "컴퓨터 및 정보활용",
-    "question_no": 57,
-    "question": "다음에서 설명하는 신기술은 무엇인가?",
-    "choices": {
-      "1": "SSO(Single Sign On)",
-      "2": "증강현실(Augmented Reality)",
-      "3": "RSS(Rich Site Summary)",
-      "4": "가상현실(Virtual Reality)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 49,
     "date": "20151017",
     "subject": 3,
@@ -1037,23 +1003,6 @@
     ]
   },
   {
-    "id": 63,
-    "date": "20160305",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 14,
-    "question": "다음 보기에서 설명하는 시스템으로 옳은 것은?",
-    "choices": {
-      "1": "전자문서관리 시스템",
-      "2": "회계관리 시스템",
-      "3": "인사관리 시스템",
-      "4": "공정관리 시스템"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 64,
     "date": "20160305",
     "subject": 1,
@@ -1068,23 +1017,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 65,
-    "date": "20160305",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 16,
-    "question": "다음 보기에서 설명하는 편람으로 옳은 것은?",
-    "choices": {
-      "1": "행정 편람",
-      "2": "직무 편람",
-      "3": "공고 편람",
-      "4": "민원 편람"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -3156,23 +3088,6 @@
       "2": "ROM BIOS 업그레이드",
       "3": "장치 제어기(드라이버) 업그레이드",
       "4": "펌웨어(Firmware) 업그레이드"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 188,
-    "date": "20161022",
-    "subject": 3,
-    "subject_name": "컴퓨터 및 정보활용",
-    "question_no": 45,
-    "question": "다음에서 설명하는 컴퓨터는 무엇인가?",
-    "choices": {
-      "1": "디지털 컴퓨터",
-      "2": "하이브리드 컴퓨터",
-      "3": "전용 컴퓨터",
-      "4": "범용 컴퓨터"
     },
     "answers": [
       3
@@ -6970,23 +6885,6 @@
     ]
   },
   {
-    "id": 412,
-    "date": "20180901",
-    "subject": 3,
-    "subject_name": "컴퓨터 및 정보활용",
-    "question_no": 60,
-    "question": "다음에서 설명하는 웹 프로그래밍 언어는 무엇인가?",
-    "choices": {
-      "1": "ASP",
-      "2": "JSP",
-      "3": "PHP",
-      "4": "HTML"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 413,
     "date": "20190302",
     "subject": 1,
@@ -7120,23 +7018,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 421,
-    "date": "20190302",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 14,
-    "question": "다음에서 설명하는 전자 출판 기능은?",
-    "choices": {
-      "1": "디더링(Dithering)",
-      "2": "렌더링(Rendering)",
-      "3": "리터칭(Retouching)",
-      "4": "필터링(Filtering)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -8024,23 +7905,6 @@
     ]
   },
   {
-    "id": 474,
-    "date": "20190831",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 15,
-    "question": "다음 설명에 해당하는 용어는 무엇인가?",
-    "choices": {
-      "1": "ERP",
-      "2": "EDI",
-      "3": "EDMS",
-      "4": "CALS"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 475,
     "date": "20190831",
     "subject": 1,
@@ -8599,23 +8463,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 508,
-    "date": "20190831",
-    "subject": 3,
-    "subject_name": "컴퓨터 및 정보활용",
-    "question_no": 53,
-    "question": "다음 보기에서 설명하는 해킹방법으로 옳은 것은?",
-    "choices": {
-      "1": "스푸핑(Spoofing)",
-      "2": "스니핑(Sniffing)",
-      "3": "세션 하이재킹(Session Hijacking)",
-      "4": "크래킹(Cracking)"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -9520,23 +9367,6 @@
     ]
   },
   {
-    "id": 562,
-    "date": "20200229",
-    "subject": 3,
-    "subject_name": "컴퓨터 및 정보활용",
-    "question_no": 58,
-    "question": "다음에서 설명하는 모바일 운영체제는 무엇인가?",
-    "choices": {
-      "1": "안드로이드",
-      "2": "윈도우폰",
-      "3": "iOs",
-      "4": "클라우드 OS"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 563,
     "date": "20200229",
     "subject": 3,
@@ -9704,23 +9534,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 573,
-    "date": "20200704",
-    "subject": 1,
-    "subject_name": "워드프로세싱 일반",
-    "question_no": 10,
-    "question": "다음 보기에서 설명하는 확장자는 무엇인가?",
-    "choices": {
-      "1": "TXT",
-      "2": "DOC",
-      "3": "BAK",
-      "4": "PDF"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -10231,23 +10044,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 604,
-    "date": "20200704",
-    "subject": 3,
-    "subject_name": "컴퓨터 및 정보활용",
-    "question_no": 49,
-    "question": "다음에서 설명하는 모바일 관련 기술은?",
-    "choices": {
-      "1": "MHL(Mobile High-definition Link)",
-      "2": "테더링(Tethering)",
-      "3": "블루투스(Bluetooth)",
-      "4": "핫스팟(Hot Spot)"
-    },
-    "answers": [
-      3
     ]
   },
   {

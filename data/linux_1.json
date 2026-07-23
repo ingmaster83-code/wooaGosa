@@ -51,23 +51,6 @@
     ]
   },
   {
-    "id": 5,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 5,
-    "question": "다음에서 설명하는 리눅스 배포판으로 알맞은 것은?",
-    "choices": {
-      "1": "CentOS",
-      "2": "Slackware",
-      "3": "Ubuntu",
-      "4": "SUSE"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 6,
     "date": "20160312",
     "subject": 1,
@@ -164,57 +147,6 @@
       "2": "/etc/issue.net : 텔넷(telnet)을 통한 네트워크 접속 할 때 출력되는 메시지를 기록한다.",
       "3": "/etc/motd : 성공적으로 로그인되었을 때 접속된 사용자 에게 보여주는 메시지를 기록하는 파일이다.",
       "4": "/etc/nologin.txt : 사용자의 셸이 /sbin/nologin로 지정 되면 /etc/nologin.txt에서 기록된 메시지와 함께 성공적 으로 로그인이 된다."
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 15,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 16,
-    "question": "다음에서 설명하는 OSI 모델 계층으로 알맞은 것은?",
-    "choices": {
-      "1": "네트워크 계층",
-      "2": "세션 계층",
-      "3": "표현 계층",
-      "4": "응용 계층"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 16,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 17,
-    "question": "다음에서 설명하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "ARP",
-      "3": "TCP",
-      "4": "ICMP"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 17,
-    "date": "20160312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 18,
-    "question": "다음 설명에 해당하는 서브넷마스크값으로 알맞은 것은?",
-    "choices": {
-      "1": "255.255.255.4",
-      "2": "255.255.255.64",
-      "3": "255.255.255.128",
-      "4": "255.255.255.192"
     },
     "answers": [
       4
@@ -354,23 +286,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 26,
-    "date": "20160312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 27,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "chage -m 30 -d 5 -E 7 ihd",
-      "2": "chage -M 30 -W 5 -m 7 ihd",
-      "3": "chage -m 30 -M 5 -W 7 ihd",
-      "4": "chage -M 30 -d 5 -m 7 ihd"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -558,40 +473,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 39,
-    "date": "20160312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 42,
-    "question": "다음에서 설명하는 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "pwconv",
-      "2": "pwunconv",
-      "3": "pwcheck",
-      "4": "pwck"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 40,
-    "date": "20160312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 43,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "chattr +a /etc/service",
-      "2": "chattr +A /etc/service",
-      "3": "chattr +i /etc/service",
-      "4": "chattr +I /etc/service"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -1173,23 +1054,6 @@
     ]
   },
   {
-    "id": 78,
-    "date": "20160312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 86,
-    "question": "다음에서 설명하는 가상화 기능으로 알맞은 것은?",
-    "choices": {
-      "1": "공유",
-      "2": "절연(Insulation)",
-      "3": "단일화",
-      "4": "에뮬레이션"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 79,
     "date": "20160312",
     "subject": 3,
@@ -1326,40 +1190,6 @@
     ]
   },
   {
-    "id": 88,
-    "date": "20160312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 97,
-    "question": "다음에서 설명하는 DOS 공격으로 알맞은 것은?",
-    "choices": {
-      "1": "Teardrop Attack",
-      "2": "Smurf Attack",
-      "3": "Land Attack",
-      "4": "UDP Flooding"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 89,
-    "date": "20160312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 98,
-    "question": "다음에서 설명하는 방화벽의 종류로 알맞은 것은?",
-    "choices": {
-      "1": "단일 홈 게이트웨이",
-      "2": "스크린 라우터",
-      "3": "스크린 서브넷 게이트웨이",
-      "4": "스크린 호스트 게이트웨이"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 90,
     "date": "20160312",
     "subject": 3,
@@ -1462,23 +1292,6 @@
     ]
   },
   {
-    "id": 97,
-    "date": "20160910",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 7,
-    "question": "다음에서 설명하는 디렉터리로 알맞은 것은?",
-    "choices": {
-      "1": "/etc",
-      "2": "/boot",
-      "3": "/tmp",
-      "4": "/proc"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 98,
     "date": "20160910",
     "subject": 1,
@@ -1493,23 +1306,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 100,
-    "date": "20160910",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 10,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "startx -- --depth 1",
-      "2": "startx -- --depth 2",
-      "3": "startx -- :1",
-      "4": "startx -- :2"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -2091,23 +1887,6 @@
     ]
   },
   {
-    "id": 138,
-    "date": "20160910",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 55,
-    "question": "다음 설명에 해당하는 커널 파라미터로 알맞은 것은?",
-    "choices": {
-      "1": "net.ipv4.ip_local_port_range",
-      "2": "net.ipv4.icmp_echo_ignore_all",
-      "3": "net.ipv4.ip_forward",
-      "4": "net.ipv4.tcp_syncookies"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 139,
     "date": "20160910",
     "subject": 2,
@@ -2380,23 +2159,6 @@
     ]
   },
   {
-    "id": 157,
-    "date": "20160910",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 77,
-    "question": "다음에서 설명하는 메일 관련 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "kmail",
-      "2": "postfix",
-      "3": "evolution",
-      "4": "procmail"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 158,
     "date": "20160910",
     "subject": 3,
@@ -2567,23 +2329,6 @@
     ]
   },
   {
-    "id": 168,
-    "date": "20160910",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 90,
-    "question": "다음에서 설명하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "virsh",
-      "2": "virt-manager",
-      "3": "virt-top",
-      "4": "xm"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 170,
     "date": "20160910",
     "subject": 3,
@@ -2635,23 +2380,6 @@
     ]
   },
   {
-    "id": 173,
-    "date": "20160910",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 96,
-    "question": "다음에서 설명하는 DoS 공격으로 알맞은 것은?",
-    "choices": {
-      "1": "Smurf Attack",
-      "2": "Land Attack",
-      "3": "Mail Bomb",
-      "4": "Teardrop Attack"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 174,
     "date": "20160910",
     "subject": 3,
@@ -2669,23 +2397,6 @@
     ]
   },
   {
-    "id": 175,
-    "date": "20160910",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 99,
-    "question": "다음에서 설명하는 방화벽으로 알맞은 것은?",
-    "choices": {
-      "1": "배스천 호스트",
-      "2": "이중 홈 게이트웨이",
-      "3": "스크린 호스트 게이트웨이",
-      "4": "스크린 서브넷 게이트웨이"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 176,
     "date": "20170311",
     "subject": 1,
@@ -2700,23 +2411,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 177,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 2,
-    "question": "다음에서 설명하는 소프트웨어로 알맞은 것은?",
-    "choices": {
-      "1": "프리웨어(Freeware)",
-      "2": "셰어웨어(Shareware)",
-      "3": "비공개 소프트웨어(Closed software)",
-      "4": "독점소프트웨어(Proprietary software)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -2754,23 +2448,6 @@
     ]
   },
   {
-    "id": 181,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 6,
-    "question": "다음 설명에 해당하는 RAID의 종류로 알맞은 것은?",
-    "choices": {
-      "1": "RAID-0",
-      "2": "RAID-1",
-      "3": "RAID-5",
-      "4": "RAID-6"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 182,
     "date": "20170311",
     "subject": 1,
@@ -2785,23 +2462,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 183,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 8,
-    "question": "다음에서 설명하는 내용과 관련된 파일 시스템은 무엇인가?",
-    "choices": {
-      "1": "ext3",
-      "2": "ext4",
-      "3": "FAT32",
-      "4": "NTFS"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -2870,23 +2530,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 191,
-    "date": "20170311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 17,
-    "question": "다음에서 설명하는 장치의 이름으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "Repeater",
-      "2": "Bridge",
-      "3": "Gateway",
-      "4": "Router"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -3383,23 +3026,6 @@
     ]
   },
   {
-    "id": 224,
-    "date": "20170311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 56,
-    "question": "다음 설명에 해당하는 보안 도구로 알맞은 것은?",
-    "choices": {
-      "1": "GnuPG",
-      "2": "nmap",
-      "3": "tripwire",
-      "4": "John The Ripper"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 225,
     "date": "20170311",
     "subject": 2,
@@ -3431,23 +3057,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 227,
-    "date": "20170311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 59,
-    "question": "다음에서 설명하는 백업 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "dd",
-      "2": "cpio",
-      "3": "dump",
-      "4": "rsync"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -3669,23 +3278,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 241,
-    "date": "20170311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 76,
-    "question": "다음에서 설명하는 NFS 서버 설정 옵션으로 알맞은 것은?",
-    "choices": {
-      "1": "root_squash",
-      "2": "no_root_squash",
-      "3": "all_squash",
-      "4": "anonuid"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3961,23 +3553,6 @@
     ]
   },
   {
-    "id": 259,
-    "date": "20170311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 97,
-    "question": "다음에서 설명하는 해킹 도구로 알맞은 것은?",
-    "choices": {
-      "1": "Prorat",
-      "2": "Netbus",
-      "3": "Subseven",
-      "4": "Back orifice"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 260,
     "date": "20170311",
     "subject": 3,
@@ -4046,23 +3621,6 @@
     ]
   },
   {
-    "id": 264,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 2,
-    "question": "다음에서 설명하는 운영체제로 알맞은 것은?",
-    "choices": {
-      "1": "QNX",
-      "2": "LiMo",
-      "3": "Tizen",
-      "4": "Android"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 265,
     "date": "20170909",
     "subject": 1,
@@ -4077,23 +3635,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 266,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 4,
-    "question": "다음에서 설명하는 리눅스의 활용 분야로 알맞은 것은?",
-    "choices": {
-      "1": "빅 데이터",
-      "2": "사물 인터넷",
-      "3": "클라우드 컴퓨팅",
-      "4": "임베디드 시스템"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -4417,23 +3958,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 288,
-    "date": "20170909",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 31,
-    "question": "다음 설명에 해당하는 crontab 설정으로 알맞은 것은?",
-    "choices": {
-      "1": "4 2 * * 1,3,5 /etc/backup.sh",
-      "2": "2 4 * * 1,3,5 /etc/backup.sh",
-      "3": "4 2 1,3,5 * * /etc/backup.sh",
-      "4": "2 4 1,3,5 * * /etc/backup.sh"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -4828,23 +4352,6 @@
     ]
   },
   {
-    "id": 315,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 61,
-    "question": "다음에서 설명하는 웹 서버 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Nginx",
-      "2": "Docker",
-      "3": "IIS",
-      "4": "Apache httpd"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 316,
     "date": "20170909",
     "subject": 3,
@@ -4910,40 +4417,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 321,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 68,
-    "question": "다음 설명에 해당하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "ypbind",
-      "2": "yppasswd",
-      "3": "ypserv",
-      "4": "ypxfrd"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 322,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 69,
-    "question": "다음 설명에 해당하는 NIS 관련 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "ypbind",
-      "2": "ypcat",
-      "3": "ypchsh",
-      "4": "ypwhich"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -5029,23 +4502,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 328,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 77,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "kmail",
-      "2": "thunderbird",
-      "3": "mutt",
-      "4": "evolution"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -5202,23 +4658,6 @@
     ]
   },
   {
-    "id": 339,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 90,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "virsh",
-      "2": "libvirt",
-      "3": "libvirtd",
-      "4": "virt-manager"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 340,
     "date": "20170909",
     "subject": 3,
@@ -5270,23 +4709,6 @@
     ]
   },
   {
-    "id": 344,
-    "date": "20170909",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 97,
-    "question": "다음 설명에 해당하는 DDOS 도구로 알맞은 것은?",
-    "choices": {
-      "1": "Stacheldraht",
-      "2": "TFN",
-      "3": "TFN 2K",
-      "4": "Trinoo"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 345,
     "date": "20170909",
     "subject": 3,
@@ -5335,40 +4757,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 348,
-    "date": "20180310",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 1,
-    "question": "다음에서 설명하는 것으로 알맞은 것은?",
-    "choices": {
-      "1": "페이징(Paging)",
-      "2": "스왑(Swap)",
-      "3": "루틴(Routine)",
-      "4": "링크(Link)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 349,
-    "date": "20180310",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 2,
-    "question": "다음에서 설명하는 운영체제로 알맞은 것은?",
-    "choices": {
-      "1": "안드로이드(Android)",
-      "2": "타이젠(Tizen)",
-      "3": "미고(MeeGo)",
-      "4": "바다(Bada) OS"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -5559,23 +4947,6 @@
     ]
   },
   {
-    "id": 363,
-    "date": "20180310",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 17,
-    "question": "다음 설명에 해당하는 LAN 구성 방식으로 알맞은 것은?",
-    "choices": {
-      "1": "망형",
-      "2": "링형",
-      "3": "버스형",
-      "4": "스타형"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 364,
     "date": "20180310",
     "subject": 1,
@@ -5590,23 +4961,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 365,
-    "date": "20180310",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 19,
-    "question": "다음 설명에 해당하는 OSI 7 계층으로 알맞은 것은?",
-    "choices": {
-      "1": "네트워크 계층",
-      "2": "전송 계층",
-      "3": "세션 계층",
-      "4": "표현 계층"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -5726,23 +5080,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 374,
-    "date": "20180310",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 30,
-    "question": "다음 중 설명하는 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "pwconv",
-      "2": "grpconv",
-      "3": "grpck",
-      "4": "pwck"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -5984,23 +5321,6 @@
     ]
   },
   {
-    "id": 390,
-    "date": "20180310",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "lpc",
-      "2": "lpinfo",
-      "3": "lpstat",
-      "4": "lpadmin"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 391,
     "date": "20180310",
     "subject": 2,
@@ -6032,23 +5352,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 393,
-    "date": "20180310",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 54,
-    "question": "다음 설명하는 내용에 알맞은 것은?",
-    "choices": {
-      "1": "asyslog",
-      "2": "rsyslog",
-      "3": "msyslog",
-      "4": "vsyslog"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -6137,23 +5440,6 @@
     ]
   },
   {
-    "id": 399,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 61,
-    "question": "다음에서 설명하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "virsh",
-      "2": "xm",
-      "3": "virt-manager",
-      "4": "virt-top"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 400,
     "date": "20180310",
     "subject": 3,
@@ -6219,23 +5505,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 404,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 66,
-    "question": "다음에서 설명하는 웹브라우저로 알맞은 것은?",
-    "choices": {
-      "1": "오페라(Opera)",
-      "2": "크롬(Chrome)",
-      "3": "사파리(Safari)",
-      "4": "파이어폭스(Firefox)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -6341,40 +5610,6 @@
     ]
   },
   {
-    "id": 411,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 74,
-    "question": "다음에서 설명하는 가상화의 종류로 알맞은 것은?",
-    "choices": {
-      "1": "전가상화",
-      "2": "반가상화",
-      "3": "호스트 기반 가상화",
-      "4": "하이 레벨 언어 가상화"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 412,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 75,
-    "question": "다음에서 설명하는 가상화의 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Xen",
-      "2": "KVM",
-      "3": "VirtualBox",
-      "4": "Docker"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 413,
     "date": "20180310",
     "subject": 3,
@@ -6389,23 +5624,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 414,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 77,
-    "question": "다음에서 설명하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Proxy",
-      "2": "Squid",
-      "3": "Xinetd",
-      "4": "TCP Wrapper"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -6630,23 +5848,6 @@
     ]
   },
   {
-    "id": 431,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 97,
-    "question": "다음 설명에 해당하는 침해 유형으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "DoS",
-      "2": "랜섬웨어",
-      "3": "트로이목마",
-      "4": "웜바이러스"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 432,
     "date": "20180310",
     "subject": 3,
@@ -6675,23 +5876,6 @@
       "2": "Stacheldraht",
       "3": "Trinoo",
       "4": "TFN"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 434,
-    "date": "20180310",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 100,
-    "question": "다음 설명에 해당하는 DoS 공격 기법으로 알맞은 것은?",
-    "choices": {
-      "1": "Smurf Attack",
-      "2": "Ping of Death",
-      "3": "Teardrop Attack",
-      "4": "Land Attack"
     },
     "answers": [
       1
@@ -6834,23 +6018,6 @@
     ]
   },
   {
-    "id": 445,
-    "date": "20180908",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 13,
-    "question": "다음에서 설명하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "init",
-      "2": "kde",
-      "3": "startx",
-      "4": "gnome"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 446,
     "date": "20180908",
     "subject": 1,
@@ -6930,23 +6097,6 @@
       "2": "255.255.255.64",
       "3": "255.255.255.128",
       "4": "255.255.255.192"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 451,
-    "date": "20180908",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 20,
-    "question": "다음 설명에 해당하는 관련 기구로 알맞은 것은?",
-    "choices": {
-      "1": "ISO",
-      "2": "EIA",
-      "3": "IEEE",
-      "4": "ICANN"
     },
     "answers": [
       4
@@ -7038,23 +6188,6 @@
     ]
   },
   {
-    "id": 459,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 29,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "ln /etc/www /usr/local/apache/htdocs",
-      "2": "ln -s /etc/www /usr/local/apache/htdocs",
-      "3": "ln /usr/local/apache/htdocs /etc/www",
-      "4": "ln -s /usr/local/apache/htdocs /etc/www"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 460,
     "date": "20180908",
     "subject": 2,
@@ -7069,23 +6202,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 461,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 32,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "gcc -c ps hack.c",
-      "2": "gcc -e ps hack.c",
-      "3": "gcc -o ps hack.c",
-      "4": "gcc -p ps hack.c"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -7276,23 +6392,6 @@
     ]
   },
   {
-    "id": 473,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 44,
-    "question": "다음에서 설명하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "make clean",
-      "2": "make depmod",
-      "3": "make mrproper",
-      "4": "make modprobe"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 474,
     "date": "20180908",
     "subject": 2,
@@ -7443,40 +6542,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 484,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 56,
-    "question": "다음 설명에 해당하는 백업 도구로 가장 알맞은 것은?",
-    "choices": {
-      "1": "dd",
-      "2": "cpio",
-      "3": "rsync",
-      "4": "dump"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 485,
-    "date": "20180908",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 57,
-    "question": "다음 설명에 해당하는 보안 도구로 알맞은 것은?",
-    "choices": {
-      "1": "Nessus",
-      "2": "GnuPG",
-      "3": "John the Ripper",
-      "4": "SELinux"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -8041,23 +7106,6 @@
     ]
   },
   {
-    "id": 520,
-    "date": "20180908",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 99,
-    "question": "다음 설명에 해당하는 공격으로 알맞은 것은?",
-    "choices": {
-      "1": "Denial of Service",
-      "2": "Distributed Denial of Service",
-      "3": "TCP SYN Flooding",
-      "4": "Teardrop Attack"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 521,
     "date": "20180908",
     "subject": 3,
@@ -8089,40 +7137,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 523,
-    "date": "20190316",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 2,
-    "question": "다음 설명에 해당하는 리눅스 배포판으로 알맞은 것은?",
-    "choices": {
-      "1": "Knoppix",
-      "2": "BackTrack",
-      "3": "Kali Linux",
-      "4": "Linux Mint"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 524,
-    "date": "20190316",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 라이선스로 알맞은 것은?",
-    "choices": {
-      "1": "GPL",
-      "2": "MPL",
-      "3": "BSD",
-      "4": "Apache"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -8908,23 +7922,6 @@
     ]
   },
   {
-    "id": 573,
-    "date": "20190316",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 60,
-    "question": "다음에서 설명하는 백업 유틸리티로 알맞은 것은?",
-    "choices": {
-      "1": "rcp",
-      "2": "cpio",
-      "3": "rsync",
-      "4": "restore"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 574,
     "date": "20190316",
     "subject": 3,
@@ -9044,23 +8041,6 @@
     ]
   },
   {
-    "id": 582,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 73,
-    "question": "다음 설명에 해당하는 메일 관련 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/aliases",
-      "2": "/etc/mail/access",
-      "3": "/etc/mail/virtusertable",
-      "4": "/etc/mail/local-host-names"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 583,
     "date": "20190316",
     "subject": 3,
@@ -9072,23 +8052,6 @@
       "2": "ihduser.ihd.or.kr.",
       "3": "ihduser@ihd.or.kr",
       "4": "ihduser@ihd.or.kr."
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 584,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 76,
-    "question": "다음 설명에 해당하는 가상화의 종류로 알맞은 것은?",
-    "choices": {
-      "1": "전가상화",
-      "2": "반가상화",
-      "3": "호스트 기반 가상화",
-      "4": "운영체제 레벨 가상화"
     },
     "answers": [
       2
@@ -9109,23 +8072,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 586,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 78,
-    "question": "다음 설명에 해당하는 가상화 기술로 알맞은 것은?",
-    "choices": {
-      "1": "KVM",
-      "2": "XEN",
-      "3": "Docker",
-      "4": "VirtualBox"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -9401,23 +8347,6 @@
     ]
   },
   {
-    "id": 606,
-    "date": "20190316",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 99,
-    "question": "다음 설명에 해당하는 공격 유형으로 알맞은 것은?",
-    "choices": {
-      "1": "TCP SYN Flooding",
-      "2": "Teardrop Attack",
-      "3": "Land Attack",
-      "4": "Smurf Attack"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 607,
     "date": "20190316",
     "subject": 3,
@@ -9469,23 +8398,6 @@
     ]
   },
   {
-    "id": 610,
-    "date": "20190921",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 리눅스 배포판은?",
-    "choices": {
-      "1": "Debian",
-      "2": "Fedora",
-      "3": "Redhat",
-      "4": "Ubuntu"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 611,
     "date": "20190921",
     "subject": 1,
@@ -9500,23 +8412,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 612,
-    "date": "20190921",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 5,
-    "question": "다음 설명에 해당하는 클라우드 서비스로 알맞은 것은?",
-    "choices": {
-      "1": "IaaS",
-      "2": "DaaS",
-      "3": "PaaS",
-      "4": "SaaS"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -9707,23 +8602,6 @@
     ]
   },
   {
-    "id": 625,
-    "date": "20190921",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 20,
-    "question": "다음에서 설명하는 것으로 알맞은 것은?",
-    "choices": {
-      "1": "IP 주소",
-      "2": "사설 IP 주소",
-      "3": "루프백 IP 주소",
-      "4": "멀티캐스트 주소"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 626,
     "date": "20190921",
     "subject": 2,
@@ -9803,23 +8681,6 @@
       "2": "stat",
       "3": "chage",
       "4": "touch"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 631,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 27,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/skel",
-      "2": "/etc/passwd",
-      "3": "/etc/login.defs",
-      "4": "/etc/default/useradd"
     },
     "answers": [
       4
@@ -10030,23 +8891,6 @@
     ]
   },
   {
-    "id": 646,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 44,
-    "question": "다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "OSS",
-      "2": "CUPS",
-      "3": "SANE",
-      "4": "ALSA"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 647,
     "date": "20190921",
     "subject": 2,
@@ -10075,23 +8919,6 @@
       "2": "modules.conf",
       "3": "modules.dep",
       "4": "modprobe.dep"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 649,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 47,
-    "question": "다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "OSS",
-      "2": "CUPS",
-      "3": "SANE",
-      "4": "ALSA"
     },
     "answers": [
       3
@@ -10132,23 +8959,6 @@
     ]
   },
   {
-    "id": 652,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 커널 컴파일 도구로 알맞은 것은?",
-    "choices": {
-      "1": "make config",
-      "2": "make xconfig",
-      "3": "make gconfig",
-      "4": "make menuconfig"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 654,
     "date": "20190921",
     "subject": 2,
@@ -10160,23 +8970,6 @@
       "2": "㉠ : ./ssh/authorized_keys ㉡ : ./ssh/id_rsa",
       "3": "㉠ : ./ssh/id_rsa.pub ㉡ : ./ssh/authorized_keys",
       "4": "㉠ : ./ssh/authorized_keys ㉡ : ./ssh/id_rsa.pub"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 655,
-    "date": "20190921",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 54,
-    "question": "다음에서 설명하는 백업 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "tar",
-      "2": "cpio",
-      "3": "dump",
-      "4": "restore"
     },
     "answers": [
       3
@@ -10404,23 +9197,6 @@
     ]
   },
   {
-    "id": 671,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 72,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "dovecot",
-      "2": "postfix",
-      "3": "procmail",
-      "4": "sendmail"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 672,
     "date": "20190921",
     "subject": 3,
@@ -10486,23 +9262,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 676,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 78,
-    "question": "다음 설명에 해당하는 가상화의 효과로 알맞은 것은?",
-    "choices": {
-      "1": "단일화(Aggregation)",
-      "2": "에뮬레이션(Emulation)",
-      "3": "절연(Insulation)",
-      "4": "프로비저닝(Provisioning)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -10693,40 +9452,6 @@
     ]
   },
   {
-    "id": 689,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 93,
-    "question": "다음 설명에 해당하는 가상화 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Openstack",
-      "2": "RHEV",
-      "3": "Docker",
-      "4": "VirtualBox"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 690,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 96,
-    "question": "다음 설명에 해당하는 보안 도구로 알맞은 것은?",
-    "choices": {
-      "1": "fail2ban",
-      "2": "Suricata",
-      "3": "sshguard",
-      "4": "DenyHosts"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 691,
     "date": "20190921",
     "subject": 3,
@@ -10741,40 +9466,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 693,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 99,
-    "question": "다음 설명에 해당하는 공격 유형으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "Brute Force",
-      "2": "Land Attack",
-      "3": "DDoS Attack",
-      "4": "TCP SYN Flooding"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 694,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 100,
-    "question": "다음 설명에 해당하는 공격 유형으로 알맞은 것은?",
-    "choices": {
-      "1": "SYN Flooding",
-      "2": "UDP Flooding",
-      "3": "ICMP Flooding",
-      "4": "Teardrop Attack"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -10880,23 +9571,6 @@
     ]
   },
   {
-    "id": 701,
-    "date": "20200613",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 8,
-    "question": "다음에서 설명하는 데몬 관련 유틸리티로 알맞은 것은?",
-    "choices": {
-      "1": "ntsysv",
-      "2": "chkdsk",
-      "3": "chkconfig",
-      "4": "systemctl"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 702,
     "date": "20200613",
     "subject": 1,
@@ -10962,23 +9636,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 707,
-    "date": "20200613",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 14,
-    "question": "다음에서 설명하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "initw",
-      "2": "initx",
-      "3": "startw",
-      "4": "startx"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -11061,23 +9718,6 @@
       "2": "ARP",
       "3": "UDP",
       "4": "ICMP"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 713,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 21,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "chmod u+s /data",
-      "2": "chmod g+s /data",
-      "3": "chmod o+s /data",
-      "4": "chmod o+t /data"
     },
     "answers": [
       4
@@ -11407,23 +10047,6 @@
     ]
   },
   {
-    "id": 736,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 48,
-    "question": "다음 설명에 해당하는 커널 컴파일 과정으로 알맞은 것은?",
-    "choices": {
-      "1": "make config",
-      "2": "make clean",
-      "3": "make mrproper",
-      "4": "make xconfig"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 738,
     "date": "20200613",
     "subject": 2,
@@ -11520,23 +10143,6 @@
       "2": "SHA-1",
       "3": "SHA-256",
       "4": "Blowfish"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 744,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 58,
-    "question": "다음에서 설명하는 보안 도구로 알맞은 것은?",
-    "choices": {
-      "1": "nmap",
-      "2": "nessus",
-      "3": "tripwire",
-      "4": "tcpdump"
     },
     "answers": [
       1
@@ -11798,23 +10404,6 @@
     ]
   },
   {
-    "id": 762,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 79,
-    "question": "다음 설명에 해당하는 가상화 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Xen",
-      "2": "KVM",
-      "3": "Docker",
-      "4": "Ansible"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 763,
     "date": "20200613",
     "subject": 3,
@@ -11934,23 +10523,6 @@
     ]
   },
   {
-    "id": 772,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 89,
-    "question": "다음 설명에 해당하는 가상화의 기능으로 알맞은 것은?",
-    "choices": {
-      "1": "단일화(Aggregation)",
-      "2": "에뮬레이션(Emulation)",
-      "3": "절연(Insulation)",
-      "4": "프로비저닝(Provisioning)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 773,
     "date": "20200613",
     "subject": 3,
@@ -12036,40 +10608,6 @@
     ]
   },
   {
-    "id": 778,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 96,
-    "question": "다음설명에 해당하는iptables의 테이블로알맞은 것은?",
-    "choices": {
-      "1": "raw",
-      "2": "nat",
-      "3": "filter",
-      "4": "mangle"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 779,
-    "date": "20200613",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 97,
-    "question": "다음 설명에 해당하는 공격 유형으로 알맞은 것은?",
-    "choices": {
-      "1": "UDP Flooding",
-      "2": "Land Attack",
-      "3": "Smurf Attack",
-      "4": "Teardrop Attack"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 780,
     "date": "20200613",
     "subject": 3,
@@ -12101,23 +10639,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 782,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 1,
-    "question": "다음 설명에 해당하는 라이선스로 알맞은 것은?",
-    "choices": {
-      "1": "GPL",
-      "2": "MPL",
-      "3": "BSD",
-      "4": "LGPL"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -12240,23 +10761,6 @@
     ]
   },
   {
-    "id": 790,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "exec",
-      "2": "inetd",
-      "3": "xinetd",
-      "4": "standalone"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 791,
     "date": "20201010",
     "subject": 1,
@@ -12356,23 +10860,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 797,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 20,
-    "question": "다음에서 설명하는 장치의 이름으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "Router",
-      "2": "Bridge",
-      "3": "Gateway",
-      "4": "Repeater"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -12869,23 +11356,6 @@
     ]
   },
   {
-    "id": 828,
-    "date": "20201010",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 59,
-    "question": "다음 설명에 해당하는 명령으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "dd",
-      "2": "cpio",
-      "3": "dump",
-      "4": "rsync"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 829,
     "date": "20201010",
     "subject": 2,
@@ -13070,23 +11540,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 841,
-    "date": "20201010",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 75,
-    "question": "다음 설명에 해당하는 가상화의 기능으로 알맞은 것은?",
-    "choices": {
-      "1": "단일화(Aggregation)",
-      "2": "에뮬레이션(Emulation)",
-      "3": "절연(Insulation)",
-      "4": "프로비저닝(Provisioning)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -13396,23 +11849,6 @@
     ]
   },
   {
-    "id": 860,
-    "date": "20201010",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 98,
-    "question": "다음에서설명하는네트워크침해유형으로알맞은것은?",
-    "choices": {
-      "1": "Land Attack",
-      "2": "Smurf Attack",
-      "3": "Teardrop Attack",
-      "4": "TCP SYN Flooding"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 861,
     "date": "20201010",
     "subject": 3,
@@ -13444,23 +11880,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 863,
-    "date": "20220312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 1,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/sysconfig/networks",
-      "3": "/etc/resolv.conf",
-      "4": "/etc/named.conf"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -13668,23 +12087,6 @@
     ]
   },
   {
-    "id": 877,
-    "date": "20220312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 18,
-    "question": "다음 설명에 해당하는 운영체제의 기술로 알맞은 것은?",
-    "choices": {
-      "1": "스왑",
-      "2": "파이프",
-      "3": "리다이렉션",
-      "4": "라이브러리"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 878,
     "date": "20220312",
     "subject": 1,
@@ -13699,23 +12101,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 879,
-    "date": "20220312",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 20,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Docker",
-      "2": "Ansible",
-      "3": "OpenStack",
-      "4": "Kubernetes"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -13821,23 +12206,6 @@
     ]
   },
   {
-    "id": 886,
-    "date": "20220312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 27,
-    "question": "다음 설명에 해당하는 로그 파일명으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "/var/log/messages",
-      "2": "/var/log/xferlog",
-      "3": "/var/log/boot.log",
-      "4": "/var/log/secure"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 887,
     "date": "20220312",
     "subject": 2,
@@ -13886,40 +12254,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 890,
-    "date": "20220312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 32,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "IPP",
-      "2": "ALSA",
-      "3": "CUPS",
-      "4": "XSANE"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 891,
-    "date": "20220312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 33,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은",
-    "choices": {
-      "1": "depmod",
-      "2": "insmod",
-      "3": "rmmod",
-      "4": "modprobe"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -14195,23 +12529,6 @@
     ]
   },
   {
-    "id": 908,
-    "date": "20220312",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 53,
-    "question": "다음 설명에 해당하는 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "ls",
-      "2": "touch",
-      "3": "stat",
-      "4": "file"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 909,
     "date": "20220312",
     "subject": 2,
@@ -14331,23 +12648,6 @@
     ]
   },
   {
-    "id": 916,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 62,
-    "question": "다음 설명에 해당하는 DoS 공격으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "가용 디스크 고갈",
-      "2": "가용 I-node 고갈",
-      "3": "가용 메모리 자원 고갈",
-      "4": "가용 프로세스 자원 고갈"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 917,
     "date": "20220312",
     "subject": 3,
@@ -14430,23 +12730,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 923,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 70,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "PROXY",
-      "2": "NTP",
-      "3": "VNC",
-      "4": "DHCP"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -14552,23 +12835,6 @@
     ]
   },
   {
-    "id": 930,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 78,
-    "question": "다음 설명에 해당하는 설정값으로 알맞은 것은 ?",
-    "choices": {
-      "1": "local_enable=NO",
-      "2": "local_enable=YES",
-      "3": "anonymous_enable=NO",
-      "4": "anonymous_enable=YES"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 931,
     "date": "20220312",
     "subject": 3,
@@ -14603,23 +12869,6 @@
     ]
   },
   {
-    "id": 933,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 84,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "Insulation",
-      "2": "Provisioning",
-      "3": "Emulation",
-      "4": "Aggregation"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 934,
     "date": "20220312",
     "subject": 3,
@@ -14651,23 +12900,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 937,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 88,
-    "question": "다음 설명에 해당하는 메일 관련 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/mail/access",
-      "2": "/etc/mail/local-host-names",
-      "3": "/etc/aliases",
-      "4": "/etc/mail/virtusertable"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -14773,23 +13005,6 @@
     ]
   },
   {
-    "id": 944,
-    "date": "20220312",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 97,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "IPC",
-      "2": "D-bus",
-      "3": "cgroups",
-      "4": "LXC"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 945,
     "date": "20220312",
     "subject": 3,
@@ -14838,40 +13053,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 949,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 라이선스로 알맞은 것은?",
-    "choices": {
-      "1": "Apache License",
-      "2": "LGPL",
-      "3": "BSD",
-      "4": "MPL"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 950,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 4,
-    "question": "다음 설명에 해당하는 리눅스 배포판으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "Rocky Linux",
-      "2": "CentOS",
-      "3": "Debian",
-      "4": "Ubuntu"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -14943,23 +13124,6 @@
     ]
   },
   {
-    "id": 956,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 13,
-    "question": "다음 설명에 해당하는 명칭으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "fork",
-      "2": "exec",
-      "3": "init",
-      "4": "systemd"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 957,
     "date": "20230311",
     "subject": 1,
@@ -15011,23 +13175,6 @@
     ]
   },
   {
-    "id": 960,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 17,
-    "question": "다음 설명에 해당하는 기관으로 알맞은 것은?",
-    "choices": {
-      "1": "ICANN",
-      "2": "IANA",
-      "3": "IEEE",
-      "4": "ISO"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 961,
     "date": "20230311",
     "subject": 1,
@@ -15042,23 +13189,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 962,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 실무의 이해",
-    "question_no": 19,
-    "question": "다음 설명에 해당하는 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "ip",
-      "2": "arp",
-      "3": "ifconfig",
-      "4": "ethtool"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -15147,23 +13277,6 @@
     ]
   },
   {
-    "id": 969,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 27,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "ln /var/www/html /usr/local/apache/htdocs",
-      "2": "ln –s /var/www/html /usr/local/apache/htdocs",
-      "3": "ln /usr/local/apache/htdocs /var/www/html",
-      "4": "ln –s /usr/local/apache/htdocs /var/www/html"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 970,
     "date": "20230311",
     "subject": 2,
@@ -15229,23 +13342,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 976,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 34,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "bg 513",
-      "2": "bg 3",
-      "3": "fg 513",
-      "4": "fg 3"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -15504,23 +13600,6 @@
     ]
   },
   {
-    "id": 992,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 54,
-    "question": "다음 설명에 해당하는 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "last",
-      "2": "lastlog",
-      "3": "demesg",
-      "4": "logger"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 993,
     "date": "20230311",
     "subject": 2,
@@ -15555,23 +13634,6 @@
     ]
   },
   {
-    "id": 995,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 시스템 관리",
-    "question_no": 57,
-    "question": "다음 설명에 해당하는 보안 도구로 알맞은 것은?",
-    "choices": {
-      "1": "nessus",
-      "2": "tripwire",
-      "3": "GnuPG",
-      "4": "wireshark"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 996,
     "date": "20230311",
     "subject": 2,
@@ -15603,23 +13665,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 998,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 61,
-    "question": "다음 설명에 해당하는 웹 서버 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "IIS",
-      "2": "GWS",
-      "3": "Nginx",
-      "4": "Apache HTTP Server"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -15980,40 +14025,6 @@
     ]
   },
   {
-    "id": 1021,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 87,
-    "question": "다음 설명에 해당하는 가상화 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "XEN",
-      "2": "KVM",
-      "3": "Hyper-V",
-      "4": "VirtualBox"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 1022,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 88,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Docker",
-      "2": "CoreOS",
-      "3": "Kubernetes",
-      "4": "Openstack"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 1023,
     "date": "20230311",
     "subject": 3,
@@ -16130,23 +14141,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 1032,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "네트워크 및 서비스의 활용",
-    "question_no": 100,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "nftables",
-      "2": "lokkit",
-      "3": "ipchains",
-      "4": "firewall-cmd"
-    },
-    "answers": [
-      1
     ]
   }
 ]

@@ -222,23 +222,6 @@
     ]
   },
   {
-    "id": 15,
-    "date": "20160924",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 18,
-    "question": "다음 설명에 해당되는 공격 유형은?",
-    "choices": {
-      "1": "Stack Based Buffer Overflow",
-      "2": "Format String",
-      "3": "Race Condition",
-      "4": "Synchronization"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 16,
     "date": "20160924",
     "subject": 1,
@@ -338,23 +321,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 22,
-    "date": "20160924",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 25,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "Network Access Control",
-      "2": "Network Management System",
-      "3": "Enterprise Security Management",
-      "4": "Unigied Threat Manager"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -749,23 +715,6 @@
     ]
   },
   {
-    "id": 46,
-    "date": "20160924",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 53,
-    "question": "다음 설명에 해당하는 것은?",
-    "choices": {
-      "1": "PGP(Pretty Good Privacy)",
-      "2": "PKI(Public-Key Infrastructure)",
-      "3": "MIME(Multipurpose Internet Mail Extensions)",
-      "4": "IKE(lnternet Key Exchange)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 47,
     "date": "20160924",
     "subject": 3,
@@ -1106,23 +1055,6 @@
     ]
   },
   {
-    "id": 68,
-    "date": "20160924",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 79,
-    "question": "다음에서 설명하는 블록 암호 공격 기법은?",
-    "choices": {
-      "1": "차분 공격",
-      "2": "선형 공격",
-      "3": "통계적 분석",
-      "4": "치환 공격"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 69,
     "date": "20160924",
     "subject": 4,
@@ -1137,23 +1069,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 70,
-    "date": "20160924",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 81,
-    "question": "지문에서 설명하는 위험분석 방법은 무엇인가?",
-    "choices": {
-      "1": "연간예상손실 계산법",
-      "2": "과거 통계자료 분석법",
-      "3": "델파이법",
-      "4": "시나리오 기반 분석법"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -1463,23 +1378,6 @@
     ]
   },
   {
-    "id": 89,
-    "date": "20170325",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 4,
-    "question": "다음 지문이 설명하는 데이터베이스 보안유형은 무엇인가?",
-    "choices": {
-      "1": "Access Control",
-      "2": "Encryption",
-      "3": "Views",
-      "4": "Authorization Rules"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 90,
     "date": "20170325",
     "subject": 1,
@@ -1786,23 +1684,6 @@
     ]
   },
   {
-    "id": 109,
-    "date": "20170325",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 28,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "Stacheldraht",
-      "2": "Targa",
-      "3": "Bonk",
-      "4": "Boink"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 110,
     "date": "20170325",
     "subject": 2,
@@ -1854,23 +1735,6 @@
     ]
   },
   {
-    "id": 113,
-    "date": "20170325",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 33,
-    "question": "다음 보기가 설명하는 공격은?",
-    "choices": {
-      "1": "Land 공격",
-      "2": "Targa 공격",
-      "3": "Ping of Death 공격",
-      "4": "Smurf 공격"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 114,
     "date": "20170325",
     "subject": 2,
@@ -1902,23 +1766,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 116,
-    "date": "20170325",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 37,
-    "question": "다음 설명에 해당하는 시스템은?",
-    "choices": {
-      "1": "NAC(Network Access Control)",
-      "2": "ESM(Enterprise Security Management)",
-      "3": "SIEM(Security Information Event Management)",
-      "4": "APT(Advanced Persistent Threat)"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -2398,23 +2245,6 @@
     ]
   },
   {
-    "id": 146,
-    "date": "20170325",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 71,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "Diffie-Hellman Protocol",
-      "2": "Kerberos Protocol",
-      "3": "Needham-schroeder Protocol",
-      "4": "SET Protocol"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 147,
     "date": "20170325",
     "subject": 4,
@@ -2463,23 +2293,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 151,
-    "date": "20170325",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 76,
-    "question": "다음 지문이 설명하는 검증제도는?",
-    "choices": {
-      "1": "KCMVP 검중지제도",
-      "2": "V&V 검중재도",
-      "3": "NET 검증제도",
-      "4": "CAVP 감중제도"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -2704,23 +2517,6 @@
     ]
   },
   {
-    "id": 166,
-    "date": "20170325",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 93,
-    "question": "다음 지문이 설명하는 인증제도는?",
-    "choices": {
-      "1": "CC(Common Criteria)",
-      "2": "ITSEC",
-      "3": "BS7799",
-      "4": "ISMS"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 167,
     "date": "20170325",
     "subject": 5,
@@ -2823,23 +2619,6 @@
     ]
   },
   {
-    "id": 173,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 1,
-    "question": "다음 지문에서 설명하는 RAID 레벨은 무엇인가?",
-    "choices": {
-      "1": "(가)RAID-0, (나)RAID-5",
-      "2": "(가)RAID-1, (나)RAID-5",
-      "3": "(가)RAID-1, (나)RAID-4",
-      "4": "(가)RAID-2, (나)RAID-4"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 174,
     "date": "20170909",
     "subject": 1,
@@ -2888,23 +2667,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 177,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 5,
-    "question": "다음 지문에서 설명하는 공격은?",
-    "choices": {
-      "1": "스택 버퍼 오버플러우",
-      "2": "레이스 컨디셔닝",
-      "3": "힙 버퍼 오버플로우",
-      "4": "RTL(Return To Libc)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3010,23 +2772,6 @@
     ]
   },
   {
-    "id": 185,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 15,
-    "question": "논리폭탄에 대한 특징을 설명하고 있는것은?",
-    "choices": {
-      "1": "프로그래머나 시스템 관리자가 그들만이 사용할 수 있도 록 소프트웨어에 보안 hole을 만들어 놓는다.",
-      "2": "컴파일러 개발자가 컴파일러 안에 악성코드를 삽입하여 유포함으로써, 소프트웨어의 소스코드에서는 악성코드를 찾을 수 없도록 하였다.",
-      "3": "프로그램 환경변수들이 사전 정의된 값과 일치되면 악성 행위를 수행 한다.",
-      "4": "자기 복제기능을 갖고 있다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 186,
     "date": "20170909",
     "subject": 1,
@@ -3092,23 +2837,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 190,
-    "date": "20170909",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 20,
-    "question": "다음 지문에서 설명하고 있는 공격은?",
-    "choices": {
-      "1": "ICMP Redirect",
-      "2": "ARP Redirect",
-      "3": "Switch Jamming",
-      "4": "ARP Spoofing"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3313,23 +3041,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 204,
-    "date": "20170909",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 36,
-    "question": "다음에 설명하는 유닉스 파일시스템의 영역은 무엇인가?",
-    "choices": {
-      "1": "boot 블록",
-      "2": "super 블록",
-      "3": "inode 블록",
-      "4": "data 블록"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3877,23 +3588,6 @@
     ]
   },
   {
-    "id": 237,
-    "date": "20170909",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 75,
-    "question": "다음 지문이 설명하고 있는 암호 분석 공격은?",
-    "choices": {
-      "1": "암호문 단독 공격",
-      "2": "기지 평문 공격",
-      "3": "선택 암호문 공격",
-      "4": "선택 평문 공격"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 238,
     "date": "20170909",
     "subject": 4,
@@ -4010,23 +3704,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 245,
-    "date": "20170909",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 85,
-    "question": "다음 지문은 무엇을 설명하고 있는가?",
-    "choices": {
-      "1": "정보보호 관리자",
-      "2": "비상상황관리 위원회",
-      "3": "시스템 관리자",
-      "4": "현업 관리자"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -4370,23 +4047,6 @@
     ]
   },
   {
-    "id": 266,
-    "date": "20190323",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 7,
-    "question": "다음 지문에서 설명하는 크래킹 방법은?",
-    "choices": {
-      "1": "Rainbow Table Attack",
-      "2": "Dictionary Attack",
-      "3": "Brute Force Attack",
-      "4": "Hash Attack"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 267,
     "date": "20190323",
     "subject": 1,
@@ -4472,23 +4132,6 @@
     ]
   },
   {
-    "id": 272,
-    "date": "20190323",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 15,
-    "question": "다음 지문에서 설명하고 있는 것은?",
-    "choices": {
-      "1": "sudo",
-      "2": "PAM",
-      "3": "Shell script",
-      "4": "Batch file"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 273,
     "date": "20190323",
     "subject": 1,
@@ -4523,23 +4166,6 @@
     ]
   },
   {
-    "id": 275,
-    "date": "20190323",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 18,
-    "question": "다음 지문에서 설명하는 것은?",
-    "choices": {
-      "1": "wireshark",
-      "2": "tripwire",
-      "3": "snort",
-      "4": "iptables"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 276,
     "date": "20190323",
     "subject": 1,
@@ -4551,23 +4177,6 @@
       "2": "0 10 * * 6 mytest",
       "3": "0 10 * 6 * mytest",
       "4": "0 * * 10 6 mytest"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 277,
-    "date": "20190323",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 21,
-    "question": "다음 지문에서 설명하고 있는 보안 기술은?",
-    "choices": {
-      "1": "DRM",
-      "2": "DLP",
-      "3": "IPS",
-      "4": "Firewall"
     },
     "answers": [
       2
@@ -4710,23 +4319,6 @@
     ]
   },
   {
-    "id": 287,
-    "date": "20190323",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 31,
-    "question": "다음 지문에서 설명하는 DDoS 공격은?",
-    "choices": {
-      "1": "UDP Flooding",
-      "2": "SYN Flooding",
-      "3": "Slow Header Flooding",
-      "4": "ICMP Flooding"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 288,
     "date": "20190323",
     "subject": 2,
@@ -4829,23 +4421,6 @@
     ]
   },
   {
-    "id": 294,
-    "date": "20190323",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 39,
-    "question": "다음 지문이 설명하는 컴퓨팅 기술은? <17.10회.기사>",
-    "choices": {
-      "1": "마스터/슬레이브",
-      "2": "클라이언트/서버",
-      "3": "클라우드",
-      "4": "피어 투 피어"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 295,
     "date": "20190323",
     "subject": 2,
@@ -4857,23 +4432,6 @@
       "2": "㉠ Infrastructure ㉡ Ad Hoc",
       "3": "㉠ APD ㉡ Peer to Peer",
       "4": "㉠ VPN ㉡ Peer to Peer"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 296,
-    "date": "20190323",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 41,
-    "question": "다음 지문에서 설명하고 있는 공격은?",
-    "choices": {
-      "1": "port attack",
-      "2": "bounce attack",
-      "3": "IP Spoofing",
-      "4": "port scan"
     },
     "answers": [
       2
@@ -5050,23 +4608,6 @@
     ]
   },
   {
-    "id": 307,
-    "date": "20190323",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 52,
-    "question": "다음에서 설명하는 웹 서비스 공격은?",
-    "choices": {
-      "1": "직접 객체 참조",
-      "2": "Cross Site Request Forgery",
-      "3": "Cross Site Scripting",
-      "4": "SQL Injection"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 308,
     "date": "20190323",
     "subject": 3,
@@ -5135,23 +4676,6 @@
     ]
   },
   {
-    "id": 312,
-    "date": "20190323",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 58,
-    "question": "다음 지문에서 설명하는 테스트 방식은?",
-    "choices": {
-      "1": "시스템 하드닝",
-      "2": "코드 리뷰",
-      "3": "블랙박스 테스트",
-      "4": "화이트박스 테스트"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 313,
     "date": "20190323",
     "subject": 3,
@@ -5200,23 +4724,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 316,
-    "date": "20190323",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 63,
-    "question": "다음 지문에서 설명하는 대칭키 암호 공격방식은?",
-    "choices": {
-      "1": "선형 공격",
-      "2": "차분 공격",
-      "3": "통계적 분석",
-      "4": "전수 공격"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -5968,23 +5475,6 @@
     ]
   },
   {
-    "id": 362,
-    "date": "20190907",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 17,
-    "question": "다음 지문에서 설명하는 파일시스템으로 옳은 것은?",
-    "choices": {
-      "1": "FAT16",
-      "2": "FAT32",
-      "3": "NTFS",
-      "4": "EXT"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 363,
     "date": "20190907",
     "subject": 1,
@@ -6237,23 +5727,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 379,
-    "date": "20190907",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 36,
-    "question": "다음 설명에 해당하는 시스템은?",
-    "choices": {
-      "1": "NAC",
-      "2": "ESM",
-      "3": "SIEM",
-      "4": "IDS"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -6543,23 +6016,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 397,
-    "date": "20190907",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 55,
-    "question": "다음 지문에서 설명하는 웹 서버 애플리케이션의 취약점은?",
-    "choices": {
-      "1": "SQL Injection",
-      "2": "Buffer Overflow",
-      "3": "Security Misconfiguration",
-      "4": "Cross-Site Scripting(XSS)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -7379,23 +6835,6 @@
     ]
   },
   {
-    "id": 446,
-    "date": "20200530",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 11,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "Kerberos",
-      "2": "OAuth",
-      "3": "EAP",
-      "4": "RADIUS"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 447,
     "date": "20200530",
     "subject": 1,
@@ -7430,23 +6869,6 @@
     ]
   },
   {
-    "id": 449,
-    "date": "20200530",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 15,
-    "question": "다음 지문에서 설명하고 있는 것은?",
-    "choices": {
-      "1": "S/Key 인증",
-      "2": "RADIUS",
-      "3": "Challenge Response",
-      "4": "Kerberos"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 450,
     "date": "20200530",
     "subject": 1,
@@ -7461,23 +6883,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 451,
-    "date": "20200530",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 18,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "CryptoCurrency Hijacking",
-      "2": "CryptoCurrency Jacking",
-      "3": "Currency Hijacking",
-      "4": "CryptoJacking"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -7529,23 +6934,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 455,
-    "date": "20200530",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 23,
-    "question": "다음 지문에서 설명하는 네트워크 기술은?",
-    "choices": {
-      "1": "Bypass",
-      "2": "LLCF",
-      "3": "Failover",
-      "4": "DPDK"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -7991,40 +7379,6 @@
     ]
   },
   {
-    "id": 483,
-    "date": "20200530",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 56,
-    "question": "다음 지문에서 설명하는 웹 공격 기법은?",
-    "choices": {
-      "1": "SQL Injection 공격",
-      "2": "역직렬화 공격",
-      "3": "CSRF 공격",
-      "4": "디렉터리 리스팅(Directory Listing) 공격"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 484,
-    "date": "20200530",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 57,
-    "question": "다음 지문에서 설명하는 것은?",
-    "choices": {
-      "1": "DRM",
-      "2": "DOI",
-      "3": "스테가노그래피",
-      "4": "워터마킹"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 485,
     "date": "20200530",
     "subject": 3,
@@ -8070,40 +7424,6 @@
       "2": "인터프리터 방식을 회피한다.",
       "3": "사용자 입력 값을 모두 Encoding 하여 유효성을 검증한 다.",
       "4": "현재 쓰고 있는 웹브라우저를 업그레이드 하거나, 다른 것으로 바꾼다."
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 488,
-    "date": "20200530",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 61,
-    "question": "다음 지문에서 설명하는 정보보호 용어는?",
-    "choices": {
-      "1": "위협(threat)",
-      "2": "취약점(vulnerability)",
-      "3": "자산(asset)",
-      "4": "위험(risk)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 489,
-    "date": "20200530",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 62,
-    "question": "다음 지문에서 설명하고 있는 원칙은?",
-    "choices": {
-      "1": "직무 순환",
-      "2": "상호 배제",
-      "3": "책임추적성 보장",
-      "4": "직무 분리"
     },
     "answers": [
       4
@@ -8195,23 +7515,6 @@
     ]
   },
   {
-    "id": 495,
-    "date": "20200530",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 69,
-    "question": "다음 지문에서 설명하는 접근통제 모델은?",
-    "choices": {
-      "1": "강제적 접근통제 모델",
-      "2": "규칙기반 접근통제 모델",
-      "3": "역할기반 접근통제 모델",
-      "4": "임의적 접근통제 모델"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 496,
     "date": "20200530",
     "subject": 4,
@@ -8280,23 +7583,6 @@
     ]
   },
   {
-    "id": 500,
-    "date": "20200530",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 75,
-    "question": "ⓐ, ⓑ 각각이 설명하는 서명 방식은 무엇인가?",
-    "choices": {
-      "1": "ⓐ 이중서명 ⓑ 정규서명",
-      "2": "ⓐ 이중서명 ⓑ 분할서명",
-      "3": "ⓐ 은닉서명 ⓑ 분할서명",
-      "4": "ⓐ 은닉서명 ⓑ 이중서명"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 501,
     "date": "20200530",
     "subject": 4,
@@ -8328,23 +7614,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 503,
-    "date": "20200530",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 79,
-    "question": "다음 지문에서 설명하고 있는 대칭키 암호 알고리즘은?",
-    "choices": {
-      "1": "SEED",
-      "2": "DES",
-      "3": "SHA-1",
-      "4": "IDEA"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -8393,23 +7662,6 @@
       "2": "고유식별번호",
       "3": "바이오 정보",
       "4": "전화번호"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 507,
-    "date": "20200530",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 83,
-    "question": "아래 지문에서 설명하고 있는 것은 무엇인가?",
-    "choices": {
-      "1": "정성적 위험분석",
-      "2": "정량적 위험분석",
-      "3": "상세 위험분석",
-      "4": "베이스라인 접근법"
     },
     "answers": [
       4
@@ -8705,23 +7957,6 @@
     ]
   },
   {
-    "id": 526,
-    "date": "20200905",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 5,
-    "question": "다음 지문이 설명하는 파일 시스템은?",
-    "choices": {
-      "1": "exFAT(Extended File Allocation Table)",
-      "2": "ext4(extended file system)",
-      "3": "HFS(Hierarchical File System)",
-      "4": "ReFS(Resilient File System)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 527,
     "date": "20200905",
     "subject": 1,
@@ -8753,23 +7988,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 529,
-    "date": "20200905",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 8,
-    "question": "다음 지문에서 설명하는 파일은?",
-    "choices": {
-      "1": "mediarun.msc",
-      "2": "activerun.inf",
-      "3": "autorun.inf",
-      "4": "execute.inf"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -9008,57 +8226,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 545,
-    "date": "20200905",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 28,
-    "question": "다음 지문에서 설명하는 것은?",
-    "choices": {
-      "1": "페트야 공격(Patya Attack)",
-      "2": "이터널블루 공격(EternalBlue Attack)",
-      "3": "공급망 공격(Supply Chain Attack)",
-      "4": "갠드크랩 공격(GandCrab Attack)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 546,
-    "date": "20200905",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 30,
-    "question": "다음 지문에서 설명하는 용어는?",
-    "choices": {
-      "1": "멀버타이징(Malvertising)",
-      "2": "익스플로잇(Exploit)",
-      "3": "사이버 킬 체인(Cyber Kill Chain)",
-      "4": "사이버 위협 인텔리젼스(CTI)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 547,
-    "date": "20200905",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 31,
-    "question": "다음 지문에서 설명하는 용어는?",
-    "choices": {
-      "1": "HA(High Availability)",
-      "2": "Null Routing",
-      "3": "Cut-Through",
-      "4": "Load Balancing"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -9382,23 +8549,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 567,
-    "date": "20200905",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 54,
-    "question": "다음 지문에서 설명하는 공격 기법은 무엇인가?",
-    "choices": {
-      "1": "Bounce 공격",
-      "2": "XSS 공격",
-      "3": "Anonymous FTP 공격",
-      "4": "디렉터리 리스팅 공격"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -9810,23 +8960,6 @@
     ]
   },
   {
-    "id": 593,
-    "date": "20200905",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 83,
-    "question": "다음 지문이 설명하는 것은?",
-    "choices": {
-      "1": "업무연속성관리체계",
-      "2": "재난복구체계",
-      "3": "보안성평가체계",
-      "4": "정보보호관리체계"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 594,
     "date": "20200905",
     "subject": 5,
@@ -10116,23 +9249,6 @@
     ]
   },
   {
-    "id": 611,
-    "date": "20210327",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 5,
-    "question": "다음 지문이 설명하는 파일 시스템은?",
-    "choices": {
-      "1": "exFAT(Extended File Allocation Table)",
-      "2": "ext4(extended file system)",
-      "3": "HFS(Hierarchical File System)",
-      "4": "ReFS(Resilient File System)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 612,
     "date": "20210327",
     "subject": 1,
@@ -10164,40 +9280,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 614,
-    "date": "20210327",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 9,
-    "question": "다음 지문에서 설명하는 파일은 무엇인가?",
-    "choices": {
-      "1": "hosts.equiv",
-      "2": "hosts",
-      "3": "inetd.conf",
-      "4": "shadow"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 615,
-    "date": "20210327",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 10,
-    "question": "다음 지문에서 설명하는 것은?",
-    "choices": {
-      "1": "Session",
-      "2": "Web Beacon",
-      "3": "Super Cookie",
-      "4": "History Stealing"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -10269,23 +9351,6 @@
     ]
   },
   {
-    "id": 620,
-    "date": "20210327",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 16,
-    "question": "다음 지문에서 설명하고 있는 공격은 무엇인가?",
-    "choices": {
-      "1": "스펙터",
-      "2": "캐시 포이즈닝",
-      "3": "멜트다운",
-      "4": "미라이"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 621,
     "date": "20210327",
     "subject": 1,
@@ -10351,23 +9416,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 625,
-    "date": "20210327",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 23,
-    "question": "지문에서 설명하고 있는 것은?",
-    "choices": {
-      "1": "NFV(Network Function Virtualization)",
-      "2": "MDR(Managed Detection &Response)",
-      "3": "EDR(Endpoint Detection &Response)",
-      "4": "SDN(Software Defined Networking)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -10592,23 +9640,6 @@
     ]
   },
   {
-    "id": 640,
-    "date": "20210327",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 41,
-    "question": "다음 지문에서 설명하는 DRM 기술은 무엇인가?",
-    "choices": {
-      "1": "DOI",
-      "2": "핑거프린팅",
-      "3": "안티탬퍼링 기술",
-      "4": "워터마킹"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 641,
     "date": "20210327",
     "subject": 3,
@@ -10623,23 +9654,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 642,
-    "date": "20210327",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 43,
-    "question": "다음 지문에서 설명하고 있는 DNS 구성요소는?",
-    "choices": {
-      "1": "whois 클라이언트",
-      "2": "리소스 레코드 에이전트",
-      "3": "도메인 제어기",
-      "4": "리졸버"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -10694,23 +9708,6 @@
     ]
   },
   {
-    "id": 647,
-    "date": "20210327",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 48,
-    "question": "다음 지문에서 설명하는 서명 방식은?",
-    "choices": {
-      "1": "이중 서명",
-      "2": "은닉 서명",
-      "3": "비밀 서명",
-      "4": "지불 서명"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 648,
     "date": "20210327",
     "subject": 3,
@@ -10756,23 +9753,6 @@
       "2": "HTTP 공격 패킷 탐지 및 차단",
       "3": "웹 서버 오류 필터링 및 기밀 정보 유출 차단",
       "4": "IP 주소와 포트 기반 패킷 탐지 및 차단"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 652,
-    "date": "20210327",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 54,
-    "question": "다음 지문에서 설명하고 있는 원칙으로 적절한 것은?",
-    "choices": {
-      "1": "재현의 원칙",
-      "2": "무결성의 원칙",
-      "3": "정당성의 원칙",
-      "4": "연계보관성의 원칙"
     },
     "answers": [
       4
@@ -11442,23 +10422,6 @@
     ]
   },
   {
-    "id": 692,
-    "date": "20210904",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 2,
-    "question": "다음 지문에서 설명하는 공격은 무엇인가?",
-    "choices": {
-      "1": "힙 오버플로우 공격",
-      "2": "레이스 컨디션 공격",
-      "3": "스택 오버플로우 공격",
-      "4": "코드 기반 공격"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 693,
     "date": "20210904",
     "subject": 1,
@@ -11521,23 +10484,6 @@
       "2": "CHS",
       "3": "클러스터",
       "4": "확장 공간"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 697,
-    "date": "20210904",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 8,
-    "question": "다음 지문에서 설명하고 있는 시스템 보안은?",
-    "choices": {
-      "1": "TPM",
-      "2": "SRM",
-      "3": "SAM",
-      "4": "SID"
     },
     "answers": [
       1
@@ -11663,23 +10609,6 @@
     ]
   },
   {
-    "id": 706,
-    "date": "20210904",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 17,
-    "question": "다음에서 설명하고 있는 것은 무엇인가?",
-    "choices": {
-      "1": "sudo",
-      "2": "PAM",
-      "3": "Batch file",
-      "4": "Shell script"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 707,
     "date": "20210904",
     "subject": 1,
@@ -11711,57 +10640,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 709,
-    "date": "20210904",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 20,
-    "question": "다음 지문에서 설명하고 있는 안전한 보안 인증 방식은?",
-    "choices": {
-      "1": "SSH(Secure Shell)",
-      "2": "SAM(Secure Access Module)",
-      "3": "SSO(Single Sign On)",
-      "4": "PAM(Pluggable Authentication Module)"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 711,
-    "date": "20210904",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 22,
-    "question": "다음 지문에서 설명하는 공격 대응 방법은 무엇인가?",
-    "choices": {
-      "1": "DNS 라우팅",
-      "2": "DNS 스푸핑",
-      "3": "DNS 웜홀",
-      "4": "DNS 싱크홀"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 712,
-    "date": "20210904",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 24,
-    "question": "다음 지문에서 설명하는 용어는 무엇인가?",
-    "choices": {
-      "1": "HSM",
-      "2": "비트라커",
-      "3": "OTP",
-      "4": "TCB"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -11830,23 +10708,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 718,
-    "date": "20210904",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 31,
-    "question": "다음 지문에서 설명하는 ICMP 메시지 타입은?",
-    "choices": {
-      "1": "Source Quench",
-      "2": "Destination Unreachable",
-      "3": "Time Exceeded",
-      "4": "Parameter Problem"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -11966,23 +10827,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 726,
-    "date": "20210904",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 41,
-    "question": "다음 지문에서 설명하고 있는 API는?",
-    "choices": {
-      "1": "WebCrypto API",
-      "2": "REST API",
-      "3": "SOAP API",
-      "4": "Indexing API"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -12204,74 +11048,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 740,
-    "date": "20210904",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 57,
-    "question": "다음 지문이 설명하는 소프트웨어 보안 약점을 고르면?",
-    "choices": {
-      "1": "크로스사이트 요청 위조 공격(CSRF)",
-      "2": "크로스 사이트 스크립트(XSS)",
-      "3": "경로 조작 및 자원 삽입",
-      "4": "SQL 삽입"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 741,
-    "date": "20210904",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 58,
-    "question": "다음 지문에서 설명하는 것은?",
-    "choices": {
-      "1": "이상행위 탐지시스템(FDS)",
-      "2": "침입탐지시스템(IDS)",
-      "3": "블록체인(Blockchain)",
-      "4": "SET(Secure Electronic Transaction)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 742,
-    "date": "20210904",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 60,
-    "question": "다음 지문에서 설명하는 보안 기술은 무엇인가?",
-    "choices": {
-      "1": "SOAP(Security Orchestration Automation Platform)",
-      "2": "SOAR(Security Orchestration Automation and Response)",
-      "3": "SIEM(Security Information and Events Management)",
-      "4": "UEBA(User and Entity Behavior Analytics)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 743,
-    "date": "20210904",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 61,
-    "question": "다음 지문이 설명하고 있는 암호 공격방식은?",
-    "choices": {
-      "1": "암호문 단독 공격",
-      "2": "기지 평문 공격",
-      "3": "선택 평문 공격",
-      "4": "선택 암호문 공격"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -12507,23 +11283,6 @@
       "2": "Hash",
       "3": "Nonce",
       "4": "Timestamp"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 758,
-    "date": "20210904",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 79,
-    "question": "다음 지문에서 설명하는 것은?",
-    "choices": {
-      "1": "SSO(Single Sign On)",
-      "2": "OAuth",
-      "3": "OpenID",
-      "4": "OIDC(OpenID Connect)"
     },
     "answers": [
       2
@@ -13295,23 +12054,6 @@
     ]
   },
   {
-    "id": 805,
-    "date": "20220313",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 36,
-    "question": "다음 문장에서 설명하고 있는 것은 무엇인가?",
-    "choices": {
-      "1": "Intrusion Prevention System",
-      "2": "Screened Subnet",
-      "3": "Knowledge-Base IDS",
-      "4": "Singature-Base IDS"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 806,
     "date": "20220313",
     "subject": 2,
@@ -13482,23 +12224,6 @@
     ]
   },
   {
-    "id": 816,
-    "date": "20220313",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 50,
-    "question": "다음 문장에서 설명하는 데이터베이스 보안 솔루션 종류는?",
-    "choices": {
-      "1": "데이터베이스 백업 솔루션",
-      "2": "데이터베이스 감사 솔루션",
-      "3": "데이터베이스 암호화 솔루션",
-      "4": "데이터베이스 접근 제어 솔루션"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 817,
     "date": "20220313",
     "subject": 3,
@@ -13550,23 +12275,6 @@
     ]
   },
   {
-    "id": 820,
-    "date": "20220313",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 55,
-    "question": "다음 문장에서 설명하는 것은?",
-    "choices": {
-      "1": "이상행위 탐지시스템(FDS)",
-      "2": "침입탐지시스템(IDS)",
-      "3": "블록체인(Blockchain)",
-      "4": "SET(Secure Electronic Transaction)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 821,
     "date": "20220313",
     "subject": 3,
@@ -13615,23 +12323,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 824,
-    "date": "20220313",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 60,
-    "question": "취약점 제거를 위해 보안사항을 고려하여 안전한 코드를 작 성하였다. 다음 코드를 통해 차단할 수 있는 보안취약점은 무엇인가?",
-    "choices": {
-      "1": "SQL Injection 취약점",
-      "2": "XSS(Cross Site Scripting)",
-      "3": "부적절한 에러처리를 통해 정보 노출",
-      "4": "경로 조작(Path Traversal) 취약점"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -13856,23 +12547,6 @@
     ]
   },
   {
-    "id": 838,
-    "date": "20220313",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 77,
-    "question": "다음 문장은 어떤 인증기법을 설명하고 있는가?",
-    "choices": {
-      "1": "IEEE 802.1x",
-      "2": "IEEE 802.11i",
-      "3": "Wifi Protected Acces",
-      "4": "Extensible Authentication Protocol"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 839,
     "date": "20220313",
     "subject": 4,
@@ -13904,23 +12578,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 841,
-    "date": "20220313",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 80,
-    "question": "다음에서 설명하는 블랙암호 알고리즘은 무엇인가?",
-    "choices": {
-      "1": "SEED",
-      "2": "HIGHT",
-      "3": "ARIA",
-      "4": "TDEA"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -14264,23 +12921,6 @@
     ]
   },
   {
-    "id": 862,
-    "date": "20220625",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 4,
-    "question": "다음 문장에서 설명하는 공격 위협은?",
-    "choices": {
-      "1": "XPath 인젝션",
-      "2": "디렉터리 인덱싱",
-      "3": "운영체제 명령 실행",
-      "4": "정보 누출"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 863,
     "date": "20220625",
     "subject": 1,
@@ -14295,23 +12935,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 864,
-    "date": "20220625",
-    "subject": 1,
-    "subject_name": "시스템 보안",
-    "question_no": 7,
-    "question": "다음 문장에서 설명하는 기억 장치의 메모리 반입 정책은?",
-    "choices": {
-      "1": "최초 적합(First fit)",
-      "2": "최상 적합(Best fit)",
-      "3": "최악 적합(Worst fit)",
-      "4": "다음 적합(Next fit)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -14536,23 +13159,6 @@
     ]
   },
   {
-    "id": 879,
-    "date": "20220625",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 26,
-    "question": "다음 문장에서 설명하는 해커의 분류는?",
-    "choices": {
-      "1": "Elite",
-      "2": "Script Kiddie",
-      "3": "Developed Kiddie",
-      "4": "Lamer"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 880,
     "date": "20220625",
     "subject": 2,
@@ -14774,23 +13380,6 @@
     ]
   },
   {
-    "id": 894,
-    "date": "20220625",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 44,
-    "question": "다음 문장에서 설명하는 FTP 공격은?",
-    "choices": {
-      "1": "FTP Bounce Attack",
-      "2": "Anonymous FTP Attack",
-      "3": "TFTP Attack",
-      "4": "FTP Anyconnect Attack"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 895,
     "date": "20220625",
     "subject": 3,
@@ -14802,23 +13391,6 @@
       "2": "딥웹(Deep web)은 다크웹의 일부분이다.",
       "3": "토르(TOR)같은 특수한 웹브라우저를 사용해야만 접근할 수 있다.",
       "4": "다크넷에 존해하는 웹사이트를 의미한다."
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 896,
-    "date": "20220625",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 47,
-    "question": "다음 문장에서 설명하는 것은?",
-    "choices": {
-      "1": "SSL(Secure Socket Layer)",
-      "2": "SET(Secure Electronic Transaction)",
-      "3": "SOC(Security Operation Center)",
-      "4": "Lattice Security Model"
     },
     "answers": [
       2
@@ -14876,23 +13448,6 @@
     ]
   },
   {
-    "id": 900,
-    "date": "20220625",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 53,
-    "question": "다음 문장에서 설명하는 보안솔루션은?",
-    "choices": {
-      "1": "DRM",
-      "2": "SSO",
-      "3": "OTP",
-      "4": "APT"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 901,
     "date": "20220625",
     "subject": 3,
@@ -14907,23 +13462,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 902,
-    "date": "20220625",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 55,
-    "question": "다음 문장에서 설명하는 웹 공격의 명칭은?",
-    "choices": {
-      "1": "XSS(Cross Site Scripting)",
-      "2": "SQL(Structured Query Language) Ingection",
-      "3": "CSRF(Cross-site request forgery)",
-      "4": "쿠키(Cookie) 획득"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -14975,23 +13513,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 906,
-    "date": "20220625",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 60,
-    "question": "다음 문장에서 설명하는 전자서명 기법은?",
-    "choices": {
-      "1": "다중서명",
-      "2": "그룹서명",
-      "3": "은닉서명",
-      "4": "검증자 지정서명"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -15267,23 +13788,6 @@
     ]
   },
   {
-    "id": 923,
-    "date": "20220625",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 79,
-    "question": "다음 문장에서 설명하는 것은?",
-    "choices": {
-      "1": "타원 곡선 암호 시스템",
-      "2": "하이브리드 암호 시스템",
-      "3": "세션 키(의사난수 생성기)",
-      "4": "이중 암호 시스템"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 924,
     "date": "20220625",
     "subject": 4,
@@ -15386,23 +13890,6 @@
     ]
   },
   {
-    "id": 930,
-    "date": "20220625",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 88,
-    "question": "다음 문장에서 설명하는 위험평가 방법은?",
-    "choices": {
-      "1": "기준선 접근법",
-      "2": "비정형 접근법",
-      "3": "상세 위험분석",
-      "4": "복합 접근방법"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 931,
     "date": "20220625",
     "subject": 5,
@@ -15414,23 +13901,6 @@
       "2": "직원들이 일상 업무에 바빠 관리체계 구축사업에 시간을 내기 어렵다.",
       "3": "직원들은 자신의 책임을 피하기 위해 문제점이 발생하면 즉시 상사에게 보고하는 경향을 보인다.",
       "4": "관리체계 구축에는 경영자의 리더십이 필수적으로 요구 된다."
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 932,
-    "date": "20220625",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 90,
-    "question": "다음 문장에서 설명하는 시스템 보안평가 기준은?",
-    "choices": {
-      "1": "TCSEC",
-      "2": "ITSEC",
-      "3": "CTCPEC",
-      "4": "CC"
     },
     "answers": [
       3
@@ -15845,23 +14315,6 @@
     ]
   },
   {
-    "id": 957,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "네트워크 보안",
-    "question_no": 21,
-    "question": "다음 문장에서 설명하는 보안시스템은?",
-    "choices": {
-      "1": "NAC",
-      "2": "DRM",
-      "3": "SSO",
-      "4": "IDS"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 958,
     "date": "20230311",
     "subject": 2,
@@ -16253,40 +14706,6 @@
     ]
   },
   {
-    "id": 981,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 48,
-    "question": "다음 문장에서 설명하는 것은?",
-    "choices": {
-      "1": "복합서명",
-      "2": "복합암호화",
-      "3": "이중서명",
-      "4": "이중암호화"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 982,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 49,
-    "question": "다음 문장에서 설명하는 공격 대응 방법은?",
-    "choices": {
-      "1": "DNS 라우팅",
-      "2": "DNS 스푸핑",
-      "3": "DNS 웜홀",
-      "4": "DNS 싱크홀"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 983,
     "date": "20230311",
     "subject": 3,
@@ -16389,23 +14808,6 @@
     ]
   },
   {
-    "id": 989,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 57,
-    "question": "다음 문장에서 설명하는 데이터베이스의 보안 사항은?",
-    "choices": {
-      "1": "DDL(Data Definition Language)",
-      "2": "뷰(View)",
-      "3": "SQL(Structed Query Language)",
-      "4": "DCL(Data Control Language)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 990,
     "date": "20230311",
     "subject": 3,
@@ -16420,23 +14822,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 991,
-    "date": "20230311",
-    "subject": 3,
-    "subject_name": "어플리케이션 보안",
-    "question_no": 59,
-    "question": "다음 문장에서 설명하는 것은?",
-    "choices": {
-      "1": "EDI(Electronic Data Interchange)",
-      "2": "XML/EDI",
-      "3": "XML(Extensible Markup Language)",
-      "4": "ebXML(Electronic Business Extensible Markup Language)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -16576,23 +14961,6 @@
     ]
   },
   {
-    "id": 1000,
-    "date": "20230311",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 71,
-    "question": "다음 문장에서 설명하는 사전 키 분배 방식은?",
-    "choices": {
-      "1": "Blom 방식",
-      "2": "커버로스 방식",
-      "3": "공개키분배 방식",
-      "4": "키 로밍 방식"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 1001,
     "date": "20230311",
     "subject": 4,
@@ -16607,23 +14975,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 1002,
-    "date": "20230311",
-    "subject": 4,
-    "subject_name": "정보 보안 일반",
-    "question_no": 73,
-    "question": "다음 문장에서 설명하는 접근통제 구성요소는?",
-    "choices": {
-      "1": "정책",
-      "2": "매커니즘",
-      "3": "보안모델",
-      "4": "OSI 보안구조"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -16777,40 +15128,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 1012,
-    "date": "20230311",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 85,
-    "question": "다음 문장에서 설명하는 위험분석을 방법론은?",
-    "choices": {
-      "1": "과거자료 분석법",
-      "2": "확률 분포법",
-      "3": "델파이법",
-      "4": "시나리오법"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 1013,
-    "date": "20230311",
-    "subject": 5,
-    "subject_name": "정보보안 관리 및 법규",
-    "question_no": 86,
-    "question": "다음 문장에서 설명하는 포렌식 수행 절차 단계는?",
-    "choices": {
-      "1": "수사 준비",
-      "2": "증거물 획득",
-      "3": "분석 및 조사",
-      "4": "보고서 작성"
-    },
-    "answers": [
-      2
     ]
   },
   {

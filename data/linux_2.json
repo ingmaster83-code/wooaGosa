@@ -238,23 +238,6 @@
     ]
   },
   {
-    "id": 15,
-    "date": "20200613",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 17,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "bash",
-      "2": "dash",
-      "3": "tcsh",
-      "4": "ksh"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 16,
     "date": "20200613",
     "subject": 1,
@@ -385,23 +368,6 @@
       "2": "nice, thread",
       "3": "nohup, renice",
       "4": "nohup, thread"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 25,
-    "date": "20200613",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 29,
-    "question": "다음에서 설명하는 vi 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "vi +/ihd /etc/hosts",
-      "2": "vi +ihd /etc/hosts",
-      "3": "vi +/etc/hosts /ihd",
-      "4": "vi +/etc/hosts ihd"
     },
     "answers": [
       1
@@ -867,23 +833,6 @@
     ]
   },
   {
-    "id": 53,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 59,
-    "question": "다음 설명에 해당하는 서비스로 알맞은 것은?",
-    "choices": {
-      "1": "NIS",
-      "2": "NFS",
-      "3": "CIFS",
-      "4": "SAMBA"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 54,
     "date": "20200613",
     "subject": 2,
@@ -969,23 +918,6 @@
     ]
   },
   {
-    "id": 59,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 67,
-    "question": "다음 설명에 해당하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "ARP",
-      "3": "UDP",
-      "4": "TCP"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 60,
     "date": "20200613",
     "subject": 2,
@@ -1000,23 +932,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 61,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 69,
-    "question": "다음 설명에 해당하는 프로토콜로 가장 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "ARP",
-      "3": "UDP",
-      "4": "ICMP"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -1051,23 +966,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 64,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 72,
-    "question": "다음 설명에 해당하는 웹 브라우저로 알맞은 것은?",
-    "choices": {
-      "1": "크롬",
-      "2": "사파리",
-      "3": "오페라",
-      "4": "파이어폭스"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -1153,23 +1051,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 70,
-    "date": "20200613",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 79,
-    "question": "다음 설명에 해당하는 운영체제로 알맞은 것은?",
-    "choices": {
-      "1": "Tizen",
-      "2": "webOS",
-      "3": "Bada OS",
-      "4": "QNX"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -1326,23 +1207,6 @@
     ]
   },
   {
-    "id": 81,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "ksh",
-      "2": "csh",
-      "3": "tcsh",
-      "4": "dash"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 82,
     "date": "20201010",
     "subject": 1,
@@ -1391,23 +1255,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 85,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 15,
-    "question": "다음 설명에 해당하는 파일로 가장 알맞은 것은?",
-    "choices": {
-      "1": "/etc/profile",
-      "2": "/etc/bashrc",
-      "3": "~/.bash_profile",
-      "4": "~/.bash_bashrc"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -1507,23 +1354,6 @@
       "2": "* */30 * * * /etc/backup.sh",
       "3": "* * */30 * * /etc/backup.sh",
       "4": "* * * */30 * /etc/backup.sh"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 95,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 25,
-    "question": "다음 설명에 해당하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "fork",
-      "2": "exec",
-      "3": "foreground process",
-      "4": "background process"
     },
     "answers": [
       1
@@ -1836,23 +1666,6 @@
     ]
   },
   {
-    "id": 116,
-    "date": "20201010",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 48,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "alsactl",
-      "2": "alsamixer",
-      "3": "cdparanoia",
-      "4": "aplay"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 117,
     "date": "20201010",
     "subject": 2,
@@ -1881,23 +1694,6 @@
       "2": "GDM",
       "3": "XDM",
       "4": "LXDE"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 119,
-    "date": "20201010",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 51,
-    "question": "다음 설명에 해당하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "Qt",
-      "2": "GTK+",
-      "3": "Xaw",
-      "4": "XCB"
     },
     "answers": [
       4
@@ -2159,23 +1955,6 @@
     ]
   },
   {
-    "id": 136,
-    "date": "20201010",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 69,
-    "question": "다음 설명에 해당하는 LAN 구성 방식으로 알맞은 것은?",
-    "choices": {
-      "1": "스타(Star)형",
-      "2": "버스(Bus)형",
-      "3": "링(Ring)형",
-      "4": "망(Mesh)형"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 137,
     "date": "20201010",
     "subject": 2,
@@ -2207,23 +1986,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 139,
-    "date": "20201010",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 73,
-    "question": "다음 설명에 해당하는 웹 브라우저로 알맞은 것은?",
-    "choices": {
-      "1": "크롬",
-      "2": "사파리",
-      "3": "오페라",
-      "4": "파이어폭스"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -2309,23 +2071,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 145,
-    "date": "20201010",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 80,
-    "question": "다음 설명하는 내용으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "DSP(Digital Signal Processor)",
-      "2": "PAM(Parallel Virtual Machine)",
-      "3": "IoT(Internet of Things)",
-      "4": "IVI(In-Vehicle Infotainment)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -2669,23 +2414,6 @@
     ]
   },
   {
-    "id": 168,
-    "date": "20201212",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 24,
-    "question": "다음 설명에 해당하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "fork",
-      "2": "exec",
-      "3": "foreground process",
-      "4": "background process"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 169,
     "date": "20201212",
     "subject": 1,
@@ -2748,23 +2476,6 @@
       "2": "[Ctrl]+[x] 다음에 [Ctrl]+[e]",
       "3": "[Ctrl]+[x] 다음에 [Ctrl]+[s]",
       "4": "[Ctrl]+[x] 다음에 [Ctrl]+[f]"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 173,
-    "date": "20201212",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 31,
-    "question": "다음에 설명하는 vi 편집기의 명령으로 알맞은 것은?",
-    "choices": {
-      "1": ":.,$d",
-      "2": ":1,$d",
-      "3": ":%d",
-      "4": ":.,%d"
     },
     "answers": [
       1
@@ -3023,23 +2734,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 191,
-    "date": "20201212",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 내용으로 알맞은 것은?",
-    "choices": {
-      "1": "윈도 매니저",
-      "2": "디스플레이 매니저",
-      "3": "데스크톱 환경",
-      "4": "파일관리자"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -3332,40 +3026,6 @@
     ]
   },
   {
-    "id": 209,
-    "date": "20201212",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 70,
-    "question": "다음 설명에 해당하는 국제기구로 알맞은 것은?",
-    "choices": {
-      "1": "ISO",
-      "2": "ITU",
-      "3": "IEEE",
-      "4": "ICANN"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 210,
-    "date": "20201212",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 71,
-    "question": "다음 설명에 해당하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "ARP",
-      "3": "UDP",
-      "4": "ICMP"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 211,
     "date": "20201212",
     "subject": 2,
@@ -3448,23 +3108,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 216,
-    "date": "20201212",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 77,
-    "question": "다음에서 설명하는 클라우드 서비스로 가장 알맞은 것은?",
-    "choices": {
-      "1": "SaaS(Storage as a Service)",
-      "2": "PaaS(Platform as a Service)",
-      "3": "FaaS(Function as a Service)",
-      "4": "IaaS(Infrastructure as a Service)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3638,23 +3281,6 @@
     ]
   },
   {
-    "id": 228,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "bash",
-      "2": "ksh",
-      "3": "dash",
-      "4": "tcsh"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 229,
     "date": "20210313",
     "subject": 1,
@@ -3686,40 +3312,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 231,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 14,
-    "question": "다음 설명에 해당하는 파일명으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "~/bashrc",
-      "2": "~/bash_profile",
-      "3": "~/.bashrc",
-      "4": "~/.bash_profile"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 232,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 15,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/bin/bash",
-      "2": "/etc/shells",
-      "3": "/etc/passwd",
-      "4": "/etc/shadow"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3961,23 +3553,6 @@
     ]
   },
   {
-    "id": 248,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 34,
-    "question": "다음 설명에 해당하는 편집기로 알맞은 것은?",
-    "choices": {
-      "1": "nano",
-      "2": "emacs",
-      "3": "gedit",
-      "4": "pico"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 249,
     "date": "20210313",
     "subject": 1,
@@ -4097,23 +3672,6 @@
     ]
   },
   {
-    "id": 256,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 43,
-    "question": "다음 설명에 해당하는 RAID 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Volume Group",
-      "2": "Linear",
-      "3": "Striping",
-      "4": "Mirroring"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 257,
     "date": "20210313",
     "subject": 1,
@@ -4128,23 +3686,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 258,
-    "date": "20210313",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 45,
-    "question": "다음 설명에 해당하는 기술로 알맞은 것은?",
-    "choices": {
-      "1": "OSS",
-      "2": "ALSA",
-      "3": "SANE",
-      "4": "CUPS"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -4267,23 +3808,6 @@
     ]
   },
   {
-    "id": 266,
-    "date": "20210313",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 54,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "KDE",
-      "2": "GNOME",
-      "3": "LXDE",
-      "4": "Wayland"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 267,
     "date": "20210313",
     "subject": 2,
@@ -4332,40 +3856,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 271,
-    "date": "20210313",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 61,
-    "question": "다음 설명에 해당하는 기술로 알맞은 것은?",
-    "choices": {
-      "1": "CDMA",
-      "2": "PSTN",
-      "3": "PDSN",
-      "4": "CSMA/CD"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 272,
-    "date": "20210313",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 62,
-    "question": "다음 설명에 해당하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "VRRP",
-      "3": "TCP",
-      "4": "UDP"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -4573,23 +4063,6 @@
     ]
   },
   {
-    "id": 285,
-    "date": "20210313",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 77,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Docker",
-      "2": "Ansible",
-      "3": "OpenStack",
-      "4": "Kubernetes"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 286,
     "date": "20210313",
     "subject": 2,
@@ -4672,40 +4145,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 291,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 LVM 관련 용어로 알맞은 것은?",
-    "choices": {
-      "1": "PV",
-      "2": "VG",
-      "3": "LV",
-      "4": "PE"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 292,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 5,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "CUPS",
-      "2": "LPRng",
-      "3": "SANE",
-      "4": "ALSA"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -4825,23 +4264,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 301,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 16,
-    "question": "다음 설명에 해당하는 편집기로 알맞은 것은?",
-    "choices": {
-      "1": "vi",
-      "2": "emacs",
-      "3": "gedit",
-      "4": "pico"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -5032,23 +4454,6 @@
     ]
   },
   {
-    "id": 315,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 32,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/bin/bash",
-      "2": "/etc/shells",
-      "3": "/etc/passwd",
-      "4": "/etc/shadow"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 316,
     "date": "20210911",
     "subject": 1,
@@ -5094,57 +4499,6 @@
       "2": "PS1",
       "3": "PS2",
       "4": "PROMPT"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 319,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 36,
-    "question": "다음 설명에 해당하는 셸의 기능으로 알맞은 것은?",
-    "choices": {
-      "1": "명령행 완성 기능",
-      "2": "앨리어스(Alias) 기능",
-      "3": "히스토리(history) 기능",
-      "4": "명령행 편집 기능"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 320,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 37,
-    "question": "다음 설명에 해당하는 파일명으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "/etc/profile",
-      "2": "/etc/bash_profile",
-      "3": "/etc/bashrc",
-      "4": "~/.bash_profile"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 321,
-    "date": "20210911",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 38,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "ksh",
-      "2": "bash",
-      "3": "dash",
-      "4": "tcsh"
     },
     "answers": [
       3
@@ -5301,23 +4655,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 331,
-    "date": "20210911",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "아두이노(Arduino)",
-      "2": "라즈베리 파이(Raspberry Pi)",
-      "3": "마이크로비트(Microbit)",
-      "4": "큐비 보드(Cubie Board)"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -5488,23 +4825,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 342,
-    "date": "20210911",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 64,
-    "question": "다음 설명에 해당하는 파일로 가장 알맞은 것은?",
-    "choices": {
-      "1": "/etc/resolv/conf",
-      "2": "/etc/services",
-      "3": "/etc/sysconfig/network-scripts",
-      "4": "/etc/hosts"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -5729,23 +5049,6 @@
     ]
   },
   {
-    "id": 356,
-    "date": "20210911",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 78,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "데스크톱 환경",
-      "2": "윈도 매니저",
-      "3": "디스플레이 매니저",
-      "4": "유저 인터페이스"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 357,
     "date": "20210911",
     "subject": 2,
@@ -5814,23 +5117,6 @@
     ]
   },
   {
-    "id": 361,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 RAID 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Volume Group",
-      "2": "Linear",
-      "3": "Striping",
-      "4": "Mirroring"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 362,
     "date": "20211211",
     "subject": 1,
@@ -5845,23 +5131,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 363,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 5,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "OSS",
-      "2": "ALSA",
-      "3": "SANE",
-      "4": "CUPS"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -6222,23 +5491,6 @@
     ]
   },
   {
-    "id": 387,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 32,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/bin/bash",
-      "2": "/etc/shells",
-      "3": "/etc/passwd",
-      "4": "/etc/skel"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 388,
     "date": "20211211",
     "subject": 1,
@@ -6253,23 +5505,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 389,
-    "date": "20211211",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 34,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "csh",
-      "2": "ksh",
-      "3": "bash",
-      "4": "tcsh"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -6460,23 +5695,6 @@
     ]
   },
   {
-    "id": 402,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 49,
-    "question": "다음 설명에 해당하는 용어로 가장 알맞은 것은?",
-    "choices": {
-      "1": "도커(Docker)",
-      "2": "쿠버네티스(Kubernetes)",
-      "3": "앤서블(Ansible)",
-      "4": "오픈스택(OpenStack)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 403,
     "date": "20211211",
     "subject": 2,
@@ -6491,40 +5709,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 404,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 51,
-    "question": "다음 설명에 해당하는 플랫폼으로 알맞은 것은?",
-    "choices": {
-      "1": "MeeGo IVI",
-      "2": "Tizen IVI",
-      "3": "GENIVI",
-      "4": "Android IVI"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 405,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 52,
-    "question": "다음 설명에 해당하는 리눅스 배포판으로 알맞은 것은?",
-    "choices": {
-      "1": "Rocky Linux",
-      "2": "Arch Linux",
-      "3": "Alma Linux",
-      "4": "Linux Mint"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -6766,40 +5950,6 @@
     ]
   },
   {
-    "id": 420,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 67,
-    "question": "다음에서 설명하는 것으로 알맞은 것은?",
-    "choices": {
-      "1": "LAN",
-      "2": "MAN",
-      "3": "WAN",
-      "4": "SIP"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 421,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 68,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/sysconfig/network-scripts",
-      "2": "/etc/sysconfig/network",
-      "3": "/etc/resolv.conf",
-      "4": "/etc/passwd"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 422,
     "date": "20211211",
     "subject": 2,
@@ -6885,23 +6035,6 @@
     ]
   },
   {
-    "id": 427,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 75,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "윈도 매니저",
-      "2": "데스크톱 환경",
-      "3": "디스플레이 매니저",
-      "4": "데스크톱 매니저"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 428,
     "date": "20211211",
     "subject": 2,
@@ -6950,23 +6083,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 431,
-    "date": "20211211",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 79,
-    "question": "다음 설명에 해당하는 라이브러리로 알맞은 것은?",
-    "choices": {
-      "1": "Qt",
-      "2": "Xlib",
-      "3": "GTK+",
-      "4": "Motif"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -7066,23 +6182,6 @@
       "2": "lpr",
       "3": "lpq",
       "4": "lprm"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 438,
-    "date": "20220611",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 6,
-    "question": "다음 설명에 해당하는 LVM 용어로 알맞은 것은?",
-    "choices": {
-      "1": "PE",
-      "2": "PV",
-      "3": "LV",
-      "4": "VG"
     },
     "answers": [
       1
@@ -7307,23 +6406,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 453,
-    "date": "20220611",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 22,
-    "question": "다음 설명에 해당하는 용어로 가장 알맞은 것은?",
-    "choices": {
-      "1": "init",
-      "2": "inetd",
-      "3": "standalone",
-      "4": "daemon"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -7718,57 +6800,6 @@
     ]
   },
   {
-    "id": 478,
-    "date": "20220611",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 가상화 기술로 알맞은 것은?",
-    "choices": {
-      "1": "KVM",
-      "2": "XEN",
-      "3": "VirtualBox",
-      "4": "Hyper-V"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 479,
-    "date": "20220611",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 51,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "아두이노",
-      "2": "라즈베리 파이",
-      "3": "큐비보드",
-      "4": "오드로이드"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 480,
-    "date": "20220611",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 52,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "GENIVI",
-      "2": "Ansible",
-      "3": "OpenStack",
-      "4": "Kubernetes"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 481,
     "date": "20220611",
     "subject": 2,
@@ -8109,23 +7140,6 @@
     ]
   },
   {
-    "id": 501,
-    "date": "20220611",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 75,
-    "question": "다음 설명에 해당하는 라이브러리로 알맞은 것은?",
-    "choices": {
-      "1": "Xlib",
-      "2": "XCB",
-      "3": "QT",
-      "4": "GTK+"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 502,
     "date": "20220611",
     "subject": 2,
@@ -8160,23 +7174,6 @@
     ]
   },
   {
-    "id": 504,
-    "date": "20220611",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 78,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "KDE",
-      "2": "GNOME",
-      "3": "LXDE",
-      "4": "Wayland"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 505,
     "date": "20220903",
     "subject": 1,
@@ -8208,40 +7205,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 507,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 3,
-    "question": "다음 설명에 해당하는 LVM 관련 용어로 알맞은 것은?",
-    "choices": {
-      "1": "볼륨 그룹(VG)",
-      "2": "논리적 볼륨(LV)",
-      "3": "물리적 볼륨(PV)",
-      "4": "물리적 확장(PE)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 508,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 4,
-    "question": "다음 설명에 해당하는 용어로 알맞은 것은?",
-    "choices": {
-      "1": "ALSA",
-      "2": "CUPS",
-      "3": "OSS",
-      "4": "SANE"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -8585,23 +7548,6 @@
     ]
   },
   {
-    "id": 530,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 28,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "exec",
-      "2": "fork",
-      "3": "init",
-      "4": "inetd"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 531,
     "date": "20220903",
     "subject": 1,
@@ -8636,23 +7582,6 @@
     ]
   },
   {
-    "id": 533,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 31,
-    "question": "다음 설명에 해당하는 셸의 기능으로 알맞은 것은?",
-    "choices": {
-      "1": "명령행 완성 기능",
-      "2": "명령행 편집 기능",
-      "3": "명령어 히스토리 기능",
-      "4": "명령어 alias 기능"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 534,
     "date": "20220903",
     "subject": 1,
@@ -8670,23 +7599,6 @@
     ]
   },
   {
-    "id": 535,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 33,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "ksh",
-      "2": "tcsh",
-      "3": "bash",
-      "4": "dash"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 536,
     "date": "20220903",
     "subject": 1,
@@ -8698,23 +7610,6 @@
       "2": "set",
       "3": "unset",
       "4": "printenv"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 537,
-    "date": "20220903",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 35,
-    "question": "다음 설명에 해당하는 파일로 가장 알맞은 것은?",
-    "choices": {
-      "1": "˜/.bashrc",
-      "2": "˜/.bash_history",
-      "3": "˜/.bash_profile",
-      "4": "˜/.bash_logout"
     },
     "answers": [
       3
@@ -8959,23 +7854,6 @@
     ]
   },
   {
-    "id": 553,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 52,
-    "question": "다음 설명에 해당하는 빅데이터 관련 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Hadoop",
-      "2": "NoSQL",
-      "3": "R",
-      "4": "Anisible"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 554,
     "date": "20220903",
     "subject": 2,
@@ -8990,23 +7868,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 555,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 54,
-    "question": "다음 설명에 해당하는 파일로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/resolv.conf",
-      "3": "/etc/sysconfig/network",
-      "4": "/etc/sysconfig/network-scripts"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -9027,40 +7888,6 @@
     ]
   },
   {
-    "id": 557,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 56,
-    "question": "다음 설명에 해당하는 인터넷 서비스로 알맞은 것은?",
-    "choices": {
-      "1": "SSH",
-      "2": "telnet",
-      "3": "NFS",
-      "4": "FTP"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 558,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 57,
-    "question": "다음 설명에 해당하는 웹 브라우저로 알맞은 것은?",
-    "choices": {
-      "1": "사파리",
-      "2": "오페라",
-      "3": "크롬",
-      "4": "파이어폭스"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 559,
     "date": "20220903",
     "subject": 2,
@@ -9072,23 +7899,6 @@
       "2": "SMTP",
       "3": "IMAP",
       "4": "POP3"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 560,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 59,
-    "question": "다음 설명에 해당하는 LAN 구성 방식으로 알맞은 것은?",
-    "choices": {
-      "1": "망(Mesh)형",
-      "2": "링(Ring)형",
-      "3": "버스(Bus)형",
-      "4": "스타(Star)형"
     },
     "answers": [
       1
@@ -9197,23 +8007,6 @@
     ]
   },
   {
-    "id": 569,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 70,
-    "question": "다음 설명에 해당하는 명칭으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "X.25",
-      "2": "ATM",
-      "3": "DQDB",
-      "4": "FDDI"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 570,
     "date": "20220903",
     "subject": 2,
@@ -9228,23 +8021,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 571,
-    "date": "20220903",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 72,
-    "question": "다음 설명에 해당하는 LAN 케이블 규격으로 알맞은 것은?",
-    "choices": {
-      "1": "CAT-5",
-      "2": "CAT-5E",
-      "3": "CAT-6",
-      "4": "CAT-7"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -9418,23 +8194,6 @@
     ]
   },
   {
-    "id": 582,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 4,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "chmod –a 755 data",
-      "2": "chmod –A 755 data",
-      "3": "chmod –r 755 data",
-      "4": "chmod –R 755 data"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 583,
     "date": "20230311",
     "subject": 1,
@@ -9605,23 +8364,6 @@
     ]
   },
   {
-    "id": 594,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 17,
-    "question": "다음 설명에 해당하는 셸의 기능으로 알맞은 것은?",
-    "choices": {
-      "1": "명령어 히스토리 기능",
-      "2": "명령행 완성 기능",
-      "3": "에일리어스(alias) 기능",
-      "4": "명령행 편집 기능"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 595,
     "date": "20230311",
     "subject": 1,
@@ -9690,23 +8432,6 @@
     ]
   },
   {
-    "id": 600,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 23,
-    "question": "다음 설명에 해당하는 명칭으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "inetd",
-      "2": "xinetd",
-      "3": "standalone",
-      "4": "daemon"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 601,
     "date": "20230311",
     "subject": 1,
@@ -9769,23 +8494,6 @@
       "2": "[Ctrl]+[a]",
       "3": "[Ctrl]+[l]",
       "4": "[Ctrl]+[z]"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 605,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 29,
-    "question": "다음 설명에 해당하는 편집기로 알맞은 것은?",
-    "choices": {
-      "1": "nano",
-      "2": "gedit",
-      "3": "vim",
-      "4": "emacs"
     },
     "answers": [
       4
@@ -9874,40 +8582,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 611,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 36,
-    "question": "다음 설명에 해당하는 패키지 관리 도구로 알맞은 것은?",
-    "choices": {
-      "1": "alien",
-      "2": "dselect",
-      "3": "dnf",
-      "4": "zypper"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 613,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 38,
-    "question": "다음 설명에 해당하는 소스 설치 단계로 알맞은 것은?",
-    "choices": {
-      "1": "configure",
-      "2": "make",
-      "3": "cmake",
-      "4": "make clean"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -10007,40 +8681,6 @@
       "2": "lpr",
       "3": "lpc",
       "4": "lpstat"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 621,
-    "date": "20230311",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 47,
-    "question": "다음 설명에 해당하는 LVM 용어로 알맞은 것은?",
-    "choices": {
-      "1": "PV",
-      "2": "PE",
-      "3": "VG",
-      "4": "LV"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 622,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "XFree86",
-      "2": "Wayland",
-      "3": "X.org",
-      "4": "Metacity"
     },
     "answers": [
       1
@@ -10149,23 +8789,6 @@
     ]
   },
   {
-    "id": 629,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 57,
-    "question": "다음 설명에 해당하는 기술로 가장 알맞은 것은?",
-    "choices": {
-      "1": "임베디드 시스템",
-      "2": "베어울프 클러스터",
-      "3": "고가용성 클러스터",
-      "4": "부하분산 클러스터"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 630,
     "date": "20230311",
     "subject": 2,
@@ -10177,57 +8800,6 @@
       "2": "VHD",
       "3": "VMD",
       "4": "VMDK"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 631,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 59,
-    "question": "다음 설명에 해당하는 운영체제로 알맞은 것은?",
-    "choices": {
-      "1": "QNX",
-      "2": "BlackBerrry",
-      "3": "webOS",
-      "4": "Tizen"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 632,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 60,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Docker",
-      "2": "Openstack",
-      "3": "Kubernetes",
-      "4": "Ansible"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 633,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 61,
-    "question": "다음 설명에 해당하는 네트워크 종류로 알맞은 것은?",
-    "choices": {
-      "1": "LAN",
-      "2": "MAN",
-      "3": "X.25",
-      "4": "WAN"
     },
     "answers": [
       4
@@ -10251,40 +8823,6 @@
     ]
   },
   {
-    "id": 635,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 64,
-    "question": "다음 설명에 해당하는 국제기구로 알맞은 것은?",
-    "choices": {
-      "1": "EIA",
-      "2": "IEEE",
-      "3": "ITU",
-      "4": "ANSI"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 636,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 65,
-    "question": "다음 설명에 해당하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "TCP",
-      "2": "ICMP",
-      "3": "UDP",
-      "4": "HTTP"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 637,
     "date": "20230311",
     "subject": 2,
@@ -10299,40 +8837,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 638,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 67,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "Token Ring",
-      "2": "FDDI",
-      "3": "X.25",
-      "4": "Ethernet"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 639,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 68,
-    "question": "다음에서 설명하는 서비스로 알맞은 것은?",
-    "choices": {
-      "1": "NFS",
-      "2": "SSH",
-      "3": "SAMBA",
-      "4": "FTP"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -10452,23 +8956,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 647,
-    "date": "20230311",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 77,
-    "question": "다음에서 설명하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "ARP",
-      "3": "VRRP",
-      "4": "UDP"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -10608,23 +9095,6 @@
     ]
   },
   {
-    "id": 659,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "bourne shell",
-      "2": "csh",
-      "3": "dash",
-      "4": "bash"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 660,
     "date": "20230610",
     "subject": 1,
@@ -10741,40 +9211,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 669,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 21,
-    "question": "다음 설명에 해당하는 시그널 번호로 알맞은 것은?",
-    "choices": {
-      "1": "1",
-      "2": "9",
-      "3": "15",
-      "4": "20"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 670,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 23,
-    "question": "다음 설명에 해당하는 명칭으로 가장 알맞은 것은?",
-    "choices": {
-      "1": "inetd",
-      "2": "daemon",
-      "3": "init",
-      "4": "systemd"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -10965,23 +9401,6 @@
     ]
   },
   {
-    "id": 682,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 36,
-    "question": "다음 설명에 해당하는 패키지 관리 도구로 알맞은 것은?",
-    "choices": {
-      "1": "alien",
-      "2": "dselect",
-      "3": "dnf",
-      "4": "apt-get"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 683,
     "date": "20230610",
     "subject": 1,
@@ -11084,40 +9503,6 @@
     ]
   },
   {
-    "id": 689,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 43,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "OSS",
-      "2": "ALSA",
-      "3": "CUPS",
-      "4": "LPRng"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 690,
-    "date": "20230610",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 44,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "OSS",
-      "2": "ALSA",
-      "3": "SANE",
-      "4": "XSANE"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 691,
     "date": "20230610",
     "subject": 1,
@@ -11166,23 +9551,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 695,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 51,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "데스크톱 환경",
-      "2": "윈도 매니저",
-      "3": "디스플레이 매니저",
-      "4": "위젯"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -11322,40 +9690,6 @@
     ]
   },
   {
-    "id": 704,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 60,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Docker",
-      "2": "Openstack",
-      "3": "Kubernetes",
-      "4": "Ansible"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 705,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 61,
-    "question": "다음 설명에 해당하는 네트워크 종류로 알맞은 것은?",
-    "choices": {
-      "1": "LAN",
-      "2": "MAN",
-      "3": "SAN",
-      "4": "WAN"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 706,
     "date": "20230610",
     "subject": 2,
@@ -11384,23 +9718,6 @@
       "2": "B클래스",
       "3": "C클래스",
       "4": "D클래스"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 708,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 64,
-    "question": "다음 설명에 해당하는 국제기구로 알맞은 것은?",
-    "choices": {
-      "1": "ICANN",
-      "2": "IEEE",
-      "3": "ITU-T",
-      "4": "ISO"
     },
     "answers": [
       1
@@ -11577,23 +9894,6 @@
     ]
   },
   {
-    "id": 720,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 77,
-    "question": "다음에서 설명하는 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "telnet www.kait.or.kr@443",
-      "2": "telnet www.kait.or.kr 443",
-      "3": "telnet www.kait.or.kr 21",
-      "4": "telnet www.kait.or.kr 22"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 721,
     "date": "20230610",
     "subject": 2,
@@ -11608,23 +9908,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 722,
-    "date": "20230610",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 79,
-    "question": "다음 설명에 해당하는 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "TCP",
-      "3": "ICMP",
-      "4": "ARP"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -11713,23 +9996,6 @@
     ]
   },
   {
-    "id": 728,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 5,
-    "question": "다음 설명에 해당하는 명령어로 알맞은 것은?",
-    "choices": {
-      "1": "quota",
-      "2": "edquota",
-      "3": "setquota",
-      "4": "xfs_quota"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 729,
     "date": "20230909",
     "subject": 1,
@@ -11741,23 +10007,6 @@
       "2": "du",
       "3": "fdisk",
       "4": "mount"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 730,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 8,
-    "question": "다음 설명에 해당하는 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/fstab",
-      "2": "/etc/mtab",
-      "3": "/etc/mounts",
-      "4": "/etc/partitions"
     },
     "answers": [
       1
@@ -11778,23 +10027,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 733,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 셸로 알맞은 것은?",
-    "choices": {
-      "1": "bourne shell",
-      "2": "csh",
-      "3": "dash",
-      "4": "bash"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -11982,23 +10214,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 750,
-    "date": "20230909",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 31,
-    "question": "다음 설명에 해당하는 편집기로 알맞은 것은?",
-    "choices": {
-      "1": "nano",
-      "2": "gedit",
-      "3": "vim",
-      "4": "emacs"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -12291,40 +10506,6 @@
     ]
   },
   {
-    "id": 769,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 51,
-    "question": "다음 설명에 해당하는 라이브러리 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "XCB",
-      "2": "QT",
-      "3": "GTK+",
-      "4": "FLTK"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 770,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 52,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "QT",
-      "2": "KDE",
-      "3": "GNOME",
-      "4": "Xfce"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 771,
     "date": "20230909",
     "subject": 2,
@@ -12339,23 +10520,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 772,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 57,
-    "question": "다음 설명에 해당하는 LAN 구성 방식으로 알맞은 것은?",
-    "choices": {
-      "1": "망(Mesh)형",
-      "2": "링(Ring)형",
-      "3": "버스(Bus)형",
-      "4": "스타(Star)형"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -12376,23 +10540,6 @@
     ]
   },
   {
-    "id": 774,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 60,
-    "question": "다음 설명에 해당하는 기술로 알맞은 것은?",
-    "choices": {
-      "1": "FDDI",
-      "2": "X.25",
-      "3": "Frame Relay",
-      "4": "Cell Relay"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 775,
     "date": "20230909",
     "subject": 2,
@@ -12410,23 +10557,6 @@
     ]
   },
   {
-    "id": 776,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 62,
-    "question": "다음 설명에 해당하는 OSI 계층으로 알맞은 것은?",
-    "choices": {
-      "1": "표현 계층",
-      "2": "세션 계층",
-      "3": "전송 계층",
-      "4": "네트워크 계층"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 777,
     "date": "20230909",
     "subject": 2,
@@ -12441,23 +10571,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 778,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 65,
-    "question": "다음 설명에 해당하는 인터넷 서비스로 알맞은 것은?",
-    "choices": {
-      "1": "SSH",
-      "2": "Telnet",
-      "3": "Gopher",
-      "4": "FTP"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -12563,23 +10676,6 @@
     ]
   },
   {
-    "id": 786,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 74,
-    "question": "다음 설명에 해당하는 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/resolv.conf",
-      "3": "/etc/sysconfig/network",
-      "4": "/etc/sysconfig/network-scripts"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 787,
     "date": "20230909",
     "subject": 2,
@@ -12614,57 +10710,6 @@
     ]
   },
   {
-    "id": 789,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 78,
-    "question": "다음 설명에 해당하는 가상화 기술로 알맞은 것은?",
-    "choices": {
-      "1": "Xen",
-      "2": "KVM",
-      "3": "Docker",
-      "4": "VirtualBox"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 790,
-    "date": "20230909",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 79,
-    "question": "다음 설명에 해당하는 프로그램으로 알맞은 것은?",
-    "choices": {
-      "1": "Docker",
-      "2": "OpenStack",
-      "3": "Kubernetes",
-      "4": "Ansible"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 792,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 2,
-    "question": "다음 설명에 해당하는 RAID 관련 기술로 알맞은 것은?",
-    "choices": {
-      "1": "스트라이핑(Striping)",
-      "2": "미러링(Mirroring)",
-      "3": "패리티(Parity)",
-      "4": "ECC(Error Check &Correction)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 793,
     "date": "20231209",
     "subject": 1,
@@ -12693,23 +10738,6 @@
       "2": "lpr",
       "3": "lprm",
       "4": "lpstat"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 795,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 5,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "ALSA",
-      "2": "CUPS",
-      "3": "SANE",
-      "4": "OSS"
     },
     "answers": [
       4
@@ -12778,23 +10806,6 @@
       "2": "Jxvf",
       "3": "jtvf",
       "4": "Jtvf"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 800,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 11,
-    "question": "다음 설명에 해당하는 명령으로 알맞은 것은?",
-    "choices": {
-      "1": "make init",
-      "2": "make zero",
-      "3": "make clean",
-      "4": "make neat"
     },
     "answers": [
       3
@@ -13141,23 +11152,6 @@
     ]
   },
   {
-    "id": 824,
-    "date": "20231209",
-    "subject": 1,
-    "subject_name": "리눅스 운영 및 관리",
-    "question_no": 39,
-    "question": "다음 설명에 해당하는 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/fstab",
-      "2": "/etc/mtab",
-      "3": "/etc/mounts",
-      "4": "/proc/partitions"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 825,
     "date": "20231209",
     "subject": 1,
@@ -13311,23 +11305,6 @@
     ]
   },
   {
-    "id": 834,
-    "date": "20231209",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 50,
-    "question": "다음 설명에 해당하는 명칭으로 알맞은 것은?",
-    "choices": {
-      "1": "Hadoop",
-      "2": "NoSQL",
-      "3": "R",
-      "4": "Cassandra"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 835,
     "date": "20231209",
     "subject": 2,
@@ -13359,23 +11336,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 837,
-    "date": "20231209",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 54,
-    "question": "다음 설명에 해당하는 파일명으로 알맞은 것은?",
-    "choices": {
-      "1": "/etc/hosts",
-      "2": "/etc/resolv.conf",
-      "3": "/etc/sysconfig/network",
-      "4": "/etc/sysconfig/network-scripts"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -13532,23 +11492,6 @@
     ]
   },
   {
-    "id": 847,
-    "date": "20231209",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 64,
-    "question": "다음 설명에 해당하는 인터넷 서비스로 알맞은 것은?",
-    "choices": {
-      "1": "NFS",
-      "2": "SAMBA",
-      "3": "Gopher",
-      "4": "FTP"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 848,
     "date": "20231209",
     "subject": 2,
@@ -13560,23 +11503,6 @@
       "2": "firefox",
       "3": "opera",
       "4": "safari"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 849,
-    "date": "20231209",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 66,
-    "question": "다음 설명에 해당하는 국제기구로 알맞은 것은?",
-    "choices": {
-      "1": "ICANN",
-      "2": "IEEE",
-      "3": "TIA",
-      "4": "ISO"
     },
     "answers": [
       1
@@ -13631,23 +11557,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 853,
-    "date": "20231209",
-    "subject": 2,
-    "subject_name": "리눅스 활용",
-    "question_no": 70,
-    "question": "다음 설명에 해당하는 네트워크 프로토콜로 알맞은 것은?",
-    "choices": {
-      "1": "IP",
-      "2": "ICMP",
-      "3": "ARP",
-      "4": "UDP"
-    },
-    "answers": [
-      3
     ]
   },
   {
