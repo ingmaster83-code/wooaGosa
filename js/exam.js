@@ -205,6 +205,40 @@ let timerHandle   = null;
 let secondsLeft   = 0;
 let examStarted   = false;
 
+/* ── 구간 나누기 (페이지뷰/광고 프로토타입) ─────────
+ * SEGMENTED_FILES 에 등록된 시험만 10문제마다 실제 페이지를 새로고침해서
+ * 광고가 새로 노출되도록 함. 나머지 시험은 기존 방식(새로고침 없음) 그대로 동작.
+ */
+const SEGMENT_SIZE = 10;
+const SEGMENTED_FILES = new Set(['미용사_일반']);
+const SEGMENTED = SEGMENTED_FILES.has(FILE);
+const PROGRESS_KEY = 'wooagosa_segprogress';
+let examEndTime = null; // SEGMENTED 전용: 절대 종료 시각(ms). 새로고침에도 타이머 유지.
+
+function saveProgress() {
+  if (!SEGMENTED) return;
+  sessionStorage.setItem(PROGRESS_KEY, JSON.stringify({
+    file: FILE, mode: MODE, count: COUNT,
+    ids: examQuestions.map(q => q.id),
+    userAnswers, current, examEndTime,
+  }));
+}
+
+function loadProgress() {
+  if (!SEGMENTED) return null;
+  try {
+    const raw = sessionStorage.getItem(PROGRESS_KEY);
+    if (!raw) return null;
+    const p = JSON.parse(raw);
+    if (p.file !== FILE || p.mode !== MODE || p.count !== COUNT) return null;
+    return p;
+  } catch (e) { return null; }
+}
+
+function clearProgress() {
+  sessionStorage.removeItem(PROGRESS_KEY);
+}
+
 /* ── DOM 참조 ──────────────────────────────────── */
 const elTitle      = document.getElementById('exam-title');
 const elProgress   = document.getElementById('exam-progress');
@@ -252,7 +286,22 @@ window.addEventListener('DOMContentLoaded', async () => {
     logoIcon.textContent = ICONS[TYPE] || '📝';
   }
   await loadData();
-  buildExam();
+
+  const saved = loadProgress();
+  if (saved) {
+    examQuestions = saved.ids.map(id => allQuestions.find(q => q.id === id)).filter(Boolean);
+    userAnswers   = saved.userAnswers;
+    current       = saved.current;
+    examEndTime   = saved.examEndTime;
+    secondsLeft   = Math.max(0, Math.round((examEndTime - Date.now()) / 1000));
+  } else {
+    buildExam();
+    if (SEGMENTED) {
+      examEndTime = Date.now() + secondsLeft * 1000;
+      saveProgress();
+    }
+  }
+
   renderQuestion();
   startTimer();
   examStarted = true;
@@ -346,6 +395,13 @@ function renderQuestion() {
   elProgressBar.style.width = `${((current + 1) / examQuestions.length) * 100}%`;
   updateNavButtons();
 
+  // 구간(10문제) 완료 시점: 실제 페이지 새로고침으로 넘어가는 중간 화면
+  const isLastQuestion = current === examQuestions.length - 1;
+  if (SEGMENTED && ua.submitted && (current + 1) % SEGMENT_SIZE === 0 && !isLastQuestion) {
+    renderSegmentBreak();
+    return;
+  }
+
   // HTML 빌드
   let html = `
     <div class="question-card">
@@ -420,6 +476,27 @@ function renderQuestion() {
   elQuestion.innerHTML = html;
 }
 
+/* ── 구간 완료 화면 (SEGMENTED 전용) ─────────────── */
+function renderSegmentBreak() {
+  const segStart = current - SEGMENT_SIZE + 1;
+  const segAnswers = userAnswers.slice(segStart, current + 1);
+  const correctCount = segAnswers.filter(a => a.correct).length;
+
+  elQuestion.innerHTML = `
+    <div class="question-card" style="text-align:center;padding:2.5rem 1.5rem;">
+      <div style="font-size:2.2rem;margin-bottom:.5rem;">✅</div>
+      <h3 style="margin:0 0 .5rem;">${segStart + 1}~${current + 1}번 완료!</h3>
+      <p style="color:var(--text-mid);margin:0 0 1.5rem;">이번 구간 정답 ${correctCount} / ${SEGMENT_SIZE}</p>
+      <button class="btn btn-primary btn-lg" onclick="goToNextSegment()">다음 ${SEGMENT_SIZE}문제 이어풀기 →</button>
+    </div>`;
+}
+
+function goToNextSegment() {
+  current += 1;
+  saveProgress();
+  location.reload();
+}
+
 /* ── 답 선택 ────────────────────────────────────── */
 function selectChoice(num) {
   const ua = userAnswers[current];
@@ -459,6 +536,7 @@ function submitAnswer() {
     recordWrong(FILE, q.id);
   }
 
+  saveProgress();
   renderQuestion();
 }
 
@@ -479,7 +557,9 @@ function updateNavButtons() {
 function startTimer() {
   renderTimer();
   timerHandle = setInterval(() => {
-    secondsLeft--;
+    secondsLeft = SEGMENTED
+      ? Math.max(0, Math.round((examEndTime - Date.now()) / 1000))
+      : secondsLeft - 1;
     renderTimer();
     if (secondsLeft <= 0) {
       clearInterval(timerHandle);
@@ -510,6 +590,7 @@ function finishExam() {
     timestamp: Date.now(),
   };
   sessionStorage.setItem('wooagosa_result', JSON.stringify(results));
+  clearProgress();
   location.href = 'result.html';
 }
 
