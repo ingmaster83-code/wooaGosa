@@ -213,7 +213,9 @@ const SEGMENT_SIZE = 10;
 const SEGMENTED_FILES = new Set(['미용사_일반']);
 const SEGMENTED = SEGMENTED_FILES.has(FILE);
 const PROGRESS_KEY = 'wooagosa_segprogress';
+const AUTO_CONTINUE_KEY = 'wooagosa_segautocontinue'; // 구간 버튼으로 넘어온 새로고침인지 구분
 let examEndTime = null; // SEGMENTED 전용: 절대 종료 시각(ms). 새로고침에도 타이머 유지.
+let pendingResume = null; // 이어하기 선택 화면에서 사용할 저장된 진행상태
 
 function saveProgress() {
   if (!SEGMENTED) return;
@@ -288,24 +290,76 @@ window.addEventListener('DOMContentLoaded', async () => {
   await loadData();
 
   const saved = loadProgress();
+  const isAutoContinue = sessionStorage.getItem(AUTO_CONTINUE_KEY) === '1';
+  sessionStorage.removeItem(AUTO_CONTINUE_KEY);
+  const hasRealProgress = saved && saved.userAnswers.some(a => a.submitted);
+
+  if (saved && !isAutoContinue && hasRealProgress) {
+    // 구간 버튼이 아닌 다른 경로(껐다 재접속 등)로 들어온 경우에만 선택지 제공
+    pendingResume = saved;
+    renderResumeChoice(saved);
+    return;
+  }
+
   if (saved) {
-    examQuestions = saved.ids.map(id => allQuestions.find(q => q.id === id)).filter(Boolean);
-    userAnswers   = saved.userAnswers;
-    current       = saved.current;
-    examEndTime   = saved.examEndTime;
-    secondsLeft   = Math.max(0, Math.round((examEndTime - Date.now()) / 1000));
+    restoreFromSaved(saved);
   } else {
-    buildExam();
-    if (SEGMENTED) {
-      examEndTime = Date.now() + secondsLeft * 1000;
-      saveProgress();
-    }
+    startFreshExam();
   }
 
   renderQuestion();
   startTimer();
   examStarted = true;
 });
+
+function restoreFromSaved(saved) {
+  examQuestions = saved.ids.map(id => allQuestions.find(q => q.id === id)).filter(Boolean);
+  userAnswers   = saved.userAnswers;
+  current       = saved.current;
+  examEndTime   = saved.examEndTime;
+  secondsLeft   = Math.max(0, Math.round((examEndTime - Date.now()) / 1000));
+}
+
+function startFreshExam() {
+  buildExam();
+  if (SEGMENTED) {
+    examEndTime = Date.now() + secondsLeft * 1000;
+    saveProgress();
+  }
+}
+
+/* ── 이어하기 선택 화면 (SEGMENTED 전용) ─────────── */
+function renderResumeChoice(saved) {
+  const doneCount = saved.userAnswers.filter(a => a.submitted).length;
+  const total = saved.userAnswers.length;
+  elQuestion.innerHTML = `
+    <div class="question-card" style="text-align:center;padding:2.5rem 1.5rem;">
+      <div style="font-size:2.2rem;margin-bottom:.5rem;">📝</div>
+      <h3 style="margin:0 0 .5rem;">풀다 만 시험이 있어요</h3>
+      <p style="color:var(--text-mid);margin:0 0 1.5rem;">${doneCount} / ${total}번까지 진행했습니다. 이어서 풀까요?</p>
+      <div class="exam-nav" style="justify-content:center;">
+        <button class="btn btn-secondary" onclick="startOverExam()">새로 시작하기</button>
+        <button class="btn btn-primary btn-lg" onclick="resumeExam()">이어서 풀기 →</button>
+      </div>
+    </div>`;
+}
+
+function resumeExam() {
+  restoreFromSaved(pendingResume);
+  pendingResume = null;
+  renderQuestion();
+  startTimer();
+  examStarted = true;
+}
+
+function startOverExam() {
+  pendingResume = null;
+  clearProgress();
+  startFreshExam();
+  renderQuestion();
+  startTimer();
+  examStarted = true;
+}
 
 async function loadData() {
   const res = await fetch(DATA_URL);
@@ -494,6 +548,7 @@ function renderSegmentBreak() {
 function goToNextSegment() {
   current += 1;
   saveProgress();
+  sessionStorage.setItem(AUTO_CONTINUE_KEY, '1');
   location.reload();
 }
 
@@ -545,6 +600,7 @@ function navigate(dir) {
   const newIdx = current + dir;
   if (newIdx < 0 || newIdx >= examQuestions.length) return;
   current = newIdx;
+  saveProgress();
   renderQuestion();
   window.scrollTo(0, 0);
 }
