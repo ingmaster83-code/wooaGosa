@@ -393,6 +393,11 @@ function renderQuestion() {
     </div>`;
   }
 
+  html += `
+    <div class="report-error">
+      <a href="${buildReportMailto(q)}" target="_blank" rel="noopener noreferrer">🚩 문제에 오류가 있으면 신고 부탁드립니다</a>
+    </div>`;
+
   html += `</div>`;  // question-card
 
   // 제출 버튼 / 다음 버튼
@@ -530,6 +535,12 @@ function shuffle(arr) {
     [arr[i], arr[j]] = [arr[j], arr[i]];
   }
   return arr;
+}
+
+function buildReportMailto(q) {
+  const subject = `[WooaGosa 오류 신고] ${FILE} - 문제 ID ${q.id}`;
+  const body = `시험: ${FILE}\n문제 ID: ${q.id}\n출제일자: ${q.date || ''}\n문제 번호: ${q.question_no || ''}\n\n문제 내용:\n${q.question}\n\n어떤 오류가 있는지 알려주세요 (예: 보기 내용이 이상해요 / 정답이 틀린 것 같아요 / 해설이 잘못됐어요 등):\n`;
+  return `mailto:wooahouse02@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
 
 function escHtml(str) {

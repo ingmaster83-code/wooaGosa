@@ -565,6 +565,10 @@ main { flex: 1; }
 .explain-box.visible { display: block; }
 .explain-box strong { display: block; margin-bottom: .35rem; font-size: .9rem; }
 
+.report-error { margin-top: .9rem; text-align: right; }
+.report-error a { font-size: .78rem; color: var(--text-mid); text-decoration: none; opacity: .7; }
+.report-error a:hover { opacity: 1; text-decoration: underline; }
+
 .exam-nav {
   display: flex;
   align-items: center;
