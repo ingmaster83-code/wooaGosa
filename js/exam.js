@@ -205,13 +205,12 @@ let timerHandle   = null;
 let secondsLeft   = 0;
 let examStarted   = false;
 
-/* ── 구간 나누기 (페이지뷰/광고 프로토타입) ─────────
- * SEGMENTED_FILES 에 등록된 시험만 10문제마다 실제 페이지를 새로고침해서
- * 광고가 새로 노출되도록 함. 나머지 시험은 기존 방식(새로고침 없음) 그대로 동작.
+/* ── 구간 나누기 (페이지뷰/광고) ─────────────────
+ * 10문제마다 실제 페이지를 새로고침해서 광고가 새로 노출되도록 함.
+ * 문제 수가 10개 미만인 시험(오답노트 복습 등)은 경계에 도달하지 않아 자동으로 영향 없음.
  */
 const SEGMENT_SIZE = 10;
-const SEGMENTED_FILES = new Set(['미용사_일반']);
-const SEGMENTED = SEGMENTED_FILES.has(FILE);
+const SEGMENTED = true;
 const PROGRESS_KEY = 'wooagosa_segprogress';
 const AUTO_CONTINUE_KEY = 'wooagosa_segautocontinue'; // 구간 버튼으로 넘어온 새로고침인지 구분
 let examEndTime = null; // SEGMENTED 전용: 절대 종료 시각(ms). 새로고침에도 타이머 유지.
