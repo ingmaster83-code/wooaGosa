@@ -2025,12 +2025,6 @@ def make_page(exam):
   }}
 
   function startExam() {{
-    const today = new Date().toISOString().slice(0, 10);
-    if (localStorage.getItem('gp_prompt_date') === today) {{
-      gpGoToExam();
-      return;
-    }}
-    localStorage.setItem('gp_prompt_date', today);
     document.getElementById('gpModal').classList.add('open');
   }}
 
