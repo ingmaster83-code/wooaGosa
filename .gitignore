@@ -23,5 +23,8 @@ __pycache__/
 Thumbs.db
 CLAUDE.md
 
-# 내부 빌드/수정 스크립트 - git에 올리지 않음
+# 내부 빌드/수정 스크립트 - git에 올리지 않음 (단, 핵심 스크립트는 예외)
 *.py
+!generate_exam_pages.py
+!parse_comcbt.py
+!reparse_5choice.py
