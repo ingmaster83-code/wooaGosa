@@ -76,9 +76,45 @@
       text-decoration: none; transition: var(--trans); white-space: nowrap;
     }
     .exam-link-btn:hover { border-color: var(--blue); color: var(--blue); background: #eff6ff; }
+    .gp-modal-overlay {
+      display: none; position: fixed; inset: 0; z-index: 999;
+      background: rgba(15,23,42,.55); align-items: center; justify-content: center;
+      padding: 1rem;
+    }
+    .gp-modal-overlay.open { display: flex; }
+    .gp-modal-card {
+      background: var(--card-bg); border-radius: var(--radius);
+      padding: 1.75rem 1.5rem; max-width: 360px; width: 100%;
+      text-align: center; box-shadow: 0 20px 50px rgba(0,0,0,.3);
+    }
+    .gp-modal-card .gp-icon { font-size: 2.2rem; margin-bottom: .5rem; }
+    .gp-modal-card h3 { font-size: 1.05rem; color: var(--navy); margin-bottom: .4rem; }
+    .gp-modal-card p { font-size: .85rem; color: var(--text-mid); margin-bottom: 1.25rem; line-height: 1.5; }
+    .gp-modal-btns { display: flex; flex-direction: column; gap: .6rem; }
+    .gp-modal-btn {
+      display: block; padding: .8rem 1rem; border-radius: var(--radius-sm);
+      font-weight: 700; font-size: .92rem; text-decoration: none; cursor: pointer;
+      border: none; width: 100%;
+    }
+    .gp-modal-btn-primary { background: var(--blue); color: #fff; }
+    .gp-modal-btn-primary:hover { opacity: .9; }
+    .gp-modal-btn-secondary { background: var(--bg); color: var(--text-mid); border: 1.5px solid var(--border); }
+    .gp-modal-btn-secondary:hover { border-color: var(--blue); color: var(--blue); }
   </style>
 </head>
 <body>
+
+<div class="gp-modal-overlay" id="gpModal">
+  <div class="gp-modal-card">
+    <div class="gp-icon">📅</div>
+    <h3>혹시 시험일정 확인하셨나요?</h3>
+    <p>실제 시험 접수 일정을 놓치지 않도록<br>미리 확인해보세요.</p>
+    <div class="gp-modal-btns">
+      <a href="https://wooagosapass.wooahouse.com/" target="_blank" rel="noopener" class="gp-modal-btn gp-modal-btn-primary" onclick="gpProceed()">📅 시험일정 확인하기</a>
+      <button type="button" class="gp-modal-btn gp-modal-btn-secondary" onclick="gpProceed()">✏️ 바로 문제풀기</button>
+    </div>
+  </div>
+</div>
 
 <header class="site-header">
   <div class="header-inner">
@@ -287,8 +323,23 @@
     document.getElementById('sb-mode').textContent = names[mode] || mode;
   }
 
-  function startExam() {
+  function gpGoToExam() {
     location.href = `exam.html?type=수질환경산업기사&mode=${selectedMode}&label=수질환경산업기사&count=80`;
+  }
+
+  function gpProceed() {
+    document.getElementById('gpModal').classList.remove('open');
+    gpGoToExam();
+  }
+
+  function startExam() {
+    const today = new Date().toISOString().slice(0, 10);
+    if (localStorage.getItem('gp_prompt_date') === today) {
+      gpGoToExam();
+      return;
+    }
+    localStorage.setItem('gp_prompt_date', today);
+    document.getElementById('gpModal').classList.add('open');
   }
 
   function toggleFaq(btn) {
