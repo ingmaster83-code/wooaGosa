@@ -371,6 +371,8 @@ main { flex: 1; }
 .btn-secondary:hover { background: var(--border); }
 .btn-danger { background: var(--red); color: #fff; }
 .btn-danger:hover { background: #dc2626; }
+.btn-accent { background: var(--green); color: #fff; }
+.btn-accent:hover { background: #16a34a; transform: translateY(-1px); }
 .btn-lg { padding: .8rem 1.75rem; font-size: 1rem; border-radius: var(--radius); }
 
 /* ── Modal / Overlay ────────────────────────────── */

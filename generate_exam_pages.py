@@ -1986,6 +1986,11 @@ def make_page(exam):
           </div>
           <button class="btn btn-primary btn-lg" onclick="startExam()">시험 시작 →</button>
         </div>
+        <div style="margin-top:12px;text-align:center;">
+          <a href="https://wooagosapass.wooahouse.com/" target="_blank" rel="noopener" class="btn btn-accent btn-lg" style="width:100%;justify-content:center;">
+            📊 이 시험 합격률·시험일정 확인하기 →
+          </a>
+        </div>
       </section>
 
 {MOBILE_INLINE_AD}
