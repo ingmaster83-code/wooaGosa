@@ -10,9 +10,6 @@ check_edge.py
 inspect_pdf.py
 inspect_pdf2.py
 
-# 파싱 스크립트 원본 PDF (문제지 폴더 전체)
-문제지/
-
 # Python 캐시
 __pycache__/
 *.pyc
@@ -28,3 +25,4 @@ CLAUDE.md
 !generate_exam_pages.py
 !parse_comcbt.py
 !reparse_5choice.py
+!generate_download_pages.py

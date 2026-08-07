@@ -1779,13 +1779,31 @@ for _jf in sorted(_DATA_DIR.glob("*.json")):
 
 # ── HTML 생성 함수 ──────────────────────────────────────
 
+# exam type -> download-{key}.html 키가 다른 예외 (문제은행이 여러 시험을 한 파일로 묶어서 제공하는 경우)
+DOWNLOAD_KEY_OVERRIDE = {
+    '1jong-daebyeong': 'license_1_2',
+    '1jong-botong': 'license_1_2',
+    '2jong-botong': 'license_1_2',
+}
+
+
 def links_html(exam_type):
+    download_key = DOWNLOAD_KEY_OVERRIDE.get(exam_type, exam_type)
+    download_html = ''
+    if (OUT_DIR / f"download-{download_key}.html").exists():
+        download_html = f'''
+      <div class="exam-schedule-box">
+        <span class="sch-label">📥 기출문제 원본 PDF가 필요하다면</span>
+        <div class="exam-link-btns">
+        <a href="download-{download_key}.html" class="exam-link-btn">문제은행 바로가기 →</a>
+        </div>
+      </div>'''
     return f'''      <div class="exam-schedule-box">
         <span class="sch-label">📅 시험 일정 · 접수</span>
         <div class="exam-link-btns">
         <a href="https://wooagosapass.wooahouse.com/" target="_blank" rel="noopener" class="exam-link-btn">시험일정·접수 바로가기 ↗</a>
         </div>
-      </div>'''
+      </div>{download_html}'''
 
 def faq_html(items):
     html = '<section style="margin-top:2.5rem;" aria-label="자주 묻는 질문">\n'
@@ -1956,6 +1974,17 @@ def make_page(exam):
   <div class="page-with-sidebar">
     <div class="gosa-main">
 
+      <!-- 광고 -->
+      <div class="ad-slot" style="margin-bottom:1.5rem;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-6464921081676309"
+             data-ad-slot="7080296704"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
+      </div>
+
       {exam["info"]}
 
 {lnks}
@@ -1994,6 +2023,17 @@ def make_page(exam):
       </section>
 
 {MOBILE_INLINE_AD}
+
+      <!-- 광고 -->
+      <div class="ad-slot" style="margin-bottom:1.5rem;">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-6464921081676309"
+             data-ad-slot="1419180025"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+        <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
+      </div>
 
       {faq}
 
@@ -2042,6 +2082,7 @@ def make_page(exam):
     navigator.serviceWorker.register('sw.js').catch(() => {{}});
   }}
 </script>
+<script src="js/ad-dev-placeholder.js"></script>
 </body>
 </html>'''
 
