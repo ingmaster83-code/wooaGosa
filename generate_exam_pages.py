@@ -54,7 +54,7 @@ SIDEBAR_ADS = """    <aside class="tool-sidebar">
         <ins class="adsbygoogle"
              style="display:block;width:100%;min-height:250px"
              data-ad-client="ca-pub-6464921081676309"
-             data-ad-slot="1419180025"
+             data-ad-slot="7080296704"
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
@@ -1979,7 +1979,7 @@ def make_page(exam):
         <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-6464921081676309"
-             data-ad-slot="7080296704"
+             data-ad-slot="6255378195"
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script>
