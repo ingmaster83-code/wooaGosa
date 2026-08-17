@@ -206,10 +206,10 @@ let secondsLeft   = 0;
 let examStarted   = false;
 
 /* ── 구간 나누기 (페이지뷰/광고) ─────────────────
- * 10문제마다 실제 페이지를 새로고침해서 광고가 새로 노출되도록 함.
- * 문제 수가 10개 미만인 시험(오답노트 복습 등)은 경계에 도달하지 않아 자동으로 영향 없음.
+ * 5문제마다 실제 페이지를 새로고침해서 광고가 새로 노출되도록 함.
+ * 문제 수가 5개 미만인 시험(오답노트 복습 등)은 경계에 도달하지 않아 자동으로 영향 없음.
  */
-const SEGMENT_SIZE = 10;
+const SEGMENT_SIZE = 5;
 const SEGMENTED = true;
 const PROGRESS_KEY = 'wooagosa_segprogress';
 const AUTO_CONTINUE_KEY = 'wooagosa_segautocontinue'; // 구간 버튼으로 넘어온 새로고침인지 구분
@@ -448,7 +448,7 @@ function renderQuestion() {
   elProgressBar.style.width = `${((current + 1) / examQuestions.length) * 100}%`;
   updateNavButtons();
 
-  // 구간(10문제) 완료 시점: 실제 페이지 새로고침으로 넘어가는 중간 화면
+  // 구간(5문제) 완료 시점: 실제 페이지 새로고침으로 넘어가는 중간 화면
   const isLastQuestion = current === examQuestions.length - 1;
   if (SEGMENTED && ua.submitted && (current + 1) % SEGMENT_SIZE === 0 && !isLastQuestion) {
     renderSegmentBreak();
@@ -540,8 +540,17 @@ function renderSegmentBreak() {
       <div style="font-size:2.2rem;margin-bottom:.5rem;">✅</div>
       <h3 style="margin:0 0 .5rem;">${segStart + 1}~${current + 1}번 완료!</h3>
       <p style="color:var(--text-mid);margin:0 0 1.5rem;">이번 구간 정답 ${correctCount} / ${SEGMENT_SIZE}</p>
+      <div class="segment-break-ad">
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-6464921081676309"
+             data-ad-slot="1419180025"
+             data-ad-format="auto"
+             data-full-width-responsive="true"></ins>
+      </div>
       <button class="btn btn-primary btn-lg" onclick="goToNextSegment()">다음 ${SEGMENT_SIZE}문제 이어풀기 →</button>
     </div>`;
+  (window.adsbygoogle = window.adsbygoogle || []).push({});
 }
 
 function goToNextSegment() {
