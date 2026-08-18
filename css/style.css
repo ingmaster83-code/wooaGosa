@@ -739,6 +739,15 @@ main { flex: 1; }
   padding: 8px;
   min-height: 100px;
 }
+/* 콘텐츠 안 광고: 데스크탑·모바일 둘 다 항상 보임 (사이드바와 별개로 본문 흐름에 낌) */
+.content-ad {
+  margin: 1.5rem 0;
+  text-align: center;
+  background: var(--card-bg);
+  border-radius: var(--radius-sm);
+  padding: 8px;
+  min-height: 100px;
+}
 /* 구간 완료 화면 광고: 데스크탑은 사이드바(1419180025)가 이미 떠있으므로
    같은 슬롯 중복 노출을 피하기 위해 모바일에서만 표시 */
 .segment-break-ad {

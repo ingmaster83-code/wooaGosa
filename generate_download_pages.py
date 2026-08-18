@@ -392,6 +392,7 @@ LIST_PAGE_TMPL = """<!DOCTYPE html>
 </header>
 
 <script src="js/wooa-sites-bar.js"></script>
+<script src="js/ad-dev-placeholder.js"></script>
 
 <section class="hero" style="padding:2rem 1.25rem 1.5rem;">
   <h1>전국 자격증 문제은행 다운로드</h1>
