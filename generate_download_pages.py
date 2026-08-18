@@ -375,6 +375,7 @@ LIST_PAGE_TMPL = """<!DOCTYPE html>
     .bank-search-wrap {{ max-width:640px; margin:0 auto 1.5rem; padding:0 1.25rem; }}
     .bank-search-box {{ width:100%; padding:.85rem 1.1rem; border:1.5px solid var(--border); border-radius:var(--radius); font-size:.95rem; }}
     .bank-grid {{ display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:.75rem; }}
+    .bank-grid-ad {{ grid-column:1 / -1; min-height:100px; }}
     .bank-card {{ display:block; background:var(--card-bg); border:1.5px solid var(--border); border-radius:var(--radius-sm); padding:1rem 1.1rem; text-decoration:none; transition:var(--trans); }}
     .bank-card:hover {{ border-color:var(--blue); box-shadow:var(--shadow); }}
     .bank-card-name {{ font-weight:700; color:var(--navy); font-size:.92rem; margin-bottom:.3rem; }}
@@ -445,9 +446,22 @@ document.getElementById('bankSearch').addEventListener('input', function(e) {{
 """
 
 
+INFEED_AD_SLOTS = ['9476474263', '4966383618', '4224147589']
+INFEED_AD_TMPL = (
+    '        <div class="bank-grid-ad">'
+    '<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6464921081676309" '
+    'data-ad-slot="{slot}" data-ad-format="fluid" data-ad-layout-key="-6t+ed+2i-1n-4w"></ins>'
+    '<script>(adsbygoogle = window.adsbygoogle || []).push({{}});</script></div>'
+)
+
+
 def build_list_page(entries):
     cards = []
-    for key, name, qcount, rcount in entries:
+    ad_idx = 0
+    for i, (key, name, qcount, rcount) in enumerate(entries):
+        if i > 0 and i % 24 == 0:
+            cards.append(INFEED_AD_TMPL.format(slot=INFEED_AD_SLOTS[ad_idx % len(INFEED_AD_SLOTS)]))
+            ad_idx += 1
         cards.append(
             f'        <a class="bank-card" href="download-{key}.html" data-name="{name.lower()}">'
             f'<div class="bank-card-name">{name}</div>'
