@@ -30,20 +30,8 @@
     ins.insertAdjacentElement('afterend', box);
   }
 
-  function decorateCoupang(script) {
-    if (script.dataset.adDevDone) return;
-    script.dataset.adDevDone = '1';
-    var box = document.createElement('div');
-    box.className = 'ad-dev-placeholder';
-    box.textContent = '📢 쿠팡 파트너스 위젯 영역';
-    script.insertAdjacentElement('afterend', box);
-  }
-
   function scan() {
     document.querySelectorAll('ins.adsbygoogle').forEach(decorate);
-    document.querySelectorAll('script').forEach(function (s) {
-      if (s.textContent.indexOf('PartnersCoupang.G(') !== -1) decorateCoupang(s);
-    });
   }
 
   scan();

@@ -61,12 +61,6 @@ SIDEBAR_ADS = """    <aside class="tool-sidebar">
              data-full-width-responsive="true"></ins>
         <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
       </div>
-      <div class="ad-card">
-        <script src="https://ads-partners.coupang.com/g.js"></script>
-        <script>
-          new PartnersCoupang.G({"id":974224,"trackingCode":"AF5600192","subId":null,"template":"carousel","width":"300","height":"250"});
-        </script>
-      </div>
     </aside>"""
 
 MOBILE_AD = """  <div class="mobile-top-ad">
@@ -76,19 +70,7 @@ MOBILE_AD = """  <div class="mobile-top-ad">
          data-ad-slot="7080296704"
          data-ad-format="auto"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-    <script src="https://ads-partners.coupang.com/g.js"></script>
-    <script>
-      new PartnersCoupang.G({"id":974224,"trackingCode":"AF5600192","subId":null,"template":"carousel","width":"320","height":"100"});
-    </script>
   </div>"""
-
-MOBILE_INLINE_AD = """      <!-- 모바일 인라인 광고 -->
-      <div class="mobile-inline-ad">
-        <script src="https://ads-partners.coupang.com/g.js"></script>
-        <script>
-          new PartnersCoupang.G({"id":974224,"trackingCode":"AF5600192","subId":null,"template":"carousel","width":"300","height":"250"});
-        </script>
-      </div>"""
 
 # ── 공식 사이트 링크 ─────────────────────────────────────
 OFFICIAL_LINKS = {
@@ -2024,8 +2006,6 @@ def make_page(exam):
           </a>
         </div>
       </section>
-
-{MOBILE_INLINE_AD}
 
       <!-- 광고 -->
       <div class="ad-slot" style="margin-bottom:1.5rem;">
