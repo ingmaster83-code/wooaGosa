@@ -32,6 +32,12 @@
     }
     /* exam-header는 기존 sticky 헤더 위에 고정 */
     .tool-sidebar { top: 120px; } /* exam-header(~56px) + progress-bar(4px) + 여백 */
+
+    /* 이 페이지 전용 광고 레이아웃: 데스크탑=상단+사이드, 모바일=상단+사이드(하단으로 이동) */
+    .mobile-top-ad { display: block; }
+    @media (max-width: 1024px) {
+      .tool-sidebar { display: block; position: static; }
+    }
   </style>
 </head>
 <body>
@@ -85,15 +91,6 @@
           문제를 불러오는 중...
         </div>
 
-        <!-- 문제 영역 바깥 고정 광고: JS가 #question-area 내부만 갈아끼우므로 여기 두면 문제 전환 시에도 유지됨 -->
-        <div class="mobile-inline-ad">
-          <ins class="adsbygoogle"
-               style="display:block"
-               data-ad-client="ca-pub-6464921081676309"
-               data-ad-slot="6255378195"
-               data-ad-format="auto"></ins>
-          <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-        </div>
       </div>
     </div>
 
