@@ -94,6 +94,9 @@ const COUNT = parseInt(params.get('count') || String(DEFAULT_COUNT[FILE] || auto
 
 const DATA_URL_MAP = {
   'license12':        'data/license_1_2.json',
+  '1jong-daebyeong':  'data/license_1_2.json',
+  '1jong-botong':     'data/license_1_2.json',
+  '2jong-botong':     'data/license_1_2.json',
   'motorcycle':       'data/motorcycle.json',
   'history_basic':    'data/history_basic.json',
   'history_advanced': 'data/history_advanced.json',

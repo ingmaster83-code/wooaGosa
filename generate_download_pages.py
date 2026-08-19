@@ -13,6 +13,8 @@ ROOT = Path(__file__).parent
 DATA_DIR = ROOT / "data"
 PDF_DIR = ROOT / "문제지"
 
+ADBLOCK_RECOVERY_TAG = """  <script async src="https://fundingchoicesmessages.google.com/i/pub-6464921081676309?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>"""
+
 # data 키 -> 문제지 폴더명이 NAME_MAP과 다른 예외 케이스
 PDF_FOLDER_OVERRIDE = {
     'excavator': '굴착기(굴삭기)운전기능사',
@@ -95,6 +97,7 @@ PAGE_TMPL = """<!DOCTYPE html>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css?v=4">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+{ADBLOCK_RECOVERY_TAG}
 </head>
 <body>
 
@@ -326,6 +329,7 @@ def build_page(key, questions):
     mock_exam_link = f"exam-{key}.html" if (ROOT / f"exam-{key}.html").exists() else "index.html"
 
     html = PAGE_TMPL.format(
+        ADBLOCK_RECOVERY_TAG=ADBLOCK_RECOVERY_TAG,
         name=name,
         key=key,
         qcount=qcount,
@@ -371,6 +375,7 @@ LIST_PAGE_TMPL = """<!DOCTYPE html>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css?v=4">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+{ADBLOCK_RECOVERY_TAG}
   <style>
     .bank-search-wrap {{ max-width:640px; margin:0 auto 1.5rem; padding:0 1.25rem; }}
     .bank-search-box {{ width:100%; padding:.85rem 1.1rem; border:1.5px solid var(--border); border-radius:var(--radius); font-size:.95rem; }}
@@ -468,7 +473,7 @@ def build_list_page(entries):
             f'<div class="bank-card-name">{name}</div>'
             f'<div class="bank-card-meta">📚 {qcount}문항 · 🗓 {rcount}개 회차</div></a>'
         )
-    return LIST_PAGE_TMPL.format(count=len(entries), cards_html="\n".join(cards))
+    return LIST_PAGE_TMPL.format(count=len(entries), cards_html="\n".join(cards), ADBLOCK_RECOVERY_TAG=ADBLOCK_RECOVERY_TAG)
 
 
 def main():

@@ -21,6 +21,8 @@ GA = """  <!-- Google tag (gtag.js) -->
     gtag('config', 'G-9ZGENFSXWC');
   </script>"""
 
+ADBLOCK_RECOVERY_TAG = """  <script async src="https://fundingchoicesmessages.google.com/i/pub-6464921081676309?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>"""
+
 SITES_BAR = """<div class="our-sites-bar">
   <div class="our-sites-inner">
   <span class="our-sites-label">🏠 우아하우스 패밀리 사이트 · 도구모음</span>
@@ -1853,6 +1855,7 @@ def make_page(exam):
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css?v=2">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+{ADBLOCK_RECOVERY_TAG}
   <style>
     .exam-info-box {{ margin-bottom: 1.5rem; }}
     .info-table {{ width: 100%; border-collapse: collapse; font-size: .9rem; }}
