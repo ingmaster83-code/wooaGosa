@@ -1,7 +1,7 @@
 /**
  * WooaGosa Service Worker – 오프라인 캐싱
  */
-const CACHE_NAME = 'wooagosa-v4';
+const CACHE_NAME = 'wooagosa-v5';
 const PRECACHE = [
   '/',
   '/index.html',
@@ -32,6 +32,7 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
+  if (new URL(e.request.url).origin !== self.location.origin) return; // 타사(광고·분석 등) 요청은 그대로 통과
   // JSON 데이터는 항상 네트워크 우선 (최신 문제 유지)
   if (e.request.url.includes('/data/')) {
     e.respondWith(
