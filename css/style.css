@@ -814,6 +814,7 @@ main { flex: 1; }
 .footer-col a{display:block;color:#9CA3AF;padding:3px 0;font-size:.84rem;transition:color .2s;text-decoration:none;}
 .footer-col a:hover{color:#10B981;}
 .footer-bottom{text-align:center;border-top:1px solid #1F2937;padding-top:20px;color:#6B7280;font-size:.82rem;}
+.coupang-notice{font-size:.65rem;color:#9CA3AF;text-align:center;padding-top:10px;border-top:1px solid #374151;margin-top:10px;}
 @media(max-width:768px){.footer-grid{grid-template-columns:1fr 1fr;}}
 
 /* ===== 문제은행 다운로드 ===== */

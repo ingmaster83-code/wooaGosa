@@ -139,5 +139,22 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
 <footer class="footer"></footer>
 <script src="js/wooa-sidebar.js"></script>
 <script src="js/wooa-footer.js"></script>
+<script>
+  (function () {
+    function addCoupangNotice() {
+      var fi = document.querySelector('footer.footer .footer-inner');
+      if (!fi || fi.querySelector('.coupang-notice')) return;
+      var p = document.createElement('p');
+      p.className = 'coupang-notice';
+      p.textContent = '이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.';
+      fi.appendChild(p);
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', addCoupangNotice);
+    } else {
+      addCoupangNotice();
+    }
+  })();
+</script>
 </body>
 </html>
