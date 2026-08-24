@@ -1920,7 +1920,7 @@ def make_page(exam):
     <h3>혹시 시험일정 확인하셨나요?</h3>
     <p>실제 시험 접수 일정을 놓치지 않도록<br>미리 확인해보세요.</p>
     <div class="gp-modal-btns">
-      <a href="https://wooagosapass.wooahouse.com/" target="_blank" rel="noopener" class="gp-modal-btn gp-modal-btn-primary" onclick="gpProceed()">📅 시험일정 확인하기</a>
+      <a href="https://wooagosapass.wooahouse.com/" target="_blank" rel="noopener" class="gp-modal-btn gp-modal-btn-primary">📅 시험일정 확인하기</a>
       <button type="button" class="gp-modal-btn gp-modal-btn-secondary" onclick="gpProceed()">✏️ 바로 문제풀기</button>
     </div>
   </div>
