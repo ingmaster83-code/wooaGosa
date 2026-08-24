@@ -547,7 +547,7 @@ function renderSegmentBreak() {
         <ins class="adsbygoogle"
              style="display:block"
              data-ad-client="ca-pub-6464921081676309"
-             data-ad-slot="1419180025"
+             data-ad-slot="6255378195"
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
       </div>
