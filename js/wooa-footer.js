@@ -12,7 +12,7 @@
         '<div class="footer-grid">' +
           '<div class="footer-col">' +
             '<h4>🏠 WooaHouse</h4>' +
-            '<p style="color:#9CA3AF;font-size:.84rem;line-height:1.6">설치 불필요 &middot; 로그인 불필요<br>브라우저에서 바로 씻는 무료 도구 모음</p>' +
+            '<p style="color:#9CA3AF;font-size:.84rem;line-height:1.6">설치 불필요 &middot; 로그인 불필요<br>브라우저에서 바로 쓰는 무료 도구 모음</p>' +
             '<a href="https://wooahouse.com" target="_blank" style="margin-top:10px;display:inline-block;color:#10B981;">wooahouse.com →</a>' +
           '</div>' +
           '<div class="footer-col">' +
@@ -41,6 +41,7 @@
           '</div>' +
         '</div>' +
         '<div class="footer-bottom">&copy; 2026 WooaHouse. All rights reserved.</div>' +
+        '<div style="text-align:center;padding:8px 20px 0;font-size:.72rem;color:#4B5563;line-height:1.6">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</div>' +
       '</div>';
   }
 
