@@ -208,23 +208,26 @@ let timerHandle   = null;
 let secondsLeft   = 0;
 let examStarted   = false;
 
-/* ── 구간 나누기 (페이지뷰/광고) ─────────────────
- * 5문제마다 실제 페이지를 새로고침해서 광고가 새로 노출되도록 함.
+/* ── 구간 나누기 (진행 페이싱 + 광고 1개) ─────────────────
+ * 5문제마다 "구간 완료" 카드를 보여주고(점수 + 본문 광고 1개), 사용자가 버튼을 누르면
+ * 새로고침 없이 제자리에서 다음 문제로 진행한다.
+ * (예전엔 여기서 location.reload()로 페이지 광고를 통째로 재노출시켰으나, 인위적 노출
+ *  생성에 해당하고 페이지뷰만 부풀려 RPM을 망가뜨려서 2026-09 제거함.)
  * 문제 수가 5개 미만인 시험(오답노트 복습 등)은 경계에 도달하지 않아 자동으로 영향 없음.
  */
 const SEGMENT_SIZE = 5;
 const SEGMENTED = true;
 const PROGRESS_KEY = 'wooagosa_segprogress';
-const AUTO_CONTINUE_KEY = 'wooagosa_segautocontinue'; // 구간 버튼으로 넘어온 새로고침인지 구분
-let examEndTime = null; // SEGMENTED 전용: 절대 종료 시각(ms). 새로고침에도 타이머 유지.
+let examEndTime = null; // SEGMENTED 전용: 절대 종료 시각(ms). 새로고침(수동)에도 타이머 유지.
 let pendingResume = null; // 이어하기 선택 화면에서 사용할 저장된 진행상태
+let continuedSegments = []; // "다음 5문제 이어풀기"를 눌러 지나간 구간 경계 문제 인덱스(중복 표시 방지)
 
 function saveProgress() {
   if (!SEGMENTED) return;
   sessionStorage.setItem(PROGRESS_KEY, JSON.stringify({
     file: FILE, mode: MODE, count: COUNT,
     ids: examQuestions.map(q => q.id),
-    userAnswers, current, examEndTime,
+    userAnswers, current, examEndTime, continuedSegments,
   }));
 }
 
@@ -292,12 +295,10 @@ window.addEventListener('DOMContentLoaded', async () => {
   await loadData();
 
   const saved = loadProgress();
-  const isAutoContinue = sessionStorage.getItem(AUTO_CONTINUE_KEY) === '1';
-  sessionStorage.removeItem(AUTO_CONTINUE_KEY);
   const hasRealProgress = saved && saved.userAnswers.some(a => a.submitted);
 
-  if (saved && !isAutoContinue && hasRealProgress) {
-    // 구간 버튼이 아닌 다른 경로(껐다 재접속 등)로 들어온 경우에만 선택지 제공
+  if (saved && hasRealProgress) {
+    // 저장된 진행상황이 있으면(껐다 재접속·수동 새로고침 등) 이어하기 선택지 제공
     pendingResume = saved;
     renderResumeChoice(saved);
     return;
@@ -319,6 +320,7 @@ function restoreFromSaved(saved) {
   userAnswers   = saved.userAnswers;
   current       = saved.current;
   examEndTime   = saved.examEndTime;
+  continuedSegments = saved.continuedSegments || [];
   secondsLeft   = Math.max(0, Math.round((examEndTime - Date.now()) / 1000));
 }
 
@@ -389,6 +391,7 @@ function buildExam() {
   }
 
   userAnswers = examQuestions.map(() => ({ selected: [], submitted: false, correct: false }));
+  continuedSegments = [];
   const FULL_TIME = {
     'history_basic':    70 * 60,
     'history_advanced': 80 * 60,
@@ -451,9 +454,11 @@ function renderQuestion() {
   elProgressBar.style.width = `${((current + 1) / examQuestions.length) * 100}%`;
   updateNavButtons();
 
-  // 구간(5문제) 완료 시점: 실제 페이지 새로고침으로 넘어가는 중간 화면
+  // 구간(5문제) 완료 시점: "구간 완료" 카드(점수 + 광고 1개)를 보여주고 버튼으로 이어감.
+  // 단, 이미 다음 문제로 진행한 뒤 ◀이전으로 되돌아온 경우엔 카드 대신 해당 문제를 그대로 보여줌.
   const isLastQuestion = current === examQuestions.length - 1;
-  if (SEGMENTED && ua.submitted && (current + 1) % SEGMENT_SIZE === 0 && !isLastQuestion) {
+  if (SEGMENTED && ua.submitted && (current + 1) % SEGMENT_SIZE === 0 && !isLastQuestion
+      && !continuedSegments.includes(current)) {
     renderSegmentBreak();
     return;
   }
@@ -557,10 +562,11 @@ function renderSegmentBreak() {
 }
 
 function goToNextSegment() {
+  if (!continuedSegments.includes(current)) continuedSegments.push(current);
   current += 1;
   saveProgress();
-  sessionStorage.setItem(AUTO_CONTINUE_KEY, '1');
-  location.reload();
+  renderQuestion();
+  window.scrollTo(0, 0);
 }
 
 /* ── 답 선택 ────────────────────────────────────── */
