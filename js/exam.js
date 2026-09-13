@@ -11,6 +11,7 @@
 const params  = new URLSearchParams(location.search);
 const TYPE    = params.get('type')  || 'license12';
 const MODE    = params.get('mode')  || 'random';
+const Q_PARAM = params.get('q'); // 문제 번호(1-base). 있으면 "다음/이전 버튼으로 온 재방문"으로 간주.
 
 const FILE = (() => {
   if (TYPE === 'motorcycle' || TYPE === 'motorbike') return 'motorcycle';
@@ -210,9 +211,11 @@ let examStarted   = false;
 
 /* ── 구간 나누기 (진행 페이싱 + 광고 1개) ─────────────────
  * 5문제마다 "구간 완료" 카드를 보여주고(점수 + 본문 광고 1개), 사용자가 버튼을 누르면
- * 새로고침 없이 제자리에서 다음 문제로 진행한다.
- * (예전엔 여기서 location.reload()로 페이지 광고를 통째로 재노출시켰으나, 인위적 노출
- *  생성에 해당하고 페이지뷰만 부풀려 RPM을 망가뜨려서 2026-09 제거함.)
+ * 다음 문제로 이동한다(문제 자체가 바뀌므로 goToQuestionPage로 실제 페이지 이동).
+ * (2026-09: 같은 URL을 location.reload()로 재노출시키던 예전 방식은 인위적 재노출로
+ *  판단돼 한 번 제거됐었음. 지금은 "문제마다 실제로 다른 URL(q=N)"로 이동하는 방식이라
+ *  같은 문제가 아니라 매번 진짜 다른 페이지 — 이 구간 카드 자체는 여전히 같은 페이지 안에서
+ *  보여주고, "다음 N문제 이어풀기" 버튼을 눌러야 실제 페이지 이동이 일어남.)
  * 문제 수가 5개 미만인 시험(오답노트 복습 등)은 경계에 도달하지 않아 자동으로 영향 없음.
  */
 const SEGMENT_SIZE = 5;
@@ -297,8 +300,10 @@ window.addEventListener('DOMContentLoaded', async () => {
   const saved = loadProgress();
   const hasRealProgress = saved && saved.userAnswers.some(a => a.submitted);
 
-  if (saved && hasRealProgress) {
-    // 저장된 진행상황이 있으면(껐다 재접속·수동 새로고침 등) 이어하기 선택지 제공
+  if (saved && hasRealProgress && !Q_PARAM) {
+    // 저장된 진행상황이 있으면(껐다 재접속·수동 새로고침 등) 이어하기 선택지 제공.
+    // 단, q 파라미터가 있으면 "다음/이전 문제" 버튼으로 온 정상적인 페이지 이동이므로
+    // 확인 없이 조용히 이어서 진행한다(아래 else 분기의 restoreFromSaved로 흘러감).
     pendingResume = saved;
     renderResumeChoice(saved);
     return;
@@ -565,8 +570,7 @@ function goToNextSegment() {
   if (!continuedSegments.includes(current)) continuedSegments.push(current);
   current += 1;
   saveProgress();
-  renderQuestion();
-  window.scrollTo(0, 0);
+  goToQuestionPage(current);
 }
 
 /* ── 답 선택 ────────────────────────────────────── */
@@ -613,13 +617,21 @@ function submitAnswer() {
 }
 
 /* ── 네비게이션 ─────────────────────────────────── */
+// 문제 하나하나를 "다른 페이지"로 취급 — 실제 URL(q=번호)을 바꿔서 이동시킨다.
+// (같은 URL을 location.reload()로 재노출시키던 예전 방식은 인위적 재노출로 판단돼 제거된 적 있어서
+//  반드시 URL 자체가 바뀌는 진짜 네비게이션으로 구현할 것. 위 wooagosa_segment_reload_removed 참고.)
+function goToQuestionPage(idx) {
+  const url = new URL(location.href);
+  url.searchParams.set('q', String(idx + 1));
+  location.href = url.toString();
+}
+
 function navigate(dir) {
   const newIdx = current + dir;
   if (newIdx < 0 || newIdx >= examQuestions.length) return;
   current = newIdx;
   saveProgress();
-  renderQuestion();
-  window.scrollTo(0, 0);
+  goToQuestionPage(current);
 }
 
 function updateNavButtons() {
