@@ -1,0 +1,4832 @@
+[
+  {
+    "question": "다음을 모두 포함할 수 있는 단어로 가장 적절한 것은? red yellow blue green",
+    "choices": {
+      "1": "color",
+      "2": "shape",
+      "3": "hobby",
+      "4": "country"
+    },
+    "answers": [
+      1
+    ],
+    "id": 1,
+    "round": 1,
+    "question_no": 1
+  },
+  {
+    "question": "두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "win－lose",
+      "2": "pull－push",
+      "3": "answer－reply",
+      "4": "arrive－leave"
+    },
+    "answers": [
+      3
+    ],
+    "id": 2,
+    "round": 2,
+    "question_no": 2
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: you tired? B: No, I am not.",
+    "choices": {
+      "1": "Do",
+      "2": "Is",
+      "3": "Are",
+      "4": "Does"
+    },
+    "answers": [
+      3
+    ],
+    "id": 3,
+    "round": 3,
+    "question_no": 3
+  },
+  {
+    "question": "다음 빈칸에 들어갈 수 없는 말은? I can fast.",
+    "choices": {
+      "1": "run",
+      "2": "easy",
+      "3": "cook",
+      "4": "walk"
+    },
+    "answers": [
+      2
+    ],
+    "id": 4,
+    "round": 4,
+    "question_no": 4
+  },
+  {
+    "question": "다음 대화의 마지막 응답으로 가장 적절한 것은? A: Can I help you? B: Yes, please. I’m looking for a new bag for my son. A:",
+    "choices": {
+      "1": "What day is it?",
+      "2": "What does he eat?",
+      "3": "What are you wearing?",
+      "4": "What style does he like?"
+    },
+    "answers": [
+      4
+    ],
+    "id": 5,
+    "round": 5,
+    "question_no": 5
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: B: How about at 5 o’clock?",
+    "choices": {
+      "1": "Where are you going?",
+      "2": "Who opens that store?",
+      "3": "How much is this book?",
+      "4": "What time do you want to meet?"
+    },
+    "answers": [
+      4
+    ],
+    "id": 6,
+    "round": 6,
+    "question_no": 6
+  },
+  {
+    "question": "A: What will you do this afternoon? B: I will a piano lesson. A: Will you? I will a rest.",
+    "choices": {
+      "1": "take",
+      "2": "come",
+      "3": "play",
+      "4": "raise"
+    },
+    "answers": [
+      1
+    ],
+    "id": 7,
+    "round": 7,
+    "question_no": 7
+  },
+  {
+    "question": "A: What do you like to do in your free time? B: I like to go fishing with my Dad. A: I like to go shopping.",
+    "choices": {
+      "1": "What about you?",
+      "2": "Where is your dad?",
+      "3": "How do you go there?",
+      "4": "When is your free time?"
+    },
+    "answers": [
+      1
+    ],
+    "id": 8,
+    "round": 8,
+    "question_no": 8
+  },
+  {
+    "question": "A: What are you at? B: I can play tennis very well. A: I envy you.",
+    "choices": {
+      "1": "sad",
+      "2": "good",
+      "3": "angry",
+      "4": "interested"
+    },
+    "answers": [
+      2
+    ],
+    "id": 9,
+    "round": 9,
+    "question_no": 9
+  },
+  {
+    "question": "Tom과 Susan의 대화로 보아 빈칸에 들어갈 말로 가장 적절한 것은? Tom : Your computer looks nice. Is it new? Susan: Yes, I bought it last Friday. Tom : I want to get a new one. I bought mine three years ago. Tom bought his computer than Susan.",
+    "choices": {
+      "1": "higher",
+      "2": "bigger",
+      "3": "earlier",
+      "4": "cheaper"
+    },
+    "answers": [
+      3
+    ],
+    "id": 10,
+    "round": 10,
+    "question_no": 10
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: What are your favorite sports? B: My favorite sports are swimming and tennis. A: Really? I like them, too.",
+    "choices": {
+      "1": "추천하는 책",
+      "2": "좋아하는 운동",
+      "3": "보고 싶은 연극",
+      "4": "여행하고 싶은 나라"
+    },
+    "answers": [
+      2
+    ],
+    "id": 11,
+    "round": 11,
+    "question_no": 11
+  },
+  {
+    "question": "다음 대화에서 B가 여행을 가지 못한 이유는? A: Did you enjoy your trip to Indonesia? B: No, I couldn’t make it. My puppy got sick and I had to take care of him.",
+    "choices": {
+      "1": "더운 날씨를 싫어해서",
+      "2": "방학이 늦게 시작돼서",
+      "3": "비행기 티켓을 못 구해서",
+      "4": "아픈 강아지를 돌봐야 해서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 12,
+    "round": 12,
+    "question_no": 12
+  },
+  {
+    "question": "글의 제목으로 가장 적절한 것은? There are many good habits to make a healthy life. Getting up early, having breakfast every morning, and going jogging are good examples. If you keep habits like these, you can be healthy and happy.",
+    "choices": {
+      "1": "신속한 요리 방법",
+      "2": "간편한 조깅 복장",
+      "3": "적당한 아침 기상 시간",
+      "4": "건강을 위한 좋은 습관"
+    },
+    "answers": [
+      4
+    ],
+    "id": 13,
+    "round": 13,
+    "question_no": 13
+  },
+  {
+    "question": "글의 흐름으로 보아 어울리지 않는 문장은? I’m a member of the ‘Movie Maker Club.’",
+    "choices": {
+      "1": "We make",
+      "2": "My favorite",
+      "3": "You can be an actor, a cameraman or a",
+      "4": "Every Friday we have a ‘Cinema"
+    },
+    "answers": [
+      2
+    ],
+    "id": 14,
+    "round": 14,
+    "question_no": 14
+  },
+  {
+    "question": "글을 쓴 목적으로 가장 적절한 것은? Dear Mr. Kim, I have something to tell you. My friends always copy my homework. It makes me angry. What should I do?",
+    "choices": {
+      "1": "수리 요청",
+      "2": "고민 상담",
+      "3": "선물 구매",
+      "4": "약속 확인"
+    },
+    "answers": [
+      2
+    ],
+    "id": 15,
+    "round": 15,
+    "question_no": 15
+  },
+  {
+    "question": "글의 주장으로 가장 적절한 것은? Rivers have many benefits. We get fresh water from them. We can go to a river to go fishing and we can even go swimming. If we want to enjoy these good things that rivers give us, we should keep them clean.",
+    "choices": {
+      "1": "안전 수칙을 지키자.",
+      "2": "신선한 공기를 마시자.",
+      "3": "수상 스포츠를 즐기자.",
+      "4": "강을 깨끗하게 보존하자."
+    },
+    "answers": [
+      4
+    ],
+    "id": 16,
+    "round": 16,
+    "question_no": 16
+  },
+  {
+    "question": "글의 흐름으로 보아 빈칸에 들어갈 말로 가장 적절한 것은? People believe that paper is not strong enough to make clothes with. we can make beautiful clothes or shoes with traditional Korean paper, hanji. How is it possible? Hanji is strong because we make it from the tough bark* of the dak tree**. *bark: 껍질 **dak tree: 닥나무",
+    "choices": {
+      "1": "So",
+      "2": "But",
+      "3": "Then",
+      "4": "Because"
+    },
+    "answers": [
+      2
+    ],
+    "id": 17,
+    "round": 17,
+    "question_no": 17
+  },
+  {
+    "question": "밑줄 친 it이 가리키는 것으로 적절한 것은? Salt has been in our lives for a long time. One example is that many people used salt to improve the taste of food. Gandhi also used it to lead the independence movement* in India. So, it makes our food tasty and has historical meaning. *independence movement: 독립 운동",
+    "choices": {
+      "1": "소금",
+      "2": "시간",
+      "3": "예시",
+      "4": "음식 맛"
+    },
+    "answers": [
+      1
+    ],
+    "id": 18,
+    "round": 18,
+    "question_no": 18
+  },
+  {
+    "question": "다음 광고문에서 언급되지 않은 것은? International Jazz Festival Do you want to enjoy Jazz from around the world? ∙Date: August 13th, 2018 ∙Place: Seoul Grand Park ∙Tickets: 8,000 won Come and have fun!",
+    "choices": {
+      "1": "축제가 열리는 날짜",
+      "2": "축제가 열리는 장소",
+      "3": "축제 입장료",
+      "4": "축제에서 제공되는 음식"
+    },
+    "answers": [
+      4
+    ],
+    "id": 19,
+    "round": 19,
+    "question_no": 19
+  },
+  {
+    "question": "다음 안내문을 보고 대답을 할 수 없는 것은? Volunteering in a Nursing Home ∙Date : Next Saturday, June 23rd ∙Place: Evergreen Nursing Home From Nanumi Club Leader",
+    "choices": {
+      "1": "Who wrote this?",
+      "2": "When will the volunteers go?",
+      "3": "Where will the volunteers go?",
+      "4": "How will the volunteers get there?"
+    },
+    "answers": [
+      4
+    ],
+    "id": 20,
+    "round": 20,
+    "question_no": 20
+  },
+  {
+    "question": "다음에서 설명하는 ‘migrating birds’에 대한 내용과 일치 하지 않는 것은? Migrating birds face dangers when they migrate*. Sometimes they are hunted by other animals. The noises and lights of cities can also be dangerous to them. The worst thing is that humans destroy the places they can live. *migrate: 이주하다",
+    "choices": {
+      "1": "이주할 때 위험에 직면한다.",
+      "2": "때때로 다른 동물들에게 잡히기도 한다.",
+      "3": "도시의 소음과 불빛을 좋아한다.",
+      "4": "서식지가 인간에 의해 파괴된다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 21,
+    "round": 21,
+    "question_no": 21
+  },
+  {
+    "question": "다음을 모두 포함할 수 있는 단어로 가장 적절한 것은? bear cow elephant fox",
+    "choices": {
+      "1": "color",
+      "2": "fruit",
+      "3": "animal",
+      "4": "country"
+    },
+    "answers": [
+      3
+    ],
+    "id": 22,
+    "round": 22,
+    "question_no": 22
+  },
+  {
+    "question": "두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "wet－dry",
+      "2": "noisy－quiet",
+      "3": "true－false",
+      "4": "smart－clever"
+    },
+    "answers": [
+      4
+    ],
+    "id": 23,
+    "round": 23,
+    "question_no": 23
+  },
+  {
+    "question": "A: Can you make a paper rose? B: No, . I can only make a paper bird.",
+    "choices": {
+      "1": "I am",
+      "2": "I can’t",
+      "3": "he is",
+      "4": "you aren’t"
+    },
+    "answers": [
+      2
+    ],
+    "id": 24,
+    "round": 24,
+    "question_no": 24
+  },
+  {
+    "question": "A: They are great actors, they? B: Yes, they are.",
+    "choices": {
+      "1": "isn’t",
+      "2": "aren’t",
+      "3": "don’t",
+      "4": "doesn’t"
+    },
+    "answers": [
+      2
+    ],
+    "id": 25,
+    "round": 25,
+    "question_no": 25
+  },
+  {
+    "question": "빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦I need to get the bus at the next stop. ◦When you enter the room, take your shoes.",
+    "choices": {
+      "1": "at",
+      "2": "off",
+      "3": "from",
+      "4": "with"
+    },
+    "answers": [
+      2
+    ],
+    "id": 26,
+    "round": 26,
+    "question_no": 26
+  },
+  {
+    "question": "표의 내용과 일치하는 것은? Name Height(cm)",
+    "choices": {
+      "1": "Sora is taller than Jiho.",
+      "2": "Jiho is the shortest.",
+      "3": "Mina is shorter than Jiho.",
+      "4": "Insu is the tallest."
+    },
+    "answers": [
+      4
+    ],
+    "id": 27,
+    "round": 27,
+    "question_no": 27
+  },
+  {
+    "question": "대화의 빈칸에 들어갈 A의 질문으로 가장 적절한 것은? A: Hi! ? B: Yes, please. I’ll have one egg sandwich and one orange juice.",
+    "choices": {
+      "1": "How much is it",
+      "2": "Where do you live",
+      "3": "What is your hobby",
+      "4": "May I take your order"
+    },
+    "answers": [
+      4
+    ],
+    "id": 28,
+    "round": 28,
+    "question_no": 28
+  },
+  {
+    "question": "대화의 주제로 가장 적절한 것은? A: What did you do last weekend? B: I visited my grandmother. What about you? A: I went to see a baseball game.",
+    "choices": {
+      "1": "방학 중 봉사활동",
+      "2": "좋아하는 운동선수",
+      "3": "지난 주말에 한 일",
+      "4": "미래에 희망하는 직업"
+    },
+    "answers": [
+      3
+    ],
+    "id": 29,
+    "round": 29,
+    "question_no": 29
+  },
+  {
+    "question": "A: does the art museum open? B: It usually opens at 10:00 a.m.",
+    "choices": {
+      "1": "Which",
+      "2": "Whose",
+      "3": "What",
+      "4": "When"
+    },
+    "answers": [
+      4
+    ],
+    "id": 30,
+    "round": 30,
+    "question_no": 30
+  },
+  {
+    "question": "A: is the weather today? B: It is foggy.",
+    "choices": {
+      "1": "How",
+      "2": "Who",
+      "3": "Where",
+      "4": "Which"
+    },
+    "answers": [
+      1
+    ],
+    "id": 31,
+    "round": 31,
+    "question_no": 31
+  },
+  {
+    "question": "A: you ever been to Paris? B: No, I haven’t. I’d like to go there someday.",
+    "choices": {
+      "1": "Are",
+      "2": "Can",
+      "3": "Does",
+      "4": "Have"
+    },
+    "answers": [
+      4
+    ],
+    "id": 32,
+    "round": 32,
+    "question_no": 32
+  },
+  {
+    "question": "‘Book Review’에서 알 수 없는 것은? ∙Title: I Am Possible ∙Writer: Nick Brown ∙Pages: 350 ∙Best Sentence: Never give up!",
+    "choices": {
+      "1": "제목",
+      "2": "저자",
+      "3": "쪽수",
+      "4": "가격"
+    },
+    "answers": [
+      4
+    ],
+    "id": 33,
+    "round": 33,
+    "question_no": 33
+  },
+  {
+    "question": "대화에서 B가 숙제를 끝내지 못한 이유는? A: You look down. What’s the matter with you? B: I couldn’t finish my homework because my computer didn’t work last night.",
+    "choices": {
+      "1": "숙제가 너무 많아서",
+      "2": "감기에 걸려서",
+      "3": "컴퓨터가 작동되지 않아서",
+      "4": "집에 손님이 와서"
+    },
+    "answers": [
+      3
+    ],
+    "id": 34,
+    "round": 34,
+    "question_no": 34
+  },
+  {
+    "question": "글의 주제로 가장 적절한 것은? It is important to follow the safety rules when you go swimming. First, stretch before going into the water. Second, always listen to the lifeguards. Finally, only swim in the permitted areas.",
+    "choices": {
+      "1": "수영 안전 수칙",
+      "2": "안전요원 모집",
+      "3": "수영 대회 홍보",
+      "4": "응급 구조 요령"
+    },
+    "answers": [
+      1
+    ],
+    "id": 35,
+    "round": 35,
+    "question_no": 35
+  },
+  {
+    "question": "글의 목적으로 가장 적절한 것은? Do you like cooking? We can make pizza, bread, cookies, and cakes. Why don’t you join our cooking class?",
+    "choices": {
+      "1": "조리 기구 광고",
+      "2": "요리 교실 수강 권유",
+      "3": "음식 주문 안내",
+      "4": "에너지 절약 방법 홍보"
+    },
+    "answers": [
+      2
+    ],
+    "id": 36,
+    "round": 36,
+    "question_no": 36
+  },
+  {
+    "question": "다음 글 바로 뒤에 이어질 내용으로 가장 적절한 것은? I was born and grew up in Italy. I am interested in Korean music. I sometimes write about it on my blog. Here are some of my writings about Korean music.",
+    "choices": {
+      "1": "한국 음악에 관한 글",
+      "2": "이탈리아 여행 안내",
+      "3": "Tony의 출생지 소개",
+      "4": "현명한 인터넷 사용법"
+    },
+    "answers": [
+      1
+    ],
+    "id": 37,
+    "round": 37,
+    "question_no": 37
+  },
+  {
+    "question": "대화 직후에 A가 할 일로 가장 적절한 것은? A: What are you doing? B: We’re cleaning the classroom, but it’s a lot of work. Will you help us? A: Sure, I will.",
+    "choices": {
+      "1": "교실 청소 돕기",
+      "2": "책 반납하기",
+      "3": "함께 운동하기",
+      "4": "학용품 구입하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 38,
+    "round": 38,
+    "question_no": 38
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 적절한 것은? There are various festivals in the world. , there is a mud festival in Korea. At this festival, you can have fun playing in the mud. In Japan, there is a snow festival. You can take pictures of the beautiful art pieces made of snow.",
+    "choices": {
+      "1": "For example",
+      "2": "However",
+      "3": "Unfortunately",
+      "4": "On the other hand"
+    },
+    "answers": [
+      1
+    ],
+    "id": 39,
+    "round": 39,
+    "question_no": 39
+  },
+  {
+    "question": "대화에서 밑줄 친 말의 의도로 가장 적절한 것은? A: What do you think about wearing school uniforms? B: I don’t think it’s a good idea because everyone looks the same. A: I agree with you.",
+    "choices": {
+      "1": "동의하기",
+      "2": "거절하기",
+      "3": "축하하기",
+      "4": "충고하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 40,
+    "round": 40,
+    "question_no": 40
+  },
+  {
+    "question": "글의 내용과 일치하지 않는 것은? I went camping with my family. My dad set up the tent. My mom made bibimbap for us. After dinner, we sat around the fire, and I played the guitar. It was a special day for us.",
+    "choices": {
+      "1": "나는 가족과 함께 캠핑을 갔다.",
+      "2": "아버지가 텐트를 설치했다.",
+      "3": "어머니는 비빔밥을 만들었다.",
+      "4": "우리는 식사 후에 산책을 했다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 41,
+    "round": 41,
+    "question_no": 41
+  },
+  {
+    "question": "환경보호를 위한 방법으로 제시되지 않은 것은?",
+    "choices": {
+      "1": "재활용하기",
+      "2": "물 절약하기",
+      "3": "대중교통 이용하기",
+      "4": "음식물 쓰레기 줄이기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 42,
+    "round": 42,
+    "question_no": 42
+  },
+  {
+    "question": "Minsu에 관한 내용과 일치하지 않는 것은? I would like to tell you about my best friend, Minsu. He wears glasses, and he is the tallest in our class. He has one younger sister. He likes looking at the stars in the sky.",
+    "choices": {
+      "1": "안경을 쓰고 있다.",
+      "2": "남동생이 한 명 있다.",
+      "3": "별 보기를 좋아한다.",
+      "4": "우리 반에서 가장 키가 크다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 43,
+    "round": 43,
+    "question_no": 43
+  },
+  {
+    "question": "글의 주제로 가장 적절한 것은? Dr. Smith was born in 1880 in Germany. He became a doctor in 1913, and went to Africa to take care of many poor African people. He spent most of his life helping them until he died in 1960.",
+    "choices": {
+      "1": "Dr. Smith의 가족",
+      "2": "Dr. Smith의 일생",
+      "3": "아프리카의 문화",
+      "4": "아프리카의 경제 발전"
+    },
+    "answers": [
+      2
+    ],
+    "id": 44,
+    "round": 44,
+    "question_no": 44
+  },
+  {
+    "question": "다음을 모두 포함할 수 있는 단어로 가장 적절한 것은? golf badminton swimming football",
+    "choices": {
+      "1": "food",
+      "2": "music",
+      "3": "sports",
+      "4": "flowers"
+    },
+    "answers": [
+      3
+    ],
+    "id": 45,
+    "round": 45,
+    "question_no": 45
+  },
+  {
+    "question": "두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "hot－cold",
+      "2": "far－near",
+      "3": "slow－fast",
+      "4": "all－every"
+    },
+    "answers": [
+      4
+    ],
+    "id": 46,
+    "round": 46,
+    "question_no": 46
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 적절한 것은? There three lions in the zoo.",
+    "choices": {
+      "1": "is",
+      "2": "be",
+      "3": "are",
+      "4": "was"
+    },
+    "answers": [
+      3
+    ],
+    "id": 47,
+    "round": 47,
+    "question_no": 47
+  },
+  {
+    "question": "A: you like pizza? B: Yes, I do.",
+    "choices": {
+      "1": "Is",
+      "2": "Do",
+      "3": "Are",
+      "4": "Does"
+    },
+    "answers": [
+      2
+    ],
+    "id": 48,
+    "round": 48,
+    "question_no": 48
+  },
+  {
+    "question": "A: How is the post office from here? B: It’s about 5 km from here.",
+    "choices": {
+      "1": "far",
+      "2": "old",
+      "3": "many",
+      "4": "often"
+    },
+    "answers": [
+      1
+    ],
+    "id": 49,
+    "round": 49,
+    "question_no": 49
+  },
+  {
+    "question": "대화의 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? A: often do you go swimming? B: Once a week. A: do you go to the swimming pool? B: By bus.",
+    "choices": {
+      "1": "How",
+      "2": "Who",
+      "3": "Why",
+      "4": "When"
+    },
+    "answers": [
+      1
+    ],
+    "id": 50,
+    "round": 50,
+    "question_no": 50
+  },
+  {
+    "question": "Minsu가 집안일을 돕기 위해 주간 계획표를 작성했다. 목요일에 할 일은?",
+    "choices": {
+      "1": "설거지하기",
+      "2": "화초 물 주기",
+      "3": "집 청소하기",
+      "4": "개 산책시키기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 51,
+    "round": 51,
+    "question_no": 51
+  },
+  {
+    "question": "대화 직후에 B가 할 일로 가장 적절한 것은? A: It’s too hot here. B: Do you want me to open the window? A: Yes, please. Thanks.",
+    "choices": {
+      "1": "운동하기",
+      "2": "방문 닫기",
+      "3": "병원 가기",
+      "4": "창문 열기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 52,
+    "round": 52,
+    "question_no": 52
+  },
+  {
+    "question": "John에 대한 설명과 일치하지 않는 것은? Let me introduce John. He is friendly and funny. He likes playing basketball. He enjoys listening to music. He is good at cooking.",
+    "choices": {
+      "1": "친근하고 재미있다.",
+      "2": "농구하기를 좋아한다.",
+      "3": "음악 감상을 즐긴다.",
+      "4": "요리를 잘 못한다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 53,
+    "round": 53,
+    "question_no": 53
+  },
+  {
+    "question": "대화의 주제로 가장 적절한 것은? A: I traveled to London last year. B: Is it a good place to visit? A: Yes, it is. You should go there sometime.",
+    "choices": {
+      "1": "요리 학원",
+      "2": "런던 여행",
+      "3": "공부 방법",
+      "4": "피아노 구입"
+    },
+    "answers": [
+      2
+    ],
+    "id": 54,
+    "round": 54,
+    "question_no": 54
+  },
+  {
+    "question": "대화에서 B가 걱정하는 이유는? A: Is there something wrong? B: I’m really worried about the math test tomorrow. A: Don’t worry. You’ll do well.",
+    "choices": {
+      "1": "친구와 다투어서",
+      "2": "수학 시험 때문에",
+      "3": "자전거가 고장 나서",
+      "4": "지갑을 잃어버려서"
+    },
+    "answers": [
+      2
+    ],
+    "id": 55,
+    "round": 55,
+    "question_no": 55
+  },
+  {
+    "question": "대화의 주제로 가장 적절한 것은? A: What did you buy yesterday? B: I bought a new computer. A: Are you happy with it? B: Yeah, it’s really fast.",
+    "choices": {
+      "1": "여행지 정하기",
+      "2": "싫어하는 과목",
+      "3": "좋아하는 음식",
+      "4": "새로 산 컴퓨터"
+    },
+    "answers": [
+      4
+    ],
+    "id": 56,
+    "round": 56,
+    "question_no": 56
+  },
+  {
+    "question": "대화에서 B가 신발을 구입하지 못한 이유는? A: Did you buy any new shoes? B: No. They didn’t have my size.",
+    "choices": {
+      "1": "너무 바빠서",
+      "2": "가격이 비싸서",
+      "3": "맞는 사이즈가 없어서",
+      "4": "마음에 드는 제품이 없어서"
+    },
+    "answers": [
+      3
+    ],
+    "id": 57,
+    "round": 57,
+    "question_no": 57
+  },
+  {
+    "question": "글 바로 뒤에 이어질 내용으로 가장 적절한 것은? Do you want to speak English well? Most students spend a lot of time studying English, but still many students can’t speak English well. Here are some ways you can speak English better.",
+    "choices": {
+      "1": "친구에게 사과하는 방법",
+      "2": "과학 시험을 잘 준비하는 방법",
+      "3": "학생들이 도서관을 이용하는 방법",
+      "4": "영어 말하기를 더 잘할 수 있는 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 58,
+    "round": 58,
+    "question_no": 58
+  },
+  {
+    "question": "대화에서 밑줄 친 말의 의도로 가장 적절한 것은? A: I have a terrible headache. B: I think you should see a doctor.",
+    "choices": {
+      "1": "칭찬하기",
+      "2": "조언하기",
+      "3": "감사하기",
+      "4": "사과하기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 59,
+    "round": 59,
+    "question_no": 59
+  },
+  {
+    "question": "글을 쓴 목적으로 가장 적절한 것은? Do you want to have a special weekend? Then, come to our zoo! We have many animals from around the world. We are open every day from 9 a.m. to 5 p.m. Come and enjoy!",
+    "choices": {
+      "1": "동물원 홍보",
+      "2": "여행 일정 안내",
+      "3": "동물 보호 요청",
+      "4": "행사 결과 보고"
+    },
+    "answers": [
+      1
+    ],
+    "id": 60,
+    "round": 60,
+    "question_no": 60
+  },
+  {
+    "question": "글의 흐름으로 보아 주어진 문장이 들어가기에 가장 적절한 곳은? But she is sick these days. (",
+    "choices": {
+      "1": ") This is my dog, Pinky. (",
+      "2": ") When I first",
+      "3": ") She",
+      "4": ")"
+    },
+    "answers": [
+      3
+    ],
+    "id": 61,
+    "round": 61,
+    "question_no": 61
+  },
+  {
+    "question": "밑줄 친 It(it)이 가리키는 것으로 적절한 것은? It is an important thing for life. We can’t see it, but we need it to breathe. Riding bicycles instead of driving cars can keep it clean.",
+    "choices": {
+      "1": "air",
+      "2": "tree",
+      "3": "land",
+      "4": "water"
+    },
+    "answers": [
+      1
+    ],
+    "id": 62,
+    "round": 62,
+    "question_no": 62
+  },
+  {
+    "question": "전단지 내용에 언급되지 않은 것은? Lost Cat Kidi is two years old. She is a black cat. She has a white ribbon around her neck. Please call 546-4985.",
+    "choices": {
+      "1": "나이",
+      "2": "성별",
+      "3": "성격",
+      "4": "전화번호"
+    },
+    "answers": [
+      3
+    ],
+    "id": 63,
+    "round": 63,
+    "question_no": 63
+  },
+  {
+    "question": "글의 주제로 가장 적절한 것은? Growing vegetables is good for your health. It makes your mind calm, and it gives you some exercise. You can also eat the fresh vegetables after you grow them.",
+    "choices": {
+      "1": "채소를 키우는 것이 건강에 좋은 이유",
+      "2": "집을 항상 청결하게 유지해야 하는 이유",
+      "3": "나무에 적절한 비료를 주어야 하는 이유",
+      "4": "건강관리를 위해 운동을 해야 하는 이유"
+    },
+    "answers": [
+      1
+    ],
+    "id": 64,
+    "round": 64,
+    "question_no": 64
+  },
+  {
+    "question": "Jinho의 어머니에 대한 설명에서 언급되지 않은 것은? My name is Jinho. I am going to tell you about my mom. She is kind and has a beautiful smile. She always makes me delicious food. I love my mom.",
+    "choices": {
+      "1": "친절하다.",
+      "2": "여행을 좋아한다.",
+      "3": "아름다운 미소를 가졌다.",
+      "4": "맛있는 음식을 만들어 준다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 65,
+    "round": 65,
+    "question_no": 65
+  },
+  {
+    "question": "다음을 모두 포함할 수 있는 단어로 가장 적절한 것은? apple banana orange strawberry",
+    "choices": {
+      "1": "fruit",
+      "2": "animal",
+      "3": "country",
+      "4": "weather"
+    },
+    "answers": [
+      1
+    ],
+    "id": 66,
+    "round": 66,
+    "question_no": 66
+  },
+  {
+    "question": "두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "tall－high",
+      "2": "old－young",
+      "3": "long－short",
+      "4": "large－small"
+    },
+    "answers": [
+      1
+    ],
+    "id": 67,
+    "round": 67,
+    "question_no": 67
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 적절한 것은? I like tomatoes.",
+    "choices": {
+      "1": "are",
+      "2": "does",
+      "3": "don’t",
+      "4": "aren’t"
+    },
+    "answers": [
+      3
+    ],
+    "id": 68,
+    "round": 68,
+    "question_no": 68
+  },
+  {
+    "question": "A: are you from? B: I’m from Canada.",
+    "choices": {
+      "1": "How",
+      "2": "What",
+      "3": "When",
+      "4": "Where"
+    },
+    "answers": [
+      4
+    ],
+    "id": 69,
+    "round": 69,
+    "question_no": 69
+  },
+  {
+    "question": "◦Sara is listening music. ◦Hello, can I speak John?",
+    "choices": {
+      "1": "in",
+      "2": "to",
+      "3": "at",
+      "4": "with"
+    },
+    "answers": [
+      2
+    ],
+    "id": 70,
+    "round": 70,
+    "question_no": 70
+  },
+  {
+    "question": "주간 날씨 예보에 나타난 화요일의 날씨는? Monday Tuesday Wednesday Thursday Friday",
+    "choices": {
+      "1": "rainy",
+      "2": "sunny",
+      "3": "cloudy",
+      "4": "snowy"
+    },
+    "answers": [
+      1
+    ],
+    "id": 71,
+    "round": 71,
+    "question_no": 71
+  },
+  {
+    "question": "대화의 주제로 가장 적절한 것은? A: Do you like hamburgers more than gimbap? B: No, I think gimbap is better. A: Me, too. Gimbap is my favorite food.",
+    "choices": {
+      "1": "좋아하는 음식",
+      "2": "다양한 의복 문화",
+      "3": "음식물 쓰레기 처리",
+      "4": "요리 수업 신청 방법"
+    },
+    "answers": [
+      1
+    ],
+    "id": 72,
+    "round": 72,
+    "question_no": 72
+  },
+  {
+    "question": "대화에서 밑줄 친 말의 의도로 가장 적절한 것은? A: Hi, Susan. What’s wrong? B: I think I have a bad cold. A: Oh, then you should see a doctor right away. B: Okay, that’s a good idea. Thanks.",
+    "choices": {
+      "1": "칭찬하기",
+      "2": "조언하기",
+      "3": "감사하기",
+      "4": "사과하기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 73,
+    "round": 73,
+    "question_no": 73
+  },
+  {
+    "question": "대화에서 B가 경기에 참여하지 못한 이유는? A: Why do you look so sad? B: I wasn’t able to play in the soccer game because I broke my leg. A: Sorry to hear that.",
+    "choices": {
+      "1": "비가 와서",
+      "2": "다리가 부러져서",
+      "3": "학원에 가야 해서",
+      "4": "평소에 운동을 하지 않아서"
+    },
+    "answers": [
+      2
+    ],
+    "id": 74,
+    "round": 74,
+    "question_no": 74
+  },
+  {
+    "question": "대화의 주제로 가장 적절한 것은? A: David, what do you do on Saturdays? B: I play baseball. How about you? A: I go to a Chinese class every Saturday. B: Oh, that sounds interesting.",
+    "choices": {
+      "1": "새로운 학교생활",
+      "2": "야구 동아리 홍보",
+      "3": "외국어 공부 방법",
+      "4": "토요일마다 하는 일"
+    },
+    "answers": [
+      4
+    ],
+    "id": 75,
+    "round": 75,
+    "question_no": 75
+  },
+  {
+    "question": "대화에서 B가 청소를 할 수 없는 이유는? A: Can you help me, please? B: What kind of help do you need? A: Can you clean the house for me? B: Sorry, but I can’t. I have to study for a test.",
+    "choices": {
+      "1": "몸이 아파서",
+      "2": "설거지를 해야 해서",
+      "3": "시험 공부를 해야 해서",
+      "4": "친구와 약속이 있어서"
+    },
+    "answers": [
+      3
+    ],
+    "id": 76,
+    "round": 76,
+    "question_no": 76
+  },
+  {
+    "question": "글 바로 뒤에 이어질 내용으로 가장 적절한 것은? Hello, everyone! We finally got a new computer room. You can use the new computers at any time during school hours. Please keep the following rules when you use the computer room.",
+    "choices": {
+      "1": "식중독 예방법",
+      "2": "도서관 이용 절차",
+      "3": "컴퓨터실 사용 규칙",
+      "4": "영어 말하기 대회 홍보"
+    },
+    "answers": [
+      3
+    ],
+    "id": 77,
+    "round": 77,
+    "question_no": 77
+  },
+  {
+    "question": "이메일에 나타난 ‘I’의 고민으로 가장 적절한 것은? Dear Ann, I feel very nervous when I have to speak in front of a lot of people. In this situation, I forget everything I want to say. What should I do? I need your help. Jack",
+    "choices": {
+      "1": "농구 실력이 잘 늘지 않는 것",
+      "2": "효율적인 학습 방법을 모르는 것",
+      "3": "새로운 친구를 잘 사귀지 못하는 것",
+      "4": "많은 사람들 앞에서 말할 때 긴장하는 것"
+    },
+    "answers": [
+      4
+    ],
+    "id": 78,
+    "round": 78,
+    "question_no": 78
+  },
+  {
+    "question": "생일 초대장을 보고 알 수 없는 것은?",
+    "choices": {
+      "1": "시간",
+      "2": "장소",
+      "3": "연락처",
+      "4": "참석 인원"
+    },
+    "answers": [
+      4
+    ],
+    "id": 79,
+    "round": 79,
+    "question_no": 79
+  },
+  {
+    "question": "글의 주제로 가장 적절한 것은? Raising dogs is good for your health. For example, you can get some exercise when you take a walk with your dogs. When you’re with your dogs, they can help you relax.",
+    "choices": {
+      "1": "애완견을 키우는 것이 건강에 좋은 이유",
+      "2": "집을 항상 청결하게 유지해야 하는 이유",
+      "3": "나무에 적절한 비료를 주어야 하는 이유",
+      "4": "건강관리를 위해 식단을 조절해야 하는 이유"
+    },
+    "answers": [
+      1
+    ],
+    "id": 80,
+    "round": 80,
+    "question_no": 80
+  },
+  {
+    "question": "Jinho의 형에 대한 설명에서 언급되지 않은 것은? My name is Jinho. I am going to tell you about my elder brother. He is kind and has many friends. He often plays with me. I love my brother.",
+    "choices": {
+      "1": "친절하다.",
+      "2": "친구가 많다.",
+      "3": "축구를 잘한다.",
+      "4": "Jinho와 자주 논다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 81,
+    "round": 81,
+    "question_no": 81
+  },
+  {
+    "question": "다음을 모두 포함할 수 있는 단어로 가장 적절한 것은? arm head leg neck",
+    "choices": {
+      "1": "job",
+      "2": "body",
+      "3": "color",
+      "4": "season"
+    },
+    "answers": [
+      2
+    ],
+    "id": 82,
+    "round": 82,
+    "question_no": 82
+  },
+  {
+    "question": "두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "rich－poor",
+      "2": "glad－happy",
+      "3": "tall－short",
+      "4": "strong－weak"
+    },
+    "answers": [
+      2
+    ],
+    "id": 83,
+    "round": 83,
+    "question_no": 83
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 적절한 것은? are really delicious.",
+    "choices": {
+      "1": "It",
+      "2": "That",
+      "3": "They",
+      "4": "This"
+    },
+    "answers": [
+      3
+    ],
+    "id": 84,
+    "round": 84,
+    "question_no": 84
+  },
+  {
+    "question": "A: How does it take to get there? B: It takes one hour by train.",
+    "choices": {
+      "1": "old",
+      "2": "long",
+      "3": "many",
+      "4": "often"
+    },
+    "answers": [
+      2
+    ],
+    "id": 85,
+    "round": 85,
+    "question_no": 85
+  },
+  {
+    "question": "A: What’s the weather like? B: It’s .",
+    "choices": {
+      "1": "big",
+      "2": "rainy",
+      "3": "young",
+      "4": "expensive"
+    },
+    "answers": [
+      2
+    ],
+    "id": 86,
+    "round": 86,
+    "question_no": 86
+  },
+  {
+    "question": "A: ? B: I want to be a doctor.",
+    "choices": {
+      "1": "When did you see a nurse",
+      "2": "What kind of animals do you like",
+      "3": "How often do you go to the movies",
+      "4": "What do you want to be in the future"
+    },
+    "answers": [
+      4
+    ],
+    "id": 87,
+    "round": 87,
+    "question_no": 87
+  },
+  {
+    "question": "대화의 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? A: Jenny, can you off your hat? B: Why? I like my hat. A: But I want to a picture of you without the hat. B: Okay.",
+    "choices": {
+      "1": "come",
+      "2": "have",
+      "3": "make",
+      "4": "take"
+    },
+    "answers": [
+      4
+    ],
+    "id": 88,
+    "round": 88,
+    "question_no": 88
+  },
+  {
+    "question": "다음 관찰 일지를 보고 알 수 없는 것은? When : May 25th, 14:00∼15:00 Where: School playground What : Ants Ants live together and each one has a special job.",
+    "choices": {
+      "1": "관찰 도구",
+      "2": "관찰 일시",
+      "3": "관찰 장소",
+      "4": "관찰 대상"
+    },
+    "answers": [
+      1
+    ],
+    "id": 89,
+    "round": 89,
+    "question_no": 89
+  },
+  {
+    "question": "두 사람이 이번 주 금요일에 할 일로 가장 적절한 것은? A: Why don’t we eat out this Friday? B: That’s a good idea. What do you want to eat? A: How about a steak? B: I’d love it.",
+    "choices": {
+      "1": "책 사기",
+      "2": "운동하기",
+      "3": "외식하기",
+      "4": "학원 가기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 90,
+    "round": 90,
+    "question_no": 90
+  },
+  {
+    "question": "다음은 Mina의 주간 계획표이다. 수요일에 해야 할 일은? Monday Tuesday WednesdayThursday Friday Do my Clean Practice See the Meet homework my room the piano doctor friends",
+    "choices": {
+      "1": "숙제하기",
+      "2": "방 청소하기",
+      "3": "피아노 연습하기",
+      "4": "친구 만나기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 91,
+    "round": 91,
+    "question_no": 91
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: How was your trip to Busan? B: It was a good experience. A: What did you do there? B: I spent all day swimming at the beach.",
+    "choices": {
+      "1": "공부 방법",
+      "2": "여행 경험",
+      "3": "장래 희망",
+      "4": "친구 소개"
+    },
+    "answers": [
+      2
+    ],
+    "id": 92,
+    "round": 92,
+    "question_no": 92
+  },
+  {
+    "question": "다음 대화에서 밑줄 친 말의 의도로 가장 적절한 것은? A: Do you want to go to the library together? B: Sure. What time shall we meet? A: Let’s meet at 6. B: Great! See you then.",
+    "choices": {
+      "1": "감사하기",
+      "2": "사과하기",
+      "3": "제안하기",
+      "4": "칭찬하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 93,
+    "round": 93,
+    "question_no": 93
+  },
+  {
+    "question": "다음 대화에서 B가 버스를 놓친 이유는? A: Did you miss the bus? B: Yes, I did. I got up late this morning.",
+    "choices": {
+      "1": "늦잠을 자서",
+      "2": "등산을 하다가",
+      "3": "친구를 기다리다가",
+      "4": "지갑을 두고 와서"
+    },
+    "answers": [
+      1
+    ],
+    "id": 94,
+    "round": 94,
+    "question_no": 94
+  },
+  {
+    "question": "다음 안내 방송을 들을 수 있는 장소로 가장 적절한 것은? Thank you for visiting our department store. We’ll be closing in ten minutes. We hope you’ve enjoyed shopping here. Thank you.",
+    "choices": {
+      "1": "경찰서",
+      "2": "독서실",
+      "3": "백화점",
+      "4": "응급실"
+    },
+    "answers": [
+      3
+    ],
+    "id": 95,
+    "round": 95,
+    "question_no": 95
+  },
+  {
+    "question": "다음 글의 주제로 가장 알맞은 것은? Hi, my name is Sora. I am 14 years old. I love watching movies and playing the guitar. My favorite subject is math. I want to be a teacher. Nice to meet you all.",
+    "choices": {
+      "1": "자기소개",
+      "2": "대회 홍보",
+      "3": "악기 판매",
+      "4": "영화 예매"
+    },
+    "answers": [
+      1
+    ],
+    "id": 96,
+    "round": 96,
+    "question_no": 96
+  },
+  {
+    "question": "다음 안내문에서 손을 씻어야 하는 경우로 언급되지 않은 것은? You should wash your hands: ∙ after arriving home ∙ after coughing ∙ before eating food",
+    "choices": {
+      "1": "집에 도착한 후",
+      "2": "기침을 한 후",
+      "3": "음식을 먹기 전",
+      "4": "동물을 만지기 전"
+    },
+    "answers": [
+      4
+    ],
+    "id": 97,
+    "round": 97,
+    "question_no": 97
+  },
+  {
+    "question": "다음 중 밑줄 친 It(it)이 가리키는 것으로 적절한 것은? It can live with people. It has four legs and a tail. Many people have it as a pet. When it is young, it is called a puppy.",
+    "choices": {
+      "1": "dog",
+      "2": "lion",
+      "3": "bird",
+      "4": "snake"
+    },
+    "answers": [
+      1
+    ],
+    "id": 98,
+    "round": 98,
+    "question_no": 98
+  },
+  {
+    "question": "다음 대화의 마지막 응답으로 가장 적절한 것은? A: One large pizza and a can of cola, please. B: That’ll be 10 dollars. How will you pay for that? A: .",
+    "choices": {
+      "1": "I’ll pay in cash",
+      "2": "She can bring a chair",
+      "3": "My dream comes true",
+      "4": "Your order will be ready soon"
+    },
+    "answers": [
+      1
+    ],
+    "id": 99,
+    "round": 99,
+    "question_no": 99
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? Are you interested in space? Then, join our club, Big Bang. We meet every Friday after school and learn about space. Come and study together.",
+    "choices": {
+      "1": "전학생 소개",
+      "2": "식당 사용 안내",
+      "3": "안전 수칙 제시",
+      "4": "동아리 회원 모집"
+    },
+    "answers": [
+      4
+    ],
+    "id": 100,
+    "round": 100,
+    "question_no": 100
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? You can improve yourself by reading books. Reading gives you a chance to learn new things. It also helps you to understand others. The more you read, the more you learn. Reading makes you much smarter and happier.",
+    "choices": {
+      "1": "배려의 필요성",
+      "2": "교통 법규 준수",
+      "3": "독서의 이로운 점",
+      "4": "시간 활용의 중요성"
+    },
+    "answers": [
+      3
+    ],
+    "id": 101,
+    "round": 101,
+    "question_no": 101
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Most of us want to help save the Earth. We can start this by recycling at home. Here are some simple ways to recycle more effectively at home.",
+    "choices": {
+      "1": "대기 오염의 원인",
+      "2": "산림 보호의 실천 사례",
+      "3": "단체 생활 시 질병 예방 수칙",
+      "4": "가정에서의 효율적 재활용 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 102,
+    "round": 102,
+    "question_no": 102
+  },
+  {
+    "question": "다음 글에서 지난 주 토요일에 Sumi가 한 일은? Last weekend, Sumi went to Jeju-do with her family. On Saturday, she went fishing. On Sunday, she went to the beach and made a sand castle. She had lots of fun.",
+    "choices": {
+      "1": "낚시하기",
+      "2": "승마 체험",
+      "3": "박물관 관람",
+      "4": "모래성 쌓기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 103,
+    "round": 103,
+    "question_no": 103
+  },
+  {
+    "question": "다음을 모두 포함할 수 있는 단어로 가장 적절한 것은? math music science English",
+    "choices": {
+      "1": "body",
+      "2": "color",
+      "3": "fruit",
+      "4": "subject"
+    },
+    "answers": [
+      4
+    ],
+    "id": 104,
+    "round": 104,
+    "question_no": 104
+  },
+  {
+    "question": "다음 중 두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "new－old",
+      "2": "good－bad",
+      "3": "glad－happy",
+      "4": "clean－dirty"
+    },
+    "answers": [
+      3
+    ],
+    "id": 105,
+    "round": 105,
+    "question_no": 105
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 적절한 것은? He very sick yesterday.",
+    "choices": {
+      "1": "am",
+      "2": "be",
+      "3": "are",
+      "4": "was"
+    },
+    "answers": [
+      4
+    ],
+    "id": 106,
+    "round": 106,
+    "question_no": 106
+  },
+  {
+    "question": "A: I have to clean my room. Can you help me? B: .",
+    "choices": {
+      "1": "Yes, I can",
+      "2": "Yes, I am",
+      "3": "No, I don’t",
+      "4": "No, I am not"
+    },
+    "answers": [
+      1
+    ],
+    "id": 107,
+    "round": 107,
+    "question_no": 107
+  },
+  {
+    "question": "A: How members are there in your club? B: There are twenty members.",
+    "choices": {
+      "1": "high",
+      "2": "long",
+      "3": "many",
+      "4": "often"
+    },
+    "answers": [
+      3
+    ],
+    "id": 108,
+    "round": 108,
+    "question_no": 108
+  },
+  {
+    "question": "A: ? B: I go to school at eight thirty.",
+    "choices": {
+      "1": "Where do you live",
+      "2": "How do you go to school",
+      "3": "What did you have for lunch",
+      "4": "What time do you go to school"
+    },
+    "answers": [
+      4
+    ],
+    "id": 109,
+    "round": 109,
+    "question_no": 109
+  },
+  {
+    "question": "다음 대화의 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? A: What do you usually do on the weekend? B: I basketball with my friends. A: Where do you ? B: In the school gym.",
+    "choices": {
+      "1": "help",
+      "2": "smell",
+      "3": "drink",
+      "4": "play"
+    },
+    "answers": [
+      4
+    ],
+    "id": 110,
+    "round": 110,
+    "question_no": 110
+  },
+  {
+    "question": "다음 대화에서 B가 제안을 거절한 이유는? A: Let’s go to the movies. B: Sorry, I can’t. I have a cold.",
+    "choices": {
+      "1": "감기에 걸려서",
+      "2": "날씨가 더워서",
+      "3": "숙제가 많아서",
+      "4": "동생을 돌봐야 해서"
+    },
+    "answers": [
+      1
+    ],
+    "id": 111,
+    "round": 111,
+    "question_no": 111
+  },
+  {
+    "question": "다음 대화에서 밑줄 친 말의 의도로 가장 적절한 것은? A: Mom, I finished my homework. B: Can I see it? A: Of course. Here it is. What do you think? B: Wonderful! You did really well!",
+    "choices": {
+      "1": "거절하기",
+      "2": "사과하기",
+      "3": "칭찬하기",
+      "4": "허락하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 112,
+    "round": 112,
+    "question_no": 112
+  },
+  {
+    "question": "다음 글에서 언급된 내용이 아닌 것은? I go to the library every weekend with my family. We read lots of books there. My dad and I like reading novels. My mom and my younger sister like reading comic books.",
+    "choices": {
+      "1": "어머니는 도서관에서 근무한다.",
+      "2": "나는 주말마다 가족과 도서관에 간다.",
+      "3": "아버지와 나는 소설 읽기를 좋아한다.",
+      "4": "어머니와 여동생은 만화책 읽기를 좋아한다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 113,
+    "round": 113,
+    "question_no": 113
+  },
+  {
+    "question": "다음 안내 방송이 이루어진 장소로 가장 적절한 것은? Ladies and gentlemen! The train is now arriving at Seoul Station. We hope you have enjoyed your trip. Please make sure that you take all your bags when you leave. Thank you.",
+    "choices": {
+      "1": "기차 안",
+      "2": "도서관",
+      "3": "버스 정류장",
+      "4": "야구 경기장"
+    },
+    "answers": [
+      1
+    ],
+    "id": 114,
+    "round": 114,
+    "question_no": 114
+  },
+  {
+    "question": "Jim Abbott에 관한 다음 글의 내용에서 알 수 없는 것은? Jim Abbott was born on September 19, 1967 in America without a right hand, but he really liked baseball. He practiced every day to be a good baseball player. Later, Jim Abbott became a famous baseball player.",
+    "choices": {
+      "1": "태어난 해",
+      "2": "태어난 나라",
+      "3": "졸업한 학교",
+      "4": "좋아한 운동"
+    },
+    "answers": [
+      3
+    ],
+    "id": 115,
+    "round": 115,
+    "question_no": 115
+  },
+  {
+    "question": "다음 편지에 나타난 ‘I’의 고민으로 가장 적절한 것은? Dear Susan, I want to be a nurse. When I go to college, I’d like to study nursing and become a nurse. But my parents want me to be an engineer. I don’t want to be an engineer when I grow up. What should I do? Jane",
+    "choices": {
+      "1": "체중 조절에 실패해서",
+      "2": "시간 관리를 잘 하지 못해서",
+      "3": "친구 관계가 원만하지 못해서",
+      "4": "장래 희망 직업이 부모의 의견과 달라서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 116,
+    "round": 116,
+    "question_no": 116
+  },
+  {
+    "question": "다음 중 밑줄 친 them이 가리키는 것으로 적절한 것은? Jisu makes delicious cookies. She sometimes brings her cookies to class and gives them to us. I ate her cookies yesterday. They were so good!",
+    "choices": {
+      "1": "books",
+      "2": "cookies",
+      "3": "classes",
+      "4": "friends"
+    },
+    "answers": [
+      2
+    ],
+    "id": 117,
+    "round": 117,
+    "question_no": 117
+  },
+  {
+    "question": "다음 대화의 마지막 말로 가장 적절한 것은? A: What’s the matter? You look sad. B: My mother is in hospital. She is very sick. I’m so worried. A: .",
+    "choices": {
+      "1": "Excellent",
+      "2": "Sounds great",
+      "3": "That’s a good idea",
+      "4": "I’m sorry to hear that"
+    },
+    "answers": [
+      4
+    ],
+    "id": 118,
+    "round": 118,
+    "question_no": 118
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? I bought a shirt for my dad at your shop yesterday, but he doesn’t like the color. Can I exchange it for a black one? Please let me know if it is possible. Thanks.",
+    "choices": {
+      "1": "친구를 추천하기 위해",
+      "2": "숙소를 예약하기 위해",
+      "3": "셔츠를 교환하기 위해",
+      "4": "파티에 초대하기 위해"
+    },
+    "answers": [
+      3
+    ],
+    "id": 119,
+    "round": 119,
+    "question_no": 119
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? If you want to get good grades, it is important to set goals and study every day. It is also a good idea to study together with your friends. This will help you get good grades.",
+    "choices": {
+      "1": "좋은 성적을 얻는 방법",
+      "2": "건강을 잘 관리하는 방법",
+      "3": "악기를 잘 연주하는 방법",
+      "4": "친구들과 사이좋게 지내는 방법"
+    },
+    "answers": [
+      1
+    ],
+    "id": 120,
+    "round": 120,
+    "question_no": 120
+  },
+  {
+    "question": "다음 글 바로 뒤에 이어질 내용으로 가장 적절한 것은? There are a lot of mountains in the world. Many people like to climb to the top of the mountains. However, climbing mountains can be dangerous. When you climb mountains, you need to follow these safety rules.",
+    "choices": {
+      "1": "세계의 높은 산",
+      "2": "등산하기에 좋은 산",
+      "3": "산 정상에 오르는 이유",
+      "4": "등산할 때 지켜야 할 안전 수칙"
+    },
+    "answers": [
+      4
+    ],
+    "id": 121,
+    "round": 121,
+    "question_no": 121
+  },
+  {
+    "question": "다음 글에서 John이 지난 일요일에 한 일은? John got up early last Sunday. He had breakfast and went out to exercise in the playground. In the afternoon, he read a book about Korean history. In the evening, he did his homework.",
+    "choices": {
+      "1": "컴퓨터 게임을 했다.",
+      "2": "오전에 방 청소를 했다.",
+      "3": "저녁에 숙제를 했다.",
+      "4": "텔레비전을 시청했다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 122,
+    "round": 122,
+    "question_no": 122
+  },
+  {
+    "question": "다음 밑줄 친 단어의 뜻으로 가장 적절한 것은? You should be polite to others.",
+    "choices": {
+      "1": "공손한",
+      "2": "명랑한",
+      "3": "성실한",
+      "4": "정직한"
+    },
+    "answers": [
+      1
+    ],
+    "id": 123,
+    "round": 123,
+    "question_no": 123
+  },
+  {
+    "question": "다음 밑줄 친 두 단어의 의미 관계와 다른 것은? A lion is big and a cat is small.",
+    "choices": {
+      "1": "fast－quick",
+      "2": "high－low",
+      "3": "light－heavy",
+      "4": "same－different"
+    },
+    "answers": [
+      1
+    ],
+    "id": 124,
+    "round": 124,
+    "question_no": 124
+  },
+  {
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은? These shoes really expensive.",
+    "choices": {
+      "1": "is",
+      "2": "be",
+      "3": "are",
+      "4": "was"
+    },
+    "answers": [
+      3
+    ],
+    "id": 125,
+    "round": 125,
+    "question_no": 125
+  },
+  {
+    "question": "A: Can you sing well? B: , but I can dance well.",
+    "choices": {
+      "1": "Yes, I am",
+      "2": "Yes, I do",
+      "3": "No, I can’t",
+      "4": "No, I didn’t"
+    },
+    "answers": [
+      3
+    ],
+    "id": 126,
+    "round": 126,
+    "question_no": 126
+  },
+  {
+    "question": "A: Excuse me. Where is the bank? B: Go straight two blocks and left. It’ll be on your right.",
+    "choices": {
+      "1": "push",
+      "2": "turn",
+      "3": "use",
+      "4": "write"
+    },
+    "answers": [
+      2
+    ],
+    "id": 127,
+    "round": 127,
+    "question_no": 127
+  },
+  {
+    "question": "A: What is Alice good at? B: .",
+    "choices": {
+      "1": "She’s having dinner",
+      "2": "She’s good at drawing",
+      "3": "She doesn’t like music",
+      "4": "She has a younger sister"
+    },
+    "answers": [
+      2
+    ],
+    "id": 128,
+    "round": 128,
+    "question_no": 128
+  },
+  {
+    "question": "다음 대화의 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? A: These plants look dry. You should them. B: You’re right. They need a lot of .",
+    "choices": {
+      "1": "food",
+      "2": "show",
+      "3": "tell",
+      "4": "water"
+    },
+    "answers": [
+      4
+    ],
+    "id": 129,
+    "round": 129,
+    "question_no": 129
+  },
+  {
+    "question": "다음은 Tom의 여행 계획이다. 토요일에 할 일은?",
+    "choices": {
+      "1": "해변에 가기",
+      "2": "길거리 음식 먹기",
+      "3": "박물관 방문하기",
+      "4": "보트 타기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 130,
+    "round": 130,
+    "question_no": 130
+  },
+  {
+    "question": "다음 대화가 끝난 후 A가 이용할 교통수단은? A: Dad, can you give me a ride to school? B: Sorry, David. I have to go to a business meeting. A: That’s okay. I’ll go by bus.",
+    "choices": {
+      "1": "버스",
+      "2": "비행기",
+      "3": "승용차",
+      "4": "지하철"
+    },
+    "answers": [
+      1
+    ],
+    "id": 131,
+    "round": 131,
+    "question_no": 131
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: Which do you prefer, the mountains or the ocean? B: because I love swimming.",
+    "choices": {
+      "1": "I like the fresh air",
+      "2": "I like the ocean better",
+      "3": "He likes to go hiking",
+      "4": "Mountains are beautiful"
+    },
+    "answers": [
+      2
+    ],
+    "id": 132,
+    "round": 132,
+    "question_no": 132
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: What do you want to be in the future? B: I want to be a writer. What about you? A: Well, I’m interested in taking pictures. So, I want to be a photographer. B: Great. That’s the perfect job for you.",
+    "choices": {
+      "1": "가족 소개",
+      "2": "공부 방법",
+      "3": "선물 구입",
+      "4": "장래 희망"
+    },
+    "answers": [
+      4
+    ],
+    "id": 133,
+    "round": 133,
+    "question_no": 133
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Attention, students. The new science room is open from today. Let me tell you the safety rules to follow. First, make sure to use safety glasses. Second, don’t run around in the room. Be safe and have fun.",
+    "choices": {
+      "1": "수업 변경 공지",
+      "2": "학생의 날 행사 홍보",
+      "3": "과학실 안전 수칙 안내",
+      "4": "동아리 회원 모집 공고"
+    },
+    "answers": [
+      3
+    ],
+    "id": 134,
+    "round": 134,
+    "question_no": 134
+  },
+  {
+    "question": "다음 대화에서 B가 부산에 간 이유는? A: You went to Busan last week, didn’t you? B: Yes, I went there to attend my uncle’s wedding.",
+    "choices": {
+      "1": "바다 야경을 보려고",
+      "2": "맛있는 음식을 먹으려고",
+      "3": "삼촌 결혼식에 참석하려고",
+      "4": "할머니 생신을 축하하려고"
+    },
+    "answers": [
+      3
+    ],
+    "id": 135,
+    "round": 135,
+    "question_no": 135
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: I went to the food festival yesterday. B: Good for you! What food did you try? A: .",
+    "choices": {
+      "1": "It was very comfortable",
+      "2": "I always cook for my friends",
+      "3": "He usually goes there on foot",
+      "4": "I tried the ice cream sandwich"
+    },
+    "answers": [
+      4
+    ],
+    "id": 136,
+    "round": 136,
+    "question_no": 136
+  },
+  {
+    "question": "다음 대화의 내용에 따라 (a)～(c)를 순서대로 배열한 것은? A: Excuse me. How can I use this ticket machine? B: First, choose the station you want to go to. Next, press the number of tickets. Then, put your card into the machine. (a) 카드를 넣는다. (b) 승차권 매수를 누른다. (c) 가고 싶은 역을 고른다.",
+    "choices": {
+      "1": "(a)-(c)-(b)",
+      "2": "(b)-(a)-(c)",
+      "3": "(c)-(a)-(b)",
+      "4": "(c)-(b)-(a)"
+    },
+    "answers": [
+      4
+    ],
+    "id": 137,
+    "round": 137,
+    "question_no": 137
+  },
+  {
+    "question": "다음 연극 초대장을 보고 알 수 없는 내용은?",
+    "choices": {
+      "1": "연극 제목",
+      "2": "공연 일시",
+      "3": "공연 장소",
+      "4": "주연 배우"
+    },
+    "answers": [
+      4
+    ],
+    "id": 138,
+    "round": 138,
+    "question_no": 138
+  },
+  {
+    "question": "다음 글의 내용과 일치하지 않는 것은? These days, we don’t get many visitors to our town. This is because there is not enough information about our town on the internet. So we are planning to create a town homepage. We are also going to make a video introducing our town.",
+    "choices": {
+      "1": "요즘 마을에 방문객이 많지 않다.",
+      "2": "인터넷상에는 마을에 대한 충분한 정보가 있다.",
+      "3": "마을 홈페이지를 만들 계획이다.",
+      "4": "마을을 소개하는 비디오를 제작할 예정이다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 139,
+    "round": 139,
+    "question_no": 139
+  },
+  {
+    "question": "다음 글에서 코끼리가 발로 땅을 치는 이유로 가장 적절한 것은? Have you ever seen an elephant hit the ground with its feet? It does this to communicate with other elephants. Elephants can feel shaking with their feet, so they can get a message from far away.",
+    "choices": {
+      "1": "운동을 하기 위해",
+      "2": "소화를 촉진하기 위해",
+      "3": "발바닥 상태를 점검하기 위해",
+      "4": "다른 코끼리와 소통하기 위해"
+    },
+    "answers": [
+      4
+    ],
+    "id": 140,
+    "round": 140,
+    "question_no": 140
+  },
+  {
+    "question": "다음 글에서 언급된 내용이 아닌 것은? Today, I saw the movie, Move to Mars. It is about a man who is trying to live on Mars. It is a science fiction movie made by my favorite director, Seho Lee. I think it is an interesting movie.",
+    "choices": {
+      "1": "영화 제목",
+      "2": "영화 장르",
+      "3": "영화관 위치",
+      "4": "감독 이름"
+    },
+    "answers": [
+      3
+    ],
+    "id": 141,
+    "round": 141,
+    "question_no": 141
+  },
+  {
+    "question": "다음 밑줄 친 them이 가리키는 것으로 가장 적절한 것은? I have two goals this year. The first one is to get along with my new classmates. I hope they are nice. The second one is to read many books. I will read them as often as possible.",
+    "choices": {
+      "1": "books",
+      "2": "classes",
+      "3": "feelings",
+      "4": "goals"
+    },
+    "answers": [
+      1
+    ],
+    "id": 142,
+    "round": 142,
+    "question_no": 142
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? Hello, I’m Steve, and I would like to join your project, “No Unhappy Dogs.” I love dogs and I’d be happy to do many things for them. I am sure I can be a big help to your project.",
+    "choices": {
+      "1": "문화 센터 소개",
+      "2": "도서관 공사 공지",
+      "3": "동물원 개장 안내",
+      "4": "프로젝트 참가 신청"
+    },
+    "answers": [
+      4
+    ],
+    "id": 143,
+    "round": 143,
+    "question_no": 143
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Do you want to make special ramyeon? This is my recipe. First, boil water and put in ramyeon and sauce. Add some carrots and gimchi. And put in some milk and cheese. Now, enjoy!",
+    "choices": {
+      "1": "다양한 김치의 종류",
+      "2": "특별한 라면 요리법",
+      "3": "라면이 인기 있는 이유",
+      "4": "김치가 건강에 미치는 영향"
+    },
+    "answers": [
+      2
+    ],
+    "id": 144,
+    "round": 144,
+    "question_no": 144
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? The earth is dying because of trash. Think about all the plastic bags and paper boxes you throw away each day. We need to do something about this. Let me tell you how we can reduce trash in our daily lives.",
+    "choices": {
+      "1": "지구 온난화가 생기는 원인",
+      "2": "미세 먼지로 인한 피해 사례",
+      "3": "쓰레기를 줄일 수 있는 방법",
+      "4": "과학자들이 우주를 연구하는 이유"
+    },
+    "answers": [
+      3
+    ],
+    "id": 145,
+    "round": 145,
+    "question_no": 145
+  },
+  {
+    "question": "다음 밑줄 친 단어의 뜻으로 가장 적절한 것은? Tom is watching a popular Korean drama on TV.",
+    "choices": {
+      "1": "예의 바른",
+      "2": "용기 있는",
+      "3": "인기 있는",
+      "4": "전통적인"
+    },
+    "answers": [
+      3
+    ],
+    "id": 146,
+    "round": 146,
+    "question_no": 146
+  },
+  {
+    "question": "다음 밑줄 친 두 단어의 의미 관계와 다른 것은? I don’t know who will win or lose.",
+    "choices": {
+      "1": "ask－answer",
+      "2": "begin－start",
+      "3": "open－close",
+      "4": "forget－remember"
+    },
+    "answers": [
+      2
+    ],
+    "id": 147,
+    "round": 147,
+    "question_no": 147
+  },
+  {
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은? He will here for the interview tomorrow.",
+    "choices": {
+      "1": "be",
+      "2": "am",
+      "3": "is",
+      "4": "was"
+    },
+    "answers": [
+      1
+    ],
+    "id": 148,
+    "round": 148,
+    "question_no": 148
+  },
+  {
+    "question": "A: Is this salt from France? B: . It’s from Korea.",
+    "choices": {
+      "1": "Yes, it is",
+      "2": "Yes, it does",
+      "3": "No, it isn’t",
+      "4": "No, it doesn’t"
+    },
+    "answers": [
+      3
+    ],
+    "id": 149,
+    "round": 149,
+    "question_no": 149
+  },
+  {
+    "question": "A: Who is the man wearing glasses? B: That’s our new teacher. Let’s hello to him.",
+    "choices": {
+      "1": "come",
+      "2": "say",
+      "3": "take",
+      "4": "walk"
+    },
+    "answers": [
+      2
+    ],
+    "id": 150,
+    "round": 150,
+    "question_no": 150
+  },
+  {
+    "question": "A: You look sad. ? B: I broke my favorite watch.",
+    "choices": {
+      "1": "What happened",
+      "2": "How’s the weather",
+      "3": "Who did you go with",
+      "4": "Where are you staying"
+    },
+    "answers": [
+      1
+    ],
+    "id": 151,
+    "round": 151,
+    "question_no": 151
+  },
+  {
+    "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦Why don’t you your bike to school? ◦I can give you a after work.",
+    "choices": {
+      "1": "cost",
+      "2": "fall",
+      "3": "live",
+      "4": "ride"
+    },
+    "answers": [
+      4
+    ],
+    "id": 152,
+    "round": 152,
+    "question_no": 152
+  },
+  {
+    "question": "다음은 Tony가 집에서 할 일이다. 금요일에 할 일은?",
+    "choices": {
+      "1": "설거지하기",
+      "2": "쿠키 만들기",
+      "3": "방 청소하기",
+      "4": "쓰레기 버리기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 153,
+    "round": 153,
+    "question_no": 153
+  },
+  {
+    "question": "다음 대화의 마지막 말로 가장 적절한 것은? A: John, did you find your phone? B: Yes, Jane found it for me. A: .",
+    "choices": {
+      "1": "Not really",
+      "2": "That’s too bad",
+      "3": "You’re welcome",
+      "4": "Glad to hear that"
+    },
+    "answers": [
+      4
+    ],
+    "id": 154,
+    "round": 154,
+    "question_no": 154
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: Did you see the movie, The Higher? B: No, I didn’t. What is it about? A: It’s about flying an airplane.",
+    "choices": {
+      "1": "영화 내용",
+      "2": "휴가 계획",
+      "3": "회원 가입",
+      "4": "병원 예약"
+    },
+    "answers": [
+      1
+    ],
+    "id": 155,
+    "round": 155,
+    "question_no": 155
+  },
+  {
+    "question": "다음 공연 포스터를 보고 알 수 없는 것은?",
+    "choices": {
+      "1": "공연 날짜",
+      "2": "가수 이름",
+      "3": "공연 장소",
+      "4": "티켓 가격"
+    },
+    "answers": [
+      2
+    ],
+    "id": 156,
+    "round": 156,
+    "question_no": 156
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Welcome, visitors! When you go up the mountain, please keep these things in mind. First, watch out for wild animals. Second, come down before it gets dark. Lastly, take your trash back with you. Enjoy your hike!",
+    "choices": {
+      "1": "관광 명소 홍보",
+      "2": "일정 변경 공지",
+      "3": "멸종 위기 동물 소개",
+      "4": "등산 시 유의 사항 안내"
+    },
+    "answers": [
+      4
+    ],
+    "id": 157,
+    "round": 157,
+    "question_no": 157
+  },
+  {
+    "question": "다음 대화에서 Bora가 주말에 파티에 가지 못하는 이유는? A: Bora, let’s go to a party this weekend. B: I’m sorry, but I can’t. I’m going on a family trip.",
+    "choices": {
+      "1": "친구와 약속이 있어서",
+      "2": "가족 여행을 가야 해서",
+      "3": "남동생을 돌봐야 해서",
+      "4": "집 청소를 해야 해서"
+    },
+    "answers": [
+      2
+    ],
+    "id": 158,
+    "round": 158,
+    "question_no": 158
+  },
+  {
+    "question": "Star Flea Market에 관한 다음 글의 내용과 일치하지 않는 것은? Next to the Natural History Museum, you can find Star Flea Market. It opens every Saturday from 9 a.m. to 6 p.m. You can buy clothes, shoes, and toys at low prices. You can get more information on the website.",
+    "choices": {
+      "1": "박물관 안에 위치한다.",
+      "2": "매주 토요일에 열린다.",
+      "3": "옷, 신발, 장난감을 낮은 가격에 살 수 있다.",
+      "4": "웹사이트에서 더 많은 정보를 얻을 수 있다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 159,
+    "round": 159,
+    "question_no": 159
+  },
+  {
+    "question": "다음 동아리 홍보문을 보고 알 수 없는 내용은? We are looking for new members! English Book Club ◦We read English books and talk about them after school on Wednesdays. ◦To sign up, come to the English classroom.",
+    "choices": {
+      "1": "활동 내용",
+      "2": "신청 기간",
+      "3": "활동 요일",
+      "4": "신청 장소"
+    },
+    "answers": [
+      2
+    ],
+    "id": 160,
+    "round": 160,
+    "question_no": 160
+  },
+  {
+    "question": "다음 글에서 haka춤을 췄던 이유로 가장 적절한 것은? Have you heard of haka? It is a famous New Zealand dance. This dance was originally performed by the Maori before a fight. They used the dance to show their strength to the enemy.",
+    "choices": {
+      "1": "힘을 보여 주려고",
+      "2": "행복을 기원하려고",
+      "3": "손님을 맞이하려고",
+      "4": "아름다움을 표현하려고"
+    },
+    "answers": [
+      1
+    ],
+    "id": 161,
+    "round": 161,
+    "question_no": 161
+  },
+  {
+    "question": "Central Library에 관한 다음 글에서 언급된 내용이 아닌 것은? Central Library is located across from City Hall. It has a collection of about 400,000 books. It opened its doors in 2013. Since then, many people have visited this library.",
+    "choices": {
+      "1": "위치",
+      "2": "보유 도서 권수",
+      "3": "개관 연도",
+      "4": "일일 방문객 수"
+    },
+    "answers": [
+      4
+    ],
+    "id": 162,
+    "round": 162,
+    "question_no": 162
+  },
+  {
+    "question": "다음 밑줄 친 They가 가리키는 것으로 가장 적절한 것은? Eating vegetables and fruits is good for your health. If you want to have healthy skin, try some lemons. They contain a lot of vitamin C. If you want to have a healthy heart, eat more tomatoes.",
+    "choices": {
+      "1": "apples",
+      "2": "carrots",
+      "3": "lemons",
+      "4": "tomatoes"
+    },
+    "answers": [
+      3
+    ],
+    "id": 163,
+    "round": 163,
+    "question_no": 163
+  },
+  {
+    "question": "온라인상에서 지켜야 할 사항으로 언급되지 않은 것은? <Online Manners> ◦Don’t use bad language. ◦Don’t leave rude comments. ◦Don’t post false information.",
+    "choices": {
+      "1": "나쁜 언어 사용하지 않기",
+      "2": "무례한 글 남기지 않기",
+      "3": "개인 정보 유출하지 않기",
+      "4": "거짓 정보 게시하지 않기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 164,
+    "round": 164,
+    "question_no": 164
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? People in Vietnam love their traditional hat, non las, because it has various uses. In the summer, it protects the skin from the sun. When it rains, people use it as an umbrella. It can also be used as a basket.",
+    "choices": {
+      "1": "베트남의 유명한 관광지",
+      "2": "베트남과 한국의 공통점",
+      "3": "베트남 음식이 유행하는 이유",
+      "4": "베트남 전통 모자의 다양한 용도"
+    },
+    "answers": [
+      4
+    ],
+    "id": 165,
+    "round": 165,
+    "question_no": 165
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Living without smartphones is difficult these days. However, using smartphones too much can cause several problems. Let’s talk about them in more detail.",
+    "choices": {
+      "1": "올바른 스마트폰 사용 사례",
+      "2": "스마트폰이 우리 생활에 주는 도움",
+      "3": "과도한 스마트폰 사용으로 인한 문제점",
+      "4": "스마트폰 중독에서 벗어날 수 있는 방법"
+    },
+    "answers": [
+      3
+    ],
+    "id": 166,
+    "round": 166,
+    "question_no": 166
+  },
+  {
+    "question": "다음 밑줄 친 단어의 뜻으로 가장 적절한 것은? I heard this movie is boring, so I don’t want to watch it.",
+    "choices": {
+      "1": "지루한",
+      "2": "즐거운",
+      "3": "무서운",
+      "4": "놀라운"
+    },
+    "answers": [
+      1
+    ],
+    "id": 167,
+    "round": 167,
+    "question_no": 167
+  },
+  {
+    "question": "다음 중 두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "buy-sell",
+      "2": "tell-speak",
+      "3": "push-pull",
+      "4": "start-finish"
+    },
+    "answers": [
+      2
+    ],
+    "id": 168,
+    "round": 168,
+    "question_no": 168
+  },
+  {
+    "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은? This one of my favorite songs.",
+    "choices": {
+      "1": "be",
+      "2": "is",
+      "3": "am",
+      "4": "are"
+    },
+    "answers": [
+      2
+    ],
+    "id": 169,
+    "round": 169,
+    "question_no": 169
+  },
+  {
+    "question": "A: Excuse me, how is this book? B: It’s only five dollars.",
+    "choices": {
+      "1": "far",
+      "2": "tall",
+      "3": "long",
+      "4": "much"
+    },
+    "answers": [
+      4
+    ],
+    "id": 170,
+    "round": 170,
+    "question_no": 170
+  },
+  {
+    "question": "A: Can you please the dishes? B: I’m sorry, but I don’t have time. I’ll do it later.",
+    "choices": {
+      "1": "go",
+      "2": "call",
+      "3": "hear",
+      "4": "wash"
+    },
+    "answers": [
+      4
+    ],
+    "id": 171,
+    "round": 171,
+    "question_no": 171
+  },
+  {
+    "question": "A: I like this jacket very much. B: Why do you like it? A: .",
+    "choices": {
+      "1": "I like the color",
+      "2": "They look so tired",
+      "3": "Don’t worry about it",
+      "4": "I am reading a magazine"
+    },
+    "answers": [
+      1
+    ],
+    "id": 172,
+    "round": 172,
+    "question_no": 172
+  },
+  {
+    "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦You can’t your car here. ◦Let’s go to the for a picnic.",
+    "choices": {
+      "1": "fly",
+      "2": "cook",
+      "3": "park",
+      "4": "watch"
+    },
+    "answers": [
+      3
+    ],
+    "id": 173,
+    "round": 173,
+    "question_no": 173
+  },
+  {
+    "question": "다음은 Alice의 주간계획표이다. 목요일에 할 일은?",
+    "choices": {
+      "1": "자전거 타기",
+      "2": "수영하기",
+      "3": "피자 만들기",
+      "4": "축구하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 174,
+    "round": 174,
+    "question_no": 174
+  },
+  {
+    "question": "다음 대화가 끝난 후 두 사람이 만날 장소는? A: Why don’t we play badminton today? B: Sure. Where shall we meet? A: How about the school playground? B: O.K. See you there at 3 o’clock.",
+    "choices": {
+      "1": "경찰서",
+      "2": "도서관",
+      "3": "운동장",
+      "4": "주차장"
+    },
+    "answers": [
+      3
+    ],
+    "id": 175,
+    "round": 175,
+    "question_no": 175
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: Mom, can I go to the movies? B: Who are you going to go with? A: .",
+    "choices": {
+      "1": "At 3 o’clock",
+      "2": "I’m going to go with Sora",
+      "3": "We’re going to see The Planet",
+      "4": "We’ll meet in front of the theater"
+    },
+    "answers": [
+      2
+    ],
+    "id": 176,
+    "round": 176,
+    "question_no": 176
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: Which season do you like? B: I like summer because I can go to the beach. A: I love skiing, so I like winter.",
+    "choices": {
+      "1": "새해 소망",
+      "2": "좋아하는 계절",
+      "3": "여행지 추천",
+      "4": "외국인 친구 소개"
+    },
+    "answers": [
+      2
+    ],
+    "id": 177,
+    "round": 177,
+    "question_no": 177
+  },
+  {
+    "question": "다음 홍보문을 보고 알 수 없는 것은? Learn from Artists ◦Place: Modern Art Museum ◦Date: May 7th, 2022 ◦Activity: Drawing pictures with artists",
+    "choices": {
+      "1": "장소",
+      "2": "날짜",
+      "3": "참가비",
+      "4": "활동 내용"
+    },
+    "answers": [
+      3
+    ],
+    "id": 178,
+    "round": 178,
+    "question_no": 178
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Good afternoon. Welcome to the downtown library. We have a special event today. Julia Smith will talk about her new book, Harry Botter, in the main hall at 2 p.m. If you’re a fan, please don’t miss this event!",
+    "choices": {
+      "1": "기부 방법 설명",
+      "2": "화장실 고장 공지",
+      "3": "중고 서적 판매 광고",
+      "4": "도서관 특별 행사 안내"
+    },
+    "answers": [
+      4
+    ],
+    "id": 179,
+    "round": 179,
+    "question_no": 179
+  },
+  {
+    "question": "다음 대화에서 B가 긴장한 이유는? A: Hi, Judy. You look worried. What’s wrong? B: I have to give a speech in English. I’m so nervous. A: Don’t worry. You’ll do a good job.",
+    "choices": {
+      "1": "요리 대회에 출전해서",
+      "2": "약속 시간에 늦어서",
+      "3": "좋아하는 배우를 만나서",
+      "4": "영어로 연설을 해야 해서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 180,
+    "round": 180,
+    "question_no": 180
+  },
+  {
+    "question": "seahorse에 관한 다음 글의 내용과 일치하지 않는 것은? The seahorse is very interesting in many ways. It is a kind of fish, but it looks like a horse. It swims standing up. It moves slowly in the water. When it is in danger, it can change its color.",
+    "choices": {
+      "1": "말처럼 생겼다.",
+      "2": "서서 헤엄친다.",
+      "3": "빠르게 이동한다.",
+      "4": "색을 바꿀 수 있다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 181,
+    "round": 181,
+    "question_no": 181
+  },
+  {
+    "question": "다음 글에서 Minsu가 버스에서 내린 이유로 가장 적절한 것은? Yesterday, Minsu got on a bus. He put his card on the reader to pay the fare. But the machine said that there was not enough money on his card. So he had to get off the bus. He was embarrassed.",
+    "choices": {
+      "1": "버스를 잘못 타서",
+      "2": "목적지에 도착해서",
+      "3": "버스가 갑자기 고장 나서",
+      "4": "버스 카드 잔액이 부족해서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 182,
+    "round": 182,
+    "question_no": 182
+  },
+  {
+    "question": "Franz Liszt에 관한 다음 글에서 언급된 내용이 아닌 것은? Have you heard of Franz Liszt? He was born in Hungary in 1811. His father played the cello, so Liszt became interested in music. Liszt first started playing the piano when he was seven. He later became a great pianist, composer, and teacher.",
+    "choices": {
+      "1": "작곡한 작품의 수",
+      "2": "태어난 나라",
+      "3": "피아노를 치기 시작한 나이",
+      "4": "직업"
+    },
+    "answers": [
+      1
+    ],
+    "id": 183,
+    "round": 183,
+    "question_no": 183
+  },
+  {
+    "question": "다음 밑줄 친 they가 가리키는 것으로 가장 적절한 것은? The Sahara Desert is a very hot place. It is difficult for animals to survive there, but ants can live in this environment. How can they do that? Because their bodies can reflect the heat from the sun.",
+    "choices": {
+      "1": "ants",
+      "2": "bears",
+      "3": "foxes",
+      "4": "lions"
+    },
+    "answers": [
+      1
+    ],
+    "id": 184,
+    "round": 184,
+    "question_no": 184
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? There are many good things about using a smartphone. First, I can get in touch with my friends anywhere. Also, I can easily get the information I need. This is useful when I have a lot of homework to do.",
+    "choices": {
+      "1": "다양한 원격 수업 방법",
+      "2": "인터넷 중독의 위험성",
+      "3": "스마트폰 사용의 좋은 점",
+      "4": "학교 숙제가 필요한 이유"
+    },
+    "answers": [
+      3
+    ],
+    "id": 185,
+    "round": 185,
+    "question_no": 185
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? Hello, Dr. Brown. I have a problem. I keep buying things that I don’t need. So I have a lot of unnecessary things. I really want to break this bad habit. What should I do?",
+    "choices": {
+      "1": "조언을 구하기 위해서",
+      "2": "환불을 요청하기 위해서",
+      "3": "주말 약속을 잡기 위해서",
+      "4": "전시회를 소개하기 위해서"
+    },
+    "answers": [
+      1
+    ],
+    "id": 186,
+    "round": 186,
+    "question_no": 186
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Why do people dance? They dance to express feelings, give happiness to others, or enjoy themselves. Now, let’s take a look at different kinds of dance around the world.",
+    "choices": {
+      "1": "여러 나라의 인사법",
+      "2": "세계의 다양한 춤 소개",
+      "3": "감정을 잘 표현하는 방법",
+      "4": "책을 많이 읽어야 하는 이유"
+    },
+    "answers": [
+      2
+    ],
+    "id": 187,
+    "round": 187,
+    "question_no": 187
+  },
+  {
+    "question": "다음 밑줄 친 단어의 뜻으로 가장 적절한 것은? My sister is really funny. She makes me laugh a lot.",
+    "choices": {
+      "1": "슬픈",
+      "2": "게으른",
+      "3": "수줍은",
+      "4": "재미있는"
+    },
+    "answers": [
+      4
+    ],
+    "id": 188,
+    "round": 188,
+    "question_no": 188
+  },
+  {
+    "question": "다음 중 두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "pass － fail",
+      "2": "sit － stand",
+      "3": "say － tell",
+      "4": "begin － end"
+    },
+    "answers": [
+      3
+    ],
+    "id": 189,
+    "round": 189,
+    "question_no": 189
+  },
+  {
+    "question": "A: were you late for school? B: Because I missed the bus.",
+    "choices": {
+      "1": "Why",
+      "2": "What",
+      "3": "When",
+      "4": "Where"
+    },
+    "answers": [
+      1
+    ],
+    "id": 190,
+    "round": 190,
+    "question_no": 190
+  },
+  {
+    "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦Some shops on Sundays. ◦My school is very to the post office.",
+    "choices": {
+      "1": "free",
+      "2": "next",
+      "3": "close",
+      "4": "among"
+    },
+    "answers": [
+      3
+    ],
+    "id": 191,
+    "round": 191,
+    "question_no": 191
+  },
+  {
+    "question": "다음 대화에서 두 사람이 할 운동으로 가장 적절한 것은? A: What are you going to do on sports day? B: I am going to play soccer. A: Me, too. I’m really looking forward to it. B: Good luck. Let’s do our best.",
+    "choices": {
+      "1": "농구",
+      "2": "수영",
+      "3": "야구",
+      "4": "축구"
+    },
+    "answers": [
+      4
+    ],
+    "id": 192,
+    "round": 192,
+    "question_no": 192
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: Are you happy with your school uniform, Jane? B: . A: Why not? B: I don’t like the color.",
+    "choices": {
+      "1": "Yes, I really like it",
+      "2": "I’m really happy for you",
+      "3": "No, I’m not very happy with it",
+      "4": "You should bring your own lunch"
+    },
+    "answers": [
+      3
+    ],
+    "id": 193,
+    "round": 193,
+    "question_no": 193
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: My father’s birthday is coming. What should I get for him? B: How about a nice tie? A: That sounds good. I think he needs one.",
+    "choices": {
+      "1": "생일 선물",
+      "2": "시험 성적",
+      "3": "여가 활동",
+      "4": "여행 계획"
+    },
+    "answers": [
+      1
+    ],
+    "id": 194,
+    "round": 194,
+    "question_no": 194
+  },
+  {
+    "question": "다음 홍보문을 보고 알 수 없는 것은? City Library Book Camp Date: May 6th(Saturday), 2023 Time: 9:00 a.m. - 11:00 a.m. Place: City Library Activities: -Talking about books -Meeting authors",
+    "choices": {
+      "1": "참가 인원",
+      "2": "행사 일시",
+      "3": "행사 장소",
+      "4": "활동 내용"
+    },
+    "answers": [
+      1
+    ],
+    "id": 195,
+    "round": 195,
+    "question_no": 195
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Good morning, everyone. I would like to give you some safety tips in case of a fire. Make sure you cover your mouth with a wet cloth. Also, use stairs instead of elevators.",
+    "choices": {
+      "1": "기상 악화 예보",
+      "2": "일정 변경 공지",
+      "3": "건물 내 시설 소개",
+      "4": "화재 안전 수칙 안내"
+    },
+    "answers": [
+      4
+    ],
+    "id": 196,
+    "round": 196,
+    "question_no": 196
+  },
+  {
+    "question": "다음 대화에서 회의 시간을 바꾸려는 이유는? A: We need to change the time for tomorrow’s meeting. It’s too early. B: I agree. How about 10 a.m.? A: That’s much better.",
+    "choices": {
+      "1": "늦게 도착해서",
+      "2": "교통 체증이 심해서",
+      "3": "회의 시간이 길어서",
+      "4": "너무 이른 시간이어서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 197,
+    "round": 197,
+    "question_no": 197
+  },
+  {
+    "question": "cookie cup에 관한 다음 글의 내용과 일치하지 않는 것은? Here’s an eco-friendly item! It’s a cookie cup. It is a cookie made in the shape of a cup. After using the cup, you can just eat it instead of throwing it away. By doing this, you can make less trash.",
+    "choices": {
+      "1": "친환경 제품이다.",
+      "2": "유리로 만든다.",
+      "3": "먹을 수 있다.",
+      "4": "쓰레기를 줄일 수 있다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 198,
+    "round": 198,
+    "question_no": 198
+  },
+  {
+    "question": "다음 글에서 Gina가 제안한 것으로 가장 적절한 것은? Gina and I saw a little dog on our way to school. The dog seemed to have a broken leg, and we were worried about it. Gina suggested that we take it to an animal doctor.",
+    "choices": {
+      "1": "아침 일찍 일어나기",
+      "2": "개를 공원에서 산책시키기",
+      "3": "친구와 함께 공부하기",
+      "4": "개를 수의사에게 데려가기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 199,
+    "round": 199,
+    "question_no": 199
+  },
+  {
+    "question": "다음 밑줄 친 It이 가리키는 것으로 가장 적절한 것은? Bees are very helpful to humans. First, bees give us honey. Honey is a truly wonderful food. It is good for our health and tastes good. Second, bees help produce many fruits like apples and peaches.",
+    "choices": {
+      "1": "bird",
+      "2": "honey",
+      "3": "apple",
+      "4": "peach"
+    },
+    "answers": [
+      2
+    ],
+    "id": 200,
+    "round": 200,
+    "question_no": 200
+  },
+  {
+    "question": "수업 규칙으로 언급되지 않은 것은? Class Rules -Help each other. -Take notes in class. -Bring your textbooks.",
+    "choices": {
+      "1": "활동 시간 지키기",
+      "2": "서로 도와주기",
+      "3": "수업 중 필기하기",
+      "4": "교과서 가져오기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 201,
+    "round": 201,
+    "question_no": 201
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Today, I will talk about what makes a good leader. First, a good leader is friendly and easy to talk to. Second, a good leader gives advice to people. Lastly, a good leader listens to others carefully.",
+    "choices": {
+      "1": "조언의 필요성",
+      "2": "좋은 리더의 특징",
+      "3": "아침 식사의 중요성",
+      "4": "운동을 해야 하는 이유"
+    },
+    "answers": [
+      2
+    ],
+    "id": 202,
+    "round": 202,
+    "question_no": 202
+  },
+  {
+    "question": "다음 편지의 목적으로 가장 적절한 것은? Thank you for inviting me to your home last Friday. I had a really good time and the food was great. The bulgogi was very delicious. Also, thank you for showing me how to cook tteokbokki.",
+    "choices": {
+      "1": "감사",
+      "2": "거절",
+      "3": "불평",
+      "4": "사과"
+    },
+    "answers": [
+      1
+    ],
+    "id": 203,
+    "round": 203,
+    "question_no": 203
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Smartphones can cause some health problems. One problem is dry eyes because we don’t often blink when using smartphones. Another problem is neck pain. Looking down at one can cause neck pain. Here are some tips to solve these problems.",
+    "choices": {
+      "1": "스마트폰 요금제를 선택하는 방법",
+      "2": "스마트폰 종류별 특징과 수리 방법",
+      "3": "스마트폰을 저렴하게 구입하는 다양한 방법",
+      "4": "스마트폰 사용으로 인한 건강 문제 해결 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 204,
+    "round": 204,
+    "question_no": 204
+  },
+  {
+    "question": "다음 밑줄 친 단어의 뜻으로 가장 적절한 것은? I love my friends. They’re very special to me.",
+    "choices": {
+      "1": "엄격한",
+      "2": "용감한",
+      "3": "특별한",
+      "4": "현명한"
+    },
+    "answers": [
+      3
+    ],
+    "id": 205,
+    "round": 205,
+    "question_no": 205
+  },
+  {
+    "question": "다음 중 두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "fast－slow",
+      "2": "large－big",
+      "3": "late－early",
+      "4": "long－short"
+    },
+    "answers": [
+      2
+    ],
+    "id": 206,
+    "round": 206,
+    "question_no": 206
+  },
+  {
+    "question": "A: do you think of my new skirt? B: It looks good on you.",
+    "choices": {
+      "1": "Who",
+      "2": "What",
+      "3": "Where",
+      "4": "Which"
+    },
+    "answers": [
+      2
+    ],
+    "id": 207,
+    "round": 207,
+    "question_no": 207
+  },
+  {
+    "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦It’s outside. You should wear a coat. ◦He said he had a sore throat. Did he catch a ?",
+    "choices": {
+      "1": "cold",
+      "2": "soft",
+      "3": "tall",
+      "4": "well"
+    },
+    "answers": [
+      1
+    ],
+    "id": 208,
+    "round": 208,
+    "question_no": 208
+  },
+  {
+    "question": "다음 대화가 끝난 후 두 사람이 함께 갈 장소는? A: Where are you going, Minsu? B: I’m going to the school gym to play basketball. A: Really? Can I join you? B: Sure. Let’s go together.",
+    "choices": {
+      "1": "체육관",
+      "2": "보건실",
+      "3": "미술실",
+      "4": "도서관"
+    },
+    "answers": [
+      1
+    ],
+    "id": 209,
+    "round": 209,
+    "question_no": 209
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: You look so happy today. What’s up? B: . A: Oh, where did you find your dog? B: He was in the park near my house.",
+    "choices": {
+      "1": "I failed the test",
+      "2": "I’m a Canadian",
+      "3": "I found my missing dog",
+      "4": "I don’t like vegetables"
+    },
+    "answers": [
+      3
+    ],
+    "id": 210,
+    "round": 210,
+    "question_no": 210
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: Boram, what’s your plan for this vacation? B: I plan to take guitar lessons. How about you? A: I’m going to visit my grandparents in Jeju-do.",
+    "choices": {
+      "1": "친구 관계",
+      "2": "방학 계획",
+      "3": "생일 선물",
+      "4": "운동 추천"
+    },
+    "answers": [
+      2
+    ],
+    "id": 211,
+    "round": 211,
+    "question_no": 211
+  },
+  {
+    "question": "다음 홍보문을 보고 알 수 없는 것은?",
+    "choices": {
+      "1": "수업 날짜",
+      "2": "수업 장소",
+      "3": "수업료",
+      "4": "수업 활동"
+    },
+    "answers": [
+      3
+    ],
+    "id": 212,
+    "round": 212,
+    "question_no": 212
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Hello, students. Tomorrow is Sports Day. Please remember to wear comfortable clothes and shoes. Keep the rules to play safely and fairly. Stay with your classmates during the events. Have fun!",
+    "choices": {
+      "1": "지역 특산물 소개",
+      "2": "체육 대회 유의 사항 설명",
+      "3": "백화점 행사 홍보",
+      "4": "학교 식당 공사 일정 안내"
+    },
+    "answers": [
+      2
+    ],
+    "id": 213,
+    "round": 213,
+    "question_no": 213
+  },
+  {
+    "question": "White Winter Festival에 관한 다음 글의 내용과 일치하지 않는 것은? The White Winter Festival starts in the last week of January and goes on for five days. People can enjoy ice fishing. There is also a snowman building contest. Musicians play live music at night.",
+    "choices": {
+      "1": "1월 마지막 주에 시작한다.",
+      "2": "얼음낚시를 즐길 수 있다.",
+      "3": "눈사람 만들기 대회가 있다.",
+      "4": "음악가들이 오전에 공연을 한다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 214,
+    "round": 214,
+    "question_no": 214
+  },
+  {
+    "question": "다음 글에서 Elena에 대해 언급된 내용이 아닌 것은? I’m Elena from France. I want to be a fashion designer someday. I tried on a hanbok when I visited Korea in 2020. I loved the style of hanbok. My dream is to make such beautiful clothes in the future.",
+    "choices": {
+      "1": "출신 국가",
+      "2": "장래 희망",
+      "3": "한국 방문 연도",
+      "4": "반려동물"
+    },
+    "answers": [
+      4
+    ],
+    "id": 215,
+    "round": 215,
+    "question_no": 215
+  },
+  {
+    "question": "다음 글의 흐름으로 보아 어울리지 않는 문장은? Jiho’s father runs a small restaurant.",
+    "choices": {
+      "1": "He makes",
+      "2": "Jiho wants to learn how to cook",
+      "3": "So, he’s going to practice cooking spaghetti with",
+      "4": "Burgers are his favorite food."
+    },
+    "answers": [
+      4
+    ],
+    "id": 216,
+    "round": 216,
+    "question_no": 216
+  },
+  {
+    "question": "밑줄 친 them이 가리키는 것으로 가장 적절한 것은? I read the news about newly designed buses. It says people can get on these buses more easily. The buses have no steps and have very low floors. Even a person in a wheelchair can use them without any help.",
+    "choices": {
+      "1": "books",
+      "2": "buses",
+      "3": "people",
+      "4": "windows"
+    },
+    "answers": [
+      2
+    ],
+    "id": 217,
+    "round": 217,
+    "question_no": 217
+  },
+  {
+    "question": "캠핑 시 주의해야 할 사항으로 언급되지 않은 것은? ◦Don’t put up a tent right next to the river. ◦Don’t feed wild animals. ◦Don’t leave your trash behind.",
+    "choices": {
+      "1": "강 바로 옆에 텐트 치지 않기",
+      "2": "야생 동물에게 먹이 주지 않기",
+      "3": "쓰레기 남겨 두지 않기",
+      "4": "텐트 안에서 요리하지 않기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 218,
+    "round": 218,
+    "question_no": 218
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Are you feeling down? Here are some tips to help you feel better. First, go outdoors. Getting lots of sunlight makes you feel happy. Another thing you can do is exercise. You can forget about worries while working out.",
+    "choices": {
+      "1": "수면과 건강의 관계",
+      "2": "다양한 호르몬의 역할",
+      "3": "지구 온난화의 원인",
+      "4": "기분이 나아지게 하는 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 219,
+    "round": 219,
+    "question_no": 219
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? Hello, Mr. Brown. The school concert is coming. My music club members are preparing for the concert. We need a place to practice together. Can we please use your classroom this week?",
+    "choices": {
+      "1": "과제를 확인하기 위해서",
+      "2": "봉사 활동에 지원하기 위해서",
+      "3": "교실 사용을 허락받기 위해서",
+      "4": "마을 축제에 초대하기 위해서"
+    },
+    "answers": [
+      3
+    ],
+    "id": 220,
+    "round": 220,
+    "question_no": 220
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Visiting markets is a good way to learn about the culture of a country. You can meet people, learn history, and taste local food. I’d like to introduce some famous markets around the world.",
+    "choices": {
+      "1": "다양한 조리 방법 제안",
+      "2": "용돈 관리의 중요성 강조",
+      "3": "세계의 유명한 시장들 소개",
+      "4": "외국어를 배워야 하는 이유 설명"
+    },
+    "answers": [
+      3
+    ],
+    "id": 221,
+    "round": 221,
+    "question_no": 221
+  },
+  {
+    "question": "밑줄 친 단어의 뜻으로 가장 적절한 것은? Everyone thinks that ice cream is delicious.",
+    "choices": {
+      "1": "쉬운",
+      "2": "가능한",
+      "3": "맛있는",
+      "4": "흥미로운"
+    },
+    "answers": [
+      3
+    ],
+    "id": 222,
+    "round": 222,
+    "question_no": 222
+  },
+  {
+    "question": "다음 중 두 단어의 의미 관계가 나머지 셋과 다른 것은?",
+    "choices": {
+      "1": "big-small",
+      "2": "dry-wet",
+      "3": "old-young",
+      "4": "tall-high"
+    },
+    "answers": [
+      4
+    ],
+    "id": 223,
+    "round": 223,
+    "question_no": 223
+  },
+  {
+    "question": "How does it take to go to the train station?",
+    "choices": {
+      "1": "long",
+      "2": "many",
+      "3": "often",
+      "4": "tall"
+    },
+    "answers": [
+      1
+    ],
+    "id": 224,
+    "round": 224,
+    "question_no": 224
+  },
+  {
+    "question": "A: do you usually get up? B: I usually get up at seven.",
+    "choices": {
+      "1": "How",
+      "2": "What",
+      "3": "When",
+      "4": "Which"
+    },
+    "answers": [
+      3
+    ],
+    "id": 225,
+    "round": 225,
+    "question_no": 225
+  },
+  {
+    "question": "A: Can you ride a bike? B: .",
+    "choices": {
+      "1": "Yes, I can",
+      "2": "No, I don’t",
+      "3": "Yes, you can",
+      "4": "No, I’m not"
+    },
+    "answers": [
+      1
+    ],
+    "id": 226,
+    "round": 226,
+    "question_no": 226
+  },
+  {
+    "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦I play the piano in my time. ◦You can have this candy for .",
+    "choices": {
+      "1": "busy",
+      "2": "close",
+      "3": "free",
+      "4": "hard"
+    },
+    "answers": [
+      3
+    ],
+    "id": 227,
+    "round": 227,
+    "question_no": 227
+  },
+  {
+    "question": "다음은 가족이 주말에 할 일이다. Tom이 할 일은?",
+    "choices": {
+      "1": "식물 물 주기",
+      "2": "창문 닦기",
+      "3": "빨래하기",
+      "4": "쿠키 굽기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 228,
+    "round": 228,
+    "question_no": 228
+  },
+  {
+    "question": "다음 대화가 끝난 후 두 사람이 함께 갈 장소는? A: I’m worried about my leg. I can’t walk easily. B: Why don’t you see a doctor? A: I think I should. Can you go with me now? B: Sure.",
+    "choices": {
+      "1": "병원",
+      "2": "서점",
+      "3": "문구점",
+      "4": "우체국"
+    },
+    "answers": [
+      1
+    ],
+    "id": 229,
+    "round": 229,
+    "question_no": 229
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: How’s the weather outside? B: It’s raining. ? A: No, I don’t. I have to buy one.",
+    "choices": {
+      "1": "What time is it",
+      "2": "How have you been",
+      "3": "Where did you get it",
+      "4": "Do you have an umbrella"
+    },
+    "answers": [
+      4
+    ],
+    "id": 230,
+    "round": 230,
+    "question_no": 230
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: We need to change the meeting time. It’s too early. B: I agree. What about 10 a.m.? A: That’s much better.",
+    "choices": {
+      "1": "회의 시간 변경",
+      "2": "회의 장소 변경",
+      "3": "회의 주제 변경",
+      "4": "회의 참가자 변경"
+    },
+    "answers": [
+      1
+    ],
+    "id": 231,
+    "round": 231,
+    "question_no": 231
+  },
+  {
+    "question": "다음 홍보문을 보고 알 수 없는 것은?",
+    "choices": {
+      "1": "행사 날짜",
+      "2": "행사 시간",
+      "3": "행사 장소",
+      "4": "행사 참가비"
+    },
+    "answers": [
+      4
+    ],
+    "id": 232,
+    "round": 232,
+    "question_no": 232
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Hello, everyone. I have something to tell you about tomorrow’s lunch menu. The original menu was spaghetti, cake, and orange juice. However, we’ll serve milk instead of orange juice. Sorry about the change.",
+    "choices": {
+      "1": "기부금 모금",
+      "2": "학교 규칙 안내",
+      "3": "새로운 요리사 소개",
+      "4": "점심 메뉴 변경 공지"
+    },
+    "answers": [
+      4
+    ],
+    "id": 233,
+    "round": 233,
+    "question_no": 233
+  },
+  {
+    "question": "다음 대화에서 B가 수영장에 가지 못하는 이유는? A: Steve and I are going to the swimming pool this Saturday. Do you want to join us? B: Sorry, but I’m taking a trip with my family this weekend. A: Okay. Maybe next time.",
+    "choices": {
+      "1": "수학 시험이 있어서",
+      "2": "가족 여행을 가야 해서",
+      "3": "치과 예약이 있어서",
+      "4": "축구 경기를 해야 해서"
+    },
+    "answers": [
+      2
+    ],
+    "id": 234,
+    "round": 234,
+    "question_no": 234
+  },
+  {
+    "question": "다음 Moai에 대한 설명과 일치하지 않는 것은? Have you ever heard of the Moai? They are on Easter Island. They are tall, human-shaped stones. Most of them are about four meters tall, and the tallest one is around 20 meters tall. They mainly face towards the village, and some are looking out to sea.",
+    "choices": {
+      "1": "이스터섬에 있다.",
+      "2": "사람 모양의 돌이다.",
+      "3": "대부분 높이가 약 20미터이다.",
+      "4": "주로 마을 쪽을 보고 있다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 235,
+    "round": 235,
+    "question_no": 235
+  },
+  {
+    "question": "다음 글에서 City Flea Market에 대해 언급된 내용이 아닌 것은? City Flea Market is a great place for many shoppers. It is open every Saturday. It is in front of the History Museum. You can buy clothes, shoes, books, and toys at low prices in this market.",
+    "choices": {
+      "1": "열리는 요일",
+      "2": "열리는 장소",
+      "3": "주차 정보",
+      "4": "판매 품목"
+    },
+    "answers": [
+      3
+    ],
+    "id": 236,
+    "round": 236,
+    "question_no": 236
+  },
+  {
+    "question": "다음 글에서 Jimin이 제안한 것으로 가장 적절한 것은? My big problem at school is getting poor grades on tests. I never do well on them. So, I asked Jimin for advice. Jimin suggested making a study group. He told me that studying with friends could help me do better on tests.",
+    "choices": {
+      "1": "친구들과 함께 공부하기",
+      "2": "조용한 공부 장소 찾기",
+      "3": "시험공부 계획 세우기",
+      "4": "선생님께 질문하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 237,
+    "round": 237,
+    "question_no": 237
+  },
+  {
+    "question": "다음 글의 흐름으로 보아 어울리지 않는 문장은? Last year, I went to a mountain.",
+    "choices": {
+      "1": "I took a cable car",
+      "2": "My father bought a",
+      "3": "Then, I hiked to the top.",
+      "4": "At the top, I"
+    },
+    "answers": [
+      2
+    ],
+    "id": 238,
+    "round": 238,
+    "question_no": 238
+  },
+  {
+    "question": "밑줄 친 It이 가리키는 것으로 가장 적절한 것은? Do you like walking? How many steps do you walk in a day? Walking can offer lots of health benefits to people of all ages. It may help prevent certain diseases, so you can live a long life. It also doesn’t require any special equipment and can be done anywhere.",
+    "choices": {
+      "1": "Equipment",
+      "2": "Life",
+      "3": "Stress",
+      "4": "Walking"
+    },
+    "answers": [
+      4
+    ],
+    "id": 239,
+    "round": 239,
+    "question_no": 239
+  },
+  {
+    "question": "도서관 이용 시 주의해야 할 사항으로 언급되지 않은 것은? Library Rules: ∙Return books on time. ∙Do not make loud noises. ∙Do not eat any food.",
+    "choices": {
+      "1": "제시간에 책 반납하기",
+      "2": "시끄럽게 하지 않기",
+      "3": "음식 먹지 않기",
+      "4": "책에 낙서하지 않기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 240,
+    "round": 240,
+    "question_no": 240
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Do you know what to do when there is a fire? You should shout, “Fire!” You need to cover your face with a wet towel. You have to stay low and get out. Remember to use the stairs, not the elevator. Also, you need to call 119 as soon as possible.",
+    "choices": {
+      "1": "건강한 식생활 방법",
+      "2": "지진의 원인과 대처법",
+      "3": "화재 발생 시 행동 요령",
+      "4": "전자 제품 사용 시 유의점"
+    },
+    "answers": [
+      3
+    ],
+    "id": 241,
+    "round": 241,
+    "question_no": 241
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? My name is John Brown. I’d like to report a problem on Main Street. This morning I saw that the traffic lights were broken. I’m afraid this might cause an accident. Please come and check right away.",
+    "choices": {
+      "1": "사과하려고",
+      "2": "신고하려고",
+      "3": "축하하려고",
+      "4": "홍보하려고"
+    },
+    "answers": [
+      2
+    ],
+    "id": 242,
+    "round": 242,
+    "question_no": 242
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Yoga is a mind and body practice that can build strength and balance. It may also help manage pain and reduce stress. There are a lot of types of yoga. Let’s take a look at the various types of yoga.",
+    "choices": {
+      "1": "요가의 좋은 점",
+      "2": "다양한 요가의 유형",
+      "3": "요가가 시작된 나라",
+      "4": "요가할 때 주의할 점"
+    },
+    "answers": [
+      2
+    ],
+    "id": 243,
+    "round": 243,
+    "question_no": 243
+  },
+  {
+    "question": "다음 밑줄 친 단어의 뜻으로 가장 적절한 것은? I feel shy when I speak in front of people.",
+    "choices": {
+      "1": "고마운",
+      "2": "신나는",
+      "3": "피곤한",
+      "4": "부끄러운"
+    },
+    "answers": [
+      4
+    ],
+    "id": 244,
+    "round": 244,
+    "question_no": 244
+  },
+  {
+    "question": "다음 밑줄 친 두 단어의 의미 관계와 다른 것은? Don’t make a loud noise in our quiet area.",
+    "choices": {
+      "1": "rich-poor",
+      "2": "kind-nice",
+      "3": "clean-dirty",
+      "4": "full-empty"
+    },
+    "answers": [
+      2
+    ],
+    "id": 245,
+    "round": 245,
+    "question_no": 245
+  },
+  {
+    "question": "A: color do you like more, yellow or blue? B: I prefer blue to yellow.",
+    "choices": {
+      "1": "How",
+      "2": "Where",
+      "3": "Which",
+      "4": "Why"
+    },
+    "answers": [
+      3
+    ],
+    "id": 246,
+    "round": 246,
+    "question_no": 246
+  },
+  {
+    "question": "A: What’s the matter, John? Are you okay? B: I hurt my back when I lifted a box yesterday. A: .",
+    "choices": {
+      "1": "That’s too bad",
+      "2": "I’m afraid I can’t",
+      "3": "I look forward to it",
+      "4": "Turn off the water"
+    },
+    "answers": [
+      1
+    ],
+    "id": 247,
+    "round": 247,
+    "question_no": 247
+  },
+  {
+    "question": "다음 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦Please take a at this picture. ◦He will after my dog when I’m away.",
+    "choices": {
+      "1": "buy",
+      "2": "look",
+      "3": "tell",
+      "4": "wear"
+    },
+    "answers": [
+      2
+    ],
+    "id": 248,
+    "round": 248,
+    "question_no": 248
+  },
+  {
+    "question": "다음은 Julia의 내일 일정표이다. 내일 오후 8시에 할 일은?",
+    "choices": {
+      "1": "체육관에서 운동하기",
+      "2": "Mike와 점심 먹기",
+      "3": "Mary와 쇼핑하기",
+      "4": "영어 숙제 하기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 249,
+    "round": 249,
+    "question_no": 249
+  },
+  {
+    "question": "다음 대화가 끝난 후 오후에 두 사람이 함께 할 일은? A: Are you free this afternoon? B: Yeah, why? A: I was thinking we could go to the library and study together. B: Okay. That sounds like a good plan.",
+    "choices": {
+      "1": "집에서 숙제하기",
+      "2": "서점에서 책 읽기",
+      "3": "학교에서 수업 듣기",
+      "4": "도서관에서 공부하기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 250,
+    "round": 250,
+    "question_no": 250
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: What should we do for Jane’s birthday? B: Let’s have dinner at her favorite restaurant. A: .",
+    "choices": {
+      "1": "He must be tired",
+      "2": "Nice to meet you",
+      "3": "That’s a good idea",
+      "4": "It’s not your fault"
+    },
+    "answers": [
+      3
+    ],
+    "id": 251,
+    "round": 251,
+    "question_no": 251
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: Sam, what do you do in your free time? B: I like watching movies. What about you? A: I enjoy playing the guitar.",
+    "choices": {
+      "1": "여가 활동",
+      "2": "영화 예매",
+      "3": "음악 감상",
+      "4": "여행 계획"
+    },
+    "answers": [
+      1
+    ],
+    "id": 252,
+    "round": 252,
+    "question_no": 252
+  },
+  {
+    "question": "다음 홍보문을 보고 알 수 없는 것은?",
+    "choices": {
+      "1": "행사 장소",
+      "2": "행사 날짜",
+      "3": "참가 인원",
+      "4": "신청 방법"
+    },
+    "answers": [
+      3
+    ],
+    "id": 253,
+    "round": 253,
+    "question_no": 253
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Good evening, ladies and gentlemen. The musical is going to start soon. Please turn off your phones. Also, please avoid taking photos during the show. We hope you have a wonderful time!",
+    "choices": {
+      "1": "관람 예절 안내",
+      "2": "예매 방법 설명",
+      "3": "장소 변경 공지",
+      "4": "출연 배우 소개"
+    },
+    "answers": [
+      1
+    ],
+    "id": 254,
+    "round": 254,
+    "question_no": 254
+  },
+  {
+    "question": "다음 대화에서 A가 동아리 활동에 참여하지 못하는 이유는? A: I won’t be able to make it to our club meeting today. B: Oh no, I’m sorry to hear that. Why not? A: I have a bad cold.",
+    "choices": {
+      "1": "감기에 걸려서",
+      "2": "날씨가 너무 추워서",
+      "3": "콘서트에 가야 해서",
+      "4": "친구와 약속이 있어서"
+    },
+    "answers": [
+      1
+    ],
+    "id": 255,
+    "round": 255,
+    "question_no": 255
+  },
+  {
+    "question": "다음 Songkran에 대한 설명과 일치하지 않는 것은? Songkran, a big festival in Thailand, is held in April. This festival celebrates the traditional Thai New Year. You can enjoy a big water fight at the festival. You can also try traditional Thai food.",
+    "choices": {
+      "1": "태국에서 4월에 열리는 큰 축제이다.",
+      "2": "태국의 전통적인 새해맞이 행사이다.",
+      "3": "축제 기간 동안 소싸움을 즐길 수 있다.",
+      "4": "태국 전통 음식을 맛볼 수 있다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 256,
+    "round": 256,
+    "question_no": 256
+  },
+  {
+    "question": "다음 글에서 Siberian tiger에 대해 언급된 내용이 아닌 것은? The Siberian tiger is the biggest cat in the world. It lives in cold places in eastern Russia. It has orange fur with black stripes. It likes to eat big animals like deer. A hungry tiger can eat almost 30 kilograms in one night.",
+    "choices": {
+      "1": "서식지",
+      "2": "수명",
+      "3": "털 무늬",
+      "4": "먹이"
+    },
+    "answers": [
+      2
+    ],
+    "id": 257,
+    "round": 257,
+    "question_no": 257
+  },
+  {
+    "question": "다음 글에서 Yumi가 제안한 것으로 가장 적절한 것은? These days, I often forget things that I need to do. For example, I forgot to bring my soccer uniform today. I asked Yumi for advice. She suggested making a list of things to do. It might be helpful.",
+    "choices": {
+      "1": "축구 연습하기",
+      "2": "운동복 구매하기",
+      "3": "전문가와 상담하기",
+      "4": "할 일 목록 작성하기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 258,
+    "round": 258,
+    "question_no": 258
+  },
+  {
+    "question": "다음 글의 흐름으로 보아 어울리지 않는 문장은? My favorite season is summer.",
+    "choices": {
+      "1": "I love going to the",
+      "2": "Swimming in the sea",
+      "3": "I also enjoy eating ice cream to cool",
+      "4": "Earth’s ice is melting fast. Summer is the best"
+    },
+    "answers": [
+      4
+    ],
+    "id": 259,
+    "round": 259,
+    "question_no": 259
+  },
+  {
+    "question": "다음 글에서 밑줄 친 They가 가리키는 것으로 가장 적절한 것은? Imagine you are on the 10th floor. Can you see ants on the street? Of course not. But eagles can. They are great hunters because of their powerful eyes. They can see rabbits up to 3.2 kilometers away.",
+    "choices": {
+      "1": "ants",
+      "2": "eagles",
+      "3": "rabbits",
+      "4": "kilometers"
+    },
+    "answers": [
+      2
+    ],
+    "id": 260,
+    "round": 260,
+    "question_no": 260
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? I’ll share some tips on how I reduce my stress. First, I go outside for a walk. When I get some fresh air, I feel better. I also listen to my favorite music. It helps me relax. I hope these tips can help you feel less stressed.",
+    "choices": {
+      "1": "올바른 걷기 자세",
+      "2": "대기 오염의 심각성",
+      "3": "클래식 음악의 역사",
+      "4": "스트레스를 줄이는 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 261,
+    "round": 261,
+    "question_no": 261
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? I ordered a black cap from your website on July 3rd. But the cap I got is brown, not black. I’m sending the wrong cap back to you. Please return my money when you receive the brown cap.",
+    "choices": {
+      "1": "주문하려고",
+      "2": "교환하려고",
+      "3": "환불을 요청하려고",
+      "4": "분실 신고 하려고"
+    },
+    "answers": [
+      3
+    ],
+    "id": 262,
+    "round": 262,
+    "question_no": 262
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? We can learn many useful things by reading. Reading good books helps us build thinking skills and understand others’ feelings. What kinds of books should we read, then? Here is how to choose the right books.",
+    "choices": {
+      "1": "다양한 독서 방법",
+      "2": "잘못된 의사소통 사례",
+      "3": "창의적인 사람의 특징",
+      "4": "적절한 책을 고르는 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 263,
+    "round": 263,
+    "question_no": 263
+  },
+  {
+    "question": "다음 중 밑줄 친 단어의 뜻으로 가장 적절한 것은? Because I’m strong, I can carry heavy things.",
+    "choices": {
+      "1": "높은",
+      "2": "무거운",
+      "3": "정직한",
+      "4": "창의적인"
+    },
+    "answers": [
+      2
+    ],
+    "id": 264,
+    "round": 264,
+    "question_no": 264
+  },
+  {
+    "question": "다음 중 밑줄 친 두 단어의 의미 관계와 다른 것은? My dream job is being a teacher.",
+    "choices": {
+      "1": "left－right",
+      "2": "color－yellow",
+      "3": "sport－baseball",
+      "4": "animal－monkey"
+    },
+    "answers": [
+      1
+    ],
+    "id": 265,
+    "round": 265,
+    "question_no": 265
+  },
+  {
+    "question": "A: is the hospital? B: It’s on Main Street. It’s next to the school.",
+    "choices": {
+      "1": "Who",
+      "2": "Why",
+      "3": "When",
+      "4": "Where"
+    },
+    "answers": [
+      4
+    ],
+    "id": 266,
+    "round": 266,
+    "question_no": 266
+  },
+  {
+    "question": "A: You don’t look well. What’s wrong? B: I have a bad cold. A: .",
+    "choices": {
+      "1": "Yes, I will",
+      "2": "He likes pizza",
+      "3": "You should see a doctor",
+      "4": "I have a younger sister"
+    },
+    "answers": [
+      3
+    ],
+    "id": 267,
+    "round": 267,
+    "question_no": 267
+  },
+  {
+    "question": "다음 중 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦I’m thirsty. I want to drink some . ◦Can you the flowers in the garden?",
+    "choices": {
+      "1": "run",
+      "2": "water",
+      "3": "answer",
+      "4": "exercise"
+    },
+    "answers": [
+      2
+    ],
+    "id": 268,
+    "round": 268,
+    "question_no": 268
+  },
+  {
+    "question": "다음은 Rachel의 여행 일정표이다. 금요일에 할 일은?",
+    "choices": {
+      "1": "등산하기",
+      "2": "유명한 식당에 방문하기",
+      "3": "해변에 가기",
+      "4": "가족에게 줄 선물 사기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 269,
+    "round": 269,
+    "question_no": 269
+  },
+  {
+    "question": "다음 대화가 끝난 후 두 사람이 함께 할 일은? A: Tomorrow is Minho’s birthday. B: Right. We should do something special for him. A: Why don’t we buy his favorite cheese cake? B: Good idea. Let’s do that.",
+    "choices": {
+      "1": "박물관 가기",
+      "2": "새 학기 준비하기",
+      "3": "병원 진료 예약하기",
+      "4": "치즈케이크 구입하기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 270,
+    "round": 270,
+    "question_no": 270
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: You are my BFF. B: BFF? ? A: It means “Best Friend Forever.”",
+    "choices": {
+      "1": "How are you",
+      "2": "Where are you from",
+      "3": "What does that mean",
+      "4": "What were you doing"
+    },
+    "answers": [
+      3
+    ],
+    "id": 271,
+    "round": 271,
+    "question_no": 271
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: What are you going to do this weekend? B: I’m going to go shopping. How about you? A: I’m planning to visit my grandparents.",
+    "choices": {
+      "1": "발표 연습",
+      "2": "생활 습관",
+      "3": "주말 계획",
+      "4": "회원 가입"
+    },
+    "answers": [
+      3
+    ],
+    "id": 272,
+    "round": 272,
+    "question_no": 272
+  },
+  {
+    "question": "다음 음악회 포스터를 보고 알 수 없는 것은?",
+    "choices": {
+      "1": "공연 날짜",
+      "2": "공연 장소",
+      "3": "주차 정보",
+      "4": "티켓 가격"
+    },
+    "answers": [
+      3
+    ],
+    "id": 273,
+    "round": 273,
+    "question_no": 273
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Hello, everyone. We have an announcement. News 9 will be delayed an hour because of the live broadcast from the Winter Olympics. We’ll be seeing you right after the game. Thank you.",
+    "choices": {
+      "1": "경기 규칙 설명",
+      "2": "관광 명소 소개",
+      "3": "스포츠 용품 광고",
+      "4": "방송 시간 지연 안내"
+    },
+    "answers": [
+      4
+    ],
+    "id": 274,
+    "round": 274,
+    "question_no": 274
+  },
+  {
+    "question": "다음 대화에서 B가 티셔츠를 권하지 않는 이유는? A: What do you think about this T-shirt? B: It’s nice, but I think it’s too big for you. A: I agree. Let’s look around more.",
+    "choices": {
+      "1": "가격이 비싸서",
+      "2": "유행이 지나서",
+      "3": "디자인이 단순해서",
+      "4": "사이즈가 너무 커서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 275,
+    "round": 275,
+    "question_no": 275
+  },
+  {
+    "question": "다음 chullo에 대한 설명과 일치하지 않는 것은? People in the Andes Mountains wear chullos because it is very cold there. A chullo is a traditional hat with long ear covers. Its designs include mountains, rivers, animals, and more. Today, the chullo has become a popular fashion item around the world.",
+    "choices": {
+      "1": "안데스 산맥의 사람들은 더위를 피하기 위해 착용한다.",
+      "2": "긴 귀덮개가 달린 전통 모자이다.",
+      "3": "산, 강, 동물 등의 디자인이 있다.",
+      "4": "오늘날 세계적으로 인기 있는 패션 아이템이 되었다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 276,
+    "round": 276,
+    "question_no": 276
+  },
+  {
+    "question": "다음 글에서 The Best New Thing에 대해 언급된 내용이 아닌 것은? Have you heard about the science fiction book, The Best New Thing? It was written by Issac Asimov, an American writer. The story starts with a family who lived on a spaceship. Later, they came to Earth. They experienced amazing things there and enjoyed their new life.",
+    "choices": {
+      "1": "장르",
+      "2": "작가",
+      "3": "줄거리",
+      "4": "출간 연도"
+    },
+    "answers": [
+      4
+    ],
+    "id": 277,
+    "round": 277,
+    "question_no": 277
+  },
+  {
+    "question": "다음 글에서 Sumi가 제안한 것으로 가장 적절한 것은? Last week, I spent a lot of time studying, which gave me neck pain. Because it hurt a lot, I asked Sumi for advice. She suggested that I do some neck stretching exercises.",
+    "choices": {
+      "1": "눈 마사지하기",
+      "2": "물 자주 마시기",
+      "3": "게임 시간 줄이기",
+      "4": "목 스트레칭 운동 하기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 278,
+    "round": 278,
+    "question_no": 278
+  },
+  {
+    "question": "다음 글의 흐름으로 보아 어울리지 않는 문장은? In the old days, sailors kept cats while they traveled around the sea.",
+    "choices": {
+      "1": "They thought that cats brought good",
+      "2": "Rabbits can jump very high.",
+      "3": "For example,",
+      "4": "Cats could also keep rats away"
+    },
+    "answers": [
+      2
+    ],
+    "id": 279,
+    "round": 279,
+    "question_no": 279
+  },
+  {
+    "question": "다음 밑줄 친 them이 가리키는 말로 가장 적절한 것은? The Sahara Desert is one of the driest and hottest places on Earth. But even at the hottest time of day, ants in the Sahara Desert can go hunting. How can the ants do that? Their body hairs protect them from the heat of the sun.",
+    "choices": {
+      "1": "ants",
+      "2": "trees",
+      "3": "snakes",
+      "4": "tomatoes"
+    },
+    "answers": [
+      1
+    ],
+    "id": 280,
+    "round": 280,
+    "question_no": 280
+  },
+  {
+    "question": "다음 글에서 수영장 이용 규칙으로 언급되지 않은 것은?",
+    "choices": {
+      "1": "수영모 착용하기",
+      "2": "준비 운동 하기",
+      "3": "뛰어다니지 않기",
+      "4": "30분마다 휴식하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 281,
+    "round": 281,
+    "question_no": 281
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Today, I will talk about what makes a good leader. First of all, a good leader should be friendly and easy to talk to. Next, a good leader shouldn’t try to control people. Lastly, a good leader should listen to others carefully.",
+    "choices": {
+      "1": "좋은 리더의 요건",
+      "2": "환경오염의 심각성",
+      "3": "외국어 학습의 필요성",
+      "4": "운동을 해야 하는 이유"
+    },
+    "answers": [
+      1
+    ],
+    "id": 282,
+    "round": 282,
+    "question_no": 282
+  },
+  {
+    "question": "다음 글의 목적으로 가장 적절한 것은? Hi, I’m Jay from the Picasso Art Club. We are looking for new members now. You don’t have to be a good painter. If you are interested in painting, come and join us.",
+    "choices": {
+      "1": "감사 인사를 하려고",
+      "2": "환불을 요청하려고",
+      "3": "분실물을 신고하려고",
+      "4": "신규 회원을 모집하려고"
+    },
+    "answers": [
+      4
+    ],
+    "id": 283,
+    "round": 283,
+    "question_no": 283
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Do you love popcorn? Popcorn is a popular snack around the world. People have enjoyed it for more than 5,000 years. Nowadays, many people enjoy popcorn in many different ways. Here are some examples.",
+    "choices": {
+      "1": "감자 재배 시기",
+      "2": "다양한 가족의 형태",
+      "3": "팝콘을 즐기는 다양한 방법",
+      "4": "빈번한 자연재해의 발생 원인"
+    },
+    "answers": [
+      3
+    ],
+    "id": 284,
+    "round": 284,
+    "question_no": 284
+  },
+  {
+    "question": "다음 중 밑줄 친 단어의 뜻으로 가장 적절한 것은? My parents are really proud of me.",
+    "choices": {
+      "1": "신나는",
+      "2": "친절한",
+      "3": "무관심한",
+      "4": "자랑스러운"
+    },
+    "answers": [
+      4
+    ],
+    "id": 285,
+    "round": 285,
+    "question_no": 285
+  },
+  {
+    "question": "다음 중 밑줄 친 두 단어의 의미 관계와 다른 것은? This question is difficult. Please give me an easy one.",
+    "choices": {
+      "1": "wide-narrow",
+      "2": "wise-foolish",
+      "3": "healthy-colorful",
+      "4": "cheap-expensive"
+    },
+    "answers": [
+      3
+    ],
+    "id": 286,
+    "round": 286,
+    "question_no": 286
+  },
+  {
+    "question": "A: How tickets do you need? B: I need three tickets, please.",
+    "choices": {
+      "1": "long",
+      "2": "many",
+      "3": "much",
+      "4": "often"
+    },
+    "answers": [
+      2
+    ],
+    "id": 287,
+    "round": 287,
+    "question_no": 287
+  },
+  {
+    "question": "A: What are you going to do this afternoon? B: I’m going to play computer games with my brother. A: .",
+    "choices": {
+      "1": "No, I haven’t",
+      "2": "You’re welcome",
+      "3": "Of course not",
+      "4": "That sounds fun"
+    },
+    "answers": [
+      4
+    ],
+    "id": 288,
+    "round": 288,
+    "question_no": 288
+  },
+  {
+    "question": "다음 중 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦What of music do you like? ◦She helped me a lot. I think she is very .",
+    "choices": {
+      "1": "kind",
+      "2": "fat",
+      "3": "well",
+      "4": "light"
+    },
+    "answers": [
+      1
+    ],
+    "id": 289,
+    "round": 289,
+    "question_no": 289
+  },
+  {
+    "question": "다음은 Mike의 여행 일정표이다. 오전 10시에 할 일은?",
+    "choices": {
+      "1": "호텔에서 아침 먹기",
+      "2": "전통 시장 방문하기",
+      "3": "공원에서 간식 먹기",
+      "4": "극장에 가기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 290,
+    "round": 290,
+    "question_no": 290
+  },
+  {
+    "question": "다음 대화가 끝난 후 두 사람이 함께 할 일은? A: Oh, my! I lost my smartphone. B: Really? Can you remember where you put it? A: I’m not sure. I should check the Lost and Found center, first. B: That’s a good idea. Let’s go together.",
+    "choices": {
+      "1": "수영하러 가기",
+      "2": "치과 진료 받기",
+      "3": "분실물 센터 가기",
+      "4": "합창 연습하러 가기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 291,
+    "round": 291,
+    "question_no": 291
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: What do you think of this bag? B: . Did you buy it? A: No, my sister gave it to me as a gift.",
+    "choices": {
+      "1": "It looks pretty",
+      "2": "I think so, too",
+      "3": "I want to be a doctor",
+      "4": "Don’t forget to call me"
+    },
+    "answers": [
+      1
+    ],
+    "id": 292,
+    "round": 292,
+    "question_no": 292
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: Kevin, what are you interested in? B: I’m interested in making robots. How about you? A: I like playing badminton.",
+    "choices": {
+      "1": "관심 분야",
+      "2": "요리 방법",
+      "3": "교통안전",
+      "4": "환경 보호"
+    },
+    "answers": [
+      1
+    ],
+    "id": 293,
+    "round": 293,
+    "question_no": 293
+  },
+  {
+    "question": "다음 홍보문을 보고 행사에 대해 알 수 없는 것은?",
+    "choices": {
+      "1": "행사 일시",
+      "2": "행사 장소",
+      "3": "경기 종목",
+      "4": "신청 방법"
+    },
+    "answers": [
+      4
+    ],
+    "id": 294,
+    "round": 294,
+    "question_no": 294
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Hello, students. I have an announcement. There is a problem with the school air conditioner. We are trying to fix it, but it will take two hours. Thank you for your understanding.",
+    "choices": {
+      "1": "학교 규칙 공지",
+      "2": "강의 주제 전달",
+      "3": "학생회 선거 홍보",
+      "4": "에어컨 고장 안내"
+    },
+    "answers": [
+      4
+    ],
+    "id": 295,
+    "round": 295,
+    "question_no": 295
+  },
+  {
+    "question": "다음 대화에서 B가 수업에 늦은 이유는? A: Why are you late, Amy? B: I missed the bus. I’m sorry for being late. A: Well, try to be on time. Let’s begin our class.",
+    "choices": {
+      "1": "버스를 놓쳐서",
+      "2": "수업이 빨리 끝나서",
+      "3": "숙제를 안 해서",
+      "4": "아침을 먹지 않아서"
+    },
+    "answers": [
+      1
+    ],
+    "id": 296,
+    "round": 296,
+    "question_no": 296
+  },
+  {
+    "question": "다음 Mr. Papa에 대한 설명과 일치하지 않는 것은? There is a story about an old man called Mr. Papa. He wears a hat made of gold. He flies on a dragon on June 5th. He gives good children toys and candies. However, he gives garlic and onions to bad kids.",
+    "choices": {
+      "1": "황금으로 만든 모자를 쓴다.",
+      "2": "6월 5일에 용을 타고 날아다닌다.",
+      "3": "착한 어린이들에게는 장난감과 사탕을 준다.",
+      "4": "나쁜 어린이들에게는 아무것도 주지 않는다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 297,
+    "round": 297,
+    "question_no": 297
+  },
+  {
+    "question": "다음 글에서 Julia Smith에 대해 언급된 내용이 아닌 것은? Julia Smith found her true talent in her 40s. At the age of 46, she moved to Rome with her husband. She went to a cooking school there. While she was studying, she ran an Italian restaurant, ‘Julia’s Trattoria’ and it became famous for pasta.",
+    "choices": {
+      "1": "재능 발견 시기",
+      "2": "이사한 도시",
+      "3": "남편의 직업",
+      "4": "운영한 식당"
+    },
+    "answers": [
+      3
+    ],
+    "id": 298,
+    "round": 298,
+    "question_no": 298
+  },
+  {
+    "question": "다음 글에서 Alex가 제안한 것으로 가장 적절한 것은? Tomorrow is my mom’s birthday. I was thinking about what to get her, so I asked Alex for advice. He suggested that I write her a letter because I’m good at writing.",
+    "choices": {
+      "1": "선물 사기",
+      "2": "편지 쓰기",
+      "3": "청소하기",
+      "4": "여행 가기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 299,
+    "round": 299,
+    "question_no": 299
+  },
+  {
+    "question": "다음 글의 흐름으로 보아 어울리지 않는 문장은? There are several things to remember during a flood.",
+    "choices": {
+      "1": "First of all, you should turn off all electricity.",
+      "2": "Second, you should stay out of moving water.",
+      "3": "You",
+      "4": "You have to move"
+    },
+    "answers": [
+      3
+    ],
+    "id": 300,
+    "round": 300,
+    "question_no": 300
+  },
+  {
+    "question": "다음 글에서 밑줄 친 They가 가리키는 것으로 가장 적절한 것은? Jiho likes making new things from something old. Yesterday, he brought pencil cases that he made from used clothes to school. He gave them to his classmates. They were surprised to get his presents and wanted to know how he made them.",
+    "choices": {
+      "1": "cups",
+      "2": "teachers",
+      "3": "classmates",
+      "4": "pencil cases"
+    },
+    "answers": [
+      3
+    ],
+    "id": 301,
+    "round": 301,
+    "question_no": 301
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Have you ever seen eagles flying high in the sky? They can see even small ants from up there. They are great hunters because of their powerful eyes. They can see tiny animals 2.8 kilometers away. Isn’t that amazing?",
+    "choices": {
+      "1": "개미의 특성",
+      "2": "독수리의 시력",
+      "3": "사냥의 역사",
+      "4": "시력에 좋은 음식"
+    },
+    "answers": [
+      2
+    ],
+    "id": 302,
+    "round": 302,
+    "question_no": 302
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? I have a jacket for sale. It is white and has many pockets. I bought it last year but it is just like new. I paid 80 dollars. I’m selling it for only 20 dollars!",
+    "choices": {
+      "1": "판매하려고",
+      "2": "환불하려고",
+      "3": "사과하려고",
+      "4": "구입하려고"
+    },
+    "answers": [
+      1
+    ],
+    "id": 303,
+    "round": 303,
+    "question_no": 303
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Hi! My name is Brian. I am Canadian and I have been living in Korea for two years. Have you ever been to Canada? Today, I will give you some tips for visiting Canada. Let’s start with the best time to visit there.",
+    "choices": {
+      "1": "한국의 다양한 날씨",
+      "2": "효과적인 영어 학습 방법",
+      "3": "자신이 좋아하는 음악 소개",
+      "4": "캐나다를 방문하기에 좋은 시기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 304,
+    "round": 304,
+    "question_no": 304
+  },
+  {
+    "question": "다음 중 밑줄 친 단어의 뜻으로 가장 적절한 것은? Students are usually quiet in the library.",
+    "choices": {
+      "1": "가까운",
+      "2": "건강한",
+      "3": "신나는",
+      "4": "조용한"
+    },
+    "answers": [
+      4
+    ],
+    "id": 305,
+    "round": 305,
+    "question_no": 305
+  },
+  {
+    "question": "다음 중 밑줄 친 두 단어의 의미 관계와 다른 것은? I feel so cold. I need some hot water.",
+    "choices": {
+      "1": "thin-thick",
+      "2": "small-little",
+      "3": "weak-strong",
+      "4": "light-heavy"
+    },
+    "answers": [
+      2
+    ],
+    "id": 306,
+    "round": 306,
+    "question_no": 306
+  },
+  {
+    "question": "A: Harry, you do me a favor? B: Sure. What is it?",
+    "choices": {
+      "1": "am",
+      "2": "are",
+      "3": "can",
+      "4": "have"
+    },
+    "answers": [
+      3
+    ],
+    "id": 307,
+    "round": 307,
+    "question_no": 307
+  },
+  {
+    "question": "A: What are you going to do this weekend? B: I’m going to go hiking. Do you want to come with me? A: .",
+    "choices": {
+      "1": "Yes, you are",
+      "2": "No, he wasn’t",
+      "3": "They look tired",
+      "4": "Yes, I’d love to"
+    },
+    "answers": [
+      4
+    ],
+    "id": 308,
+    "round": 308,
+    "question_no": 308
+  },
+  {
+    "question": "다음 중 빈칸에 공통으로 들어갈 말로 가장 적절한 것은? ◦She wants to her son. ◦I am so sorry. I missed your .",
+    "choices": {
+      "1": "call",
+      "2": "well",
+      "3": "drink",
+      "4": "travel"
+    },
+    "answers": [
+      1
+    ],
+    "id": 309,
+    "round": 309,
+    "question_no": 309
+  },
+  {
+    "question": "다음은 John의 주중 계획표이다. 화요일에 할 일은?",
+    "choices": {
+      "1": "피아노 치기",
+      "2": "자전거 타기",
+      "3": "방 청소하기",
+      "4": "박물관 가기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 310,
+    "round": 310,
+    "question_no": 310
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: Did you enjoy the magic show? B: Yes, . How about you? A: I also enjoyed it. The tricks were amazing.",
+    "choices": {
+      "1": "it was wonderful",
+      "2": "we had a boring time",
+      "3": "he doesn’t like vegetables",
+      "4": "I played baseball with my friends"
+    },
+    "answers": [
+      1
+    ],
+    "id": 311,
+    "round": 311,
+    "question_no": 311
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: Are you ready for the trip tomorrow? B: Yes. I packed everything, but I don’t have a fan. A: Don’t worry. I’ll bring one for you.",
+    "choices": {
+      "1": "강의 계획",
+      "2": "동물 보호",
+      "3": "여행 준비",
+      "4": "음식 소개"
+    },
+    "answers": [
+      3
+    ],
+    "id": 312,
+    "round": 312,
+    "question_no": 312
+  },
+  {
+    "question": "다음 홍보문을 보고 행사에 대해 알 수 없는 것은?",
+    "choices": {
+      "1": "영화 제목",
+      "2": "관람 비용",
+      "3": "상영 장소",
+      "4": "상영 시간"
+    },
+    "answers": [
+      2
+    ],
+    "id": 313,
+    "round": 313,
+    "question_no": 313
+  },
+  {
+    "question": "다음 방송의 목적으로 가장 적절한 것은? Attention, shoppers! We have a special event for our customers this week. If you spend over $50, you will get a 5% discount. Thank you for shopping with us.",
+    "choices": {
+      "1": "지역 특산물 소개",
+      "2": "계절 한정 상품 소개",
+      "3": "매장 마감 시간 안내",
+      "4": "특별 할인 행사 안내"
+    },
+    "answers": [
+      4
+    ],
+    "id": 314,
+    "round": 314,
+    "question_no": 314
+  },
+  {
+    "question": "다음 Forest Adventures에 대한 설명과 일치하지 않는 것은? The book, Forest Adventures, was written by the famous writer, Anna Brown. The main characters are a girl and a puppy. The book tells a story about their friendship. You can buy it in bookstores in October.",
+    "choices": {
+      "1": "무명 작가에 의해 쓰였다.",
+      "2": "주인공은 소녀와 강아지이다.",
+      "3": "우정에 관한 이야기를 담고 있다.",
+      "4": "서점에서 10월에 구매할 수 있다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 315,
+    "round": 315,
+    "question_no": 315
+  },
+  {
+    "question": "다음 글에서 The Pig Festival에 대해 언급된 내용이 아닌 것은? The Pig Festival is the biggest celebration in my town. Last year, 5,500 people visited the festival. Its main events are a pig race and a fireworks show. People can buy delicious food like hot dogs and cotton candy.",
+    "choices": {
+      "1": "작년 방문자 수",
+      "2": "주차장 위치",
+      "3": "주요 행사",
+      "4": "판매 음식"
+    },
+    "answers": [
+      2
+    ],
+    "id": 316,
+    "round": 316,
+    "question_no": 316
+  },
+  {
+    "question": "다음 글에서 Jiho가 제안한 것으로 가장 적절한 것은? I’m worried because I often buy things that I don’t need. So, I asked my friend, Jiho, for advice. He suggested making a list of things to buy. I think this is a really good idea.",
+    "choices": {
+      "1": "운동화 구매하기",
+      "2": "구매 목록 작성하기",
+      "3": "가족과 시간 보내기",
+      "4": "새로운 친구 사귀기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 317,
+    "round": 317,
+    "question_no": 317
+  },
+  {
+    "question": "다음 글의 흐름으로 보아 어울리지 않는 문장은? These days, robots play many different roles.",
+    "choices": {
+      "1": "Some",
+      "2": "Others make coffee",
+      "3": "Coffee beans are grown in warm areas.",
+      "4": "They also work as guides at airports. Robots are all"
+    },
+    "answers": [
+      3
+    ],
+    "id": 318,
+    "round": 318,
+    "question_no": 318
+  },
+  {
+    "question": "다음 글에서 밑줄 친 them이 가리키는 것으로 가장 적절한 것은? Imagine mosquitoes are flying around in your room. What would you do? Tomatoes can help. Many people like tomatoes, but mosquitoes dislike them. Bowls of crushed tomatoes can keep these insects away from your room.",
+    "choices": {
+      "1": "bowls",
+      "2": "trees",
+      "3": "tomatoes",
+      "4": "mosquitoes"
+    },
+    "answers": [
+      3
+    ],
+    "id": 319,
+    "round": 319,
+    "question_no": 319
+  },
+  {
+    "question": "다음 글의 주제로 가장 적절한 것은? Using mobile phones too much can have harmful effects. For example, it can cause dry eyes. Also, you can get neck pains. It is important to know these negative effects.",
+    "choices": {
+      "1": "현명한 시간 관리 방법",
+      "2": "영상 편집 기술의 발전",
+      "3": "휴대폰 과다 사용의 악영향",
+      "4": "주기적인 스트레칭의 중요성"
+    },
+    "answers": [
+      3
+    ],
+    "id": 320,
+    "round": 320,
+    "question_no": 320
+  },
+  {
+    "question": "다음 글을 쓴 목적으로 가장 적절한 것은? Hi, Steve. This is Bill. There is a student debate this Friday. However, one of our team members caught a bad cold, so he cannot come to the debate. Can you help us and join our team? We hope to hear from you soon.",
+    "choices": {
+      "1": "거절하려고",
+      "2": "구매하려고",
+      "3": "부탁하려고",
+      "4": "환불하려고"
+    },
+    "answers": [
+      3
+    ],
+    "id": 321,
+    "round": 321,
+    "question_no": 321
+  },
+  {
+    "question": "다음 글의 바로 뒤에 이어질 내용으로 가장 적절한 것은? Living in another country is not always easy. I have been living in Mexico for three years. Since my family moved here, I have found many cultural differences between Mexico and Korea. Here are some examples that I want to share with you.",
+    "choices": {
+      "1": "프랑스 대학에 입학하는 방법",
+      "2": "한국에 남아 있는 가족의 소식",
+      "3": "1년 전 한국으로 이사를 한 이유",
+      "4": "멕시코와 한국의 문화적 차이 사례"
+    },
+    "answers": [
+      4
+    ],
+    "id": 322,
+    "round": 322,
+    "question_no": 322
+  }
+]

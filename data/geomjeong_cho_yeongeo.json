@@ -1,0 +1,3032 @@
+[
+  {
+    "question": "밑줄 친 부분에 공통으로 들어갈 알파벳은? c_t b_g e_r",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "i",
+      "4": "o"
+    },
+    "answers": [
+      1
+    ],
+    "id": 1,
+    "round": 1,
+    "question_no": 1
+  },
+  {
+    "question": "동물을 나타내는 낱말이 아닌 것은?",
+    "choices": {
+      "1": "cow",
+      "2": "dog",
+      "3": "pig",
+      "4": "sun"
+    },
+    "answers": [
+      4
+    ],
+    "id": 2,
+    "round": 2,
+    "question_no": 2
+  },
+  {
+    "question": "모자의 위치를 바르게 표현한 것은?",
+    "choices": {
+      "1": "The cap is in the bed.",
+      "2": "The cap is on the bed.",
+      "3": "The cap is over the bed.",
+      "4": "The cap is under the bed."
+    },
+    "answers": [
+      4
+    ],
+    "id": 3,
+    "round": 3,
+    "question_no": 3
+  },
+  {
+    "question": "글의 내용에서 알 수 없는 것은? My name is Sumi. I am from Korea. I can ride a bike. I like pizza.",
+    "choices": {
+      "1": "이름",
+      "2": "출신지",
+      "3": "학년",
+      "4": "좋아하는 음식"
+    },
+    "answers": [
+      3
+    ],
+    "id": 4,
+    "round": 4,
+    "question_no": 4
+  },
+  {
+    "question": "빈칸에 들어갈 말로 적절한 것은? Yesterday was Friday. Today is ___________.",
+    "choices": {
+      "1": "Sunday",
+      "2": "Tuesday",
+      "3": "Thursday",
+      "4": "Saturday"
+    },
+    "answers": [
+      4
+    ],
+    "id": 5,
+    "round": 5,
+    "question_no": 5
+  },
+  {
+    "question": "대화에서 지호와 나미가 지난 주말에 한 일은? 나미: What did you do last weekend? 지호: I watched a movie. How about you? 나미: I played the violin. 지호 나미",
+    "choices": {
+      "1": "영화 보기 바이올린 연주",
+      "2": "영화 보기 피아노 연주",
+      "3": "피아노 연주 독서하기",
+      "4": "바이올린 연주 독서하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 6,
+    "round": 6,
+    "question_no": 6
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 적절한 것은? The piano is _______ than the chair.",
+    "choices": {
+      "1": "faster",
+      "2": "shorter",
+      "3": "smaller",
+      "4": "bigger"
+    },
+    "answers": [
+      4
+    ],
+    "id": 7,
+    "round": 7,
+    "question_no": 7
+  },
+  {
+    "question": "대화에 들어갈 B의 응답으로 적절하지 않은 것은? A: Can I take a picture here? B: ________________",
+    "choices": {
+      "1": "Sure.",
+      "2": "No problem.",
+      "3": "Yes, I am.",
+      "4": "Sorry, you can’t."
+    },
+    "answers": [
+      3
+    ],
+    "id": 8,
+    "round": 8,
+    "question_no": 8
+  },
+  {
+    "question": "대화에서 알 수 있는 것은? A: What’s your favorite season? B: My favorite season is summer.",
+    "choices": {
+      "1": "A가 좋아하는 운동",
+      "2": "B가 좋아하는 운동",
+      "3": "A가 좋아하는 계절",
+      "4": "B가 좋아하는 계절"
+    },
+    "answers": [
+      4
+    ],
+    "id": 9,
+    "round": 9,
+    "question_no": 9
+  },
+  {
+    "question": "대화에 들어갈 A의 말로 가장 적절한 것은? A: __________________ B: It’s ten dollars.",
+    "choices": {
+      "1": "How are you?",
+      "2": "How much is it?",
+      "3": "How old are you?",
+      "4": "How many apples?"
+    },
+    "answers": [
+      2
+    ],
+    "id": 10,
+    "round": 10,
+    "question_no": 10
+  },
+  {
+    "question": "대화의 내용과 일치하는 것은? 소라: When is your birthday party? 진우: My party is on September 1st. Can you come to my party? 소라: Sorry, I can’t. I will visit my uncle.",
+    "choices": {
+      "1": "소라의 생일 파티는 9월 1일이다.",
+      "2": "진우는 소라를 생일 파티에 초대한다.",
+      "3": "소라는 진우의 생일 파티에 갈 수 있다.",
+      "4": "진우는 삼촌 집을 방문할 예정이다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 11,
+    "round": 11,
+    "question_no": 11
+  },
+  {
+    "question": "대화에 들어갈 B의 응답으로 적절하지 않은 것은? A: Whose book is this? B: ________________",
+    "choices": {
+      "1": "It’s mine.",
+      "2": "That’s OK.",
+      "3": "It’s Yuna’s.",
+      "4": "I don’t know."
+    },
+    "answers": [
+      2
+    ],
+    "id": 12,
+    "round": 12,
+    "question_no": 12
+  },
+  {
+    "question": "와 에 들어갈 알파벳으로 적절하게 짝지은 것은? ish lower ig iano",
+    "choices": {
+      "1": "f p",
+      "2": "f v",
+      "3": "p f",
+      "4": "p v"
+    },
+    "answers": [
+      1
+    ],
+    "id": 13,
+    "round": 13,
+    "question_no": 13
+  },
+  {
+    "question": "대화에서 B가 있는 곳은? A: Where are you? B: I’m in the bathroom.",
+    "choices": {
+      "1": "거실",
+      "2": "부엌",
+      "3": "욕실",
+      "4": "침실"
+    },
+    "answers": [
+      3
+    ],
+    "id": 14,
+    "round": 14,
+    "question_no": 14
+  },
+  {
+    "question": "대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: Where are my glasses? B: They’re ________ the table.",
+    "choices": {
+      "1": "on",
+      "2": "under",
+      "3": "behind",
+      "4": "between"
+    },
+    "answers": [
+      1
+    ],
+    "id": 15,
+    "round": 15,
+    "question_no": 15
+  },
+  {
+    "question": "대화에서 B가 할 수 있는 것은? A: Can you ski? B: No, I can’t. I can skate.",
+    "choices": {
+      "1": "춤추기",
+      "2": "스키 타기",
+      "3": "스케이트 타기",
+      "4": "기타 연주하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 16,
+    "round": 16,
+    "question_no": 16
+  },
+  {
+    "question": "대화에서 B의 증상은? A: What’s wrong? B: I have a fever. A: You’d better see a doctor.",
+    "choices": {
+      "1": "열이 난다.",
+      "2": "기침이 난다.",
+      "3": "다리가 아프다.",
+      "4": "허리가 아프다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 17,
+    "round": 17,
+    "question_no": 17
+  },
+  {
+    "question": "대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: What did you do yesterday? B: I __________ math.",
+    "choices": {
+      "1": "study",
+      "2": "studied",
+      "3": "studying",
+      "4": "will study"
+    },
+    "answers": [
+      2
+    ],
+    "id": 18,
+    "round": 18,
+    "question_no": 18
+  },
+  {
+    "question": "나를 소개하는 내용과 일치하지 않는 것은? My name is Sejin. I want to be a writer. I like reading books. My favorite subject is science.",
+    "choices": {
+      "1": "이름은 세진(Sejin)이다.",
+      "2": "장래 희망이 작가이다.",
+      "3": "책 읽는 것을 좋아한다.",
+      "4": "가장 좋아하는 과목은 체육이다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 19,
+    "round": 19,
+    "question_no": 19
+  },
+  {
+    "question": "일과표에 따른 B의 대답으로 가장 적절한 것은? A: What time do you go to school? B: ____________________.",
+    "choices": {
+      "1": "I go to school at seven",
+      "2": "I go to school at seven thirty",
+      "3": "I go to school at eight",
+      "4": "I go to school at eight thirty"
+    },
+    "answers": [
+      4
+    ],
+    "id": 20,
+    "round": 20,
+    "question_no": 20
+  },
+  {
+    "question": "소녀의 모습과 일치하는 것은?",
+    "choices": {
+      "1": "She has a book.",
+      "2": "She has curly hair.",
+      "3": "She is wearing a hat.",
+      "4": "She is wearing pants."
+    },
+    "answers": [
+      2
+    ],
+    "id": 21,
+    "round": 21,
+    "question_no": 21
+  },
+  {
+    "question": "대화에서 B가 이번 토요일에 하려고 하는 것은? A: What are you going to do this Saturday? B: I’m going to play basketball.",
+    "choices": {
+      "1": "농구 하기",
+      "2": "영화 보기",
+      "3": "박물관 가기",
+      "4": "시험공부 하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 22,
+    "round": 22,
+    "question_no": 22
+  },
+  {
+    "question": "대화에서 지호(Jiho)가 찾는 병원의 위치는? Jiho : Where is the hospital? Bona: Go straight and turn left. It’s next to the post office. Jiho : Thank you.",
+    "choices": {
+      "1": "A",
+      "2": "B",
+      "3": "C",
+      "4": "D"
+    },
+    "answers": [
+      1
+    ],
+    "id": 23,
+    "round": 23,
+    "question_no": 23
+  },
+  {
+    "question": "대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: _______ was your vacation? B: It was good. I went camping.",
+    "choices": {
+      "1": "Do",
+      "2": "How",
+      "3": "Who",
+      "4": "Whose"
+    },
+    "answers": [
+      2
+    ],
+    "id": 24,
+    "round": 24,
+    "question_no": 24
+  },
+  {
+    "question": "대화에서 B가 겨울을 좋아하는 이유로 가장 적절한 것은? A: What season do you like? B: I like winter because I can make a snowman.",
+    "choices": {
+      "1": "겨울방학이 있어서",
+      "2": "스키를 탈 수 있어서",
+      "3": "썰매를 탈 수 있어서",
+      "4": "눈사람을 만들 수 있어서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 25,
+    "round": 25,
+    "question_no": 25
+  },
+  {
+    "question": "대화의 빈칸에 들어갈 A의 말로 가장 적절한 것은? A: Hello, this is Mina. _______________________? B: This is Sora speaking. A: Let’s go to the beach at 2 o’clock. B: Okay. See you then.",
+    "choices": {
+      "1": "How much is it",
+      "2": "Do you like apples",
+      "3": "May I speak to Sora",
+      "4": "Can I take your order"
+    },
+    "answers": [
+      3
+    ],
+    "id": 26,
+    "round": 26,
+    "question_no": 26
+  },
+  {
+    "question": "대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: Is this Minsu’s book? B: No, it isn’t. It’s _______.",
+    "choices": {
+      "1": "I",
+      "2": "he",
+      "3": "him",
+      "4": "mine"
+    },
+    "answers": [
+      4
+    ],
+    "id": 27,
+    "round": 27,
+    "question_no": 27
+  },
+  {
+    "question": "대화에서 B의 대답으로 적절하지 않은 것은? A: I lost my ruler. May I borrow your ruler? B: ______________.",
+    "choices": {
+      "1": "Sure",
+      "2": "Of course",
+      "3": "No, it isn’t",
+      "4": "Yes, you may"
+    },
+    "answers": [
+      3
+    ],
+    "id": 28,
+    "round": 28,
+    "question_no": 28
+  },
+  {
+    "question": "와 △에 들어갈 알파벳으로 알맞은 것은? c ndy b g △and △at △",
+    "choices": {
+      "1": "a h",
+      "2": "e r",
+      "3": "o b",
+      "4": "u t"
+    },
+    "answers": [
+      1
+    ],
+    "id": 29,
+    "round": 29,
+    "question_no": 29
+  },
+  {
+    "question": "대화에서 B의 대답으로 알맞지 않은 것은? A: How is the weather? B: _____________.",
+    "choices": {
+      "1": "It is short",
+      "2": "It is windy",
+      "3": "It is cloudy",
+      "4": "It is snowing"
+    },
+    "answers": [
+      1
+    ],
+    "id": 30,
+    "round": 30,
+    "question_no": 30
+  },
+  {
+    "question": "B가 하게 될 행동으로 가장 알맞은 것은? A: Stand up, please. B: Okay.",
+    "choices": {
+      "1": "문을 연다.",
+      "2": "책을 덮는다.",
+      "3": "자리에 앉는다.",
+      "4": "자리에서 일어선다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 31,
+    "round": 31,
+    "question_no": 31
+  },
+  {
+    "question": "빈칸에 들어갈 말로 알맞은 것은? A: Where is my cap? B: It’s ______ the desk.",
+    "choices": {
+      "1": "in",
+      "2": "on",
+      "3": "under",
+      "4": "behind"
+    },
+    "answers": [
+      3
+    ],
+    "id": 32,
+    "round": 32,
+    "question_no": 32
+  },
+  {
+    "question": "대화의 내용과 일치하지 않는 것은? A: Can you ski? B: Yes, I can. How about you? A: I can’t ski. But I can skate. B: Really? I can skate, too.",
+    "choices": {
+      "1": "A는 스키를 탈 수 있다.",
+      "2": "B는 스키를 탈 수 있다.",
+      "3": "A는 스케이트를 탈 수 있다.",
+      "4": "B는 스케이트를 탈 수 있다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 33,
+    "round": 33,
+    "question_no": 33
+  },
+  {
+    "question": "빈칸에 들어갈 말로 알맞은 것은? A: ______ ball is this? B: It’s not mine. It’s Sora’s.",
+    "choices": {
+      "1": "How",
+      "2": "Who",
+      "3": "Why",
+      "4": "Whose"
+    },
+    "answers": [
+      4
+    ],
+    "id": 34,
+    "round": 34,
+    "question_no": 34
+  },
+  {
+    "question": "다음 자기소개에서 알 수 있는 것은?",
+    "choices": {
+      "1": "나이",
+      "2": "이름",
+      "3": "주소",
+      "4": "학년"
+    },
+    "answers": [
+      2
+    ],
+    "id": 35,
+    "round": 35,
+    "question_no": 35
+  },
+  {
+    "question": "순서대로 배열할 때 (a)와 (b)에 들어갈 말로 알맞은 것은? March→( a )→( b )→June (a) (b)",
+    "choices": {
+      "1": "May July",
+      "2": "July August",
+      "3": "April May",
+      "4": "January February"
+    },
+    "answers": [
+      3
+    ],
+    "id": 36,
+    "round": 36,
+    "question_no": 36
+  },
+  {
+    "question": "빈칸에 들어갈 말로 알맞은 것은? A: What’s your favorite color? B: My favorite color is _______.",
+    "choices": {
+      "1": "math",
+      "2": "green",
+      "3": "winter",
+      "4": "chicken"
+    },
+    "answers": [
+      2
+    ],
+    "id": 37,
+    "round": 37,
+    "question_no": 37
+  },
+  {
+    "question": "표의 내용과 일치하는 것은? 구분 나이 키 나 12세 155cm 오빠 14세 163cm",
+    "choices": {
+      "1": "I am older than my brother.",
+      "2": "I am faster than my brother.",
+      "3": "My brother is taller than me.",
+      "4": "My brother is shorter than me."
+    },
+    "answers": [
+      3
+    ],
+    "id": 38,
+    "round": 38,
+    "question_no": 38
+  },
+  {
+    "question": "글을 읽고 알 수 없는 것은? The science room is on the second floor. My classroom is on the third floor. The music room is on the fourth floor.",
+    "choices": {
+      "1": "컴퓨터실은 1층에 있다.",
+      "2": "과학실은 2층에 있다.",
+      "3": "내 교실은 3층에 있다.",
+      "4": "음악실은 4층에 있다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 39,
+    "round": 39,
+    "question_no": 39
+  },
+  {
+    "question": "빈칸에 들어갈 말로 가장 알맞은 것은? 미나(Mina): Hello, this is Mina. May I speak to Jinu? 진우(Jinu) : _____________.",
+    "choices": {
+      "1": "Speaking",
+      "2": "Over there",
+      "3": "No, thanks",
+      "4": "Here they are"
+    },
+    "answers": [
+      1
+    ],
+    "id": 40,
+    "round": 40,
+    "question_no": 40
+  },
+  {
+    "question": "B가 슬퍼하는 이유로 알맞은 것은? A: Why are you sad? B: Because I lost my doll.",
+    "choices": {
+      "1": "동생이 아파서",
+      "2": "강아지가 아파서",
+      "3": "책을 잃어버려서",
+      "4": "인형을 잃어버려서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 41,
+    "round": 41,
+    "question_no": 41
+  },
+  {
+    "question": "대화의 내용으로 보아 A와 B가 함께 하려는 것은? A: What are you going to do at the school festival? B: I have no idea. A: I’m going to dance. Can you join me? B: Okay.",
+    "choices": {
+      "1": "마술쇼",
+      "2": "태권도",
+      "3": "춤추기",
+      "4": "노래 부르기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 42,
+    "round": 42,
+    "question_no": 42
+  },
+  {
+    "question": "알파벳 대문자와 소문자가 바르게 연결된 것은?",
+    "choices": {
+      "1": "A—w",
+      "2": "D—b",
+      "3": "J—f",
+      "4": "R—r"
+    },
+    "answers": [
+      4
+    ],
+    "id": 43,
+    "round": 43,
+    "question_no": 43
+  },
+  {
+    "question": "빈칸에 공통으로 들어갈 철자로 알맞은 것은? boo_ ca_e _ey",
+    "choices": {
+      "1": "b",
+      "2": "c",
+      "3": "k",
+      "4": "s"
+    },
+    "answers": [
+      3
+    ],
+    "id": 44,
+    "round": 44,
+    "question_no": 44
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 가장 적절한 것은? A: Is this your umbrella? B: Yes, it’s .",
+    "choices": {
+      "1": "my",
+      "2": "mine",
+      "3": "you",
+      "4": "your"
+    },
+    "answers": [
+      2
+    ],
+    "id": 45,
+    "round": 45,
+    "question_no": 45
+  },
+  {
+    "question": "A의 물음에 대한 거절의 표현으로 알맞은 것은? A: Can you come to my party? B:",
+    "choices": {
+      "1": "Sure.",
+      "2": "Of course!",
+      "3": "Sorry, I can’t.",
+      "4": "Yes, I will be there."
+    },
+    "answers": [
+      3
+    ],
+    "id": 46,
+    "round": 46,
+    "question_no": 46
+  },
+  {
+    "question": "제이크(Jake)가 진호(Jinho)에게 전화를 한 이유는? Jake : Hello, may I speak to Jinho? Jinho: Speaking. Jake : Let’s go shopping tomorrow.",
+    "choices": {
+      "1": "오늘 함께 수영하러 가기 위해",
+      "2": "오늘 함께 영화 보러 가기 위해",
+      "3": "내일 함께 낚시하러 가기 위해",
+      "4": "내일 함께 쇼핑하러 가기 위해"
+    },
+    "answers": [
+      4
+    ],
+    "id": 47,
+    "round": 47,
+    "question_no": 47
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 알맞은 것은? A: What is she doing? B: She is playing the .",
+    "choices": {
+      "1": "drum",
+      "2": "piano",
+      "3": "guitar",
+      "4": "violin"
+    },
+    "answers": [
+      2
+    ],
+    "id": 48,
+    "round": 48,
+    "question_no": 48
+  },
+  {
+    "question": "B의 증상에 대해 A가 제안한 내용은? A: What’s wrong? B: I have a cold. A: Get some rest.",
+    "choices": {
+      "1": "약 먹기",
+      "2": "운동하기",
+      "3": "휴식 취하기",
+      "4": "따뜻한 물 마시기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 49,
+    "round": 49,
+    "question_no": 49
+  },
+  {
+    "question": "치마의 가격으로 알맞은 것은? A: How much is this T-shirt? B: It’s fifteen dollars. A: How much is that skirt? B: It’s fifty dollars.",
+    "choices": {
+      "1": "$5",
+      "2": "$15",
+      "3": "$50",
+      "4": "$150"
+    },
+    "answers": [
+      3
+    ],
+    "id": 50,
+    "round": 50,
+    "question_no": 50
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 가장 적절한 것은? A: do you want to be? B: I want to be a doctor.",
+    "choices": {
+      "1": "How",
+      "2": "What",
+      "3": "When",
+      "4": "Where"
+    },
+    "answers": [
+      2
+    ],
+    "id": 51,
+    "round": 51,
+    "question_no": 51
+  },
+  {
+    "question": "요일 순서대로 배열할 때 안에 들어갈 낱말로 알맞은 것은? Sunday－Monday－ －Wednesday",
+    "choices": {
+      "1": "Tuesday",
+      "2": "Thursday",
+      "3": "Friday",
+      "4": "Saturday"
+    },
+    "answers": [
+      1
+    ],
+    "id": 52,
+    "round": 52,
+    "question_no": 52
+  },
+  {
+    "question": "다음 수업 시간표에 들어 있지 않은 과목은?",
+    "choices": {
+      "1": "Math",
+      "2": "Music",
+      "3": "English",
+      "4": "Science"
+    },
+    "answers": [
+      4
+    ],
+    "id": 53,
+    "round": 53,
+    "question_no": 53
+  },
+  {
+    "question": "B가 지금 있는 곳은? A: Where are you now? B: I am in the kitchen.",
+    "choices": {
+      "1": "거실",
+      "2": "부엌",
+      "3": "침실",
+      "4": "화장실"
+    },
+    "answers": [
+      2
+    ],
+    "id": 54,
+    "round": 54,
+    "question_no": 54
+  },
+  {
+    "question": "A가 B에게 제안한 것은? A: We should save the Earth. How about recycling cans? B: Good idea!",
+    "choices": {
+      "1": "불 끄기",
+      "2": "캔 재활용하기",
+      "3": "수도꼭지 잠그기",
+      "4": "음식 남기지 않기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 55,
+    "round": 55,
+    "question_no": 55
+  },
+  {
+    "question": "일기의 내용으로 보아 ‘나(I)’가 하지 않은 일은? My Birthday Saturday, May 4, Sunny Today was my birthday. I went to the park with my family. I ate gimbap and played games. I was very happy.",
+    "choices": {
+      "1": "게임하기",
+      "2": "공원 가기",
+      "3": "김밥 먹기",
+      "4": "선물 사기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 56,
+    "round": 56,
+    "question_no": 56
+  },
+  {
+    "question": "알파벳 대문자와 소문자가 바르게 연결된 것은?",
+    "choices": {
+      "1": "K—t",
+      "2": "L—i",
+      "3": "M—n",
+      "4": "Q—q"
+    },
+    "answers": [
+      4
+    ],
+    "id": 57,
+    "round": 57,
+    "question_no": 57
+  },
+  {
+    "question": "빈칸에 공통으로 들어갈 철자로 알맞은 것은? sunn_ Monda_ _ear",
+    "choices": {
+      "1": "d",
+      "2": "i",
+      "3": "w",
+      "4": "y"
+    },
+    "answers": [
+      4
+    ],
+    "id": 58,
+    "round": 58,
+    "question_no": 58
+  },
+  {
+    "question": "대화에서 지수(Jisu)의 컵 색깔은? Bora: What color is your cup? Jisu : It’s black.",
+    "choices": {
+      "1": "검정",
+      "2": "노랑",
+      "3": "빨강",
+      "4": "파랑"
+    },
+    "answers": [
+      1
+    ],
+    "id": 59,
+    "round": 59,
+    "question_no": 59
+  },
+  {
+    "question": "표지판이 지시하는 내용을 바르게 표현한 것은?",
+    "choices": {
+      "1": "Don’t eat.",
+      "2": "Don’t run.",
+      "3": "Don’t push.",
+      "4": "Don’t touch."
+    },
+    "answers": [
+      1
+    ],
+    "id": 60,
+    "round": 60,
+    "question_no": 60
+  },
+  {
+    "question": "대화에서 B가 가장 좋아하는 과목은? A: What is your favorite subject? B: My favorite subject is math.",
+    "choices": {
+      "1": "과학",
+      "2": "미술",
+      "3": "수학",
+      "4": "체육"
+    },
+    "answers": [
+      3
+    ],
+    "id": 61,
+    "round": 61,
+    "question_no": 61
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 가장 적절한 것은? A: are you sad? B: Because I can’t find my bike.",
+    "choices": {
+      "1": "Who",
+      "2": "Why",
+      "3": "Where",
+      "4": "Whose"
+    },
+    "answers": [
+      2
+    ],
+    "id": 62,
+    "round": 62,
+    "question_no": 62
+  },
+  {
+    "question": "대화에서 B가 주말에 한 일로 가장 적절한 것은? A: How was your weekend? B: It was good. A: What did you do? B: I read a book.",
+    "choices": {
+      "1": "책을 읽었다.",
+      "2": "수영장에 갔다.",
+      "3": "음식 축제에 갔다.",
+      "4": "할머니 댁에 방문했다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 63,
+    "round": 63,
+    "question_no": 63
+  },
+  {
+    "question": "대화에서 B의 아빠의 직업은? A: Who is he? B: He is my dad. He is a doctor.",
+    "choices": {
+      "1": "가수",
+      "2": "경찰",
+      "3": "의사",
+      "4": "비행기 조종사"
+    },
+    "answers": [
+      3
+    ],
+    "id": 64,
+    "round": 64,
+    "question_no": 64
+  },
+  {
+    "question": "빈칸에 들어갈 철자로 알맞은 것은? First Second Third Fourth Fif__ 1st 2nd 3rd 4th 5th",
+    "choices": {
+      "1": "st",
+      "2": "nd",
+      "3": "rd",
+      "4": "th"
+    },
+    "answers": [
+      4
+    ],
+    "id": 65,
+    "round": 65,
+    "question_no": 65
+  },
+  {
+    "question": "대화에서 B의 증상으로 가장 적절한 것은? A: What’s wrong? B: I have a stomachache.",
+    "choices": {
+      "1": "열이 난다.",
+      "2": "배가 아프다.",
+      "3": "머리가 아프다.",
+      "4": "콧물이 흐른다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 66,
+    "round": 66,
+    "question_no": 66
+  },
+  {
+    "question": "대화에서 B의 어머니에 대해 알 수 있는 것은? A: What does your mother look like? B: She has long hair. She wears glasses.",
+    "choices": {
+      "1": "긴 머리에 모자를 쓰고 있다.",
+      "2": "긴 머리에 안경을 쓰고 있다.",
+      "3": "짧은 머리에 모자를 쓰고 있다.",
+      "4": "짧은 머리에 안경을 쓰고 있다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 67,
+    "round": 67,
+    "question_no": 67
+  },
+  {
+    "question": "빈칸에 들어갈 A의 말로 가장 적절한 것은? A: ? B: I’m from Canada.",
+    "choices": {
+      "1": "When is Earth Day",
+      "2": "Where are you from",
+      "3": "Who wrote the book",
+      "4": "What grade are you in"
+    },
+    "answers": [
+      2
+    ],
+    "id": 68,
+    "round": 68,
+    "question_no": 68
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 알맞은 것은? My birthday is on 13th.",
+    "choices": {
+      "1": "March",
+      "2": "April",
+      "3": "May",
+      "4": "June"
+    },
+    "answers": [
+      3
+    ],
+    "id": 69,
+    "round": 69,
+    "question_no": 69
+  },
+  {
+    "question": "A가 이번 주 토요일에 할 일로 가장 적절한 것은? A: What are you going to do this Saturday? B: I’m going to do taekwondo. How about you? A: I’m going to go swimming.",
+    "choices": {
+      "1": "등산하기",
+      "2": "쇼핑하기",
+      "3": "수영하기",
+      "4": "영화보기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 70,
+    "round": 70,
+    "question_no": 70
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 알맞은 것은? A: How much are these pants? B: They’re dollars.",
+    "choices": {
+      "1": "ten",
+      "2": "twenty",
+      "3": "thirty",
+      "4": "forty"
+    },
+    "answers": [
+      2
+    ],
+    "id": 71,
+    "round": 71,
+    "question_no": 71
+  },
+  {
+    "question": "다음에서 미나(Mina)가 권하는 것은? Mina: We should recycle bottles.",
+    "choices": {
+      "1": "나무 심기",
+      "2": "물 절약하기",
+      "3": "계단 이용하기",
+      "4": "병 재활용하기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 72,
+    "round": 72,
+    "question_no": 72
+  },
+  {
+    "question": "다음 글을 쓴 이유로 가장 적절한 것은? Hello Tony, The sports festival is on August 17th. You can play soccer and baseball. You can meet a famous soccer player, too. Please come to the sports park. Hajun",
+    "choices": {
+      "1": "불평하려고",
+      "2": "사과하려고",
+      "3": "초대하려고",
+      "4": "칭찬하려고"
+    },
+    "answers": [
+      3
+    ],
+    "id": 73,
+    "round": 73,
+    "question_no": 73
+  },
+  {
+    "question": "빈칸에 공통으로 들어갈 철자로 알맞은 것은? _ne b_x d_g",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "o",
+      "4": "u"
+    },
+    "answers": [
+      3
+    ],
+    "id": 74,
+    "round": 74,
+    "question_no": 74
+  },
+  {
+    "question": "다음 글의 내용에서 알 수 없는 것은? My name is Tom. I’m from Canada. I like math.",
+    "choices": {
+      "1": "나이",
+      "2": "이름",
+      "3": "출신 국가",
+      "4": "좋아하는 과목"
+    },
+    "answers": [
+      1
+    ],
+    "id": 75,
+    "round": 75,
+    "question_no": 75
+  },
+  {
+    "question": "빈칸에 들어갈 A의 말로 가장 적절한 것은? A: ? B: It’s raining.",
+    "choices": {
+      "1": "Who are you",
+      "2": "What time is it",
+      "3": "What color is it",
+      "4": "How’s the weather"
+    },
+    "answers": [
+      4
+    ],
+    "id": 76,
+    "round": 76,
+    "question_no": 76
+  },
+  {
+    "question": "대화에서 알 수 있는 것은? A: Whose eraser is this? B: It’s mine.",
+    "choices": {
+      "1": "필통은 A의 것이다.",
+      "2": "필통은 B의 것이다.",
+      "3": "지우개는 A의 것이다.",
+      "4": "지우개는 B의 것이다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 77,
+    "round": 77,
+    "question_no": 77
+  },
+  {
+    "question": "대화에서 B가 지구를 위해 할 수 있다고 말하는 것은? A: What can we do for the earth? B: We can plant trees.",
+    "choices": {
+      "1": "나무 심기",
+      "2": "물 아껴 쓰기",
+      "3": "계단 이용하기",
+      "4": "종이 재활용하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 78,
+    "round": 78,
+    "question_no": 78
+  },
+  {
+    "question": "빈칸에 들어갈 낱말로 알맞지 않은 것은? A: What is your favorite season? B: My favorite season is .",
+    "choices": {
+      "1": "spring",
+      "2": "summer",
+      "3": "morning",
+      "4": "winter"
+    },
+    "answers": [
+      3
+    ],
+    "id": 79,
+    "round": 79,
+    "question_no": 79
+  },
+  {
+    "question": "대화에서 A가 제안한 것은? A: Let’s play baseball. B: Okay.",
+    "choices": {
+      "1": "농구하기",
+      "2": "수영하기",
+      "3": "야구하기",
+      "4": "배드민턴하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 80,
+    "round": 80,
+    "question_no": 80
+  },
+  {
+    "question": "대화에서 A가 말하고 있는 증상은? A: I have a headache. B: Get some rest and see a doctor.",
+    "choices": {
+      "1": "배가 아프다.",
+      "2": "다리가 아프다.",
+      "3": "머리가 아프다.",
+      "4": "콧물이 흐른다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 81,
+    "round": 81,
+    "question_no": 81
+  },
+  {
+    "question": "대화에서 알 수 있는 B의 행동은? A: How often do you wash your hands? B: Three times a day.",
+    "choices": {
+      "1": "하루 세 번 손을 씻는다.",
+      "2": "하루 한 번 운동을 한다.",
+      "3": "하루 세 번 양치질을 한다.",
+      "4": "하루 한 번 방을 청소한다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 82,
+    "round": 82,
+    "question_no": 82
+  },
+  {
+    "question": "대화에서 B가 행복해하는 이유는? A: Why are you happy? B: Because I got a new watch.",
+    "choices": {
+      "1": "칭찬을 들어서",
+      "2": "새 책이 생겨서",
+      "3": "시험을 잘 봐서",
+      "4": "새 시계가 생겨서"
+    },
+    "answers": [
+      4
+    ],
+    "id": 83,
+    "round": 83,
+    "question_no": 83
+  },
+  {
+    "question": "□안에 공통으로 들어갈 철자로 알맞은 것은? appl□ p□ncil rul□r",
+    "choices": {
+      "1": "c",
+      "2": "d",
+      "3": "e",
+      "4": "i"
+    },
+    "answers": [
+      3
+    ],
+    "id": 84,
+    "round": 84,
+    "question_no": 84
+  },
+  {
+    "question": "대화에서 알 수 있는 것은? A: Where is my doll? B: It’s under the table.",
+    "choices": {
+      "1": "인형은 상자 안에 있다.",
+      "2": "인형은 탁자 아래에 있다.",
+      "3": "지우개는 상자 안에 있다.",
+      "4": "지우개는 탁자 아래에 있다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 85,
+    "round": 85,
+    "question_no": 85
+  },
+  {
+    "question": "A의 질문으로 가장 적절한 것은? A: ? B: It’s Friday.",
+    "choices": {
+      "1": "How are you",
+      "2": "Is this your bag",
+      "3": "How is the weather",
+      "4": "What day is it today"
+    },
+    "answers": [
+      4
+    ],
+    "id": 86,
+    "round": 86,
+    "question_no": 86
+  },
+  {
+    "question": "B의 대답으로 가장 적절한 것은? A: What are you going to do tomorrow? B: .",
+    "choices": {
+      "1": "I’m sad",
+      "2": "It’s windy",
+      "3": "Today is Wednesday",
+      "4": "I’m going to visit my uncle"
+    },
+    "answers": [
+      4
+    ],
+    "id": 87,
+    "round": 87,
+    "question_no": 87
+  },
+  {
+    "question": "대화에서 두 사람이 이번 주말에 함께 하기로 한 일은? A: Let’s go fishing this weekend. B: Okay. Sounds great!",
+    "choices": {
+      "1": "낚시하기",
+      "2": "쇼핑하기",
+      "3": "수영하기",
+      "4": "캠핑하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 88,
+    "round": 88,
+    "question_no": 88
+  },
+  {
+    "question": "대화에서 알 수 있는 Jane의 증상은?",
+    "choices": {
+      "1": "귀가 아프다.",
+      "2": "배가 아프다.",
+      "3": "이가 아프다.",
+      "4": "머리가 아프다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 89,
+    "round": 89,
+    "question_no": 89
+  },
+  {
+    "question": "대화에서 B가 하고 싶은 일은? A: What do you want to do? B: I want to ride a bike.",
+    "choices": {
+      "1": "요리하기",
+      "2": "연 날리기",
+      "3": "자전거 타기",
+      "4": "할머니 댁 가기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 90,
+    "round": 90,
+    "question_no": 90
+  },
+  {
+    "question": "대화에서 A가 요청한 일은? A: Can I borrow your scissors? B: Of course. Here you are.",
+    "choices": {
+      "1": "게임 하기",
+      "2": "가위 빌리기",
+      "3": "자리에 앉기",
+      "4": "텔레비전 보기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 91,
+    "round": 91,
+    "question_no": 91
+  },
+  {
+    "question": "대화에서 청바지의 가격으로 알맞은 것은? A: How much are these jeans? B: They are twelve thousand won.",
+    "choices": {
+      "1": "1,200원",
+      "2": "2,000원",
+      "3": "12,000원",
+      "4": "20,000원"
+    },
+    "answers": [
+      3
+    ],
+    "id": 92,
+    "round": 92,
+    "question_no": 92
+  },
+  {
+    "question": "대화에서 알 수 있는 것은? A: Where are you from? B: I’m from Canada.",
+    "choices": {
+      "1": "A는 나이를 묻고 있다.",
+      "2": "A는 날씨를 묻고 있다.",
+      "3": "B는 한국에서 왔다.",
+      "4": "B는 캐나다에서 왔다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 93,
+    "round": 93,
+    "question_no": 93
+  },
+  {
+    "question": "대화에서 B가 한 일이 아닌 것은? A: What did you do? B: I went to a swimming pool. I saw a movie and read books.",
+    "choices": {
+      "1": "책 읽기",
+      "2": "산책하기",
+      "3": "영화 보기",
+      "4": "수영장 가기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 94,
+    "round": 94,
+    "question_no": 94
+  },
+  {
+    "question": "A의 질문으로 가장 적절한 것은? A: ? B: My favorite sport is baseball.",
+    "choices": {
+      "1": "How old are you",
+      "2": "What is your name",
+      "3": "How was your weekend",
+      "4": "What is your favorite sport"
+    },
+    "answers": [
+      4
+    ],
+    "id": 95,
+    "round": 95,
+    "question_no": 95
+  },
+  {
+    "question": "다음 글과 일치하지 않는 것은? I get up at 7:00. I have lunch at 12:40. I go to the library at 4:00. I go to bed at 9:30.",
+    "choices": {
+      "1": "나는 7시에 일어난다.",
+      "2": "나는 12시 40분에 점심을 먹는다.",
+      "3": "나는 4시에 공원에 간다.",
+      "4": "나는 9시 30분에 잠자리에 든다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 96,
+    "round": 96,
+    "question_no": 96
+  },
+  {
+    "question": "빈칸에 공통으로 들어갈 철자로 알맞은 것은? b nana c r er ser",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "o",
+      "4": "u"
+    },
+    "answers": [
+      1
+    ],
+    "id": 97,
+    "round": 97,
+    "question_no": 97
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: Let’s play badminton. B: .",
+    "choices": {
+      "1": "It’s a fish",
+      "2": "Sounds good",
+      "3": "Yes, I can sing",
+      "4": "I’d like a steak"
+    },
+    "answers": [
+      2
+    ],
+    "id": 98,
+    "round": 98,
+    "question_no": 98
+  },
+  {
+    "question": "다음 대화에서 B가 내일 하려고 하는 것은? A: What are you going to do tomorrow? B: I’m going to stay home.",
+    "choices": {
+      "1": "수영하기",
+      "2": "집에 머무르기",
+      "3": "할머니 댁 방문하기",
+      "4": "도서관에서 책 빌리기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 99,
+    "round": 99,
+    "question_no": 99
+  },
+  {
+    "question": "표로 보아 빈칸에 들어갈 말로 알맞은 것은? 이름 키 나이 100m 달리기 기록 Kate 161cm 13살 19초 Lucy 155cm 13살 24초 Kate is than Lucy.",
+    "choices": {
+      "1": "faster",
+      "2": "older",
+      "3": "shorter",
+      "4": "smaller"
+    },
+    "answers": [
+      1
+    ],
+    "id": 100,
+    "round": 100,
+    "question_no": 100
+  },
+  {
+    "question": "다음 글에서 알 수 없는 것은? Hi, I’m Jane. I’m from Korea. I’m twelve years old. I want to be a police officer.",
+    "choices": {
+      "1": "취미",
+      "2": "출신 국가",
+      "3": "나이",
+      "4": "장래 희망"
+    },
+    "answers": [
+      1
+    ],
+    "id": 101,
+    "round": 101,
+    "question_no": 101
+  },
+  {
+    "question": "다음 대화에서 빈칸에 들어갈 말로 알맞은 것은? A: Whose book is this? Is it ? B: Yes, it’s mine.",
+    "choices": {
+      "1": "I",
+      "2": "her",
+      "3": "him",
+      "4": "yours"
+    },
+    "answers": [
+      4
+    ],
+    "id": 102,
+    "round": 102,
+    "question_no": 102
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 적절하지 않은 것은? A: How was your weekend? B: It was good. A: What did you do? B: .",
+    "choices": {
+      "1": "I went camping",
+      "2": "I was ten years old",
+      "3": "I swam at the beach",
+      "4": "I visited my grandparents"
+    },
+    "answers": [
+      2
+    ],
+    "id": 103,
+    "round": 103,
+    "question_no": 103
+  },
+  {
+    "question": "다음 대화에서 빈칸에 들어갈 말로 알맞은 것은? A: How is the pencil? B: It’s eight hundred won.",
+    "choices": {
+      "1": "many",
+      "2": "much",
+      "3": "money",
+      "4": "monkey"
+    },
+    "answers": [
+      2
+    ],
+    "id": 104,
+    "round": 104,
+    "question_no": 104
+  },
+  {
+    "question": "다음 대화에서 B가 할 행동으로 가장 적절한 것은? A: What are you doing? B: I’m brushing my teeth. A: How about using a cup? B: Okay.",
+    "choices": {
+      "1": "불 끄기",
+      "2": "재활용하기",
+      "3": "컵 사용하기",
+      "4": "계단 이용하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 105,
+    "round": 105,
+    "question_no": 105
+  },
+  {
+    "question": "다음 대화에서 A의 증상에 B가 제안한 내용은? A: I have a stomachache. B: Drink warm water.",
+    "choices": {
+      "1": "일찍 잠자기",
+      "2": "외출 자제하기",
+      "3": "가벼운 운동하기",
+      "4": "따뜻한 물 마시기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 106,
+    "round": 106,
+    "question_no": 106
+  },
+  {
+    "question": "다음 글에서 내 방에 있는 물건은? This is my room. There is a TV on the wall. There is a computer on the desk. There is a chair, too.",
+    "choices": {
+      "1": "꽃병",
+      "2": "시계",
+      "3": "의자",
+      "4": "침대"
+    },
+    "answers": [
+      3
+    ],
+    "id": 107,
+    "round": 107,
+    "question_no": 107
+  },
+  {
+    "question": "다음 글에서 빈칸에 들어갈 말로 가장 적절한 것은?",
+    "choices": {
+      "1": "Who are you",
+      "2": "What do you want to be",
+      "3": "How often do you clean the room",
+      "4": "Can you come to my birthday party"
+    },
+    "answers": [
+      4
+    ],
+    "id": 108,
+    "round": 108,
+    "question_no": 108
+  },
+  {
+    "question": "다음 대화에서 알 수 있는 것은? A: What’s your favorite fruit? B: My favorite fruit is a melon.",
+    "choices": {
+      "1": "A가 가장 좋아하는 과일",
+      "2": "B가 가장 좋아하는 과일",
+      "3": "A가 가장 좋아하는 계절",
+      "4": "B가 가장 좋아하는 계절"
+    },
+    "answers": [
+      2
+    ],
+    "id": 109,
+    "round": 109,
+    "question_no": 109
+  },
+  {
+    "question": "다음 대화에서 빈칸에 들어갈 B의 대답으로 가장 적절한 것은? A: What time do you have dinner? B: .",
+    "choices": {
+      "1": "I get up at 8",
+      "2": "I go to bed at 9",
+      "3": "I have dinner at 6",
+      "4": "I play soccer at 10"
+    },
+    "answers": [
+      3
+    ],
+    "id": 110,
+    "round": 110,
+    "question_no": 110
+  },
+  {
+    "question": "다음 대화에서 빈칸에 들어갈 A의 질문으로 가장 적절한 것은? A: ? B: I’m in the third grade.",
+    "choices": {
+      "1": "What day is it",
+      "2": "How’s the weather",
+      "3": "What grade are you in",
+      "4": "May I take your order"
+    },
+    "answers": [
+      3
+    ],
+    "id": 111,
+    "round": 111,
+    "question_no": 111
+  },
+  {
+    "question": "다음 대화에서 B의 여동생에 대한 설명으로 알맞은 것은? A: What does your sister look like? B: She has brown eyes and long straight hair.",
+    "choices": {
+      "1": "눈이 갈색이고 긴 생머리이다.",
+      "2": "눈이 갈색이고 짧은 곱슬머리이다.",
+      "3": "눈이 파란색이고 긴 생머리이다.",
+      "4": "눈이 파란색이고 짧은 곱슬머리이다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 112,
+    "round": 112,
+    "question_no": 112
+  },
+  {
+    "question": "안에 공통으로 들어갈 철자로 알맞은 것은? occer ba eball ba ketball",
+    "choices": {
+      "1": "c",
+      "2": "s",
+      "3": "t",
+      "4": "v"
+    },
+    "answers": [
+      2
+    ],
+    "id": 113,
+    "round": 113,
+    "question_no": 113
+  },
+  {
+    "question": "다음 대화에서 알 수 있는 것은? A: Where is my cap? B: It’s on the bed. A: Oh, I see.",
+    "choices": {
+      "1": "A는 가방을 찾고 있다.",
+      "2": "A는 모자를 찾고 있다.",
+      "3": "가방은 침대 위에 있다.",
+      "4": "모자는 침대 아래에 있다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 114,
+    "round": 114,
+    "question_no": 114
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: What did you do last winter? B: .",
+    "choices": {
+      "1": "It’s cloudy",
+      "2": "This is my dad",
+      "3": "I visited my uncle",
+      "4": "I want to go swimming"
+    },
+    "answers": [
+      3
+    ],
+    "id": 115,
+    "round": 115,
+    "question_no": 115
+  },
+  {
+    "question": "일과표의 내용과 일치하는 것은? <일과표> 시각 하는 일 7시 일어나기 8시 30분 학교에 가기 4시 30분 집에 돌아오기 10시 잠자리에 들기",
+    "choices": {
+      "1": "I get up at seven.",
+      "2": "I go to school at nine thirty.",
+      "3": "I come home at four.",
+      "4": "I go to bed at nine."
+    },
+    "answers": [
+      1
+    ],
+    "id": 116,
+    "round": 116,
+    "question_no": 116
+  },
+  {
+    "question": "다음 대화에서 알 수 있는 것은? A: I like math. What’s your favorite subject? B: My favorite subject is science.",
+    "choices": {
+      "1": "A가 좋아하는 과목은 미술이다.",
+      "2": "B가 좋아하는 과목은 과학이다.",
+      "3": "좋아하는 계절에 대해 이야기하고 있다.",
+      "4": "좋아하는 음식에 대해 이야기하고 있다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 117,
+    "round": 117,
+    "question_no": 117
+  },
+  {
+    "question": "다음 대화에서 A가 B에게 허락받은 것은? A: Can I have some juice, please? B: Sure, you can.",
+    "choices": {
+      "1": "주스 마시기",
+      "2": "영화 보러 가기",
+      "3": "아이스크림 먹기",
+      "4": "컴퓨터 게임하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 118,
+    "round": 118,
+    "question_no": 118
+  },
+  {
+    "question": "다음 대화에서 B의 학년은? A: Hello. What grade are you in? B: I’m in the fifth grade.",
+    "choices": {
+      "1": "3학년",
+      "2": "4학년",
+      "3": "5학년",
+      "4": "6학년"
+    },
+    "answers": [
+      3
+    ],
+    "id": 119,
+    "round": 119,
+    "question_no": 119
+  },
+  {
+    "question": "다음 대화에서 A의 질문으로 가장 적절한 것은? A: ? B: I’m going to go on a trip.",
+    "choices": {
+      "1": "Is this your pen",
+      "2": "Do you like apples",
+      "3": "Whose umbrella is this",
+      "4": "What are you going to do this weekend"
+    },
+    "answers": [
+      4
+    ],
+    "id": 120,
+    "round": 120,
+    "question_no": 120
+  },
+  {
+    "question": "다음 문장에 나타난 생활 습관과 빈도가 바르게 짝지어진 것은? I exercise four times a week. 생활 습관 빈도",
+    "choices": {
+      "1": "목욕하기 주 2회",
+      "2": "목욕하기 주 4회",
+      "3": "운동하기 주 2회",
+      "4": "운동하기 주 4회"
+    },
+    "answers": [
+      4
+    ],
+    "id": 121,
+    "round": 121,
+    "question_no": 121
+  },
+  {
+    "question": "다음 대화에서 B가 있는 장소는? A: Where are you? B: I’m in the __________.",
+    "choices": {
+      "1": "kitchen",
+      "2": "bedroom",
+      "3": "bathroom",
+      "4": "living room"
+    },
+    "answers": [
+      3
+    ],
+    "id": 122,
+    "round": 122,
+    "question_no": 122
+  },
+  {
+    "question": "다음 대화에서 B가 슬퍼하는 이유로 알맞은 것은? A: Why are you sad? B: Because I can’t find my bag.",
+    "choices": {
+      "1": "숙제가 많아서",
+      "2": "가방을 찾지 못해서",
+      "3": "약속시간을 착각해서",
+      "4": "자전거를 찾지 못해서"
+    },
+    "answers": [
+      2
+    ],
+    "id": 123,
+    "round": 123,
+    "question_no": 123
+  },
+  {
+    "question": "다음 대화에서 B가 주문한 음식들로 알맞은 것은? A: What would you like to have? B: I’d like pizza and chicken.",
+    "choices": {
+      "1": "피자, 치킨",
+      "2": "피자, 샐러드",
+      "3": "치킨, 샐러드",
+      "4": "치킨, 스파게티"
+    },
+    "answers": [
+      1
+    ],
+    "id": 124,
+    "round": 124,
+    "question_no": 124
+  },
+  {
+    "question": "다음 글에서 의사의 처방이 아닌 것은? <의사의 처방> ✔Take some medicine. ✔Get some rest. ✔Go to bed early. ✔Drink a lot of warm water.",
+    "choices": {
+      "1": "약을 드세요.",
+      "2": "휴식을 취하세요.",
+      "3": "일찍 잠자리에 드세요.",
+      "4": "옷을 따뜻하게 입으세요."
+    },
+    "answers": [
+      4
+    ],
+    "id": 125,
+    "round": 125,
+    "question_no": 125
+  },
+  {
+    "question": "안에 공통으로 들어갈 철자로 알맞은 것은? 일요일 월요일 화요일 수요일 S nday Monday T esday Wednesday",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "o",
+      "4": "u"
+    },
+    "answers": [
+      4
+    ],
+    "id": 126,
+    "round": 126,
+    "question_no": 126
+  },
+  {
+    "question": "다음 대화에서 알 수 있는 것은? A: Is this your watch? B: No, it isn’t. My watch is black.",
+    "choices": {
+      "1": "A의 시계는 검정색이다.",
+      "2": "B의 시계는 검정색이다.",
+      "3": "A의 자전거는 검정색이다.",
+      "4": "B의 자전거는 검정색이다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 127,
+    "round": 127,
+    "question_no": 127
+  },
+  {
+    "question": "다음 대화에서 A의 질문으로 가장 적절한 것은? A: ? B: It’s 10. It’s time for bed.",
+    "choices": {
+      "1": "What time is it",
+      "2": "Where is my hat",
+      "3": "What’s your name",
+      "4": "How’s the weather"
+    },
+    "answers": [
+      1
+    ],
+    "id": 128,
+    "round": 128,
+    "question_no": 128
+  },
+  {
+    "question": "다음 대화에서 B가 지난 주말에 한 일은? A: What did you do last weekend? B: I visited my grandma.",
+    "choices": {
+      "1": "수영하기",
+      "2": "축구하기",
+      "3": "캠프 참가하기",
+      "4": "할머니 찾아뵙기"
+    },
+    "answers": [
+      4
+    ],
+    "id": 129,
+    "round": 129,
+    "question_no": 129
+  },
+  {
+    "question": "다음 대화에서 B가 화가 난 이유로 알맞은 것은? A: Why are you upset? B: Because my brother broke my toy.",
+    "choices": {
+      "1": "장난감이 망가져서",
+      "2": "컴퓨터 게임에 져서",
+      "3": "킥보드를 찾지 못해서",
+      "4": "축구공을 잃어버려서"
+    },
+    "answers": [
+      1
+    ],
+    "id": 130,
+    "round": 130,
+    "question_no": 130
+  },
+  {
+    "question": "일과표의 내용과 일치하는 것은? <일과표>",
+    "choices": {
+      "1": "나는 6시에 일어난다.",
+      "2": "나는 8시에 아침을 먹는다.",
+      "3": "나는 10시에 운동을 한다.",
+      "4": "나는 11시에 샤워를 한다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 131,
+    "round": 131,
+    "question_no": 131
+  },
+  {
+    "question": "다음 대화에서 빈칸에 들어갈 낱말로 알맞지 않은 것은? A: What’s your favorite animal? B: My favorite animal is a .",
+    "choices": {
+      "1": "cat",
+      "2": "flower",
+      "3": "rabbit",
+      "4": "giraffe"
+    },
+    "answers": [
+      2
+    ],
+    "id": 132,
+    "round": 132,
+    "question_no": 132
+  },
+  {
+    "question": "다음 글에서 빈칸에 들어갈 말로 가장 거리가 먼 것은? What can we do for the earth? We can .",
+    "choices": {
+      "1": "save water",
+      "2": "turn off the light",
+      "3": "take a long shower",
+      "4": "recycle cans and bottles"
+    },
+    "answers": [
+      3
+    ],
+    "id": 133,
+    "round": 133,
+    "question_no": 133
+  },
+  {
+    "question": "다음 대화에서 B가 이번 주말에 하려고 하는 것은? A: What will you do this weekend? B: I will take swimming lessons.",
+    "choices": {
+      "1": "독서",
+      "2": "여행",
+      "3": "수영 배우기",
+      "4": "놀이공원 가기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 134,
+    "round": 134,
+    "question_no": 134
+  },
+  {
+    "question": "다음 글에서 Minho의 장래 희망으로 가장 적절한 것은? I’m Minho. I like to write stories. I want to write stories for children.",
+    "choices": {
+      "1": "작가",
+      "2": "경찰관",
+      "3": "소방관",
+      "4": "요리사"
+    },
+    "answers": [
+      1
+    ],
+    "id": 135,
+    "round": 135,
+    "question_no": 135
+  },
+  {
+    "question": "초대장을 읽고 알 수 없는 것은? <초대장> Can you come to Korean food festival? The food festival is on March 21st. You can eat delicious food. Please come to Grand park at 11:00.",
+    "choices": {
+      "1": "날짜",
+      "2": "장소",
+      "3": "시간",
+      "4": "준비물"
+    },
+    "answers": [
+      4
+    ],
+    "id": 136,
+    "round": 136,
+    "question_no": 136
+  },
+  {
+    "question": "다음 대화에서 물건과 가격이 바르게 짝지어진 것은? A: How much are these shoes? B: They are twelve thousand won. A: How much is this skirt? B: It’s thirteen thousand won. 물건 가격",
+    "choices": {
+      "1": "신발 30,000원",
+      "2": "신발 20,000원",
+      "3": "치마 13,000원",
+      "4": "치마 12,000원"
+    },
+    "answers": [
+      3
+    ],
+    "id": 137,
+    "round": 137,
+    "question_no": 137
+  },
+  {
+    "question": "다음 글의 내용과 일치하는 것은? My name is Tom. I’m from Australia. I’m in the fourth grade. I’m in the soccer club. I like to play soccer.",
+    "choices": {
+      "1": "나는 영국에서 왔다.",
+      "2": "나는 5학년이다.",
+      "3": "나는 환경 동아리 회원이다.",
+      "4": "나는 축구하는 것을 좋아한다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 138,
+    "round": 138,
+    "question_no": 138
+  },
+  {
+    "question": "안에 공통으로 들어갈 철자로 알맞은 것은? ox all note ook",
+    "choices": {
+      "1": "b",
+      "2": "f",
+      "3": "g",
+      "4": "s"
+    },
+    "answers": [
+      1
+    ],
+    "id": 139,
+    "round": 139,
+    "question_no": 139
+  },
+  {
+    "question": "다음 글의 내용에서 알 수 없는 것은? My name is Uju. I am from Korea. I am twelve years old. I like bibimbap.",
+    "choices": {
+      "1": "이름",
+      "2": "나이",
+      "3": "가입한 동아리",
+      "4": "좋아하는 음식"
+    },
+    "answers": [
+      3
+    ],
+    "id": 140,
+    "round": 140,
+    "question_no": 140
+  },
+  {
+    "question": "다음 대화에서 A의 질문으로 가장 적절한 것은? A: Hello, I’m Minho. B: Hi, I’m Ann. A: ? B: A－N－N.",
+    "choices": {
+      "1": "How are you",
+      "2": "What are you doing",
+      "3": "What would you like",
+      "4": "How do you spell your name"
+    },
+    "answers": [
+      4
+    ],
+    "id": 141,
+    "round": 141,
+    "question_no": 141
+  },
+  {
+    "question": "다음 대화에서 Lucy가 이번 주말에 하려고 하는 것은? A: What will you do this weekend, Lucy? B: I will fly a kite.",
+    "choices": {
+      "1": "연날리기",
+      "2": "청소하기",
+      "3": "영화 보기",
+      "4": "음식 만들기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 142,
+    "round": 142,
+    "question_no": 142
+  },
+  {
+    "question": "다음 대화에서 Kevin의 물건으로 알맞은 것은? A: Kevin, whose watch is this? B: It’s Jina’s. A: Whose doll is this? B: It’s mine.",
+    "choices": {
+      "1": "공",
+      "2": "시계",
+      "3": "안경",
+      "4": "인형"
+    },
+    "answers": [
+      4
+    ],
+    "id": 143,
+    "round": 143,
+    "question_no": 143
+  },
+  {
+    "question": "다음 대화에서 A가 할 행동으로 가장 적절한 것은? A: I have a fever. B: How about taking some medicine? A: OK, I will.",
+    "choices": {
+      "1": "약 먹기",
+      "2": "일찍 자기",
+      "3": "충분히 쉬기",
+      "4": "물 많이 마시기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 144,
+    "round": 144,
+    "question_no": 144
+  },
+  {
+    "question": "다음 설명에 해당하는 장소로 가장 적절한 것은? There is a bath. There is a toilet.",
+    "choices": {
+      "1": "kitchen",
+      "2": "bedroom",
+      "3": "bathroom",
+      "4": "living room"
+    },
+    "answers": [
+      3
+    ],
+    "id": 145,
+    "round": 145,
+    "question_no": 145
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: Can I watch TV? B: . It’s 10 o’clock. It’s time for bed. A: OK. Good night, mom.",
+    "choices": {
+      "1": "I’m Paul",
+      "2": "It’s sunny",
+      "3": "It’s white",
+      "4": "No, you can’t"
+    },
+    "answers": [
+      4
+    ],
+    "id": 146,
+    "round": 146,
+    "question_no": 146
+  },
+  {
+    "question": "다음 대화에서 A가 구매한 물건의 총금액으로 알맞은 것은? A: How much is this cookie? B: It’s two thousand won. A: I’ll take four cookies. Here is eight thousand won. B: Thank you.",
+    "choices": {
+      "1": "2,000원",
+      "2": "4,000원",
+      "3": "6,000원",
+      "4": "8,000원"
+    },
+    "answers": [
+      4
+    ],
+    "id": 147,
+    "round": 147,
+    "question_no": 147
+  },
+  {
+    "question": "다음 대화에서 A의 생일 파티 날짜로 알맞은 것은? A: Can you come to my birthday party? B: Sure! When is it? A: It’s tomorrow. March 8th. B: OK. See you tomorrow.",
+    "choices": {
+      "1": "3월 8일",
+      "2": "5월 8일",
+      "3": "8월 3일",
+      "4": "10월 3일"
+    },
+    "answers": [
+      1
+    ],
+    "id": 148,
+    "round": 148,
+    "question_no": 148
+  },
+  {
+    "question": "다음 글에서 Amy에 관한 설명과 일치하지 않는 것은? This is Amy. She is my cousin. She is older than me. She likes to sing. She goes to Daehan Elementary School.",
+    "choices": {
+      "1": "내 사촌이다.",
+      "2": "나보다 나이가 많다.",
+      "3": "춤추기를 좋아한다.",
+      "4": "대한 초등학교에 다닌다."
+    },
+    "answers": [
+      3
+    ],
+    "id": 149,
+    "round": 149,
+    "question_no": 149
+  },
+  {
+    "question": "다음 대화에서 A가 더 먹고 싶어 하는 음식으로 알맞은 것은? A: This curry is delicious. Can I have some more? B: Sure. Here you are.",
+    "choices": {
+      "1": "피자",
+      "2": "카레",
+      "3": "샐러드",
+      "4": "햄버거"
+    },
+    "answers": [
+      2
+    ],
+    "id": 150,
+    "round": 150,
+    "question_no": 150
+  },
+  {
+    "question": "다음 글에서 Judy가 한 일이 아닌 것은?",
+    "choices": {
+      "1": "가족과 함께 여행했다.",
+      "2": "친구들과 수영장에 갔다.",
+      "3": "야구 경기를 관람했다.",
+      "4": "K-pop 페스티벌에 갔다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 151,
+    "round": 151,
+    "question_no": 151
+  },
+  {
+    "question": "안에 공통으로 들어갈 철자로 알맞은 것은? en izza otato",
+    "choices": {
+      "1": "b",
+      "2": "f",
+      "3": "p",
+      "4": "t"
+    },
+    "answers": [
+      3
+    ],
+    "id": 152,
+    "round": 152,
+    "question_no": 152
+  },
+  {
+    "question": "다음 대화의 빈칸에 들어갈 말로 가장 적절한 것은? A: _____ old are you? B : I’m eleven years old.",
+    "choices": {
+      "1": "Can",
+      "2": "How",
+      "3": "Who",
+      "4": "What"
+    },
+    "answers": [
+      2
+    ],
+    "id": 153,
+    "round": 153,
+    "question_no": 153
+  },
+  {
+    "question": "다음 대화에서 Jenny의 출신 국가는? A: Hello, I’m Jenny. B : Hello, my name is Tony. Where are you from? A: I’m from France. How about you? B : I’m from Canada.",
+    "choices": {
+      "1": "미국",
+      "2": "영국",
+      "3": "캐나다",
+      "4": "프랑스"
+    },
+    "answers": [
+      4
+    ],
+    "id": 154,
+    "round": 154,
+    "question_no": 154
+  },
+  {
+    "question": "다음 글에서 Minho가 8시에 하는 일은?",
+    "choices": {
+      "1": "일어나기",
+      "2": "축구 하기",
+      "3": "학교 가기",
+      "4": "아침 식사하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 155,
+    "round": 155,
+    "question_no": 155
+  },
+  {
+    "question": "다음 대화에서 물건과 주인이 바르게 연결된 것은? A: Tom, is this your ball? B : No, it’s Peter’s. A: Whose umbrella is this? B : It’s Anna’s.",
+    "choices": {
+      "1": "공－Anna",
+      "2": "공－Tom",
+      "3": "우산－Anna",
+      "4": "우산－Peter"
+    },
+    "answers": [
+      3
+    ],
+    "id": 156,
+    "round": 156,
+    "question_no": 156
+  },
+  {
+    "question": "다음 글에서 학교 축제가 열리는 날은? School Festival The school festival is on May 2nd. We can sing, dance, and do some magic.",
+    "choices": {
+      "1": "2월 5일",
+      "2": "3월 2일",
+      "3": "5월 2일",
+      "4": "5월 12일"
+    },
+    "answers": [
+      3
+    ],
+    "id": 157,
+    "round": 157,
+    "question_no": 157
+  },
+  {
+    "question": "다음 대화에서 A의 질문으로 가장 적절한 것은? A: ? B : It’s on October 21st.",
+    "choices": {
+      "1": "What time is it",
+      "2": "When is your birthday",
+      "3": "What will you do this weekend",
+      "4": "How was your summer vacation"
+    },
+    "answers": [
+      2
+    ],
+    "id": 158,
+    "round": 158,
+    "question_no": 158
+  },
+  {
+    "question": "다음 Ted의 자기소개에서 알 수 있는 것은?",
+    "choices": {
+      "1": "사는 곳",
+      "2": "장래 희망",
+      "3": "좋아하는 색깔",
+      "4": "좋아하는 음식"
+    },
+    "answers": [
+      2
+    ],
+    "id": 159,
+    "round": 159,
+    "question_no": 159
+  },
+  {
+    "question": "다음 대화에서 B가 제안한 교통수단은? A: How can I get to the post office? B : You can get there by bus.",
+    "choices": {
+      "1": "기차",
+      "2": "버스",
+      "3": "택시",
+      "4": "비행기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 160,
+    "round": 160,
+    "question_no": 160
+  },
+  {
+    "question": "다음 문장에서 대․소문자를 바르게 고쳐 쓴 것은? my favorite subject is english.",
+    "choices": {
+      "1": "my Favorite Subject is english.",
+      "2": "my favorite Subject is English.",
+      "3": "My favorite subject is english.",
+      "4": "My favorite subject is English."
+    },
+    "answers": [
+      4
+    ],
+    "id": 161,
+    "round": 161,
+    "question_no": 161
+  },
+  {
+    "question": "다음 중 모두 소문자로 쓴 낱말은?",
+    "choices": {
+      "1": "Hat",
+      "2": "RED",
+      "3": "jump",
+      "4": "Grapes"
+    },
+    "answers": [
+      3
+    ],
+    "id": 162,
+    "round": 162,
+    "question_no": 162
+  },
+  {
+    "question": "안에 공통으로 들어갈 철자로 알맞은 것은? d sk t n lephant",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "o",
+      "4": "u"
+    },
+    "answers": [
+      2
+    ],
+    "id": 163,
+    "round": 163,
+    "question_no": 163
+  },
+  {
+    "question": "금지 표지판과 지시 내용이 바르게 연결된 것은?",
+    "choices": {
+      "1": "Don’t run.",
+      "2": "Don’t swim.",
+      "3": "Don’t push.",
+      "4": "Don’t eat."
+    },
+    "answers": [
+      4
+    ],
+    "id": 164,
+    "round": 164,
+    "question_no": 164
+  },
+  {
+    "question": "다음 대화에서 B가 갖고 있는 물건으로 알맞은 것은? A: Do you have an eraser? B: Yes, I do.",
+    "choices": {
+      "1": "책",
+      "2": "연필",
+      "3": "지우개",
+      "4": "크레용"
+    },
+    "answers": [
+      3
+    ],
+    "id": 165,
+    "round": 165,
+    "question_no": 165
+  },
+  {
+    "question": "다음 글의 내용과 일치하지 않는 것은? Hello, my name is Jina. I’m from Canada. I’m eleven years old. I’m in the fifth grade.",
+    "choices": {
+      "1": "나의 이름은 Jina이다.",
+      "2": "나는 중국에서 왔다.",
+      "3": "나는 11살이다.",
+      "4": "나는 5학년이다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 166,
+    "round": 166,
+    "question_no": 166
+  },
+  {
+    "question": "다음 대화에서 B가 어제 한 일은? A: What did you do yesterday? B: I visited the museum. It was interesting.",
+    "choices": {
+      "1": "박물관을 방문했다.",
+      "2": "야구 경기를 관람했다.",
+      "3": "친구들과 영화를 봤다.",
+      "4": "할머니 댁을 방문했다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 167,
+    "round": 167,
+    "question_no": 167
+  },
+  {
+    "question": "다음 대화에서 B의 응답으로 가장 적절한 것은? A: What’s your favorite subject? B: . I like drawing pictures.",
+    "choices": {
+      "1": "I can sing and dance",
+      "2": "I’d like to have fried rice",
+      "3": "My favorite subject is art",
+      "4": "My bag is heavier than yours"
+    },
+    "answers": [
+      3
+    ],
+    "id": 168,
+    "round": 168,
+    "question_no": 168
+  },
+  {
+    "question": "다음 대화에서 B가 이번 주말에 하려고 하는 것은? A: What are you going to do this weekend? B: I’m going to join the science camp.",
+    "choices": {
+      "1": "가족들과 등산하기",
+      "2": "도서관에서 독서하기",
+      "3": "과학 캠프에 참여하기",
+      "4": "친구들과 음식 만들기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 169,
+    "round": 169,
+    "question_no": 169
+  },
+  {
+    "question": "표의 내용과 일치하는 것은? <우리 가족의 생활 습관> 아빠 엄마 나 남동생 매일 아침 식사하기 ○ ○ 하루 3번 손 씻기 ○ ○ 주 1회 운동하기 ○ ○",
+    "choices": {
+      "1": "My dad has breakfast every day.",
+      "2": "My mom has breakfast every day.",
+      "3": "I wash my hands three times a day.",
+      "4": "My brother exercises once a week."
+    },
+    "answers": [
+      2
+    ],
+    "id": 170,
+    "round": 170,
+    "question_no": 170
+  },
+  {
+    "question": "다음 대화에서 물건의 길이가 짧은 순서대로 나열한 것은? A: The pencil is shorter than the ruler. B: How about the eraser? A: The eraser is shorter than the pencil.",
+    "choices": {
+      "1": "eraser－pencil－ruler",
+      "2": "eraser－ruler－pencil",
+      "3": "pencil－eraser－ruler",
+      "4": "pencil－ruler－eraser"
+    },
+    "answers": [
+      1
+    ],
+    "id": 171,
+    "round": 171,
+    "question_no": 171
+  },
+  {
+    "question": "다음 글의 내용과 일치하지 않는 것은?",
+    "choices": {
+      "1": "Jenny가 Taemin에게 쓴 편지이다.",
+      "2": "Jenny는 겨울 방학에 대해 묻고 있다.",
+      "3": "Jenny는 많은 동물을 봤다.",
+      "4": "Jenny는 여행을 즐기고 있다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 172,
+    "round": 172,
+    "question_no": 172
+  },
+  {
+    "question": "다음 중 빈칸에 공통으로 들어갈 철자로 알맞은 것은? 5 cha r k te f ve",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "i",
+      "4": "o"
+    },
+    "answers": [
+      3
+    ],
+    "id": 173,
+    "round": 173,
+    "question_no": 173
+  },
+  {
+    "question": "다음 글에서 Tom이 가장 좋아하는 과목은? I’m Tom. My favorite subject is music. I like playing the piano.",
+    "choices": {
+      "1": "국어",
+      "2": "과학",
+      "3": "음악",
+      "4": "체육"
+    },
+    "answers": [
+      3
+    ],
+    "id": 174,
+    "round": 174,
+    "question_no": 174
+  },
+  {
+    "question": "다음 대화에서 B의 증상으로 가장 적절한 것은? A: What’s wrong? B: I have a runny nose.",
+    "choices": {
+      "1": "열이 난다.",
+      "2": "배가 아프다.",
+      "3": "이가 아프다.",
+      "4": "콧물이 흐른다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 175,
+    "round": 175,
+    "question_no": 175
+  },
+  {
+    "question": "다음 대화의 내용과 일치하는 것은? A: May I take your order? B: I’d like a sandwich, please. A: Here you are.",
+    "choices": {
+      "1": "A는 어떤 음식을 주문할지 묻는다.",
+      "2": "A는 좋아하는 동물에 대해 묻는다.",
+      "3": "B는 피자를 주문했다.",
+      "4": "B는 사자를 좋아한다."
+    },
+    "answers": [
+      1
+    ],
+    "id": 176,
+    "round": 176,
+    "question_no": 176
+  },
+  {
+    "question": "다음 대화에서 A의 질문으로 가장 적절한 것은? A: ? B: I’m from Korea.",
+    "choices": {
+      "1": "What’s that",
+      "2": "How’s the weather",
+      "3": "Where are you from",
+      "4": "What do you want to be"
+    },
+    "answers": [
+      3
+    ],
+    "id": 177,
+    "round": 177,
+    "question_no": 177
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: What will you do tomorrow? B: .",
+    "choices": {
+      "1": "I made cookies",
+      "2": "I visited my uncle",
+      "3": "I went to the beach",
+      "4": "I will watch a movie"
+    },
+    "answers": [
+      4
+    ],
+    "id": 178,
+    "round": 178,
+    "question_no": 178
+  },
+  {
+    "question": "다음 대화에서 B의 질문으로 가장 적절한 것은? A: I’m sad. B: ? A: Because I lost my glasses.",
+    "choices": {
+      "1": "How much is it",
+      "2": "Why are you sad",
+      "3": "How do you spell it",
+      "4": "What grade are you in"
+    },
+    "answers": [
+      2
+    ],
+    "id": 179,
+    "round": 179,
+    "question_no": 179
+  },
+  {
+    "question": "다음 대화에서 Mina가 B에게 제안하는 것은? A: Hello, this is Mina. B: Hi, Mina. How are you? A: I’m fine. Let’s go fishing this weekend. B: Sounds great.",
+    "choices": {
+      "1": "낚시하기",
+      "2": "수영하기",
+      "3": "영화보기",
+      "4": "캠핑하기"
+    },
+    "answers": [
+      1
+    ],
+    "id": 180,
+    "round": 180,
+    "question_no": 180
+  },
+  {
+    "question": "다음 대화에서 B의 아버지 직업은? A: Who is he? B: He is my father. He is a police officer.",
+    "choices": {
+      "1": "교사",
+      "2": "작가",
+      "3": "화가",
+      "4": "경찰관"
+    },
+    "answers": [
+      4
+    ],
+    "id": 181,
+    "round": 181,
+    "question_no": 181
+  },
+  {
+    "question": "다음 중 빈칸에 공통으로 들어갈 철자로 알맞은 것은? h t c ke w tch",
+    "choices": {
+      "1": "a",
+      "2": "e",
+      "3": "f",
+      "4": "g"
+    },
+    "answers": [
+      1
+    ],
+    "id": 182,
+    "round": 182,
+    "question_no": 182
+  },
+  {
+    "question": "다음 대화의 내용과 일치하는 것은? A: Why are you sad? B: Because I lost my bag.",
+    "choices": {
+      "1": "A는 날씨를 묻는다.",
+      "2": "B는 지금 매우 행복하다.",
+      "3": "A는 왜 기쁜지 묻는다.",
+      "4": "B는 가방을 잃어버렸다."
+    },
+    "answers": [
+      4
+    ],
+    "id": 183,
+    "round": 183,
+    "question_no": 183
+  },
+  {
+    "question": "다음 빈칸에 들어갈 말로 알맞은 것은?",
+    "choices": {
+      "1": "What’s wrong",
+      "2": "What time is it",
+      "3": "How is the weather",
+      "4": "Whose book is this"
+    },
+    "answers": [
+      4
+    ],
+    "id": 184,
+    "round": 184,
+    "question_no": 184
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: What are you doing? B: .",
+    "choices": {
+      "1": "It’s 9 o’clock",
+      "2": "Yes, I’m hungry",
+      "3": "I’m from Australia",
+      "4": "I’m drawing a picture"
+    },
+    "answers": [
+      4
+    ],
+    "id": 185,
+    "round": 185,
+    "question_no": 185
+  },
+  {
+    "question": "다음 대화에서 B가 가장 좋아하는 과목은? A: What’s your favorite subject? B: My favorite subject is music.",
+    "choices": {
+      "1": "국어",
+      "2": "사회",
+      "3": "수학",
+      "4": "음악"
+    },
+    "answers": [
+      4
+    ],
+    "id": 186,
+    "round": 186,
+    "question_no": 186
+  },
+  {
+    "question": "다음 대화에서 B가 내일 하려고 하는 것은? A: What are you going to do tomorrow? B: I’m going to go camping with my family.",
+    "choices": {
+      "1": "친구와 숙제하기",
+      "2": "가족과 캠핑하기",
+      "3": "박물관 견학하기",
+      "4": "뮤지컬 관람하기"
+    },
+    "answers": [
+      2
+    ],
+    "id": 187,
+    "round": 187,
+    "question_no": 187
+  },
+  {
+    "question": "다음 글에서 Jinho의 장래 희망으로 가장 적절한 것은? I’m Jinho. I’m good at singing songs. I want to be a singer.",
+    "choices": {
+      "1": "가수",
+      "2": "화가",
+      "3": "경찰관",
+      "4": "소방관"
+    },
+    "answers": [
+      1
+    ],
+    "id": 188,
+    "round": 188,
+    "question_no": 188
+  },
+  {
+    "question": "다음 글에 나타난 생활 습관으로 가장 적절한 것은? I have breakfast five times a week. I exercise four times a week.",
+    "choices": {
+      "1": "아침 식사를 주 4회 한다.",
+      "2": "아침 식사를 주 5회 한다.",
+      "3": "운동을 하루에 4회 한다.",
+      "4": "운동을 하루에 5회 한다."
+    },
+    "answers": [
+      2
+    ],
+    "id": 189,
+    "round": 189,
+    "question_no": 189
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: How was your weekend? B: It was good. How about you? A: I watched a movie with my sister. What did you do? B: I cleaned my room.",
+    "choices": {
+      "1": "주말에 한 일",
+      "2": "우리 학교 소개",
+      "3": "떡볶이 만드는 방법",
+      "4": "도서관에서 지킬 약속"
+    },
+    "answers": [
+      1
+    ],
+    "id": 190,
+    "round": 190,
+    "question_no": 190
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: What grade are you in? B: .",
+    "choices": {
+      "1": "I like music",
+      "2": "I want some milk",
+      "3": "I get up at 6",
+      "4": "I’m in the third grade"
+    },
+    "answers": [
+      4
+    ],
+    "id": 191,
+    "round": 191,
+    "question_no": 191
+  },
+  {
+    "question": "다음 중 알파벳 대문자와 소문자의 연결이 옳은 것은?",
+    "choices": {
+      "1": "A－h",
+      "2": "L－k",
+      "3": "P－b",
+      "4": "Y－y"
+    },
+    "answers": [
+      4
+    ],
+    "id": 192,
+    "round": 192,
+    "question_no": 192
+  },
+  {
+    "question": "다음 대화에서 빈칸에 들어갈 말로 가장 적절한 것은? A: What’s your name? B: .",
+    "choices": {
+      "1": "I like apples",
+      "2": "I’m a student",
+      "3": "My name is Namsu",
+      "4": "Nice to meet you"
+    },
+    "answers": [
+      3
+    ],
+    "id": 193,
+    "round": 193,
+    "question_no": 193
+  },
+  {
+    "question": "다음 중 빈칸에 공통으로 들어갈 철자로 알맞은 것은? b d d sk",
+    "choices": {
+      "1": "e",
+      "2": "m",
+      "3": "o",
+      "4": "s"
+    },
+    "answers": [
+      1
+    ],
+    "id": 194,
+    "round": 194,
+    "question_no": 194
+  },
+  {
+    "question": "다음 대화에서 설명하는 가방의 색깔은? A: What color is your bag? B: My bag is yellow.",
+    "choices": {
+      "1": "노랑",
+      "2": "보라",
+      "3": "빨강",
+      "4": "초록"
+    },
+    "answers": [
+      1
+    ],
+    "id": 195,
+    "round": 195,
+    "question_no": 195
+  },
+  {
+    "question": "다음 대화에서 Yuna가 Jinsoo에게 한 조언으로 가장 적절한 것은?",
+    "choices": {
+      "1": "약 먹기",
+      "2": "운동하기",
+      "3": "휴식하기",
+      "4": "병원 가기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 196,
+    "round": 196,
+    "question_no": 196
+  },
+  {
+    "question": "다음 대화에서 B가 이번 주말에 할 일은? A: What will you do this weekend? B: I’ll study English.",
+    "choices": {
+      "1": "등산하기",
+      "2": "방 청소하기",
+      "3": "영어 공부하기",
+      "4": "친척 방문하기"
+    },
+    "answers": [
+      3
+    ],
+    "id": 197,
+    "round": 197,
+    "question_no": 197
+  },
+  {
+    "question": "다음 대화에서 알 수 있는 것은? A: Where are you from? B: I’m from Canada.",
+    "choices": {
+      "1": "나이",
+      "2": "특기",
+      "3": "출신 국가",
+      "4": "장래 희망"
+    },
+    "answers": [
+      3
+    ],
+    "id": 198,
+    "round": 198,
+    "question_no": 198
+  },
+  {
+    "question": "다음 대화에서 B의 대답으로 가장 적절한 것은? A: What did you do yesterday? B: .",
+    "choices": {
+      "1": "It is fun",
+      "2": "Yes, I did",
+      "3": "No, I didn’t",
+      "4": "I played soccer"
+    },
+    "answers": [
+      4
+    ],
+    "id": 199,
+    "round": 199,
+    "question_no": 199
+  },
+  {
+    "question": "다음 글에서 Sally가 가고 싶은 곳으로 가장 적절한 것은? I’m Sally. I like reading books. I want to go to the library.",
+    "choices": {
+      "1": "도서관",
+      "2": "수영장",
+      "3": "운동장",
+      "4": "정육점"
+    },
+    "answers": [
+      1
+    ],
+    "id": 200,
+    "round": 200,
+    "question_no": 200
+  },
+  {
+    "question": "다음 대화의 주제로 가장 적절한 것은? A: What season do you like? B: I like winter because I love snow.",
+    "choices": {
+      "1": "좋아하는 계절",
+      "2": "먹고 싶은 음식",
+      "3": "사고 싶은 물건",
+      "4": "하고 싶은 운동"
+    },
+    "answers": [
+      1
+    ],
+    "id": 201,
+    "round": 201,
+    "question_no": 201
+  },
+  {
+    "question": "다음 글을 쓴 이유로 가장 적절한 것은?",
+    "choices": {
+      "1": "사과하기 위해",
+      "2": "초대하기 위해",
+      "3": "칭찬하기 위해",
+      "4": "감사하기 위해"
+    },
+    "answers": [
+      2
+    ],
+    "id": 202,
+    "round": 202,
+    "question_no": 202
+  }
+]
