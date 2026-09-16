@@ -275,6 +275,9 @@ window.addEventListener('DOMContentLoaded', async () => {
   if (metaDesc) {
     metaDesc.setAttribute('content', typeLabel + ' 자격증 시험 기출문제 모의고사를 무료로 풀어보세요. 문제은행 기반 실전 문제, 타이머, 오답노트 제공.');
   }
+  const pageTitle = document.getElementById('exam-page-title');
+  // '자격증'은 운전면허·한국사능력검정 등에는 부정확해서 범용적인 '시험'으로 표현
+  if (pageTitle) pageTitle.textContent = `${typeLabel} 시험 대비 모의고사 문제`;
   // 로고 아이콘 업데이트
   const logoIcon = document.getElementById('logo-icon');
   if (logoIcon) {
