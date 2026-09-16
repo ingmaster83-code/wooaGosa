@@ -266,6 +266,15 @@ const elModalCancel= document.getElementById('modal-cancel');
 /* ── 초기화 ────────────────────────────────────── */
 window.addEventListener('DOMContentLoaded', async () => {
   elTitle.textContent = typeLabel + ' 모의고사';
+  // 페이지가 어떤 자격증/시험 문제풀이인지 크롤러(검색·광고)가 읽을 수 있게
+  // 제목·설명에도 실제 시험명을 반영 (구글 광고 문맥 타겟팅이 이 정보로
+  // 관련 카테고리를 인식하도록 - 없던 문맥을 지어내는 게 아니라 실제 페이지
+  // 내용을 그대로 드러내는 것)
+  document.title = typeLabel + ' 모의고사 - 자격증 기출문제 풀이 | WooaGosa';
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.setAttribute('content', typeLabel + ' 자격증 시험 기출문제 모의고사를 무료로 풀어보세요. 문제은행 기반 실전 문제, 타이머, 오답노트 제공.');
+  }
   // 로고 아이콘 업데이트
   const logoIcon = document.getElementById('logo-icon');
   if (logoIcon) {
