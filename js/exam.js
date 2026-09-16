@@ -324,6 +324,7 @@ window.addEventListener('DOMContentLoaded', async () => {
     startFreshExam();
   }
 
+  renderExamFaq();
   renderQuestion();
   startTimer();
   examStarted = true;
@@ -344,6 +345,40 @@ function startFreshExam() {
     examEndTime = Date.now() + secondsLeft * 1000;
     saveProgress();
   }
+}
+
+/* ── 시험 종류별 FAQ (실제 이 시험의 문항수·제한시간 등 사실 그대로 표시) ──
+ * 문제풀이 화면 스크롤 아래쪽에 위치 - 응시 중 화면을 가리지 않으면서도
+ * 이 페이지가 어떤 자격증/시험 관련 콘텐츠인지 실제 내용으로 드러낸다.
+ */
+function renderExamFaq() {
+  const heading = document.getElementById('exam-faq-heading');
+  const list = document.getElementById('exam-faq');
+  if (!heading || !list) return;
+
+  const minutes = Math.max(1, Math.round((secondsLeft || COUNT * 75) / 60));
+  const qCount = examQuestions.length || COUNT;
+
+  const items = [
+    [`${typeLabel} 모의고사는 몇 문항인가요?`,
+     `이번 회차는 ${qCount}문항으로 구성되어 있으며, 문제은행에서 매번 랜덤으로 출제됩니다.`],
+    [`시험 시간은 얼마나 되나요?`,
+     `제한시간은 약 ${minutes}분입니다. 실전과 비슷한 시간 안에 푸는 연습을 해보세요.`],
+    [`틀린 문제는 다시 볼 수 있나요?`,
+     `네. 틀린 문제는 오답노트에 자동으로 저장되며, 오답노트 페이지에서 해당 유형만 다시 풀어볼 수 있습니다.`],
+    [`답안이나 결과가 서버에 저장되나요?`,
+     `아니요. 모든 답안과 오답 기록은 이 브라우저에만 저장되며 외부 서버로 전송되지 않습니다.`],
+  ];
+
+  heading.textContent = `${typeLabel} 모의고사 자주 묻는 질문`;
+  list.innerHTML = items.map(([q, a]) => `
+    <div class="faq-item">
+      <button class="faq-question" onclick="this.closest('.faq-item').classList.toggle('open')">
+        <span>${q}</span>
+        <span class="faq-icon">+</span>
+      </button>
+      <div class="faq-answer"><div class="faq-answer-inner">${a}</div></div>
+    </div>`).join('');
 }
 
 /* ── 이어하기 선택 화면 (SEGMENTED 전용) ─────────── */
