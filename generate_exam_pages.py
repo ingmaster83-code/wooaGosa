@@ -4,6 +4,7 @@
 """
 
 import sys
+import json
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding='utf-8')
@@ -1807,9 +1808,35 @@ def faq_html(items):
     html += '        </div>\n      </section>'
     return html
 
+
+def jsonld_html(exam):
+    data = [
+        {
+            "@context": "https://schema.org",
+            "@type": "Quiz",
+            "name": f'{exam["label"]} 모의고사',
+            "about": {"@type": "Thing", "name": exam["label"]},
+            "educationalLevel": "자격시험 대비",
+            "numberOfQuestions": exam["count"],
+            "isPartOf": {"@type": "WebSite", "name": "WooaGosa", "url": "https://wooagosa.wooahouse.com/"},
+            "inLanguage": "ko",
+            "url": exam["canonical"],
+        },
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [
+                {"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
+                for q, a in exam["faq"]
+            ],
+        },
+    ]
+    return f'  <script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>'
+
 def make_page(exam):
     badges_html = ' '.join(f'<span class="badge">{b}</span>' for b in exam["badges"])
     faq  = faq_html(exam["faq"])
+    jsonld = jsonld_html(exam)
     lnks = links_html(exam["type"])
     fname = exam["file"]
 
@@ -1838,6 +1865,7 @@ def make_page(exam):
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css?v=2">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
+{jsonld}
 {ADBLOCK_RECOVERY_TAG}
 {ERROR_PREVENTION_TAG}
   <style>

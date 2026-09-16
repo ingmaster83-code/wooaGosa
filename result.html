@@ -121,6 +121,12 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
       <!-- 오답 풀이 -->
       <div id="wrong-review"></div>
 
+      <!-- 다른 시험도 풀어보기 (세션당 페이지뷰 늘리기 - 결과 확인 시점의 자연스러운 다음 행동) -->
+      <section style="margin-top:2rem;">
+        <h2 class="section-title">다른 시험도 풀어보기</h2>
+        <div id="related-exams" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:.75rem;"></div>
+      </section>
+
     </div><!-- /.gosa-main -->
 
     <!-- ── 오른쪽 사이드바 ── -->
@@ -164,7 +170,32 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
     }
     const data = JSON.parse(raw);
     renderResult(data);
+    renderRelatedExams(data.type);
   });
+
+  // 결과를 확인한 시점 = 다음 행동을 고민하는 자연스러운 타이밍이라, 방금 본 시험과
+  // 다른 인기 시험 몇 개를 보여줘서 세션이 여기서 끝나지 않게 한다 (실제로 있는 페이지로 연결)
+  const POPULAR_EXAMS = [
+    { type: '1jong-botong',   label: '1종 보통 면허',      file: 'exam-license-1normal.html', icon: '🚗' },
+    { type: '2jong-botong',   label: '2종 보통 면허',      file: 'exam-license-2normal.html', icon: '🚙' },
+    { type: 'motorcycle',     label: '2종 소형(이륜)',     file: 'exam-motorcycle.html',       icon: '🏍' },
+    { type: 'history_basic',  label: '한국사능력검정 기본', file: 'exam-history-basic.html',    icon: '📜' },
+    { type: 'computer_1',     label: '컴퓨터활용능력 1급', file: 'exam-computer-1.html',       icon: '💻' },
+    { type: 'forklift',       label: '지게차운전기능사',   file: 'exam-forklift.html',         icon: '🚜' },
+    { type: 'safety_ind',     label: '산업안전산업기사',   file: 'exam-safety-ind.html',       icon: '🦺' },
+    { type: 'realtor_1',      label: '공인중개사 1차',     file: 'exam-realtor-1.html',        icon: '🏠' },
+  ];
+
+  function renderRelatedExams(currentType) {
+    const el = document.getElementById('related-exams');
+    if (!el) return;
+    const picks = POPULAR_EXAMS.filter(e => e.type !== currentType).slice(0, 4);
+    el.innerHTML = picks.map(e => `
+      <a href="${e.file}" class="mode-card" style="text-decoration:none;">
+        <div class="mode-icon">${e.icon}</div>
+        <div class="mode-name">${e.label}</div>
+      </a>`).join('');
+  }
 
   function renderResult(data) {
     const { questions, userAnswers, typeLabel, type, mode } = data;
@@ -246,15 +277,16 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
     html += '</div>';
     container.innerHTML = html;
 
-    // 모바일 인라인 광고 초기화 (5문제마다)
-    container.querySelectorAll('.ad-slot-mid').forEach(el => {
+    // 모바일 인라인 광고 초기화 (5문제마다, 인피드 슬롯 3개 순환 - wrong-notes.html과 동일 패턴)
+    const INFEED_AD_SLOTS = ['9476474263', '4966383618', '4224147589'];
+    container.querySelectorAll('.ad-slot-mid').forEach((el, idx) => {
       const ins = document.createElement('ins');
       ins.className = 'adsbygoogle';
       ins.style.display = 'block';
       ins.setAttribute('data-ad-client', 'ca-pub-6464921081676309');
-      ins.setAttribute('data-ad-slot', '7080296704');
-      ins.setAttribute('data-ad-format', 'auto');
-      ins.setAttribute('data-full-width-responsive', 'true');
+      ins.setAttribute('data-ad-slot', INFEED_AD_SLOTS[idx % INFEED_AD_SLOTS.length]);
+      ins.setAttribute('data-ad-format', 'fluid');
+      ins.setAttribute('data-ad-layout-key', '-6t+ed+2i-1n-4w');
       el.appendChild(ins);
       (window.adsbygoogle = window.adsbygoogle || []).push({});
     });

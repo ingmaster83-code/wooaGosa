@@ -382,6 +382,45 @@ function renderExamFaq() {
       </button>
       <div class="faq-answer"><div class="faq-answer-inner">${a}</div></div>
     </div>`).join('');
+
+  renderExamJsonLd(items, qCount);
+}
+
+/* ── 구조화 데이터(JSON-LD) ──────────────────────
+ * exam.html은 noindex라 검색 리치결과와는 무관하지만, 구글 광고 크롤러 등
+ * 다른 크롤러도 이 마크업을 읽을 수 있어 문맥 신호로 남겨둔다. 위의 FAQ와
+ * 같은 데이터를 그대로 구조화만 다르게 표현하는 것 - 별도 내용을 지어내지 않음.
+ */
+function renderExamJsonLd(faqItems, qCount) {
+  let el = document.getElementById('exam-jsonld');
+  if (!el) {
+    el = document.createElement('script');
+    el.type = 'application/ld+json';
+    el.id = 'exam-jsonld';
+    document.head.appendChild(el);
+  }
+  const data = [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'Quiz',
+      'name': `${typeLabel} 모의고사`,
+      'about': { '@type': 'Thing', 'name': typeLabel },
+      'educationalLevel': '자격시험 대비',
+      'numberOfQuestions': qCount,
+      'isPartOf': { '@type': 'WebSite', 'name': 'WooaGosa', 'url': 'https://wooagosa.wooahouse.com/' },
+      'inLanguage': 'ko',
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      'mainEntity': faqItems.map(([q, a]) => ({
+        '@type': 'Question',
+        'name': q,
+        'acceptedAnswer': { '@type': 'Answer', 'text': a },
+      })),
+    },
+  ];
+  el.textContent = JSON.stringify(data);
 }
 
 /* ── 이어하기 선택 화면 (SEGMENTED 전용) ─────────── */

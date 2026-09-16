@@ -1,7 +1,7 @@
 /**
  * WooaGosa Service Worker – 오프라인 캐싱
  */
-const CACHE_NAME = 'wooagosa-v6';
+const CACHE_NAME = 'wooagosa-v7';
 const PRECACHE = [
   '/',
   '/index.html',
