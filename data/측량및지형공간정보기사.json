@@ -8007,23 +8007,6 @@
     ]
   },
   {
-    "id": 472,
-    "date": "20040905",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 60,
-    "question": "다음 중 보기의 ( )안에 들어가는 말이 아닌 것은?",
-    "choices": {
-      "1": "하드웨어",
-      "2": "운영체제",
-      "3": "DBMS",
-      "4": "소프트웨어"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 473,
     "date": "20040905",
     "subject": 4,
@@ -13699,23 +13682,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 807,
-    "date": "20050904",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 50,
-    "question": "다음 ( ) 안에 알맞은 말로 짝지어진 것은?",
-    "choices": {
-      "1": "크고, 작다",
-      "2": "크고, 작다",
-      "3": "작고, 작다",
-      "4": "작고, 크다"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -20857,23 +20823,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 1228,
-    "date": "20070513",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 50,
-    "question": "다음 중 보기의 ( )안에 들어갈 용어로 적합하지 않은 것은?",
-    "choices": {
-      "1": "하드웨어",
-      "2": "운영체제",
-      "3": "관측위성",
-      "4": "소프트웨어"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -37114,23 +37063,6 @@
     ]
   },
   {
-    "id": 2184,
-    "date": "20110320",
-    "subject": 5,
-    "subject_name": "측량학 은?",
-    "question_no": 92,
-    "question": "측량의 실시공고에 대한 사항으로 ( )에 알맞은 것은?",
-    "choices": {
-      "1": "7일",
-      "2": "14일",
-      "3": "15일",
-      "4": "30일"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 2185,
     "date": "20110320",
     "subject": 5,
@@ -40072,23 +40004,6 @@
     ]
   },
   {
-    "id": 2358,
-    "date": "20111002",
-    "subject": 5,
-    "subject_name": "측량학 은?",
-    "question_no": 96,
-    "question": "측량업자의 지위 승계에 관한 내용으로 ()안에 옳은 것은?",
-    "choices": {
-      "1": "7일",
-      "2": "10일",
-      "3": "20일",
-      "4": "30일"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 2359,
     "date": "20111002",
     "subject": 5,
@@ -41188,23 +41103,6 @@
       "2": "1-1-0",
       "3": "0-1-0",
       "4": "0-1-1"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 2424,
-    "date": "20120304",
-    "subject": 4,
-    "subject_name": "지리정보시스템",
-    "question_no": 74,
-    "question": "보기의 ( )안에 들어갈 용어로 적합한 것은?",
-    "choices": {
-      "1": "스캐닝(scanning)",
-      "2": "GPS(global positioning system)",
-      "3": "원격탐사(remote sensing)",
-      "4": "디지타이징(digitizing)"
     },
     "answers": [
       4
@@ -46668,23 +46566,6 @@
     ]
   },
   {
-    "id": 2746,
-    "date": "20130602",
-    "subject": 4,
-    "subject_name": "지리정보시스템",
-    "question_no": 63,
-    "question": "( )안에 알맞은 단어로 짝지어진 것은?",
-    "choices": {
-      "1": "국토개발, 지형도",
-      "2": "공간, 지리자료",
-      "3": "지리정보, GPS",
-      "4": "지도제작, 토지정보"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 2747,
     "date": "20130602",
     "subject": 4,
@@ -47090,23 +46971,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 2771,
-    "date": "20130602",
-    "subject": 5,
-    "subject_name": "측량학 은?",
-    "question_no": 95,
-    "question": "측량의 실시공고에 대한 사항으로 ( )에 알맞은 것은?",
-    "choices": {
-      "1": "7일",
-      "2": "14일",
-      "3": "15일",
-      "4": "30일"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -52346,23 +52210,6 @@
     ]
   },
   {
-    "id": 3081,
-    "date": "20140920",
-    "subject": 4,
-    "subject_name": "지리정보시스템",
-    "question_no": 63,
-    "question": "보기의 ( )에 들어갈 용어로 적합한 것은?",
-    "choices": {
-      "1": "스캐닝(scanning)",
-      "2": "디지타이징(digitizing)",
-      "3": "원격탐사 (remote sensing)",
-      "4": "GPS ( global positioning system)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 3082,
     "date": "20140920",
     "subject": 4,
@@ -55012,23 +54859,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 3238,
-    "date": "20150531",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 52,
-    "question": "다음 ( ) 안에 알맞은 말로 짝지어진 것은?",
-    "choices": {
-      "1": "크고, 작다",
-      "2": "크고, 크다",
-      "3": "작고, 작다",
-      "4": "작고, 크다"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -60707,23 +60537,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 3573,
-    "date": "20161001",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 51,
-    "question": "다음의 ( )에 알맞은 것은?",
-    "choices": {
-      "1": "사진지표(fiducial mark)",
-      "2": "사진연직점(nadir point)",
-      "3": "지상기준점(ground control point)",
-      "4": "노출중심점(perspective center)"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -69890,23 +69703,6 @@
     ]
   },
   {
-    "id": 4113,
-    "date": "20180915",
-    "subject": 5,
-    "subject_name": "측량학 은?",
-    "question_no": 99,
-    "question": "국가공간정보 기본법에 대하여 ()안에 공통적으로 들어갈 용 어로 알맞은 것은?",
-    "choices": {
-      "1": "공간정보데이터베이스",
-      "2": "위성측위시스템",
-      "3": "국가공간정보센터",
-      "4": "한국국토정보공사"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 4114,
     "date": "20190303",
     "subject": 1,
@@ -73304,23 +73100,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 4314,
-    "date": "20190921",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 45,
-    "question": "다음 중 ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "사진자료",
-      "2": "지상기준점",
-      "3": "주점",
-      "4": "표정점"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -78067,23 +77846,6 @@
     ]
   },
   {
-    "id": 4594,
-    "date": "20200926",
-    "subject": 4,
-    "subject_name": "지리정보시스템",
-    "question_no": 78,
-    "question": "다음의 ( )에 공통으로 들어갈 용어로 옳은 것은?",
-    "choices": {
-      "1": "스캐닝(scanning)",
-      "2": "디지타이징(digitizing)",
-      "3": "원격탐사(remote sensing)",
-      "4": "GPS(global positioning system)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 4595,
     "date": "20200926",
     "subject": 4,
@@ -81957,23 +81719,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 4823,
-    "date": "20210912",
-    "subject": 3,
-    "subject_name": "사진측량 및 원격탐사",
-    "question_no": 51,
-    "question": "다음의 ( )에 알맞은 것은?",
-    "choices": {
-      "1": "사진지표(fiducial mark)",
-      "2": "사진연직점(nadir point)",
-      "3": "지상기준점(ground contgrol point)",
-      "4": "노출중심점(perspective center)"
-    },
-    "answers": [
-      2
     ]
   },
   {

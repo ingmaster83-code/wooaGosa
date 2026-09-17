@@ -24701,23 +24701,6 @@
     ]
   },
   {
-    "id": 1455,
-    "date": "20100307",
-    "subject": 3,
-    "subject_name": "탐사공학",
-    "question_no": 56,
-    "question": "다음 ( )안에 알맞은 내용은 무엇인가?",
-    "choices": {
-      "1": "정보정 (static correction)",
-      "2": "공심점모음 중합 (CDP gather stack)",
-      "3": "구조보정 (migration)",
-      "4": "진폭조정 (amplitude adjustment)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 1456,
     "date": "20100307",
     "subject": 3,
@@ -27823,23 +27806,6 @@
       "2": "디멀티플렉싱(demultiplexing)",
       "3": "디링잉(deringing)",
       "4": "디고스팅(deghosting)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 1639,
-    "date": "20100725",
-    "subject": 3,
-    "subject_name": "탐사공학",
-    "question_no": 59,
-    "question": "다음 ()안에 알맞은 것은?",
-    "choices": {
-      "1": "두께(depth)",
-      "2": "반사각(reflection angle)",
-      "3": "음향 임피던스(acoustic impedance)",
-      "4": "임계거리(critical distance)"
     },
     "answers": [
       3
@@ -38165,23 +38131,6 @@
     ]
   },
   {
-    "id": 2248,
-    "date": "20130310",
-    "subject": 3,
-    "subject_name": "탐사공학",
-    "question_no": 59,
-    "question": "다음 ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "두께(depth)",
-      "2": "반사각(reflection angle)",
-      "3": "음향 임피던스(acoustic impedance)",
-      "4": "임계거리(critical distance)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 2249,
     "date": "20130310",
     "subject": 3,
@@ -41718,23 +41667,6 @@
     ]
   },
   {
-    "id": 2457,
-    "date": "20130818",
-    "subject": 5,
-    "subject_name": "광상학",
-    "question_no": 87,
-    "question": "다음 ( ) 안에 적절한 지질시대는 무엇인가?",
-    "choices": {
-      "1": "페름기",
-      "2": "쥐라기",
-      "3": "제3기",
-      "4": "제4기"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 2458,
     "date": "20130818",
     "subject": 5,
@@ -42443,23 +42375,6 @@
       "2": "해양판과 해양판의 발산 경계",
       "3": "대륙판과 해양판의 섭입 경계",
       "4": "해양판과 대륙판의 변환단층 경계"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 2501,
-    "date": "20140302",
-    "subject": 2,
-    "subject_name": "구조지질학",
-    "question_no": 37,
-    "question": "다음 ( )안에 들어갈 용어의 순서로 옳은 것은?",
-    "choices": {
-      "1": "진도, 규모",
-      "2": "규모, 진도",
-      "3": "활동도, 세기",
-      "4": "세기, 활동도"
     },
     "answers": [
       1
@@ -44061,23 +43976,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 2596,
-    "date": "20140525",
-    "subject": 3,
-    "subject_name": "탐사공학",
-    "question_no": 47,
-    "question": "다음 ( ) 안에 알맞은 내용은 무엇인가?",
-    "choices": {
-      "1": "탈반향(dereverberation)",
-      "2": "디고스팅(deghosting)",
-      "3": "명점(bright spot)",
-      "4": "백색화(whitening)"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -49753,23 +49651,6 @@
       "2": "대양저 산맥",
       "3": "변환단층",
       "4": "충돌대"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 2931,
-    "date": "20160508",
-    "subject": 2,
-    "subject_name": "구조지질학",
-    "question_no": 23,
-    "question": "다음 ( )안에 들어갈 용어로 옳은 것은?",
-    "choices": {
-      "1": "A : 양의 꽃구조(positive flower structure), B : 음의 꽃 구조(negative flower structure)",
-      "2": "A : 음의 꽃구조(negative flower structure), B : 양의 꽃구조(positive flower structure)",
-      "3": "A : 윈도우(window), B : 클리페(klippe)",
-      "4": "A : 클리페(klippe), B : 윈도우(window)"
     },
     "answers": [
       2
@@ -57052,23 +56933,6 @@
     ]
   },
   {
-    "id": 3360,
-    "date": "20180915",
-    "subject": 2,
-    "subject_name": "구조지질학",
-    "question_no": 25,
-    "question": "아래 내용 중 ( ) 안에 들어갈 알맞은 용어는?",
-    "choices": {
-      "1": "지진의 규모",
-      "2": "진앙지 거리",
-      "3": "진원지 심도",
-      "4": "지진 재해도"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 3361,
     "date": "20180915",
     "subject": 2,
@@ -57134,23 +56998,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 3365,
-    "date": "20180915",
-    "subject": 2,
-    "subject_name": "구조지질학",
-    "question_no": 31,
-    "question": "아내 내용 중 ( )안에 공통으로 들어갈 용어는?",
-    "choices": {
-      "1": "범람원",
-      "2": "배수령",
-      "3": "분지천",
-      "4": "배수분지"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -57882,23 +57729,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 3409,
-    "date": "20180915",
-    "subject": 5,
-    "subject_name": "광상학",
-    "question_no": 86,
-    "question": "다음 내용 중 ( )안에 알맞은 지층명은?",
-    "choices": {
-      "1": "고한층",
-      "2": "금천층",
-      "3": "동고층",
-      "4": "대동누층군"
-    },
-    "answers": [
-      4
     ]
   },
   {

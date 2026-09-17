@@ -5304,23 +5304,6 @@
     ]
   },
   {
-    "id": 313,
-    "date": "20041010",
-    "subject": 3,
-    "subject_name": "금속재료일반 및 용접일반(대략구분)",
-    "question_no": 43,
-    "question": "( ) 안에 들어갈 내용으로 알맞는 것은?",
-    "choices": {
-      "1": "전자대화(Chatting)",
-      "2": "홈뱅킹(Home Banking)",
-      "3": "전자게시판(Bulletin Board System)",
-      "4": "파일전송(File Exchange)"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 314,
     "date": "20041010",
     "subject": 3,
@@ -19037,23 +19020,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 1121,
-    "date": "20101003",
-    "subject": 2,
-    "subject_name": "침투탐상관련규격(대략구분)",
-    "question_no": 34,
-    "question": "다음 중 ( )안에 들어 갈 적절한 용어는?",
-    "choices": {
-      "1": "흠 속",
-      "2": "세척제",
-      "3": "유화제",
-      "4": "흠 주변"
-    },
-    "answers": [
-      1
     ]
   },
   {

@@ -36482,23 +36482,6 @@
     ]
   },
   {
-    "id": 2147,
-    "date": "20180304",
-    "subject": 2,
-    "subject_name": "농림해충학",
-    "question_no": 34,
-    "question": "다음 ( )에 해당하는 용어로 옳은 것은?",
-    "choices": {
-      "1": "A : 벌목 혹파리과, B : Dendrolimus spectabilis",
-      "2": "A : 벌목 혹파리과, B : Thecodiplosis japonensis",
-      "3": "A : 파리목 혹파리과, B : Dendrolimus spectabilis",
-      "4": "A : 파리목 혹파리과, B : Thecodiplosis japonensis"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 2148,
     "date": "20180304",
     "subject": 2,
@@ -45418,23 +45401,6 @@
       "2": "교미",
       "3": "휴면",
       "4": "산란의 시점"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 2673,
-    "date": "20200822",
-    "subject": 2,
-    "subject_name": "농림해충학",
-    "question_no": 28,
-    "question": "( )에 가장 알맞은 내용은?",
-    "choices": {
-      "1": "A : 유충, B : 6월 상순 ~ 중순, C : 유충",
-      "2": "A : 용(번데기), B : 5월, C : 성충",
-      "3": "A : 유충, B : 7월 하순, C : 성충",
-      "4": "A : 용(번데기), B : 8월 상순 ~ 중순, C : 유충"
     },
     "answers": [
       1

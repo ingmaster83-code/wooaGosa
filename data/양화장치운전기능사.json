@@ -51,23 +51,6 @@
     ]
   },
   {
-    "id": 4,
-    "date": "20010723",
-    "subject": 1,
-    "subject_name": "임의구분",
-    "question_no": 4,
-    "question": "해치 붐(Boom)의 앙각은 통상 ( ∼ )정도에서 사용되고 있 다. ( )속에 적합한 숫자는?",
-    "choices": {
-      "1": "20 - 30°",
-      "2": "30 - 40°",
-      "3": "40 - 60°",
-      "4": "50 - 70°"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 5,
     "date": "20010723",
     "subject": 1,
@@ -748,40 +731,6 @@
     ]
   },
   {
-    "id": 45,
-    "date": "20010723",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 51,
-    "question": "The rule does not apply ( ) this case. ( )안에 알맞는 말 은?",
-    "choices": {
-      "1": "in",
-      "2": "to",
-      "3": "for",
-      "4": "from"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 46,
-    "date": "20010723",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 52,
-    "question": "\"나는 내일 당신을 만나기로 되어 있다.\" 의 의미로 영문을 표기할 때 ( )안에 적합한 것은?",
-    "choices": {
-      "1": "thought",
-      "2": "claimed",
-      "3": "supposed",
-      "4": "approved"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 47,
     "date": "20010723",
     "subject": 3,
@@ -816,23 +765,6 @@
     ]
   },
   {
-    "id": 49,
-    "date": "20010723",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 55,
-    "question": "( )안에 적절한 것은?",
-    "choices": {
-      "1": "careful",
-      "2": "ready",
-      "3": "taking",
-      "4": "step by step"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 50,
     "date": "20010723",
     "subject": 3,
@@ -864,23 +796,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 52,
-    "date": "20010723",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 59,
-    "question": "\"그 나무들 밑에 많은 벤취들이 있다.\"를 영어로 쓸 때 ( ) 안에 들어갈 말은?",
-    "choices": {
-      "1": "on",
-      "2": "under",
-      "3": "up",
-      "4": "below"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -1224,23 +1139,6 @@
     ]
   },
   {
-    "id": 73,
-    "date": "20020721",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 22,
-    "question": "\"선장 방으로 안내하여 주시오.\" 표현으로 ( ) 안에 적합하 지 못한 것은?",
-    "choices": {
-      "1": "lead",
-      "2": "take",
-      "3": "show",
-      "4": "push"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 74,
     "date": "20020721",
     "subject": 2,
@@ -1255,23 +1153,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 75,
-    "date": "20020721",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 24,
-    "question": "\"6시에 전화로 깨워 주시오.\"의 뜻을 표현할 때 ( )안에 적 합한 것은?",
-    "choices": {
-      "1": "ring",
-      "2": "telephone",
-      "3": "wake",
-      "4": "alarm"
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -2142,40 +2023,6 @@
     ]
   },
   {
-    "id": 127,
-    "date": "20030720",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 25,
-    "question": "다음 ( )안에 알맞는 것은?",
-    "choices": {
-      "1": "in",
-      "2": "at",
-      "3": "on",
-      "4": "for"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 128,
-    "date": "20030720",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 26,
-    "question": "( )안에 들어갈 적당한 의문사는 어느 것인가?",
-    "choices": {
-      "1": "How",
-      "2": "Who",
-      "3": "What",
-      "4": "Where"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 129,
     "date": "20030720",
     "subject": 2,
@@ -3009,23 +2856,6 @@
     ]
   },
   {
-    "id": 178,
-    "date": "20040718",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 25,
-    "question": "I am older than ( ). 앞 문장의 ( )안에 알맞은 말은?",
-    "choices": {
-      "1": "he",
-      "2": "his",
-      "3": "him",
-      "4": "her"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 179,
     "date": "20040718",
     "subject": 2,
@@ -3057,23 +2887,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 181,
-    "date": "20040718",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 28,
-    "question": "( )안에 알맞는 영문은?",
-    "choices": {
-      "1": "I am work cargo work.",
-      "2": "I was work cargo work.",
-      "3": "I am working cargo work.",
-      "4": "I was working cargo work."
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -3139,23 +2952,6 @@
       "2": "유압식",
       "3": "호이스트식",
       "4": "등용량 2전동기식"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 186,
-    "date": "20040718",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 34,
-    "question": "다음 ( ) 안에 알맞는 것은?",
-    "choices": {
-      "1": "시이브(sheave)",
-      "2": "폴(fall)",
-      "3": "스위블(swivel)",
-      "4": "샤클(shackle)"
     },
     "answers": [
       4
@@ -3859,23 +3655,6 @@
     ]
   },
   {
-    "id": 228,
-    "date": "20050717",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 23,
-    "question": "다음 대화에서 ( )에 적합하지 않는 것은?",
-    "choices": {
-      "1": "I am afraid not",
-      "2": "Sure",
-      "3": "OK",
-      "4": "Of course"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 229,
     "date": "20050717",
     "subject": 2,
@@ -3893,23 +3672,6 @@
     ]
   },
   {
-    "id": 230,
-    "date": "20050717",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 25,
-    "question": "다음 ( )안에 알맞는 단어는?",
-    "choices": {
-      "1": "Careful",
-      "2": "Watch",
-      "3": "Please",
-      "4": "Dangerous"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 231,
     "date": "20050717",
     "subject": 2,
@@ -3921,23 +3683,6 @@
       "2": "Open here",
       "3": "This side up",
       "4": "Hand off"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
-    "id": 232,
-    "date": "20050717",
-    "subject": 2,
-    "subject_name": "임의구분",
-    "question_no": 27,
-    "question": "다음의 대화에서 ( )안에 적합한 것은?",
-    "choices": {
-      "1": "How are you?",
-      "2": "Fine, thanks",
-      "3": "How do you do?",
-      "4": "What is the matter with you?"
     },
     "answers": [
       3
@@ -4264,23 +4009,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 252,
-    "date": "20050717",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 48,
-    "question": "도체에 흐르는 전류는 ( )에 비례하고, ( )에 반비례 한다. ( )안에 알맞는 내용은?",
-    "choices": {
-      "1": "전력, 저항",
-      "2": "저항, 전압",
-      "3": "저항, 전력",
-      "4": "전압, 저항"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -5270,23 +4998,6 @@
     ]
   },
   {
-    "id": 311,
-    "date": "20090329",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 56,
-    "question": "다음 문장의 ( )안에 적합한 것은?",
-    "choices": {
-      "1": "careful",
-      "2": "ready",
-      "3": "taking",
-      "4": "step by step"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 312,
     "date": "20090329",
     "subject": 3,
@@ -5383,23 +5094,6 @@
       "2": "모터용 스위치를 끈다.",
       "3": "운전대에 있는 제어용의 메인 스위치를 끈다.",
       "4": "지브를 선체의 중심선에 평행의 위치에 둔다."
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 318,
-    "date": "20090712",
-    "subject": 1,
-    "subject_name": "임의구분",
-    "question_no": 5,
-    "question": "다음 증기윈치 관련 설명 중 ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "드레인 코크(Drain Cock)",
-      "2": "메인 밸브(Main Valve)",
-      "3": "배기 밸브(Exhaust Valve)",
-      "4": "스톱 밸브(Stop Valve)"
     },
     "answers": [
       1
@@ -7185,23 +6879,6 @@
       "2": "This wire is too old in carry something heavy.",
       "3": "This wire is very old to carry something heavy.",
       "4": "This wire is too old to carry something heavy."
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 424,
-    "date": "20110417",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 58,
-    "question": "아래는 하역작업자와 선내 당직사관과의 대화의 일부분이 다. ( )안에 가장 적합한 응답은?",
-    "choices": {
-      "1": "You're welcome.",
-      "2": "No, thank you.",
-      "3": "That's terrible.",
-      "4": "Yes, certainly."
     },
     "answers": [
       4
@@ -9078,23 +8755,6 @@
     ]
   },
   {
-    "id": 535,
-    "date": "20130414",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 59,
-    "question": "다음 A, B의 대화에서 ( ) 안에 들어갈 말은?",
-    "choices": {
-      "1": "When",
-      "2": "What",
-      "3": "How",
-      "4": "Who"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 536,
     "date": "20130414",
     "subject": 3,
@@ -9976,23 +9636,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 588,
-    "date": "20130721",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 59,
-    "question": "다음 A와 B의 대화 중 ( )에 들어갈 답변은?",
-    "choices": {
-      "1": "It doesn't rain now.",
-      "2": "I will check again.",
-      "3": "We don't care such a light rain.",
-      "4": "We don't care such a heavy rain."
-    },
-    "answers": [
-      3
     ]
   },
   {
@@ -10931,23 +10574,6 @@
     ]
   },
   {
-    "id": 644,
-    "date": "20140406",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 59,
-    "question": "“크레인 취급 시 주의하시오”를 영문으로 표현할 때 ( ) 안 에 적합한 것은?",
-    "choices": {
-      "1": "careful",
-      "2": "ready",
-      "3": "taking",
-      "4": "step by step"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 645,
     "date": "20140406",
     "subject": 3,
@@ -11860,23 +11486,6 @@
       "2": "How, a",
       "3": "Why, tall",
       "4": "How, long"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 699,
-    "date": "20140720",
-    "subject": 3,
-    "subject_name": "임의구분",
-    "question_no": 59,
-    "question": "다음 영문의 ( ) 안에 부적합한 것은?",
-    "choices": {
-      "1": "check",
-      "2": "test",
-      "3": "examine",
-      "4": "repair"
     },
     "answers": [
       4

@@ -8381,23 +8381,6 @@
     ]
   },
   {
-    "id": 494,
-    "date": "20060716",
-    "subject": 3,
-    "subject_name": "임의 구분",
-    "question_no": 51,
-    "question": "다음 중 ( )에 알맞은 것은?",
-    "choices": {
-      "1": "㉠-상해, ㉡-깔끔",
-      "2": "㉠-위해요인, ㉡-위생적",
-      "3": "㉠-위해요인, ㉡-쾌적",
-      "4": "㉠-상해, ㉡-청결"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 495,
     "date": "20060716",
     "subject": 3,
@@ -8718,23 +8701,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 514,
-    "date": "20070401",
-    "subject": 1,
-    "subject_name": "임의 구분",
-    "question_no": 14,
-    "question": "다음 중 ( )안에 알맞은 말은?",
-    "choices": {
-      "1": "조화(harmony)",
-      "2": "구조(structure)",
-      "3": "균형(balance)",
-      "4": "비율(proportion)"
-    },
-    "answers": [
-      1
     ]
   },
   {

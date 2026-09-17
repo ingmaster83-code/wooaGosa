@@ -13685,23 +13685,6 @@
     ]
   },
   {
-    "id": 806,
-    "date": "20200606",
-    "subject": 1,
-    "subject_name": "비파괴검사 개론",
-    "question_no": 7,
-    "question": "다음 ( )안에 들어갈 원소는?",
-    "choices": {
-      "1": "Cu",
-      "2": "S",
-      "3": "Mn",
-      "4": "Si"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 807,
     "date": "20200606",
     "subject": 1,

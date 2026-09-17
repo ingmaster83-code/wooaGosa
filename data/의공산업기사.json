@@ -1,22 +1,5 @@
 [
   {
-    "id": 1,
-    "date": "20080907",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 1,
-    "question": "다음( ) 안에 들어갈 알맞은 전극은?",
-    "choices": {
-      "1": "금속플레이드 전극(Metal-plate electrode)",
-      "2": "플로팅 전극(Floating electrode)",
-      "3": "접시 전극(Metal-disk electrode)",
-      "4": "흡판 전극(Suction electrode)"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 2,
     "date": "20080907",
     "subject": 1,
@@ -1615,23 +1598,6 @@
     ]
   },
   {
-    "id": 96,
-    "date": "20090510",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 10,
-    "question": "다음 ( ) 안에 알맞은 말은?",
-    "choices": {
-      "1": "근전도(electromyogram, EMG)",
-      "2": "유발전위(evoked Potential, EP)",
-      "3": "심전도(electrocardiogram, ECG)",
-      "4": "뇌전도(electroencephalogram, EEG)"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 97,
     "date": "20090510",
     "subject": 1,
@@ -2159,23 +2125,6 @@
     ]
   },
   {
-    "id": 128,
-    "date": "20090510",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 47,
-    "question": "다음은 정보보안의 속성에 관한 설명이다. ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "무결성",
-      "2": "가용성",
-      "3": "기밀성",
-      "4": "편의성"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 129,
     "date": "20090510",
     "subject": 3,
@@ -2309,23 +2258,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 137,
-    "date": "20090510",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 57,
-    "question": "다음 ( )안에 알맞은 것은?",
-    "choices": {
-      "1": "병원정보시스템",
-      "2": "전문가시스템",
-      "3": "사무자동화시스템",
-      "4": "원격의료시스템"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -3043,23 +2975,6 @@
     ]
   },
   {
-    "id": 180,
-    "date": "20090830",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 7,
-    "question": "다음 ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "심장근",
-      "2": "평활근",
-      "3": "골격근",
-      "4": "가로무늬근"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 181,
     "date": "20090830",
     "subject": 1,
@@ -3669,23 +3584,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 217,
-    "date": "20090830",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 51,
-    "question": "다음( )안에 알맞은 것은?",
-    "choices": {
-      "1": "5",
-      "2": "7",
-      "3": "10",
-      "4": "20"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -5202,23 +5100,6 @@
     ]
   },
   {
-    "id": 307,
-    "date": "20100509",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 52,
-    "question": "다음 설명의 ( )에 들어갈 용어가 아닌 것은?",
-    "choices": {
-      "1": "제조국",
-      "2": "제품가격",
-      "3": "제조사",
-      "4": "품목명"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 308,
     "date": "20100509",
     "subject": 3,
@@ -6596,23 +6477,6 @@
     ]
   },
   {
-    "id": 389,
-    "date": "20111002",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 46,
-    "question": "다음은 특정고압가스 사용신고를 하여야 하는 경우이다. ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "50킬로그램",
-      "2": "100킬로그램",
-      "3": "150킬로그램",
-      "4": "250킬로그램"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 390,
     "date": "20111002",
     "subject": 3,
@@ -6746,23 +6610,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 398,
-    "date": "20111002",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 56,
-    "question": "다음 ( ) 안에 알맞은 것은?",
-    "choices": {
-      "1": "병원정보시스템",
-      "2": "전문가시스템",
-      "3": "사무자동화시스템",
-      "4": "원격의료시스템"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -9605,23 +9452,6 @@
     ]
   },
   {
-    "id": 566,
-    "date": "20140920",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 48,
-    "question": "다음 ()안에 알맞은 것은?",
-    "choices": {
-      "1": "5",
-      "2": "7",
-      "3": "10",
-      "4": "20"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 567,
     "date": "20140920",
     "subject": 3,
@@ -10999,23 +10829,6 @@
     ]
   },
   {
-    "id": 648,
-    "date": "20150919",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 41,
-    "question": "( )안에 들어갈 말로 옳지 않은 것은?",
-    "choices": {
-      "1": "장치",
-      "2": "제조공정",
-      "3": "원자재",
-      "4": "품질관리체계"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 649,
     "date": "20150919",
     "subject": 3,
@@ -11115,23 +10928,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 655,
-    "date": "20150919",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 49,
-    "question": "다음 설명의 ( )에 들어갈 용어가 아닌 것은?",
-    "choices": {
-      "1": "제조국",
-      "2": "제품가격",
-      "3": "제조사",
-      "4": "품목명"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -12070,23 +11866,6 @@
     ]
   },
   {
-    "id": 711,
-    "date": "20161001",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 9,
-    "question": "다음 ()안에 공통으로 들어갈 내용은?",
-    "choices": {
-      "1": "축색돌기",
-      "2": "시냅스",
-      "3": "뉴런",
-      "4": "수상돌기"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 712,
     "date": "20161001",
     "subject": 1,
@@ -12169,23 +11948,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 717,
-    "date": "20161001",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 15,
-    "question": "다음 ()안에 들어갈 알맞은 것은?",
-    "choices": {
-      "1": "적응조절",
-      "2": "음성되먹이기",
-      "3": "양성되먹이기",
-      "4": "순응조절"
-    },
-    "answers": [
-      2
     ]
   },
   {
@@ -12305,23 +12067,6 @@
     },
     "answers": [
       4
-    ]
-  },
-  {
-    "id": 725,
-    "date": "20161001",
-    "subject": 2,
-    "subject_name": "의용전자공학",
-    "question_no": 24,
-    "question": "다음()안에 알맞은 용어는?",
-    "choices": {
-      "1": "전류",
-      "2": "저주파",
-      "3": "전압",
-      "4": "공기"
-    },
-    "answers": [
-      1
     ]
   },
   {
@@ -13787,23 +13532,6 @@
     ]
   },
   {
-    "id": 812,
-    "date": "20170305",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 20,
-    "question": "다음 ( ) 안에 공통으로 들어갈 내용은?",
-    "choices": {
-      "1": "분극(polarization)]",
-      "2": "오프셋 전위(offset potential)",
-      "3": "변위 전류(displacement Current)",
-      "4": "과 전위(over potential)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 813,
     "date": "20170305",
     "subject": 2,
@@ -14274,23 +14002,6 @@
       "2": "CE 마크",
       "3": "ISO 마크",
       "4": "EMI 마크"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
-    "id": 841,
-    "date": "20170305",
-    "subject": 3,
-    "subject_name": "의료안전ㆍ법규 및 정보",
-    "question_no": 56,
-    "question": "다음 ()안에 알맞은 말은?",
-    "choices": {
-      "1": "임상시험계획서",
-      "2": "임상시험심사의뢰서",
-      "3": "임상시험예정신청서",
-      "4": "임상시험실시기관 지정신청서"
     },
     "answers": [
       1
@@ -15008,40 +14719,6 @@
     },
     "answers": [
       3
-    ]
-  },
-  {
-    "id": 884,
-    "date": "20170923",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 5,
-    "question": "다음 ()안에 알맞은 것은?",
-    "choices": {
-      "1": "근전도(electromyogram, EMG)",
-      "2": "유발전위(evoked potential, EP)",
-      "3": "심전도(electrocardiogram, ECG)",
-      "4": "뇌전도(electroencephalogram, EEG)"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
-    "id": 885,
-    "date": "20170923",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 6,
-    "question": "다음 ()안에 들어갈 알맞은 전극은?",
-    "choices": {
-      "1": "금속플레이트 전극(Metal-plate electrode)",
-      "2": "접시 전극(Metal-disk electrode)",
-      "3": "흡반(흡입) 전극(Suction electrode)",
-      "4": "부유 전극(Floating electrode)"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -17966,23 +17643,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 1058,
-    "date": "20190921",
-    "subject": 1,
-    "subject_name": "기초의학 및 의공학",
-    "question_no": 7,
-    "question": "다음 ( )안에 알맞은 말은?",
-    "choices": {
-      "1": "근전도(electromyogram, EMG)",
-      "2": "심전도(electrocardiogram, ECG)",
-      "3": "유발전위(Eevoked Potential, EP)",
-      "4": "뇌전도(electroencephalogram, EEG)"
-    },
-    "answers": [
-      4
     ]
   },
   {

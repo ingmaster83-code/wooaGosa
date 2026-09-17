@@ -17004,23 +17004,6 @@
     ]
   },
   {
-    "id": 1002,
-    "date": "20140525",
-    "subject": 1,
-    "subject_name": "실험계획법",
-    "question_no": 13,
-    "question": "반복 없는 2원 배치의 분산분석표에서 ( ) 안에 들어갈 식 은?",
-    "choices": {
-      "1": "σ 2 + 2σ 2",
-      "2": "σ 2 + 3σ 2 E B E B",
-      "3": "σ 2 + 4σ 2",
-      "4": "σ 2 + 5σ 2 E B E B"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 1003,
     "date": "20140525",
     "subject": 1,
@@ -17389,23 +17372,6 @@
       "2": "k = k 일 것 A B",
       "3": "에 차이가 거의 없을 것",
       "4": "n A = n B 일 것"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
-    "id": 1025,
-    "date": "20140525",
-    "subject": 3,
-    "subject_name": "생산시스템",
-    "question_no": 41,
-    "question": "( ) 안에 알맞은 단어를 순서대로 나열한 것은?",
-    "choices": {
-      "1": "Cost, Time",
-      "2": "Time, Cost",
-      "3": "Cost, Service",
-      "4": "Time, Service"
     },
     "answers": [
       2
@@ -27782,23 +27748,6 @@
     ]
   },
   {
-    "id": 1637,
-    "date": "20161001",
-    "subject": 5,
-    "subject_name": "품질경영",
-    "question_no": 91,
-    "question": "다음의 내용 중 ( )에 들어갈 내용을 순서대로 나열한 것 은?",
-    "choices": {
-      "1": "QC, QA",
-      "2": "PL, PLD",
-      "3": "PL, PLP",
-      "4": "PLD, PLP"
-    },
-    "answers": [
-      3
-    ]
-  },
-  {
     "id": 1638,
     "date": "20161001",
     "subject": 5,
@@ -32712,23 +32661,6 @@
     ]
   },
   {
-    "id": 1927,
-    "date": "20180304",
-    "subject": 3,
-    "subject_name": "생산시스템",
-    "question_no": 55,
-    "question": "다음 ( )안에 알맞은 용어는?",
-    "choices": {
-      "1": "GT",
-      "2": "FMS",
-      "3": "SLP",
-      "4": "QFD"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 1928,
     "date": "20180304",
     "subject": 3,
@@ -33457,23 +33389,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 1971,
-    "date": "20180428",
-    "subject": 1,
-    "subject_name": "실험계획법",
-    "question_no": 15,
-    "question": "반복이 없는 2요인실험(모수모형)의 분산분석표에서 ( )에 들어갈 식은?",
-    "choices": {
-      "1": "σ 2+2σ2",
-      "2": "σ 2+3σ2 e B e B",
-      "3": "σ 2+4σ2",
-      "4": "σ2 +5σ2 e B e B"
-    },
-    "answers": [
-      4
     ]
   },
   {
@@ -42960,23 +42875,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 2530,
-    "date": "20200822",
-    "subject": 5,
-    "subject_name": "품질경영",
-    "question_no": 93,
-    "question": "다음 내용 중 ( )에 들어갈 내용을 순서대로 나열한 것은?",
-    "choices": {
-      "1": "QC, QA",
-      "2": "PL, PLP",
-      "3": "PL, PLD",
-      "4": "PLD, PLP"
-    },
-    "answers": [
-      2
     ]
   },
   {

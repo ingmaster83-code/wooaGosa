@@ -34850,23 +34850,6 @@
     ]
   },
   {
-    "id": 2076,
-    "date": "20050904",
-    "subject": 2,
-    "subject_name": "전자 계산기 구조",
-    "question_no": 30,
-    "question": "다음()안에 들어갈 올바른 것은?",
-    "choices": {
-      "1": "지연 시간",
-      "2": "설정 시간",
-      "3": "구조",
-      "4": "속도"
-    },
-    "answers": [
-      4
-    ]
-  },
-  {
     "id": 2077,
     "date": "20050904",
     "subject": 2,
@@ -48025,23 +48008,6 @@
     ]
   },
   {
-    "id": 2868,
-    "date": "20080907",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 12,
-    "question": "다음 영문의 ()안에 적합한 단어는?",
-    "choices": {
-      "1": "stack",
-      "2": "queue",
-      "3": "graph",
-      "4": "tree"
-    },
-    "answers": [
-      2
-    ]
-  },
-  {
     "id": 2869,
     "date": "20080907",
     "subject": 1,
@@ -56438,23 +56404,6 @@
     },
     "answers": [
       2
-    ]
-  },
-  {
-    "id": 3391,
-    "date": "20100905",
-    "subject": 1,
-    "subject_name": "데이터 베이스",
-    "question_no": 3,
-    "question": "다음 영문의 ()에 가장 적합한 용어는?",
-    "choices": {
-      "1": "Sorting",
-      "2": "Stacking",
-      "3": "Merging",
-      "4": "Queueing"
-    },
-    "answers": [
-      3
     ]
   },
   {

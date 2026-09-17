@@ -2431,23 +2431,6 @@
     ]
   },
   {
-    "id": 144,
-    "date": "20090329",
-    "subject": 3,
-    "subject_name": "화장품학",
-    "question_no": 39,
-    "question": "갈바닉 전류 중 음극(-)을 이용한 것으로 제품을 피부 으로 스며들게 하기 위해 사용하는 것은?",
-    "choices": {
-      "1": "아나포레시스(anaphoresis)",
-      "2": "에피더마브레이션(epidermabrassion)",
-      "3": "카다포레시스(cataphoresis)",
-      "4": "전기 마스크(electronis mask)"
-    },
-    "answers": [
-      1
-    ]
-  },
-  {
     "id": 145,
     "date": "20090329",
     "subject": 3,
@@ -2717,23 +2700,6 @@
     },
     "answers": [
       1
-    ]
-  },
-  {
-    "id": 161,
-    "date": "20090329",
-    "subject": 5,
-    "subject_name": "공중위생학",
-    "question_no": 58,
-    "question": "공중위생관리법상() 속에 가장 적합한 것은?",
-    "choices": {
-      "1": "위생",
-      "2": "위생관리",
-      "3": "위생과 소독",
-      "4": "위생과 청결"
-    },
-    "answers": [
-      2
     ]
   },
   {
