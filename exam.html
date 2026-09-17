@@ -183,6 +183,15 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
 <script src="js/db.js"></script>
 <script src="js/exam.js"></script>
 <footer class="footer"></footer>
+<script>
+  // 모바일에서는 사이드바 광고가 문서 맨 아래로 밀려 거의 안 보여서(RPM 저하 원인),
+  // 여기서 없애고 exam.js가 "다음 문제" 버튼 위에 같은 슬롯을 대신 렌더한다.
+  // 이 엘리먼트가 없으면 wooa-sidebar.js는 아무것도 안 함(children.length 체크라 안전).
+  if (window.innerWidth <= 1024) {
+    var _sb = document.querySelector('.tool-sidebar');
+    if (_sb) _sb.remove();
+  }
+</script>
 <script src="js/wooa-sidebar.js"></script>
 <script src="js/wooa-footer.js"></script>
 <script>

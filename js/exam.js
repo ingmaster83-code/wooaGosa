@@ -208,7 +208,10 @@ let userAnswers   = [];   // 사용자 답 [{selected:[], correct:bool}]
 let timerHandle   = null;
 let secondsLeft   = 0;
 let examStarted   = false;
-let feedbackShownFor = -1;  // 정답 확인 애니메이션을 이미 보여준 문제 인덱스(◀이전으로 재방문 시 중복 방지)
+let justSubmitted = false;  // 이번 페이지 로드에서 방금 submitAnswer()가 실행됐는지.
+  // 문제마다 실제 새 페이지 이동(q=N)이라 인덱스 기억 방식(feedbackShownFor)으로는
+  // "방금 제출" vs "이미 답변된 문제를 ◀이전으로 재방문"을 구분 못 함 - 항상 매 페이지
+  // 로드 시 초기화되는 이 값만 봐야 재방문 시 중복 노출(광고 재요청 포함)을 막을 수 있음.
 
 /* ── 구간 나누기 (진행 페이싱 + 광고 1개) ─────────────────
  * 5문제마다 "구간 완료" 카드를 보여주고(점수 + 본문 광고 1개), 사용자가 버튼을 누르면
@@ -625,8 +628,9 @@ function renderQuestion() {
   // 짧게(1.5초) 비활성화한다 - 억지로 기다리게 하는 게 아니라 방금 로드된 광고가 화면에
   // 유효노출될 최소 시간을 벌어주는 자연스러운 전환 연출. 해설을 읽는 사람은 어차피 그보다
   // 오래 머무르므로 체감상 거의 안 느껴짐. ◀이전으로 재방문한 경우엔 다시 안 보여줌.
-  const isFreshSubmit = ua.submitted && feedbackShownFor !== current;
-  if (isFreshSubmit) feedbackShownFor = current;
+  const isFreshSubmit = ua.submitted && justSubmitted;
+  justSubmitted = false;
+  const isMobileAdLayout = window.innerWidth <= 1024;
 
   if (!ua.submitted) {
     html += `<div class="exam-nav">
@@ -642,6 +646,21 @@ function renderQuestion() {
         <div class="answer-feedback ${ua.correct ? 'is-correct' : 'is-wrong'}" id="answer-feedback">
           ${ua.correct ? '⭐ 정답입니다!' : '😅 아쉬워요, 오답이에요'}
         </div>`;
+      // 모바일에서는 사이드바가 문서 맨 아래로 밀려서 광고 뷰어러블 노출이 거의 안 되므로
+      // (사이드바는 remove()로 제거함, exam.html 참고) 같은 광고 슬롯을 "다음 문제" 버튼
+      // 바로 위, 방금 제출한 직후 딱 한 번만 렌더 - isFreshSubmit(=justSubmitted) 가드가
+      // 있어 ◀이전 재방문 시엔 다시 안 뜨고, 문제당 광고 요청도 1회로 유지됨.
+      if (isMobileAdLayout) {
+        html += `
+          <div class="content-ad" id="mobile-inline-ad">
+            <ins class="adsbygoogle"
+                 style="display:block;width:100%"
+                 data-ad-client="ca-pub-6464921081676309"
+                 data-ad-slot="1419180025"
+                 data-ad-format="auto"
+                 data-full-width-responsive="true"></ins>
+          </div>`;
+      }
     }
     html += `<div class="exam-nav">
       <button class="btn btn-secondary" onclick="navigate(-1)" ${current === 0 ? 'disabled' : ''}>◀ 이전</button>
@@ -658,6 +677,10 @@ function renderQuestion() {
       if (btnNext) btnNext.disabled = false;
       if (badge) badge.classList.add('fade-out');
     }, 1500);
+
+    if (isMobileAdLayout) {
+      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
+    }
   }
 }
 
@@ -718,6 +741,7 @@ function submitAnswer() {
   }
   const q = examQuestions[current];
   ua.submitted = true;
+  justSubmitted = true;
 
   // 정답 판정 (선택한 것이 정답 세트와 같아야 함)
   const sortedSelected = [...ua.selected].sort();
