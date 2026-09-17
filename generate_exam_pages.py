@@ -1882,6 +1882,761 @@ EXAMS = [
       ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
     ],
   },
+  # ── 검정고시 (초졸/중졸/고졸, 과목별) ───────────────────
+  {
+    "file":     "exam-geomjeong_cho_gugeo.html",
+    "type":     "geomjeong_cho_gugeo",
+    "label":    "초졸 국어",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 국어 무료 모의고사 – 기출 151문제",
+    "desc":     "초졸 검정고시 국어 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 151문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 국어 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_gugeo.html",
+    "badges":   ["🎒 초졸", "📚 국어", "📋 기출 151문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 국어 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>151문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 국어는 몇 문항인가요?", "기출 151문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_sahoe.html",
+    "type":     "geomjeong_cho_sahoe",
+    "label":    "초졸 사회",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 사회 무료 모의고사 – 기출 225문제",
+    "desc":     "초졸 검정고시 사회 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 225문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 사회 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_sahoe.html",
+    "badges":   ["🎒 초졸", "📚 사회", "📋 기출 225문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 사회 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>225문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 사회는 몇 문항인가요?", "기출 225문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_gwahak.html",
+    "type":     "geomjeong_cho_gwahak",
+    "label":    "초졸 과학",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 과학 무료 모의고사 – 기출 148문제",
+    "desc":     "초졸 검정고시 과학 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 148문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 과학 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_gwahak.html",
+    "badges":   ["🎒 초졸", "📚 과학", "📋 기출 148문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 과학 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>148문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 과학은 몇 문항인가요?", "기출 148문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_dodeok.html",
+    "type":     "geomjeong_cho_dodeok",
+    "label":    "초졸 도덕",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 도덕 무료 모의고사 – 기출 204문제",
+    "desc":     "초졸 검정고시 도덕 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 204문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 도덕 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_dodeok.html",
+    "badges":   ["🎒 초졸", "📚 도덕", "📋 기출 204문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 도덕 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>204문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 도덕은 몇 문항인가요?", "기출 204문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_silgwa.html",
+    "type":     "geomjeong_cho_silgwa",
+    "label":    "초졸 실과",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 실과 무료 모의고사 – 기출 213문제",
+    "desc":     "초졸 검정고시 실과 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 213문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 실과 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_silgwa.html",
+    "badges":   ["🎒 초졸", "📚 실과", "📋 기출 213문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 실과 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>213문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 실과는 몇 문항인가요?", "기출 213문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_yeongeo.html",
+    "type":     "geomjeong_cho_yeongeo",
+    "label":    "초졸 영어",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 영어 무료 모의고사 – 기출 202문제",
+    "desc":     "초졸 검정고시 영어 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 202문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 영어 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_yeongeo.html",
+    "badges":   ["🎒 초졸", "📚 영어", "📋 기출 202문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 영어 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>202문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 영어는 몇 문항인가요?", "기출 202문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_eumak.html",
+    "type":     "geomjeong_cho_eumak",
+    "label":    "초졸 음악",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 음악 무료 모의고사 – 기출 82문제",
+    "desc":     "초졸 검정고시 음악 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 82문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 음악 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_eumak.html",
+    "badges":   ["🎒 초졸", "📚 음악", "📋 기출 82문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 음악 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>82문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 음악은 몇 문항인가요?", "기출 82문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_misul.html",
+    "type":     "geomjeong_cho_misul",
+    "label":    "초졸 미술",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 미술 무료 모의고사 – 기출 158문제",
+    "desc":     "초졸 검정고시 미술 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 158문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 미술 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_misul.html",
+    "badges":   ["🎒 초졸", "📚 미술", "📋 기출 158문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 미술 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>158문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 미술은 몇 문항인가요?", "기출 158문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_cho_cheyuk.html",
+    "type":     "geomjeong_cho_cheyuk",
+    "label":    "초졸 체육",
+    "count":    60,
+    "icon":     "🎒",
+    "title":    "초졸 검정고시 체육 무료 모의고사 – 기출 182문제",
+    "desc":     "초졸 검정고시 체육 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 182문제 기반, 오답노트 제공.",
+    "h1":       "초졸 검정고시 체육 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_cho_cheyuk.html",
+    "badges":   ["🎒 초졸", "📚 체육", "📋 기출 182문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>초졸 검정고시 체육 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>초등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>182문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("초졸 검정고시 체육은 몇 문항인가요?", "기출 182문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_gugeo.html",
+    "type":     "geomjeong_jung_gugeo",
+    "label":    "중졸 국어",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 국어 무료 모의고사 – 기출 199문제",
+    "desc":     "중졸 검정고시 국어 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 199문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 국어 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_gugeo.html",
+    "badges":   ["📘 중졸", "📚 국어", "📋 기출 199문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 국어 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>199문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 국어는 몇 문항인가요?", "기출 199문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_sahoe.html",
+    "type":     "geomjeong_jung_sahoe",
+    "label":    "중졸 사회",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 사회 무료 모의고사 – 기출 225문제",
+    "desc":     "중졸 검정고시 사회 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 225문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 사회 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_sahoe.html",
+    "badges":   ["📘 중졸", "📚 사회", "📋 기출 225문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 사회 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>225문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 사회는 몇 문항인가요?", "기출 225문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_gwahak.html",
+    "type":     "geomjeong_jung_gwahak",
+    "label":    "중졸 과학",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 과학 무료 모의고사 – 기출 138문제",
+    "desc":     "중졸 검정고시 과학 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 138문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 과학 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_gwahak.html",
+    "badges":   ["📘 중졸", "📚 과학", "📋 기출 138문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 과학 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>138문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 과학은 몇 문항인가요?", "기출 138문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_dodeok.html",
+    "type":     "geomjeong_jung_dodeok",
+    "label":    "중졸 도덕",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 도덕 무료 모의고사 – 기출 247문제",
+    "desc":     "중졸 검정고시 도덕 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 247문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 도덕 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_dodeok.html",
+    "badges":   ["📘 중졸", "📚 도덕", "📋 기출 247문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 도덕 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>247문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 도덕은 몇 문항인가요?", "기출 247문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_gisulgajeong.html",
+    "type":     "geomjeong_jung_gisulgajeong",
+    "label":    "중졸 기술·가정",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 기술·가정 무료 모의고사 – 기출 277문제",
+    "desc":     "중졸 검정고시 기술·가정 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 277문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 기술·가정 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_gisulgajeong.html",
+    "badges":   ["📘 중졸", "📚 기술·가정", "📋 기출 277문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 기술·가정 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>277문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 기술·가정은 몇 문항인가요?", "기출 277문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_jeongbo.html",
+    "type":     "geomjeong_jung_jeongbo",
+    "label":    "중졸 정보",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 정보 무료 모의고사 – 기출 107문제",
+    "desc":     "중졸 검정고시 정보 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 107문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 정보 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_jeongbo.html",
+    "badges":   ["📘 중졸", "📚 정보", "📋 기출 107문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 정보 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>107문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 정보는 몇 문항인가요?", "기출 107문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_yeongeo.html",
+    "type":     "geomjeong_jung_yeongeo",
+    "label":    "중졸 영어",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 영어 무료 모의고사 – 기출 322문제",
+    "desc":     "중졸 검정고시 영어 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 322문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 영어 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_yeongeo.html",
+    "badges":   ["📘 중졸", "📚 영어", "📋 기출 322문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 영어 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>322문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 영어는 몇 문항인가요?", "기출 322문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_eumak.html",
+    "type":     "geomjeong_jung_eumak",
+    "label":    "중졸 음악",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 음악 무료 모의고사 – 기출 192문제",
+    "desc":     "중졸 검정고시 음악 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 192문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 음악 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_eumak.html",
+    "badges":   ["📘 중졸", "📚 음악", "📋 기출 192문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 음악 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>192문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 음악은 몇 문항인가요?", "기출 192문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_misul.html",
+    "type":     "geomjeong_jung_misul",
+    "label":    "중졸 미술",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 미술 무료 모의고사 – 기출 276문제",
+    "desc":     "중졸 검정고시 미술 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 276문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 미술 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_misul.html",
+    "badges":   ["📘 중졸", "📚 미술", "📋 기출 276문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 미술 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>276문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 미술은 몇 문항인가요?", "기출 276문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_jung_cheyuk.html",
+    "type":     "geomjeong_jung_cheyuk",
+    "label":    "중졸 체육",
+    "count":    60,
+    "icon":     "📘",
+    "title":    "중졸 검정고시 체육 무료 모의고사 – 기출 286문제",
+    "desc":     "중졸 검정고시 체육 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 286문제 기반, 오답노트 제공.",
+    "h1":       "중졸 검정고시 체육 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_jung_cheyuk.html",
+    "badges":   ["📘 중졸", "📚 체육", "📋 기출 286문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>중졸 검정고시 체육 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>중학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>286문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("중졸 검정고시 체육은 몇 문항인가요?", "기출 286문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_gugeo.html",
+    "type":     "geomjeong_go_gugeo",
+    "label":    "고졸 국어",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 국어 무료 모의고사 – 기출 199문제",
+    "desc":     "고졸 검정고시 국어 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 199문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 국어 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_gugeo.html",
+    "badges":   ["🎓 고졸", "📚 국어", "📋 기출 199문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 국어 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>199문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 국어는 몇 문항인가요?", "기출 199문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_sahoe.html",
+    "type":     "geomjeong_go_sahoe",
+    "label":    "고졸 사회",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 사회 무료 모의고사 – 기출 235문제",
+    "desc":     "고졸 검정고시 사회 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 235문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 사회 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_sahoe.html",
+    "badges":   ["🎓 고졸", "📚 사회", "📋 기출 235문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 사회 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>235문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 사회는 몇 문항인가요?", "기출 235문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_hanguksa.html",
+    "type":     "geomjeong_go_hanguksa",
+    "label":    "고졸 한국사",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 한국사 무료 모의고사 – 기출 180문제",
+    "desc":     "고졸 검정고시 한국사 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 180문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 한국사 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_hanguksa.html",
+    "badges":   ["🎓 고졸", "📚 한국사", "📋 기출 180문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 한국사 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>180문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 한국사는 몇 문항인가요?", "기출 180문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_gwahak.html",
+    "type":     "geomjeong_go_gwahak",
+    "label":    "고졸 과학",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 과학 무료 모의고사 – 기출 146문제",
+    "desc":     "고졸 검정고시 과학 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 146문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 과학 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_gwahak.html",
+    "badges":   ["🎓 고졸", "📚 과학", "📋 기출 146문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 과학 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>146문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 과학은 몇 문항인가요?", "기출 146문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_dodeok.html",
+    "type":     "geomjeong_go_dodeok",
+    "label":    "고졸 도덕",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 도덕 무료 모의고사 – 기출 233문제",
+    "desc":     "고졸 검정고시 도덕 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 233문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 도덕 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_dodeok.html",
+    "badges":   ["🎓 고졸", "📚 도덕", "📋 기출 233문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 도덕 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>233문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 도덕은 몇 문항인가요?", "기출 233문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_gisulgajeong.html",
+    "type":     "geomjeong_go_gisulgajeong",
+    "label":    "고졸 기술·가정",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 기술·가정 무료 모의고사 – 기출 223문제",
+    "desc":     "고졸 검정고시 기술·가정 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 223문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 기술·가정 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_gisulgajeong.html",
+    "badges":   ["🎓 고졸", "📚 기술·가정", "📋 기출 223문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 기술·가정 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>223문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 기술·가정은 몇 문항인가요?", "기출 223문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_yeongeo.html",
+    "type":     "geomjeong_go_yeongeo",
+    "label":    "고졸 영어",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 영어 무료 모의고사 – 기출 268문제",
+    "desc":     "고졸 검정고시 영어 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 268문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 영어 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_yeongeo.html",
+    "badges":   ["🎓 고졸", "📚 영어", "📋 기출 268문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 영어 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>268문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 영어는 몇 문항인가요?", "기출 268문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_eumak.html",
+    "type":     "geomjeong_go_eumak",
+    "label":    "고졸 음악",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 음악 무료 모의고사 – 기출 189문제",
+    "desc":     "고졸 검정고시 음악 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 189문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 음악 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_eumak.html",
+    "badges":   ["🎓 고졸", "📚 음악", "📋 기출 189문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 음악 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>189문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 음악은 몇 문항인가요?", "기출 189문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_misul.html",
+    "type":     "geomjeong_go_misul",
+    "label":    "고졸 미술",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 미술 무료 모의고사 – 기출 234문제",
+    "desc":     "고졸 검정고시 미술 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 234문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 미술 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_misul.html",
+    "badges":   ["🎓 고졸", "📚 미술", "📋 기출 234문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 미술 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>234문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 미술은 몇 문항인가요?", "기출 234문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
+  {
+    "file":     "exam-geomjeong_go_cheyuk.html",
+    "type":     "geomjeong_go_cheyuk",
+    "label":    "고졸 체육",
+    "count":    60,
+    "icon":     "🎓",
+    "title":    "고졸 검정고시 체육 무료 모의고사 – 기출 236문제",
+    "desc":     "고졸 검정고시 체육 과목 무료 모의고사. 회원가입 없이 즉시 시작, 국가평생교육진흥원(gumsi.or.kr) 공식 기출문제 236문제 기반, 오답노트 제공.",
+    "h1":       "고졸 검정고시 체육 모의고사",
+    "canonical":"https://wooagosa.wooahouse.com/exam-geomjeong_go_cheyuk.html",
+    "badges":   ["🎓 고졸", "📚 체육", "📋 기출 236문제 중 60문항"],
+    "info": """<div class="exam-info-box">
+        <h2 class="section-title">시험 안내</h2>
+        <table class="info-table">
+          <tr><th>시험 유형</th><td>고졸 검정고시 체육 (4지선다)</td></tr>
+          <tr><th>학력 인정</th><td>고등학교졸업학력</td></tr>
+          <tr><th>기출 문제 수</th><td>236문제 (매 회 60문항 무작위 출제)</td></tr>
+          <tr><th>주관</th><td>국가평생교육진흥원</td></tr>
+        </table>
+      </div>""",
+    "faq": [
+      ("고졸 검정고시 체육은 몇 문항인가요?", "기출 236문제 중 매번 60문항이 무작위로 출제됩니다."),
+      ("이 모의고사만 풀면 검정고시에 합격할 수 있나요?", "실전 감각을 기르는 연습용 자료입니다. 최신 출제 경향과 배점은 국가평생교육진흥원(gumsi.or.kr) 공식 자료를 함께 확인해 주세요."),
+      ("오답 데이터는 어디에 저장되나요?", "모든 오답 데이터는 브라우저 로컬 스토리지에만 저장되며 서버로 전송되지 않습니다."),
+    ],
+  },
 ]
 
 # ── 신규 자격증 자동 추가 ────────────────────────────────
