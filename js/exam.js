@@ -278,6 +278,8 @@ window.addEventListener('DOMContentLoaded', async () => {
   const pageTitle = document.getElementById('exam-page-title');
   // '자격증'은 운전면허·한국사능력검정 등에는 부정확해서 범용적인 '시험'으로 표현
   if (pageTitle) pageTitle.textContent = `${typeLabel} 시험 대비 모의고사 문제`;
+  const breadcrumbCurrent = document.getElementById('exam-breadcrumb-current');
+  if (breadcrumbCurrent) breadcrumbCurrent.textContent = `${typeLabel} 모의고사`;
   // 로고 아이콘 업데이트
   const logoIcon = document.getElementById('logo-icon');
   if (logoIcon) {
@@ -418,6 +420,15 @@ function renderExamJsonLd(faqItems, qCount) {
         'name': q,
         'acceptedAnswer': { '@type': 'Answer', 'text': a },
       })),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      'itemListElement': [
+        { '@type': 'ListItem', 'position': 1, 'name': '홈', 'item': 'https://wooagosa.wooahouse.com/' },
+        { '@type': 'ListItem', 'position': 2, 'name': '자격증·면허 모의고사', 'item': 'https://wooagosa.wooahouse.com/index.html' },
+        { '@type': 'ListItem', 'position': 3, 'name': `${typeLabel} 모의고사` },
+      ],
     },
   ];
   el.textContent = JSON.stringify(data);

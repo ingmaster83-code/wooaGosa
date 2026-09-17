@@ -1830,13 +1830,30 @@ def jsonld_html(exam):
                 for q, a in exam["faq"]
             ],
         },
+        {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "홈", "item": "https://wooagosa.wooahouse.com/"},
+                {"@type": "ListItem", "position": 2, "name": "자격증·면허 모의고사", "item": "https://wooagosa.wooahouse.com/index.html"},
+                {"@type": "ListItem", "position": 3, "name": f'{exam["label"]} 모의고사', "item": exam["canonical"]},
+            ],
+        },
     ]
     return f'  <script type="application/ld+json">{json.dumps(data, ensure_ascii=False)}</script>'
+
+
+def keywords_meta(exam):
+    label = exam["label"]
+    kws = [label, f"{label} 자격증", f"{label} 모의고사", f"{label} 기출문제", "자격증 모의고사",
+           "무료 모의고사", "자격증 시험", "국가자격증"]
+    return '  <meta name="keywords" content="' + ", ".join(kws) + '">'
 
 def make_page(exam):
     badges_html = ' '.join(f'<span class="badge">{b}</span>' for b in exam["badges"])
     faq  = faq_html(exam["faq"])
     jsonld = jsonld_html(exam)
+    keywords = keywords_meta(exam)
     lnks = links_html(exam["type"])
     fname = exam["file"]
 
@@ -1850,6 +1867,7 @@ def make_page(exam):
   <link rel="icon" href="img/icon.svg" type="image/svg+xml">
   <title>{exam["title"]} – WooaGosa</title>
   <meta name="description" content="{exam["desc"]}">
+{keywords}
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="{exam["canonical"]}">
   <meta property="og:type" content="website">
@@ -1983,7 +2001,7 @@ def make_page(exam):
 {MOBILE_AD}
 
 <nav class="breadcrumb" aria-label="breadcrumb">
-  <a href="index.html">홈</a> &rsaquo; <span>{exam["h1"]}</span>
+  <a href="index.html">홈</a> &rsaquo; <a href="index.html">자격증·면허 모의고사</a> &rsaquo; <span>{exam["h1"]}</span>
 </nav>
 
   <div class="page-with-sidebar">
