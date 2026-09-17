@@ -77,6 +77,26 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
     @media (max-width: 1024px) {
       .tool-sidebar { display: block; position: static; }
     }
+
+    /* 정답 제출 직후 리워드 피드백 배지 */
+    .answer-feedback {
+      margin: .75rem 0 0;
+      padding: .7rem 1rem;
+      border-radius: 10px;
+      font-weight: 700;
+      font-size: 1.05rem;
+      text-align: center;
+      opacity: 1;
+      transition: opacity .4s ease;
+      animation: answerFeedbackPop .35s ease;
+    }
+    .answer-feedback.is-correct { background: #ECFDF5; color: #059669; border: 1px solid #A7F3D0; }
+    .answer-feedback.is-wrong { background: #FEF2F2; color: #DC2626; border: 1px solid #FECACA; }
+    .answer-feedback.fade-out { opacity: 0; }
+    @keyframes answerFeedbackPop {
+      0% { transform: scale(.9); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
   </style>
 </head>
 <body>

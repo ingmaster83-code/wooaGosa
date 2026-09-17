@@ -208,6 +208,7 @@ let userAnswers   = [];   // 사용자 답 [{selected:[], correct:bool}]
 let timerHandle   = null;
 let secondsLeft   = 0;
 let examStarted   = false;
+let feedbackShownFor = -1;  // 정답 확인 애니메이션을 이미 보여준 문제 인덱스(◀이전으로 재방문 시 중복 방지)
 
 /* ── 구간 나누기 (진행 페이싱 + 광고 1개) ─────────────────
  * 5문제마다 "구간 완료" 카드를 보여주고(점수 + 본문 광고 1개), 사용자가 버튼을 누르면
@@ -620,6 +621,13 @@ function renderQuestion() {
   html += `</div>`;  // question-card
 
   // 제출 버튼 / 다음 버튼
+  // 방금 막 제출한 직후(fresh submit)엔 정답 확인 애니메이션을 보여주면서 "다음" 버튼을
+  // 짧게(1.5초) 비활성화한다 - 억지로 기다리게 하는 게 아니라 방금 로드된 광고가 화면에
+  // 유효노출될 최소 시간을 벌어주는 자연스러운 전환 연출. 해설을 읽는 사람은 어차피 그보다
+  // 오래 머무르므로 체감상 거의 안 느껴짐. ◀이전으로 재방문한 경우엔 다시 안 보여줌.
+  const isFreshSubmit = ua.submitted && feedbackShownFor !== current;
+  if (isFreshSubmit) feedbackShownFor = current;
+
   if (!ua.submitted) {
     html += `<div class="exam-nav">
       <button class="btn btn-secondary" onclick="confirmQuit()">시험 종료</button>
@@ -627,16 +635,30 @@ function renderQuestion() {
     </div>`;
   } else {
     const isLast = current === examQuestions.length - 1;
+    const nextLabel = isLast ? '결과 보기 →' : '다음 문제 ▶';
+    const nextOnclick = isLast ? 'finishExam()' : 'navigate(1)';
+    if (isFreshSubmit) {
+      html += `
+        <div class="answer-feedback ${ua.correct ? 'is-correct' : 'is-wrong'}" id="answer-feedback">
+          ${ua.correct ? '⭐ 정답입니다!' : '😅 아쉬워요, 오답이에요'}
+        </div>`;
+    }
     html += `<div class="exam-nav">
       <button class="btn btn-secondary" onclick="navigate(-1)" ${current === 0 ? 'disabled' : ''}>◀ 이전</button>
-      ${isLast
-        ? `<button class="btn btn-primary btn-lg" onclick="finishExam()">결과 보기 →</button>`
-        : `<button class="btn btn-primary btn-lg" onclick="navigate(1)">다음 문제 ▶</button>`
-      }
+      <button class="btn btn-primary btn-lg" id="btn-next" onclick="${nextOnclick}" ${isFreshSubmit ? 'disabled' : ''}>${nextLabel}</button>
     </div>`;
   }
 
   elQuestion.innerHTML = html;
+
+  if (isFreshSubmit) {
+    const btnNext = document.getElementById('btn-next');
+    const badge = document.getElementById('answer-feedback');
+    setTimeout(() => {
+      if (btnNext) btnNext.disabled = false;
+      if (badge) badge.classList.add('fade-out');
+    }, 1500);
+  }
 }
 
 /* ── 구간 완료 화면 (SEGMENTED 전용) ─────────────── */
