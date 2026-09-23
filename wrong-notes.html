@@ -20,7 +20,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css?v=3">
+  <link rel="stylesheet" href="css/style.css?v=4">
   <!-- AdSense -->
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6464921081676309" crossorigin="anonymous"></script>
   <script async src="https://fundingchoicesmessages.google.com/i/pub-6464921081676309?ers=1"></script><script>(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
@@ -662,31 +662,12 @@ window.__h82AlnkH6D91__("WyJwdWItNjQ2NDkyMTA4MTY3NjMwOSIsW251bGwsbnVsbCxudWxsLCJ
     }
 
     let html = '';
-    let rendered = 0;
     for (const item of items) {
       const q = (allData[item.file] || {})[item.qId];
       if (!q) continue;
-      if (rendered > 0 && rendered % 5 === 0) {
-        html += `<div class="mobile-inline-ad ad-slot-mid"></div>`;
-      }
       html += renderWrongCard(q, item);
-      rendered++;
     }
     container.innerHTML = html;
-
-    // 모바일 인라인 광고 초기화 (5문제마다, 인피드 슬롯 3개 순환)
-    const INFEED_AD_SLOTS = ['9476474263', '4966383618', '4224147589'];
-    container.querySelectorAll('.ad-slot-mid').forEach((el, idx) => {
-      const ins = document.createElement('ins');
-      ins.className = 'adsbygoogle';
-      ins.style.display = 'block';
-      ins.setAttribute('data-ad-client', 'ca-pub-6464921081676309');
-      ins.setAttribute('data-ad-slot', INFEED_AD_SLOTS[idx % INFEED_AD_SLOTS.length]);
-      ins.setAttribute('data-ad-format', 'fluid');
-      ins.setAttribute('data-ad-layout-key', '-6t+ed+2i-1n-4w');
-      el.appendChild(ins);
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    });
   }
 
   function renderWrongCard(q, item) {

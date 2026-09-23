@@ -630,7 +630,6 @@ function renderQuestion() {
   // 오래 머무르므로 체감상 거의 안 느껴짐. ◀이전으로 재방문한 경우엔 다시 안 보여줌.
   const isFreshSubmit = ua.submitted && justSubmitted;
   justSubmitted = false;
-  const isMobileAdLayout = window.innerWidth <= 1024;
 
   if (!ua.submitted) {
     html += `<div class="exam-nav">
@@ -646,21 +645,6 @@ function renderQuestion() {
         <div class="answer-feedback ${ua.correct ? 'is-correct' : 'is-wrong'}" id="answer-feedback">
           ${ua.correct ? '⭐ 정답입니다!' : '😅 아쉬워요, 오답이에요'}
         </div>`;
-      // 모바일에서는 사이드바가 문서 맨 아래로 밀려서 광고 뷰어러블 노출이 거의 안 되므로
-      // (사이드바는 remove()로 제거함, exam.html 참고) 같은 광고 슬롯을 "다음 문제" 버튼
-      // 바로 위, 방금 제출한 직후 딱 한 번만 렌더 - isFreshSubmit(=justSubmitted) 가드가
-      // 있어 ◀이전 재방문 시엔 다시 안 뜨고, 문제당 광고 요청도 1회로 유지됨.
-      if (isMobileAdLayout) {
-        html += `
-          <div class="content-ad" id="mobile-inline-ad">
-            <ins class="adsbygoogle"
-                 style="display:block;width:100%"
-                 data-ad-client="ca-pub-6464921081676309"
-                 data-ad-slot="1419180025"
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
-          </div>`;
-      }
     }
     html += `<div class="exam-nav">
       <button class="btn btn-secondary" onclick="navigate(-1)" ${current === 0 ? 'disabled' : ''}>◀ 이전</button>
@@ -677,10 +661,6 @@ function renderQuestion() {
       if (btnNext) btnNext.disabled = false;
       if (badge) badge.classList.add('fade-out');
     }, 1500);
-
-    if (isMobileAdLayout) {
-      try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {}
-    }
   }
 }
 
@@ -695,17 +675,8 @@ function renderSegmentBreak() {
       <div style="font-size:2.2rem;margin-bottom:.5rem;">✅</div>
       <h3 style="margin:0 0 .5rem;">${segStart + 1}~${current + 1}번 완료!</h3>
       <p style="color:var(--text-mid);margin:0 0 1.5rem;">이번 구간 정답 ${correctCount} / ${SEGMENT_SIZE}</p>
-      <div class="segment-break-ad">
-        <ins class="adsbygoogle"
-             style="display:block"
-             data-ad-client="ca-pub-6464921081676309"
-             data-ad-slot="6255378195"
-             data-ad-format="auto"
-             data-full-width-responsive="true"></ins>
-      </div>
       <button class="btn btn-primary btn-lg" onclick="goToNextSegment()">다음 ${SEGMENT_SIZE}문제 이어풀기 →</button>
     </div>`;
-  (window.adsbygoogle = window.adsbygoogle || []).push({});
 }
 
 function goToNextSegment() {

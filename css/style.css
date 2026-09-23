@@ -723,23 +723,16 @@ main { flex: 1; }
   overflow: hidden;
 }
 .ad-card + .ad-card { margin-top: 16px; }
+/* 2026-09: 구글 자동광고 도입에 맞춰 수동 광고를 데스크탑=상단+사이드 2개,
+   모바일=상단 1개로 통일 (auto ads와 중첩으로 인한 광고과다 이탈 방지) */
 .mobile-top-ad {
-  display: none;
+  display: block;
   padding: 8px 16px;
   background: var(--card-bg);
   border-bottom: 1px solid var(--border);
   text-align: center;
 }
-.mobile-inline-ad {
-  display: none;
-  margin: 1.25rem 0;
-  text-align: center;
-  background: var(--card-bg);
-  border-radius: var(--radius-sm);
-  padding: 8px;
-  min-height: 100px;
-}
-/* 콘텐츠 안 광고: 데스크탑·모바일 둘 다 항상 보임 (사이드바와 별개로 본문 흐름에 낌) */
+/* 콘텐츠 안 광고(쿠팡 등 수동 배치가 아닌 요소): 데스크탑·모바일 둘 다 항상 보임 */
 .content-ad {
   margin: 1.5rem 0;
   text-align: center;
@@ -750,14 +743,6 @@ main { flex: 1; }
   max-width: 100%;
   overflow-x: auto; /* 쿠팡 파트너스 캐러셀이 680px 고정폭이라, 없으면 모바일에서 전체 페이지 뷰포트가 늘어나 화면이 통째로 축소되어 보임 */
 }
-/* 구간 완료 화면 광고: 데스크탑에서도 사이드바(1419180025)와 겹치지 않게
-   다른 슬롯(6255378195)을 써서 데스크탑·모바일 둘 다 표시 */
-.segment-break-ad {
-  display: block;
-  margin: 0 0 1.5rem;
-  min-height: 100px;
-}
-
 /* ── Category Label ─────────────────────────────── */
 .category-label {
   display: flex;
@@ -786,9 +771,6 @@ main { flex: 1; }
     gap: 0;
   }
   .tool-sidebar { display: none; }
-  .mobile-top-ad { display: block; }
-  .mobile-inline-ad { display: block; }
-  .segment-break-ad { display: block; }
 }
 
 @media (max-width: 600px) {
